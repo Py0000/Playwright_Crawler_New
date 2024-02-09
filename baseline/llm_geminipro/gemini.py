@@ -7,7 +7,7 @@ import zipfile
 import google.generativeai as genai
 
 import PIL.Image
-from Baseline.utils import utils
+from baseline.utils import utils
 
 
 class GeminiProVisionBaseline:
