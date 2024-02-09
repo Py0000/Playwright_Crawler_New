@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import os
 
-from Analyzer.analysis.blank_page.blank_page_secondary_detector import CssBlankDetector
-from Analyzer.analysis.blank_page.image_analysis import BlankScreenshotDetector
-from Analyzer.utils import file_utils
+from analyzer.blank_page.blank_page_secondary_detector import CssBlankDetector
+from analyzer.blank_page.image_analysis import BlankScreenshotDetector
+from analyzer.utils import file_utils
 
 class BlankPageDetector:
     def __init__(self, main_folder_path, date):

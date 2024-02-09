@@ -1,7 +1,7 @@
 import argparse
 import os
 
-from Analyzer.utils import file_utils
+from analyzer.utils import file_utils
 
 class BlockedPageFilter:
     def __init__(self, main_folder_path):

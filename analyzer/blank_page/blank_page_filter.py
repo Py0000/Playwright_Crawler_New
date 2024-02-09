@@ -1,6 +1,6 @@
 import os
 
-from Analyzer.utils import file_utils
+from analyzer.utils import file_utils
 
 class BlankPageFilter:
     def __init__(self, main_folder_path, date):

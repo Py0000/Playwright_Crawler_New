@@ -7,8 +7,8 @@ import warnings
 import logging
 import re
 
-from Analyzer.analysis.blank_page import blank_page_util
-from Analyzer.utils import file_utils
+from analyzer.blank_page import blank_page_util
+from analyzer.utils import file_utils
 
 cssutils.log.setLevel(logging.CRITICAL)
 

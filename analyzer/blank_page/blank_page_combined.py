@@ -1,10 +1,10 @@
 import argparse
 import os
 
-from Analyzer.analysis.blank_page import blank_page_detector
-from Analyzer.analysis.blank_page import blank_page_filter
-from Analyzer.analysis.blank_page import blank_page_util
-from Analyzer.utils import file_utils
+from analyzer.blank_page import blank_page_detector
+from analyzer.blank_page import blank_page_filter
+from analyzer.blank_page import blank_page_util
+from analyzer.utils import file_utils
 
 class BlankPageHandler:
     def __init__(self, main_folder_path, date):
