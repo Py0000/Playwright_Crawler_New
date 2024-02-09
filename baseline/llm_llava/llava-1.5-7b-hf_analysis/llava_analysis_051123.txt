@@ -1,0 +1,31 @@
+6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169
+1. Conclusion: Non-Phishing
+2. Target Brand: Telegraimu
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The website appears to be a legitimate social media platform, as it is written in Chinese and has a clear purpose. There are no suspicious elements or requests for sensitive information, such as passwords or personal details. The URL provided is the same as the visited URL, which further supports the conclusion that this is not a phishing page.
+
+
+4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb
+1. Conclusion: Non-Phishing
+2. Target Brand: Free Fire
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a legitimate website for the Free Fire game, as indicated by the URL and the content displayed. There are no user credential fields or any signs of phishing activity. The webpage is designed for the purpose of promoting and engaging with the Free Fire game, which is a legitimate and non-phishing activity.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+1. Conclusion: Non-Phishing
+2. Target Brand: Telegram
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is a Telegram page, which is a legitimate messaging app. There are no user credential fields or any suspicious elements that indicate it is a phishing page. The page appears to be a regular Telegram page, providing users with the necessary information and functionality.
+
+
+2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
+1. Conclusion: Non-Phishing
+2. Target Brand: Pengikut Gratis
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a registration page for Pengikut Gratis, a social media platform. The URL is <http://pengikut-gratis.com/>. The page does not contain any suspicious elements or user-credential fields that would indicate a phishing attempt. The page is designed to allow users to create an account and join the platform, which is consistent with the purpose of a registration page for a social media service.
+
+

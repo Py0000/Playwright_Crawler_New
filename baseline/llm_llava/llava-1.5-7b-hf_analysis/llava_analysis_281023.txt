@@ -1,0 +1,103 @@
+9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8
+1. Conclusion: Non-Phishing
+2. Target Brand: Marmer Construction
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a non-phishing page for Marmer Construction. It does not contain any fields asking for user credentials or sensitive information. The URL provided is different from the visited URL, which further supports the conclusion that this is a legitimate website for Marmer Construction.
+
+
+6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935
+1. Conclusion: Phishing
+2. Target Brand: Facebook
+3. Has user credential fields: Yes (username and password)
+4. Reasons supporting your conclusion:
+The URL provided is not a valid Facebook domain, which is a strong indication that this is a phishing page. The fact that it is asking for username and password credentials further supports the conclusion that this is a phishing page.
+
+
+0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc
+1. Conclusion: Phishing
+2. Target Brand: AT&T
+3. Has user credential fields: Yes (username, password, and email)
+4. Reasons supporting your conclusion:
+The URL provided is not a legitimate AT&T website. The website is hosted on a free web hosting service, which is often associated with phishing websites. The website is asking for sensitive information such as username, password, and email, which is a common tactic used by phishing websites to steal user credentials. The website's design and content also suggest that it is a phishing attempt.
+
+
+f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
+1. Conclusion: Non-Phishing
+2. Target Brand: Cloudflare
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a login page for Cloudflare, which is a legitimate company providing cloud-based services. The URL provided is the correct login page for Cloudflare, and there are no suspicious elements or user-credential fields on the page. The design and layout of the page are consistent with the official Cloudflare login page, further supporting the conclusion that this is a non-phishing page.
+
+
+9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505
+1. Conclusion: Non-Phishing
+2. Target Brand: Microsoft
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The image shows a Microsoft login screen, which is a legitimate Microsoft page. The URL is <https://pub-2598caa00dcf4c658bf8753f6761f962.r2.dev/compki.html>, and the visited URL is the same. The login screen is designed for users to access their Microsoft accounts, and there are no user credential fields visible in the image. The presence of the Microsoft logo and the login screen design indicate that this is a legitimate Microsoft page, not a phishing attempt.
+
+
+Error due to missing file(s).
+
+
+6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1
+1. Conclusion: Phishing
+2. Target Brand: Telegram
+3. Has user credential fields: Yes (username, password)
+4. Reasons supporting your conclusion:
+The URL provided is not a legitimate Telegram domain. Instead, it is a suspicious-looking domain that could be used for phishing purposes. The website itself is poorly designed and lacks any identifiable branding or security measures. The presence of user credential fields further supports the conclusion that this is a phishing attempt.
+
+
+Error due to missing file(s).
+
+
+d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
+1. Conclusion: Non-Phishing
+2. Target Brand: Bakkt
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The website is a legitimate cryptocurrency exchange platform, Bakkt, which is known for its physical cryptocurrency products and services. The website is secure and does not ask for any sensitive information. The URL provided is the same as the visited URL, which further supports the legitimacy of the website.
+
+
+Error due to missing file(s).
+
+
+6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9
+1. Conclusion: Non-Phishing
+2. Target Brand: Impideservicios
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a legitimate website for Impideservicios, as indicated by the URL. The website does not contain any suspicious elements or phishing attempts. The login screen is secure and does not ask for any sensitive information. The website appears to be a genuine business website, and there is no evidence of phishing activity.
+
+
+33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255
+1. Conclusion: Non-Phishing
+2. Target Brand: Disqus
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is a login page for Disqus, a popular discussion platform. It does not contain any suspicious elements or user-credential fields that would indicate a phishing attempt. The URL provided is also consistent with the visited URL, further supporting the conclusion that this is a legitimate Disqus login page.
+
+
+83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890
+1. Conclusion: Non-Phishing
+2. Target Brand: Microsoft
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a Microsoft login page, which is a legitimate and non-phishing website. The URL provided is the correct login page for Microsoft services. The login page does not ask for any sensitive information or credentials, which is a good practice for such websites. The design and layout of the page also indicate that it is a genuine Microsoft login page.
+
+
+fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f
+1. Conclusion: Non-Phishing
+2. Target Brand: Telegram
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The website appears to be a legitimate Telegram app page, as it is written in Chinese and has a clear purpose of allowing users to download the app. There are no suspicious elements or user-credential fields that would indicate a phishing attempt. The URL provided is also consistent with the app's official website, further supporting the conclusion that this is a non-phishing page.
+
+
+37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db
+1. Conclusion: Phishing
+2. Target Brand: Unknown
+3. Has user credential fields: Yes (username, password, email)
+4. Reasons supporting your conclusion: The URL provided is suspicious and contains a mix of letters and numbers, which is a common tactic used by phishers to make the URL appear more legitimate. Additionally, the URL is not a standard domain name, which further suggests that it could be a phishing attempt. The presence of user credential fields also supports the conclusion that this is a phishing attempt, as phishers often use these fields to collect sensitive information from unsuspecting users.
+
+

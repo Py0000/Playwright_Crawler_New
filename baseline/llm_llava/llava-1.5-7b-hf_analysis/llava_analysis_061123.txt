@@ -1,0 +1,78 @@
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+1. Conclusion: Non-Phishing
+2. Target Brand: Trust Wallet
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+* The website is not asking for any sensitive information or user credentials.
+* The website is a legitimate financial service provider, as indicated by the domain name "trustwallet.masdubai.com".
+* The website's content and design are consistent with the expected appearance of a financial service provider's website.
+
+
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+1. Conclusion: Non-Phishing
+2. Target Brand: TBXJLY
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a non-phishing page for TBXJLY. The URL is <https://www.tbxjly.com/>, and the content on the page is related to the brand. There are no user-credential fields or any signs of phishing attempts. The page appears to be a legitimate website for the brand.
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+1. Conclusion: Non-Phishing
+2. Target Brand: Mealyfulloptimization
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is a login page for the Mealyfulloptimization website. It is not a phishing page as it is the legitimate login page for the target brand. The URL provided is the correct URL for the login page, and there are no user credential fields asking for sensitive information.
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+1. Conclusion: Non-Phishing
+2. Target Brand: Unknown
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage appears to be a legitimate login page for a service, as indicated by the URL. The page does not contain any suspicious elements or requests for sensitive information, such as passwords or personal data. The URL is also not associated with any known phishing scams.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+1. Conclusion: Non-Phishing
+2. Target Brand: Telegram
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is a Telegram page, which is a legitimate messaging app. There are no user credential fields or any suspicious elements that indicate it is a phishing page. The page appears to be a regular Telegram page, providing users with the necessary information and functionality.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+1. Conclusion: Non-Phishing
+2. Target Brand: Unknown
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a simple login screen for a service, which is not a typical phishing page. There are no suspicious elements or requests for sensitive information on the page. The URL provided is also not associated with any known phishing websites.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+1. Conclusion: Non-Phishing
+2. Target Brand: Coinbase Wallet
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The website is a legitimate cryptocurrency wallet service provided by Coinbase. The URL is <https://www.coinbasewalletty.com/>, and the visited URL is <https://www.coinbasewalletty.com/#/>. The website does not contain any suspicious elements or user-credential fields, making it a safe and legitimate service.
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+1. Conclusion: Non-Phishing
+2. Target Brand: Videotron
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage appears to be a legitimate website for Videotron, a telecommunications company. There are no user-credential fields or any indication of phishing activity. The URL provided is the same as the visited URL, which further supports the conclusion that this is a non-phishing page.
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+1. Conclusion: Non-Phishing
+2. Target Brand: 896e365.com
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a casino game advertisement, which is a legitimate and non-phishing website. The URL is <https://896e365.com/#/>, and the content is in Chinese. The website does not ask for any sensitive information or user credentials, making it a safe and non-phishing page.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+1. Conclusion: Non-Phishing
+2. Target Brand: Bank of Ireland
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is a login page for the Bank of Ireland, which is a legitimate financial institution. The URL is also the correct URL for the Bank of Ireland's login page, further supporting the conclusion that this is not a phishing page.
+
+

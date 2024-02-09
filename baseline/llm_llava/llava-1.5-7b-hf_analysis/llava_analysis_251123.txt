@@ -1,0 +1,88 @@
+8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918
+
+1. Conclusion: Non-Phishing
+2. Target Brand: Adobe
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The image shows a white background with a link to the Adobe help page. The URL provided is for IPFS, which is a peer-to-peer file sharing protocol. The page does not contain any suspicious elements or requests for sensitive information, making it a non-phishing page.
+
+
+ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
+
+1. Conclusion: Non-Phishing
+2. Target Brand: Bilibili
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a video-sharing platform, Bilibili, which is not known for phishing activities. The URL provided, <http://securebcroyal.com/>, is not related to the visited URL, <https://www.bilibili.com/>. The visited URL does not contain any fields asking for user-credentials or sensitive information. The webpage appears to be legitimate and safe to use.
+
+
+605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817
+
+1. Conclusion: Non-Phishing
+2. Target Brand: DHL
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a DHL tracking page, which is a legitimate service provided by the DHL company. The URL is <https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu>, and the visited URL is the same. The page does not contain any suspicious elements or user-credential fields, which supports the conclusion that it is a non-phishing page.
+
+
+acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801
+
+1. Conclusion: Non-Phishing
+2. Target Brand: Netflix
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is a legitimate Netflix clone, offering a similar service to the original Netflix platform. The URL is also consistent with the expected domain for Netflix clones. The website does not ask for any sensitive information or credentials, which is a positive sign. The design and layout of the website also appear to be consistent with a Netflix-themed website.
+
+
+3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2
+
+1. Conclusion: Non-Phishing
+2. Target Brand: Microsoft
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is for Microsoft, a well-known and legitimate company. There are no fields asking for user credentials or sensitive information. The URL provided is also for the Microsoft website, further supporting the conclusion that this is not a phishing page.
+
+
+cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
+
+1. Conclusion: Non-Phishing
+2. Target Brand: Netflix
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is a legitimate Netflix support page, as indicated by the URL and the content displayed. The page provides assistance to users and does not ask for any sensitive information. The design and layout of the page are consistent with the official Netflix website, further supporting the conclusion that this is a non-phishing page.
+
+
+0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27
+
+1. Conclusion: Phishing
+2. Target Brand: Unknown
+3. Has user credential fields: Yes (Email, Password)
+4. Reasons supporting your conclusion:
+The URL provided is suspicious and contains a mix of English and non-English characters, which is a common tactic used by phishers to create a sense of urgency or confusion. The website also asks for sensitive information such as email and password, which is a clear indication of a phishing attempt. The lack of information about the target brand further supports the conclusion that this is a phishing page.
+
+
+daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
+
+1. Conclusion: Non-Phishing
+2. Target Brand: Netflix
+3. Has user credential fields: No
+4. Reasons supporting your conclusion: The webpage is a legitimate Netflix page, as indicated by the URL and the content displayed. There are no user-credential fields or any signs of phishing activity. The page is designed for users to watch their favorite shows and movies on Netflix.
+
+
+db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
+
+1. Conclusion: Non-Phishing
+2. Target Brand: Sell My Home Fast Ohio
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+* The website is not asking for any sensitive information or user credentials.
+* The website's design and layout appear to be legitimate and not suspicious.
+* The URL provided is not a phishing URL.
+
+
+cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
+
+1. Conclusion: Non-Phishing
+2. Target Brand: Facebook
+3. Has user credential fields: No
+4. Reasons supporting your conclusion:
+The webpage is a Facebook login page, which is a legitimate and non-phishing website. The URL provided is the correct login page for Facebook, and there are no fields asking for user credentials or sensitive information. The design and layout of the page are consistent with the official Facebook login page, further supporting the conclusion that this is a non-phishing page.
+
+
