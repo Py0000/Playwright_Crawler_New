@@ -1,0 +1,109 @@
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+ 1. Conclusion: Non-phishing.
+2. Target Brand: Telegram.
+3. Has user credential fields: No.
+4. Phishing Indicators: None. The website looks legitimate and has a valid security certificate.
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+ 1. Conclusion: Phishing
+2. Target Brand: Libero
+3. Has user credential fields: Yes, it asks for a phone number and email.
+4. Phishing Indicators:
+ - The URL is different from the official Libero website.
+ - The website is not using a secure connection.
+ - The website is asking for personal information that is not necessary to login to your account.
+ - The website has a lot of pop-ups and advertisements.
+ - The website's design is not professional and looks like it was created quickly.
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+ 1. Conclusion: Phishing
+2. Target Brand: Videotron
+3. Has user credential fields: Yes (Email, Password)
+4. Phishing Indicators:
+ - The domain name "videotronmaill.weebly.com" is different from the legitimate Videotron domain "videotron.com".
+ - The webpage design is not consistent with the legitimate Videotron website.
+ - The webpage contains a form that asks for the user's email address and password.
+ - The webpage uses a fake padlock icon to trick users into thinking that the connection is secure.
+
+
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+ 1. Conclusion: Phishing
+2. Target Brand: Trust Wallet
+3. Has user credential fields: Yes. Email, Password.
+4. Phishing Indicators:
+ - The URL of the webpage is different from the official Trust Wallet website.
+ - The webpage is hosted on a free hosting service.
+ - The webpage uses a self-signed SSL certificate.
+ - The webpage contains a number of grammatical errors.
+ - The webpage requests sensitive information, such as your email address and password, without providing any security measures.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Conclusion: Non-phishing.
+2. Target Brand: Telegram
+3. Has user credential fields: No
+4. Phishing Indicators: None. The webpage is the official website of Telegram.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+ 1. Conclusion: Phishing
+2. Target Brand: Webmail
+3. Has user credential fields: Yes. Username and Password.
+4. Phishing Indicators: 
+ - The URL does not match the official Webmail website.
+ - The website is hosted on a free IPFS hosting service, which is often used by phishing sites.
+ - The website's design is a basic template that is often used by phishing sites.
+ - The website's copyright date is 2022, which is different from the current year.
+ - The website's security features are not up to date.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+ 1. Conclusion: Phishing
+2. Target Brand: Coinbase
+3. Has user credential fields: Yes, Coinbase login credentials (Email and Password).
+4. Phishing Indicators:
+ - Typosquatting of the official Coinbase domain name.
+ - The URL does not match the official Coinbase website.
+ - The website is hosted on a free hosting platform.
+ - The website's design is different from the official Coinbase website.
+ - The website's content is different from the official Coinbase website.
+ - The website's security certificate is not valid.
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+ 1. Conclusion: Phishing
+2. Target Brand: N/A
+3. Has user credential fields: Yes. Email Address, Email Password.
+4. Phishing Indicators: 
+ - The URL does not belong to any known legitimate company.
+ - The website is poorly designed and contains many grammatical errors.
+ - The website is hosted on a free hosting platform.
+ - The website uses a fake login form to steal user credentials.
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+ 1. Conclusion: Phishing
+2. Target Brand: Bet365
+3. Has user credential fields: Yes, (1) Username and (2) Password
+4. Phishing Indicators: 
+ - The URL of the webpage is different from the official Bet365 website.
+ - The webpage is hosted on a free hosting service.
+ - The webpage has a lot of pop-ups and advertisements.
+ - The webpage asks for personal information, such as your credit card number, that is not necessary to create an account.
+ - The webpage uses a fake chat window to trick you into giving up your personal information.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+ 1. Conclusion: Phishing
+2. Target Brand: Bank of Ireland
+3. Has user credential fields: Yes (User ID, Date of birth, Phone Number)
+4. Phishing Indicators: 
+ - The URL of the webpage is different from the official Bank of Ireland website.
+ - The webpage is hosted on a free hosting service.
+ - The webpage is not using a secure HTTPS connection.
+ - The webpage is asking for personal information such as your User ID, Date of birth, and Phone Number.
+ - The webpage has a lot of spelling and grammatical errors.
+
+

@@ -1,0 +1,12 @@
+From the annotated image provided, you can see the following:
+Red-boxes: Shows the target brand which is Microsoft, more specifically Outlook.
+Blue-boxes: Indicates the elements for user input and button for submission. In this example, the webpage is asking for the user's email and potentially the password associated with the email account.
+
+Conlusion:
+1. Predicition: Phishing
+2. Target Brand: Outlook 
+3. Yes (has user credential fields). Asking for email and possibility password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.

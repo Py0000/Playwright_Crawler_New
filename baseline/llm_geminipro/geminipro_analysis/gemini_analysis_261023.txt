@@ -1,0 +1,147 @@
+00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
+ 1. Conclusion: Phishing
+2. Target Brand: Societe Generale
+3. Has user credential fields: Yes (Code Client, Mot de Passe)
+4. Phishing Indicators: 
+ - The URL of the webpage is different from the official website of Societe Generale.
+ - The webpage is hosted on a free web hosting service.
+ - The webpage has a lot of popups and advertisements.
+ - The webpage is not secure.
+ - The webpage asks for personal information such as your Societe Generale code and password.
+
+
+00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
+ 1. Conclusion: Non-phishing.
+2. Target Brand: Correos.
+3. Has user credential fields: No.
+4. Phishing Indicators: None.
+
+
+00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
+ 1. Conclusion: Phishing
+2. Target Brand: Microsoft
+3. Has user credential fields: Yes, email and password.
+4. Phishing Indicators: 
+ - The domain name "worudi.com" is different from the legitimate Microsoft domain "microsoft.com".
+ - The URL contains a suspicious string "/office.com/" which is not present in the legitimate Microsoft login page.
+ - The page requests for both email and password in the same page which is not the case with the legitimate Microsoft login page.
+
+
+00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
+ 1. Conclusion: Phishing
+2. Target Brand: Binance
+3. Has user credential fields: Yes, email and password
+4. Phishing Indicators:
+ - The URL does not match the official Binance website.
+ - The website is hosted on a free hosting platform.
+ - The website's design is not consistent with the official Binance website.
+ - The website's content is full of grammatical errors.
+ - The website is asking for users' email addresses and passwords.
+
+
+03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
+ 1. Conclusion: Non-phishing.
+2. Target Brand: 12 Volt Does It
+3. Has user credential fields: No
+4. Phishing Indicators: None. The website has valid security certificates. It has padlock icon on the address bar. The URL starts with https.
+
+
+05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
+ 1. Conclusion: Phishing
+2. Target Brand: Microsoft
+3. Has user credential fields: Yes. The phishing webpage requests for the following credentials:
+- 姓名 (Name)
+- 手机号码 (Phone Number)
+- 验证码 (Verification Code)
+- 密码 (Password)
+4. Phishing Indicators:
+- The URL of the webpage is different from the official Microsoft website.
+- The webpage design is different from the official Microsoft website.
+- The webpage requests for user credentials, which is not necessary for purchasing products.
+- The webpage uses a fake security seal to trick users into thinking that it is a legitimate website.
+
+
+0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
+ 1. Conclusion: Phishing
+2. Target Brand: PUBG Mobile
+3. Has user credential fields: Yes, email and password.
+4. Phishing Indicators: 
+ - The URL does not match the official PUBG Mobile website.
+ - The website is hosted on a free hosting service.
+ - The website's design is different from the official PUBG Mobile website.
+ - The website's content is full of grammatical errors.
+ - The website asks for personal information, such as your email address and password.
+ - The website uses social media icons that link to fake social media pages.
+
+
+0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
+ 1. Conclusion: Non-phishing.
+2. Target Brand: Google
+3. Has user credential fields: Yes. Username and password.
+4. Phishing Indicators: None.
+
+
+589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
+ 1. Conclusion: Non-phishing.
+2. Target Brand: None.
+3. Has user credential fields: No.
+4. Phishing Indicators: None. Reason why it is not phishing: The webpage is a group chat on the WhatsApp messaging platform.
+
+
+76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
+ 1. Conclusion: Phishing
+2. Target Brand: Apple
+3. Has user credential fields: Yes, Apple ID and Password
+4. Phishing Indicators:
+ - The URL does not match the official Apple website.
+ - The website is hosted on a free hosting platform.
+ - The website's design is not consistent with the official Apple website.
+ - The website's content is not consistent with the official Apple website.
+ - The website requests sensitive information, such as your Apple ID and password.
+
+
+8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
+ 1. Conclusion: Non-phishing.
+2. Target Brand: Telegram.
+3. Has user credential fields: No.
+4. Phishing Indicators: None.
+
+
+d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
+ 1. Conclusion: Non-phishing.
+2. Target Brand: SHENG HO JIUN
+3. Has user credential fields: No
+4. Phishing Indicators: None. The website is using a valid SSL certificate and the content looks genuine.
+
+
+decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
+ 1. Conclusion: Non-phishing.
+2. Target Brand: Desjardins.
+3. Has user credential fields: No.
+4. Phishing Indicators: None. The URL is legitimate and belongs to Desjardins. The webpage is also using a secure HTTPS connection.
+
+
+f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
+ 1. Conclusion: Phishing
+2. Target Brand: Arvest Bank
+3. Has user credential fields: Yes, asks for Username and Password
+4. Phishing Indicators:
+ - The URL does not match the official Arvest Bank website.
+ - The website is hosted on a free hosting platform.
+ - The website's design is different from the official Arvest Bank website.
+ - The website's content is full of grammatical errors.
+ - The website asks for personal information such as your Social Security number and bank account number.
+
+
+f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
+ 1. Conclusion: Phishing
+2. Target Brand: Pivkom.ru
+3. Has user credential fields: Yes. Email, Password
+4. Phishing Indicators:
+ - The URL of the webpage is different from the URL of the legitimate Pivkom.ru website.
+ - The webpage is hosted on a free hosting service.
+ - The webpage uses a self-signed SSL certificate.
+ - The webpage contains a number of grammatical errors.
+ - The webpage contains a number of phishing indicators, such as a fake login form and a fake customer support number.
+
+

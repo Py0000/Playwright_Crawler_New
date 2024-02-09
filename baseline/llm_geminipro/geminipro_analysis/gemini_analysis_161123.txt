@@ -1,0 +1,117 @@
+0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254
+ 1. Conclusion: Phishing
+2. Target Brand: Microsoft
+3. Has user credential fields: Yes, email and password
+4. Phishing Indicators: 
+ - The URL does not match the official Microsoft website.
+ - The webpage is hosted on a free hosting service.
+ - The webpage design is not consistent with the official Microsoft website.
+ - The webpage uses a fake Microsoft login form.
+ - The webpage asks for unnecessary information, such as your credit card number.
+
+
+29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d
+ 1. Conclusion: Phishing
+2. Target Brand: Shaw
+3. Has user credential fields: Yes (Shaw ID, Password)
+4. Phishing Indicators:
+ - The URL in the address bar is different from the real Shaw website (ffhshaw.com vs. shaw.ca).
+ - The website is not using a secure HTTPS connection (the URL starts with "http://" instead of "https://").
+ - The website's design is different from the real Shaw website.
+ - The website's content is different from the real Shaw website.
+ - The website is asking for personal information that Shaw would not normally ask for, such as your Shaw ID and password.
+
+
+2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062
+ 1. Conclusion: Non-phishing.
+2. Target Brand: Google
+3. Has user credential fields: Yes. Email or phone number.
+4. Phishing Indicators: None.
+
+
+38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
+ 1. Conclusion: Phishing
+2. Target Brand: Facebook
+3. Has user credential fields: Yes. Email address or phone number, Password.
+4. Phishing Indicators: 
+ - The URL does not match the official Facebook website.
+ - The webpage design is different from the official Facebook website.
+ - The webpage is asking for the user's email address or phone number and password.
+ - There is a fake security warning on the webpage.
+ - The webpage is trying to scare the user into giving up their information.
+
+
+3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa
+ 1. Conclusion: Phishing
+2. Target Brand: Google
+3. Has user credential fields: Yes, email or phone number
+4. Phishing Indicators: 
+ - The URL does not match the official Google login page URL.
+ - The page is hosted on an IP address instead of a domain name.
+ - The page has a self-signed certificate.
+ - The page requests unnecessary permissions, such as access to your camera and microphone.
+ - The page uses a fake "Next" button that does not actually log you in to your Google account.
+
+
+3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae
+ 1. Conclusion: Phishing
+2. Target Brand: DocuSign
+3. Has user credential fields: Yes. Email Address and Password.
+4. Phishing Indicators:
+ - The URL does not match the official DocuSign website.
+ - The website is hosted on a free web hosting service.
+ - The website's design is not consistent with the official DocuSign website.
+ - The website's content is not consistent with the official DocuSign website.
+ - The website is requesting personal information that is not necessary to sign in to a DocuSign account.
+
+
+50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419
+ 1. Conclusion: Phishing.
+2. Target Brand: Microsoft.
+3. Has user credential fields: Yes. Email and password.
+4. Phishing Indicators: 
+ - The URL does not belong to Microsoft.
+ - The URL contains a long string of characters that is not a valid Microsoft URL.
+ - The webpage is hosted on a free hosting service.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage is not using a valid SSL certificate.
+ - The webpage is using a fake Microsoft login page.
+ - The webpage is asking for the user's email address and password.
+
+
+596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3
+ 1. Conclusion: Phishing
+2. Target Brand: NTT Docomo
+3. Has user credential fields: Yes. Username and Password.
+4. Phishing Indicators:
+ - Typosquatting of the NTT Docomo login page.
+ - The URL in the address bar is different from the URL displayed in the phishing page.
+ - The phishing page is hosted on a free web hosting service.
+ - The phishing page uses a self-signed certificate.
+ - The phishing page contains a lot of Japanese text, which is likely to confuse Japanese users.
+
+
+61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce
+ 1. Conclusion: Phishing
+2. Target Brand: Microsoft
+3. Has user credential fields: Yes. Email and password.
+4. Phishing Indicators: 
+ - The URL does not belong to Microsoft.
+ - The website is hosted on a free hosting platform.
+ - The website's design is a copy of the real Microsoft login page.
+ - The website's content is in English, but the URL is in Russian.
+
+
+a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa
+ 1. Conclusion: Non-phishing.
+2. Target Brand: TV Licensing.
+3. Has user credential fields: Yes. The fields are:
+   - Name
+   - Address
+   - Email
+   - Phone
+   - Bank account number
+   - Sort code
+4. Phishing Indicators: None. The webpage is hosted on the official domain of TV Licensing and uses a valid SSL certificate. The webpage also contains a number of security features, such as a CAPTCHA and a two-factor authentication process.
+
+
