@@ -141,7 +141,7 @@ class BlankPageExternalDetector:
             
             consolidated_results[current_dataset] = dataset_status
         
-        base_output_dir = f"Analyzer/analysis/blank_page/primary_logs/secondary_logs/{date}"
+        base_output_dir = f"analyzer/blank_page/secondary_logs/{date}"
         file_utils.check_and_generate_new_dir(base_output_dir)
         
         consolidated_output = os.path.join(base_output_dir, f"{date}_sec_consolidation.json")
@@ -163,6 +163,6 @@ if __name__ == '__main__':
     external_resource_detector = BlankPageExternalDetector(args.folder_path, args.date)
     consolidated_output = external_resource_detector.check_external_resources_for_blank()
 
-    base_output_dir = os.path.join("Analyzer/analysis/blank_page/secondary_logs", args.date)
+    base_output_dir = os.path.join("analyzer/blank_page/secondary_logs", args.date)
     blank_page_util.split_log_files(consolidated_output, args.date, ["css", "js"], base_output_dir)
     

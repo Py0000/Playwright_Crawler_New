@@ -39,14 +39,14 @@ class BlankPageHandler:
         detector = blank_page_detector.BlankPageDetector(self.main_folder_path, date)
         consolidated_detector_output = detector.check_dataset_for_blank()
 
-        blank_page_output_dir = os.path.join("Analyzer/analysis/blank_page/primary_logs", date)
+        blank_page_output_dir = os.path.join("analyzer/blank_page/primary_logs", date)
         blank_page_util.split_log_files(consolidated_detector_output, date, ["html", "ss_aft", "ss_bef"], blank_page_output_dir)
         detector.get_error_logs(consolidated_detector_output, blank_page_output_dir)
     
 
     def filter_blank_page(self, ref_type):
         date = self.date
-        primary_logs_dir = os.path.join("Analyzer/analysis/blank_page/primary_logs", date)
+        primary_logs_dir = os.path.join("analyzer/blank_page/primary_logs", date)
         filterer = blank_page_filter.BlankPageFilter(self.main_folder_path.replace(".zip", ""), date)
         checker = blank_page_filter.BlankPageFilterChecker(primary_logs_dir, date)
 

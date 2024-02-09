@@ -48,7 +48,7 @@ class BlockedPageFilter:
             else:
                 status.append(folder)
         
-        blocked_page_cat_folder = os.path.join("Analyzer", "analysis", "block_page_cat_logs")
+        blocked_page_cat_folder = os.path.join("analyzer", "blocked_page", "block_page_cat_logs")
         file_utils.check_and_generate_new_dir(blocked_page_cat_folder)
         output_path = os.path.join(blocked_page_cat_folder, f"{date}_blocked_page_cat_failed.txt")
         file_utils.export_output_as_txt_file(output_path, status)

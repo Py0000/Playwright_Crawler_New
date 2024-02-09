@@ -33,7 +33,7 @@ class BlankPageFilter:
                 print(folder, os.path.exists(zip_dataset_path), "failed")
                 status.append(folder) 
             
-        log_dir = f"Analyzer/analysis/blank_page/cat_logs/{date}"
+        log_dir = f"analyzer/blank_page/cat_logs/{date}"
         file_utils.check_and_generate_new_dir(log_dir)
 
         output_path = os.path.join(log_dir, f"{date}_{ref_type}_categorization_failed.txt")
@@ -67,7 +67,7 @@ class BlankPageFilterChecker:
 
             status[filtered] = data
         
-        log_dir = f"Analyzer/analysis/blank_page/cat_logs/{date}"
+        log_dir = f"analyzer/blank_page/cat_logs/{date}"
         output_path = os.path.join(log_dir, f"{date}_cat_cross_check_ss_{type}.json")
         file_utils.export_output_as_json_file(output_path, status)
 
@@ -83,7 +83,7 @@ class BlankPageFilterChecker:
                 ss_aft_blank_list.remove(filtered)
 
         # Return a new log with the remaining unfiltered ones
-        log_dir = f"Analyzer/analysis/blank_page/cat_logs/{date}"
+        log_dir = f"analyzer/blank_page/cat_logs/{date}"
         output_file = os.path.join(log_dir, f"{date}_unfiltered_extra_ss_blank_{type}.txt")
         file_utils.export_output_as_txt_file(output_file, ss_aft_blank_list)
 

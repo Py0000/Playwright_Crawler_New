@@ -91,7 +91,7 @@ class BlankPageDetector:
             ss_stats[dir_without_zip_extension] = ss_sub_stats
             
 
-        base_output_dir = f"Analyzer/analysis/blank_page/primary_logs/{date}"
+        base_output_dir = f"analyzer/blank_page/primary_logs/{date}"
         file_utils.check_and_generate_new_dir(base_output_dir)
 
         consolidated_output = os.path.join(base_output_dir, f"{date}_consolidation.json")
