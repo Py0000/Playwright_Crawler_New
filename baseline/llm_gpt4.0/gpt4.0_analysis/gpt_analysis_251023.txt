@@ -1,0 +1,411 @@
+002676dbdd952c417112e1bc64fbca98117055f1fefe1192fa704143a82cec39
+1. Target Brand: The target brand is not specified in the provided image, but based on the appearance it seems to mimic the style of a generic corporate or possibly cloud service login page.
+2. Has user credential fields: Yes.
+3. Phishing Indicators:
+   - Suspicious URL structure: The subdomain 'pub-b06563cd03c44d9194060124cb116458' and the generic domain 'r2.dev' do not seem to correspond to any well-known or legitimate service provider.
+   - Ungeneric credential fields placeholder: The placeholder '[[-Email-]]' is not typical for a legitimate login page and indicates a lack of professionalism or an incomplete phishing template.
+   - Vague language: The phrase "Only recipient email can access shared files" is somewhat vague and might be an attempt to instill urgency or relevance.
+   - The page does not seem to provide links to privacy policy, terms of service, or other standard links often found on legitimate login pages.
+   - No branding or legitimate corporate identifier is visible which is unusual for an official login page.
+4. Conclusion: Phishing. Given the aggregate of the indicators, particularly the suspicious URL and the unusual placeholder text in the credential fields, this website has several characteristics of a phishing webpage. It should be considered dangerous and not be used to enter any personal information.
+
+
+0a316022d0494224004c66972e0a1ed1a438406551b03d500b9371b9c15223c7
+1. Target Brand: Facebook
+2. Has user credential fields: No (Based on the screenshot, there are no visible fields specifically asking for user credentials; however, a prompt to "Turn on Facebook Protect" may lead to a credential request on a subsequent page.)
+3. Phishing Indicators:
+   - URL Mismatch: The provided URL does not match the official Facebook domain, which should end with 'facebook.com'.
+   - Unofficial Domain: The domain 'ihaxx.net' is not associated with official Facebook domains and may indicate a phishing attempt.
+   - Urgency Message: The message on the webpage about the account being locked as of October 25, 2023, and the prompt to take immediate action by enabling security measures can create a sense of urgency, a common tactic in phishing scams.
+   - Legitimacy Claims: The use of Facebook's branding, colors, and design could be an attempt to appear legitimate and deceive users. However, this can still be part of a sophisticated phishing attempt.
+4. Conclusion: Phishing
+
+The URL provided does not originate from the official Facebook domain and the webpage uses Facebook's branding in conjunction with an unusual request, which are clear indicators of a phishing site. Users should avoid interacting with such pages and should navigate directly to the official Facebook website for any security issues.
+
+
+0a935dc00e8eb8c7c07b1902eeab9375f0137d2257a02aeff629049da246a4e1
+1. Target Brand
+While the image does not explicitly display a target brand name, the design of the sign-in page closely resembles the layout associated with Microsoft login pages.
+2. Has user credential fields
+Yes, there is a user credential field present for the email address.
+3. Phishing Indicators
+- The URL provided does not match the official domain of the brand it imitates. A typical Microsoft sign-in page URL should be on a microsoft.com subdomain or a related official domain, not "socialsmp.com".
+- The URL contains a series of seemingly random directories and alphanumeric strings, which is common in phishing URLs to make tracking and blacklisting more difficult.
+- The presence of a secure sign-in option or icon at the bottom, which attempts to give the page a false sense of legitimacy.
+4. Conclusion
+Phishing
+
+The URL being from a non-official domain and the layout attempting to mimic an actual Microsoft sign-in page are strong indicators that the webpage in question is likely a phishing site designed to deceive users into entering their credentials.
+
+
+0ab93c761fca25471f55cc60c11e89d57286c92b196386076df67bb898ba1fe2
+1. Target Brand:
+   Google (Gmail sign-in page).
+2. Has user credential fields:
+   Yes, there is a field for entering Email or phone.
+3. Phishing Indicators:
+   - The URL provided is an IP address, not a domain name. Legitimate Google sign-in pages would use a google.com domain, not an IP address.
+   - The URL starts with 'http://' rather than 'https://'. Google's real sign-in pages always use SSL to encrypt data (indicated by 'https://') for security.
+   - Presence of an unusual query string that includes parameters like "continue," "followup," "passive," "ifkv," and so on, which can be used in phishing URLs to redirect users after credentials are entered.
+   - The login page design in the screenshot could potentially match the legitimate Google login page design depending on the time and any updates that might have been made by Google. However, the visual appearance of a page alone should not be used as the single determining factor of legitimacy.
+   - No real evidence of typical Google infrastructure, such as Google's trusted SSL certificates.
+   - The domain in the URL is a direct IP address (43.130.2.171) which is highly suspicious since legitimate login pages for major services like Google use named domains for user trust and recognition.
+4. Conclusion:
+   Phishing.
+
+The website depicted in the screenshot, based on the indicators provided by the URL, appears to be a phishing attempt impersonating the official Google sign-in portal to deceive individuals into providing their sign-in credentials.
+
+
+0b043af0a7439ebc2c0ccb9aed7e5175cc648e0793dc4a00e0f5c8294914975c
+1. Target Brand: The brand is not explicitly specified in the screenshot, making it challenging to identify any specific target. However, the symbols and layout seem to imitate general sign-in forms used by many services, which could potentially include major email providers.
+2. Has user credential fields: Yes.
+3. Phishing Indicators:
+   - The URL uses a subdomain "autoiothiatowers" on "web.app" which does not align with any known major service provider's domain structure.
+   - The URL contains many unnecessary and nonsensical parameters which can be a sign of a phishing attempt to confuse users or bypass security filters. 
+   - The page asks for "Email Password" which is suspicious because many legitimate sites do not explicitly say "Email Password" but rather just "Password".
+   - The use of "Norton Secured" and "VeriSign" logos may be an attempt to gain trust deceptively; it's essential to verify if the security seals are legitimate and clickable.
+   - The privacy policy is incredibly vague and provides no actual details, which is unusual for legitimate sites.
+   - There's an odd specificity about the purpose of the information collected—"for the sole purpose of viewing this document"—which is not typical for a sign-in page.
+4. Conclusion: Phishing. 
+
+The presence of a non-standard URL structure, the odd use of language on the sign-in page, the use of trust seals without proper context or verification, and a vague privacy policy suggest that this is a phishing attempt. Users should avoid entering personal information into such pages and verify the authenticity of the webpage through reliable means.
+
+
+0b0b395184a34761dc535e7b8379984b8e701b877c79af2f2a803ce8389904d8
+1. Target Brand: Microsoft
+2. Has user credential fields: No (The screenshot provided does not display any fields where user credentials are requested. However, credential fields might exist on other parts of the website or after interacting with the page, such as clicking on a sign-in link.)
+3. Phishing Indicators:
+   - URL Examination: The provided URL "https://cloudflare-ipfs.com/ipfs/..." does not match the official domain of Microsoft, which would typically end in "microsoft.com".
+   - Comparison with Visited URL: The visited URL "https://www.microsoft.com/en-sg/" suggests a legitimate Microsoft site tailored for Singapore's market, while the provided URL is using the IPFS (InterPlanetary File System) gateway provided by Cloudflare, which is often not used for hosting official brand pages.
+4. Conclusion: Phishing
+
+The URL provided raises suspicion as it does not align with the official Microsoft domain structure and uses an IPFS gateway, which is atypical for official Microsoft pages. This discrepancy is a common phishing indicator, suggesting the webpage is likely a phishing attempt masquerading as an official Microsoft page.
+
+
+0b2715e3ee0ef227991e481f7ca67a40179c46a844d3c69a9c9c9970a681736c
+1. Target Brand: Reagan.com – The design and logo seek to imitate the branding of Reagan.com, which is a legitimate email service provider.
+2. Has user credential fields: Yes – There are fields prompting for "Email" and "Password," which is typical for login interfaces.
+3. Phishing Indicators:
+   - URL Mismatch: The URL in the address bar ("http://dfzdghfjmgh.weebly.com/") does not match the legitimate domain of Reagan.com and seems to be a randomly generated string, hosted on a subdomain of "weebly.com", which is a well-known platform for creating free websites.
+   - Poor Quality Image: The image of Ronald Reagan within the "Featured Story" section is of poor quality, which might indicate a lack of professional design expected from a legitimate enterprise.
+   - Suspicious Domain/Subdomain: The use of a free web hosting service subdomain (Weebly) is suspicious as official websites typically have their own registered domains.
+   - HTTPS Protocol Missing: The URL begins with "http://" instead of "https://", which means the site is not secured with SSL/TLS encryption. Legitimate financial or email service providers will always use HTTPS to protect user information.
+4. Conclusion: Phishing – Based on the mismatched URL, use of a free website builder's subdomain, and lack of HTTPS security, this website is very likely to be a phishing site attempting to impersonate the legitimate service provided by Reagan.com to steal user credentials.
+
+
+0b35e7a82b92ba9aa97b2b73acc68dca437679822295c35764d75d29e725a351
+1. Target Brand:
+The target brand is Netflix, as indicated by the branding and design elements that resemble the official Netflix website.
+2. Has user credential fields:
+Yes, there are fields that prompt a user to enter an email address.
+3. Phishing Indicators:
+- The URL provided (https://swathi27s.github.io/project/) does not match the official Netflix domain or any of its legitimate subdomains.
+- The use of a GitHub.io domain is suspicious, as this is a common tactic used by phishing attempts to create seemingly legitimate-looking websites.
+- There may be potential spelling or grammatical errors, such as "Is Netflix goo for kids?" instead of "Is Netflix good for kids?" which can be indicative of a phishing site, but this requires confirmation.
+- Trustworthy company websites generally do not host significant pages on free hosting platforms like GitHub; they use their own domain infrastructure.
+4. Conclusion:
+Phishing. Due to the non-official URL that does not correspond to the legitimate Netflix domain and other indicators described above, it can be concluded that the site is likely a phishing attempt designed to mimic Netflix's official website.
+
+
+0b5fc1ac71862337ea21b3deabfefd1dee849e02d9b657cd6b56c3c93f6f1824
+1. Target Brand: Microsoft
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided ("http://login-live-com.o365.ams.skyfencenet.com/") contains elements aiming to mimic a legitimate Microsoft URL but includes additional suspicious domains and subdomains.
+   - There is a mixture of HTTPS and HTTP protocols in the URLs provided, which can be suspicious, as legitimate services usually enforce HTTPS for secure communication, especially on login pages.
+   - The domain "skyfencenet.com" does not appear to be an official Microsoft domain, which raises suspicion.
+   - The URL uses a subdomain structure ("o365.ams") in an attempt to appear credible by incorporating known Microsoft product names like Office 365 ("o365"), but the formatting and context seem unusual for an official Microsoft login site.
+   - The subdomain "login-live-com" is attempting to mimic the legitimate "login.live.com," but legitimate Microsoft websites would not use such a format.
+   - The first URL uses the HTTP protocol, which is not secure, and legitimate websites, especially those from reputable companies like Microsoft, typically use HTTPS to ensure user security.
+   - The presence of a "login.srf" subpage may not match the standard Microsoft login endpoint.
+4. Conclusion: Phishing
+
+The webpage presents as a Microsoft login page but multiple indicators suggest it is a phishing attempt. Users should always check the URL carefully and look for the HTTPS protocol and verify the domain to ensure they are on an official website before entering their credentials.
+
+
+0b76b3e005e3ca0e9c577edd049376573aab854630d9122315ea217f859f02d5
+1. Target Brand: United States Postal Service (USPS)
+   
+2. Has user credential fields: Yes (asking for full name, address, and phone number)
+   
+3. Phishing Indicators:
+   - The URL provided (http://sepi3xehipo.com/) bears no resemblance to the legitimate USPS website.
+   - The visited URL (https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/standard-shipping/) also does not match the format of URLs used by the legitimate USPS website.
+   - The webpage layout and graphics might resemble the USPS official site to create a false sense of authenticity, but discrepancies may exist in the page design.
+   - The presence of a message that insists on the urgency to correct shipping address issues is a common phishing tactic aimed at eliciting user information quickly.
+   - Lack of security indicators such as HTTPS protocol in the provided URL (http://), whereas the legitimate USPS website would use a secure connection.
+   - Request for sensitive personal information which the USPS would not typically ask for via an unsolicited webpage.
+   
+4. Conclusion: Phishing
+
+The combination of the mismatched URLs, the request for personal information in a manner inconsistent with the USPS's typical practices, and other discrepancies strongly suggest that this webpage is a phishing scam attempting to impersonate the USPS to steal personal information.
+
+
+0b8d9c5e89c6485e83a51a0f0a3bee1955b78240b46fc56c78df5ae359d7a8b8
+1. Target Brand: The image does not provide enough context to identify a specific target brand.
+2. Has user credential fields: The image does not show any user credential fields.
+3. Phishing Indicators:
+   - The URL observed in the image may be suspicious as it does not match typical naming conventions of well-known legitimate websites (random numerical sequences in the domain).
+   - The page presents a "Forbidden" error with a reference to an IP address, which is unusual for consumer-facing legitimate sites.
+   - The message is provided in both Chinese and English, suggesting an attempt to appeal to a wide audience, which can be a tactic used by phishing sites.
+   - There's a lack of branding and professional design that one would expect on a legitimate organization's error page.
+   - The use of a generic 'customer service' contact without specific contact details (email/phone) can be a red flag.
+4. Conclusion: Based on the limited information presented in the screenshot, it is challenging to conclusively determine if the webpage is a phishing site. The absence of user credential fields on the error page means there is no immediate phishing threat presented in the screenshot. However, the URL pattern and the nature of the error message are suspicious and could be indicative of a potentially untrustworthy site. Without more evidence, such as the content of the original webpage before the error, further investigation would be required to conclude that the site is definitively phishing or non-phishing.
+
+
+0c3914acb910974ffc0559e423942a8c7804aa5ed70e44660a0e6043c956a3ff
+1. Target Brand: The target brand appears to be WhatsApp, as indicated by the use of the WhatsApp logo and a similar interface in the screenshot.
+2. Has user credential fields: The provided screenshot does not explicitly show user credential fields, but phishing sites often prompt for such information at some stage, which may not be visible in the screenshot.
+3. Phishing Indicators:
+   - The URL contains a string that seems designed to mimic a legitimate service ("wazsintsz") but includes random and nonsensical elements.
+   - The domain (`terbaru-2023.com`) does not match the official domain for WhatsApp and seems to suggest a newer version ("terbaru" means "latest" or "newest" in Indonesian), which is a common tactic used in phishing to imply urgency or updates.
+   - The subdomain and path (`gruop-wazsintsz.terbaru-2023.com/vhsfhqpdhdsih6/`) include various random characters, which does not follow the structure of a URL from a reputable company.
+   - Misspelling in the word "group" as "gruop" suggests a lack of professionalism or an attempt to register a domain very close to a legitimate one to confuse users.
+4. Conclusion: Phishing
+
+The combination of a suspicious URL, an attempt to mimic a known brand's visual style, and the presence of indicators commonly associated with phishing such as misspellings and random strings lead to the conclusion that the webpage is likely a phishing site.
+
+
+0d21b70a59663dd73d94fce80647b0c8d368297bc2c68767ecf9c31a1bb19c5a
+1. Target Brand: Garena (likely referring to their game Free Fire).
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The domain name looks suspicious with a string of random characters, which is not typical for an official Garena site.
+   - There is a request to log in with Facebook, which is a common phishing technique to harvest social media credentials.
+   - In the screenshot, there appears to be a section that requests personal information including full name, date of birth, and address. This can be a tactic to collect sensitive information from users.
+   - The offer seems too good to be true, enticing users with gifts (Quà Tặng Sinh Nhật) which is a common tactic used by phishing sites.
+   - Unprofessional appearance with mismatched fonts and graphics may indicate a hastily created phishing page.
+   - The interface asks for a significant amount of personal or sensitive information which is a red flag for phishing attempts.
+   - The URL does not use a secure HTTPS connection, which is unusual for legitimate websites handling user login information.
+4. Conclusion: Phishing
+
+Given these indicators, it is very likely that this webpage is a phishing site attempting to gather user credentials and personal information by masquerading as a Garena (or related game Free Fire) promotion. Users should exercise caution and avoid entering any personal information on this page.
+
+
+0db1a8e4beebb208c9bf8f43bd9b08f6a88dcbf77698895ed130306e141afefa
+1. Target Brand: WhatsApp
+2. Has user credential fields: The screenshot does not show any user credential fields.
+3. Phishing Indicators:
+   - The URL provided "http://gu.oshen.whatsyy2282.cyou/" looks suspicious because it does not match the official WhatsApp domain and includes additional, unrelated elements such as "oshen" and "whatsyy2282" which do not correspond with the legitimate service.
+   - Visiting the URL "https://gu.oshen.whatsyy2282.cyou/" redirects to a non-HTTPS site, which is insecure and a common indicator of phishing.
+   - The presence of the word "WhatsApp" in the screenshot of the webpage may indicate an attempt to impersonate or suggest an official association with WhatsApp.
+   - The text in the screenshot, based on the visual design, seems to be instructing users on how to set up WhatsApp, likely in a deceitful manner.
+   - Unprofessional webpage design or layout: The screenshot has elements (like the loading symbol) that do not match what one would expect from the official WhatsApp webpage.
+   - The use of a ".cyou" top-level domain (TLD) is atypical for a global brand like WhatsApp, which usually uses a ".com" TLD for its official services.
+4. Conclusion: Phishing
+   The combination of an unusual URL, potential misrepresentation of the WhatsApp brand, possible redirection from a secure HTTPS to a non-HTTPS site, and atypical domain usage are all strong indicators that this webpage is a phishing attempt designed to deceive users into believing it is associated with the official WhatsApp service.
+
+
+0db94cbd5c28ec3e2ed3c623ef259600f9de715d38ab232e37b1414623913997
+1. Target Brand: Microsoft Outlook
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL does not correspond to the legitimate Microsoft URL for Outlook sign-in. Legitimate Microsoft URLs usually end with microsoft.com, not oraclecloud.com.
+   - The use of a generic object storage service URL (oraclecloud.com) is suspect, indicating that the page is not hosted on Microsoft's official domain.
+   - The "/n/idrlconj5yne/b/nsggdhshhs/o/login.microsoftonline.htm" path in the URL seems to point to a specific object in a bucket, which is a common pattern for cloud storage services but not for official Microsoft login pages.
+   - The presence of "login.microsoftonline.htm" at the end of the path might be an attempt to masquerade as the legitimate Microsoft online login page, but the preceding cloud storage path gives it away as a likely phishing attempt.
+4. Conclusion: Phishing
+
+Given the URL is hosted on a cloud storage service and the domain does not match the expected microsoft.com, it is highly likely that this page is a phishing webpage designed to impersonate Microsoft's Outlook login page to steal user credentials.
+
+
+0dbce85d682d36ec3d51e3c1a4f01543c9ff0ae6a837a666fb60eb822b5ee53d
+1. Target Brand: AT&T
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL is not an official AT&T website; it is hosted on 'webydo.com', which is a web design platform, rather than AT&T's own domain.
+   - The site's URL starts with 'http://' instead of 'https://', which might indicate that the site is not secure. Reputable companies often use SSL to secure their login pages, which is indicated by 'https://' in the URL.
+   - The design of the login page looks simple and unprofessional, potentially indicating it's not the official site. Major companies often have professionally designed web pages.
+   - There's a discrepancy between the URL displayed in the browser and the supposed service the user is logging into (AT&T Mail and Currently.com), which suggests a lack of authenticity.
+   - The domain itself looks like a randomly generated string within 'webydo.com', which is common for phishing sites trying to appear legitimate temporarily.
+4. Conclusion: Phishing
+
+
+0dc2a5f543a29b4ab9c41c00aa884a02a57280c95f5cc63512b3202dff48bcca
+1. Target Brand: The target brand is not explicitly mentioned in the screenshot provided; however, it suggests the involvement of a web-based email service or application.
+2. Has user credential fields: No user credential fields are visible in the provided screenshot. The user is prompted to select their language to continue, which implies that credential fields may be presented in subsequent steps.
+3. Phishing Indicators:
+   - **URL structure**: The URL features a typical `/wp-includes/` path, which suggests it is part of a WordPress installation. However, the legitimate WordPress directory structure is being misused to host a phishing page, as genuine WordPress core paths like `/wp-includes/` would not typically contain user-facing content.
+   - **Misleading domain**: The URL comes from `fullmediaservice.it`, which may not be associated with the email service provider the user expects. Phishing attempts often use domains that have no direct association with the brand they are impersonating.
+   - **Query parameters**: The URL has query parameters that include an email address (?email=a@a.c), which is a common tactic used in phishing to personalize or track phishing attacks.
+   - **Vagueness**: The message on the page is vague ("You are about to upgrade your mail quota"), which is often the case with phishing attempts to create a sense of urgency or importance.
+   - **Design**: The visual design of the page is simple and lacks branding, which could be a tactic to avoid immediate suspicion or to target multiple brands with the same scheme.
+   - **Timestamp**: The timestamp in the image, while not inherently indicative of phishing, may be used to convey a false sense of real-time activity or urgency.
+4. Conclusion: Phishing.
+
+The combination of a misleading domain, use of legitimate WordPress paths for deceptive purposes, personalized URL parameters, vagueness in communication, and absence of specific branding strongly suggest that this is a phishing attempt designed to lure users into providing personal information or credentials.
+
+
+0df5cbf1eda78f6a92749042ec8ca9d3be371c6a46cb1be0dd2313f3e7751b6e
+1. Target Brand
+   - AT&T
+   
+2. Has user credential fields
+   - Yes
+3. Phishing Indicators
+   - The URL provided (http://attcom-107700.weeblysite.com/) and the visited URL (https://attcom-107700.weeblysite.com/) are both suspicious because they use a subdomain (attcom-107700) on a free hosting service (weeblysite.com), which is not an official AT&T domain.
+   - The presence of the Weebly branding at the bottom of the page ("eCommerce by Square") suggests this is not an official AT&T site, as an official corporate page would not include such elements.
+   - The page layout and design look simplistic and not consistent with the quality and style one would expect from an official AT&T login page.
+   - The term "Pa**word" is unprofessional and likely a typo which would not be present on an official login page.
+   - The use of HTTP instead of HTTPS in the provided URL (though the visited URL appears to have HTTPS) could also be a phishing indicator, as legitimate sites, especially those requiring login credentials, would typically default to using secure HTTPS connections.
+   - There is not typical site navigation or additional informational elements that you would expect on the official login page of a reputable company like AT&T.
+   - Potential absence of a privacy policy, terms of use, or contact information that are usually present on official websites.
+4. Conclusion
+   - Phishing
+
+
+0df982e5ad2879b82a3bbcba1e747dc289a57209cea45846a6a1c22bd7ef22b7
+1. Target Brand: AT&T
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The webpage URL is suspicious. It does not match the official AT&T domain and is hosted on 'weebly.com', which is a free web hosting service often exploited for phishing.
+   - The 'http://' protocol is insecure and typically not used by legitimate businesses, especially for pages that handle sensitive user information. Legitimate sites use 'https://' for secure communication.
+   - The URL contains random characters ('etrtfyg'), which is a common trait in phishing URLs and suggests no affiliation with the genuine AT&T brand.
+   - There's a mismatch between the target brand's official domain and the visited URL provided. The legitimate AT&T website should have a domain related to 'att.com'.
+   - The page layout and design may appear genuine at a glance, but without the context of the URL being within the expected 'att.com' domain, this aspect cannot be fully trusted.
+4. Conclusion: Phishing
+
+The combination of an unrelated domain, the use of 'http://' instead of 'https://', and the strange subdomain with random characters are strong indicators that this is a phishing site attempting to masquerade as an AT&T login page to steal user credentials.
+
+
+0f74c4631b05d51a6cb3ff02353b8d2b8fa8fd865dbdea19652d127a4fe9005a
+1. Target Brand:    Telegram
+2. Has user credential fields:    Not visible in the screenshot; however, it would typically be expected for a legitimate login page to have such fields.
+3. Phishing Indicators:
+   - URL Mismatch: The URL "https://teleaspp.com/" does not match the official Telegram website domain, which is a common tactic used in phishing to deceive users.
+   - Domain Name Trickery: The use of "teleaspp" in the domain suggests an attempt to mimic Telegram's brand but introduces a subtle difference, likely to fool users into thinking they're on the official site.
+   - Lack of Security Indicators: Without additional information on the security certificates (e.g., HTTPS padlock icon), it's unclear if the site has legitimate encryption, which could be a red flag if absent.
+   - Visual Design: The visual elements in the screenshot seem to imitate the branding of the official Telegram messenger service, which phishers often use to legitimize their fake sites.
+   - Linguistic Flaws: The screenshot provided does not have enough context to analyze linguistic accuracy, but linguistic flaws in URLs and webpage copy are common indicators of phishing attempts.
+4. Conclusion:
+   Phishing
+
+The combination of a misleading URL and imitation of the official Telegram messaging service branding strongly indicates that this webpage is a phishing attempt aimed at deceiving users into thinking it is a legitimate Telegram site when it is not. Users should be cautious and verify the website's authenticity through official Telegram channels before providing any information or downloading any software.
+
+
+1bff8f5c75ef5a03fcb9e43a16916cfd943090626233c1654c70bc1ba83a720c
+1. **Target Brand:** Netflix
+2. **Has user credential fields:** Yes (It has an email address field for starting or restarting membership)
+3. **Phishing Indicators:**
+    - The URL provided is `https://anushata055.github.io/Netflix/`, which is hosted on GitHub Pages (a free web hosting platform) and is not an official Netflix domain.
+    - The domain contains a username (`anushata055`), which is typically not used by large corporations for their official pages.
+    - The page asks users to enter their email to "create or restart your membership," which is a common tactic used by phishing sites to harvest personal information.
+    - The page has a fake customer service number `000-000-000-0000`, which is a clear indicator of a scam.
+    - The footer contains typical website links like "Investor Relations," "Privacy," "Speed Test," etc., but these do not appear to be actual links and are just text, which is a common sign of a phishing attempt.
+    - The absence of a secure HTTPS connection (not shown in the information provided) or a valid SSL certificate (if the HTTPS is present but not valid) could be another indicator. (This information is not directly observable from the given details, but it's worth mentioning for context.)
+4. **Conclusion:** Phishing
+
+Based on these indicators, especially the GitHub Pages URL that is clearly not an official Netflix domain, alongside other warning signs, it can be concluded that this webpage is a phishing attempt impersonating Netflix to possibly collect user credentials and other personal information.
+
+
+1c1d19941b9a3062aad475a0bcf53b9763901d626f7a069880f52d1280dda218
+1. Target Brand: The target brand is not identifiable from the information provided. The webpage screenshot shows a generic login page without any specific branding elements apart from the initials "KK."
+2. Has user credential fields: Yes. There are fields for entering an email address and password.
+3. Phishing Indicators:
+   - Mismatched URL: A legitimate website for a known brand would typically not be hosted on a domain that appears unrelated to the brand's official domain name. Here, the URL "https://web-kuda.firebaseapp.com" is hosted on a domain (firebaseapp.com) that is often used for a variety of purposes, including development and testing, rather than a commercial or official application. Without the context of what "KK" stands for, it's hard to match it to a known brand.
+   - No brand indicators: The lack of clear and identifiable branding elements raises suspicion. Most genuine login pages will have the company's logo, name, style, and design that corresponds with their official site.
+   - Generic Design: The design of the page appears overly minimalistic and generic, which could be interpreted as a lack of effort to closely mimic a legitimate login page of a well-known company, or alternatively, an intentional choice to keep the design simple.
+   - Domain age or history: Websites hosted on domain services like Firebase could be newer or might frequently change, which is typical for phishing sites; however, without access to domain age information, we can't use this as an indicator.
+4. Conclusion: Indeterminate. There is not enough information to conclusively determine if this is a phishing site. Suspicion is warranted given the generic nature of the page and the fact that the domain does not clearly link to a known brand. Users should not enter information unless they can verify the authenticity of the site through other means. Additional investigation into the "KK" branding, Firebase application usage, and contacting the entity that is supposedly represented would be necessary to make a definitive conclusion.
+
+
+23923020cc2098a3f069d03af5b293cbb8d532dad22be4f1099f65361504b0b2
+1. Target Brand: Telegram
+2. Has user credential fields: Yes (Based on the typical pattern of legitimate sign-in pages, any request for login information could be considered a user credential field, but the screenshot doesn't allow us to ascertain whether fields for entering credentials are actually present.)
+3. Phishing Indicators:
+   - URL Suspicion: The official Telegram application and service are not associated with the domain "telegra2.org". The official Telegram site is "telegram.org".
+   - Visual Design: The design appears to mimic the branding of Telegram but the discrepancies in the design quality and layout raise suspicions.
+   - Language and Grammar: The language in the image suggests that it targets Chinese-speaking users, which may not fit the official language style Telegram uses in communications or on its legitimate website.
+   - Lack of Secure Protocol: Without knowing whether the site uses HTTPS or HTTP, it lacks a visible element of a secure connection which can be a red flag, although this is not visible in the screenshot.
+   - Too-good-to-be-true Offers: Encouraging the download of versions for different platforms might be a ruse to install malicious software.
+4. Conclusion: Phishing
+
+The provided information strongly suggests that the website is a phishing attempt trying to masquerade as the official Telegram messenger to deceive users into downloading potentially harmful software or disclosing personal information.
+
+
+48648ae67c2ba2f14d14440ab83221a5e91976c07fdad6923d67679506d8493d
+1. Target Brand: Telegram
+2. Has user credential fields: Cannot be determined from the provided screenshot.
+3. Phishing Indicators:
+   - URL Mismatch: The official Telegram website would not be hosted on a domain such as "eieggim.life." Official Telegram URLs are usually on the "telegram.org" domain or similar credible domains directly associated with Telegram.
+   - Design and Layout: While the screenshot shows a design similar to the legitimate Telegram site, phishing websites commonly mimic the appearance of official sites.
+   - URL Credibility: The domain "eieggim.life" does not seem to have any logical connection to the official Telegram platform and appears to be suspicious.
+   - Lack of Security Features: If the website lacks HTTPS encryption or shows other security warnings (which cannot be checked through the screenshot), this could also be indicative of phishing.
+   - Spelling and Grammar: There might be possible errors in the text on the site, which is a common phishing indicator. The screenshot provided is not of high enough quality to assess this criterion effectively.
+4. Conclusion: Likely Phishing
+
+Based on the suspicious URL that does not match the official Telegram domain, there is reason to believe this could be a phishing attempt trying to mislead users into thinking it is associated with Telegram when in fact it is not. Nonetheless, without further information about the presence of credential fields or the site's behavior, the conclusion is based on the URL mismatch indicator alone. Users should exercise caution and avoid inputting any personal information into the site.
+
+
+6699cf25907a71d13e4ca198f889729818b50c04a94a902e5680ea42c23e69f7
+1. Target Brand: Telegram
+2. Has user credential fields: The screenshot does not show any user credential fields directly, but that does not mean they are not present elsewhere on the site.
+3. Phishing Indicators:
+   - The URL (https://tejsomkm.xyz/) does not match the official domain of Telegram.
+   - The URL structure appears suspicious and does not relate to a reputable or official source.
+   - The domain contains an unusual combination of letters that do not form a recognizable word or brand.
+   - There is a lack of secure HTTPS protocol indicators, such as a missing padlock symbol in the address bar (although this cannot be confirmed through a screenshot alone).
+4. Conclusion: Based on the mismatched URL and the domain that is not associated with the official Telegram website, there is a high likelihood that this is a Phishing webpage attempting to imitate Telegram.
+
+
+798954895e228905bf2ae218c1c813b657727ba18760904b0bd269f140c58347
+1. Target Brand: Telegram
+2. Has user credential fields: No (There are no visible areas in the screenshot where user credentials are being requested, however phishing pages may prompt for credentials at a different stage, so absence in the screenshot does not guarantee their absence on the site)
+3. Phishing Indicators:
+
+- URL Mismatch: The domain in the provided URL "http://jnapk4.org/" does not match the official Telegram domain. Telegram's official website uses the "telegram.org" domain.
+
+- Suspicious URL Structure: The domain "jnapk4.org" contains random characters and numbers, which is often a characteristic of phishing sites.
+
+- Misleading Visuals: The use of Telegram's official logos and UI elements in the webpage design can trick users into believing they are on an official site.
+
+- Domain Age: Phishing sites often have newly registered domains. Verification of the domain's age and registration details would be necessary for a more accurate assessment.
+
+- Lack of Security Features: The website is using "http" rather than the secure "https" protocol, which Telegram's official site uses to secure user data.
+
+- Unofficial Distribution Channel: Official Telegram apps are typically downloaded from legitimate app stores or the official Telegram website, not third-party sites.
+4. Conclusion: Phishing
+
+Based on the mismatched URL, the suspicious domain name, the lack of security features, and use of official branding, the webpage can be concluded to be a phishing site, likely trying to deceive users into downloading a malicious version of Telegram or to collect user information at some point during interaction with the site. Users should be advised to only download Telegram from official app stores or the authenticated Telegram website.
+
+
+bcc26f5bd0afaeb3c846d0dd64faf14ce2e829c194306c0873d58238e0df29cf
+1. Target Brand: Telegram
+2. Has user credential fields: Not visible in the provided screenshot
+3. Phishing Indicators:
+   - The URL provided (http://telaggrams.xyz/) and the visited URL (https://telaggrams.xyz/) both contain an extra "g" and ends with ".xyz", which are deviations from the official Telegram URL. 
+   - Use of a ".xyz" domain, which is less common for well-established services like Telegram, which typically use ".com" or a similar top-level domain.
+   - The screenshot provided does not reveal the full web page, so additional content that could give more clues about the authenticity of the site is absent.
+   - Official Telegram links and announcements would normally be displayed on well-known, verified platforms, or through the app itself, rather than a standalone website.
+4. Conclusion: Phishing
+
+The evidence strongly suggests this is a phishing website pretending to be associated with Telegram to potentially deceive users into sharing personal information, downloading malicious software, or both. Users should always be cautious and verify the authenticity of a website before providing personal data.
+
+
+e74f1d1dd09de01a22282ac9893c8e07b6a9a8861eb779b4321eee6557c9dcb2
+1. Target Brand: eBay
+2. Has user credential fields: Yes, there seems to be an option to sign in, which would typically involve entering user credentials.
+3. Phishing Indicators:
+   - URL Suspicions: The URL "https://ebay-shopp.cc/" does not match the official eBay domain, which should be "ebay.com" or a variation thereof with a country-specific domain (e.g., "ebay.co.uk" for the United Kingdom). The use of "ebay" in the domain name is a typical tactic to appear legitimate.
+   - Quality of the Website: The website's layout and overall design may mimic eBay, but there can be quality issues such as poor resolution images, misspellings, or a lack of security features.
+   - Language and Branding: Any inconsistencies in language, grammar, and branding could indicate a counterfeit site.
+   - Offers and Prices: Unusually low prices or deals that seem too good to be true can be a sign of phishing or scam tactics to lure in potential victims.
+   - Contact Information: The contact email given appears generic and does not match the official eBay domain. The address, phone numbers, or other contact details may also be suspicious or verifiably false.
+   - Security Indicators: There may be a lack of HTTPS security certificate details, or the certificate may not be issued to the correct entity, potentially indicated by the browser's warning signs or an investigation of the certificate details.
+4. Conclusion: Phishing
+
+Based on the domain name and other potential indicators of phishing such as the likelihood of credential input fields, the website is highly suspicious and should be treated as a phishing attempt until proven otherwise. It's designed to mimic eBay to deceive users into providing sensitive information or conducting transactions in an unsafe environment.
+
+
+f7900ef035b35988fca1edb0f6a4b8c0ea622ba23c44414a1c741426e1b104b3
+1. Target Brand: Telegram
+2. Has user credential fields: The screenshot provided does not show any user credential fields.
+3. Phishing Indicators:
+   - The URL "http://www.china-telegram.net/" is suspicious because the official Telegram URL is "https://telegram.org" or variations that are directly associated with the official domain. The use of a country-specific mention ("china") in combination with the brand name ("telegram") is often a tactic used by phishers to create a semblance of legitimacy.
+   - The overall quality of the website could be a factor. Phishing sites sometimes have poor quality graphics or text, but based on this screenshot, the quality seems consistent, which makes this not a strong indicator by itself.
+   - Lack of secure protocol: The use of "http://" instead of "https://" suggests a lack of security which is unusual for an official site handling personal data. Most legitimate sites use SSL to encrypt data, indicated by "https://".
+   - The website's content seems to be related to Telegram mobile applications, and no direct request for login credentials is seen; however, the presence of download links requires caution as they could potentially be malicious software disguised as legitimate Telegram apps.
+   - Dates and contents of the "最近动态" (Recent Activities) section could be checked against official Telegram announcements for consistency.
+4. Conclusion: The conclusion regarding whether this site is phishing or not cannot be definitively made based solely on the screenshot and URL. However, due to the suspicious URL, the lack of secure protocol, and without further proof of legitimacy, the site should be treated with caution and initially considered potentially phishing. Users should be advised to verify the authenticity of the site through other means and not to enter personal information or download files from this site until it is confirmed to be legitimate.
+
+

@@ -1,0 +1,140 @@
+0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254
+1. Target Brand: Microsoft (Outlook is specifically mentioned)
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided does not align with the official Microsoft domain structure. The subdomain and domain names seem suspicious and could suggest a phishing attempt.
+   - The URL contains a pub- prefix and a complex alphanumeric string, which is not a characteristic of legitimate Microsoft URLs.
+   - The use of a ".dev" top-level domain (TLD) is atypical for Microsoft service sites.
+   - The subsequent path "/servicerequest.html" does not follow Microsoft's standard URL patterns for login pages.
+   - The fragment identifier "#3mail@b.c" in the URL appears irrelevant and not typically part of a genuine login URL.
+4. Conclusion: Phishing
+
+Based on these indicators, it is highly likely that this is a phishing attempt masquerading as a legitimate Microsoft sign-in page to deceive users into providing their email, phone, or Skype details.
+
+
+29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d
+1. Target Brand: Shaw Communications (Canadian telecommunications company)
+2. Has user credential fields: Yes.
+3. Phishing Indicators:
+   - The URL provided "http://ffhshaw.com/" and "https://ffhshaw.com/" do not match the official Shaw Communications domain, which should typically end with "shaw.ca".
+   - Usage of HTTPS on the visited URL might give a false sense of security, but the domain itself is still suspect.
+   - The design might be imitating the legitimate Shaw Communications login page, but without further context or the ability to compare it directly to the official page, this cannot be confirmed.
+   - The subdomain "ffh" could be a random assortment of characters or an acronym not commonly associated with Shaw Communications, which is unusual for an official domain.
+   - There could be a lack of secure indicators like a padlock icon beside the URL or missing security certificates, although these indicators cannot be confirmed from the provided information.
+   - Domain age or registration details, if obtained, may suggest a recently created domain, a common trait of phishing sites.
+4. Conclusion: Phishing. 
+
+The mismatch between the domain of the provided URL and the official domain for Shaw Communications combined with the other indicators suggests that this is a phishing attempt designed to impersonate Shaw's official login page to unlawfully gather user credentials. Users should be cautious and verify the authenticity of any site before entering login information, particularly when the domain name appears suspicious.
+
+
+2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062
+1. Target Brand: Google
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided does not match the official domain of Google services. Google's official URLs typically use the "google.com" domain, whereas the URL here is an IP address.
+   - The URL contains query parameters that are unusual and could be an attempt to mimic a legitimate Google URL. Official Google sign-in pages often have cleaner, more standardized URLs.
+   - The use of an IP address (129.226.210.78) directly in the URL is suspicious, as legitimate companies like Google usually use domain names that are easier to verify and recognize.
+   - The lack of a secure protocol (HTTPS) in the URL. Legitimate sign-in pages like Google's would use HTTPS to ensure a secure connection.
+   - The domain in the URL appears to be a numerical IP address, which is uncommon for mainstream services that typically have their own dedicated domain names.
+4. Conclusion: Phishing
+
+Given the information provided and the analysis of the indicators, the webpage appears to be a phishing attempt targeting users of Google services. Users should exercise caution and avoid entering any personal information on this site. It's advisable to always look for the correct HTTPS protocol and a familiar domain when entering sensitive information like login credentials.
+
+
+38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
+1. Target Brand: The branding appears to resemble that of Facebook, due to the iconic color scheme and elements that look similar to Facebook's security and login interface features. 
+2. Has user credential fields: Yes, there are fields prompting for an "Email address or phone number" and "Password".
+3. Phishing Indicators:
+   - Sense of Urgency: The message creates a sense of urgency, stating "Your account will be deactivated soon" which is a common tactic used by phishers to rush users into providing their credentials without thinking.
+   - Generic Language: The text uses a generic term "your account," instead of specifying the service or using personalization, which legitimate communications from service providers often do.
+   - Threat of Negative Consequences: It suggests that the account has been reviewed and will be permanently disabled for not complying with the "Community Standards."
+   - Security Notification Claim: The message claims to send a security notification and asks to verify the account, which is a common phishing tactic.
+   - Suspicious URL: The domain in the provided URL "https://apps.minnukka.net/" does not match any official domain associated with Facebook, which typically has "facebook.com" as the base domain.
+   - Request for Credentials: A legitimate entity like Facebook usually does not request sensitive login information via such a webpage; normally, the process involves directing the user to the official site to log in securely.
+4. Conclusion: Phishing
+   The screenshot, combined with the URL, strongly suggests that this is a phishing attempt designed to impersonate Facebook in order to collect user credentials unlawfully. Users should be warned against entering any sensitive information and to verify the authenticity of the URL by checking for the official domain of the service provider.
+
+
+3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa
+1. Target Brand: Google (Gmail)
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided uses an IP address (`43.156.0.130`) instead of a typical domain name that would be associated with legitimate Google services.
+   - The URL structure contains suspicious parameters and does not resemble the standard structure used by Google for its login pages.
+   - The "http" protocol is used instead of "https", which is a secure protocol that Google always uses for its account services to ensure user data is encrypted.
+   - The URL path itself does not follow the expected format for Google account services. 
+4. Conclusion: Phishing
+
+Based on the analysis of the URL and knowledge of standard Google login page characteristics, the webpage under examination is highly indicative of a phishing attempt designed to mimic a Google sign-in page to deceive users into providing their account credentials.
+
+
+3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae
+1. Target Brand: DocuSign
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided does not match the official DocuSign domain. Official DocuSign pages would typically be hosted on a domain associated with "docusign.com,” not on "weebly.com".
+   - The subdomain ("fileprotectedsharelinedd453") appears to be randomly generated and not something an official company would use for a login page.
+   - The use of a free website builder domain (Weebly) is uncharacteristic of a professional service such as DocuSign.
+   - There's incongruence between the quality of the website design and what would be expected from a legitimate organization like DocuSign.
+   - The presence of a login form asking for email addresses and passwords is a common tactic in phishing attempts to collect user credentials.
+   - The website footer mentions "Copyright © 2022 DocuSign Inc." which could be outdated or incorrect; this could be a red flag if the current year is beyond 2022 as legitimate websites usually keep their copyright dates updated.
+4. Conclusion: Phishing
+
+Based on the analysis of the provided webpage screenshot and URL, the signs strongly suggest that this webpage is a phishing site attempting to masquerade as a DocuSign login page to harvest user credentials.
+
+
+50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419
+1. Target Brand: Microsoft
+2. Has user credential fields: Yes (Based on the image, it appears there is an attempt to collect Microsoft account credentials)
+3. Phishing Indicators:
+   - Incongruent URL: The domain "jackwwtp.com" does not match the official Microsoft domain. Microsoft's official domains typically end with 'microsoft.com'.
+   - Suspicious Path: The URL path contains obfuscated or nonsense endpoints like 'heaven/verily/truth/' and an encoded portion at the end, which does not resemble a legitimate Microsoft URL structure.
+   - Encoding: The encoded portion "Y2hyaXNzQHRoZWphY2tmcnVpdGNvbXBhbnkuY29t" within the URL could be an attempt to conceal suspicious parameters or credentials.
+   - Visited URL: The visited URL is hosted on a ‘pub-xxxx’ domain followed by what appears to be a random string, and then a ‘.r2.dev’. This does not correspond to any known Microsoft domain and indicates a development or staging environment often not used in legitimate large-scale services.
+   - Misleading Subdomain and File Path: The use of 'pub-02c7a38666214a48b43a1c1fc544e582.r2.dev' and 'link%20(27).html' further suggests a non-standard and potentially deceptive URL, not indicative of a secure Microsoft sign-in page.
+4. Conclusion: Phishing
+
+This webpage exhibits multiple signs of being a phishing attempt targeted at Microsoft users to steal credentials. The domain, path, and overall structure of the URL are not consistent with authentic Microsoft sign-in pages. Users should be cautious and avoid entering their information on such a webpage.
+
+
+596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3
+1. Target Brand: NTT DOCOMO, INC
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided contains a seemingly legitimate 'docomo' reference but is followed by a suspicious domain 'remotevs.com' which is not an official domain of NTT DOCOMO.
+   - The URL structure is non-standard and complicated, with additional unnecessary and suspicious parameters and encodings that might be intended to confuse the user.
+   - The URL contains IP addresses and extraneous characters, hinting at an attempt to hide the true destination.
+   - The visual design of the webpage in the screenshot may mimic the branding of NTT DOCOMO, but such mimicry is a common tactic used by phishing websites to appear legitimate.
+   - There may be language incongruence or misspellings in the text (not directly visible or understandable from the screenshot if it is in a language not understood by the observer).
+4. Conclusion: Phishing
+
+The combination of a suspicious URL and the attempt to replicate an official login panel for NTT DOCOMO all point towards phishing activity. Users should be advised not to enter their details on this site and to report it as fraudulent.
+
+
+61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce
+1. Target Brand: Microsoft
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL does not belong to the official Microsoft domain (it should be something like "microsoft.com," not "sitebeat.crazydomains.com").
+   - The domain "crazydomains.com" indicates a generic hosting service, which would be unusual for an official Microsoft sign-in page.
+   - Use of a subdomain ("sp79750") that seems unrelated to Microsoft, further suggesting that this is not an official page.
+   - The lack of HTTPS or a security certificate indicator (not visible in the screenshot or the given URL text) could also be a phishing indicator.
+4. Conclusion: Phishing
+
+The presence of user credential fields on a page mimicking the appearance of an official Microsoft sign-in page, combined with the suspicious URL that does not match the official domain of Microsoft, strongly suggests this webpage is a phishing attempt.
+
+
+a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa
+1. Target Brand:    TV Licensing (UK)
+2. Has user credential fields:    From the screenshot provided, it's not possible to see any user credential fields directly. However, the webpage is prompting users to update their Direct Debit, which implies that the following page might have input fields for personal and financial details.
+3. Phishing Indicators:
+   - URL Suspiciousness: The URL contains a string of nonsensical parameters and appears complex. Legitimate sites usually have simpler and more straightforward URLs for user actions.
+   - Domain Inconsistency: The domain "tv.activate-uk.com" may not match the official domain of the legitimate TV Licensing website, which should be checked against the known official domain.
+   - Sense of Urgency: The text on the page suggests a need to update account details urgently to "enable your services again," a common tactic in phishing attempts.
+   - Typos and language: If there are any grammatical errors or odd language use, that can be another indicator, though it's not clear from the provided image if this is the case.
+   - Security Claims: The page mentions "All transmission are secured using 256 bit SSL layer." Phishing sites often falsely claim high security to gain trust.
+   - Visual Design: While the page layout and design appear professional, phishing sites may mimic the look of legitimate sites to deceive users.
+   - No HTTPS: The URL provided starts with "https://" however, without being able to visit the site, it's not possible to confirm if it has a valid SSL certificate.
+4. Conclusion:    Phishing (Based on the given indicators, it is advised to treat this site with suspicion, and verify its authenticity before entering any personal details or following any instructions it gives.)
+
+

@@ -1,0 +1,234 @@
+0300be1c692e2598724d8992ed1687064d772dd4ad2c65bda20f614d0ef4321e
+1. Target Brand: Netshoes
+2. Has user credential fields: No (the screenshot does not show any login or credential input fields)
+3. Phishing Indicators:
+    - URL mismatch: The provided URL "https://pegueicupom.com/" does not match the expected official domain for Netshoes, which could raise suspicions. Typically, official websites will have a consistent domain that matches the brand name.
+    - Website design: While the design appears professional, it is important to note that it can be mimicked and does not guarantee the legitimacy of the site.
+    - Trust badges or lack thereof: Although there are payment option logos at the bottom, the absence of more recognized trust badges may be cause for scrutiny.
+    - Promotions too good to be true: Offering unusually high discounts can sometimes be a tactic used in phishing to lure victims.
+    - Absence of user credential fields in this particular screenshot does not confirm legitimacy as phishing sites may also have pages without login forms.
+4. Conclusion: Insufficient information for definitive conclusion. While there are some concerns, such as URL mismatch and potential too-good-to-be-true promotions, without more information on the URL's reputation, webpage behavior, and any user input areas, it isn't possible to conclusively determine if it's a phishing site solely based on the provided screenshot and URL. Users should always be cautious, check for secure connections (HTTPS), avoid providing personal information unless they are certain of the website's authenticity, and verify through official channels.
+
+
+2144b3b3cd198d7a15855e8b49cf59ec1f0f3961c0e81dfc211513e2234153f7
+1. Target Brand: The target brand appears to be Bet365, which is a legitimate and well-known online gambling company.
+2. Has user credential fields: The screenshot does not provide enough information to determine if there are user credential fields since it is a full-page image filled with promotions and there are no visible fields for username or password entry.
+3. Phishing Indicators:
+   - Overuse of promotional content: The webpage is extremely cluttered with various promotions, discounts, and offers, which can be a tactic to distract users from the authenticity of the site.
+   - Non-professional design: The design is flashy with an overabundance of colors and mismatched graphics, which is atypical of a professional betting company like Bet365.
+   - Multiple brand logos: Logos of different brands and casinos are displayed, which may imply an attempt to appear associated with well-known entities to gain trust.
+4. Conclusion: Considering the excessive promotional content and non-professional design, the webpage exhibits traits that can be associated with phishing websites. However, without clear evidence of credential fields or malicious intent, a definitive conclusion about this being a phishing site cannot be made solely based on the image and URLs provided. Additional information such as the presence of secure protocols (HTTPS), the actual URL domain matching the official Bet365 domain, and the behavior of the site when interacting with it would be necessary for a full assessment. Therefore, from the information at hand, it is not possible to definitively conclude that this is a phishing webpage; however, caution is advised.
+
+
+2dbbc8f4dd74d47745add189f3a00b3e2861fc4ce30c19b902a50ca9603dcf84
+1. Target Brand: Telegram
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+  - The URL "http://telegczn.club" does not match the official Telegram domain, which is a strong indicator of a phishing attempt.
+  - The ".club" domain is often associated with low-cost domain registrations, which can be common among phishing scams.
+  - Lack of secure HTTPS protocol in the provided URL which is expected on legitimate login pages to ensure user data security.
+  - The URL structure ("/web") is atypical and not consistent with the official Telegram website.
+  - Visiting the URL directly may reveal additional indicators such as poor design, typos, or other discrepancies which are common in phishing sites.
+  - Use of simple traps like a login page in a language not consistent with the primary user base could also be a tactic to confuse users.
+4. Conclusion: Phishing
+
+Without investigating the webpage live and solely depending on the provided screenshot and URL, the above points strongly suggest that this is a phishing attempt aimed at users of Telegram. Users should be advised to avoid entering any personal information on this site and to only use the official Telegram website or apps for any activity related to their accounts.
+
+
+4be94d1cf61fe9314b54a30f884ff05ceb85319cf18c005774f79aac34155e14
+From the image provided and the URL:
+1. Target Brand: It is not evident which specific brand is being targeted from the image alone as it does not display any recognizable logos or company names that are associated with established brands. The image seems to show various courses or lectures with individuals presenting different topics, but no explicit brand targeting is shown.
+2. Has user credential fields: The image does not show user credential fields, as it seems to be a series of promotional tiles for different courses or programs. However, without seeing the whole webpage or the actions that occur when one interacts with the buttons, I cannot conclusively state whether there are user credential fields on the actual webpage.
+3. Phishing Indicators:
+   - The URL provided (https://4soclift.online/) has no clear connection to any established educational institution or a known brand which could indicate it is not an official site.
+   - The domain ".online" is a generic top-level domain (TLD) that might be used by phishing attempts due to its general nature and the lower cost to register such domains.
+   - Lack of brand consistency in the URL may also suggest that it's not an official website.
+   - The quality of the images, design, or if there are any language errors could also serve as indicators, but this requires a more detailed evaluation.
+   
+4. Conclusion: Based on the available information, I cannot conclusively determine whether the webpage is phishing or non-phishing. While the provided URL and lack of explicit brand association might be considered suspicious, these alone are not sufficient to determine the nature of the webpage with certainty. A more thorough examination including visiting the actual URL, checking for secure HTTP protocol, looking for user credential collection mechanisms, and evaluating the content and behavior of the site would be necessary to make a definitive judgment.
+
+
+644b57d030e8483c3c9ba3b7d842c5af03fed79ddce68af297cb1bc3aee48e0c
+1. Target Brand: Telegram
+2. Has user credential fields: No (based on the provided screenshot, there are no visible user credential fields)
+3. Phishing Indicators:
+   - The URL provided (http://teleg1ream.com/) contains an intentional misspelling of the official Telegram domain with the insertion of "1" to mimic the "l" letter, a common tactic used in phishing to deceive users.
+   - The webpage's design attempts to replicate the aesthetic of Telegram's official site, which may convince unsuspecting users that it is legitimate.
+   - The screenshot does not provide the full webpage content, which limits the analysis. Consequently, other phishing indicators might not be visible.
+   - The absence of secure HTTP (HTTPS) in the provided URL is another red flag, as legitimate sites especially ones dealing with user data, typically use HTTPS to ensure a secure connection.
+4. Conclusion: Phishing
+
+The combination of the misspelled domain name designed to imitate the legitimate brand's URL and the lack of HTTPS strongly suggests that this is a phishing attempt rather than an authentic Telegram webpage. Users should avoid interacting with this webpage and instead access Telegram services through the official, verified channels.
+
+
+8346d4f6a9a0e0f0808c2c1203014b9126725f2467c66470ae0424c75ba8360a
+1. Target Brand: Redtail Technology
+2. Has user credential fields: Yes (Username and Password fields are present)
+3. Phishing Indicators:
+   - The URL provided ("http://redtailfriday0004.firebaseapp.com/") uses HTTP instead of HTTPS, which is less secure and uncommon for legitimate login pages.
+   - The URL structure appears suspicious with the subdomain "redtailfriday0004," which could be an attempt to mimic the legitimate Redtail Technology domain.
+   - Usage of a free hosting service ("firebaseapp.com") which is not typically used for official company login pages. Legitimate company webpages usually have their own domain.
+   - The numeric string "0004" in the URL may imply that this is one of many similar sites, which can be a red flag for phishing attempts.
+4. Conclusion: Phishing
+
+The combination of these factors suggests that the webpage screenshot provided is likely part of a phishing attempt designed to look like a legitimate Redtail Technology login page.
+
+
+90b0cf47d8679a3290669531272cbc327be8461ab49a11e27d3264438dd719bf
+1. Target Brand: Wayfair
+2. Has user credential fields: No visible user credential fields are shown in the provided screenshot of the webpage.
+3. Phishing Indicators:
+   - The URL in the screenshot matches the known domain for Wayfair, which is "wayfair.com".
+   - The visual design and layout appear consistent with Wayfair’s branding and typical product listing format.
+   - The use of HTTPS protocol in the URL indicates a secure connection, which is expected for legitimate e-commerce websites.
+   - There are no overt grammatical errors, suspicious pop-ups, or unfamiliar redirects visible in the provided image.
+4. Conclusion: Non-phishing
+
+Based on the information available in the screenshot and URL given, there is no evidence to suggest that the webpage is a phishing site. It appears to be a legitimate Wayfair product listing page. However, this assessment is based solely on the provided information; a more thorough analysis might require direct interaction with the website and examination of the underlying page source code.
+
+
+b796fd6776b871b74cabeb494ddb82588dc31df60f07db605d5695901607487f
+1. **Target Brand:** Bet365
+2. **Has user credential fields:** Not visible in the provided screenshot.
+3. **Phishing Indicators:**
+   - **Mismatched URL:** The website displays "bet365" branding prominently but the URL in the screenshot does not match the official Bet365 domain (www.bet365.com). Instead, it shows "7365009.com" which is a strong indicator of phishing, as phishing sites often use deceptive URLs that resemble the brand they're impersonating, but with slight variations.
+   - **High-value promotions:** The promotional offer on the page is suspiciously high, offering substantial bonuses, which could be a tactic to entice users.
+   - **Poor design and layout:** The overall design and presentation may not match the quality expected from a large, legitimate company like Bet365.
+   - **Domain Age and History:** Phishing websites often use newly registered domains. The analysis of the domain's age or history was not conducted here, but it something that could be checked.
+   - **Secure Connection Missing:** Assuming that visiting "http://3636sb.com/" redirected to "https://7365009.com/" without SSL security (indicated by 'https'), this could be a sign of a phishing attempt. However, the visited URL does show 'https', indicating a secure connection, which can sometimes be present even on phishing sites to seem legitimate.
+   - **Lack of Contact and Legal Information:** Legitimate betting sites usually have comprehensive legal and contact sections to comply with regulations. It's unclear from the screenshot if this information is present or accurate.
+4. **Conclusion:** Phishing
+
+The mismatched URL and the suspicious promotional offers are strong indicators that this webpage might be a phishing attempt impersonating the Bet365 brand. Users should be cautious and verify the authenticity of the site through official Bet365 channels before entering any personal information or logging in.
+
+
+d9f5e35c9fb5542262bd582d5f636b133af4a90aafff6b67df8b3df58836c459
+1. Target Brand: M&T Bank
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL does not match the official domain of M&T Bank. Authentic bank URLs typically do not include subdirectories like "new/bbs/data/event" in their domain structure.
+   - The domain "busanopen.org" is not associated with M&T Bank and indicates that the website is masquerading as the bank's site.
+   - The use of a legitimate bank's branding in a mismatched URL raises suspicion.
+   - HTTP protocol is used instead of HTTPS, which is a security concern for legitimate banking transactions that typically require an encrypted connection (HTTPS).
+4. Conclusion: Phishing
+
+Based on the unusual URL structure and domain not matching the official M&T Bank domain, in conjunction with the fact that sensitive user credential fields are present, it is likely that the webpage is a phishing attempt.
+
+
+da7209afd2979c8329dfa64c2cdd285d318b21fb6ef0d61afc18d53b243af9a7
+1. Target Brand: Not specified in the image provided.
+2. Has user credential fields: Yes (Email and Password fields are visible).
+3. Phishing Indicators:
+   - URL: The provided URL "http://auth-production-4a4bc.firebaseapp.com/" uses HTTP instead of HTTPS, which is less secure and a common trait of phishing sites, although legitimate sites, especially when under development or for internal use, might also use HTTP.
+   - Domain Name: The domain ".firebaseapp.com" is associated with Firebase, a platform developed by Google for creating mobile and web applications. It could be used legitimately for development purposes but also could be utilized by phishers to host fake login pages.
+   - Visual Design: The visual design itself does not provide clear phishing indicators without more context. However, phishing pages often mimic the design of legitimate services to trick users into entering their credentials.
+   - No Brand Indication: Most legitimate login pages have clear branding, logos, or other company identifiers to indicate the service to the user. The absence of any brand identity in the screenshot could be a red flag.
+   - Generic Design: The simplistic and generic design of the login box could be indicative of a phishing attempt as it does not contain any personalized elements that would suggest it belongs to a well-known service.
+4. Conclusion: Indeterminate. Without additional information such as the identity of the target brand or the website's expected URL, it is not possible to conclusively determine if the webpage is phishing or non-phishing based on the URL and the screenshot provided. More information and context is needed to make an accurate assessment. If a user has doubts about the legitimacy of this page, it is advised to contact the presumed company directly through official channels or navigate to the known legitimate website manually.
+
+
+ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983
+1. Target Brand: The image does not explicitly show a targeted brand. Without additional context, I cannot accurately identify a specific target brand.
+2. Has user credential fields: No, the screenshot does not display any user credential fields. It shows an error message indicating that access is forbidden.
+3. Phishing Indicators:
+   - The error message is somewhat generic and could be used to disguise the true nature of the site.
+   - Use of a public IP address (137.132.218.133) in the error message rather than a domain name could be unusual, although this may sometimes appear in legitimate error pages too.
+   - Language inconsistency: The message starts in Chinese and then switches to English, which could be an indicator if the website is expected to operate in one specific language.
+   - Error Code: It references "605.html" which does not correspond to standard HTTP error codes, possibly indicating an attempt to mislead a user.
+   - The site's domain (from the given URL): Without knowing the nature of the service the domain is offering, domains with numerical sequences can sometimes be indicative of disposable or low-effort phishing sites, but this is not a definitive indicator on its own.
+4. Conclusion: Indeterminate. The screenshot alone does not provide enough evidence to conclusively identify the webpage as phishing or non-phishing. There are some irregularities that could raise suspicion, but without further analysis of the page's content, the URL's reputation, and additional context about the service it purports to offer, no definitive conclusion can be made from the screenshot alone. It would be prudent to approach the website with caution and verify its legitimacy through other means.
+
+
+ff6b737751c4090f39e246dbab884d010e14c21797da0407b14cce12c5357d9c
+1. Target Brand: Cloudflare (implied by the Cloudflare logo and reference).
+2. Has user credential fields: Cannot be determined from the provided information. The screenshot does not display any form fields or login prompts for entering user credentials.
+3. Phishing Indicators:
+   - Grammatical error in the text "We needs to review the security of your connection before proceeding." Proper English would be "We need to review..."
+   - The image alone does not provide evidence of a phishing attempt; it is designed to look like a legitimate Cloudflare security check page. However, grammar mistakes can be red flags in such contexts.
+   - The visited URL contains a random alphanumeric string followed by a ".workers.dev" domain, which is not typical for a standard Cloudflare security check URL, which usually occurs transparently on URLs of the site being accessed.
+   - The URL also includes a query parameter that contains what appears to be an email address, which is not standard for a Cloudflare security check page.
+   - The provided URL on its own does not indicate a target brand but includes "gestaltentities.com" which is not related to any well-known company. The path "/p/asdf" seems arbitrary and does not point to a known service or resource.
+4. Conclusion: The screenshot could potentially represent a non-phishing webpage as it depicts a common Cloudflare checking procedure. However, the URL provided, coupled with the grammatical error on the page, and the unusual structure of the visited URL, raises suspicion. Therefore, without further information or context, it is not possible to conclusively determine if the website is phishing or non-phishing. Caution would be advised before proceeding with such a site, and additional verification of the website's authenticity should be sought.
+
+
+ff745b855934ce4a847d3b07be14fae4fc8aec4fa405ff5cb8775bcd77e17ce6
+1. Target Brand: Commerzbank.
+2. Has user credential fields: Yes.
+3. (List of) Phishing Indicators:
+   - The URL provided does not belong to the official domain of Commerzbank. Legitimate Commerzbank URLs would typically end with 'commerzbank.de' or similar variations that are owned by the bank.
+   - The subdomain 'blog.dularsharma.com' suggests that the page is hosted on a personal blog, which is not a practice a legitimate bank would employ for their login page.
+   - The URL path contains a directory named 'acces,' which may be a misspelling of 'access,' and it appears unprofessional or crafted in haste, which is common in phishing attempts.
+   - The path also includes a file named 'Anmeldung%20zum%20Digital%20Banking%20-%20Commerzbank.php' indicating it's a PHP page, possibly designed to emulate the bank's actual login page. The usage of '%20' represents encoded spaces and is atypical for a banking URL structure.
+   - The visual design in the image can resemble the official bank's interface, but cybercriminals often clone legitimate sites to create convincing fakes.
+   - There may be other indicators not visible in the URL, such as poor language or security inconsistencies within the content of the page, but those cannot be assessed from the URL alone.
+4. Conclusion: Phishing.
+
+
+ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662
+1. Target Brand:
+The target brand appears to be a financial institution or banking service, possibly German due to the language used on the webpage (couldn't specify without more detail).
+2. Has user credential fields:
+Yes, it conspicuously has an area where a user is expected to upload something, which might be a deceptive method to obtain sensitive information. However, there are no visible traditional credential fields such as username, password, or account number boxes in the provided image.
+3. Phishing Indicators:
+- The URL provided (https://blog.dularsharma.com/acces/phototan.php/) contains elements attempting to masquerade as a legitimate service, with "phototan.php" possibly trying to resemble an authentic banking process (PhotoTAN is a legitimate two-factor authentication method used by some banks).
+- The URL domain is suspect. It is structured as a personal blog rather than a secure banking or financial service domain.
+- The URL path attempts to mimic a legitimate banking service by including "/acces/phototan.php/" which would be unusual for a professional financial institution to use for secure services.
+- The usage of ‘http’ instead of a secure ‘https’ connection may indicate a lack of secure encryption typically found in legitimate banking sites (though the visible protocol does actually indicate HTTPS, this point might still be considered in a broader analysis).
+- Misspelled words or grammatical errors are often an indicator of phishing attempts; although this cannot be confirmed without understanding the language content better.
+- Asking users to upload sensitive information via a webpage without proper context or authentication process is a common phishing tactic.
+4. Conclusion:
+Phishing
+
+Based on the URL and suspicious page content requesting the upload of sensitive information, the website is likely a phishing site that attempts to impersonate a legitimate financial service to deceive users into providing confidential data.
+
+
+ff7defb38194d97bb909399e10a77a57bc4e7a8a1fc6cde104121ee2b2769083
+1. Target Brand: The brand targeted appears to be Yahoo based on the url which contains "YAHOO.html".
+2. Has user credential fields: It is not possible to determine from the screenshot whether there are user credential fields, as the screenshot shows an XML error page rather than a login or input form.
+3. Phishing Indicators:
+   - The URL contains a domain that suggests it's hosted on an IBM cloud service which could be legitimate, but the "/crackpotism/YAHOO.html" part seems suspicious. Legitimate Yahoo pages are typically hosted on their own official domains, not within directories that appear unrelated.
+   - The error message showing "Access Denied" is not a definitive phishing indicator on its own, but it indicates that the expected content is not available to the public, which could raise suspicions about the site’s purpose.
+   - Use of cloud storage for hosting webpages is atypical for large corporations, which generally use their own domain names.
+4. Conclusion: Unable to conclusively determine if phishing or non-phishing due to lack of visible login page or credential fields. However, the URL and the mismatch between Yahoo's official domain and the one shown raises suspicion. Further investigation would be necessary to conclusively identify the site as phishing or legitimate.
+
+
+ffa33109af4b72825f28ac19b14f48ddfb7d3cbd9652896a0c57107a29d32fc5
+1. Target Brand: Facebook
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL listed in the question is not the official Facebook URL; it contains "github.io" and seems to be a personal GitHub pages URL.
+   - The user is directed to a clone of the official website, which is indicated by "Facebook-Clone" in the URL, suggesting that it is a replica and not the legitimate site.
+   - The official Facebook login page would not be hosted on a GitHub user repository, as indicated by "renassilva.github.io". This is a common practice for phishing attempts, where attackers host fake login pages on free hosting platforms.
+   - The legitimacy of the URL can also be queried due to it being publicly shared which is an atypical behavior for legitimate sign-in pages unless it's part of an instructional tutorial or demonstration with clear disclaimers.
+4. Conclusion: Phishing
+
+Given the evidence above, the webpage appears to be a phishing site designed to mimic the official Facebook login page to deceive users into entering their credentials.
+
+
+ffbb55989db21c98053b19e4a84e60358232181175610a8f965873dd7b06e76e
+1. Target Brand:
+   The target brand appears to be Microsoft, as the screenshot shows various Microsoft products such as Surface devices and Xbox, and uses the Microsoft logo.
+2. Has user credential fields:
+   No, the webpage screenshot provided does not display any fields where user credentials are requested. It mainly shows product information and various Microsoft services.
+3. Phishing Indicators:
+   - The provided URL does not match the legitimate Microsoft URL which is typically under the "microsoft.com" domain. Instead, it uses an IPFS (InterPlanetary File System) network with a non-standard URL format.
+   - Using IPFS and the "eth.aragon.network" is unusual for a large, reputable company like Microsoft. This might indicate an attempt to use a domain that can confuse users by including "eth" (possibly referring to Ethereum, which is associated with blockchain and sometimes used in phishing schemes).
+   - The legitimate Microsoft website for Singapore (as seen in the screenshot with "/en-sg/" at the end) would not be hosted on an IPFS network, as official websites generally use secure and private hosting services.
+4. Conclusion:
+   Phishing. The indicators point towards the webpage being a phishing attempt, as the URL provided does not align with the official Microsoft domain and uses a network (IPFS) and structure that is atypical for a reputable company's official website.
+
+
+ffebad27c1c7954600ac1080a3f0cb7e07739fd4cba45813f06e45593c8567a9
+1. **Target Brand:** IBM.
+2. **Has user credential fields:** Unable to determine from the provided screenshot.
+3. **Phishing Indicators:**
+   - The URL contains the string 'ibmbucket7106' which would insinuate an association with IBM, but this may not be an official IBM domain.
+   - The domain 'cloud-object-storage.appdomain.cloud' does not directly indicate an official IBM domain which typically would end with 'ibm.com'.
+   - The URL format typically associated with storage buckets (like AWS S3) might be impersonating legitimate cloud storage services, which is a common tactic in phishing to host malicious or deceptive files.
+   - The error message in the screenshot indicating "Access Denied" with an XML structure could be seen as an attempt to masquerade as an error page from a legitimate service provider to confuse the user.
+   - Presence of seemingly random strings and ‘playwright-*’ in the error message is suspicious and could be indicative of a test or automation script, which is not expected in legitimate error messages.
+4. **Conclusion:** Due to the presence of a suspicious URL format that doesn't match the official IBM format and peculiar details in the error message, this webpage should be approached as a possible phishing attempt. However, since no user credential fields can be verified from the screenshot, no definitive conclusion can be drawn just from the provided information.
+
+It's important to verify the legitimacy of the page by contacting the official support of the target brand or by comparing the URL with the official URLs the brand uses for its cloud services. Furthermore, to conclusively determine whether it's a phishing attempt, one would ideally want to see the full webpage for any login prompts, forms, or other web elements designed to trick users into providing their credentials.
+
+

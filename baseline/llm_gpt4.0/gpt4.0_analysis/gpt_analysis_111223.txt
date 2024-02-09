@@ -1,0 +1,148 @@
+02f8196dac7787e7eabd5b592bce5720a7c26481bd5012ab7d71707b9e9a2096
+1. Target Brand: Discord
+2. Has user credential fields: The screenshot does not visibly show any user credential fields.
+3. Phishing Indicators:
+   - URL Mismatch: The URL provided (https://app.dabing888.cn/) does not correspond to the official Discord URL, which is a strong indicator of phishing.
+   - Suspicious Domain: The domain name "dabing888.cn" appears unrelated to the official brand and seems suspicious.
+   - Lack of HTTPS: Can't be determined from the provided input.
+   - Spelling and Grammar: Can't be assessed from the provided screenshot and URL.
+   - Visual Design: The visual design appears to mimic the official Discord branding, which is a phishing tactic, but without more of the site context, it's difficult to evaluate further.
+4. Conclusion: Phishing
+
+Based on the obvious mismatch between the URL provided and the legitimate Discord website, it's likely that the page is a phishing site designed to mimic Discord to deceive users.
+
+
+0823fc2c15a69b8c5150e5e9116adbf26b4ad35f8f9b8eed7b929b27378c083b
+1. Target Brand: Apple Inc.
+2. Has user credential fields: No (Based on the visible area in the screenshot, there are no direct indications of user credential fields; however, phishing pages may have such fields on other parts of the website not visible here.)
+3. Phishing Indicators:
+   - URL Mismatch: The official Apple website would be hosted on a domain under apple.com, whereas the URL provided is "http://appleboot.netlify.app/", which is not a domain owned by Apple.
+   - Hosting Platform Indicator: The domain is hosted on Netlify, a popular web hosting service, which is not consistent with Apple's official hosting practices.
+   - Content Quality: While the screenshot shows high-quality images and appears professionally designed, it is common for phishing sites to emulate the appearance of legitimate brands closely.
+   - Domain Name Suspicion: The use of "appleboot" in the domain name could be an attempt to trick users into thinking it's associated with booting Apple devices or related services, but it is not an official name used by Apple.
+   - Suspicious Top-Level Domain: .app is a legitimate top-level domain, but it is not the one Apple uses for its official website.
+   - Lack of HTTPS: The URL provided starts with "http://" instead of "https://", which indicates a lack of secure protocol that is expected from official websites dealing with user information.
+  
+4. Conclusion: Phishing
+
+Given the indicators present, this website is highly likely to be a phishing attempt that mimics the appearance of Apple's official site to deceive users.
+
+
+1e353d7c372ea41e34474d88b9f07053c30baac861c2eb537a53b7a6191b77ef
+1. Target Brand: DHL.
+2. Has user credential fields: No (But the page has a prompt for a payment confirmation which could potentially ask for user credentials in the next steps).
+3. Phishing Indicators:
+   - The URL provided (https://mytubeuk.co.uk/wp-content/plugins/cartflows/DHL_Final/) is suspicious because it does not belong to the official DHL domain and instead, it uses a seemingly unrelated domain (mytubeuk.co.uk). Official DHL webpages will typically be under the domain "dhl.com" or the respective country's official DHL domain.
+   - The webpage is hosted in a directory that suggests it is part of a WordPress plugin directory (wp-content/plugins), which is not typical for an official DHL tracking page.
+   - The path containing "cartflows/DHL_Final" appears unprofessional and inconsistent with DHL's official webpage structuring.
+   - The request for a payment to complete the delivery is highly irregular for a courier service tracking page. Legitimate courier services, including DHL, normally do not ask for payments via a tracking information page.
+   - The lack of secure HTTPS protocol indicated in the provided URL.
+   - The visual design might imitate official branding, but the functionality requesting a payment is atypical for a DHL service.
+4. Conclusion: Phishing. 
+
+The indicators strongly suggest that this is a phishing site designed to mimic DHL to potentially defraud users by eliciting payments or personal information.
+
+
+37897ccac26e3078c13e262164560c59fa2c8f6e36711f0ea9aab34a552d2df3
+1. Target Brand:
+Binance (Note: The legitimate Binance logo and name are used, but this does not confirm the authenticity of the website.)
+2. Has user credential fields:
+Yes (fields for "Your name," "Your lastname," and "Your Email").
+3. Phishing Indicators:
+- Suspicious URL: The website URL "http://onlinebitc-pro.top/" or "https://onlinebitc-pro.top/" does not correspond to the official Binance domain and appears untrustworthy.
+- Unrealistic offers: The promise of compensation payouts in Bitcoin for personal data leaks is a common phishing lure.
+- Poor design and layout: The design does not match the quality expected from an established organization like Binance.
+- Grammar and spelling mistakes: Professional websites will have content checked for proper grammar and spelling, which may not be the case here.
+- Urgency and limited timeframes: The quick 30-minute service delivery time can be a tactic to rush users into making decisions without due diligence.
+- Dubious success statistics: Open statistics data and the amount of Bitcoin paid out seem implausible and are likely fabricated to create a sense of legitimacy and urgency.
+- Lack of secure connection: The use of "http" in one instance instead of "https" can indicate a lack of security measures, which is not expected from a financial service.
+- Partially obscured email addresses in the register of applications can be a tactic to suggest privacy while using recognizable email providers to seem legitimate.
+4. Conclusion:
+Phishing
+
+This website exhibits several clear indicators of phishing, aiming to deceive users into believing it is a legitimate Binance service for compensation payments related to personal data leaks. The aim is likely to harvest personal details and potentially solicit fraudulent transactions under the guise of providing compensation. Users should not interact with this site and should consult the official Binance website or support for legitimate services and concerns.
+
+
+4558556277cb95270112afccde92732e6619c03f6313113e73114771ee28ece7
+1. Target Brand: The screenshot appears to represent a generic "WEBMAIL" service, with no specific brand indicated.
+2. Has user credential fields: Yes, there are fields for the email address and password, as well as a "Remember Me" checkbox.
+3. Phishing Indicators:
+   - URL Suspicion: The URL does not seem to match any official email service provider, which is suspicious. The use of "ipfs.eth.aragon.network" seems to imply it uses the InterPlanetary File System together with some relation to Ethereum or Aragon, which are not standard for email services.
+   - Lack of HTTPS: Unfortunately, I can't verify whether the protocol used is HTTP or HTTPS since the scheme is not visible in the URL provided. However, if the site does not use HTTPS, that would be a red flag.
+   - Generic Design: The WEBMAIL logo looks generic and unbranded. This lack of official branding could be an attempt to look sufficiently vague to trap users of various email services.
+   - The email placeholder "someone@example.com" is another indicator. "Example.com" is reserved for documentation and is not used by legitimate services.
+   - Grammar and Style: The message "sign in using your email and password to retrieve pending emails" is oddly phrased, which could suggest a non-professional source.
+   - Additional Login Methods: Offering a "Sign in with a single-use code" is not inherently suspicious, but its implementation could be abused if the rest of the page is not securing a legitimate service.
+4. Conclusion: Phishing.
+   The combination of a suspicious URL, generic web design, and placeholder text commonly used for examples rather than functioning services strongly indicates that this webpage is a phishing attempt rather than a legitimate webmail service.
+
+
+5e4146ab1693fee02f478133ca4d3363e408bbe4723df1957a7d3f7d2f5b1933
+1. Target Brand: Netflix
+2. Has user credential fields: The screenshot does not provide enough information to determine whether there are fields designed for users to enter credentials. However, the sign-in button on the top-right suggests that there could be a login page linked to this.
+3. Phishing Indicators:
+
+   - URL mismatch: The URL provided (http://harshrajvardhan.github.io/Netflix-Clone) does not match the official Netflix domain, which is a strong indicator of a phishing site.
+   - Github.io domain: The use of the github.io subdomain indicates that this is hosted on a free platform, which is uncommon for a legitimate enterprise like Netflix that would host on their own authoritative domains.
+   - Clone reference: Including the word "Clone" in the URL suggests replication of the original site, which is common in phishing attempts.
+4. Conclusion: Phishing
+
+This webpage appears to be a phishing attempt or a non-official replica of the Netflix website, potentially intended for educational or deceptive purposes. It is imitating the style and branding to mislead users into believing that it is an official Netflix platform. Users should be cautious and verify the legitimacy of the website before entering personal or login information.
+
+
+9b216c6ae9f14b6382dbb9309e087532d62874b4570e6608ebf9d6e6fb022eae
+1. Target Brand: Bradesco Saúde (Bradesco Health Insurance)
+2. Has user credential fields: No (the form is for a quotation, not for logging in)
+3. Phishing Indicators:
+   - The URL provided ("https://simularconvenio.com.br/BRAD-SEGUROS/") seems unofficial and does not match the typical format used by Bradesco for its online services.
+   - The domain "simularconvenio.com.br" lacks the official "bradesco" domain and may be created to imitate Bradesco's real services, suggesting an attempt to mislead users.
+   - The URL contains a hyphenated phrase ("BRAD-SEGUROS") which is often not used in official URLs for large corporations and may be a tactic to create a sense of legitimacy at a glance.
+   - The visual design tries to mimic the Bradesco brand, which can be a tactic to confuse users into thinking this is an official page.
+   - The webpage features a WhatsApp button which might not align with the official communication channels preferred by Bradesco.
+   - There is a lack of security features typically found on official banking or insurance websites, such as HTTPS protocol with a lock icon (not visible in the screenshot but observable from the URL).
+4. Conclusion: Likely Phishing
+
+The overall design of the page might seem legitimate at first glance, but upon closer inspection of the URL and considering the combination of indicators, it is likely that this webpage is a phishing attempt crafted to mimic the official Bradesco Saúde website and deceive individuals into entering their information under false pretenses. Users should be cautious and verify the legitimacy of the site through official channels before proceeding.
+
+
+c3e16a011801c712e23071aa3f0c85c2c87fc2e3ac50ef0008acec190529a2d3
+1. Target Brand: Netflix
+2. Has user credential fields: Yes (there is a field for entering an email address, typically the next step would be to enter a password)
+3. Phishing Indicators:
+   - URL Suspicion: The URL provided (https://srinathakula45.github.io/OctaNet_TASK_3/) does not match any official Netflix domain, and it's hosted on GitHub Pages which is unusual for a commercial service like Netflix.
+   - Domain Relevance: The domain name contains a personal name (srinathakula45) which is not typical for official websites of large brands.
+   - Unofficial Hosting Platform: "github.io" indicates the site is hosted on GitHub Pages, which is a platform typically used for personal projects or documentation, not for hosting Netflix's official pages.
+   - Task or Assignment Indication: The URL ends with "TASK_3" which might suggest it's part of a task or a test, not a legitimate business function.
+4. Conclusion: Phishing
+
+The webpage is most likely a phishing attempt, as it is trying to appear as Netflix's official site but is hosted on a questionable domain and platform for such a service. Users should be cautious and not enter any personal information on such a page.
+
+
+ce9a10cf68cf5c1f9522b38b9f8c2193bb464307885906666deff0e4eb6be5af
+1. Target Brand: Huntington Bank
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided (`https://elektroplatin.com`) does not match the official domain of Huntington Bank.
+   - The presence of a complex and suspicious path in the URL (`.well-known/pki-validation/joint/Huntington22/login/`) that is unlikely to be used by a legitimate banking institution for a login page.
+   - The use of a seemingly unrelated domain (`elektroplatin.com`) which is not associated with the legitimate bank's domain. Legitimate bank URLs typically contain the bank’s name as the main domain (e.g., `huntington.com`) and not as a subdirectory or page.
+   - The URL has a long query string with hexadecimal strings that could indicate a phishing attempt to track or validate the victim's input.
+   - The URL has a repeating pattern of "login" which could be designed to trick users into thinking they are on the correct page (e.g., `/login/login.php`).
+   - The URL contains suspicious parameters within the query string like `cmd=login_submit` and session details, which are often not seen in legitimate banking URLs for a simple login page.
+   - The presence of `/pki-validation/`, which could be an attempt to appear valid or certified, when in fact it is completely irrelevant for a normal user login process for a banking website.
+4. Conclusion: Phishing
+
+This webpage contains multiple indicators that are common in phishing sites, aiming to masquerade as Huntington Bank's online banking login page to trick users into providing their usernames and passwords. Users should avoid entering any personal information on this site and should navigate directly to the official Huntington Bank website instead.
+
+
+d87d7258560168d8786f10c43d6b9b1a22cee3df72748119cdaea617b559462f
+1. Target Brand: Microsoft
+2. Has user credential fields: No (The provided screenshot doesn't display user credential fields.)
+3. Phishing Indicators:
+   - URL mismatch: The provided URL (https://ipfs.eth.aragon.network/...) does not match the official domain of Microsoft, which is typically "microsoft.com."
+   - Suspicious subdomains and domain extension: The official Microsoft website does not use ".eth.aragon.network" as part of its domain, nor does it use IPFS (InterPlanetary File System) for its main customer-facing pages.
+   - Anonymity of the URL: The use of IPFS and the complexity of the URL suggest that it's not a standard URL for an established company like Microsoft.
+4. Conclusion: Phishing
+
+The screenshot appears to be an attempt to replicate the appearance of Microsoft's official webpage to mislead users, but the URL is a giveaway that the page is likely phishing.
+
+

@@ -1,0 +1,133 @@
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+1. Target Brand: Telegram
+2. Has user credential fields: The screenshot provided does not show any user credential fields directly, but such fields could be present on different parts of the website not visible in the screenshot.
+3. Phishing Indicators:
+   - The text is in Chinese, and it mentions the brand Telegram multiple times which could indicate the site is trying to appear affiliated with the official Telegram service.
+   - The URL "www.tbxjly.com" does not match the official Telegram website, nor does it have any obvious association with the official Telegram brand.
+   - Lack of secure HTTPS protocol in the provided URL (http instead of https), although the "Visited URL" indicates that there is a secure version. Legitimate sites, especially ones dealing with user credentials, typically force HTTPS to ensure security.
+   - The visual design of the webpage does not match the professional quality typically associated with official sites of popular brands and could be attempting to mimic the look of Telegram.
+   - The absence of branding elements such as official logos and the overall webpage layout may not correspond to the official Telegram webpage design.
+   
+4. Conclusion: Without more concrete evidence such as user credential fields directly visible on the webpage, misspellings, or other definitive proof, it is not possible to conclusively state that the website is a phishing website. However, the URL's lack of clear affiliation with the official Telegram brand and the fact that the site is attempting to associate itself with Telegram without being the official site are significant red flags. It is advisable to approach the site with caution, and users should not input personal information or download software from such sites without further verification of its authenticity. Based on the provided information, the site could potentially be a phishing site.
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+1. Target Brand: Libero
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided (http://ip170.ip-51-89-105.eu/verifica.php) seems suspicious as it is an IP address rather than a domain name which is atypical for legitimate businesses, particularly for sensitive operations like password recovery.
+   - The IP address used in the URL indicates a web server rather than a domain associated with the Libero brand.
+   - The verification page asking for such sensitive information (secondary email or mobile phone number) is unusual without having gone through previous steps of user authentication.
+   - The absence of secure HTTPS protocol in the URL could also be a red flag, as legitimate services dealing with account recovery typically use HTTPS to ensure a secure connection.
+4. Conclusion: Phishing
+
+Given the suspicious URL and the lack of standard security measures, the website should be treated as a potential phishing site designed to capture user credentials. Users should be advised to avoid such sites and instead navigate directly to the official Libero website for any account issues.
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+1. Target Brand: Vidéotron
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL contains a suspicious subdomain (videotronmaill.weebly.com), indicating it is not the official domain of Vidéotron (usually it would end in '.com' without additional subdomains or suffixes).
+   - Misspelling in the URL ("maill" instead of "mail").
+   - Use of a free web hosting platform (Weebly), which is uncommon for legitimate business pages of well-established brands like Vidéotron.
+   - Absence of secure HTTPS protocol in the provided URL, whereas legitimate business websites typically use HTTPS to ensure secure communication.
+   - The overall page design may not match the official branding, web design, or sophistication of a legitimate Vidéotron login page, although without direct comparison to the legitimate page, this might be difficult to discern.
+   - Lack of language selection may be an indicator if Vidéotron normally offers their services in both English and French, given their customer base.
+   - Low resolution of elements or logos (if present) could indicate a phishing attempt; however, this cannot be determined without direct visual evidence.
+4. Conclusion: Phishing
+
+
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+1. **Target Brand:** Trust Wallet
+2. **Has user credential fields:** No – Based on the screenshot provided, there are no fields visible where a user would input credentials such as a username or password. However, phishing webpages may also aim to trick users into downloading malicious software rather than directly stealing credentials.
+3. **Phishing Indicators:**
+   - **URL Suspiciousness:** The provided URL (http://trustwallet.masdubai.com/) seems suspicious because it contains an additional domain element ("masdubai") which is not part of the official Trust Wallet domain.
+   - **Inconsistent Branding:** The visual elements such as the logo and overall design cannot be accurately verified from a screenshot alone. However, assuming the design mimics the authentic Trust Wallet site, this could be used to trick users.
+   - **Lack of Security Indicators:** The URL uses "http" rather than "https," which is less secure and not typically used for legitimate finance-related services where sensitive data is handled.
+   - **Unusual Offers or Claims:** Although not evident in the screenshot, if the webpage makes unusual offers or claims that seem too good to be true, this could be a sign of phishing.
+4. **Conclusion:** Phishing – Based on the suspicious nature of the domain in the URL, which does not match the official Trust Wallet domain, and the lack of "https" security, the webpage should be treated as a potential phishing site. Users are advised to exercise caution and verify the legitimacy of the site before downloading any software or sharing any personal information.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+1. Target Brand: Telegram
+2. Has user credential fields: No
+3. Phishing Indicators:
+   - The domain name looks suspicious. The legitimate Telegram website is `telegram.org` or subdomains directly related to it. In this case, `-com-zhcn.pages.dev` does not appear to be an official Telegram domain.
+   - Use of a free hosting platform (`pages.dev` is known to be associated with Cloudflare Pages) is a common tactic for phishing sites, as it is free and can be set up quickly.
+   - Aesthetically, the website's appearance closely mimics the legitimate Telegram branding and layout, which can be a tactic used by phishing sites to trick users into believing they are on the official site.
+   - The top-level domain (`pages.dev`) suggests a developer platform rather than an official business presence. Legitimate companies typically use their own domain.
+4. Conclusion: Phishing
+
+Overall, while the screenshot of the page does not show user credential fields, the URL itself is a strong indicator that the website is not an official Telegram site and thus is likely a phishing website created to imitate Telegram and potentially mislead users into divulging personal information or downloading malicious software. Users should avoid entering personal information or downloading software from such sites. Always refer to the official website or app store for downloads.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+1. Target Brand: The target brand appears to be an email service provider, as indicated by the "Webmail" sign-in interface, but the specific brand is not clear from the image itself.
+2. Has user credential fields: Yes (Username and Password fields are present).
+3. Phishing Indicators:
+   - The URL does not match the standard convention used by well-known webmail service providers; instead, it is an IPFS gateway URL, which is unusual for a legitimate email service login page.
+   - The presence of ".ipfs.cf-ipfs.com" in the URL is not typical for a professional webmail service, which usually has a more concise and brand-specific domain.
+   - Use of HTTP protocol instead of HTTPS, which is a security standard for login pages to ensure encrypted communication. Legitimate webmail services would most likely use HTTPS to protect users' credentials.
+   - The login page is very simplistic and lacks branding elements that are usually present to assure users of authenticity, such as logos, support links, and additional company information.
+   - The copyright date might not match the current year, which can sometimes be an indicator of a hastily put together phishing page (although this is not always a reliable sign).
+4. Conclusion: Phishing
+
+Based on the URL provided and the visual indicators from the screenshot, it is highly probable that this is a phishing site attempting to masquerade as a webmail service to capture users' credentials.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+1. Target Brand: Coinbase
+2. Has user credential fields: This cannot be determined from the provided screenshot.
+3. Phishing Indicators:
+    - URL Mismatch: The URL provided (http://www.coinbasewalletty.com/) and the visited URL (https://www.coinbasewalletty.com/#/) are suspicious as they do not match the official Coinbase domain, which typically ends with "coinbase.com".
+    - Unusual Domain Prefixes: The prefixes "walletty" in the domain are not standard for the official Coinbase website.
+    - Lack of Secure Protocol: The provided URL uses "http" instead of the secure "https" protocol which is expected of a legitimate financial service website.
+    - Subdomain/Domain Deception: Phishing attempts often use a legitimate brand name within a longer, altered domain name to deceive users.
+    - Visual Design: The screenshot seems to mimic the branding and design of the official Coinbase platform to appear trustworthy. However, without the rest of the page or additional context, it's hard to assess the quality of the imitation.
+4. Conclusion: Phishing
+
+The URL provided and the assessed indicators strongly suggest this webpage is a phishing attempt masquerading as the legitimate Coinbase service. Users should be cautious and verify the site's authenticity directly through Coinbase’s official channels before entering any information.
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+1. Target Brand: The screenshot doesn't provide enough information to accurately determine the target brand, as it only shows a generic login prompt without any branding. However, the nature of the prompt suggests it could impersonate an email service provider given the fields for email and password.
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL provided (http://mealyfulloptimization.midwaveventure.repl.co/) is suspicious because it uses a generic, non-brand-specific domain and a subdomain that doesn't match any well-known email service providers.
+   - The URL's structure, with multiple subdomains and an unusual top-level domain (.repl.co), is commonly used in phishing attempts to mimic legitimate websites.
+   - The language used in the login prompt ("Délai de connexion par e-mail, veuillez vous reconnecter") translates to "Email connection delay, please reconnect", which can be a social engineering tactic to create a sense of urgency, often seen in phishing attempts.
+   - The message asks for both email address and email password, which is suspicious as authentic webpages usually only ask for passwords on a separate screen, especially after establishing the user's email address in a previous step.
+   - Absence of any brand-related logos, trusted seals, or normal navigation elements that are typically present on a legitimate login page.
+4. Conclusion: Phishing
+
+Based on the suspicious URL structure and the prompt asking for personal credentials without any clear brand association, and typical phishing indicators, it is highly likely that this webpage is a phishing site.
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+1. Target Brand: The target brand appears to be bet365, a well-known online gambling platform.
+2. Has user credential fields: No specific user credential fields are visible in this screenshot. However, in the context of examining the full webpage beyond the screenshot, there could be fields for user credentials like login or payment information that are not depicted here.
+3. Phishing Indicators:
+   - The URL shown uses a numeral "896" in front of the known bet365 brand, which is not typical for the official website.
+   - Inclusion of 'e365' could be an attempt to resemble the official 'bet365' site's branding.
+   - Offering extravagant promotions or bonuses, such as "首存立送88888元," which could be intended to entice users into providing personal information or making a deposit.
+   - The overall visual design may mimic the original brand's theme to gain the trust of users.
+   - The presence of a QR code advertises downloading an app, which could be a tactic to distribute unauthorized or malicious software.
+4. Conclusion: Phishing. The combination of an anomalous URL and the promise of unusually high bonuses is a common tactic used by phishing websites to impersonate legitimate brands and lure users into revealing their personal and financial information. Users are typically advised to verify the authenticity of the site through official channels before proceeding with any action.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+1. Target Brand: Bank of Ireland
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - Suspicious URL: The domain "personal365-transact.com" does not match the official domain of the Bank of Ireland, which should typically end in a domain such as ".ie" for Ireland, or include the bank's official name in a more recognizable manner.
+   - Asking for Sensitive Information: The form on the webpage is asking for a user ID, date of birth, and phone number. While banks do ask for user IDs, requesting a date of birth and phone number on the same page is unusual and may be an attempt to gather as much personal information as possible in a single go.
+   - Visual Design: The page’s visual design might look legitimate at first glance, but phishing websites often imitate the design of the legitimate site to trick users.
+   - Generic Language: The text and instructions are very generic, which is common in phishing attempts to appeal to a wide audience.
+   - Cookie Notice: While it attempts to look legitimate by displaying a cookie notice, this can be a tactic to make the page seem more authentic.
+   - URL in the page footer: The footer contains a text snippet "BOI/UBPP39-1" that seems to be an attempt to look authentic, but it's unusual and doesn't match standard footer information of a legitimate bank webpage.
+4. Conclusion: Phishing
+
+The webpage screenshot presented, when considered alongside the suspicious URL, strongly suggests that it is indeed a phishing site designed to mimic the Bank of Ireland’s login page to deceive users into providing sensitive information.
+
+

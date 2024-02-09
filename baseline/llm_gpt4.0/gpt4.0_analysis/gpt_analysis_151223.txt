@@ -1,0 +1,144 @@
+4aa338f74582fab200185a53f108bb7c8152644530190f33a54fd1d08e02ad25
+1. Target Brand: Microsoft
+2. Has user credential fields: The screenshot provided does not display user credential fields, but typically these could be present on a login or registration page, which is not shown here.
+3. Phishing Indicators:
+   - The provided URL is suspicious. It is using IPFS (InterPlanetary File System) with a domain that does not resemble a legitimate Microsoft domain structure. The use of alphanumeric characters and the ".ipfs.cf-ipfs.com" part of the URL does not align with official Microsoft URLs.
+   - The visited URL, however, appears to be a legitimate Microsoft URL: "https://www.microsoft.com/en-sg/" which suggests that the actual site may be genuine, but this does not confirm the legitimacy of the provided URL.
+4. Conclusion: The provided URL is likely a Phishing site, due to its suspicious structure and use of IPFS, which is not standard for Microsoft's official web presence. However, the visited URL is likely a Non-phishing site as it corresponds to the legitimate Microsoft format. The screenshot likely depicts the legitimate Microsoft website, but confirmation cannot be made without analyzing the provided URL's content and behaviour directly.
+
+
+4ce8a0e0ae3b7adfe042c6ec9b5da355ced3b7209b8757b394c28c2996c8dce8
+1. Target Brand:
+   - The target brand appears to be DBS Bank in association with Apple, as indicated by the texts "DBS" and "APPLE REWARDS STORE" prominently displayed on the webpage.
+2. Has user credential fields:
+   - The screenshot provided does not show any user credential fields directly; however, such fields may be present on other pages that are not visible from the current view.
+3. Phishing Indicators:
+   - URL Inspection: The provided URL "http://www.dbs.applerewardsstore.com/" is suspicious for several reasons. Legitimate websites often use a secure connection, which is indicated by "https://" rather than "http://". Moreover, the subdomain "dbs" on "applerewardsstore.com" is misleading as it implies an association with the actual DBS Bank, which typically would have its own domain such as "dbs.com" rather than being a subdomain of another entity.
+   - The visited URL "https://dbs.applerewardsstore.com/" uses "https," which is typically expected; however, the subdomain usage is still alarming.
+   - Visual Cues: The website's design utilises the colour schemes, logos, and imagery that can be associated with DBS Bank and Apple, which could either be an attempt to mislead or indicate a partnership.
+   - Lack of Security Features: The screenshot does not show any trust seals, security certifications, or authentication measures often present on legitimate banking and tech product websites.
+   - Domain Credibility: The domain name seems unusual for an official partnership. Typically, such collaborations would be hosted on one of the official domains of the involved parties.
+   - Disclaimer and Association with Third-party: The disclaimer at the bottom of the page mentions that the products and services are provided by OneEmpower. This could either indicate a legitimate third-party partnership or be part of the phishing strategy to lend credibility to the site.
+4. Conclusion:
+   - Based on the indicators, it is uncertain whether the site is phishing without further investigation into the legitimacy of the OneEmpower partnership and the exact matching of the domain name to known DBS or Apple domains. The domain name structure does raise suspicion, and thus this site should be approached with caution. If additional information confirms that OneEmpower is not a legitimate partner of DBS or Apple, or if other signs of phishing are detected upon closer examination, it could be concluded as a phishing website. Users should verify with DBS Bank through official channels before proceeding with any actions on this site.
+
+
+54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81
+1. Target Brand: Instagram
+2. Has user credential fields: The screenshot does not clearly show user credential fields, but the context suggests that they may be present or were expected to be present, as phishing attempts often mimic login pages. 
+3. Phishing Indicators:
+   - URL Mismatch: The URL "http://instagram.bulut.host/" does not correspond to the official Instagram domain, which should have an "instagram.com" domain.
+   - Subdomain Trick: The use of a legitimate brand name as a subdomain ("instagram") of an unrelated domain ("bulut.host") is a common phishing tactic.
+   - Security Warning: The screenshot displays a warning icon and a message in Turkish that translates to "A problem occurred" and "The page cannot be loaded," suggesting an issue that could be related to a deceptive website.
+   - Lack of HTTPS: The protocol used in the URL is HTTP instead of HTTPS which is less secure and not typical for legitimate sensitive login pages that require encryption.
+   - Domain Name: The use of the term "bulut.host" could indicate a temporary or cloud hosting service, which is often used by phishers due to the ease of setting up and taking down fraudulent pages. 
+   - Suspicious Response Code: The screenshot exhibits a large amount of code typically not displayed on a legitimate social media login page.
+4. Conclusion: Phishing
+
+The presence of these indicators strongly suggests that the website in question is a phishing site, attempting to mimic the Instagram login page to potentially deceive users into providing their credentials. Always use caution and verify the authenticity of a website before entering any login information.
+
+
+593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105
+1. Target Brand: bet365
+2. Has user credential fields: The provided image does not show explicit user credential fields such as username or password input areas.
+3. Phishing Indicators:
+   - The URL in the text, "17365.cc", does not correspond with the official bet365.com website.
+   - Use of a different numeric domain "19960721.com" that does not match the official domain or branding of bet365.
+   - Inclusion of QR codes which can be used to redirect to potentially malicious websites.
+   - Advertising a companion mobile app for Android and iPhone, which is a common phishing tactic to lure users to download fraudulent software.
+   - The appearance of a famous sports event (FIFA World Cup Qatar 2022) in an ad context which might be used to create a sense of legitimacy.
+   - Presence of a map with numerical figures which do not have a clear context, possibly aiming to create a false sense of breadth or activity.
+   - A mismatch in the branding consistency: the visual style and wording seem not to align with the typical presentation of the official bet365 brand.
+4. Conclusion: Phishing
+
+The image and details appear to point towards a phishing attempt, using the bet365 brand to lure users into following links or downloading apps that could lead to fraudulent activities. The official bet365 website would typically use a consistent domain and not rely on QR codes or separate numeric domains for sensitive actions. Users should be cautious and verify the authenticity of sites, especially when they involve financial transactions or personal information.
+
+
+6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d
+1. Target Brand: Uphold
+2. Has user credential fields: Yes
+3. Phishing Indicators:
+   - The URL `http://uslogii-upheld.github.io/` is highly suspect because it uses a pattern that imitates a legitimate brand name (Uphold) but is hosted on GitHub Pages (`github.io`), which is a red flag for phishing attempts as legitimate companies typically use their own domain names for login pages.
+   - The screenshot shows a misspelling in the title as "Upo|d Login" instead of "Uphold Login," which indicates a lack of professionalism or an attempt to circumvent text-based phishing detection.
+   - The use of a “Get started” button in the login page flow is unusual for login pages, which typically have buttons labeled “Log in” or “Sign in.”
+   - The content in the screenshot has various grammatical issues and style choices that do not align with the professional standards expected from a legitimate financial platform.
+   - There's a lack of secure protocol (HTTPS) as indicated by the prefix "http://" in the URL, whereas legitimate financial services would enforce HTTPS for security.
+4. Conclusion: Phishing
+
+The combination of these indicators strongly suggests that the webpage is a phishing site attempting to impersonate the legitimate financial service, Uphold.
+
+
+789fd6e7081d9c6f60caa614127d16be13ee598f30eb3f049d54c7ed0208324a
+1. Target Brand:
+   - Microsoft
+2. Has user credential fields:
+   - Based on the provided screenshot, we cannot determine if there are user credential fields as it does not display a login page or similar.
+3. Phishing Indicators:
+   - The provided URL does not match the official Microsoft domain and appears to use an IPFS gateway domain, which is suspicious.
+   - The use of a nonstandard top-level domain (.com) on an IPFS URL may indicate an attempt to mimic a more legitimate website.
+   - The use of a long and complex subdomain with seemingly random characters is atypical for legitimate sites, which generally have more recognizable and simpler domain structures.
+4. Conclusion:
+   - Phishing
+
+Given the highly suspicious URL and the inconsistency with what would be expected from an official Microsoft website, it is very likely that the site is a phishing attempt designed to impersonate Microsoft's web presence to deceive users.
+
+
+b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043
+1. Target Brand:
+   The target brand appears to be DPD, a well-known international parcel delivery service.
+2. Has user credential fields:
+   The provided screenshot does not show any user credential fields directly; however, phishing sites often prompt for credentials on subsequent pages or through buttons that lead to credential input forms.
+3. Phishing Indicators:
+   a. URL Mismatch: The URL in the browser does not match the official DPD website, which is a significant red flag for phishing.
+   b. Inconsistent URL Domain: The presence of "events.preprod.afcen.com" suggests that the site is being hosted under a domain that is not related to the official dpd.com domain, which is suspicious.
+   c. Visited URL Mismatch: The reported visited URL, "https://rewards.buchung.info.54-91-1-54.cprapid.com," includes a string of numerals resembling an IP address and "cprapid.com," which is not consistent with the official domain of DPD.
+   d. Language Errors/Inconsistencies: Depending on the region, language errors or inconsistencies can be a sign of a phishing attempt.
+   e. Page Quality and Design: While the screenshot shows a page that could resemble an official DPD tracking page, other aspects like low-resolution images, layout, or design inconsistencies could indicate a phishing site.
+4. Conclusion:
+   Phishing.
+   
+Given the URL mismatches and discrepancies between the expected domain for the DPD parcel service and the domains shown in the provided URL and the visited URL, along with the potential for user credential input after interacting with the page, it is highly probable that this webpage is a phishing site attempting to impersonate DPD's official parcel tracking service.
+
+
+b775e39e5156d2f1c18d9dc50868970658e0ce378a542ffbac621213768e9e8a
+1. Target Brand: Microsoft
+2. Has user credential fields: No user credential fields are visible in the provided screenshot.
+3. Phishing Indicators:
+   - The URL provided (`http://bafkreicnbgyba7hx6xglmi6ouw4aoq5k2un2mxpmc4vwcifsgbzisnmzrq.ipfs.cf-ipfs.com/`) does not resemble the official Microsoft domain and instead uses an IPFS (InterPlanetary File System) gateway which is a peer-to-peer network for storing and sharing data. This is an atypical URL structure for a legitimate Microsoft webpage.
+   - The official Microsoft website domain is typically structured as `microsoft.com` with a language or region code when necessary (e.g., `en-sg` for English - Singapore), as shown in the visited URL (`https://www.microsoft.com/en-sg/`).
+   - The use of the HTTP protocol instead of HTTPS could be a concern, as legitimate transactional websites like Microsoft usually use HTTPS to ensure secure communication.
+4. Conclusion: Phishing
+
+Based on the URL provided and the comparison to the legitimate Microsoft website URL, the webpage under examination is likely a phishing site attempting to mimic the official Microsoft website to deceive users.
+
+
+d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed
+1. Target Brand: eBay
+2. Has user credential fields: Not visible in the image provided
+3. Phishing Indicators:
+   - The URL provided "http://global-ebay.net/" uses a hyphen and a generic top-level domain (gTLD) ".net," which is atypical for the genuine eBay website that usually uses ".com" without additional prefixes or hyphens.
+   - The visited URL "https://global-ebay.net/#/pc" again shows the domain "global-ebay.net," which is inconsistent with the authentic eBay domain structure.
+   - The image of the webpage attempts to replicate the layout, design, and color scheme of the authentic eBay website, which is a common phishing tactic.
+   - The bottom of the webpage screenshot indicates that copyright is claimed by eBay Inc., which could be an attempt to appear legitimate; however, the phishy domain casts doubt on this authenticity.
+   - The prices and items listed do not seem to link to any eBay product pages or refer to any auction/bidding numbers, which could indicate that the page is a static mockup rather than a dynamic, legitimate eBay page.
+   - Presence of potentially random or uncharacteristic categories like "Sex" in the webpage's product category listings could be a red flag, as this is not typically a category on eBay.
+4. Conclusion: Phishing
+
+The combination of an atypical domain name attempting to mimic a reputable brand, the use of a secure-looking https protocol to gain trust, and the attempt to replicate the authentic site's look all suggest that this is a phishing attempt masquerading as the legitimate eBay website. Without access to the actual web page to investigate further, such as user credential fields, the URL and visual examination of the screenshot alone provide strong indications that this is a phishing site. Users should be advised not to enter any personal information or credentials on this site and should instead visit eBay via its known legitimate domain.
+
+
+ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521
+1. Target Brand
+The target brand appears to be De'Longhi, which is a well-known manufacturer of coffee machines, kitchen appliances, and home heating products.
+2. Has user credential fields
+The screenshot provided does not show any user credential fields. These fields typically appear during the login or checkout process, which are not visible in the image.
+3. Phishing Indicators
+- The URL is suspicious. Legitimate De'Longhi web addresses would likely end in ".com" or a specific country domain, not ".store". The inclusion of the brand name in the domain in this way is a common phishing tactic.
+- Quality of the design. While the page seems professionally designed at a glance, phishing sites can still mimic authentic looks.
+- The prices and discounts being offered may appear to be too good to be true, which can be another indicator of phishing attempts.
+- Lack of secure connection indicator (HTTPS) in the URL as provided. While not visible in the screenshot, if the website does not use HTTPS, this could be another indicator.
+- No visible customer service contact information or details about the company’s physical location, which are usually present on legitimate retail websites.
+4. Conclusion
+Based on the provided URL and the content of the webpage screenshot, it is likely that this is a phishing site. The domain name looks suspicious and may be attempting to impersonate or feign affiliation with the official De'Longhi website to deceive consumers. Users should be cautious and verify the website's authenticity before making any purchases or providing personal information. Always look for direct confirmation from De'Longhi through an official channel.
+
+
