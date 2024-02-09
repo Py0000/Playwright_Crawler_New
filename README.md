@@ -88,7 +88,7 @@ Returning to the ssh session:
 ### Commands for Analysis / Filtering / Baselines 
 #### Finding blank pages from datasets 
 * Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler` directory
-* Cmd: `python3 -m Analyzer.analysis.blank_page.blank_page_detector {path_to_dataset}/dataset_{date}.zip`
+* Cmd: `python3 -m analyzer.blank_page.blank_page_detector {path_to_dataset}/dataset_{date}.zip`
 
 #### Updating results of llm analysis to excel sheet
 * Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler` directory
