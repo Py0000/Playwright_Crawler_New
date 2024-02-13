@@ -87,11 +87,11 @@ Returning to the ssh session:
 
 ### Commands for Analysis / Filtering / Baselines 
 #### Finding blank pages from datasets 
-* Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler` directory
+* Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler_New` directory
 * Cmd: `python3 -m analyzer.blank_page.blank_page_detector {path_to_dataset}/dataset_{date}.zip`
 
 #### Updating results of llm analysis to excel sheet
-* Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler` directory
+* Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler_New` directory
 * Cmd: `python3 -m Baseline.export_llm_result {path_to_analysis_txt_file} {path_to_excel_sheet} {file_hash_col} {brand_col} {verdict_col}`
   * Phishing: 
     * `file_hash_col`: B
@@ -101,3 +101,12 @@ Returning to the ssh session:
     * `file_hash_col`: B
     * `brand_col`: E
     * `verdict_col`: F
+  
+#### Getting counts of data remaining (after filtering)
+* Pre-cond: Running the script `counter.py` from `Playwright_Crawler_New` directory
+* Cmd: `python3 -m analyzer.utils.counter {dataset_path} {type}`
+  * Arg for `dataset_path`: `dataset`
+  * Possible arg for `type`:
+    * `blank_pages`
+    * `blocked`
+    
