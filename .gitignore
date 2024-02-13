@@ -2,3 +2,7 @@ baseline/llm_geminipro/api_key.txt
 baseline/llm_llava/api_token.txt
 validation/virus_total_api_key.txt
 datasets/
+
+analyzer/__pycache__/
+analyzer/blank_page/__pycache__/
+analyzer/blocked_page/__pycache__/
