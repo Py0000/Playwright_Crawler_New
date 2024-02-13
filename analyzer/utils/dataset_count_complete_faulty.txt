@@ -1,0 +1,677 @@
+251023
+Number of ZIP files in complete_dataset: 2261
+Number of ZIP files in faulty_both: 2595
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 66
+Number of ZIP files in Total: 4952
+
+261023
+Number of ZIP files in complete_dataset: 2346
+Number of ZIP files in faulty_both: 4072
+Number of ZIP files in faulty_no_ref: 32
+Number of ZIP files in faulty_self_ref: 44
+Number of ZIP files in Total: 6494
+
+271023
+Number of ZIP files in complete_dataset: 2315
+Number of ZIP files in faulty_both: 3646
+Number of ZIP files in faulty_no_ref: 36
+Number of ZIP files in faulty_self_ref: 47
+Number of ZIP files in Total: 6044
+
+281023
+Number of ZIP files in complete_dataset: 2910
+Number of ZIP files in faulty_both: 5345
+Number of ZIP files in faulty_no_ref: 35
+Number of ZIP files in faulty_self_ref: 73
+Number of ZIP files in Total: 8363
+
+291023
+Number of ZIP files in complete_dataset: 1891
+Number of ZIP files in faulty_both: 3775
+Number of ZIP files in faulty_no_ref: 19
+Number of ZIP files in faulty_self_ref: 56
+Number of ZIP files in Total: 5741
+
+301023
+Number of ZIP files in complete_dataset: 1972
+Number of ZIP files in faulty_both: 4700
+Number of ZIP files in faulty_no_ref: 35
+Number of ZIP files in faulty_self_ref: 44
+Number of ZIP files in Total: 6751
+
+011123
+Number of ZIP files in complete_dataset: 2013
+Number of ZIP files in faulty_both: 2803
+Number of ZIP files in faulty_no_ref: 51
+Number of ZIP files in faulty_self_ref: 48
+Number of ZIP files in Total: 4915
+
+091123
+Number of ZIP files in complete_dataset: 1681
+Number of ZIP files in faulty_both: 2760
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 51
+Number of ZIP files in Total: 4510
+
+101123
+Number of ZIP files in complete_dataset: 1990
+Number of ZIP files in faulty_both: 4928
+Number of ZIP files in faulty_no_ref: 38
+Number of ZIP files in faulty_self_ref: 40
+Number of ZIP files in Total: 6996
+
+111123
+Number of ZIP files in complete_dataset: 1953
+Number of ZIP files in faulty_both: 5297
+Number of ZIP files in faulty_no_ref: 37
+Number of ZIP files in faulty_self_ref: 53
+Number of ZIP files in Total: 7340
+
+121123
+Number of ZIP files in complete_dataset: 1244
+Number of ZIP files in faulty_both: 2444
+Number of ZIP files in faulty_no_ref: 29
+Number of ZIP files in faulty_self_ref: 41
+Number of ZIP files in Total: 3758
+
+131123
+Number of ZIP files in complete_dataset: 1632
+Number of ZIP files in faulty_both: 6172
+Number of ZIP files in faulty_no_ref: 26
+Number of ZIP files in faulty_self_ref: 47
+Number of ZIP files in Total: 7877
+
+141123
+Number of ZIP files in complete_dataset: 2572
+Number of ZIP files in faulty_both: 5156
+Number of ZIP files in faulty_no_ref: 28
+Number of ZIP files in faulty_self_ref: 58
+Number of ZIP files in Total: 7814
+
+151123
+Number of ZIP files in complete_dataset: 2168
+Number of ZIP files in faulty_both: 2800
+Number of ZIP files in faulty_no_ref: 32
+Number of ZIP files in faulty_self_ref: 41
+Number of ZIP files in Total: 5041
+
+161123
+Number of ZIP files in complete_dataset: 1006
+Number of ZIP files in faulty_both: 1002
+Number of ZIP files in faulty_no_ref: 11
+Number of ZIP files in faulty_self_ref: 25
+Number of ZIP files in Total: 2044
+
+171123
+Number of ZIP files in complete_dataset: 2088
+Number of ZIP files in faulty_both: 3981
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 39
+Number of ZIP files in Total: 6138
+
+181123
+Number of ZIP files in complete_dataset: 2302
+Number of ZIP files in faulty_both: 4482
+Number of ZIP files in faulty_no_ref: 39
+Number of ZIP files in faulty_self_ref: 49
+Number of ZIP files in Total: 6872
+
+191123
+Number of ZIP files in complete_dataset: 1617
+Number of ZIP files in faulty_both: 2949
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 43
+Number of ZIP files in Total: 4627
+
+201123
+Number of ZIP files in complete_dataset: 1850
+Number of ZIP files in faulty_both: 5105
+Number of ZIP files in faulty_no_ref: 35
+Number of ZIP files in faulty_self_ref: 40
+Number of ZIP files in Total: 7030
+
+211123
+Number of ZIP files in complete_dataset: 2348
+Number of ZIP files in faulty_both: 6655
+Number of ZIP files in faulty_no_ref: 25
+Number of ZIP files in faulty_self_ref: 46
+Number of ZIP files in Total: 9074
+
+231123
+Number of ZIP files in complete_dataset: 2086
+Number of ZIP files in faulty_both: 4651
+Number of ZIP files in faulty_no_ref: 24
+Number of ZIP files in faulty_self_ref: 36
+Number of ZIP files in Total: 6797
+
+241123
+Number of ZIP files in complete_dataset: 2157
+Number of ZIP files in faulty_both: 5241
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 26
+Number of ZIP files in Total: 7454
+
+251123
+Number of ZIP files in complete_dataset: 2107
+Number of ZIP files in faulty_both: 5608
+Number of ZIP files in faulty_no_ref: 34
+Number of ZIP files in faulty_self_ref: 32
+Number of ZIP files in Total: 7781
+
+261123
+Number of ZIP files in complete_dataset: 1920
+Number of ZIP files in faulty_both: 6085
+Number of ZIP files in faulty_no_ref: 22
+Number of ZIP files in faulty_self_ref: 37
+Number of ZIP files in Total: 8064
+
+271123
+Number of ZIP files in complete_dataset: 2189
+Number of ZIP files in faulty_both: 6947
+Number of ZIP files in faulty_no_ref: 27
+Number of ZIP files in faulty_self_ref: 50
+Number of ZIP files in Total: 9213
+
+291123
+Number of ZIP files in complete_dataset: 1271
+Number of ZIP files in faulty_both: 1489
+Number of ZIP files in faulty_no_ref: 9
+Number of ZIP files in faulty_self_ref: 25
+Number of ZIP files in Total: 2794
+
+301123
+Number of ZIP files in complete_dataset: 2373
+Number of ZIP files in faulty_both: 3763
+Number of ZIP files in faulty_no_ref: 26
+Number of ZIP files in faulty_self_ref: 41
+Number of ZIP files in Total: 6203
+
+011223
+Number of ZIP files in complete_dataset: 2745
+Number of ZIP files in faulty_both: 4989
+Number of ZIP files in faulty_no_ref: 20
+Number of ZIP files in faulty_self_ref: 69
+Number of ZIP files in Total: 7823
+
+021223
+Number of ZIP files in complete_dataset: 2313
+Number of ZIP files in faulty_both: 3795
+Number of ZIP files in faulty_no_ref: 36
+Number of ZIP files in faulty_self_ref: 41
+Number of ZIP files in Total: 6185
+
+031223
+Number of ZIP files in complete_dataset: 2715
+Number of ZIP files in faulty_both: 6355
+Number of ZIP files in faulty_no_ref: 39
+Number of ZIP files in faulty_self_ref: 43
+Number of ZIP files in Total: 9152
+
+041223
+Number of ZIP files in complete_dataset: 2481
+Number of ZIP files in faulty_both: 6601
+Number of ZIP files in faulty_no_ref: 35
+Number of ZIP files in faulty_self_ref: 51
+Number of ZIP files in Total: 9168
+
+051223
+Number of ZIP files in complete_dataset: 2280
+Number of ZIP files in faulty_both: 7436
+Number of ZIP files in faulty_no_ref: 34
+Number of ZIP files in faulty_self_ref: 44
+Number of ZIP files in Total: 9794
+
+061223
+Number of ZIP files in complete_dataset: 1210
+Number of ZIP files in faulty_both: 1887
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 30
+Number of ZIP files in Total: 3145
+
+071223
+Number of ZIP files in complete_dataset: 1333
+Number of ZIP files in faulty_both: 3952
+Number of ZIP files in faulty_no_ref: 32
+Number of ZIP files in faulty_self_ref: 38
+Number of ZIP files in Total: 5355
+
+081223
+Number of ZIP files in complete_dataset: 968
+Number of ZIP files in faulty_both: 1335
+Number of ZIP files in faulty_no_ref: 10
+Number of ZIP files in faulty_self_ref: 16
+Number of ZIP files in Total: 2329
+
+091223
+Number of ZIP files in complete_dataset: 1538
+Number of ZIP files in faulty_both: 2015
+Number of ZIP files in faulty_no_ref: 22
+Number of ZIP files in faulty_self_ref: 27
+Number of ZIP files in Total: 3602
+
+101223
+Number of ZIP files in complete_dataset: 1353
+Number of ZIP files in faulty_both: 2966
+Number of ZIP files in faulty_no_ref: 16
+Number of ZIP files in faulty_self_ref: 26
+Number of ZIP files in Total: 4361
+
+111223
+Number of ZIP files in complete_dataset: 568
+Number of ZIP files in faulty_both: 713
+Number of ZIP files in faulty_no_ref: 9
+Number of ZIP files in faulty_self_ref: 20
+Number of ZIP files in Total: 1310
+
+121223
+Number of ZIP files in complete_dataset: 2225
+Number of ZIP files in faulty_both: 5549
+Number of ZIP files in faulty_no_ref: 42
+Number of ZIP files in faulty_self_ref: 81
+Number of ZIP files in Total: 7897
+
+131223
+Number of ZIP files in complete_dataset: 2603
+Number of ZIP files in faulty_both: 5479
+Number of ZIP files in faulty_no_ref: 21
+Number of ZIP files in faulty_self_ref: 67
+Number of ZIP files in Total: 8170
+
+141223
+Number of ZIP files in complete_dataset: 1924
+Number of ZIP files in faulty_both: 5037
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 46
+Number of ZIP files in Total: 7025
+
+151223
+Number of ZIP files in complete_dataset: 1587
+Number of ZIP files in faulty_both: 1658
+Number of ZIP files in faulty_no_ref: 27
+Number of ZIP files in faulty_self_ref: 32
+Number of ZIP files in Total: 3304
+
+161223
+Number of ZIP files in complete_dataset: 3058
+Number of ZIP files in faulty_both: 2408
+Number of ZIP files in faulty_no_ref: 39
+Number of ZIP files in faulty_self_ref: 49
+Number of ZIP files in Total: 5554
+
+171223
+Number of ZIP files in complete_dataset: 2270
+Number of ZIP files in faulty_both: 3923
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 32
+Number of ZIP files in Total: 6243
+
+181223
+Number of ZIP files in complete_dataset: 1387
+Number of ZIP files in faulty_both: 3792
+Number of ZIP files in faulty_no_ref: 15
+Number of ZIP files in faulty_self_ref: 32
+Number of ZIP files in Total: 5226
+
+191223
+Number of ZIP files in complete_dataset: 2273
+Number of ZIP files in faulty_both: 5261
+Number of ZIP files in faulty_no_ref: 27
+Number of ZIP files in faulty_self_ref: 41
+Number of ZIP files in Total: 7602
+
+201223
+Number of ZIP files in complete_dataset: 2561
+Number of ZIP files in faulty_both: 6532
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 48
+Number of ZIP files in Total: 9171
+
+211223
+Number of ZIP files in complete_dataset: 2908
+Number of ZIP files in faulty_both: 5393
+Number of ZIP files in faulty_no_ref: 36
+Number of ZIP files in faulty_self_ref: 51
+Number of ZIP files in Total: 8388
+
+221223
+Number of ZIP files in complete_dataset: 3038
+Number of ZIP files in faulty_both: 4062
+Number of ZIP files in faulty_no_ref: 33
+Number of ZIP files in faulty_self_ref: 49
+Number of ZIP files in Total: 7182
+
+231223
+Number of ZIP files in complete_dataset: 3163
+Number of ZIP files in faulty_both: 3720
+Number of ZIP files in faulty_no_ref: 38
+Number of ZIP files in faulty_self_ref: 44
+Number of ZIP files in Total: 6965
+
+241223
+Number of ZIP files in complete_dataset: 2698
+Number of ZIP files in faulty_both: 5703
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 34
+Number of ZIP files in Total: 8465
+
+251223
+Number of ZIP files in complete_dataset: 2187
+Number of ZIP files in faulty_both: 7829
+Number of ZIP files in faulty_no_ref: 23
+Number of ZIP files in faulty_self_ref: 34
+Number of ZIP files in Total: 10073
+
+Accumulated: 334176251023
+Number of ZIP files in complete_dataset: 2261
+Number of ZIP files in faulty_both: 2595
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 66
+
+261023
+Number of ZIP files in complete_dataset: 2346
+Number of ZIP files in faulty_both: 4072
+Number of ZIP files in faulty_no_ref: 32
+Number of ZIP files in faulty_self_ref: 44
+
+271023
+Number of ZIP files in complete_dataset: 2315
+Number of ZIP files in faulty_both: 3646
+Number of ZIP files in faulty_no_ref: 36
+Number of ZIP files in faulty_self_ref: 47
+
+281023
+Number of ZIP files in complete_dataset: 2910
+Number of ZIP files in faulty_both: 5345
+Number of ZIP files in faulty_no_ref: 35
+Number of ZIP files in faulty_self_ref: 73
+
+291023
+Number of ZIP files in complete_dataset: 1891
+Number of ZIP files in faulty_both: 3775
+Number of ZIP files in faulty_no_ref: 19
+Number of ZIP files in faulty_self_ref: 56
+
+301023
+Number of ZIP files in complete_dataset: 1972
+Number of ZIP files in faulty_both: 4700
+Number of ZIP files in faulty_no_ref: 35
+Number of ZIP files in faulty_self_ref: 44
+
+011123
+Number of ZIP files in complete_dataset: 2013
+Number of ZIP files in faulty_both: 2803
+Number of ZIP files in faulty_no_ref: 51
+Number of ZIP files in faulty_self_ref: 48
+
+091123
+Number of ZIP files in complete_dataset: 1681
+Number of ZIP files in faulty_both: 2760
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 51
+
+101123
+Number of ZIP files in complete_dataset: 1990
+Number of ZIP files in faulty_both: 4928
+Number of ZIP files in faulty_no_ref: 38
+Number of ZIP files in faulty_self_ref: 40
+
+111123
+Number of ZIP files in complete_dataset: 1953
+Number of ZIP files in faulty_both: 5297
+Number of ZIP files in faulty_no_ref: 37
+Number of ZIP files in faulty_self_ref: 53
+
+121123
+Number of ZIP files in complete_dataset: 1244
+Number of ZIP files in faulty_both: 2444
+Number of ZIP files in faulty_no_ref: 29
+Number of ZIP files in faulty_self_ref: 41
+
+131123
+Number of ZIP files in complete_dataset: 1632
+Number of ZIP files in faulty_both: 6172
+Number of ZIP files in faulty_no_ref: 26
+Number of ZIP files in faulty_self_ref: 47
+
+141123
+Number of ZIP files in complete_dataset: 2572
+Number of ZIP files in faulty_both: 5156
+Number of ZIP files in faulty_no_ref: 28
+Number of ZIP files in faulty_self_ref: 58
+
+151123
+Number of ZIP files in complete_dataset: 2168
+Number of ZIP files in faulty_both: 2800
+Number of ZIP files in faulty_no_ref: 32
+Number of ZIP files in faulty_self_ref: 41
+
+161123
+Number of ZIP files in complete_dataset: 1006
+Number of ZIP files in faulty_both: 1002
+Number of ZIP files in faulty_no_ref: 11
+Number of ZIP files in faulty_self_ref: 25
+
+171123
+Number of ZIP files in complete_dataset: 2088
+Number of ZIP files in faulty_both: 3981
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 39
+
+181123
+Number of ZIP files in complete_dataset: 2302
+Number of ZIP files in faulty_both: 4482
+Number of ZIP files in faulty_no_ref: 39
+Number of ZIP files in faulty_self_ref: 49
+
+191123
+Number of ZIP files in complete_dataset: 1617
+Number of ZIP files in faulty_both: 2949
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 43
+
+201123
+Number of ZIP files in complete_dataset: 1850
+Number of ZIP files in faulty_both: 5105
+Number of ZIP files in faulty_no_ref: 35
+Number of ZIP files in faulty_self_ref: 40
+
+211123
+Number of ZIP files in complete_dataset: 2348
+Number of ZIP files in faulty_both: 6655
+Number of ZIP files in faulty_no_ref: 25
+Number of ZIP files in faulty_self_ref: 46
+
+231123
+Number of ZIP files in complete_dataset: 2086
+Number of ZIP files in faulty_both: 4651
+Number of ZIP files in faulty_no_ref: 24
+Number of ZIP files in faulty_self_ref: 36
+
+241123
+Number of ZIP files in complete_dataset: 2157
+Number of ZIP files in faulty_both: 5241
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 26
+
+251123
+Number of ZIP files in complete_dataset: 2107
+Number of ZIP files in faulty_both: 5608
+Number of ZIP files in faulty_no_ref: 34
+Number of ZIP files in faulty_self_ref: 32
+
+261123
+Number of ZIP files in complete_dataset: 1920
+Number of ZIP files in faulty_both: 6085
+Number of ZIP files in faulty_no_ref: 22
+Number of ZIP files in faulty_self_ref: 37
+
+271123
+Number of ZIP files in complete_dataset: 2189
+Number of ZIP files in faulty_both: 6947
+Number of ZIP files in faulty_no_ref: 27
+Number of ZIP files in faulty_self_ref: 50
+
+291123
+Number of ZIP files in complete_dataset: 1271
+Number of ZIP files in faulty_both: 1489
+Number of ZIP files in faulty_no_ref: 9
+Number of ZIP files in faulty_self_ref: 25
+
+301123
+Number of ZIP files in complete_dataset: 2373
+Number of ZIP files in faulty_both: 3763
+Number of ZIP files in faulty_no_ref: 26
+Number of ZIP files in faulty_self_ref: 41
+
+011223
+Number of ZIP files in complete_dataset: 2745
+Number of ZIP files in faulty_both: 4989
+Number of ZIP files in faulty_no_ref: 20
+Number of ZIP files in faulty_self_ref: 69
+
+021223
+Number of ZIP files in complete_dataset: 2313
+Number of ZIP files in faulty_both: 3795
+Number of ZIP files in faulty_no_ref: 36
+Number of ZIP files in faulty_self_ref: 41
+
+031223
+Number of ZIP files in complete_dataset: 2715
+Number of ZIP files in faulty_both: 6355
+Number of ZIP files in faulty_no_ref: 39
+Number of ZIP files in faulty_self_ref: 43
+
+041223
+Number of ZIP files in complete_dataset: 2481
+Number of ZIP files in faulty_both: 6601
+Number of ZIP files in faulty_no_ref: 35
+Number of ZIP files in faulty_self_ref: 51
+
+051223
+Number of ZIP files in complete_dataset: 2280
+Number of ZIP files in faulty_both: 7436
+Number of ZIP files in faulty_no_ref: 34
+Number of ZIP files in faulty_self_ref: 44
+
+061223
+Number of ZIP files in complete_dataset: 1210
+Number of ZIP files in faulty_both: 1887
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 30
+
+071223
+Number of ZIP files in complete_dataset: 1333
+Number of ZIP files in faulty_both: 3952
+Number of ZIP files in faulty_no_ref: 32
+Number of ZIP files in faulty_self_ref: 38
+
+081223
+Number of ZIP files in complete_dataset: 968
+Number of ZIP files in faulty_both: 1335
+Number of ZIP files in faulty_no_ref: 10
+Number of ZIP files in faulty_self_ref: 16
+
+091223
+Number of ZIP files in complete_dataset: 1538
+Number of ZIP files in faulty_both: 2015
+Number of ZIP files in faulty_no_ref: 22
+Number of ZIP files in faulty_self_ref: 27
+
+101223
+Number of ZIP files in complete_dataset: 1353
+Number of ZIP files in faulty_both: 2966
+Number of ZIP files in faulty_no_ref: 16
+Number of ZIP files in faulty_self_ref: 26
+
+111223
+Number of ZIP files in complete_dataset: 568
+Number of ZIP files in faulty_both: 713
+Number of ZIP files in faulty_no_ref: 9
+Number of ZIP files in faulty_self_ref: 20
+
+121223
+Number of ZIP files in complete_dataset: 2225
+Number of ZIP files in faulty_both: 5549
+Number of ZIP files in faulty_no_ref: 42
+Number of ZIP files in faulty_self_ref: 81
+
+131223
+Number of ZIP files in complete_dataset: 2603
+Number of ZIP files in faulty_both: 5479
+Number of ZIP files in faulty_no_ref: 21
+Number of ZIP files in faulty_self_ref: 67
+
+141223
+Number of ZIP files in complete_dataset: 1924
+Number of ZIP files in faulty_both: 5037
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 46
+
+151223
+Number of ZIP files in complete_dataset: 1587
+Number of ZIP files in faulty_both: 1658
+Number of ZIP files in faulty_no_ref: 27
+Number of ZIP files in faulty_self_ref: 32
+
+161223
+Number of ZIP files in complete_dataset: 3058
+Number of ZIP files in faulty_both: 2408
+Number of ZIP files in faulty_no_ref: 39
+Number of ZIP files in faulty_self_ref: 49
+
+171223
+Number of ZIP files in complete_dataset: 2270
+Number of ZIP files in faulty_both: 3923
+Number of ZIP files in faulty_no_ref: 18
+Number of ZIP files in faulty_self_ref: 32
+
+181223
+Number of ZIP files in complete_dataset: 1387
+Number of ZIP files in faulty_both: 3792
+Number of ZIP files in faulty_no_ref: 15
+Number of ZIP files in faulty_self_ref: 32
+
+191223
+Number of ZIP files in complete_dataset: 2273
+Number of ZIP files in faulty_both: 5261
+Number of ZIP files in faulty_no_ref: 27
+Number of ZIP files in faulty_self_ref: 41
+
+201223
+Number of ZIP files in complete_dataset: 2561
+Number of ZIP files in faulty_both: 6532
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 48
+
+211223
+Number of ZIP files in complete_dataset: 2908
+Number of ZIP files in faulty_both: 5393
+Number of ZIP files in faulty_no_ref: 36
+Number of ZIP files in faulty_self_ref: 51
+
+221223
+Number of ZIP files in complete_dataset: 3038
+Number of ZIP files in faulty_both: 4062
+Number of ZIP files in faulty_no_ref: 33
+Number of ZIP files in faulty_self_ref: 49
+
+231223
+Number of ZIP files in complete_dataset: 3163
+Number of ZIP files in faulty_both: 3720
+Number of ZIP files in faulty_no_ref: 38
+Number of ZIP files in faulty_self_ref: 44
+
+241223
+Number of ZIP files in complete_dataset: 2698
+Number of ZIP files in faulty_both: 5703
+Number of ZIP files in faulty_no_ref: 30
+Number of ZIP files in faulty_self_ref: 34
+
+251223
+Number of ZIP files in complete_dataset: 2187
+Number of ZIP files in faulty_both: 7829
+Number of ZIP files in faulty_no_ref: 23
+Number of ZIP files in faulty_self_ref: 34
+
+Accumulated: 107648

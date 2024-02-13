@@ -11,13 +11,17 @@ class Counter:
     
 
     def get_count_of_one_day_dataset(self, dataset_path, date):
-        subfolders = ["both", "no_ref", "self_ref"]
-
         if "zip" in dataset_path:
             dataset_path = file_utils.extract_zipfile(dataset_path)
         
-        parent_folder_path = os.path.join(dataset_path, f'dataset_{date}', f'dataset_{date}', 'complete_dataset')
-        type_path = os.path.join(parent_folder_path, self.type)
+        if self.type == "blank_pages" or self.type == "blocked":
+            parent_folder_path = os.path.join(dataset_path, f'dataset_{date}', f'dataset_{date}', 'complete_dataset')
+            type_path = os.path.join(parent_folder_path, self.type)
+            subfolders = ["both", "no_ref", "self_ref"]
+        else:
+            type_path = os.path.join(dataset_path, f'dataset_{date}', f'dataset_{date}')
+            subfolders = ["complete_dataset", "faulty_both", "faulty_no_ref", "faulty_self_ref"]
+
 
         zip_counts = {subfolder: 0 for subfolder in subfolders}
         for subfolder in subfolders:
@@ -25,9 +29,12 @@ class Counter:
             files = os.listdir(folder_path)
             zip_counts[subfolder] = sum(1 for file in files if file.endswith(".zip"))
 
-        total_count = sum(zip_counts.values())
-        zip_counts["Total"] = total_count
-        self.accumulated = self.accumulated + total_count
+        if self.type == "blank_pages" or self.type == "blocked":
+            total_count = sum(zip_counts.values())
+            zip_counts["Total"] = total_count
+            self.accumulated = self.accumulated + total_count
+        else:
+            self.accumulated = self.accumulated + zip_counts["complete_dataset"]
 
         print(date, zip_counts)
         with open(self.count_txt_file, 'a') as file:
