@@ -1,0 +1,260 @@
+251023
+Number of ZIP files in both: 988
+Number of ZIP files in no_ref: 5
+Number of ZIP files in self_ref: 1
+
+261023
+Number of ZIP files in both: 398
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 1
+
+271023
+Number of ZIP files in both: 758
+Number of ZIP files in no_ref: 6
+Number of ZIP files in self_ref: 4
+
+281023
+Number of ZIP files in both: 908
+Number of ZIP files in no_ref: 8
+Number of ZIP files in self_ref: 1
+
+291023
+Number of ZIP files in both: 352
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 0
+
+301023
+Number of ZIP files in both: 156
+Number of ZIP files in no_ref: 4
+Number of ZIP files in self_ref: 6
+
+011123
+Number of ZIP files in both: 259
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 1
+
+091123
+Number of ZIP files in both: 258
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 1
+
+101123
+Number of ZIP files in both: 360
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 3
+
+111123
+Number of ZIP files in both: 468
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 0
+
+121123
+Number of ZIP files in both: 236
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 0
+
+131123
+Number of ZIP files in both: 361
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 0
+
+141123
+Number of ZIP files in both: 271
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 0
+
+151123
+Number of ZIP files in both: 217
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 0
+
+161123
+Number of ZIP files in both: 93
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 1
+
+171123
+Number of ZIP files in both: 325
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 1
+
+181123
+Number of ZIP files in both: 518
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 0
+
+191123
+Number of ZIP files in both: 379
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 1
+
+201123
+Number of ZIP files in both: 474
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 0
+
+211123
+Number of ZIP files in both: 551
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 0
+
+231123
+Number of ZIP files in both: 242
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 0
+
+241123
+Number of ZIP files in both: 235
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 1
+
+251123
+Number of ZIP files in both: 273
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 0
+
+261123
+Number of ZIP files in both: 200
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 1
+
+271123
+Number of ZIP files in both: 197
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 2
+
+291123
+Number of ZIP files in both: 91
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 0
+
+301123
+Number of ZIP files in both: 230
+Number of ZIP files in no_ref: 8
+Number of ZIP files in self_ref: 3
+
+011223
+Number of ZIP files in both: 331
+Number of ZIP files in no_ref: 8
+Number of ZIP files in self_ref: 1
+
+021223
+Number of ZIP files in both: 206
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 2
+
+031223
+Number of ZIP files in both: 185
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 2
+
+041223
+Number of ZIP files in both: 187
+Number of ZIP files in no_ref: 4
+Number of ZIP files in self_ref: 0
+
+051223
+Number of ZIP files in both: 192
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 5
+
+061223
+Number of ZIP files in both: 252
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 0
+
+071223
+Number of ZIP files in both: 313
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 1
+
+081223
+Number of ZIP files in both: 155
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 1
+
+091223
+Number of ZIP files in both: 339
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 0
+
+101223
+Number of ZIP files in both: 95
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 0
+
+111223
+Number of ZIP files in both: 102
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 0
+
+121223
+Number of ZIP files in both: 624
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 0
+
+131223
+Number of ZIP files in both: 359
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 0
+
+141223
+Number of ZIP files in both: 392
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 0
+
+151223
+Number of ZIP files in both: 71
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 1
+
+161223
+Number of ZIP files in both: 246
+Number of ZIP files in no_ref: 9
+Number of ZIP files in self_ref: 5
+
+171223
+Number of ZIP files in both: 147
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 0
+
+181223
+Number of ZIP files in both: 103
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 0
+
+191223
+Number of ZIP files in both: 176
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 0
+
+201223
+Number of ZIP files in both: 383
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 2
+
+211223
+Number of ZIP files in both: 310
+Number of ZIP files in no_ref: 4
+Number of ZIP files in self_ref: 2
+
+221223
+Number of ZIP files in both: 169
+Number of ZIP files in no_ref: 2
+Number of ZIP files in self_ref: 0
+
+231223
+Number of ZIP files in both: 246
+Number of ZIP files in no_ref: 3
+Number of ZIP files in self_ref: 0
+
+241223
+Number of ZIP files in both: 192
+Number of ZIP files in no_ref: 0
+Number of ZIP files in self_ref: 1
+
+251223
+Number of ZIP files in both: 83
+Number of ZIP files in no_ref: 1
+Number of ZIP files in self_ref: 0
+
