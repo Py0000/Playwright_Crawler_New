@@ -7,7 +7,7 @@ class DuplicateRemover:
     def init(self):
         return
     
-    def get_month_folder_from_date(date):
+    def get_month_folder_from_date(self, date):
         month_mapping = {
             "10": "Oct",
             "11": "Nov",
@@ -22,7 +22,7 @@ class DuplicateRemover:
         for date in dates_to_delete:
             month = self.get_month_folder_from_date(date)
             zip_folder_path = os.path.join("datasets", month, f"dataset_{date}", f"dataset_{date}", f"dataset_{date}", "complete_dataset", zip_name)
-            shutil.rmtree(zip_folder_path)
+            os.remove(zip_folder_path)
             print(f"Deleted: {zip_folder_path}")
 
 
