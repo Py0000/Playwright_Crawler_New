@@ -6,3 +6,5 @@ datasets/
 analyzer/__pycache__/
 analyzer/blank_page/__pycache__/
 analyzer/blocked_page/__pycache__/
+analyzer/duplicate/__pycache__/
+analyzer/utils/__pycache__/
