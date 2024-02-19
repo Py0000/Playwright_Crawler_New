@@ -54,13 +54,16 @@ class GeminiProVisionBaseline:
         return f"{remarks}\n{response_format_requirement}."
     
 
-    def generate_phishing_example(self):
-        provided_url = "http://cmdpgcollege.in/Europecontract23ss/approval2023/Fastrucking-eiuehrgy534gh4g7834y5hh8g4gh345g33509/3mail@b.c"
-        visited_url = "https://pub-76761043d7714c019b0d5b4a6d6779ff.r2.dev/newcontractsigning2023.html#3mail@b.c"
+    def generate_phishing_example(self, index):
+        example_file_path = os.path.join("Baseline", "examples", "phishing")
+        with open(os.path.join(example_file_path, f"urls_{index}.json"), 'r') as file:
+            data = json.load(file)
+        provided_url = data['provided_url']
+        visited_url = data['visited_url']
         url_prompt = f"Provided_Url: {provided_url}. Visited_Url: {visited_url}"
 
-        image = PIL.Image.open(os.path.join("Baseline", "examples", "phishing", "example_ss.png"))
-        with open(os.path.join("Baseline", "examples", "phishing", "example_desc.txt"), 'r') as file:
+        image = PIL.Image.open(os.path.join(example_file_path, f"ss_{index}.png"))
+        with open(os.path.join(example_file_path, f"desc_{index}.txt"), 'r') as file:
             desc = file.read()
         
         title_prompt = "This is an example of the phishing page, and reasons why it is phishing. You can use this to aid you in making your predictions (phishing/benign) subsequently"
@@ -69,13 +72,16 @@ class GeminiProVisionBaseline:
         return full_prompt, image
     
 
-    def provide_benign_example(self):
-        provided_url = "https://www.netflix.com/login"
-        visited_url = "https://www.netflix.com/login"
+    def generate_benign_example(self, index):
+        example_file_path = os.path.join("Baseline", "examples", "benign")
+        with open(os.path.join(example_file_path, f"urls_{index}.json"), 'r') as file:
+            data = json.load(file)
+        provided_url = data['provided_url']
+        visited_url = data['visited_url']
         url_prompt = f"Provided_Url: {provided_url}. Visited_Url: {visited_url}"
 
-        image = PIL.Image.open(os.path.join("Baseline", "examples", "benign", "example_ss_benign.png"))
-        with open(os.path.join("Baseline", "examples", "benign", "example_desc_benign.txt"), 'r') as file:
+        image = PIL.Image.open(os.path.join(example_file_path, "example_ss_benign.png"))
+        with open(os.path.join(example_file_path, "example_desc_benign.txt"), 'r') as file:
             desc = file.read()
         
         title_prompt = "This is an example of the non-phishing page, and reasons why it is non-phishing. You can use this to aid you in making your predictions (phishing/benign) subsequently"
@@ -84,17 +90,26 @@ class GeminiProVisionBaseline:
         return full_prompt, image
        
 
-    def analyse_individual_data(self, model, image_path, provided_url, visited_url):
+    def analyse_individual_data(self, model, image_path, provided_url, visited_url, few_shot_count):
         zero_shot_prompt = self.generate_zero_shot_prompt()
         response_format = self.generate_resonse_format_prompt()
-        phishing_example_prompt, phishing_example_image = self.generate_phishing_example()
+        few_shot_prompts = []
+        for i in range(few_shot_count):
+            phishing_example_prompt, phishing_example_image = self.generate_phishing_example(i + 1)
+            benign_example_prompt, benign_example_image = self.generate_benign_example(i + 1)
+            few_shot_prompts.append(phishing_example_prompt)
+            few_shot_prompts.append(phishing_example_image)
+            few_shot_prompts.append(benign_example_prompt)
+            few_shot_prompts.append(benign_example_image)
+
+
         current_prediction_prompt = "Here are the urls and image for you to make your predicition:"
         url_prompt = f"Provided_Url: {provided_url}. Visited_Url: {visited_url}"
 
         try: 
             image = PIL.Image.open(image_path)
             folder_hash = image_path.split("/")[3]
-            model_prompt = [zero_shot_prompt, phishing_example_prompt, phishing_example_image, response_format, current_prediction_prompt, url_prompt, image]
+            model_prompt = [zero_shot_prompt] + few_shot_prompts + [response_format, current_prediction_prompt, url_prompt, image]
             response = model.generate_content(model_prompt, stream=True)
             response.resolve()
             return f"{folder_hash}\n{response.text}"
@@ -103,7 +118,7 @@ class GeminiProVisionBaseline:
             return f"{folder_hash}\n{str(e)}"
 
 
-    def analyse_directory(self, zip_folder_path, date):
+    def analyse_directory(self, zip_folder_path, date, few_shot_count):
         responses = []
 
         for zip_file in os.listdir(zip_folder_path):
@@ -136,7 +151,7 @@ class GeminiProVisionBaseline:
                             provided_url = log_data.get("Provided Url", "")
                             visited_url = log_data.get("Url visited", "")
 
-                        response = self.analyse_individual_data(self.model, screenshot_path, provided_url, visited_url)
+                        response = self.analyse_individual_data(self.model, screenshot_path, provided_url, visited_url, few_shot_count)
                         responses.append(response)
                     
                     # Delete the extracted folder after processing
@@ -153,7 +168,8 @@ if __name__ == '__main__':
     parser.add_argument("folder_path", help="Folder name")
     parser.add_argument("date", help="Date")
     parser.add_argument("benign_phishing", help="benign or phishing")
+    parser.add_argument("few_shot_count", help="number of examples to include")
     args = parser.parse_args()
 
     gemini_baseline = GeminiProVisionBaseline(args.benign_phishing)
-    gemini_baseline.analyse_directory(args.folder_path, args.date)
+    gemini_baseline.analyse_directory(args.folder_path, args.date, args.few_shot_count)

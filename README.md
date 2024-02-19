@@ -94,7 +94,7 @@ Returning to the ssh session:
 * Pre-cond: Running the script from `Playwright_Crawler_New` directory
 
 ***GeminiProVision***
-* Cmd: `python3 -m baseline.llm_geminipro.gemini_enhanced {path_to_dataset}/dataset_{date}.zip`
+* Cmd: `python3 -m baseline.llm_geminipro.gemini_enhanced {path_to_dataset}/dataset_{date} {date} {benign or phishing} {number of examples to include}` 
 
 #### Updating results of llm analysis to excel sheet
 * Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler_New` directory
