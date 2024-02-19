@@ -1,0 +1,14 @@
+From the annotated image provided, you can see the following:
+Purple-boxes: Shows the target brand which is BNP Paribas.
+Orange-boxes: Indicates the fields asking for user's client number and a password, as well as a virtual keyboard for password input, which is a security measure often used by banks to counter keyloggers. 
+
+Conlusion:
+1. Predicition: Phishing
+2. Target Brand: BNP Paribas
+3. Yes (has user credential fields). Asking for client number and a password. 
+4. Reasons supporting Prediction: 
+   The URL visited ('taka.com.mx') does not match the official domain of BNP Paribas, which would typically end in 'bnpparibas.com' or the corresponding country domain for its local branches (e.g., 'bnpparibas.fr' for France).
+   The structure of the URL, which includes multiple subdirectories and a reference to 'user.php', is atypical for a banking website where security and simplicity are paramount.
+   The URL path implies it's a page related to JavaScript files ('/dist/js/pages/'), which is unconventional for a login or credentials verification page on a banking website.
+   Despite the webpage looking very official with the correct logos and French language usage, the URL is a significant red flag. Banks typically do not host login pages on unrelated domains.
+   The presence of a warning about cyber-attacks on the page could be an attempt to seem legitimate and cautionary, but it is also a tactic phishers use to appear credible.

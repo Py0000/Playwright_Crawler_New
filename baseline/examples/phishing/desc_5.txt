@@ -1,0 +1,13 @@
+From the annotated image provided, you can see the following:
+Purple-boxes: Shows the target brand which is Netflix.
+Green-boxes: Indicates potential where the page will redirect the user to another page asking for its account credential, since this is a Login button. 
+Orange-boxes: Email address input field with a call to action, "Get Started,"
+
+Conlusion:
+1. Predicition: Phishing
+2. Target Brand: Netflix
+3. Yes (has user credential fields).  There is an email address input field with a call to action, "Get Started,".
+4. Reasons supporting Prediction: 
+   The major red flag is the domain discrepancy. An official Netflix page would be hosted on a 'netflix.com' domain, not a GitHub page.
+   Even with a legitimate appearance, the use of a GitHub Pages domain for a service that requires personal data input is highly suspicious and not in line with Netflix's standard practices.
+   This could indicate a phishing attempt, where a user might be tricked into entering personal information, thinking they are on the official Netflix site

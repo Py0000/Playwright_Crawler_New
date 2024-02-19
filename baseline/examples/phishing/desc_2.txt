@@ -1,0 +1,12 @@
+From the annotated image provided, you can see the following:
+Red-boxes: Shows the target brand which is Facebook.
+Green-boxes: Indicates the button for potential redirection to a page that is asking for account info. 
+
+Conlusion:
+1. Predicition: Phishing
+2. Target Brand: Facebook 
+3. Yes (has user credential fields). Asking for email and possibility password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate facebook domain.
+   Although the page did not directly include elements that ask user to enter their facebook account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her facebook account.
+   Moreover, the design of this webpage closely mimics the design of the official Facebook page when this domain of this webpage is not from the official Facebook domain, which indicates an attempt to deceive the user that it is the real Facebook page without looking at the url.

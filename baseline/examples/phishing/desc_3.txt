@@ -1,0 +1,12 @@
+From the annotated image provided, you can see the following:
+Purple-boxes: Shows the target brand which is Google.
+Orange-boxes: Indicates the fields asking for user's email account and password. 
+
+Conlusion:
+1. Predicition: Phishing
+2. Target Brand: Google
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Google domain.
+   Moreover, the design of this webpage closely mimics the design of the official Google page when this domain of this webpage is not from the official Google domain, which indicates an attempt to deceive the user that it is the real Google page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Google page, since there are fields asking for user's credential on this page.
