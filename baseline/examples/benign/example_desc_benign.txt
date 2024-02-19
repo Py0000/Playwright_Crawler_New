@@ -2,8 +2,8 @@ From the annotated image provided, you can see the following:
 
 Conlusion:
 1. Predicition: Non-Phishing
-2. Target Brand: Netflix 
-3. Yes (has user credential fields). Asking for email and password. 
+2. Target Brand: Netflix (as indicated by the green rectangular bounding box)
+3. Yes (has user credential fields). Asking for email and password. (as indicated by the blue rectangular bounding box)
 4. Reasons supporting Prediction: 
    Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for Netflix.
    The URL is consistent with the official Netflix domain.

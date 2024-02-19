@@ -1,6 +1,6 @@
 From the annotated image provided, you can see the following:
 Red-boxes: Shows the target brand which is Microsoft, more specifically Outlook.
-Blue-boxes: Indicates the elements for user input and button for submission. In this example, the webpage is asking for the user's email and potentially the password associated with the email account.
+Green-boxes: Indicates the elements for user input and button for submission. In this example, the webpage is asking for the user's email and potentially the password associated with the email account.
 
 Conlusion:
 1. Predicition: Phishing
