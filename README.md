@@ -95,6 +95,7 @@ Returning to the ssh session:
 
 ***GeminiProVision***
 * Cmd: `python3 -m baseline.llm_geminipro.gemini_enhanced {path_to_dataset}/dataset_{date} {date} {benign or phishing} {number of examples to include}` 
+  * Currently, acceptable parameter for `{number of examples to include}`: 1 to 5
 
 #### Updating results of llm analysis to excel sheet
 * Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler_New` directory
