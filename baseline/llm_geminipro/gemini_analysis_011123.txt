@@ -1,0 +1,80 @@
+318cd96aa99863e47744fe2a14e6e1923b15c15ecfcca741ff85fc9350650ae6
+ 1. Prediction: Non-Phishing
+2. Target Brand: Telegram
+3. No
+4. Reasons that support prediction: 
+  - The URL is the official website of Telegram.
+  - The screenshot is consistent with the official website of Telegram.
+  - The content of the webpage is consistent with the official website of Telegram.
+
+
+5ed6bc379e46f1a6d48070277c68e577a49fb7d8332a33d224124e4ccdf94428
+ 1. Prediction: Non-Phishing
+2. Target Brand: PUBG Mobile
+3. No
+4. Reasons that support prediction: 
+   The URL is the official website of PUBG Mobile. 
+   The screenshot is consistent with the official PUBG Mobile website. 
+   The webpage is not asking for any personal information.
+
+
+8ebb62e318e8c7165ae24fe9f8b44fef3a1d67a8bbbfa94c687760263bd618c9
+ 1. Prediction: Phishing
+2. Target Brand: Shopee
+3. Yes (has user credential fields). Asking for phone number/ Username/ Email and Password. 
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate shopee domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+af430ef89e0d3c0ed9762591c97acef6e187bde52da3a38edd4f36115b73bbb8
+ 1. Prediction: Phishing
+2. Target Brand: None
+3. Yes (has user credential fields). Asking for CPF, which is a Brazilian individual taxpayer registry number.
+4. Reasons that support prediction:
+   The domain in the provided url doesn't match any legitimate financial institution. 
+   The webpage is design to look identical to the offical webpage of a financial institution.
+   The page requested for users to enter CPF, which is a sensitive information.
+
+
+bf7f1b582945e4ef1f842b97d83f2913ca38948fdb7cb837b5b910c7a26e158e
+ 1. Prediction: Phishing
+2. Target Brand: AT&T
+3. Yes (has user credential fields). Asking for email and password.
+4. Reasons that support prediction: 
+   The domain in the provided url doesn't match the legitimate AT&T domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+c23d392e973b20179f7e7ab5775a39c1222becf06d71e370e7b3aa4bce8856c2
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft SharePoint
+3. Yes (has user credential fields). Asking for email, password.
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Microsoft SharePoint domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+d3995faa33bac11bd44ddc9fe904fe0366266197c86fcc47736c51806863b112
+ 1. Prediction: Benign
+2. Target Brand: Microsoft
+3. No
+4. Reasons that support prediction: 
+   The URL is the official Microsoft website. 
+   The webpage design is consistent with the official Microsoft website. 
+   The content on the webpage is about Microsoft products and services.
+
+
+ee2a45354b1ff2bb8eba1e92e38b17752144166d7b350ded1170e717a990e873
+ 1. Prediction: Phishing
+2. Target Brand: PUBG Mobile
+3. Yes (has user credential fields). Asking for pubg mobile account and password. 
+4. Reasons that support prediction
+   The domain in the provided url and the final url visited doesn't match the legitimate pubg mobile domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
