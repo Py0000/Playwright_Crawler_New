@@ -1,0 +1,292 @@
+002676dbdd952c417112e1bc64fbca98117055f1fefe1192fa704143a82cec39
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. Yes (has user credential fields). Asking for email and password.
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match any legitimate company or service.
+   The webpage is design to look like a generic login page and does not include any branding or logos.
+   The URL path implies it's a page related to JavaScript files ('/dist/js/pages/chartist/groupbnpparibasnc/app/user.php'), which is unconventional for a login or credentials verification page on a banking website.
+   Despite the webpage looking very official with the correct logos and French language usage, the URL is a significant red flag. Banks typically do not host login pages on unrelated domains.
+   The presence of a warning about cyber-attacks on the page could be an attempt to seem legitimate and cautionary, but it is also a tactic phishers use to appear credible.
+
+
+0a316022d0494224004c66972e0a1ed1a438406551b03d500b9371b9c15223c7
+ 1. Prediction: Phishing
+2. Target Brand: Facebook
+3. Yes 
+   - Email or Phone Number
+   - Password
+4. Reasons that support prediction
+   - The URL visited ('ihaxx.net') does not match the official domain of Facebook, which is 'facebook.com'.
+   - The URL path implies it's a page related to 'contact' and 'help', which is not a typical subdirectory for a login page.
+   - The presence of a pop-up window asking for additional security measures is not a common practice on legitimate Facebook login pages.
+   - The overall design and layout of the page do not match the current official Facebook login page.
+
+
+0a935dc00e8eb8c7c07b1902eeab9375f0137d2257a02aeff629049da246a4e1
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+0ab93c761fca25471f55cc60c11e89d57286c92b196386076df67bb898ba1fe2
+ 1. Prediction: Phishing
+2. Target Brand: Google
+3. Yes
+   - Email or phone number
+   - Password
+4. Reasons that support prediction:
+   - The URL is not a Google domain.
+   - The page asks for your email or phone number and password, which is not typical for a Google sign-in page.
+   - The page has a fake "Forgot email?" link.
+   - The page has a fake "Create account" button.
+
+
+0b043af0a7439ebc2c0ccb9aed7e5175cc648e0793dc4a00e0f5c8294914975c
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match any legitimate domain.
+   The URL is very suspicious and does not follow a legitimate pattern.
+   The webpage is design to look like a generic login page, which is not associated with any particular brand.
+   The page requests for users to enter their email and password.
+
+
+0b0b395184a34761dc535e7b8379984b8e701b877c79af2f2a803ce8389904d8
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes (has user credential fields). Asking for email. 
+4. Reasons supporting prediction: 
+   The URL visited ('cloudflare-ipfs.com') does not match the official domain of Microsoft, which would typically end in 'microsoft.com'.
+   The structure of the URL, which includes multiple subdirectories and a reference to 'ipfs', is atypical for a Microsoft login page.
+   The URL path implies it's a page related to the InterPlanetary File System (IPFS), which is a decentralized storage network, and not related to Microsoft's services.
+   The presence of a green "Pre-order now" button, which is not typical for a Microsoft login page.
+   The overall design and layout of the page is different from the official Microsoft login page.
+
+
+0b2715e3ee0ef227991e481f7ca67a40179c46a844d3c69a9c9c9970a681736c
+ 1. Prediction: Phishing
+2. Target Brand: Reagan
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate reagan.com domain.
+   The webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+0b35e7a82b92ba9aa97b2b73acc68dca437679822295c35764d75d29e725a351
+ 1. Prediction: Phishing
+2. Target Brand: Netflix
+3. Yes 
+   - Email Address
+4. Reasons that support prediction
+   - The domain name 'swathi27s.github.io' is not related to Netflix.
+   -  The webpage is hosted on Github Pages, which is a platform for hosting static websites. This is not a typical platform for hosting a legitimate Netflix login page.
+   - The URL path '/project/' is not a typical path for a Netflix login page.
+   - The page requests the user's email address, which is not typically required on a login page.
+
+
+0b5fc1ac71862337ea21b3deabfefd1dee849e02d9b657cd6b56c3c93f6f1824
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes 
+   - Email, phone, or Skype ID
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate Microsoft domain.
+   - The design of this webpage closely mimics the design of the official Microsoft login page when this domain of this webpage is not from the official Microsoft domain, which indicates an attempt to deceive the user that it is the real Microsoft page without looking at the url.
+   - This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Microsoft page, since there are fields asking for user's credential on this page.
+
+
+0b76b3e005e3ca0e9c577edd049376573aab854630d9122315ea217f859f02d5
+ 1. Prediction: Phishing
+2. Target Brand: USPS
+3. Yes
+ - Full Name
+ - Street Address 1
+ - Street Address 2 (Optional)
+ - City
+ - State
+ - Zip Code
+ - Phone Number
+4. Reasons that support prediction
+ - The domain name "sepi3xehipo.com" is not associated with USPS.
+ - The URL redirects to a different domain, "app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io", which is also not associated with USPS.
+ - The webpage design is not consistent with the official USPS website.
+ - The webpage requests personal information, such as your full name, address, and phone number, which is not necessary to track a package.
+
+
+0b8d9c5e89c6485e83a51a0f0a3bee1955b78240b46fc56c78df5ae359d7a8b8
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. No
+4. Reasons that support prediction:
+ - The URL is not a registered domain.
+ - The website is not secure.
+ - The website is displaying an error message.
+ - The website is not associated with any legitimate business.
+
+
+0c3914acb910974ffc0559e423942a8c7804aa5ed70e44660a0e6043c956a3ff
+ 1. Prediction: Phishing
+2. Target Brand: None
+3. No
+4. Reasons that support prediction: 
+   The URL is not a registered domain.
+   The website is not secure.
+   The website is not associated with any known brand.
+   The website is poorly designed.
+
+
+0d21b70a59663dd73d94fce80647b0c8d368297bc2c68767ecf9c31a1bb19c5a
+ 1. Prediction: Phishing
+2. Target Brand: Garena Free Fire
+3. Yes
+   - Facebook account
+   - Email address
+   - Phone number
+   - Full name
+   - Date of birth
+   - Address
+4. Reasons that support prediction
+   - The URL is not the official Garena Free Fire website.
+   - The website is asking for too much personal information.
+   - The website is not secure.
+   - The website's design is not professional.
+
+
+0db1a8e4beebb208c9bf8f43bd9b08f6a88dcbf77698895ed130306e141afefa
+ 1. Prediction: Phishing
+2. Target Brand: WhatsApp
+3. No
+4. Reasons that support prediction:
+   The domain in the provided url and the final url visited doesn't match the legitimate WhatsApp domain.
+   The design of this webpage closely mimics the design of the official WhatsApp page when this domain of this webpage is not from the official WhatsApp domain, which indicates an attempt to deceive the user that it is the real WhatsApp page without looking at the url.
+
+
+0db94cbd5c28ec3e2ed3c623ef259600f9de715d38ab232e37b1414623913997
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes, email and password
+4. The domain in the provided url and the final url visited doesn't match the legitimate outlook domain.
+There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+The page requested for users to enter account information.
+
+
+0dbce85d682d36ec3d51e3c1a4f01543c9ff0ae6a837a666fb60eb822b5ee53d
+ 1. Prediction: Phishing
+2. Target Brand: AT&T
+3. Yes (has user credential fields). Asking for User ID and Login Password. 
+4. Reasons supporting prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate AT&T domain.
+   The design of this webpage closely mimics the design of the official AT&T page when this domain of this webpage is not from the official AT&T domain, which indicates an attempt to deceive the user that it is the real AT&T page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official AT&T page, since there are fields asking for user's credential on this page.
+
+
+0dc2a5f543a29b4ab9c41c00aa884a02a57280c95f5cc63512b3202dff48bcca
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. No
+4. Reasons that support prediction:
+   - The domain in the provided url and the final url visited doesn't match any legitimate domain.
+   - The design of the webpage is very basic and does not look like a legitimate website.
+   - The webpage is asking for the user's email address, which is a common tactic used by phishing websites.
+
+
+0df5cbf1eda78f6a92749042ec8ca9d3be371c6a46cb1be0dd2313f3e7751b6e
+ 1. Prediction: Phishing
+2. Target Brand: AT&T
+3. Yes (has user credential fields). Asking for User ID and Password. 
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate AT&T domain.
+   The webpage is hosted on Weebly, a website builder platform, which is not typically used by large corporations like AT&T for their official login pages.
+   The design of the webpage is very simple and does not match the usual design of AT&T's official website.
+
+
+0df982e5ad2879b82a3bbcba1e747dc289a57209cea45846a6a1c22bd7ef22b7
+ 1. Prediction: Phishing
+2. Target Brand: AT&T
+3. Yes (has user credential fields). Asking for User ID and Password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate AT&T domain.
+   Moreover, the design of this webpage closely mimics the design of the official AT&T page when this domain of this webpage is not from the official AT&T domain, which indicates an attempt to deceive the user that it is the real AT&T page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official AT&T page, since there are fields asking for user's credential on this page.
+
+
+0f74c4631b05d51a6cb3ff02353b8d2b8fa8fd865dbdea19652d127a4fe9005a
+ 1. Prediction: Non-Phishing
+2. Target Brand: Telegram (as indicated by the blue rectangular bounding box)
+3. No
+4. Reasons supporting Prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for Telegram.
+   The URL is consistent with the official Telegram domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Telegram login page which uses it usual color(s).
+
+
+1bff8f5c75ef5a03fcb9e43a16916cfd943090626233c1654c70bc1ba83a720c
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+1c1d19941b9a3062aad475a0bcf53b9763901d626f7a069880f52d1280dda218
+ 1. Prediction: Phishing
+2. Target Brand: kuda
+3. Yes, email and password
+4. The URL is not a known kuda domain.
+The website design looks different from the official kuda website.
+
+
+23923020cc2098a3f069d03af5b293cbb8d532dad22be4f1099f65361504b0b2
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+48648ae67c2ba2f14d14440ab83221a5e91976c07fdad6923d67679506d8493d
+ 1. Prediction: Non-Phishing
+2. Target Brand: Telegram (as indicated by the red rectangular bounding box)
+3. No
+4. Reasons that support prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for Telegram.
+   The URL is consistent with the official Telegram domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Telegram login page which uses it usual color(s).
+
+
+6699cf25907a71d13e4ca198f889729818b50c04a94a902e5680ea42c23e69f7
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. No
+4. Reasons that support prediction:
+   The URL does not match the official Telegram domain.
+   The webpage design is different from the official Telegram webpage.
+   The webpage is hosted on a free hosting platform.
+   The webpage contains a lot of advertisements.
+
+
+798954895e228905bf2ae218c1c813b657727ba18760904b0bd269f140c58347
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+bcc26f5bd0afaeb3c846d0dd64faf14ce2e829c194306c0873d58238e0df29cf
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. Yes (has user credential fields): Asking for phone number
+4. Reasons supporting prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Telegram domain.
+   The design of this webpage closely mimics the design of the official Telegram page when this domain of this webpage is not from the official Telegram domain, which indicates an attempt to deceive the user that it is the real Telegram page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Telegram page, since there are fields asking for user's credential on this page.
+
+
+e74f1d1dd09de01a22282ac9893c8e07b6a9a8861eb779b4321eee6557c9dcb2
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+f7900ef035b35988fca1edb0f6a4b8c0ea622ba23c44414a1c741426e1b104b3
+ 1. Prediction: Non-Phishing
+2. Target Brand: Telegram (as indicated by the red rectangular bounding box)
+3. No
+4. Reasons that support prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for Telegram.
+   The URL is consistent with the official Telegram domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Telegram login page which uses it usual color(s).
+
+

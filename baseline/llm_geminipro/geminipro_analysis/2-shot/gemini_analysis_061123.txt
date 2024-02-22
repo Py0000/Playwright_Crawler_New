@@ -1,0 +1,114 @@
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. Yes (has user credential fields). Asking for phone number. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate telegram domain.
+   The design of the webpage is different from the official Telegram login page.
+   The webpage is hosted on a free web hosting service.
+   The URL is not consistent with the official Telegram domain.
+   The page requested for users to enter account information.
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+ 1. Prediction: Phishing
+2. Target Brand: None
+3. Yes (has user credential fields). Asking for phone number and email. 
+4. Reasons supporting prediction: 
+   The domain in the provided url and the final url visited doesn't match any legitimate domain.
+   The design of this webpage closely mimics the design of the official Facebook page when this domain of this webpage is not from the official Facebook domain, which indicates an attempt to deceive the user that it is the real Facebook page without looking at the url.
+   The page requested for users to enter account information.
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+ 1. Prediction: Phishing
+2. Target Brand: Videotron
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+ - The URL is not consistent with the official Videotron domain.
+ - The design of the webpage is not consistent with the official Videotron website.
+ - The webpage is asking for sensitive information such as email and password.
+
+
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+ 1. Prediction: Phishing
+2. Target Brand: Trust Wallet
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate trust wallet domain.
+   - The design of this webpage closely mimics the design of the official Trust Wallet page when this domain of this webpage is not from the official Trust Wallet domain, which indicates an attempt to deceive the user that it is the real Trust Wallet page without looking at the url.
+   - Although the page did not directly include elements that ask user to enter their Trust Wallet account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her Trust Wallet account.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. Yes 
+   - Phone number
+   - Verification code sent to the phone number
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate telegram domain.
+   - The design of the webpage closely mimics the design of the official Telegram page when this domain of this webpage is not from the official Telegram domain, which indicates an attempt to deceive the user that it is the real Telegram page without looking at the url.
+   - Although the page did not directly include elements that ask user to enter their Telegram account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her Telegram account.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+ 1. Prediction: Phishing
+2. Target Brand: Webmail
+3. Yes (has user credential fields). Asking for username and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate webmail domain.
+   The design of this webpage closely mimics the design of the official Webmail page when this domain of this webpage is not from the official Webmail domain, which indicates an attempt to deceive the user that it is the real Webmail page without looking at the url.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+ 1. Prediction: Phishing
+2. Target Brand: Coinbase
+3. Yes 
+   - Email 
+   - Password
+4. Reasons that support prediction
+   - The domain name is different from the legitimate Coinbase domain.
+   - The website design is different from the legitimate Coinbase website.
+   - Coinbase uses "coinbase.com" as their domain, not "coinbasewalletty.com"
+   - Coinbase does not have a blue chat icon on the bottom right corner of their homepage.
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. Yes 
+   - Email Address
+   - Email Password
+4. Reasons that support prediction
+   - The URL is not a legitimate domain.
+   - The webpage design looks unprofessional.
+   - The webpage is asking for sensitive information like email address and password.
+   - There is a green button that says "Connexion" which is a french word for "connection".
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+ 1. Prediction: Phishing
+2. Target Brand: Bet365
+3. Yes (has user credential fields). Asking for username and password.
+4. Reasons that support prediction:
+ - The domain in the provided url and the final url visited doesn't match the legitimate bet365 domain.
+ - The design of this webpage closely mimics the design of the official bet365 page when this domain of this webpage is not from the official bet365 domain, which indicates an attempt to deceive the user that it is the real bet365 page without looking at the url.
+ - The webpage is hosted on a free hosting platform, which is not typically used by legitimate businesses.
+ - The webpage uses a lot of pop-ups and other intrusive advertising, which is often seen on phishing sites.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+ 1. Prediction: Phishing
+2. Target Brand: Bank of Ireland
+3. Yes (has user credential fields). Asking for User ID, Date of birth and Phone Number.
+4. Reasons supporting Prediction: 
+   The URL is not consistent with the official Bank of Ireland domain.
+   The design of the webpage does not match the design of official Bank of Ireland login page.
+   The page requested for users to enter account information.
+
+

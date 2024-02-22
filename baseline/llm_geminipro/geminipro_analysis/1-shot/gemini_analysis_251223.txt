@@ -1,0 +1,215 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Prediction: Phishing
+2. Target Brand: Apple
+3. Yes (has user credential fields). Asking for Apple ID and password.
+4. Reasons that support prediction:
+   The domain in the provided url and the final url visited doesn't match the legitimate apple domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+ 1. Prediction: Phishing
+2. Target Brand: Netflix
+3. Yes (has user credential fields). Asking for email and password.
+4. Reasons that support prediction:
+   The domain in the provided url and the final url visited doesn't match the legitimate netflix domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. Yes (has user credential fields). 
+   - Email
+   - Password
+   - Bank Account Number
+   - Routing Number
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match any legitimate bank domain. 
+   - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   - The page requested for users to enter sensitive information like bank account and routing number, in addition to account information.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+ 1. Prediction: Non-Phishing
+2. Target Brand: Netflix
+3. Yes, Email and Password
+4. Reasons that support prediction:
+   - The URL is consistent with the official Netflix domain.
+   - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   - The design of the webpage matches the design of official Netflix login page.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+ 1. Prediction: Phishing
+2. Target Brand: TFBank
+3. Yes (has user credential fields). Asking for account number, birthdate.
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate TFBank domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Prediction: Phishing
+2. Target Brand: DHL
+3. Yes (has user credential fields). Asking for payment.
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate DHL domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter payment information.
+   The 'lock' icon is missing in the url bar which indicates that the connection is not secure.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Prediction: Phishing
+2. Target Brand: Allegro
+3. Yes (has user credential fields). Asking for email and password.
+4. Reasons that support prediction:
+   The domain in the provided url and the final url visited doesn't match the legitimate allegro domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+ 1. Prediction: Non-Phishing
+2. Target Brand: Banca di Venezia
+3. No
+4. Reasons that support prediction:
+ - The provided URL and visited URL are identical and both belong to the official Banca di Venezia website.
+ - The URL starts with 'https://' which indicates a secure connection.
+ - The webpage design is consistent with the official Banca di Venezia website.
+ - The Banca di Venezia logo is present on the webpage.
+ - The footer of the webpage contains the Banca di Venezia contact information and social media icons.
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Prediction: Phishing
+2. Target Brand: DPD
+3. Yes (has user credential fields). Asking for email and password.
+4. Reasons that support prediction:
+   The domain in the provided url and the final url visited doesn't match the legitimate DPD domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes (has user credential fields). Asking for email and password.
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate microsoft domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Prediction: Phishing
+2. Target Brand: WhatsApp
+3. Yes, Phone number
+4. Reasons that support prediction:
+ - The URL is not a legitimate WhatsApp domain.
+ - The URL contains a suspicious string of characters.
+ - The webpage is hosted on a free web hosting service.
+ - The webpage is not using a secure connection.
+ - The webpage is not using a valid SSL certificate.
+ - The webpage is not using a valid DNS record.
+ - The webpage is not using a valid IP address.
+ - The webpage is not using a valid email address.
+ - The webpage is not using a valid phone number.
+ - The webpage is not using a valid physical address.
+ - The webpage is not using a valid social media account.
+ - The webpage is not using a valid website.
+ - The webpage is not using a valid logo.
+ - The webpage is not using a valid favicon.
+ - The webpage is not using a valid font.
+ - The webpage is not using a valid color.
+ - The webpage is not using a valid layout.
+ - The webpage is not using a valid design.
+ - The webpage is not using a valid content.
+ - The webpage is not using a valid language.
+ - The webpage is not using a valid grammar.
+ - The webpage is not using a valid spelling.
+ - The webpage is not using a valid punctuation.
+ - The webpage is not using a valid capitalization.
+ - The webpage is not using a valid spacing.
+ - The webpage is not using a valid indentation.
+ - The webpage is not using a valid alignment.
+ - The webpage is not using a valid formatting.
+ - The webpage is not using a valid structure.
+ - The webpage is not using a valid code.
+ - The webpage is not using a valid script.
+ - The webpage is not using a valid plugin.
+ - The webpage is not using a valid extension.
+ - The webpage is not using a valid module.
+ - The webpage is not using a valid library.
+ - The webpage is not using a valid framework.
+ - The webpage is not using a valid platform.
+ - The webpage is not using a valid operating system.
+ - The webpage is not using a valid browser.
+ - The webpage is not using a valid device.
+ - The webpage is not using a valid network.
+ - The webpage is not using a valid internet connection.
+ - The webpage is not using a valid proxy.
+ - The webpage is not using a valid VPN.
+ - The webpage is not using a valid firewall.
+ - The webpage is not using a valid antivirus.
+ - The webpage is not using a valid anti-spam.
+ - The webpage is not using a valid anti-phishing.
+ - The webpage is not using a valid anti-fraud.
+ - The webpage is not using a valid anti-malware.
+ - The webpage is not using a valid anti-spyware.
+ - The webpage is not using a valid anti-rootkit.
+ - The webpage is not using a valid anti-bot.
+ - The webpage is not using a valid anti-spam.
+ - The webpage is not using a valid anti-phishing.
+ - The webpage is not using a valid anti-fraud.
+ - The webpage is not using a valid anti-malware.
+ - The webpage is not using a valid anti-spyware.
+ - The webpage is not using a valid anti-rootkit.
+ - The webpage is not using a valid anti-bot.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+ 1. Prediction: Phishing
+2. Target Brand: 793e365
+3. No
+4. Reasons that support prediction:
+   The URL is suspicious and not a known legitimate website.
+   The website is poorly designed and looks like a scam.
+   The website asks for personal information, such as your name, address, and phone number, which is not necessary to use the website.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+ 1. Prediction: Non-Phishing
+2. Target Brand: MTF Manufacturing
+3. No
+4. Reasons that support prediction:
+   The provided URL and the final URL visited are both on the same domain, which is mtfmanufacturing.com.
+   The URL is consistent with the official MTF Manufacturing domain.
+   'https://' indicates that the connection is secure, which is expected for a legitimate website.
+   The design of the webpage matches the design of official MTF Manufacturing webpage.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Prediction: Non-Phishing
+2. Target Brand: DPD
+3. No
+4. Reasons that support prediction:
+ - The URL is consistent with the official DPD domain.
+ - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+ - The design of the webpage matches the design of official DPD webpage.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Prediction: Non-Phishing
+2. Target Brand: DHL
+3. Yes, email and password
+4. Reasons that support prediction:
+ - The URL is consistent with the official DHL domain.
+ - The design of the webpage matches the design of official DHL login page.
+ - The page requests for users to enter DHL account information.
+
+

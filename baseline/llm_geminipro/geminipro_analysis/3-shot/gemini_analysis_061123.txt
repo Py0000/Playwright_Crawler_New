@@ -1,0 +1,109 @@
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+ 1. Prediction: Non-Phishing
+2. Target Brand: Telegram
+3. No
+4. Reasons that support prediction:
+   The URL is consistent with the official Telegram domain.
+   'https://' indicates that the connection is secure.
+   The design of the webpage matches the design of official Telegram webpage.
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+ 1. Prediction: Phishing
+2. Target Brand: None
+3. Yes
+4. - The URL is suspicious and not associated with any legitimate company.
+ - The webpage design looks unprofessional and not consistent with the usual design of legitimate websites.
+ - The webpage requests sensitive information such as email and password.
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+ 1. Prediction: Phishing
+2. Target Brand: Videotron
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+ - The domain in the provided url and the final url visited doesn't match the legitimate Videotron domain.
+ - The design of this webpage closely mimics the design of the official Videotron page when this domain of this webpage is not from the official Videotron domain, which indicates an attempt to deceive the user that it is the real Videotron page without looking at the url.
+ - This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Videotron page, since there are fields asking for user's credential on this page.
+
+
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+ 1. Prediction: Phishing
+2. Target Brand: Trust Wallet
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate trust wallet domain.
+   - The design of this webpage closely mimics the design of the official trust wallet page when this domain of this webpage is not from the official trust wallet domain, which indicates an attempt to deceive the user that it is the real trust wallet page without looking at the url.
+   - This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official trust wallet page, since there are fields asking for user's credential on this page.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. Yes 
+   - Phone number
+   - Verification code
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate Telegram domain.
+   - The design of the webpage mimics the design of the official Telegram webpage, but there are some inconsistencies.
+   - The webpage is asking for sensitive information, such as the user's phone number and verification code.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+ 1. Prediction: Phishing
+2. Target Brand: Webmail
+3. Yes 
+   - Username
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate Webmail domain.
+   - The design of the webpage is a generic design that is not associated with any particular brand.
+   - The webpage is asking for user credentials, which is a common tactic used by phishing websites.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+ 1. Prediction: Phishing
+2. Target Brand: Coinbase
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The domain name is different from the legitimate Coinbase domain.
+   - The URL contains a typo. Coinbase is spelled "coinbasewalletty" instead of "coinbase".
+   - The website design is different from the legitimate Coinbase website.
+   - The website is requesting personal information, such as email address and password.
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. Yes 
+   - Email Address
+   - Email Password
+4. Reasons that support prediction
+   - The URL is not a known legitimate website.
+   - The webpage design looks like a generic login page and does not match the design of any known legitimate website.
+   - The webpage is asking for sensitive information such as email address and password.
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+ 1. Prediction: Non-Phishing
+2. Target Brand: Bank of Ireland
+3. Yes
+ - User ID
+ - Date of birth
+ - Phone number
+4. Reasons that support prediction:
+ - The URL is consistent with the official Bank of Ireland domain.
+ - The design of the webpage matches the design of the official Bank of Ireland login page.
+ - The page requests for user's User ID, Date of birth and Phone number, which is expected for a legitimate login page for Bank of Ireland.
+
+

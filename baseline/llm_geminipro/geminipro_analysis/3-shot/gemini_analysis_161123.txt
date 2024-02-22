@@ -1,0 +1,117 @@
+0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft (Outlook)
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
+   - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   - The page requested for users to enter account information.
+
+
+29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d
+ 1. Prediction: Non-Phishing
+2. Target Brand: Shaw
+3. Yes (has user credential fields). Asking for Shaw ID and password. 
+4. Reasons supporting Prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for Shaw.
+   The URL is consistent with the official Shaw domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Shaw login page which uses it usual color(s).
+
+
+2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062
+ 1. Prediction: Non-Phishing
+2. Target Brand: Google
+3. Yes (has user credential fields). Asking for email.
+4. Reasons that support prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for Google.
+   The URL is consistent with the official Google domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Google login page which uses it usual color(s).
+   Although there is a redirection, but it seems like the user stays within the official Google domain.
+
+
+38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
+ 1. Prediction: Phishing
+2. Target Brand: Facebook
+3. Yes (has user credential fields). Asking for email or phone number and password. 
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate facebook domain.
+   Although the page did not directly include elements that ask user to enter their facebook account information, but based on the text in the green box as well as the availability of the “Continue” button, there is a high possibility that the page is hinting the user to hit on the “Continue” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her facebook account.
+   Moreover, the design of this webpage closely mimics the design of the official Facebook page when this domain of this webpage is not from the official Facebook domain, which indicates an attempt to deceive the user that it is the real Facebook page without looking at the url.
+
+
+3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa
+ 1. Prediction: Phishing
+2. Target Brand: Google
+3. Yes (has user credential fields). Asking for email. 
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Google domain.
+   Although the design of this webpage closely mimics the design of the official Google page, but this domain of this webpage is not from the official Google domain, which indicates an attempt to deceive the user that it is the real Google page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Google page, since there are fields asking for user's credential on this page.
+
+
+3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae
+ 1. Prediction: Phishing
+2. Target Brand: DocuSign
+3. Yes 
+   - Email Address
+   - Password
+4. Reasons that support prediction
+   - The URL is not a legitimate DocuSign URL.
+   - The design of the webpage does not match the design of the official DocuSign login page.
+   - The webpage is asking for sensitive information such as email address and password.
+
+
+50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate Microsoft domain.
+   - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   - The page requested for users to enter account information.
+
+
+596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3
+ 1. Prediction: Phishing
+2. Target Brand: NTT Docomo
+3. Yes 
+ - dアカウントID
+ - パスワード
+4. Reasons that support prediction
+ - The domain in the provided url and the final url visited doesn't match the legitimate NTT Docomo domain.
+ - The design of this webpage closely mimics the design of the official NTT Docomo login page when this domain of this webpage is not from the official NTT Docomo domain, which indicates an attempt to deceive the user that it is the real NTT Docomo page without looking at the url.
+ - This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official NTT Docomo page, since there are fields asking for user's credential on this page.
+
+
+61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes, email and password
+4. The URL is not a Microsoft domain. The design of the webpage is similar to Microsoft's login page, but there are some differences, such as the font and the color of the buttons.
+
+
+a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa
+ 1. Prediction: Non-Phishing
+2. Target Brand: TV Licensing
+3. Yes
+ - Name
+ - Address
+ - postcode
+ - Date of birth
+ - Email
+ - Phone number
+ - Bank account number
+ - Sort code
+4. Reasons that support prediction:
+ - The URL is consistent with the official TV Licensing domain.
+ - The design of the webpage matches the design of the official TV Licensing website.
+ - The page is requesting information that is typically required by TV Licensing, such as name, address, and date of birth.
+ - The page is secured with a valid SSL certificate.
+
+

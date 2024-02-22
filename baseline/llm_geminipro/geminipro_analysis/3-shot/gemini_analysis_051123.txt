@@ -1,0 +1,42 @@
+2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
+ 1. Prediction: Phishing
+2. Target Brand: Instagram
+3. Yes 
+   - Username or Email
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate Instagram domain.
+   - The design of the webpage closely mimics the design of the official Instagram page when this domain of this webpage is not from the official Instagram domain, which indicates an attempt to deceive the user that it is the real Instagram page without looking at the url.
+   - This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Instagram page, since there are fields asking for user's credential on this page.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. No
+4. Reasons that support prediction:
+ - The domain in the provided url and the final url visited doesn't match the legitimate Telegram domain.
+ - The design of the webpage does not match the design of official Telegram webpage.
+ - The language used in the webpage is not consistent with the official Telegram webpage.
+
+
+4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb
+ 1. Prediction: Phishing
+2. Target Brand: Free Fire
+3. Yes (has user credential fields). Asking for Facebook account to login.
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Free Fire domain.
+   Although the page did not directly include elements that ask user to enter their facebook account information, but based on the text in the green box as well as the availability of the “Đăng nhập” button, there is a high possibility that the page is hinting the user to hit on the “Đăng nhập” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her facebook account.
+   Moreover, the design of this webpage closely mimics the design of the official Free Fire page when this domain of this webpage is not from the official Free Fire domain, which indicates an attempt to deceive the user that it is the real Free Fire page without looking at the url.
+
+
+6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169
+ 1. Prediction: Non-Phishing
+2. Target Brand: Telegram
+3. No
+4. Reasons that support prediction:
+   The URL is consistent with the official Telegram domain.
+   'https://' indicates that the connection is secure.
+   The design of the webpage matches the design of official Telegram webpage.
+
+

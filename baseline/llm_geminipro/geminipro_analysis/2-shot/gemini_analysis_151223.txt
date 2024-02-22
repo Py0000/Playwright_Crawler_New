@@ -1,0 +1,108 @@
+4aa338f74582fab200185a53f108bb7c8152644530190f33a54fd1d08e02ad25
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate microsoft domain.
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+4ce8a0e0ae3b7adfe042c6ec9b5da355ced3b7209b8757b394c28c2996c8dce8
+ 1. Prediction: Non-Phishing
+2. Target Brand: DBS Apple Rewards Store
+3. No
+4. Reasons that support prediction:
+ - The URL is consistent with the official DBS Apple Rewards Store domain.
+ - The design of the webpage matches the design of the official DBS Apple Rewards Store webpage.
+ - The webpage is hosted on a secure server.
+
+
+54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81
+ 1. Prediction: Phishing
+2. Target Brand: Instagram
+3. Yes (has user credential fields). Asking for email or phone number and password.
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate instagram domain.
+   The design of the webpage closely mimics the design of the official Instagram login page when this domain of this webpage is not from the official Instagram domain, which indicates an attempt to deceive the user that it is the real Instagram page without looking at the url.
+
+
+593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105
+ 1. Prediction: Phishing
+2. Target Brand: bet365
+3. Yes 
+   - Username/Email
+   - Password
+4. Reasons that support prediction
+   - The domain name is different from the legitimate bet365 domain.
+   - The website is not using a secure connection.
+   - The website is asking for personal information that is not necessary to create an account.
+   - The website has a lot of pop-ups and advertisements.
+   - The website looks unprofessional.
+
+
+6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d
+ 1. Prediction: Phishing
+2. Target Brand: Uphold
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate uphold domain. 
+   The design of this webpage closely mimics the design of the official Uphold page when this domain of this webpage is not from the official Uphold domain, which indicates an attempt to deceive the user that it is the real Uphold page without looking at the url.
+
+
+789fd6e7081d9c6f60caa614127d16be13ee598f30eb3f049d54c7ed0208324a
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. No
+4. Reasons that support prediction: 
+   The provided URL and the final URL visited are not from the official Microsoft domain.
+   The design of the webpage does not match the design of official Microsoft webpage.
+   The webpage does not have the official Microsoft logo.
+   The webpage is hosted on a free hosting platform.
+
+
+b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043
+ 1. Prediction: Phishing
+2. Target Brand: DPD
+3. Yes
+ - Email
+ - Password
+4. Reasons that support prediction
+ - The URL is suspicious and not related to DPD.
+ - The webpage design looks unprofessional and is different from the official DPD website.
+ - The webpage requests personal information such as email and password.
+ - The webpage is hosted on a free hosting platform.
+
+
+b775e39e5156d2f1c18d9dc50868970658e0ce378a542ffbac621213768e9e8a
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. No
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate microsoft domain.
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+
+
+d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed
+ 1. Prediction: Phishing
+2. Target Brand: Ebay
+3. Yes 
+   - Email 
+   - Password
+4. Reasons that support prediction
+   - The URL is not consistent with the official eBay domain.
+   - The webpage design is different from the official eBay webpage.
+   - The webpage is asking for sensitive information like email and password.
+
+
+ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521
+ 1. Prediction: Non-Phishing
+2. Target Brand: Delonghi
+3. No
+4. Reasons that support prediction:
+ - The URL is consistent with the official Delonghi domain.
+ - 'https://' indicates that the connection is secure.
+ - The design of the webpage matches the design of official Delonghi website.
+ - The page has a valid SSL certificate.
+
+

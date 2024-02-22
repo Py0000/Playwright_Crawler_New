@@ -1,0 +1,135 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Prediction: Phishing
+2. Target Brand: Apple
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The domain name "idevicefindmy.info" is not associated with Apple or iCloud.
+   - The URL contains a long string of characters that is not typical of legitimate Apple URLs.
+   - The webpage design is not consistent with the official iCloud login page.
+   - The webpage requests the user to enter their Apple ID and password, which is a common tactic used by phishing websites.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction:
+   - The domain in the provided url and the final url visited doesn't match any legitimate domain.
+   - The webpage is design to look like a payment voucher.
+   - The page requested for users to enter account information.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Prediction: Phishing
+2. Target Brand: DHL
+3. Yes 
+4. Reasons that support prediction:
+ - The URL is not a DHL domain.
+ - The tracking number is not a valid DHL tracking number.
+ - The "Next" button should lead to a payment page, which is not a typical behavior for a DHL tracking page.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Prediction: Phishing
+2. Target Brand: Allegro
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The URL visited ('zakuppayu24.pl') does not match the official domain of Allegro, which is 'allegro.pl'.
+   The URL path implies it's a page related to payments ('zakuppayu24'), which is not a typical subdomain for a product page on Allegro.
+   The presence of a green padlock icon and 'https' in the URL bar does not guarantee legitimacy, as phishers can obtain SSL certificates and use them on fraudulent websites.
+   The 'allegro.pl' logo and branding elements on the page can be easily copied or imitated by phishers, making it crucial to examine the URL and other indicators.
+   The 'Kup Teraz' button typically found on Allegro product pages is replaced with 'Do Koszyka' (Add to Cart), which is not consistent with Allegro's usual terminology.
+   The 'allegro.pl' text in the browser tab is different from the actual URL, indicating potential manipulation.
+   The overall design and layout of the page deviate slightly from the official Allegro website, which can be a sign of a phishing attempt.
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Prediction: Phishing
+2. Target Brand: DPD
+3. Yes 
+ - E-mail Address
+ - Password
+4. Reasons that support prediction
+ - The URL visited ('www.neu.planen.lieferung.id.51-107-1-90.cprapid.com') does not match the official domain of DPD, which would typically end in 'dpd.com' or the corresponding country domain for its local branches (e.g., 'dpd.fr' for France).
+ - The structure of the URL, which includes multiple subdirectories and a reference to 'update.php', is atypical for a tracking page on a logistics company's website.
+ - The URL path implies it's a page related to updating information, which is not what a user would expect when tracking a package.
+ - The page lacks the usual security indicators, such as a padlock icon in the address bar or a security certificate, which are common on legitimate websites that handle sensitive information.
+ - The DPD logo is distorted.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes 
+   - Email 
+   - Password
+4. Reasons that support prediction
+ - The provided URL ('cloudflare-ipfs.com') does not match the official domain of Microsoft, which is 'microsoft.com'.
+ - The URL path includes a reference to 'ipfs', which is a decentralized storage network and not typically associated with Microsoft.
+ - The webpage's design and layout are different from the official Microsoft website.
+ - The 'Shop now' button has a different color compared to the rest of the buttons on the page, which is a common tactic used in phishing attempts to trick users into clicking on it.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Prediction: Phishing
+2. Target Brand: None
+3. No
+4. Reasons that support prediction:
+   The URL does not match any legitimate website.
+   The URL is a long string of characters that is not easy to remember.
+   The webpage is not secure.
+   The webpage asks for personal information, such as your name and email address.
+   The webpage has a lot of pop-ups and advertisements.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Prediction: Phishing
+2. Target Brand: DPD
+3. No
+4. Reasons that support prediction:
+ - The URL is not a DPD domain.
+ - The tracking number is not a valid DPD tracking number.
+ - The page is poorly designed and contains many grammatical errors.
+ - The page requests personal information, such as your name and address.
+ - The page is hosted on a free web hosting service.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Prediction: Non-Phishing
+2. Target Brand: DHL (as indicated by the red rectangular bounding box)
+3. Yes (has user credential fields). Asking for email and password. (as indicated by the green rectangular bounding box)
+4. Reasons supporting Prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for DHL.
+   The URL is consistent with the official DHL domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official DHL login page which uses it usual color(s).
+
+

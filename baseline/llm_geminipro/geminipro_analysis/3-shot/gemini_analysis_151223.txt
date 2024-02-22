@@ -1,0 +1,105 @@
+4aa338f74582fab200185a53f108bb7c8152644530190f33a54fd1d08e02ad25
+ 1. Prediction: Non-Phishing
+2. Target Brand: Microsoft
+3. No
+4. Reasons that support prediction: 
+ - The URL is consistent with the official Microsoft domain.
+ - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+ - The design of the webpage matches the design of official Microsoft webpage which uses it usual color(s).
+
+
+4ce8a0e0ae3b7adfe042c6ec9b5da355ced3b7209b8757b394c28c2996c8dce8
+ 1. Prediction: Non-Phishing
+2. Target Brand: DBS Apple Reward Store
+3. No
+4. Reasons that support prediction:
+ - The URL is consistent with the official DBS Apple Reward Store domain.
+ - The design of the webpage matches the design of the official DBS Apple Reward Store webpage.
+ - The webpage is hosted on a secure server (HTTPS).
+ - The webpage is a legitimate DBS Apple Reward Store webpage.
+
+
+54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81
+ 1. Prediction: Phishing
+2. Target Brand: Instagram
+3. Yes
+4. The domain in the provided url and the final url visited doesn't match the legitimate Instagram domain.
+The design of this webpage closely mimics the design of the official Instagram page when this domain of this webpage is not from the official Instagram domain, which indicates an attempt to deceive the user that it is the real Instagram page without looking at the url.
+This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Instagram page, since there are fields asking for user's credential on this page.
+
+
+593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105
+ 1. Prediction: Phishing
+2. Target Brand: bet365
+3. No
+4. Reasons that support prediction:
+ - The domain name is different from the legitimate bet365 domain.
+ - The website design is different from the legitimate bet365 website.
+ - The website is hosted on a free hosting platform.
+ - The website is not using a secure connection.
+
+
+6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d
+ 1. Prediction: Phishing
+2. Target Brand: Uphold
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The URL is not the official Uphold domain.
+   - The website is not using HTTPS, which is not secure.
+   - The website is asking for personal information, such as your email address and password.
+   - The website is not using a secure login form.
+
+
+789fd6e7081d9c6f60caa614127d16be13ee598f30eb3f049d54c7ed0208324a
+ 1. Prediction: Non-Phishing
+2. Target Brand: Microsoft
+3. No
+4. Reasons that support prediction: 
+ - The URL is consistent with the official Microsoft domain.
+ - The design of the webpage matches the design of official Microsoft webpage which uses it usual color(s) and design.
+ - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+ - The webpage has the offical Microsoft footer.
+
+
+b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043
+ 1. Prediction: Phishing
+2. Target Brand: dpd
+3. Yes 
+ - Paketnummer
+4. Reasons that support prediction
+ - The URL is suspicious and not related to dpd
+ - The website is asking for personal information such as Paketnummer
+
+
+b775e39e5156d2f1c18d9dc50868970658e0ce378a542ffbac621213768e9e8a
+ 1. Prediction: Non-Phishing
+2. Target Brand: Microsoft
+3. No
+4. Reasons that support prediction: 
+   The URL is consistent with the official Microsoft domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Microsoft webpage which uses it usual color(s).
+
+
+d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed
+ 1. Prediction: Phishing
+2. Target Brand: Ebay
+3. No
+4. Reasons that support prediction:
+   The domain in the provided url and the final url visited doesn't match the legitimate Ebay domain.
+   The design of the webpage is different from the official Ebay webpage.
+   The webpage is hosted on a free platform.
+
+
+ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521
+ 1. Prediction: Non-Phishing
+2. Target Brand: De'Longhi (as indicated by the red rectangular bounding box)
+3. No
+4. Reasons that support prediction: 
+   The URL is consistent with the official De'Longhi domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official De'Longhi webpage which uses it usual color(s).
+
+

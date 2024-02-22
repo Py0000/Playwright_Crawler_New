@@ -1,0 +1,104 @@
+0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes (has user credential fields). Asking for email. 
+4. Reasons that support prediction: 
+ - The domain in the provided url and the final url visited doesn't match the legitimate Microsoft domain.
+ - The design of the webpage closely mimics the design of the official Microsoft OneDrive page when this domain of this webpage is not from the official Microsoft domain, which indicates an attempt to deceive the user that it is the real Microsoft OneDrive page without looking at the url.
+ - This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Microsoft OneDrive page, since there are fields asking for user's credential on this page.
+
+
+3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2
+ 1. Prediction: Non-Phishing
+2. Target Brand: Microsoft
+3. No
+4. Reasons that support prediction: 
+   The URL is consistent with the official Microsoft domain.
+   'https://' indicates that the connection is secure.
+   The design of the webpage matches the design of official Microsoft webpage which uses it usual color(s).
+
+
+605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817
+ 1. Prediction: Phishing
+2. Target Brand: DHL
+3. Yes
+ - Email Address
+ - Password
+4. Reasons that support prediction
+ - The URL is not a DHL domain.
+ - The page is asking for personal information such as email address and password.
+ - The page looks like a phishing page.
+
+
+8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918
+ 1. Prediction: Phishing
+2. Target Brand: Adobe
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Adobe domain.
+   Moreover, the design of this webpage closely mimics the design of the official Adobe page when this domain of this webpage is not from the official Adobe domain, which indicates an attempt to deceive the user that it is the real Adobe page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Adobe page, since there are fields asking for user's credential on this page.
+
+
+acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801
+ 1. Prediction: Non-Phishing
+2. Target Brand: Netflix
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The URL is consistent with the official Netflix domain.
+   - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   - The design of the webpage matches the design of official Netflix login page which uses it usual color(s).
+   - Although there is a redirection, but it seems like the user stays within the official Netflix domain.
+
+
+ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
+ 1. Prediction: Phishing
+2. Target Brand: Bilibili
+3. No
+4. Reasons that support prediction:
+ - The URL is not consistent with the official Bilibili domain.
+ - The design of the webpage is different from the official Bilibili website.
+ - The webpage is hosted on a free hosting platform.
+
+
+cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
+ 1. Prediction: Phishing
+2. Target Brand: Garena Free Fire
+3. Yes 
+   - Facebook account
+   - Name
+   - Date of Birth
+   - Address
+4. Reasons that support prediction
+   - The URL is suspicious and not related to Garena Free Fire.
+   - The webpage is asking for personal information such as name, date of birth, and address, which is not typical for a legitimate Garena Free Fire website.
+   - The webpage is trying to trick users into entering their Facebook account information.
+
+
+cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
+ 1. Prediction: Phishing
+2. Target Brand: Netflix
+3. Yes
+4. The domain in the provided url and the final url visited doesn't match the legitimate Netflix domain.
+The design of this webpage closely mimics the design of the official Netflix page when this domain of this webpage is not from the official Netflix domain, which indicates an attempt to deceive the user that it is the real Netflix page without looking at the url.
+This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Netflix page, since there are fields asking for user's credential on this page.
+
+
+daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
+ 1. Prediction: Non-Phishing
+2. Target Brand: Dynamic Home Buyers
+3. No
+4. Reasons that support prediction:
+ - The URL is consistent with the official Dynamic Home Buyers domain.
+ - 'https://' indicates that the connection is secure.
+ - The design of the webpage matches the design of official Dynamic Home Buyers page which uses it usual color(s).
+ - The content on the page is related to the services offered by Dynamic Home Buyers, such as buying houses fast and offering cash for homes.
+ - The contact information provided on the page is consistent with the contact information found on the official Dynamic Home Buyers website.
+
+

@@ -1,0 +1,114 @@
+0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc
+ 1. Prediction: Phishing
+2. Target Brand: AT&T
+3. Yes (has user credential fields). Asking for User ID and Password.
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate AT&T domain.
+   The design of this webpage closely mimics the design of the official AT&T page when this domain of this webpage is not from the official AT&T domain, which indicates an attempt to deceive the user that it is the real AT&T page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official AT&T page, since there are fields asking for user's credential on this page.
+
+
+33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db
+ 1. Prediction: Phishing
+2. Target Brand: Webmail
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Webmail domain.
+   The design of this webpage closely mimics the design of the official Webmail page when this domain of this webpage is not from the official Webmail domain, which indicates an attempt to deceive the user that it is the real Webmail page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Webmail page, since there are fields asking for user's credential on this page.
+
+
+6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935
+ 1. Prediction: Phishing
+2. Target Brand: Facebook
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate facebook domain.
+   Although the page did not directly include elements that ask user to enter their facebook account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her facebook account.
+   Moreover, the design of this webpage closely mimics the design of the official Facebook page when this domain of this webpage is not from the official Facebook domain, which indicates an attempt to deceive the user that it is the real Facebook page without looking at the url.
+
+
+6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. Yes (has user credential fields). Asking for phone number. 
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Telegram domain.
+   The design of this webpage closely mimics the design of the official Telegram page when this domain of this webpage is not from the official Telegram domain, which indicates an attempt to deceive the user that it is the real Telegram page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Telegram page, since there are fields asking for user's credential on this page.
+
+
+6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9
+ 1. Prediction: Phishing
+2. Target Brand: Facebook
+3. Yes (has user credential fields). Asking for email or phone number and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate facebook domain.
+   Although the page did not directly include elements that ask user to enter their facebook account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her facebook account.
+   Moreover, the design of this webpage closely mimics the design of the official Facebook page when this domain of this webpage is not from the official Facebook domain, which indicates an attempt to deceive the user that it is the real Facebook page without looking at the url.
+
+
+83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes (has user credential fields). Asking for password. 
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Microsoft domain.
+   Although the page did not directly include elements that ask user to enter their Microsoft account information, but based on the text in the green box as well as the availability of the “Sign in” button, there is a high possibility that the page is hinting the user to hit on the “Sign in” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her Microsoft account.
+   Moreover, the design of this webpage closely mimics the design of the official Microsoft login page when this domain of this webpage is not from the official Microsoft domain, which indicates an attempt to deceive the user that it is the real Microsoft page without looking at the url.
+
+
+9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes (has user credential fields). Asking for password. 
+4. Reasons supporting prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Microsoft domain.
+   The design of this webpage closely mimics the design of the official Microsoft login page when this domain of this webpage is not from the official Microsoft domain, which indicates an attempt to deceive the user that it is the real Microsoft page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Microsoft page, since there are fields asking for user's credential on this page.
+
+
+d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
+ 1. Prediction: Phishing
+2. Target Brand: Coinbase
+3. Yes 
+   - Email
+   - Password
+4. Reasons that support prediction
+   - The domain name is different from the legitimate Coinbase domain.
+   - The Coinbase logo is different from the legitimate Coinbase logo.
+   - Coinbase does not have a mobile app called Coinbase Wallet.
+   - There is a spelling mistake in Coinbase.
+
+
+f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
+ 1. Prediction: Phishing
+2. Target Brand: Webmail
+3. Yes 
+   - Username
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate webmail domain.
+   - The design of the webpage is very basic and does not match the design of official webmail login page.
+   - There is a presence of 'secured login session' checkbox, which is not usually found on legitimate login pages.
+
+
+fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f
+ 1. Prediction: Non-Phishing
+2. Target Brand: Telegram (as indicated by the blue rectangular bounding box)
+3. No
+4. Reasons that support prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate  page for Telegram.
+   The URL is consistent with the official Telegram domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Telegram page which uses it usual color(s).
+
+

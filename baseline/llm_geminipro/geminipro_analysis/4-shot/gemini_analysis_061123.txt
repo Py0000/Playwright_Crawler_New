@@ -1,0 +1,108 @@
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+ 1. Prediction: Non-Phishing
+2. Target Brand: Telegram
+3. No
+4. Reasons that support prediction:
+   The URL is consistent with the official Telegram domain.
+   'https://' indicates that the connection is secure.
+   The design of the webpage matches the design of official Telegram login page which uses it usual color(s).
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+ 1. Prediction: Phishing
+2. Target Brand: None
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The URL visited ('ip170.ip-51-89-105.eu') does not match the official domain of any known company or brand.
+   The URL path implies it's a page related to verification ('verifica.php'), which could be related to account verification or login.
+   The presence of a security-related task (recovering password) on a non-reputable domain is suspicious.
+   The webpage design looks like a generic template and lacks branding or visual elements that would indicate a legitimate company.
+   The page requests the user's email and password, which are sensitive credentials often sought by phishing attempts.
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+ 1. Prediction: Phishing
+2. Target Brand: Videotron
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The URL visited ('videotronmaill.weebly.com') does not match the official domain of Videotron, which would typically end in 'videotron.com'.
+   The structure of the URL, which includes 'weebly.com', indicates that the website is hosted on a third-party platform, which is not typical for a legitimate Videotron login page.
+   The design of the webpage is not consistent with the official Videotron website, and the overall look and feel appears amateurish.
+   The presence of a 'connexion' button instead of a 'login' or 'sign in' button is not typical for a legitimate Videotron login page.
+   The text on the right side of the login form contains grammatical errors and repetitions, which suggests that it was not written by a native French speaker.
+
+
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+ 1. Prediction: Phishing
+2. Target Brand: Trust Wallet
+3. Yes 
+   - Email 
+   - Password
+4. Reasons that support prediction
+ - The URL does not match the official Trust Wallet domain.
+ - The website design looks different from the official Trust Wallet website.
+ - The website is asking for personal information, such as email and password, which is not necessary to use the Trust Wallet.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. Yes
+4. Reasons that support prediction:
+ - The domain name "telegram-com-zhcn.pages.dev" is not an official Telegram domain.
+ - The website design is different from the official Telegram website.
+ - The website is hosted on a free hosting platform.
+ - The website asks for personal information, such as your phone number and email address.
+ - The website uses a fake "Login with Telegram" button.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+ 1. Prediction: Phishing
+2. Target Brand: Webmail
+3. Yes 
+   - Username
+   - Password
+4. Reasons that support prediction
+   - The URL is suspicious and does not belong to any legitimate webmail provider.
+   - The design of the webpage is very basic and does not look like a legitimate webmail login page.
+   - There is no lock icon in the address bar, which indicates that the connection is not secure.
+   - The page requests for the user's credentials without showing the brand name or logo.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+ 1. Prediction: Phishing
+2. Target Brand: Coinbase
+3. Yes 
+   - Email 
+   - Password
+4. Reasons that support prediction
+   - The URL is not the official Coinbase domain.
+   - The Coinbase logo is slightly different from the official logo.
+   - The webpage design is not the same as the official Coinbase webpage.
+   - Coinbase does not have a product called "Coinbase Wallet".
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+ 1. Prediction: Phishing
+2. Target Brand: N/A
+3. Yes (has user credential fields). Asking for email address and password.
+4. Reasons that support prediction:
+   The domain in the provided url and the final url visited doesn't match any legitimate domain.
+   The design of this webpage is not related to any known brands.
+   This webpage is asking for user's email address and password.
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+ 1. Prediction: Phishing
+2. Target Brand: Bank of Ireland
+3. Yes (has user credential fields). Asking for User ID, Date of birth, and Phone Number. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Bank of Ireland domain.
+   Although the design of this webpage closely mimics the design of the official Bank of Ireland page when this domain of this webpage is not from the official Bank of Ireland domain, which indicates an attempt to deceive the user that it is the real Bank of Ireland page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Bank of Ireland page, since there are fields asking for user's credential on this page.
+
+

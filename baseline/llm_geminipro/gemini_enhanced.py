@@ -80,8 +80,8 @@ class GeminiProVisionBaseline:
         visited_url = data['visited_url']
         url_prompt = f"Provided_Url: {provided_url}. Visited_Url: {visited_url}"
 
-        image = PIL.Image.open(os.path.join(example_file_path, "example_ss_benign.png"))
-        with open(os.path.join(example_file_path, "example_desc_benign.txt"), 'r') as file:
+        image = PIL.Image.open(os.path.join(example_file_path, f"ss_{index}.png"))
+        with open(os.path.join(example_file_path, f"desc_{index}.txt"), 'r') as file:
             desc = file.read()
         
         title_prompt = "This is an example of the non-phishing page, and reasons why it is non-phishing. You can use this to aid you in making your predictions (phishing/benign) subsequently"
@@ -172,4 +172,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     gemini_baseline = GeminiProVisionBaseline(args.benign_phishing)
-    gemini_baseline.analyse_directory(args.folder_path, args.date, args.few_shot_count)
+    gemini_baseline.analyse_directory(args.folder_path, args.date, int(args.few_shot_count))

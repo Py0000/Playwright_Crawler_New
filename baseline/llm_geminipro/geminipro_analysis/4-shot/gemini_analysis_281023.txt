@@ -1,0 +1,116 @@
+0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc
+ 1. Prediction: Phishing
+2. Target Brand: AT&T
+3. Yes (has user credential fields). Asking for User ID and Password. 
+4. Reasons that support prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate AT&T domain.
+   The design of this webpage closely mimics the design of the official AT&T page when this domain of this webpage is not from the official AT&T domain, which indicates an attempt to deceive the user that it is the real AT&T page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official AT&T page, since there are fields asking for user's credential on this page.
+
+
+33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db
+ 1. Prediction: Phishing
+2. Target Brand: Webmail
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting prediction: 
+   The URL visited ('scure001.logins.account11.perniktermo.com') does not match the official domain of Webmail, which would typically end in 'webmail.com' or a similar variation.
+   The structure of the URL, which includes multiple subdirectories and a reference to 'aps/', is atypical for a webmail login page.
+   The webpage looks very basic and lacks the branding and design elements typically associated with a legitimate webmail service.
+   The presence of a 'Conoce más sobre el nuevo Webmail' link at the bottom of the page, which translates to 'Learn more about the new Webmail', suggests that this may be a phishing attempt to promote a new or different webmail service.
+
+
+6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935
+ 1. Prediction: Phishing
+2. Target Brand: Facebook
+3. Yes 
+   - Email or Phone Number
+   - รหัสผ่าน (password)
+4. Reasons that support prediction
+   - The URL does not match the official Facebook domain.
+   - The webpage design is not consistent with the official Facebook login page.
+   - The text on the page is in Thai, which is not the primary language used by Facebook.
+
+
+6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. Yes, phone number
+4. Reasons that support prediction:
+ - The URL is not the official Telegram domain.
+ - The webpage design is not the same as the official Telegram login page.
+ - The webpage is asking for the user's phone number, which is not required to log in to Telegram.
+
+
+6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9
+ 1. Prediction: Phishing
+2. Target Brand: Facebook
+3. Yes (has user credential fields). Asking for email or phone number and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Facebook domain.
+   The design of this webpage closely mimics the design of the official Facebook page when this domain of this webpage is not from the official Facebook domain, which indicates an attempt to deceive the user that it is the real Facebook page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Facebook page, since there are fields asking for user's credential on this page.
+
+
+83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes (has user credential fields). Asking for password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes, password
+4. Reasons that support prediction: 
+ - The URL does not match the official Microsoft domain.
+ - The page is requesting the user's password.
+ - The page looks like a generic Microsoft login page, but the design is not exactly the same as the official Microsoft login page.
+
+
+d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
+ 1. Prediction: Phishing
+2. Target Brand: Coinbase
+3. Yes (has user credential fields). Coinbase Wallet
+4. Reasons that support prediction: 
+   The URL visited ('bakkt-trade.com') does not match the official domain of Coinbase, which is 'coinbase.com'.
+   The webpage is trying to impersonate Coinbase by using similar branding and a login page that looks like the Coinbase login page.
+   The URL path implies it's a page related to Coinbase Wall, which is a Coinbase product, but the URL is not hosted on the official Coinbase domain.
+   The presence of a chat icon on the bottom right corner of the webpage, which is not a typical feature on Coinbase's login page.
+
+
+f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
+ 1. Prediction: Phishing
+2. Target Brand: Webmail
+3. Yes 
+   - Username
+   - Password
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match any legitimate domain.
+   - The design of this webpage closely mimics the design of the official Webmail page when this domain of this webpage is not from the official Webmail domain, which indicates an attempt to deceive the user that it is the real Webmail page without looking at the url.
+   - This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Webmail page, since there are fields asking for user's credential on this page.
+
+
+fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f
+ 1. Prediction: Phishing
+2. Target Brand: Telegram
+3. Yes 
+   - Phone number
+   - Verification code sent to the provided phone number
+4. Reasons that support prediction
+   - The domain name "terlergram.com" is similar to the official Telegram domain "telegram.org", but it is not the official domain.
+   - The website design and layout are similar to the official Telegram website, but there are some differences, such as the use of a different font and color scheme.
+   - The website requests users to provide their phone number and a verification code that was sent to their phone. This is not a typical step in the Telegram login process.
+
+

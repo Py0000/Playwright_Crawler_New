@@ -1,0 +1,94 @@
+0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft OneDrive
+3. Yes, email
+4. Reasons that support prediction:
+ - The URL does not match the official Microsoft OneDrive domain.
+ - The page is asking for the user's email address, which is not typically required to access a OneDrive account.
+ - The page is hosted on a free web hosting service, which is not typically used by legitimate businesses.
+ - The page design is not consistent with the official Microsoft OneDrive website.
+
+
+3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2
+ 1. Prediction: Phishing
+2. Target Brand: Microsoft
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate Microsoft domain.
+   Although the page did not directly include elements that ask user to enter their Microsoft account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her Microsoft account.
+   Moreover, the design of this webpage closely mimics the design of the official Microsoft page when this domain of this webpage is not from the official Microsoft domain, which indicates an attempt to deceive the user that it is the real Microsoft page without looking at the url.
+
+
+605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817
+ 1. Prediction: Phishing
+2. Target Brand: DHL
+3. Yes
+ - Email Address
+ - Password
+4. Reasons that support prediction
+ - The URL is not the official DHL website.
+ - The URL is a long string of characters that is not easy to remember or type in.
+ - The webpage design looks different from the official DHL website.
+ - The webpage is asking for personal information, such as your email address and password.
+ - The webpage is not secure.
+
+
+8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918
+ 1. Prediction: Phishing
+2. Target Brand: Adobe
+3. Yes (has user credential fields). Asking for email and password. 
+4. Reasons supporting Prediction: 
+   The domain in the provided url and the final url visited doesn't match the legitimate adobe domain.
+   The design of this webpage closely mimics the design of the official Adobe Acrobat login page when this domain of this webpage is not from the official Adobe Acrobat domain, which indicates an attempt to deceive the user that it is the real Adobe Acrobat page without looking at the url.
+   This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Adobe Acrobat page, since there are fields asking for user's credential on this page.
+
+
+acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
+ 1. Prediction: Phishing
+2. Target Brand: Bilibili
+3. Yes
+4. Reasons that support prediction:
+ - The provided URL does not match the visited URL.
+ - The visited URL is a Chinese video-sharing website, which is not related to the provided URL.
+ - The webpage is in Chinese, which is not the same language as the provided URL.
+ - The webpage has a lot of pop-ups and advertisements, which is not typical of a legitimate website.
+
+
+cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
+ 1. Prediction: Phishing
+2. Target Brand: Garena Free Fire
+3. Yes
+   - Facebook account
+   - Username
+   - Password
+4. Reasons that support prediction
+   - The URL is not the official Garena Free Fire website.
+   - The login page is not the same as the official Garena Free Fire login page.
+   - The website is asking for personal information, such as your name, birthday, and address.
+   - The website is not secure.
+
+
+cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
+ 1. Prediction: Phishing
+2. Target Brand: Dynamic Home Buyers
+3. Yes (has user credential fields). Asking for Full Name, Email Address and Phone Number.
+4. Reasons that support prediction: 
+   The URL visited ('dynamichb.com') does not match the official domain of Dynamic Home Buyers, which is 'dynamichomebuyers.com'.
+   The webpage is hosted on a free hosting platform, which is not typically used by legitimate businesses.
+   The webpage contains a number of grammatical errors and inconsistencies, which suggests that it was created by someone who is not a native English speaker.
+   The webpage requests personal information, such as your full name, email address, and phone number, which is not necessary in order to sell your home.
+   The webpage contains a number of links that lead to other websites, which is not typical of a legitimate business website.
+
+
