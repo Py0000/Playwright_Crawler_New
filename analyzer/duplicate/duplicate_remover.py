@@ -1,6 +1,7 @@
 import argparse
 import ast
 import os
+import re
 import shutil
 
 class DuplicateRemover:
@@ -26,7 +27,7 @@ class DuplicateRemover:
             print(f"Deleted: {zip_folder_path}")
 
 
-    def read_and_delete_duplicates(self, duplicate_txt_file):
+    def read_and_delete_url_duplicates(self, duplicate_txt_file):
         with open(duplicate_txt_file, "r") as file:
             for line in file:
                 # Extract ZIP name and dates
@@ -37,12 +38,47 @@ class DuplicateRemover:
                 dates_to_delete = dates[1:]
 
                 self.delete_duplicates(zip_name, dates_to_delete)   
+    
+
+    def read_html_duplicates(self, duplicate_txt_file):
+        pattern = r'Duplicate for: (\d+): \[([^\]]+)\]'
+        with open(duplicate_txt_file, "r") as file:
+            content = file.read()
+        matches = re.findall(pattern, content)
+        date_zip_pairs = {}
+        for match in matches:
+            date = match[0]
+            zip_files_str = match[1]
+            zip_files = [zip_file.strip().strip("'\"") for zip_file in zip_files_str.split(', ')]
+
+            date_zip_pairs[date] = zip_files
+        
+        return date_zip_pairs
+
+    def remove_html_duplicates(self, info):
+        for date, zip_folders in info.items():
+            month = self.get_month_folder_from_date(date)
+            for zip_folder in zip_folders:
+                zip_folder_path = os.path.join("datasets", month, f"dataset_{date}", f"dataset_{date}", f"dataset_{date}", "complete_dataset", zip_folder)
+                os.remove(zip_folder_path)
+                print(f"Deleted: {zip_folder_path}")
+
+    def read_and_delete_html_duplicates(self, duplicate_txt_file):
+        date_zip_pairs = self.read_html_duplicates(duplicate_txt_file)
+        self.remove_html_duplicates(date_zip_pairs)
+        
+        
+            
             
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Supply the folder names")
     parser.add_argument("txt_path", help="Duplicate Txt File Path")
+    parser.add_argument("mode", help="url or html")
     args = parser.parse_args()
 
     remover = DuplicateRemover()
-    remover.read_and_delete_duplicates(args.txt_path)
+    if args.mode == "url":
+        remover.read_and_delete_url_duplicates(args.txt_path)
+    else:
+        remover.read_and_delete_html_duplicates(args.txt_path)

@@ -90,6 +90,16 @@ Returning to the ssh session:
 * Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler_New` directory
 * Cmd: `python3 -m analyzer.blank_page.blank_page_detector {path_to_dataset}/dataset_{date}.zip`
 
+#### Finding duplicated files/content 
+* Pre-cond: Running the script `duplicate_checker.py` from `Playwright_Crawler_New` directory
+* Cmd: `python3 -m analyzer.duplicate.duplicate_checker {path_to_dataset} {mode}`
+  * `mode`: `url` or `html`
+
+#### Removing duplicated files/content 
+* Pre-cond: Running the script `duplicate_remover.py` from `Playwright_Crawler_New` directory
+* Cmd: `python3 -m analyzer.duplicate.duplicate_remover {duplicate_folder_txt_file_path} {mode}`
+  * `mode`: `url` or `html`
+
 #### Running llm scripts 
 * Pre-cond: Running the script from `Playwright_Crawler_New` directory
 
@@ -116,4 +126,5 @@ Returning to the ssh session:
   * Possible arg for `type`:
     * `blank_pages`
     * `blocked`
+    * `complete`
     

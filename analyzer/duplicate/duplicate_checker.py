@@ -5,7 +5,7 @@ from collections import defaultdict
 from zipfile import ZipFile
 
 class DuplicateChecker:
-    def init(self):
+    def __init__(self):
         self.month_folders = ["Oct", "Nov", "Dec"]
         return 
     
@@ -34,7 +34,8 @@ class DuplicateChecker:
 
         # Dictionary to map ZIP folder names (SHA-256 hashes) to a list of dates they appear on
         zip_occurrences = defaultdict(list)
-
+        new = 0
+        dup = 0
         for month in self.month_folders:
             month_path = os.path.join(month_folder_path, month)
             for dataset_folder in os.listdir(month_path):
@@ -50,14 +51,18 @@ class DuplicateChecker:
 
                                 if content_hash in unique_hashes: #If hash already appeared before, means the content is duplicated. 
                                     print(f"Duplicate found in {zip_folder_path}")
-                                    zip_occurrences[zip_folder].append(dataset_folder.replace("dataset_", ""))
+                                    zip_occurrences[dataset_folder.replace("dataset_", "")].append(zip_folder)
+                                    dup += 1
                                 else:
                                     unique_hashes.add(content_hash)
+                                    new += 1
+        
+        print(f"\n\nNew: {new}\nDup: {dup}")
         
         with open(os.path.join("analyzer", "duplicate", "html_duplicate_zip_folders.txt"), "w") as file:
-            for zip_name, dates in zip_occurrences.items():
-                if len(dates) > 1:  # More than one occurrence means it's a duplicate
-                    file.write(f"Duplicate ZIP folder: {zip_name} found on dates: {dates}\n")
+            for dates, zip_name in zip_occurrences.items():
+                if len(zip_name) > 0:  # More than one occurrence means it's a duplicate
+                    file.write(f"\nDuplicate for: {dates}: {zip_name}\n")
                                 
         
 
