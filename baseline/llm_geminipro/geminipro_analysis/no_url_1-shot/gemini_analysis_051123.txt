@@ -1,0 +1,46 @@
+2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
+ 1. Target Brand: Auto Follower Indonesia
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction: 
+ - The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
+ - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+ - The page requested for users to enter account information.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Target Brand: Telegram
+2. No
+3. Non-Phishing
+4. Reasons that support prediction:
+ - The URL is consistent with the official Telegram domain.
+ - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+ - The design of the webpage matches the design of official Telegram login page.
+
+
+4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb
+ 1. Target Brand
+Facebook
+2. Any user credential fields (Yes/No) + list them if any
+Yes
+- Họ tên (Full name)
+- Ngày sinh (Birthday)
+- Địa chỉ (Address)
+3. Prediction (Phishing/Non-Phishing)
+Phishing
+4. Reasons that support prediction
+- The URL is not a legitimate Facebook domain.
+- The design of the webpage is not consistent with the official Facebook login page.
+- The page requests for unnecessary personal information like Full name, Birthday and Address.
+
+
+6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169
+ 1. Target Brand: Telegram
+2. No
+3. Non-Phishing
+4. Reasons that support prediction: 
+   The URL is consistent with the official Telegram domain.
+   'https://' indicates that the connection is secure.
+   The design of the webpage matches the design of official Telegram webpage.
+
+

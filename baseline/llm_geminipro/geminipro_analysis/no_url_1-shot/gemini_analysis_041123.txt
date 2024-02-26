@@ -1,0 +1,92 @@
+1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
+ 1. Target Brand: Netflix
+2. Yes, Email and Password
+3. Non-Phishing
+4. Reasons that support prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for Netflix.
+   The URL is consistent with the official Netflix domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Netflix login page.
+
+
+873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
+ 1. Target Brand: Telegram
+2. Any user credential fields (Yes/No) + list them if any: Yes, Phone number
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction:
+ - The domain in the provided url and the final url visited doesn't match the legitimate Telegram domain. 
+ - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+ - The page requested for users to enter account information.
+
+
+88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
+ 1. Target Brand
+New Traiders
+2. Any user credential fields (Yes/No) + list them if any
+Yes, email and password
+3. Prediction (Phishing/Non-Phishing)
+Phishing
+4. Reasons that support prediction
+   The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
+   There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   The page requested for users to enter account information.
+
+
+a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
+ 1. Target Brand: SurveySparrow
+2. Yes, Email and Phone Number.
+3. Non-Phishing
+4. Reasons that support prediction:
+ - The URL is consistent with the official SurveySparrow domain.
+ - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+ - The design of the webpage matches the design of official SurveySparrow login page.
+
+
+aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
+ 1. Target Brand: Microsoft
+2. Yes, Email and Password
+3. Phishing
+4. The URL is different from the official Microsoft login page. The legitimate URL is 'login.live.com'.
+The page requests for personal information such as email and password.
+
+
+b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
+ 1. Target Brand: Gemini
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and phone number
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction:
+ - The domain in the provided url and the final url visited doesn't match the legitimate Gemini domain. 
+ - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+ - The page requested for users to enter account information.
+
+
+c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
+ 1. Target Brand: Jek Miner
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction:
+   - The URL is not a secure connection, indicated by the 'http://' at the beginning of the URL.
+   - The URL does not match the official Jek Miner domain.
+   - The design of the webpage looks suspicious and unprofessional, and is different from the official Jek Miner webpage.
+   - There is a sense of urgency created by the webpage, which is a common tactic used by phishing websites.
+   - The webpage is asking for sensitive information such as email and password, which is not necessary for a legitimate investment opportunity.
+
+
+f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
+ 1. Target Brand: BBVA
+2. Yes
+   - NIF, NIE, Tarjeta o Pasaporte
+   - Clave de acceso
+   - Número de teléfono
+3. Phishing
+4. Reasons that support prediction
+   - The URL is not the official BBVA website.
+   - The page is asking for sensitive information such as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono.
+   - The page has a fake "Iniciar sesión" button.
+   - The page has a fake "Hazte cliente" button.
+
+

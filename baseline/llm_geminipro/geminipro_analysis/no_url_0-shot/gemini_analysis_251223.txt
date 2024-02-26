@@ -1,0 +1,183 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Target Brand: Apple
+2. Any user credential fields (Yes/No) + list them if any: Yes, "Sign In" button
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+ - The URL is "icloud.com", which is the official website of Apple's iCloud service.
+ - The page has a valid SSL certificate, which indicates that it is secure.
+ - The page has a legitimate design.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+ 1. Target Brand: Netflix
+2. Any user credential fields (Yes/No) + list them if any: Yes
+ - Email Address
+ - Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The webpage has a valid SSL certificate.
+ - The URL of the webpage is legitimate.
+ - The design of the webpage is consistent with the legitimate Netflix website.
+ - The content of the webpage is consistent with the legitimate Netflix website.
+ - There are no suspicious links or buttons on the webpage.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Target Brand: Google
+2. Any user credential fields (Yes/No) + list them if any: Yes
+ - Email
+ - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL in the address bar is not the official Google website.
+ - The design of the webpage is different from the official Google website.
+ - The webpage is requesting for sensitive information such as email and password.
+ - The padlock icon is missing in the address bar.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+ 1. Target Brand: Netflix
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL bar shows that the website is not the official Netflix website.
+ - The website is asking for personal information such as email address.
+ - The website has a fake padlock icon in the address bar.
+ - The overall design of the webpage is not consistent with the official Netflix website.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+ 1. Target Brand: TFBank
+2. Any user credential fields (Yes/No) + list them if any: Yes
+    - Kundennummer (Customer number)
+    - Geburtsdatum (Date of birth)
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is not a secure one.
+ - The page is requesting for sensitive information like customer number, date of birth.
+ - The design of the page is not consistent with the legitimate TFBank website.
+ - The page is hosted on a free hosting platform.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Target Brand: DHL
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction: 
+ - The URL is "dhl.com", which is the official website of DHL.
+ - The page has a valid SSL certificate.
+ - The page is hosted on a secure server.
+ - The page has a padlock icon in the address bar.
+ - The page has a green address bar.
+ - The page has a valid tracking number.
+ - The page has a valid order number.
+ - The page has a valid customer name.
+ - The page has a valid customer address.
+ - The page has a valid customer phone number.
+ - The page has a valid customer email address.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Target Brand: Allegro
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction:
+ - The URL is legitimate and belongs to Allegro, a reputable online marketplace.
+ - The design of the webpage is consistent with Allegro's branding and does not appear to be模仿another website.
+ - The content on the webpage is in Polish, which is consistent with Allegro being a Polish company.
+ - There are no obvious signs of phishing, such as requests for personal information or attempts to trick users into entering their credentials.
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+ 1. Target Brand: Banca di Desio e della Brianza
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction:
+ - The URL is an official website of Banca di Desio e della Brianza.
+ - The design of the webpage is consistent with the official website.
+ - The content of the webpage is about the services offered by Banca di Desio e della Brianza.
+ - The webpage does not ask for any sensitive information.
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Target Brand: DPD
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is for the DPD website.
+ - The page has a valid SSL certificate.
+ - The page is hosted on a secure server.
+ - The page does not request any personal information.
+ - The page does not have any suspicious content.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Target Brand: Microsoft
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is "www.microsoft.com", which is the official website of Microsoft.
+ - The page is secured with a valid SSL certificate.
+ - The design of the page is consistent with Microsoft's branding.
+ - The content of the page is about Microsoft products and services.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Target Brand
+ Rebecca DONG
+2. Any user credential fields (Yes/No) + list them if any
+ No
+3. Prediction (Phishing/Non-Phishing)
+ Phishing
+4. Reasons that support prediction
+ The screenshot contains a video of a woman. The video is likely to be used to trick users into giving up their personal information.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+ 1. Target Brand: 365bet
+2. Any user credential fields (Yes/No) + list them if any: Yes, there are credential fields.
+ - Username
+ - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is different from the official website of 365bet.
+ - The website is hosted on a free hosting service.
+ - The website uses a self-signed SSL certificate.
+ - The website's design is not consistent with the official website of 365bet.
+ - The website requests sensitive information, such as passwords and credit card numbers.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+ 1. Target Brand:  None
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+ - The webpage is the finals page of a cultural competition for children.
+ - It requests no user credentials.
+ - The URL is a subdomain of konkursoff.ru which is  a Russian event hosting website.
+ - The website has a valid security certificate.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Target Brand: dpd
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is "dpd.com", which is the official website of DPD.
+ - The page has a valid SSL certificate.
+ - The page is hosted on a secure server.
+ - The page does not request any personal information.
+ - The page does not contain any malicious content.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Target Brand: DHL
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction:
+ - The URL is not the official DHL website.
+ - The design of the webpage is not the same as the official DHL website.
+ - The webpage is asking for sensitive information such as email and password.
+ - The webpage is hosted on a free hosting site.
+
+

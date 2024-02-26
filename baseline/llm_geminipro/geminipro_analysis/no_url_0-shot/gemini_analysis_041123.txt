@@ -1,0 +1,118 @@
+1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
+ 1. Target Brand: Netflix
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address and Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL bar is missing.
+ - The page is requesting for personal information like email address and password.
+ - The "Sign In" button is not working.
+ - The page is not using HTTPS.
+ - The design of the page is different from the legitimate Netflix website.
+
+
+873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
+ 1. Target Brand: Telegram
+2. Any user credential fields (Yes/No): No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is legitimate.
+ - The design of the webpage is consistent with the official Telegram website.
+ - The content of the webpage is consistent with the official Telegram website.
+ - There are no suspicious elements on the webpage.
+
+
+88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
+ 1. Target Brand
+New TradinPairs
+2. Any user credential fields (Yes/No) + list them if any
+Yes
+- Email
+- Password
+3. Prediction (Phishing/Non-Phishing)
+Phishing
+4. Reasons that support prediction
+- The URL is not a secure one and does not belong to the real New TradinPairs website.
+- The website is asking for personal information such as email and password, which is not necessary for creating an account on a cryptocurrency trading platform.
+- The website is not using a secure connection, which means that the data transmitted between the user and the website could be intercepted by a third party.
+- The website is not listed on any of the major cryptocurrency exchanges, which is a red flag.
+
+
+a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
+ 1. Target Brand
+球彩网
+2. Any user credential fields (Yes/No) + list them if any
+Yes
+- Username
+- Password
+3. Prediction (Phishing/Non-Phishing)
+Phishing
+4. Reasons that support prediction
+- The URL is different from the legitimate site.
+- The website is not using a secure connection.
+- The website is asking for sensitive information, such as passwords and credit card numbers.
+- The website has a lot of pop-ups and advertisements.
+- The website's design is not professional.
+
+
+a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
+ 1. Target Brand: SurveySparrow
+2. Any user credential fields (Yes/No) + list them if any: Yes
+ - Email
+ - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL in the address bar is not the official website of SurveySparrow.
+ - The page is asking for sensitive information such as email and password.
+ - The page has a design that is similar to the legitimate SurveySparrow website, but there are some subtle differences, such as the font and the color of the text.
+ - The page is hosted on a free web hosting service, which is often used by phishing websites.
+
+
+aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
+ 1. Target Brand: Microsoft
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction (Phishing/Non-Phishing): Non-phishing
+4. Reasons that support prediction: 
+ - The URL is for Microsoft's official website.
+ - The design of the webpage is consistent with Microsoft's branding.
+ - The content of the webpage is about Microsoft's products and services.
+
+
+b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
+ 1. Target Brand: Gemini
+2. Any user credential fields (Yes) 
+   - Email Address
+   - Phone Number
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The webpage is asking for sensitive information like email address and phone number.
+ - The webpage is not using a secure connection (the URL starts with "http://" instead of "https://").
+ - The webpage has a lot of spelling and grammatical errors.
+ - The webpage is not hosted on a reputable domain.
+ - The webpage has a design that mimics a legitimate site.
+
+
+c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
+ 1. Target Brand: JEK-MINER
+2. Any user credential fields (Yes/No) + list them if any: Yes
+   - Username
+   - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is not a legitimate domain for JEK-MINER.
+ - The design of the webpage is not consistent with the legitimate JEK-MINER website.
+ - The webpage is requesting sensitive information, such as passwords and credit card numbers.
+ - There is no padlock icon on the URL bar which indicates that the website is not secure.
+
+
+f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
+ 1. Target Brand: BBVA
+2. Any user credential fields (Yes/No) + list them if any: Yes
+ NIF, NIE, Tarjeta o Pasaporte
+Clave de acceso
+Número de teléfono
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction:
+ - The webpage is asking for sensitive information like NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono.
+ - The webpage has a similar design to the legitimate BBVA website, but there are some differences, such as the missing of the lock icon in the address bar and the different font used in the text.
+
+

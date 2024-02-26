@@ -3,6 +3,8 @@ import json
 import os
 import shutil
 import zipfile
+import time
+import random
 
 import google.generativeai as genai
 
@@ -146,11 +148,24 @@ class GeminiProVisionBaseline:
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Supply the folder names")
-    parser.add_argument("folder_path", help="Folder name")
-    parser.add_argument("date", help="Date")
+    #parser.add_argument("folder_path", help="Folder name")
+    #parser.add_argument("date", help="Date")
     parser.add_argument("benign_phishing", help="benign or phishing")
     parser.add_argument("few_shot_count", help="number of examples to include")
     args = parser.parse_args()
 
+    benign_folders = ["benign"]
+    phishing_folders = ["251023", "261023", "271023", "281023", "011123", "041123", "051123", "061123", "161123", "251123", "111223", "151223", "251223"]
+
+    if args.benign_phishing == "benign":
+        folders = benign_folders
+    else:
+        folders = phishing_folders
+    
     gemini_baseline = GeminiProVisionBaseline(args.benign_phishing)
-    gemini_baseline.analyse_directory(args.folder_path, args.date, int(args.few_shot_count))
+    for folder in folders:
+        print(f"\nProcessing folder: {folder}")
+        folder_path = os.path.join("baseline", "datasets", f"original_dataset_{folder}")
+        date = folder
+        gemini_baseline.analyse_directory(folder_path, date, int(args.few_shot_count))
+        time.sleep(random.randint(60-120))

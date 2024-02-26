@@ -1,0 +1,127 @@
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+ 1. Target Brand: Telegram
+2. Any user credential fields (Yes/No): No
+3. Prediction: Non-phishing
+4. Reasons that support prediction:
+ - The URL is legitimate.
+ - The design is consistent with the legitimate Telegram website.
+ - The content is consistent with the legitimate Telegram brand.
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+ 1. Target Brand: Libero
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The page is asking for sensitive information (email and password).
+ - The page is not using a secure connection (the URL starts with "http://" instead of "https://").
+ - The page has a suspicious domain name ("liberomail.com" instead of "libero.it").
+ - The page's design is not consistent with the legitimate Libero website.
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+ 1. Target Brand: Videotron
+2. Any user credential fields (Yes/No) + list them if any: Yes
+ - courriel (email)
+ - Mot de passe (password)
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction:
+ - The URL in the address bar is different from the legitimate Videotron website.
+ - The page is requesting personal information, such as email address and password.
+ - The page is not using a secure connection.
+ - The design of the page is not consistent with the legitimate Videotron website.
+
+
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+ 1. Target Brand
+ - Trust Wallet
+2. Any user credential fields (Yes/No) + list them if any
+ - Yes
+   - Email
+   - Password
+3. Prediction (Phishing/Non-Phishing)
+ - Phishing
+4. Reasons that support prediction
+ - The URL bar shows a lock icon, but the URL is not the official Trust Wallet URL.
+ - The page is asking for sensitive information such as email and password.
+ - The page is not using a secure connection (HTTPS).
+ - The design of the page is not consistent with the official Trust Wallet website.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Target Brand: Telegram
+2. Any user credential fields (Yes/No): No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is legitimate and belongs to Telegram.
+ - The design of the webpage is consistent with the official Telegram branding.
+ - The content of the webpage is related to Telegram and its features.
+ - There are no suspicious elements or requests for sensitive information on the webpage.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+ 1. Target Brand
+Webmail
+2. Any user credential fields (Yes/No) + list them if any
+Yes
+Username
+Password
+3. Prediction (Phishing/Non-Phishing)
+Phishing
+4. Reasons that support prediction
+The page requests for sensitive information like username and password. Moreover, the domain name is not legitimate.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+ 1. Target Brand: Coinbase
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is not the official Coinbase website.
+ - The page is not using a secure connection.
+ - The page is requesting personal information, such as your name and email address.
+ - The page is not using a legitimate Coinbase logo.
+ - The page is not using a legitimate Coinbase font.
+ - The page is not using a legitimate Coinbase layout.
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+ 1. Target Brand
+The target brand is Outlook.
+2. Any user credential fields (Yes/No) + list them if any
+Yes, the following user credential fields are requested:
+- Email address
+- Email password
+3. Prediction (Phishing/Non-Phishing)
+Phishing
+4. Reasons that support prediction
+The following indicators support the prediction that the webpage is phishing:
+- The webpage is requesting user credentials for Outlook, which is a known target for phishing attacks.
+- The webpage is not hosted on the official Outlook website.
+- The webpage has a suspicious design and layout.
+- The webpage is requesting unnecessary information, such as the user's email password.
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+ 1. Target Brand: Bet365
+2. Any user credential fields (Yes/No) + list them if any: Yes
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction:
+ - The URL of the webpage is different from the official Bet365 website.
+ - The webpage design is different from the official Bet365 website.
+ - The webpage is requesting personal information, such as passwords and credit card numbers.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+ 1. Target Brand: Bank of Ireland
+2. Any user credential fields (Yes/No) + list them if any: Yes
+ - User ID
+ - Date of birth
+ - Phone number
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is not the official website of Bank of Ireland.
+ - The design of the webpage is not consistent with the official website of Bank of Ireland.
+ - The webpage is requesting for sensitive information such as user ID, date of birth, and phone number.
+
+

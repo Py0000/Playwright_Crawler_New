@@ -1,0 +1,138 @@
+0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc
+ 1. Target Brand: AT&T
+2. Any user credential fields (Yes/No) + list them if any: Yes, User ID and Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The webpage is asking for sensitive information (User ID and Password).
+ - The webpage is not using a secure connection (the URL does not start with "https://").
+ - The webpage is not hosted on AT&T's official domain (the domain is "att.com.phishing").
+ - The webpage has a design that is similar to AT&T's official website, but there are some subtle differences (e.g., the font is different, the colors are slightly different, etc.).
+
+
+33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255
+ 1. Target Brand: Disqus
+2. Any user credential fields (Yes/No): No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is "www.disqus.com", which is the official website of Disqus.
+ - The page is about Disqus's features.
+ - The page has a lot of social media sharing buttons.
+ - The page has a lot of positive reviews from customers.
+
+
+37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db
+ 1. Target Brand: Webmail
+2. Any user credential fields (Yes/No) + list them if any: Yes, the following user credential fields are requested:
+ - Email Address
+ - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The webpage is requesting for sensitive information like email address and password.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage has a suspicious domain name (webmail.com).
+ - The webpage has a design that is similar to a legitimate website, but there are some subtle differences, such as the font and the color of the text.
+
+
+6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone and Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL bar is missing.
+ - The page's design is not consistent with Facebook's branding.
+ - The text on the page is in Thai, but the Facebook login page is usually in English.
+ - The page is requesting sensitive information, such as email or phone number and password.
+
+
+6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1
+ 1. Target Brand: Telegram
+2. Any user credential fields (Yes/No) + list them if any: Yes, Phone Number
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is not the official Telegram website.
+ - The page is asking for sensitive information (phone number) without any clear indication of why it is needed.
+ - The design of the page is not consistent with the official Telegram website.
+
+
+6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes
+   - Mobile number or email address
+   - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+   - The URL is not a legitimate Facebook URL.
+   - The design of the webpage is not consistent with the legitimate Facebook webpage.
+   - The webpage is requesting sensitive information, such as passwords and mobile numbers.
+
+
+83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890
+ 1. Target Brand: Microsoft
+2. Any user credential fields (Yes/No) + list them if any: Yes, password
+3. Prediction: Phishing
+4. Reasons that support prediction: 
+ - The URL in the address bar is not the legitimate Microsoft website. 
+ - The page is requesting the user's password, which is not necessary to access a Microsoft account. 
+ - The page has a fake Microsoft logo.
+ - The page is not using a secure HTTPS connection.
+
+
+9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8
+ 1. Target Brand: N/A
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction: 
+ - The URL is for "deereparkprogress.com" which is a legitimate site
+ - The content is about a local event.
+ - The design is consistent with other pages on the site.
+
+
+9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505
+ 1. Target Brand: Microsoft
+2. Any user credential fields (Yes/No) + list them if any: Yes, password
+3. Prediction: Phishing
+4. Reasons that support prediction: 
+ - The URL is not a legitimate Microsoft website.
+ - The page is requesting the user's password without first providing a username.
+ - The page is using a generic "Sign In" button instead of a more specific button, such as "Sign In to Microsoft".
+ - The page is using a gradient background image, which is a common design element on phishing pages.
+
+
+d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
+ 1. Target Brand: Coinbase
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is not the official Coinbase website.
+ - The page is not using a secure connection.
+ - The page is requesting personal information, such as your name and email address.
+ - The page is not using a legitimate Coinbase logo.
+ - The page is using a generic font.
+
+
+f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
+ 1. Target Brand
+Webmail
+2. Any user credential fields (Yes/No) + list them if any
+Yes
+Username
+Password
+3. Prediction (Phishing/Non-Phishing)
+Phishing
+4. Reasons that support prediction
+a. The "Webmail" text in the header is not aligned with the text below.
+b. The lock icon for the password field is missing.
+c. The text "Secured Login Session?" is not aligned with the checkbox.
+d. The copyright date at the bottom is not aligned with the rest of the text.
+
+
+fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f
+ 1. Target Brand: Telegram
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is legitimate.
+ - The design of the webpage is consistent with the official Telegram website.
+ - The content of the webpage is about Telegram.
+
+
