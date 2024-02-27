@@ -1,12 +1,9 @@
 2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
- 1. Target Brand
-Auto Follower Indonesia
-2. Any user credential fields (Yes/No) + list them if any
-Yes
+ 1. Target Brand: Auto Follower Indonesia
+2. Any user credential fields (Yes/No) + list them if any: Yes
 - Email Address
 - Password
-3. Prediction (Phishing/Non-Phishing)
-Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
 - The URL is different from the official website.
 - The website is asking for sensitive information like passwords.

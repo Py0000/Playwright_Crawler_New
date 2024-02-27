@@ -29,12 +29,9 @@
 
 
 0a0cc81465488c9bec31a6344e1cbfa15781f560dfb582c0eab1526b38b49cfe
- 1. Target Brand
- Squarespace
-2. Any user credential fields (Yes/No) + list them if any
- No
-3. Prediction (Phishing/Non-Phishing)
- Non-phishing
+ 1. Target Brand: Squarespace
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-phishing
 4. Reasons that support prediction
  - The webpage is Squarespace's official website.
  - The URL is legitimate.
@@ -54,12 +51,9 @@
 
 
 0aa4d85ddff9ba77ed5c1aaa395e2b17fbbbf7ac40edf1affe87958aa6f510ea
- 1. Target Brand
- mmcdn.com
-2. Any user credential fields (Yes/No) + list them if any
- No
-3. Prediction (Phishing/Non-Phishing)
- Non-Phishing
+ 1. Target Brand: mmcdn.com
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
  - The URL is mmcdn.com, which is not a known phishing website.
  - The webpage is a simple error page, which is not typically used for phishing.
@@ -134,7 +128,7 @@
 25d28491f2c5b0c18e71b8e813204e63fdcdaabb9d5d1224aa48a237c5f92ae9
  1. Target Brand: NOTA MEDIA
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
  - The URL is Notimedia.ru which is the official website of Notamedia.
  - The page has a valid SSL certificate.
@@ -145,7 +139,7 @@
 27a1b198f5ea292af2c3cbfc60a777aaa6797f291b7b290e39682e7a886a508a
  1. Target Brand: Anieniew
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The webpage is for a known legitimate company (Anieniew).
  - The URL is correct for the company.
@@ -268,12 +262,9 @@
 
 
 3bd0cc327ed11deea2f23ad808986dc698fc7452a25c8bf6803baeff6ec93443
- 1. Target Brand
-Facebook
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Non-Phishing
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
 The URL is wired.com which is a legitimate website.
 The page has a valid SSL certificate.
@@ -358,12 +349,9 @@ The page does not request any personal information.
 
 
 6b982acd6d94c3debe39bc2a8696c051b5221853d295d483c555c92992c817e5
- 1. Target Brand
-N/A
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Non-Phishing
+ 1. Target Brand: N/A
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
 The webpage is hosted on the Cloudflare platform, which is a legitimate and widely used content delivery network.
 The error message indicates that the connection to the host server timed out, which is a common network issue and not necessarily a sign of phishing.
@@ -451,12 +439,9 @@ a47e6c825d933bad8cf89e5a5b7183777e0585c863bc7556f39ae4c965f41695
 
 
 a87b5f4789e853bc7344fad517bab10fce1a610980f8e85c71e564b953610ae7
- 1. Target Brand
-Market Watch
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Non-Phishing
+ 1. Target Brand: Market Watch
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
 The webpage is from marketwatch.com, which is a reputable source for financial news.
 The content on the webpage is about personal finance, which is consistent with the brand's focus.
@@ -478,7 +463,7 @@ a92a59a2c6976b21664e159ce82a7e4a8def14f3f27dca138938a792a017f46a
 a92e4e0590a06b89b01d1c3d29b048d1681ed0d9cdc7f387ecc09ef7d809aa33
  1. Target Brand: Braze
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction: 
  - The URL is `braze.com`, which is the official website of Braze.
  - The design of the webpage is consistent with the rest of the Braze website.
@@ -516,7 +501,7 @@ ceac19f4302c9ba585672b1cc970dacb5514b59f1dc23f13abde29e0370ee02a
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email Address
  - Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL in the address bar is not the official website of Kaspersky.
  - The design of the webpage is not consistent with the official website of Kaspersky.
@@ -567,7 +552,7 @@ cfa9211fd4e50c269e4641c6ed7c3cacc0ef37a25885229c36f16af3d1800b18
 d0f7d7697238de47b4c9235dec4258f00eeae2f8b74269ab58f261dfd826020a
  1. Target Brand: Financial Times
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is legitimate and belongs to Financial Times.
  - The design of the webpage is consistent with the Financial Times brand.
@@ -624,7 +609,7 @@ d41c451041a98abc78f1d4de62aeee25fb4e0b2753a2f0efa0b41b7523546956
 d4e1f6f104315219d1ad96dc077354ad837fea41d8c655dea40eb115709cd1a1
  1. Target Brand: Firefox
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction:
  - The URL is mozilla.org, which is the official website of Mozilla Firefox.
  - The design of the webpage is consistent with the rest of the Mozilla Firefox website.
@@ -734,7 +719,7 @@ dfe0f069d806d6df7ac200d584d41a6dcb1f15afa42446981c99ad5e0b6fb37a
 e03b5f2dc02579c8a7cf9476e6555054c9dd289ee09ebdba54483ee480b20e6d
  1. Target Brand: healthline.com
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is healthline.com, which is a legitimate website.
  - The design of the webpage is consistent with the rest of the healthline.com website.
@@ -765,7 +750,7 @@ e2c3af574a56615be56062b66484158250eea92c54d5347291093c23efe8b548
 e48d8a155006826b851f63b2c196f93d8fdc6d1151529b7668b8a2c5bf4ed7d7
  1. Target Brand: Hershey's
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is for hersheys.com, which is the official website for Hershey's.
  - The page is hosted on a secure server, as indicated by the lock icon in the address bar.
@@ -831,7 +816,7 @@ e9b588ece2d498b20b0bcb62aa86eb5725c907f63c77645c1b0bfc7ba2559c8f
 f217d823160d39ca379a09044e1242ac641c8b1d79a1d6f499c59f08a1b67500
  1. Target Brand: The New York Times
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction: 
  - The URL is legitimate and belongs to The New York Times.
  - The design of the webpage is consistent with the legitimate The New York Times website.
@@ -852,7 +837,7 @@ f46c9af4e3161375d5d6b73d46879f986faa56f6c38b81229e066f9b5b0124fe
 f48e097e5098d40bcaa951f4022f669f7455a651ef2bc90d153ef2e38ffd503f
  1. Target Brand: WordPress
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is "wordpress.com", which is the official website of WordPress.
  - The design of the webpage is consistent with the official WordPress website.
@@ -873,12 +858,9 @@ f524fe96f9b5be0025ec161a0121cbfc2cd7c65ed1e32adf8eec7829b1a86e0f
 
 
 f618c0ec67208d54fc5e68eda3670acb78f14088ab813e3d691d3d2e1ceebca2
- 1. Target Brand
-Envato
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Non-Phishing
+ 1. Target Brand: Envato
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
 The webpage is a legitimate webpage of Envato. The URL of the webpage is envato.com which is a well-known and trusted website. The webpage is also verified by Norton which is a security company.
 
@@ -895,10 +877,10 @@ f66870df1b045b363eb91983ec6b312f3de8a9e2cb716c743fc5cdebd9ec2f3e
 
 
 f67af83d64e46b521edc947766b9736d2464804cd645efa21ce5c3f4cc1706fa
- 1. Target Brand
-2. No
-3. Non-Phishing
-4. 
+1. Target Brand: N/A
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
  - Presence of the green padlock on the address bar
  - The URL matches the legitimate website i.e. cnbc.com
  - The webpage has the valid security certificate
@@ -992,7 +974,7 @@ fa10b8f14b76fc49f226c8268418581008a09b34948388005fceedc581b5f831
 fa1f8d08fc351f7b7393a1af0eb45df219536e3baa2c8548af86a8c86d9a1a9f
  1. Target Brand: BBC
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is bbc.com, which is the official website of the BBC.
  - The page has a valid SSL certificate.
@@ -1004,7 +986,7 @@ fa1f8d08fc351f7b7393a1af0eb45df219536e3baa2c8548af86a8c86d9a1a9f
 faabf2aa0aaada7e89ae8823272a33480fa93b34061e1558bdbe2e8f616b0a2b
  1. Target Brand: Glance
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The webpage is Glance's official website.
  - The URL is legitimate and has a valid security certificate.
@@ -1048,12 +1030,9 @@ fd9e62101975c24f94391e60c5991bcdd88c32afb4ca4e34ae74fdefce1ce619
 
 
 fddb8cbc914c860d9dbb99b7228053b0d7069e7a0895186dd56d498278ef0d31
- 1. Target Brand
-エロme
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Phishing
+ 1. Target Brand: エロme
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Phishing
 4. Reasons that support prediction
 * The website is not a legitimate erome website.
 * The website is asking for personal information.
@@ -1068,7 +1047,7 @@ fdeb918a7ce989e712608931cd5067e1340e8b098ab4d455a9c8be88cf52c5fa
 fe1122142f5b16555790bbdbb96cb6c9b20f4729f6942b5becbaeb2471727740
  1. Target Brand: TED
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction:
  - The URL is legitimate.
  - The design is consistent with the legitimate TED website.
@@ -1097,12 +1076,9 @@ fef1de78c487ca04b341327a3deee5c50cb680138c031cf72746e0dd9bf33919
 
 
 ff03f7306b36e74d5dad4a7b18f821862b90afd53cc6f01dc7fd3b07796b1404
- 1. Target Brand
-BBC
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Non-phishing
+ 1. Target Brand: BBC
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-phishing
 4. Reasons that support prediction
 The URL is bbc.com, which is the official website of BBC.
 The design of the webpage is consistent with the BBC's branding.
@@ -1140,7 +1116,7 @@ ffbf3cddcb8bc0feef37fd830c4b64ed9fbb76cf3a39ae4a869932f1f9cc4603
 ffc6c3511504511bef4a461fcd7d74163840f0ec8cce8c1aab5489d9b4417eca
  1. Target Brand: UNESCO
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction:
  * The webpage has a reputable domain "unesco.org".
  * The content matches the known legitimate brand's style.

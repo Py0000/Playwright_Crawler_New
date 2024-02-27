@@ -24,7 +24,7 @@
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - courriel (email)
  - Mot de passe (password)
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL in the address bar is different from the legitimate Videotron website.
  - The page is requesting personal information, such as email address and password.
@@ -33,14 +33,11 @@
 
 
 31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
- 1. Target Brand
- - Trust Wallet
-2. Any user credential fields (Yes/No) + list them if any
- - Yes
+ 1. Target Brand: Trust Wallet
+2. Any user credential fields (Yes/No) + list them if any: Yes
    - Email
    - Password
-3. Prediction (Phishing/Non-Phishing)
- - Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
  - The URL bar shows a lock icon, but the URL is not the official Trust Wallet URL.
  - The page is asking for sensitive information such as email and password.
@@ -60,14 +57,11 @@
 
 
 4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
- 1. Target Brand
-Webmail
-2. Any user credential fields (Yes/No) + list them if any
-Yes
+ 1. Target Brand: Webmail
+2. Any user credential fields (Yes/No) + list them if any: Yes
 Username
 Password
-3. Prediction (Phishing/Non-Phishing)
-Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
 The page requests for sensitive information like username and password. Moreover, the domain name is not legitimate.
 
@@ -86,14 +80,11 @@ The page requests for sensitive information like username and password. Moreover
 
 
 834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
- 1. Target Brand
-The target brand is Outlook.
-2. Any user credential fields (Yes/No) + list them if any
-Yes, the following user credential fields are requested:
+ 1. Target Brand: Outlook
+2. Any user credential fields (Yes/No) + list them if any: Yes, the following user credential fields are requested:
 - Email address
 - Email password
-3. Prediction (Phishing/Non-Phishing)
-Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
 The following indicators support the prediction that the webpage is phishing:
 - The webpage is requesting user credentials for Outlook, which is a known target for phishing attacks.
@@ -105,7 +96,7 @@ The following indicators support the prediction that the webpage is phishing:
 ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
  1. Target Brand: Bet365
 2. Any user credential fields (Yes/No) + list them if any: Yes
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL of the webpage is different from the official Bet365 website.
  - The webpage design is different from the official Bet365 website.

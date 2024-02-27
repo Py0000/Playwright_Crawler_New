@@ -15,7 +15,7 @@
 00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
  1. Target Brand: Correos
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is legitimate and belongs to the target brand.
  - The design of the webpage is consistent with the target brand's style.
@@ -105,7 +105,7 @@ The `response.text` quick accessor only works for simple (single-`Part`) text re
 2. Any user credential fields (Yes/No) + list them if any: Yes
     - Apple ID
     - Password
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction:
     - The URL is appleid.apple.com, which is a legitimate Apple website.
     - The page has a valid SSL certificate.
@@ -127,7 +127,7 @@ The `response.text` quick accessor only works for simple (single-`Part`) text re
 d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
  1. Target Brand: SHENG HO JIUN
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  * The URL is legitimate and belongs to the target brand.
  * The design of the webpage is consistent with the target brand's branding.
@@ -150,7 +150,7 @@ f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email
  - Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is different from the legitimate Arvest Bank website.
  - The design of the webpage is not consistent with the legitimate Arvest Bank website.
@@ -161,7 +161,7 @@ f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
 f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
  1. Target Brand: Narodnye Nalitki
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is legitimate and belongs to the Narodnye Nalitki website.
  - The design of the webpage is consistent with the Narodnye Nalitki brand.

@@ -1,0 +1,131 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Target Brand: Apple iCloud
+2. Any user credential fields (Yes/No) + list them if any: Yes, Apple ID and Password
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction: 
+   The URL is consistent with the official Apple iCloud domain.
+   The design of the webpage matches the design of the official Apple iCloud login page.
+   The page is requesting for Apple ID and Password, which is expected for a legitimate iCloud login page.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Target Brand: N/A
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction: 
+   There are no indicators that this is a phishing page. The webpage is not asking for any user credentials, and there are no suspicious links or text on the page.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+ 1. Target Brand: Netflix
+2. Yes, Email Address
+3. Phishing
+4. 
+ - The domain in the provided url and the final url visited doesn't match the legitimate Netflix domain.
+ - Although the page did not directly include elements that ask user to enter their Netflix account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her Netflix account.
+ - Moreover, the design of this webpage closely mimics the design of the official Netflix page when this domain of this webpage is not from the official Netflix domain, which indicates an attempt to deceive the user that it is the real Netflix page without looking at the url.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+ 1. Target Brand: TFBank
+2. Yes -  "Kundennummer" (Customer number), "TT.MM.JJJJ" (Date of Birth)
+3. Phishing
+4. The URL is not a secure 'https' connection.
+The domain of the URL does not match the target brand.
+The design of the webpage does not match the design of official TFBank login page.
+The page is asking for sensitive information like customer number and date of birth, which is not typical for a legitimate login page.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Target Brand: DHL
+2. No
+3. Non-Phishing
+4. Reasons that support prediction:
+ - The URL is consistent with the official DHL domain.
+ - The design of the webpage matches the design of official DHL webpage which uses it usual color(s).
+ - The page requests for payment for a shipment with a tracking number.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Target Brand: Allegro
+2. No
+3. Non-Phishing
+4. Reasons that support prediction:
+ - The URL is consistent with the official Allegro domain.
+ - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+ - The design of the webpage matches the design of official Allegro login page which uses it usual color(s).
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Target Brand: DPD
+2. No
+3. Non-Phishing
+4. Reasons that support prediction:
+ - The URL is consistent with the official DPD domain.
+ - The design of the webpage matches the design of official DPD webpage.
+ - The page does not ask for any user credential.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Target Brand: Microsoft
+2. Yes 
+   - Email
+   - Password
+3. Phishing
+4. Reasons that support prediction
+   - The domain in the provided url and the final url visited doesn't match the legitimate Microsoft domain.
+   - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   - The page requested for users to enter account information.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Target Brand: None
+2. Any user credential fields: No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+   There are no user credential fields requesting for sensitive information such as passwords or credit card numbers.
+   The webpage is a group chat on Whatsapp, a well-known messaging app.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+ 1. Target Brand: Культурный код
+2. No
+3. Non-Phishing
+4. Reasons that support prediction: 
+   The URL is consistent with the official Культурный код domain.
+   'https://' indicates that the connection is secure.
+   The design of the webpage matches the design of official Культурный код pages.
+   There are no suspicious elements on the page.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Target Brand: DPD
+2. No
+3. Non-Phishing
+4. Reasons that support prediction:
+ - The URL is consistent with the official DPD domain.
+ - The design of the webpage matches the design of official DPD webpage which uses it usual color(s).
+ - The page is requesting for the tracking number, which is expected for a legitimate DPD page.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Target Brand: DHL
+2. Yes, Email and Password
+3. Phishing
+4. The URL is not the official DHL website. The legitimate DHL website is dhl.com, whereas the URL in the screenshot is dhl.com.dhltracking.com. This is a common tactic used by phishing websites to trick users into thinking they are on the legitimate website.
+The design of the webpage is very similar to the official DHL website, but there are some subtle differences. For example, the font of the text is different, and the colors are slightly off. These differences may be difficult to spot, but they can help you identify a phishing website.
+The webpage asks for your email address and password. This is a common tactic used by phishing websites to steal your personal information. You should never enter your personal information on a website that you do not trust.
+
+

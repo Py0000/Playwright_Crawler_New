@@ -1,0 +1,92 @@
+0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254
+ 1. Target Brand: Microsoft (Outlook)
+2. Yes, email and password
+3. Phishing
+4. 
+ - The domain in the provided URL and the final URL visited doesn't match the legitimate outlook domain. 
+ - There is a mismatch between the URLs and official domain and the webpage is designed to look identical to the official webpage.
+ - The page requested for users to enter account information.
+
+
+29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d
+ 1. Target Brand: Shaw
+2. Yes, Shaw ID and Password
+3. Non-Phishing
+4. - The URL is consistent with the official Shaw domain.
+ - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+ - The design of the webpage matches the design of official Shaw login page.
+
+
+2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062
+ 1. Target Brand: Google
+2. Any user credential fields (Yes/No) + list them if any: Yes, email or phone number
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction: 
+   The URL is consistent with the official Google domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Google login page which uses it usual color(s).
+
+
+38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
+ 1. Target Brand: Facebook
+2. Yes, Email and Password
+3. Phishing
+4. - The domain in the provided url and the final url visited doesn't match the legitimate facebook domain.
+ - Although the page did not directly include elements that ask user to enter their facebook account information, but based on the text in the green box as well as the availability of the “Continue” button, there is a high possibility that the page is hinting the user to hit on the “Continue” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her facebook account.
+ - Moreover, the design of this webpage closely mimics the design of the official Facebook page when this domain of this webpage is not from the official Facebook domain, which indicates an attempt to deceive the user that it is the real Facebook page without looking at the url.
+
+
+3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa
+ 1. Target Brand: Google
+2. Any user credential fields (Yes/No) + list them if any: Yes, email or phone number
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction: 
+   The URL is consistent with the official Google domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Google login page which uses it usual color(s).
+
+
+3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae
+ 1. Target Brand: DocuSign
+2. Yes, (Email Address and Password)
+3. Phishing
+4. - The URL is not consistent with the official DocuSign domain.
+ - The design of the webpage does not match the design of the official DocuSign login page.
+ - The page is asking for sensitive information such as email address and password.
+
+
+50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419
+ 1. Target Brand: Microsoft
+2. Yes, email address
+3. Phishing
+4. The URL is not a Microsoft domain. The legitimate URL for Microsoft login is “login.live.com”.
+The page does not have the security padlock icon in the address bar.
+There is no option to sign in with a phone number.
+The "Sign in" button is not working.
+
+
+596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3
+ 1. Target Brand: NTT Docomo
+2. Yes, dアカウントID、パスワード
+3. Phishing
+4. The domain of the URL is different from the official NTT Docomo domain.
+The design of the webpage is different from the official NTT Docomo login page.
+
+
+61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce
+ 1. Target Brand: Microsoft
+2. Yes, email and password
+3. Phishing
+4. 1. The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
+   2. There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+   3. The page requested for users to enter account information.
+
+
+a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa
+ 1. Target Brand: TV Licensing
+2. Yes, email and password
+3. Phishing
+4. The URL is not a secure link
+The website is asking for personal information such as name, address, and date of birth, which is not necessary to update direct debit information.
+
+

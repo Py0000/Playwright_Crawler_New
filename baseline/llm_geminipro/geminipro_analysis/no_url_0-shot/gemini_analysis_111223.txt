@@ -23,7 +23,7 @@
 1e353d7c372ea41e34474d88b9f07053c30baac861c2eb537a53b7a6191b77ef
  1. Target Brand: DHL
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL contains "dhl.com", which is the official domain of DHL.
  - The page has a valid SSL certificate.
@@ -37,7 +37,7 @@
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email
  - Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL in the address bar is different from the legitimate Binance website.
  - The page is requesting personal information such as email and password, which is not typical of the legitimate Binance website.
@@ -47,14 +47,11 @@
 
 
 4558556277cb95270112afccde92732e6619c03f6313113e73114771ee28ece7
- 1. Target Brand
-    Webmail
-2. Any user credential fields (Yes/No) + list them if any
-    Yes
+ 1. Target Brand: Webmail
+2. Any user credential fields (Yes/No) + list them if any: Yes
     - Email
     - Password
-3. Prediction (Phishing/Non-Phishing)
-    Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
     - The "Webmail" logo is not a well-known brand.
     - The domain name is not a well-known brand.
@@ -108,7 +105,7 @@ ce9a10cf68cf5c1f9522b38b9f8c2193bb464307885906666deff0e4eb6be5af
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - Username
  - Password
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is "huntington.com", which is the official website of Huntington Bank.
  - The design of the webpage is consistent with the rest of the Huntington Bank website.
@@ -119,7 +116,7 @@ ce9a10cf68cf5c1f9522b38b9f8c2193bb464307885906666deff0e4eb6be5af
 d87d7258560168d8786f10c43d6b9b1a22cee3df72748119cdaea617b559462f
  1. Target Brand: Microsoft
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction: 
  - The URL is "microsoft.com", which is the official website of Microsoft.
  - The design of the webpage is consistent with the rest of the Microsoft website.

@@ -85,7 +85,7 @@ cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email
  - Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL in the address bar is different from the legitimate Netflix website.
  - The page is asking for sensitive information such as email and password.

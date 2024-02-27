@@ -1,0 +1,8 @@
+From the annotated image provided, you can see the following:
+
+Conlusion:
+1. Target Brand: Facebook (as indicated by the red rectangular bounding box)
+2. Yes (has user credential fields). Email address and password. (as indicated by the orange rectangular bounding box)
+3. Predicition: Phishing
+4. Reasons supporting Prediction: 
+    The design of the webpage looks similar to the official Facebook page design, however, when compared to the official facebook page, this page seems to be lacking in details and slightly messy. 

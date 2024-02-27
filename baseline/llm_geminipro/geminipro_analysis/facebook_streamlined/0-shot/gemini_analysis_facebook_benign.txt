@@ -1,0 +1,353 @@
+01
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes
+   - Email address or phone number
+   - Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+   - The URL is facebook.com, which is the legitimate website for Facebook.
+   - The design of the page is consistent with the legitimate Facebook website.
+   - The page is requesting user credentials, which is a common practice for legitimate websites.
+
+
+02
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address or Phone Number
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid security certificate, as indicated by the green lock icon in the address bar.
+ - The page design is consistent with the legitimate Facebook login page.
+ - The page requests the correct user credentials, which are the email address or phone number and password.
+
+
+03
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes
+   - Email address or phone number
+   - Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+   - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+   - The page has a valid security certificate.
+   - The page has a padlock icon in the address bar, which indicates that the connection is secure.
+   - The page has a Facebook copyright at the buttom.
+   - The page has links to the official Facebook pages on social media platforms.
+
+
+04
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address/Phone Number, Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL bar is not showing the real URL of the webpage.
+ - The page is asking for sensitive information like email address/phone number and password.
+ - The page has a design that mimics a legitimate site.
+ - There is no security lock icon in the address bar.
+
+
+05
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or phone, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green padlock icon in the address bar.
+ - The page is requesting user credentials, which is normal for a login page.
+ - The overall design of the page is consistent with the legitimate Facebook login page.
+
+
+06
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is facebook.com, which is the legitimate website for Facebook.
+ - The page is requesting user credentials, which is a common practice for legitimate websites.
+ - The design of the page is consistent with the legitimate Facebook website.
+
+
+07
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green lock icon in the address bar.
+ - The page has a Facebook copyright at the bottom.
+ - The page has links to other legitimate Facebook pages, such as the "Forgot account?" page and the "Create new account" page.
+
+
+08
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes
+   - First name
+   - Surname
+   - Mobile number or email address
+   - New password
+   - Date of birth
+   - Gender
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+   - The webpage is hosted on the official Facebook domain.
+   - The design of the webpage is consistent with the legitimate Facebook website.
+   - The webpage is requesting user credentials that are typically required for creating a Facebook account.
+
+
+09
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address and Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is different from the official Facebook website.
+ - The login page looks different from the official Facebook login page.
+ - The page requests for personal information like email address and password.
+
+
+10
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes): Yes
+   - Email or Phone Number
+   - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+   - The URL bar is showing a different URL than the real Facebook website.
+   - The page is asking for sensitive information like email or phone number and password.
+   - The page has a design that is very similar to the real Facebook website, but there are some subtle differences, such as the font and the layout.
+
+
+11
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green lock icon in the address bar.
+ - The page has a Facebook copyright in the footer.
+ - The page has links to other legitimate Facebook pages, such as the Facebook Help Center and the Facebook Privacy Policy.
+
+
+12
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes
+   - Email or Phone Number
+   - Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+   - The URL is facebook.com, which is the legitimate website for Facebook.
+   - The design of the page is consistent with the legitimate Facebook website.
+   - The page is requesting user credentials, which is a common practice for legitimate websites.
+
+
+13
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes):
+   - Email or Phone
+   - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+   - The URL is different from the official Facebook website.
+   - The design of the webpage is not the same as the official Facebook website.
+   - The text on the webpage is not the same as the official Facebook website.
+   - The webpage is asking for sensitive information, such as your password.
+
+
+14
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes):
+   - Email or Phone
+   - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+   - The URL is different from the legitimate Facebook login page.
+   - The design of the page is different from the legitimate Facebook login page.
+   - The page requests for sensitive information like email or phone number and password.
+
+
+15
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes
+   - Email or Phone Number
+   - Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+   - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+   - The page has a valid SSL certificate, which is indicated by the green padlock icon in the address bar.
+   - The page has a Facebook copyright at the bottom.
+   - The page has links to other legitimate Facebook pages, such as the Facebook Help Center and the Facebook Privacy Policy.
+
+
+16
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, email or phone number
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is different from the official Facebook login page.
+ - The page is hosted on a free web hosting service.
+ - The page design is not the same as the official Facebook login page.
+ - The page is requesting for sensitive information such as email or phone number.
+
+
+17
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes): Email address or phone number, Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL bar is not showing the real URL of the webpage.
+ - There is a suspicious pop-up window asking for personal information.
+ - The page is asking for sensitive information like passwords and email addresses.
+
+
+18
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green padlock icon in the address bar.
+ - The page has a Facebook copyright in the footer.
+ - The page has a link to Facebook's privacy policy in the footer.
+ - The page has a link to Facebook's terms of service in the footer.
+
+
+19
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes
+   - Email address or phone number
+   - Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+   - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+   - The page has a valid security certificate.
+   - The page has a padlock icon in the address bar, which indicates that the connection is secure.
+   - The page has a Facebook copyright at the bottom.
+
+
+20
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes
+    * Email or Phone
+    * Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+    * The URL is facebook.com, which is the legitimate website for Facebook.
+    * The page has a valid security certificate.
+    * The design of the page is consistent with the legitimate Facebook website.
+    * The page is requesting user credentials in a secure manner.
+
+
+21
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number
+3. Prediction: Phishing
+4. Reasons that support prediction: 
+ - The URL bar shows an IP address instead of the real Facebook domain.
+ - The page is asking for sensitive information (email or phone number) without any security measures.
+ - The page looks different from the real Facebook login page.
+
+
+22
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes):
+ - Email or Phone
+ - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL is different from the official Facebook website.
+ - The page is asking for sensitive information such as email or phone number and password.
+ - The page is not using a secure connection.
+
+
+23
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL is facebook.com, which is the legitimate website for Facebook.
+ - The page is requesting user credentials, which is a common practice for legitimate websites.
+ - The design of the page is consistent with the legitimate Facebook website.
+
+
+24
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green padlock in the address bar.
+ - The page has a Facebook copyright in the footer.
+ - The page has a Facebook logo on the top left corner.
+ - The page has a "Forgot Password" link on the login page.
+ - The page has a "Join or log in to Facebook" button on the top right corner.
+ - The page has a "Sign Up" button on the bottom right corner.
+
+
+25
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green lock icon in the address bar.
+ - The page has a Facebook copyright at the bottom.
+ - The page has links to other legitimate Facebook pages, such as the "Create Page" and "Help Center" pages.
+
+
+26
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number and Password
+3. Prediction: Phishing
+4. Reasons that support prediction: 
+ - The URL bar is not showing the real URL of the website.
+ - The page is asking for sensitive information like email or phone number and password.
+ - The page has a design that mimics the legitimate Facebook login page, but there are some differences, like the font of the text and the color of the buttons.
+
+
+27
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green padlock icon in the address bar.
+ - The page has a Facebook copyright in the footer.
+ - The page has a link to the Facebook Privacy Policy in the footer.
+ - The page has a link to the Facebook Terms of Service in the footer.
+
+
+28
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes) 
+   - Email or Phone Number
+   - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The URL bar is not showing the real URL of the website.
+ - The website is asking for personal information like email or phone number and password.
+ - The website has a fake "Login" button.
+ - The website has a fake "Create New Account" button.
+ - The website has a fake "Forgot Password" link.
+
+
+29
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or phone number
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction: 
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green lock icon in the address bar.
+ - The page's design is consistent with the legitimate Facebook login page.
+ - The page requests the user's email address or phone number, which is a common practice for legitimate websites.
+
+
+30
+ 1. Target Brand: Facebook
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address or Phone Number, Password
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+ - The URL bar shows "facebook.com", which is the correct domain for Facebook.
+ - The page has a valid SSL certificate, which is indicated by the green lock icon in the address bar.
+ - The page has a Facebook copyright at the bottom.
+ - The page has links to other legitimate Facebook pages, such as the "Messenger" and "Instagram" pages.
+
+

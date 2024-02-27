@@ -1,15 +1,9 @@
 002676dbdd952c417112e1bc64fbca98117055f1fefe1192fa704143a82cec39
- 1. Target Brand
-Unknown
-
-2. Any user credential fields (Yes/No) + list them if any
-Yes
+ 1. Target Brand: Unknown
+2. Any user credential fields (Yes/No) + list them if any: Yes
 - Email
 - Password
-
-3. Prediction (Phishing/Non-Phishing)
-Phishing
-
+3. Prediction: Phishing
 4. Reasons that support prediction
 - The webpage is asking for sensitive information like email and password.
 - The webpage is not using a secure connection (the URL does not start with "https://").
@@ -52,13 +46,10 @@ Phishing
 
 
 0b043af0a7439ebc2c0ccb9aed7e5175cc648e0793dc4a00e0f5c8294914975c
- 1. Target Brand
-N/A
-2. Any user credential fields (Yes/No) + list them if any
-Yes
+ 1. Target Brand: N/A
+2. Any user credential fields (Yes/No) + list them if any: Yes
 Email and Password
-3. Prediction (Phishing/Non-Phishing)
-Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
 The webpage requests for sensitive information like email and password. The "Continue" button and the "powered by VeriSign" logo are indicators that the webpage is trying to mimic a legitimate site.
 
@@ -115,7 +106,7 @@ The webpage requests for sensitive information like email and password. The "Con
  State
  Zip Code
  Phone Number
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The webpage is trying to imitate the legitimate USPS website.
  - The webpage is asking for sensitive information such as full name, address, and phone number.
@@ -123,12 +114,9 @@ The webpage requests for sensitive information like email and password. The "Con
 
 
 0b8d9c5e89c6485e83a51a0f0a3bee1955b78240b46fc56c78df5ae359d7a8b8
- 1. Target Brand
- - None
-2. Any user credential fields (Yes/No) + list them if any
- - No
-3. Prediction (Phishing/Non-Phishing)
- - Non-Phishing
+ 1. Target Brand: None
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
  - The webpage screenshot is a warning page that the user's region is not covered by the service.
  - The webpage screenshot does not ask for any user credentials.
@@ -167,7 +155,7 @@ The `response.text` quick accessor only works for simple (single-`Part`) text re
 0db94cbd5c28ec3e2ed3c623ef259600f9de715d38ab232e37b1414623913997
  1. Target Brand: Microsoft
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
  - The URL is for Outlook.com, which is a legitimate Microsoft website.
  - The page has a valid security certificate.
@@ -180,7 +168,7 @@ The `response.text` quick accessor only works for simple (single-`Part`) text re
 2. Any user credential fields (Yes/No) + list them if any: Yes
  User ID
  Login pass
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
    - The webpage is requesting for sensitive information such as User ID and password.
    - The webpage is not using a secure connection (HTTPS).
@@ -188,12 +176,9 @@ The `response.text` quick accessor only works for simple (single-`Part`) text re
 
 
 0dc2a5f543a29b4ab9c41c00aa884a02a57280c95f5cc63512b3202dff48bcca
- 1. Target Brand
- - Gmail
-2. Any user credential fields (Yes/No) + list them if any
- - No
-3. Prediction (Phishing/Non-Phishing)
- - Phishing
+ 1. Target Brand: Gmail
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Phishing
 4. Reasons that support prediction
  - The page requests the user to select a language to continue, which is not a common practice for legitimate websites.
  - The page does not have a valid SSL certificate, which is indicated by the "Not Secure" warning in the browser's address bar.
@@ -251,14 +236,11 @@ The `response.text` quick accessor only works for simple (single-`Part`) text re
 
 
 1c1d19941b9a3062aad475a0bcf53b9763901d626f7a069880f52d1280dda218
- 1. Target Brand
-            Koko
-2. Any user credential fields (Yes/No) + list them if any
-            Yes
+ 1. Target Brand: Koko
+2. Any user credential fields (Yes/No) + list them if any: Yes
             - Email Address
             - Password
-3. Prediction (Phishing/Non-Phishing)
-            Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
             - The URL is not a legitimate Koko URL
             - The design of the page is not consistent with the legitimate Koko website
@@ -322,7 +304,7 @@ e74f1d1dd09de01a22282ac9893c8e07b6a9a8861eb779b4321eee6557c9dcb2
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email
  - Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL of the webpage is different from the official eBay website.
  - The design of the webpage is not the same as the official eBay website.

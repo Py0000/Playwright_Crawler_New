@@ -80,7 +80,7 @@
 9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8
  1. Target Brand: N/A
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
  - The URL is for "deereparkprogress.com" which is a legitimate site
  - The content is about a local event.
@@ -111,14 +111,11 @@ d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
 
 
 f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
- 1. Target Brand
-Webmail
-2. Any user credential fields (Yes/No) + list them if any
-Yes
+ 1. Target Brand: Webmail
+2. Any user credential fields (Yes/No) + list them if any: Yes
 Username
 Password
-3. Prediction (Phishing/Non-Phishing)
-Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
 a. The "Webmail" text in the header is not aligned with the text below.
 b. The lock icon for the password field is missing.

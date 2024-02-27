@@ -1,7 +1,7 @@
 0300be1c692e2598724d8992ed1687064d772dd4ad2c65bda20f614d0ef4321e
  1. Target Brand: Netshoes
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is "www.netshoes.com.br", which is the official website of Netshoes.
  - The website has a valid SSL certificate.
@@ -82,24 +82,18 @@ d9f5e35c9fb5542262bd582d5f636b133af4a90aafff6b67df8b3df58836c459
 2. Any user credential fields (Yes/No) + list them if any: Yes
  User ID
  Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not the real website of M&T Bank
  - The page is asking for sensitive information such as User ID and password
 
 
 da7209afd2979c8329dfa64c2cdd285d318b21fb6ef0d61afc18d53b243af9a7
- 1. Target Brand
-Unknown
-
-2. Any user credential fields (Yes/No) + list them if any
-Yes
+ 1. Target Brand: Unknown
+2. Any user credential fields (Yes/No) + list them if any: Yes
 - Email
 - Password
-
-3. Prediction (Phishing/Non-Phishing)
-Phishing
-
+3. Prediction: Phishing
 4. Reasons that support prediction
 - The webpage is asking for sensitive information like email and password.
 - There is no indication that the webpage is affiliated with a reputable brand.
@@ -107,12 +101,9 @@ Phishing
 
 
 ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983
- 1. Target Brand
- - Unavailable
-2. Any user credential fields (Yes/No) + list them if any
- - No
-3. Prediction (Phishing/Non-Phishing)
- - Non-Phishing
+ 1. Target Brand: Unavailable
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
  - The webpage screenshot shows a message indicating that the user's region is not covered by the service and that the user should contact customer service for assistance. 
  - The webpage screenshot does not request any user credentials. 
@@ -120,12 +111,9 @@ ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983
 
 
 ff6b737751c4090f39e246dbab884d010e14c21797da0407b14cce12c5357d9c
- 1. Target Brand
- N/A
-2. Any user credential fields (Yes/No) + list them if any
- No
-3. Prediction (Phishing/Non-Phishing)
- Non-Phishing
+ 1. Target Brand: N/A
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
  The webpage is a Cloudflare security page. It is used to verify the security of the connection before proceeding.
 
@@ -148,7 +136,7 @@ ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - Benutzerkennung
  - Passwort
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL of the webpage is not a legitimate Postbank domain.
  - The webpage design is not consistent with the legitimate Postbank website.
@@ -156,12 +144,9 @@ ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662
 
 
 ff7defb38194d97bb909399e10a77a57bc4e7a8a1fc6cde104121ee2b2769083
- 1. Target Brand
-    - N/A
-2. Any user credential fields (Yes/No) + list them if any
-    - No
-3. Prediction (Phishing/Non-Phishing)
-    - Non-phishing
+ 1. Target Brand: N/A
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-phishing
 4. Reasons that support prediction
     - The webpage is an error page, which shows that the webpage is not a phishing webpage.
 
@@ -192,12 +177,9 @@ ffbb55989db21c98053b19e4a84e60358232181175610a8f965873dd7b06e76e
 
 
 ffebad27c1c7954600ac1080a3f0cb7e07739fd4cba45813f06e45593c8567a9
- 1. Target Brand
-N/A
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Non-Phishing
+ 1. Target Brand: N/A
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
 There is no request for sensitive information like personal information, passwords or credit card numbers.
 The webpage doesn't mimic a legitimate site.

@@ -1,0 +1,309 @@
+00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
+ 1. Target Brand: AI Crypto Trading
+2. Yes. Email and phone number fields are present.
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The "Join Group" button leads to a suspicious URL: "ai-crypto-trading[.]com".
+ - The website claims that users can earn $10,000 to $30,000 per day, which is unrealistic and a common sign of a scam.
+ - The testimonials on the website are likely fake.
+ - The website is not secure and does not have a valid SSL certificate.
+
+
+01638ae0dc7e29a8ede96acc0a53462a9c237337947c92fc6e999874b16f1ed0
+ 1. Target Brand: Meta
+2. Yes, "Log in with Facebook" button
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The domain is different from the official Meta website.
+ - The URL contains a suspicious string "login-meta".
+ - The page is asking for the user's Facebook credentials, which is not necessary to access the Meta Business Suite.
+ - The page is not using the same design as the official Meta website.
+
+
+05c3053688c11ff410afd20bde88486bea076293d638a46f52bb85304b1b484a
+ 1. Target Brand: Facebook
+2. Yes. Email address and password.
+3. Phishing
+4. Reasons that support prediction:
+   - There is a request for sensitive information (email address and password).
+   - There is a sense of urgency created by the message "Your account has been locked".
+   - The page is not using a secure connection (the URL starts with "http://" instead of "https://").
+
+
+0a316022d0494224004c66972e0a1ed1a438406551b03d500b9371b9c15223c7
+ 1. Target Brand: Facebook
+2. Yes: "Turn on Facebook Protect"
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The page is asking for the user to turn on Facebook Protect, which is not a common feature on Facebook.
+ - The page has a fake "security alert" message, which is a common tactic used by phishing pages to trick users into giving up their personal information.
+ - The page's URL is not a Facebook URL.
+
+
+0a5a7486265f12e0cb95880cc3b17cb30d88636dfb8db2173f261ac217a106e0
+ 1. Target Brand: Facebook
+2. Yes, Email and Password
+3. Phishing
+4. The "Turn on Facebook Protect" button is suspicious because it is not a common action users are prompted to take.
+
+
+0c6cdf65f3a54872a8645d6981048dd06f994e84199a219301a73387b6952740
+ 1. Target Brand: Meta
+2. Yes, "Log in with Facebook" button
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The domain is different from the official Meta website.
+ - The URL contains a suspicious parameter.
+ - The page is hosted on a free hosting service.
+ - The design of the page is different from the official Meta website.
+ - The page requests unnecessary permissions.
+
+
+0d21b70a59663dd73d94fce80647b0c8d368297bc2c68767ecf9c31a1bb19c5a
+ 1. Target Brand: Free Fire
+2. Yes, it asks for the user's Facebook account information.
+3. Phishing
+4. Reasons: 
+ - The website is asking for personal information such as the user's name, birthday, and address. 
+ - The website is not a secure website. 
+ - The website is not the official website of Free Fire.
+
+
+347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d
+ 1. Target Brand: Facebook
+2. Yes, "Continue" button.
+3. Phishing
+4. Reasons that support prediction:
+ - The page states that the user's account has been restricted due to a violation of community standards.
+ - It requests the user to click on the "Verify Account" button to continue using the account.
+ - The page displays a lock icon and a message stating that the account will be locked after 48 hours if not verified.
+ - The page uses a generic background image and does not match the design of the legitimate Facebook login page.
+ - The text on the page contains grammatical errors, such as "Someone reported your account, and unfortunately your account violated our community standards."
+ - There is no option to enter login credentials, which is unusual for a Facebook login page.
+
+
+34a95ea45ccd398070cb0ad4c0ae62c3a79c8f828064eb914f1280e8c7d9d4cd
+ 1. Target Brand: Facebook
+2. Yes, email address or phone number and password.
+3. Phishing
+4. Reasons that support prediction:
+ - The page is asking for sensitive information (email address or phone number and password).
+ - There is a sense of urgency created by the message "You'll need to provide some information. This helps us check that this account belongs to you." which could prompt the user to take immediate action and potentially lead them to enter sensitive information on a fraudulent website.
+ - The "Get Started" button is ambiguous and does not directly ask for credentials, which could be a point of suspicion in a phishing attempt.
+
+
+38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
+ 1. Target Brand: Facebook
+2. Yes, Email and Password
+3. Phishing
+4. Reasons:
+ - The page displays a message claiming that the account will be deactivated soon due to unusual activity, which creates a sense of urgency and prompts the user to take immediate action.
+ - The "Continue" button is ambiguous and does not directly indicate that the user is logging in, which could be a point of suspicion in a phishing attempt.
+ - The text states that a security notification has been sent, but there is no mention of a verification code or other security measures that would typically be expected in a legitimate account verification process.
+
+
+406cdf1183eaa1c92c061d5ce7ac6f2744f73069acd847ce91b5f41e7703e3b3
+ 1. Target Brand: Facebook
+2. Yes (has user credential fields). Asking for email and password as well as the login button.
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+   The design and layout seem to match the known style of Facebook's login page, which could indicate it's non-phishing. However, sophisticated phishing attempts can also closely mimic the look of the legitimate site.
+   The text "Facebook helps you connect and share with the people in your life." is a standard message used by Facebook, which could indicate legitimacy. There are no obvious spelling or grammar errors that might suggest a phishing attempt.
+   The bottom of the page includes links to various Facebook-related policies and services, and the footer mentions "Meta © 2024," which aligns with Facebook's rebranding to Meta. This could indicate a non-phishing page.
+   There are no visible signs of mismatched branding or misleading information.
+
+
+4200983fdd9e51423816cdbf1a7cd7cf2faff6993c29ee07206863fd9c2dea42
+ 1. Target Brand: Facebook
+2. No
+3. Phishing
+4. The page displays a message stating that the account has been locked due to unexpected activity.
+The "Start" button does not provide a clear indication of what action will be taken upon clicking it, which is often a red flag in phishing attempts.
+The overall design and layout appear to be mimicking Facebook's style, but there are some inconsistencies that may indicate a phishing attempt, such as the unusual phrasing in the text.
+
+
+446fd1b08e027c7284e86169913f06be6f65de61503ef3e51e6fc883bdecea73
+ 1. Target Brand: Meta
+2. Yes, "Log in with Facebook" button.
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The domain is different from the official Meta website.
+ - The design is different from the official Meta website.
+ - The text on the button is different from the official Meta website.
+ - The URL is different from the official Meta website.
+ - The page is asking for sensitive information.
+
+
+4a42656362c4e724983dc24bf59e8aa8c8508ba9440b27021620c093e5cab251
+ 1. Target Brand: Facebook
+2. No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+   The URL is for Facebook's help center.
+   The design and layout seem to match the known style of Facebook's help center, which could indicate it's non-phishing.
+   The text "Facebook helps you connect and share with the people in your life." is a standard message used by Facebook, which could indicate legitimacy. There are no obvious spelling or grammar errors that might suggest a phishing attempt.
+   The bottom of the page includes links to various Facebook-related policies and services, and the footer mentions "Meta © 2023," which aligns with Facebook's rebranding to Meta. This could indicate a non-phishing page.
+   There are no visible signs of mismatched branding or misleading information.
+
+
+4fd90c40b78a29da6e0a064ad854620106127eb9a7d1832a2d84fe09bd37867c
+ 1. Target Brand: Facebook
+2. Yes (has user credential fields). Asking for email and password as well as the login button.
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+   The design and layout seem to match the known style of Facebook's login page, which could indicate it's non-phishing. However, sophisticated phishing attempts can also closely mimic the look of the legitimate site.
+   The text "Facebook helps you connect and share with the people in your life." is a standard message used by Facebook, which could indicate legitimacy. There are no obvious spelling or grammar errors that might suggest a phishing attempt.
+   The bottom of the page includes links to various Facebook-related policies and services, and the footer mentions "Meta © 2024," which aligns with Facebook's rebranding to Meta. This could indicate a non-phishing page.
+   There are no visible signs of mismatched branding or misleading information.
+
+
+529576da61ace61d0b21a5c79b16af9635a5b4516399786999bd55d0e581b1d7
+ 1. Target Brand: Facebook
+2. Yes, email and password
+3. Non-Phishing
+4. Reasons that support prediction:
+   The design and layout seem to match the known style of Facebook's login page, which could indicate it's non-phishing. However, sophisticated phishing attempts can also closely mimic the look of the legitimate site.
+   The text "Facebook te ayuda a comunicarte y compartir con las personas que forman parte de tu vida." is a standard message used by Facebook, which could indicate legitimacy. There are no obvious spelling or grammar errors that might suggest a phishing attempt.
+   The bottom of the page includes links to various Facebook-related policies and services, and the footer mentions "Meta © 2023," which aligns with Facebook's rebranding to Meta. This could indicate a non-phishing page.
+   There are no visible signs of mismatched branding or misleading information.
+
+
+57561f2b7090cb241717682bc987754805ccf9fa1b5d8f56034732861e2e6f1e
+ 1. Target Brand: Facebook
+2. Yes:
+   - Email or Phone Number
+   - Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+   - The page is trying to mimic the look and feel of the real Facebook login page, but there are some key differences. For example, the real Facebook login page has a blue background, while this page has a white background. The real Facebook login page also has a white "f" logo, while this page has a blue "f" logo.
+   - The page is asking for sensitive information, such as your email address and password. This is a common tactic used by phishing scams to steal people's personal information.
+   - The page is not secure. The URL of the page is not "https://www.facebook.com," which is the URL of the real Facebook login page. The URL of this page is "https://www.facebook-login.com," which is a fake URL.
+   - The page is hosted on a server that is not owned by Facebook. The IP address of the server is "192.168.0.1," which is not a valid IP address for Facebook's servers.
+
+
+57ef3530895093d5a4cab5f34f7d34f127015946c19e5b0ae90f7f934d2e020d
+ 1. Target Brand: Meta
+2. Yes, "Log in with Facebook" button
+3. Prediction: Phishing
+4. Reasons that support prediction:
+   "Log in with Facebook" button is the only option for login, which is not common for legitimate websites.
+   The URL is not related to Meta.
+   The page does not have any other content besides the login button, which is suspicious.
+
+
+5e775e5943f9702bc7beed46add9912e3e3beea2f4601e7c27f45d6b6393d513
+ 1. Target Brand: Facebook
+2. Yes, email and password
+3. Non-Phishing
+4. Reasons that support prediction: 
+   The design and layout seem to match the known style of Facebook's login page, which could indicate it's non-phishing. However, sophisticated phishing attempts can also closely mimic the look of the legitimate site.
+   The text "Facebook helps you connect and share with the people in your life." is a standard message used by Facebook, which could indicate legitimacy. There are no obvious spelling or grammar errors that might suggest a phishing attempt.
+   The bottom of the page includes links to various Facebook-related policies and services, and the footer mentions "Meta © 2024," which aligns with Facebook's rebranding to Meta. This could indicate a non-phishing page.
+   There are no visible signs of mismatched branding or misleading information.
+
+
+613ce80e7a9715a041d192008d5316f13917a2221c57ac75b3c61a3457311dc7
+ 1. Target Brand: Facebook
+2. No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
+   The page has a valid Facebook logo and uses the correct Facebook font.
+   The page has a secure lock icon in the address bar.
+   The page has a link to the Facebook privacy policy.
+   The page has a link to the Facebook terms of service.
+   The page has a link to the Facebook help center.
+
+
+6b7b23ac58c82a8b2df841d14fb45d90cdee20c843595b381ecdbef3bc16ba60
+ 1. Target Brand: Facebook
+2. No
+3. Phishing
+4. If this were a phishing attempt, it might try to create a sense of urgency to prompt the user to take immediate action, potentially leading them to enter sensitive information on a fraudulent website.
+The button labeled "Start" is ambiguous and does not directly ask for credentials, which could be a point of suspicion in a phishing attempt but could also be legitimate.
+
+
+72376788aaacd253f79474dd79a991dd722a5da08e874eace610450d649c5932
+ 1. Target Brand: Facebook
+2. Yes, email and password
+3. Phishing
+4. The page is asking for sensitive information like email and password.
+The page is not using a secure connection (HTTPS).
+The page has a lot of pop-ups and advertisements.
+The page is not well-designed and looks suspicious.
+
+
+94384aebc536f4fdaa4e01806dc2549f23dc1f806d7c659600aefc39b423ea78
+ 1. Target Brand: Meta
+2. Yes, Email Address and Password
+3. Prediction: Phishing
+4. Reasons that support prediction:
+ - The page's URL is not the official Meta website.
+ - The page's design is not consistent with the official Meta website.
+ - The page requests sensitive information, such as the user's email address and password.
+ - The page uses scare tactics to pressure the user into providing their information.
+ - The page's text contains grammatical errors.
+
+
+94edd0f6e0a96a44e6f967355303b830ad5b467b036415bede9646ad22c4571f
+ 1. Target Brand: Facebook
+2. Yes, email and password
+3. Phishing
+4. The page is trying to trick users into entering their login credentials by mimicking the Facebook login page. The URL is not the official Facebook website.
+
+
+a029d0ab48549785c5c817c99cf572a1f337c843aa8c9be7e21a3a08e6dd4481
+ 1. Target Brand: Facebook
+2. Yes (has user credential fields). Asking for first and last name, mobile number or email, new password, birthday, and gender.
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+   The design and layout seem to match the known style of Facebook's sign up page, which could indicate it's non-phishing. However, sophisticated phishing attempts can also closely mimic the look of the legitimate site.
+   The text "Facebook helps you connect and share with the people in your life." is a standard message used by Facebook, which could indicate legitimacy. There are no obvious spelling or grammar errors that might suggest a phishing attempt.
+   The bottom of the page includes links to various Facebook-related policies and services, and the footer mentions "Meta © 2024," which aligns with Facebook's rebranding to Meta. This could indicate a non-phishing page.
+   There are no visible signs of mismatched branding or misleading information.
+
+
+bb1cec5bb0bdf5285f4e281e05573339ae7c67a3e914d4be20e7e6c17ee23e28
+ 1. Target Brand: Facebook
+2. Yes, email and password
+3. Phishing
+4. The "Log In" button is often used in phishing attempts to trick users into entering their credentials.
+The page lacks the security indicators typically found on legitimate websites, such as a secure lock icon in the browser's address bar or a green address bar indicating a secure connection.
+The page URL is different from the legitimate Facebook login page URL.
+
+
+bc9efafc69c4604bab0987861231229e30a9b3cb49f9cf0760f3d6c577992bd2
+ 1. Target Brand: Facebook
+2. Yes, "Handynummer oder E-Mail-Adresse" and "Passwort"
+3. Non-Phishing
+4. Reasons that support prediction:
+   The design and layout seem to match the known style of Facebook's login page, which could indicate it's non-phishing. However, sophisticated phishing attempts can also closely mimic the look of the legitimate site.
+   The text "Facebook hilft dir, mit den Menschen in deinem Leben in Verbindung zu bleiben und mit ihnen zu teilen." is a standard message used by Facebook, which could indicate legitimacy. There are no obvious spelling or grammar errors that might suggest a phishing attempt.
+   The bottom of the page includes links to various Facebook-related policies and services, and the footer mentions "Meta © 2023," which aligns with Facebook's rebranding to Meta. This could indicate a non-phishing page.
+   There are no visible signs of mismatched branding or misleading information.
+
+
+c96f2c6cc04fbdb0a2c2a31ceabb1acb72ba80fe7c2ee8cb36c00f9d3123fbcb
+ 1. Target Brand: Facebook
+2. Yes. Email and Password
+3. Phishing
+4. Reasons that support prediction:
+   - The page has a similar design to the real Facebook login page, but there are subtle differences, such as the font of the text and the color of the buttons.
+   - The page URL is not the real Facebook login page URL.
+   - The page requests the user's email address and password, which is not necessary to log in to Facebook.
+
+
+ff9f690d6ed31ac6b0d3fcb379ab4a1ad10ddbb57b0a19a351cb02b1231c6dd0
+504 Deadline Exceeded
+
+
+ffa33109af4b72825f28ac19b14f48ddfb7d3cbd9652896a0c57107a29d32fc5
+ 1. Target Brand: Facebook
+2. Yes (has user credential fields). Asking for email, password, and date of birth.
+3. Prediction: Non-Phishing
+4. Reasons that support prediction: 
+   The design and layout seem to match the known style of Facebook's login page, which could indicate it's non-phishing. However, sophisticated phishing attempts can also closely mimic the look of the legitimate site.
+   The text "O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida." is a standard message used by Facebook, which could indicate legitimacy. There are no obvious spelling or grammar errors that might suggest a phishing attempt.
+   The bottom of the page includes links to various Facebook-related policies and services, and the footer mentions "Meta © 2024," which aligns with Facebook's rebranding to Meta. This could indicate a non-phishing page.
+   There are no visible signs of mismatched branding or misleading information.
+
+

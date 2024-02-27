@@ -1,0 +1,101 @@
+02f8196dac7787e7eabd5b592bce5720a7c26481bd5012ab7d71707b9e9a2096
+ 1. Target Brand: Discord
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction:
+   The URL is consistent with the official Discord domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Discord login page which uses it usual color(s).
+
+
+0823fc2c15a69b8c5150e5e9116adbf26b4ad35f8f9b8eed7b929b27378c083b
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+1e353d7c372ea41e34474d88b9f07053c30baac861c2eb537a53b7a6191b77ef
+ 1. Target Brand: DHL
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction (Phishing/Non-Phishing): Non-Phishing
+4. Reasons that support prediction: 
+   The URL is consistent with the official DHL domain.
+   'https://' indicates that the connection is secure, which is expected for a legitimate site.
+   The design of the webpage matches the design of official DHL webpage.
+   There is a tracking number on the page, which is consistent with the DHL tracking page.
+
+
+37897ccac26e3078c13e262164560c59fa2c8f6e36711f0ea9aab34a552d2df3
+ 1. Target Brand: Binance
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction:
+ - The URL is not the official Binance URL.
+ - The page is asking for sensitive information such as email address and password.
+ - The page looks like a phishing page.
+
+
+4558556277cb95270112afccde92732e6619c03f6313113e73114771ee28ece7
+ 1. Target Brand: Webmail
+2. Yes. (Email and Password)
+3. Phishing
+4. The domain in the provided url and the final url visited doesn't match the legitimate webmail domain.
+There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
+The page requested for users to enter account information.
+
+
+5e4146ab1693fee02f478133ca4d3363e408bbe4723df1957a7d3f7d2f5b1933
+ 1. Target Brand: Netflix
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
+3. Prediction (Phishing/Non-Phishing): Phishing
+4. Reasons that support prediction: 
+   - The domain in the provided url and the final url visited doesn't match the legitimate Netflix domain.
+   - Although the page did not directly include elements that ask user to enter their Netflix account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her Netflix account.
+   - Moreover, the design of this webpage closely mimics the design of the official Netflix page when this domain of this webpage is not from the official Netflix domain, which indicates an attempt to deceive the user that it is the real Netflix page without looking at the url.
+
+
+9b216c6ae9f14b6382dbb9309e087532d62874b4570e6608ebf9d6e6fb022eae
+ 1. Target Brand: Bradesco Saúde
+2. Yes 
+   - Nome Completo
+   - E-mail
+   - Telefone/Celular ou Whatsapp
+   - Estado
+   - Cidade onde reside
+   - Nº de Vidas ou idades
+   - Plano Atual
+3. Phishing
+4. Reasons that support prediction
+ - The URL is not consistent with the official Bradesco Saúde domain.
+ - The design of the webpage does not match the design of the official Bradesco Saúde website.
+ - The page is asking for too much personal information.
+ - The page is hosted on a free web hosting service.
+
+
+c3e16a011801c712e23071aa3f0c85c2c87fc2e3ac50ef0008acec190529a2d3
+ 1. Target Brand: Netflix
+2. Yes, Email Address and Password
+3. Non-Phishing
+4. Reasons supporting Prediction: 
+   Given that the final URL and the provided URL, this would typically be indicative of a legitimate login page for Netflix.
+   The URL is consistent with the official Netflix domain.
+   'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
+   The design of the webpage matches the design of official Netflix login page which uses it usual color(s).
+
+
+ce9a10cf68cf5c1f9522b38b9f8c2193bb464307885906666deff0e4eb6be5af
+ 1. Huntington Bank
+2. Yes, Username and Password
+3. Non-Phishing
+4. The URL is consistent with the official Huntington Bank domain.
+The design of the webpage matches the design of official Huntington Bank webpage.
+The page requests for users to enter account information after clicking on the "Log In" button.
+
+
+d87d7258560168d8786f10c43d6b9b1a22cee3df72748119cdaea617b559462f
+ 1. Target Brand: Microsoft
+2. Yes, Email and Password
+3. Phishing
+4. The URL is not the official Microsoft website. The legitimate URL for Microsoft is 'microsoft.com', but the URL in the screenshot is 'microsoftonline.com'.
+The page is asking for the user's email and password, which are sensitive information.
+The page looks like a login page for Microsoft, but it is not the official Microsoft login page.
+
+

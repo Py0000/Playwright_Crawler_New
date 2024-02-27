@@ -1,7 +1,7 @@
 4aa338f74582fab200185a53f108bb7c8152644530190f33a54fd1d08e02ad25
  1. Target Brand: Microsoft
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction: 
  - The URL is for Microsoft.com, which is a legitimate website.
  - The design of the webpage is consistent with the rest of the Microsoft website.
@@ -31,7 +31,7 @@
 2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email
  - Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not a legitimate Facebook URL.
  - The page is requesting personal information, such as email and password.
@@ -65,7 +65,7 @@
 789fd6e7081d9c6f60caa614127d16be13ee598f30eb3f049d54c7ed0208324a
  1. Target Brand: Microsoft
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
  - The URL is "www.microsoft.com", which is the official website of Microsoft.
  - The page is about Microsoft products and services.
@@ -87,7 +87,7 @@ b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043
 b775e39e5156d2f1c18d9dc50868970658e0ce378a542ffbac621213768e9e8a
  1. Target Brand: Microsoft
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction: 
  - The URL is "microsoft.com", which is the official website of Microsoft.
  - The design of the webpage is consistent with the rest of the Microsoft website.

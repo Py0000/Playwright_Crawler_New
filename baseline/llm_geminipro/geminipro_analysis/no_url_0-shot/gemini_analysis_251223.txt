@@ -62,7 +62,7 @@
 6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
  1. Target Brand: DHL
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
  - The URL is "dhl.com", which is the official website of DHL.
  - The page has a valid SSL certificate.
@@ -80,7 +80,7 @@
 6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
  1. Target Brand: Allegro
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is legitimate and belongs to Allegro, a reputable online marketplace.
  - The design of the webpage is consistent with Allegro's branding and does not appear to be模仿another website.
@@ -91,7 +91,7 @@
 6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
  1. Target Brand: Banca di Desio e della Brianza
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is an official website of Banca di Desio e della Brianza.
  - The design of the webpage is consistent with the official website.
@@ -123,12 +123,9 @@ ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
 
 
 bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
- 1. Target Brand
- Rebecca DONG
-2. Any user credential fields (Yes/No) + list them if any
- No
-3. Prediction (Phishing/Non-Phishing)
- Phishing
+ 1. Target Brand: Rebecca DONG
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Phishing
 4. Reasons that support prediction
  The screenshot contains a video of a woman. The video is likely to be used to trick users into giving up their personal information.
 
@@ -173,7 +170,7 @@ d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
 e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
  1. Target Brand: DHL
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not the official DHL website.
  - The design of the webpage is not the same as the official DHL website.
