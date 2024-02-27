@@ -40,7 +40,7 @@ class LlmResultExport:
             print(f"[ERROR LOG] Invalid Entry for file: {file_hash}")
             return
 
-        conclusion = re.search(r'Conclusion: (.+)', entry).group(1).strip()
+        conclusion = re.search(r'Prediction: (.+)', entry).group(1).strip()
         target_brand = re.search(r'Target Brand: (.+)', entry).group(1).strip()
 
         self.update_sheet(sheet, file_hash, target_brand, conclusion)

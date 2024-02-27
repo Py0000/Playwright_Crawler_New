@@ -160,7 +160,7 @@ class GeminiStreamlined:
                 response = self.analyse_individual_data(self.model, image_path, few_shot_count)
                 responses.append(response)
         
-        output_file = f"Baseline/llm_geminipro/gemini_analysis_benign.txt"
+        output_file = f"Baseline/llm_geminipro/gemini_analysis_streamlined_benign.txt"
         with open(output_file, 'w') as file:
             for response in responses:
                 file.write(response + "\n\n\n")

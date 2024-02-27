@@ -168,4 +168,4 @@ if __name__ == '__main__':
         folder_path = os.path.join("baseline", "datasets", f"original_dataset_{folder}")
         date = folder
         gemini_baseline.analyse_directory(folder_path, date, int(args.few_shot_count))
-        time.sleep(random.randint(60-120))
+        time.sleep(random.randint(60, 120))
