@@ -1,9 +1,9 @@
 00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
  1. Target Brand: Societe Generale
-2. Yes:
+2. Any user credential fields (Yes/No) + list them if any: Yes:
  - Numéro de client
  - Code secret
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not the official website of Societe Generale.
  - The URL contains a subdomain that is not used by Societe Generale.
@@ -17,7 +17,7 @@
 
 00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
  1. Target Brand: Correos
-2. Yes:
+2. Any user credential fields (Yes/No) + list them if any: Yes:
    - N/A
 3. Prediction: Non-Phishing
 4. Reasons that support prediction:
@@ -28,9 +28,9 @@
 
 00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
  1. Target Brand: Microsoft (Outlook)
-2. Yes, email and password
-3. Phishing
-4. 
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
+3. Prediction: Phishing
+4. Reasons that support prediction:
  - The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
  - The page requested for users to enter account information.
@@ -38,10 +38,10 @@
 
 00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
  1. Target Brand: AI Crypto Trading
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
    - Email
    - Phone Number
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
    - The URL is not a secure 'https' connection
    - The domain of the URL does not match any legitimate crypto trading platform.
@@ -54,12 +54,12 @@
 
 03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
  1. Target Brand: 12 Volt Does It
-2. Yes 
+2. Any user credential fields (Yes/No) + list them if any: Yes 
    - Vehicle History
    - Add Notes for later use and for others
    - Add New Wire information
    - Add More
-3. Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    - The URL is consistent with the official 12 Volt Does It domain.
    - 'https://' indicates that the connection is secure.
@@ -69,7 +69,7 @@
 
 05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
  1. Target Brand: Microsoft 365
-2. Yes, the webpage is asking for user credential fields.
+2. Any user credential fields (Yes/No) + list them if any: Yes, the webpage is asking for user credential fields.
    - Email Address
    - Password
 3. Prediction: Phishing
@@ -81,8 +81,8 @@
 
 0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
  1. Target Brand: PUBG Mobile
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official PUBG Mobile domain.
 The page is hosted on a secure server.
 The design of the webpage matches the design of official PUBG Mobile webpage.
@@ -91,7 +91,7 @@ The design of the webpage matches the design of official PUBG Mobile webpage.
 0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
  1. Target Brand: Google
 2. Any user credential fields (Yes/No) + list them if any: Yes, Username and Password
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official Google domain.
    'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -100,7 +100,7 @@ The design of the webpage matches the design of official PUBG Mobile webpage.
 
 589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
  1. Target Brand: None
-2. Any user credential fields: No
+2. Any user credential fields (Yes/No) + list them if any: No
 3. Prediction: Benign
 4. Reasons that support prediction: 
    The URL is consistent with the official domain.
@@ -109,16 +109,16 @@ The design of the webpage matches the design of official PUBG Mobile webpage.
 
 76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
  1. Target Brand: Apple
-2. Yes, Apple ID and Password
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Apple ID and Password
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official Apple domain.
 The page design matches the official Apple login page.
 
 
 8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official Telegram domain.
    'https://' indicates that the connection is secure.
@@ -132,10 +132,10 @@ d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
 
 decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
  1. Target Brand: Desjardins
-2. Yes 
+2. Any user credential fields (Yes/No) + list them if any: Yes 
    - Username
    - Password
-3. Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    - The URL is consistent with the official Desjardins domain.
    - The design of the webpage matches the design of official Desjardins webpage.
@@ -148,8 +148,8 @@ f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
 
 f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
  1. Target Brand: Baltika Breweries
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
   - The URL is consistent with the official Baltika Breweries domain.
   - The design of the webpage matches the design of official Baltika Breweries webpage which uses it usual color(s).

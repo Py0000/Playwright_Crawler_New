@@ -1,7 +1,7 @@
 040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
  1. Target Brand: Apple iCloud
 2. Any user credential fields (Yes/No) + list them if any: Yes, Apple ID and Password
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official Apple domain.
    The design of the webpage matches the design of official Apple iCloud login page.
@@ -10,8 +10,8 @@
 
 2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
  1. Target Brand: Netflix
-2. Yes, Email and Password
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official Netflix domain.
  - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -21,7 +21,7 @@
 3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
  1. Target Brand: Google
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
    - The URL is not a Google domain. 
    - The page design is not consistent with Google's usual design.
@@ -29,8 +29,8 @@
 
 4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
  1. Target Brand: Netflix
-2. Yes, Email Address and Password
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address and Password
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official Netflix domain.
  - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -39,10 +39,10 @@
 
 5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
  1. Target Brand: TFBank
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
  - Kundennummer (Customer number)
  - Geburtsdatum (Date of birth)
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not a secure 'https' connection.
  - The domain is not the official domain for TFBank.
@@ -52,8 +52,8 @@
 
 6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
  1. Target Brand: DHL
-2. Yes, it requests for payment
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, it requests for payment
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not a DHL domain.
  - The page is asking for payment, which is not a typical DHL practice.
@@ -62,10 +62,10 @@
 
 6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
  1. Target Brand: Allegro
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email
  - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not a legitimate Allegro domain.
  - The URL contains a subdomain, which is not used by Allegro.
@@ -78,10 +78,10 @@
 
 6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
  1. Target Brand: Banca di Pisa e Fornacette
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
  - Username
  - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not the official website of Banca di Pisa e Fornacette.
  - The website is not secure.
@@ -92,7 +92,7 @@
 afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
  1. Target Brand: DPD
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official DPD domain.
    'https://' indicates that the connection is secure.
@@ -102,20 +102,17 @@ afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
 
 ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
  1. Target Brand: Microsoft
-2. Yes, Email and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Phishing
 4. The URL is different from the official Microsoft login page. The legitimate URL should be "login.live.com".
 5. The page design is not consistent with the official Microsoft login page.
 6. The page requests for unnecessary information like gamertag and location.
 
 
 bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
- 1. Target Brand
-There is no clear indication of a target brand.
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Non-Phishing
+ 1. Target Brand: There is no clear indication of a target brand.
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction
 There is no request for user credentials.
 The URL is not suspicious.
@@ -124,7 +121,7 @@ The design of the webpage is simple and does not look like a phishing page.
 
 c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
  1. Target Brand: bet365
-2. Yes, the webpage is asking for the user's login name and password.
+2. Any user credential fields (Yes/No) + list them if any:  Yes, the webpage is asking for the user's login name and password.
 3. Prediction: Phishing
 4. Reasons that support prediction: 
    The domain in the provided url and the final url visited doesn't match the legitimate bet365 domain. 
@@ -135,7 +132,7 @@ c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
 ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
  1. Target Brand: Cultural Code
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official Cultural Code domain.
    'https://' indicates that the connection is secure.
@@ -145,7 +142,7 @@ ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
 d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
  1. Target Brand: DPD
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official DPD domain.
    'https://' indicates that the connection is secure.
@@ -155,8 +152,8 @@ d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
 
 e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
  1. Target Brand: DHL
-2. Yes, Email and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Phishing
 4. The URL is not the official DHL website. The legitimate DHL website is dhl.com, whereas the phishing site is dhl.com.phishing. The page requests for DHL account login, which is a sensitive information.
 
 

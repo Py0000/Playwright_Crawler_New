@@ -1,17 +1,18 @@
 0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27
  1. Target Brand: Microsoft
-2. Yes, email
-3. Phishing
-4. 1) The URL is not the official Microsoft login page URL. 
- 2) The page requests for the user to enter their email address, which is not typical for a legitimate Microsoft login page.
+2. Any user credential fields (Yes/No) + list them if any: Yes, email
+3. Prediction: Phishing
+4. 
+ - The URL is not the official Microsoft login page URL. 
+ - The page requests for the user to enter their email address, which is not typical for a legitimate Microsoft login page.
 
 
 3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2
  1. Target Brand: Microsoft
-2. Yes 
+2. Any user credential fields (Yes/No) + list them if any: Yes 
    - Email Address
    - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
    - The domain in the provided url and the final url visited doesn't match the legitimate microsoft domain. 
    - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
@@ -20,8 +21,8 @@
 
 605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817
  1. Target Brand: DHL
-2. Yes, Email and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Phishing
 4. The URL is not the official DHL website.
 The page is asking for personal information such as email address and password.
 The page looks like a login page, but it is not.
@@ -29,10 +30,10 @@ The page looks like a login page, but it is not.
 
 8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918
  1. Target Brand: Adobe
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
    - Email Address
    - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
    - The URL is not the official Adobe website.
    - The page is asking for sensitive information such as email address and password.
@@ -42,8 +43,8 @@ The page looks like a login page, but it is not.
 
 acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801
  1. Target Brand: Netflix
-2. Yes, Email Address
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address
+3. Prediction: Phishing
 4. The domain in the provided url and the final url visited doesn't match the legitimate Netflix domain.
 Although the page did not directly include elements that ask user to enter their Netflix account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her Netflix account.
 Moreover, the design of this webpage closely mimics the design of the official Netflix page when this domain of this webpage is not from the official Netflix domain, which indicates an attempt to deceive the user that it is the real Netflix page without looking at the url.
@@ -52,7 +53,7 @@ Moreover, the design of this webpage closely mimics the design of the official N
 ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
  1. Target Brand: Baidu
 2. Any user credential fields (Yes/No) + list them if any: Yes, phone number and/or email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The URL is not a legitimate Baidu domain.
  - The page is asking for sensitive information such as phone number and/or email and password.
@@ -61,12 +62,12 @@ ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
 
 cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
  1. Target Brand: Free Fire
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
    - Facebook account
    - Full name
    - Birthday
    - Address
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
    - The domain of the webpage is different from the official Free Fire domain.
    - The webpage design is different from the official Free Fire login page.
@@ -76,8 +77,8 @@ cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
 
 cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
  1. Target Brand: Netflix
-2. Yes, Email and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Phishing
 4. The domain in the provided URL and the final URL visited doesn't match the legitimate Netflix domain.
 Although the page did not directly include elements that ask the user to enter their Netflix account information, but based on the text in the green box as well as the availability of the “start” button, there is a high possibility that the page is hinting the user to hit on the “start” button, which may lead the user to a page that will request the user to enter in his/her account details, inorder for him/her to recover access to his/her Netflix account.
 Moreover, the design of this webpage closely mimics the design of the official Netflix page when this domain of this webpage is not from the official Netflix domain, which indicates an attempt to deceive the user that it is the real Netflix page without looking at the URL.
@@ -89,11 +90,11 @@ daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
 
 db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
  1. Target Brand: Dynamic Home Buyers
-2. Yes. 
+2. Any user credential fields (Yes/No) + list them if any: Yes. 
    - Name
    - Email Address
    - Phone Number
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
    - The website is not using a secure connection, indicated by the "Not secure" warning in the browser's address bar.
    - The website's domain name does not match the company name.

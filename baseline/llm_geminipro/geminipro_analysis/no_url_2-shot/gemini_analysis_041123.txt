@@ -1,8 +1,8 @@
 1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
  1. Target Brand: Netflix
-2. Yes, Email Address and Password
-3. Phishing
-4. 
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address and Password
+3. Prediction: Phishing
+4. Reasons that support prediction: 
  - The domain in the provided URL and the final URL visited doesn't match the legitimate Netflix domain.
  - The URL is inconsistent with the official Netflix domain.
  - 'http://' indicates that the connection is not secure, which is not expected for a site handling sensitive user information like login credentials.
@@ -12,7 +12,7 @@
 873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
  1. Target Brand: Telegram
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
  * The URL is consistent with the official Telegram domain.
  * 'https://' indicates that the connection is secure.
@@ -23,7 +23,7 @@
 88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
  1. Target Brand: None
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official domain.
    'https://' indicates that the connection is secure.
@@ -38,7 +38,7 @@ a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
 a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
  1. Target Brand: SurveySparrow
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The domain in the provided url and the final url visited doesn't match the legitimate SurveySparrow domain.
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
@@ -47,8 +47,8 @@ a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
 
 aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
  1. Target Brand: Microsoft
-2. Yes, Email and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Phishing
 4. The domain in the provided url and the final url visited doesn't match the legitimate microsoft domain.
 There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
 The page requested for users to enter account information.
@@ -56,8 +56,8 @@ The page requested for users to enter account information.
 
 b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
  1. Target Brand: Gemini
-2. Yes, the webpage is asking for user's email address and phone number.
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, the webpage is asking for user's email address and phone number.
+3. Prediction: Phishing
 4. The webpage is hosted on a free hosting platform.
 The URL of the webpage is different from the official Gemini website.
 The webpage is asking for user's email address and phone number, which is not necessary for creating an account on the official Gemini website.
@@ -68,7 +68,7 @@ The design of the webpage is not professional.
 c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
  1. Target Brand: Jek Miner
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and phone number
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
    - The domain of the website is not the same as the legitimate Jek Miner website.
    - The website is not secure.
@@ -79,11 +79,11 @@ c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
 
 f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
  1. Target Brand: BBVA
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
    - NIF, NIE, Tarjeta o Pasaporte
    - Clave de acceso
    - Número de teléfono
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
    - The URL is not the official BBVA website.
    - The design of the webpage is not the same as the official BBVA website.

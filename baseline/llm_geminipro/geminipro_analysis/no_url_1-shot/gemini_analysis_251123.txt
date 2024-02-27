@@ -1,7 +1,7 @@
 0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27
  1. Target Brand: Microsoft OneDrive
-2. Yes, email
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, email
+3. Prediction: Phishing
 4. The URL is not the official OneDrive URL.
 The page is requesting for users to enter their email.
 
@@ -9,7 +9,7 @@ The page is requesting for users to enter their email.
 3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2
  1. Target Brand: Microsoft
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official Microsoft domain.
    'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -18,8 +18,8 @@ The page is requesting for users to enter their email.
 
 605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817
  1. Target Brand: DHL
-2. Yes, Email and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Phishing
 4. Reasons: 
  - The URL is not the official DHL website.
  - The page is asking for personal information such as email and password.
@@ -29,8 +29,8 @@ The page is requesting for users to enter their email.
 
 8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918
  1. Target Brand: Adobe
-2. Yes, (1) Email address and (2) Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, (1) Email address and (2) Password
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - Adobe's official website is "www.adobe.com", whereas the URL in the screenshot is "helpx.adobe.com", which is not a legitimate Adobe domain.
  - The page design is not consistent with the official Adobe login page.
@@ -39,8 +39,8 @@ The page is requesting for users to enter their email.
 
 acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801
  1. Target Brand: Netflix
-2. Yes, Email Address
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address
+3. Prediction: Phishing
 4. The URL is different from the legitimate Netflix domain.
 The 'Sign In' button does not lead to the legitimate Netflix login page.
 The webpage design is different from the official Netflix login page.
@@ -48,8 +48,8 @@ The webpage design is different from the official Netflix login page.
 
 ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
  1. Target Brand: Baidu
-2. Yes, (1) Phone Number, (2) Verification Code
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, (1) Phone Number, (2) Verification Code
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not a legitimate Baidu domain.
  - The page is asking for sensitive information (phone number and verification code).
@@ -58,11 +58,11 @@ ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
 
 cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
  1. Target Brand: Free Fire
-2. Yes:
+2. Any user credential fields (Yes/No) + list them if any: Yes:
    - Họ tên (Full name)
    - Ngày sinh (Birthday)
    - Địa chỉ (Address)
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
    - The URL is not a legitimate Free Fire domain.
    - There is a suspicious pop-up that appears asking for personal information.
@@ -71,8 +71,8 @@ cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
 
 cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
  1. Target Brand: Netflix
-2. Yes, Email and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Phishing
 4. The URL is inconsistent with the official Netflix domain.
 The 'i' icon next to the URL shows an untrusted certificate.
 The design of the webpage is slightly different from the official Netflix login page.
@@ -81,8 +81,8 @@ The page does not have the green padlock icon on the URL bar which indicates tha
 
 daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
  1. Target Brand: Netflix
-2. Yes, Email Address and Password
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address and Password
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official Netflix domain.
  - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -92,7 +92,7 @@ daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
 db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
  1. Target Brand: Dynamic Home Buyers
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official Dynamic Home Buyers domain.
  - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.

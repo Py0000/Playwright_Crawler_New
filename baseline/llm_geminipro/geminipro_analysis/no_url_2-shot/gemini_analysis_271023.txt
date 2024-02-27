@@ -4,10 +4,10 @@
 
 2144b3b3cd198d7a15855e8b49cf59ec1f0f3961c0e81dfc211513e2234153f7
  1. Target Brand: Sands
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
  - Username
  - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
  - The URL is not the official website of Sands
  - The website is not secure
@@ -17,12 +17,12 @@
 
 2dbbc8f4dd74d47745add189f3a00b3e2861fc4ce30c19b902a50ca9603dcf84
  1. Target Brand: Telegram
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
    - Country
    - Phone Number
    - Verification Code
    - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
    - The URL is not the official Telegram domain.
    - The page requests for sensitive information such as verification code and password.
@@ -34,8 +34,8 @@
 
 644b57d030e8483c3c9ba3b7d842c5af03fed79ddce68af297cb1bc3aee48e0c
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official Telegram domain.
    'https://' indicates that the connection is secure.
@@ -45,7 +45,7 @@
 8346d4f6a9a0e0f0808c2c1203014b9126725f2467c66470ae0424c75ba8360a
  1. Target Brand: Redtail
 2. Any user credential fields (Yes/No) + list them if any: Yes, Username and Password
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official Redtail domain.
    'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -58,10 +58,10 @@
 
 b796fd6776b871b74cabeb494ddb82588dc31df60f07db605d5695901607487f
  1. Target Brand: bet365
-2. Yes 
+2. Any user credential fields (Yes/No) + list them if any: Yes 
    - Username
    - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
    - The URL is not the official bet365 website.
    - The website is not secure.
@@ -72,7 +72,7 @@ b796fd6776b871b74cabeb494ddb82588dc31df60f07db605d5695901607487f
 d9f5e35c9fb5542262bd582d5f636b133af4a90aafff6b67df8b3df58836c459
  1. Target Brand: M&T Bank
 2. Any user credential fields (Yes/No) + list them if any: Yes, User ID and Password
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official M&T Bank domain.
  - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -82,7 +82,7 @@ d9f5e35c9fb5542262bd582d5f636b133af4a90aafff6b67df8b3df58836c459
 da7209afd2979c8329dfa64c2cdd285d318b21fb6ef0d61afc18d53b243af9a7
  1. Target Brand: N/A
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
    The webpage does not have a target brand which is usually an indicator that it is a phishing attempt.
    The design of the webpage is very simple and does not match the design of any legitimate website.
@@ -91,7 +91,7 @@ da7209afd2979c8329dfa64c2cdd285d318b21fb6ef0d61afc18d53b243af9a7
 
 ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983
  1. Target Brand: N/A
-2. Any user credential fields: No
+2. Any user credential fields (Yes/No) + list them if any: No
 3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The webpage does not ask for any user credential fields.
@@ -103,15 +103,15 @@ ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983
 ff6b737751c4090f39e246dbab884d010e14c21797da0407b14cce12c5357d9c
  1. Target Brand: N/A
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    This webpage is likely not phishing because it does not ask for any user credentials and the domain is not associated with any known phishing attacks. The presence of the CloudFlare logo and the "Performance & Security" text indicates that the website is taking steps to protect its users from phishing and other online threats.
 
 
 ff745b855934ce4a847d3b07be14fae4fc8aec4fa405ff5cb8775bcd77e17ce6
  1. Target Brand: Commerzbank
-2. Yes, Benutzername/Teilnehmernummer and PIN
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Benutzername/Teilnehmernummer and PIN
+3. Prediction: Non-Phishing
 4. - The URL is consistent with the official Commerzbank domain.
  - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
  - The design of the webpage matches the design of official Commerzbank login page.
@@ -119,10 +119,10 @@ ff745b855934ce4a847d3b07be14fae4fc8aec4fa405ff5cb8775bcd77e17ce6
 
 ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662
  1. Target Brand: PHOTOTAN
-2. Yes 
+2. Any user credential fields (Yes/No) + list them if any: Yes 
  - Benutzerkennung 
  - Passwort
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
  - The URL is not a secure site.
  - The URL is different from the official website.
@@ -131,16 +131,16 @@ ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662
 
 ff7defb38194d97bb909399e10a77a57bc4e7a8a1fc6cde104121ee2b2769083
  1. Target Brand: Yahoo
-2. No
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Phishing
 4. The URL is not consistent with the official Yahoo domain.
 The webpage is requesting for users to enter account information.
 
 
 ffa33109af4b72825f28ac19b14f48ddfb7d3cbd9652896a0c57107a29d32fc5
  1. Target Brand: Facebook
-2. Yes, Email or Phone Number and Password.
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email or Phone Number and Password.
+3. Prediction: Phishing
 4. - The URL is consistent with the official Facebook domain.
  - 'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
  - The design of the webpage closely mimics the design of the official Facebook login page when this domain of this webpage is not from the official Facebook domain, which indicates an attempt to deceive the user that it is the real Facebook page without looking at the url.
@@ -148,10 +148,10 @@ ffa33109af4b72825f28ac19b14f48ddfb7d3cbd9652896a0c57107a29d32fc5
 
 ffbb55989db21c98053b19e4a84e60358232181175610a8f965873dd7b06e76e
  1. Target Brand: Microsoft
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email Address
  - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
  - The URL is not a Microsoft domain.
  - The design of the webpage does not match the design of official Microsoft login page.
@@ -160,7 +160,7 @@ ffbb55989db21c98053b19e4a84e60358232181175610a8f965873dd7b06e76e
 
 ffebad27c1c7954600ac1080a3f0cb7e07739fd4cba45813f06e45593c8567a9
  1. Target Brand: N/A
-2. Any user credential fields: No
+2. Any user credential fields (Yes/No) + list them if any: No
 3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    There are no indicators to suggest that this is a phishing page. 

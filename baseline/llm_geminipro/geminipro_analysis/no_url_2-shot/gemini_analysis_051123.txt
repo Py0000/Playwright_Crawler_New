@@ -1,7 +1,7 @@
 2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
  1. Target Brand: Auto Follower Indonesia
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The URL is not a secure 'https' connection.
  - The URL is not associated with the brand name
@@ -11,8 +11,8 @@
 
 3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official Telegram domain.
    'https://' indicates that the connection is secure.
@@ -21,11 +21,11 @@
 
 4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb
  1. Target Brand: Free Fire
-2. Yes:
+2. Any user credential fields (Yes/No) + list them if any: Yes:
    - Họ Tên (Full Name)
    - Ngày Sinh (Birthday)
    - Địa Chỉ (Address)
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction:
    - The URL is not a legitimate Free Fire domain.
    - The webpage design is not consistent with the official Free Fire website.
@@ -34,8 +34,8 @@
 
 6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official Telegram domain.
    The design of the webpage matches the design of official Telegram webpage.

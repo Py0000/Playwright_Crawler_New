@@ -1,7 +1,7 @@
 00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
  1. Target Brand: Societe Generale
 2. Any user credential fields (Yes/No) + list them if any: Yes, it asks for the user's code client (which is an identifier used by the bank to identify the customer) and password.
-3. Prediction : Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official Societe Generale domain.
  - The design of the webpage matches the design of official Societe Generale login page.
@@ -21,7 +21,7 @@
 00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
  1. Target Brand: Microsoft (Outlook)
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
@@ -30,10 +30,10 @@
 
 00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
  1. Target Brand: AI Crypto Trading
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email Address
  - Phone Number
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
  - The URL is not a secure site ('http' instead of 'https').
  - The URL is not the official website of AI Crypto Trading.
@@ -50,7 +50,7 @@
 03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
  1. Target Brand: 12 Volt Does It
 2. Any user credential fields (Yes/No) + list them if any: Yes, email address
-3. Prediction (Phishing/Non-Phishing): Non-phishing
+3. Prediction: Non-phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official 12 Volt Does It domain.
  - The design of the webpage matches the design of official 12 Volt Does It webpage.
@@ -60,7 +60,7 @@
 05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
  1. Target Brand: Microsoft 365
 2. Any user credential fields (Yes/No) + list them if any: Yes, Email Address
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The URL is not the official Microsoft 365 website.
  - The page is asking for the user's email address, which is not typically required to sign in to Microsoft 365.
@@ -70,7 +70,7 @@
 
 0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
  1. Target Brand: PUBG Mobile
-2. No
+2. Any user credential fields (Yes/No) + list them if any: No
 3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official PUBG Mobile domain.
@@ -81,7 +81,7 @@
 0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
  1. Target Brand: Google Drive
 2. Any user credential fields (Yes/No) + list them if any: Yes, Username and Password
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official Google domain.
    'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -94,8 +94,8 @@ The `response.text` quick accessor only works for simple (single-`Part`) text re
 
 76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
  1. Target Brand: Apple
-2. Yes, Apple ID and Password
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Apple ID and Password
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official Apple website.
 The page has a valid security certificate.
 The design of the webpage matches the design of the official Apple login page.
@@ -103,8 +103,8 @@ The design of the webpage matches the design of the official Apple login page.
 
 8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
   - The URL is consistent with the official Telegram domain.
   - 'https://' indicates that the connection is secure.
@@ -118,10 +118,10 @@ d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
 
 decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
  1. Target Brand: Desjardins
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
  - Username
  - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
  - The URL is not a Desjardins domain.
  - The page is asking for personal information.
@@ -133,12 +133,9 @@ f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
 
 
 f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
- 1. Target Brand
-Народные напитки
-2. Any user credential fields (Yes/No) + list them if any
-No
-3. Prediction (Phishing/Non-Phishing)
-Benign
+ 1. Target Brand: Народные напитки
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Benign
 4. Reasons that support prediction
 The URL is consistent with the official Народные напитки domain.
 'https://' indicates that the connection is secure.

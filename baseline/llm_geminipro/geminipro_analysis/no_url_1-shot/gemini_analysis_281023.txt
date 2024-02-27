@@ -1,7 +1,7 @@
 0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc
  1. Target Brand: AT&T
 2. Any user credential fields (Yes/No) + list them if any: Yes, User ID and Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The URL is not the official AT&T website.
  - The page is not using a secure connection.
@@ -15,7 +15,7 @@
 37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db
  1. Target Brand: Webmail
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The domain in the provided url and the final url visited doesn't match the legitimate webmail domain. 
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
@@ -24,8 +24,8 @@
 
 6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935
  1. Target Brand: Facebook
-2. Yes, Email and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Email and Password
+3. Prediction: Phishing
 4. The URL is not the official Facebook login page.
 The page is not using HTTPS, which is not secure.
 The design of the page is not the same as the official Facebook login page.
@@ -33,8 +33,8 @@ The design of the page is not the same as the official Facebook login page.
 
 6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1
  1. Target Brand: Telegram
-2. Yes, Phone number
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Phone number
+3. Prediction: Phishing
 4. Reasons that support prediction:
  - The URL is not consistent with the official Telegram domain.
  - The page is asking for the user's phone number, which is not a common practice for legitimate websites.
@@ -44,7 +44,7 @@ The design of the page is not the same as the official Facebook login page.
 6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9
  1. Target Brand: Facebook
 2. Any user credential fields (Yes/No) + list them if any: Yes, Mobile Number or Email Address and Password.
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
    The URL is not consistent with the official Facebook domain.
    The webpage design is not consistent with the official Facebook login page.
@@ -53,8 +53,8 @@ The design of the page is not the same as the official Facebook login page.
 
 83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890
  1. Target Brand: Microsoft
-2. Yes, password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, password
+3. Prediction: Phishing
 4. The URL is not the official Microsoft login page URL.
 The page design is different from the official Microsoft login page.
 
@@ -65,8 +65,8 @@ The page design is different from the official Microsoft login page.
 
 9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505
  1. Target Brand: Microsoft
-2. Yes, password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, password
+3. Prediction: Phishing
 4. - The URL is not the official Microsoft login page URL. 
  - The page is requesting for password only, while the offical login page would ask for email first.
 
@@ -74,7 +74,7 @@ The page design is different from the official Microsoft login page.
 d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
  1. Target Brand: Coinbase
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official Coinbase domain.
    'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -85,7 +85,7 @@ d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
 f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
  1. Target Brand: Webmail
 2. Any user credential fields (Yes/No) + list them if any: Yes, Username and Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
@@ -94,8 +94,8 @@ f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
 
 fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official Telegram domain.
    'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.

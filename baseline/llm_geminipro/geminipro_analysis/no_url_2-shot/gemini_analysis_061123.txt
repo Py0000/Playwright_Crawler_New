@@ -1,7 +1,7 @@
 1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official Telegram domain.
    'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -10,8 +10,8 @@
 
 1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
  1. Target Brand: Libero
-2. Yes, email and phone number
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and phone number
+3. Prediction: Phishing
 4. - The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
  - The page requested for users to enter account information.
@@ -24,7 +24,7 @@
 31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
  1. Target Brand: Trust Wallet
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The domain in the provided url and the final url visited doesn't match the legitimate trust wallet domain.
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
@@ -33,8 +33,8 @@
 
 3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
   - The URL is consistent with the official Telegram domain.
   - 'https://' indicates that the connection is secure.
@@ -44,7 +44,7 @@
 4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
  1. Target Brand: Webmail
 2. Any user credential fields (Yes/No) + list them if any: Yes, Username and Password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
    - The URL is not a legitimate webmail login page.
    - The design of the webpage is not consistent with the official webmail login page.
@@ -54,7 +54,7 @@
 4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
  1. Target Brand: Coinbase
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The URL is consistent with the official Coinbase domain.
    'https://' indicates that the connection is secure, which is expected for a site handling sensitive user information like login credentials.
@@ -64,7 +64,7 @@
 834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
  1. Target Brand: N/A
 2. Any user credential fields (Yes/No) + list them if any: Yes, email address and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The URL is not a legitimate URL.
  - The page is asking for personal information.
@@ -73,7 +73,7 @@
 
 ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
  1. Target Brand: 365bet
-2. Yes, the webpage is asking for the following information:
+2. Any user credential fields (Yes/No) + list them if any: Yes, the webpage is asking for the following information:
    - Username or email
    - Password
 3. Prediction: Phishing
@@ -86,11 +86,11 @@ ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
 
 fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
  1. Target Brand: Bank of Ireland
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
    - User ID
    - Date of birth
    - Phone number
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
    - The URL is not the official website of the Bank of Ireland.
    - The URL contains a typo, "boiubk" instead of "boi".
