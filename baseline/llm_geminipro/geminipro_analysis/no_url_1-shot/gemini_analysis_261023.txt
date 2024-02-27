@@ -1,7 +1,7 @@
 00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
  1. Target Brand: Societe Generale
 2. Any user credential fields (Yes/No) + list them if any: Yes, it asks for the user's code client (which is an identifier used by the bank to identify the customer) and password.
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction : Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official Societe Generale domain.
  - The design of the webpage matches the design of official Societe Generale login page.
@@ -10,7 +10,7 @@
 
 00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
  1. Target Brand: Correos
-2. Yes, it asks for the user's phone number
+2. Any user credential fields (Yes/No) + list them if any: Yes, it asks for the user's phone number
 3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The domain in the provided url and the final url visited doesn't match the legitimate correos domain. 
