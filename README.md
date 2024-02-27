@@ -108,7 +108,7 @@ Returning to the ssh session:
   * Currently, acceptable parameter for `{number of examples to include}`: 1 to 5
 
 #### Updating results of llm analysis to excel sheet
-* Pre-cond: Running the script `blank_page_detector.py` from `Playwright_Crawler_New` directory
+* Pre-cond: Running the script `export_llm_result.py` from `Playwright_Crawler_New` directory
 * Cmd: `python3 -m Baseline.export_llm_result {path_to_analysis_txt_file} {path_to_excel_sheet} {file_hash_col} {brand_col} {verdict_col}`
   * Phishing: 
     * `file_hash_col`: B
