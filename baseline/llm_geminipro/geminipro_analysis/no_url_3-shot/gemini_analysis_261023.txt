@@ -1,8 +1,8 @@
 00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
  1. Target Brand: Societe Generale
-2. Yes,  "Saisissez votre code client" and "votre mot de passe"
-3. Phishing
-4. 
+2. Any user credential fields (Yes/No) + list them if any: Yes,  "Saisissez votre code client" and "votre mot de passe"
+3. Prediction: Phishing
+4. Reasons that support prediction:
  - The URL is not the official website of Societe Generale.
  - The URL is trying to mimic the official website of Societe Generale by using a similar domain name and design.
  - The webpage is asking for sensitive information such as the user's customer code and password.
@@ -11,8 +11,8 @@
 
 00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
  1. Target Brand: Correos
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official Correos domain.
  - The design of the webpage matches the design of official Correos website.
@@ -21,9 +21,9 @@
 
 00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
  1. Target Brand: Microsoft (Outlook)
-2. Yes, email and password
-3. Phishing
-4. 
+2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
+3. Prediction: Phishing
+4. Reasons that support prediction:
  - The domain in the provided url and the final url visited doesn't match the legitimate outlook domain. 
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
  - The page requested for users to enter account information.
@@ -31,10 +31,10 @@
 
 00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
  1. Target Brand: AI Crypto Trading
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
  - Email
  - Phone Number
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
  - The URL is not a secure 'https' connection.
  - The URL is not from an official source.
@@ -47,9 +47,9 @@
 
 03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
  1. Target Brand: 12 Volt Does It
-2. Yes, it asks for email address.
-3. Phishing
-4. 
+2. Any user credential fields (Yes/No) + list them if any: Yes, it asks for email address.
+3. Prediction: Phishing
+4. Reasons that support prediction:
  - The domain of the website is different from the official website of 12 Volt Does It.
  - The website is not using a secure connection.
  - The website is asking for personal information, such as your email address, without any clear purpose.
@@ -59,8 +59,8 @@
 
 05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
  1. Target Brand: Microsoft
-2. Yes, it asks for user's email and phone number.
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, it asks for user's email and phone number.
+3. Prediction: Phishing
 4. Reasons supporting prediction: 
  - The domain in the provided url and the final url visited doesn't match the legitimate Microsoft domain.
  - There is a mismatch between the urls and official domain and the webpage is design to look identical to the offical webpage.
@@ -68,8 +68,8 @@
 
 0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
  1. Target Brand: PUBG Mobile
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official PUBG Mobile domain.
 The page is hosted on a secure HTTPS connection.
 The design of the webpage matches the design of official PUBG Mobile pages.
@@ -77,9 +77,9 @@ The design of the webpage matches the design of official PUBG Mobile pages.
 
 0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
  1. Target Brand: Google
-2. Yes. Username and Password.
-3. Phishing
-4. 
+2. Any user credential fields (Yes/No) + list them if any: Yes. Username and Password.
+3. Prediction: Phishing
+4. Reasons that support prediction:
  - The domain in the provided url and the final url visited doesn't match the legitimate Google domain.
  - The design of the webpage closely mimics the design of the official Google page when this domain of this webpage is not from the official Google domain, which indicates an attempt to deceive the user that it is the real Google page without looking at the url.
  - This would trick the user into entering his account credentials, thereby leaking sensitive info to a non-official Google page, since there are fields asking for user's credential on this page.
@@ -88,7 +88,7 @@ The design of the webpage matches the design of official PUBG Mobile pages.
 589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
  1. Target Brand: None
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The webpage is a group chat on the messaging applikasi Whatsapp.
    There are no user credential fields on the page.
@@ -97,8 +97,8 @@ The design of the webpage matches the design of official PUBG Mobile pages.
 
 76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
  1. Target Brand: Apple
-2. Yes, Apple ID and Password
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, Apple ID and Password
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official Apple domain.
 The design of the webpage matches the design of official Apple login page.
 The page requests for Apple ID and password, which is expected for a legitimate Apple login page.
@@ -106,8 +106,8 @@ The page requests for Apple ID and password, which is expected for a legitimate 
 
 8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
    The URL is consistent with the official Telegram domain.
    The design of the webpage matches the design of official Telegram webpage.
@@ -120,9 +120,9 @@ d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
 
 decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
  1. Target Brand: Desjardins
-2. No
-3. Non-Phishing
-4. 
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
+4. Reasons that support prediction:
  - The URL is consistent with the official Desjardins domain.
  - 'https://' indicates that the connection is secure.
  - The design of the webpage matches the design of official Desjardins webpage.

@@ -4,19 +4,19 @@
 
 2144b3b3cd198d7a15855e8b49cf59ec1f0f3961c0e81dfc211513e2234153f7
  1. Target Brand: Sands
-2. Yes. Email and password.
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes. Email and password.
+3. Prediction: Phishing
 4. The domain of the URL is different from the legitimate Sands website. The legitimate website is sands.com, while the phishing website is sands.com.ph. The phishing website also has a different design than the legitimate website.
 
 
 2dbbc8f4dd74d47745add189f3a00b3e2861fc4ce30c19b902a50ca9603dcf84
  1. Target Brand: Telegram
-2. Yes
+2. Any user credential fields (Yes/No) + list them if any: Yes
    - Country
    - Phone number
    - Verification code
    - Password
-3. Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction
    - The URL is not the official Telegram domain.
    - The page is asking for too much information, including the user's phone number, verification code, and password.
@@ -29,16 +29,16 @@
 
 644b57d030e8483c3c9ba3b7d842c5af03fed79ddce68af297cb1bc3aee48e0c
  1. Target Brand: Telegram
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official Telegram domain.
 The design of the webpage matches the design of official Telegram login page which uses it usual color(s).
 
 
 8346d4f6a9a0e0f0808c2c1203014b9126725f2467c66470ae0424c75ba8360a
  1. Target Brand: Redtail
-2. Yes: Username and Password
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes: Username and Password
+3. Prediction: Phishing
 4. The URL is not the official Redtail URL. The legitimate URL for Redtail is 'https://www.redtailcrm.com/'.
 The 'Forgot Password' link is not working.
 The page design is not consistent with the official Redtail login page.
@@ -50,16 +50,16 @@ The page design is not consistent with the official Redtail login page.
 
 b796fd6776b871b74cabeb494ddb82588dc31df60f07db605d5695901607487f
  1. Target Brand: bet365
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official bet365 domain.
 The design of the webpage matches the design of official bet365 webpage.
 
 
 d9f5e35c9fb5542262bd582d5f636b133af4a90aafff6b67df8b3df58836c459
  1. Target Brand: M&T Bank
-2. Yes, User ID and Password
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, User ID and Password
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official M&T Bank domain.
 The design of the webpage matches the design of official M&T Bank login page which uses it usual color(s).
 The page requests for user's User ID and Password, which is common for legitimate banking login pages.
@@ -68,7 +68,7 @@ The page requests for user's User ID and Password, which is common for legitimat
 da7209afd2979c8329dfa64c2cdd285d318b21fb6ef0d61afc18d53b243af9a7
  1. Target Brand: N/A
 2. Any user credential fields (Yes/No) + list them if any: Yes, email and password
-3. Prediction (Phishing/Non-Phishing): Phishing
+3. Prediction: Phishing
 4. Reasons that support prediction: 
  - The URL is not a legitimate website.
  - The design of the webpage does not match the design of official websites.
@@ -78,7 +78,7 @@ da7209afd2979c8329dfa64c2cdd285d318b21fb6ef0d61afc18d53b243af9a7
 
 ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983
  1. Target Brand: None
-2. Any user credential fields: No
+2. Any user credential fields (Yes/No) + list them if any: : No
 3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    The webpage does not request any user credentials.
@@ -89,7 +89,7 @@ ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983
 ff6b737751c4090f39e246dbab884d010e14c21797da0407b14cce12c5357d9c
  1. Target Brand: N/A
 2. Any user credential fields (Yes/No) + list them if any: No
-3. Prediction (Phishing/Non-Phishing): Non-Phishing
+3. Prediction: Non-Phishing
 4. Reasons that support prediction: 
    This webpage is likely not phishing because it does not request any user credentials and is likely showing while the security of the connection is being verified.
 
@@ -100,8 +100,8 @@ ff745b855934ce4a847d3b07be14fae4fc8aec4fa405ff5cb8775bcd77e17ce6
 
 ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662
  1. Target Brand: Postbank
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. Reasons that support prediction:
  - The URL is consistent with the official Postbank domain.
  - The design of the webpage matches the design of official Postbank webpage.
@@ -110,15 +110,15 @@ ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662
 
 ff7defb38194d97bb909399e10a77a57bc4e7a8a1fc6cde104121ee2b2769083
  1. Target Brand: Yahoo
-2. No
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Phishing
 4. The URL is not a legitimate Yahoo domain.
 
 
 ffa33109af4b72825f28ac19b14f48ddfb7d3cbd9652896a0c57107a29d32fc5
  1. Target Brand: Facebook
-2. Yes, it asks for Name, Surname, Mobile number or email and Nova senha (new password)
-3. Phishing
+2. Any user credential fields (Yes/No) + list them if any: Yes, it asks for Name, Surname, Mobile number or email and Nova senha (new password)
+3. Prediction: Phishing
 4. The URL is different from the official Facebook login page. The legitimate Facebook login page URL is https://www.facebook.com/login/. The URL for this phishing page is https://www.facebook.com.br/.
 The page asks for too much information. The legitimate Facebook login page only asks for your email address or phone number and password.
 The page looks different from the legitimate Facebook login page. The legitimate Facebook login page has a blue background, while this phishing page has a white background.
@@ -127,16 +127,16 @@ The page has a lot of grammatical errors, which is not typical of legitimate web
 
 ffbb55989db21c98053b19e4a84e60358232181175610a8f965873dd7b06e76e
  1. Target Brand: Microsoft
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. The URL is consistent with the official Microsoft domain.
 The design of the webpage matches the design of official Microsoft webpage which uses it usual color(s).
 
 
 ffebad27c1c7954600ac1080a3f0cb7e07739fd4cba45813f06e45593c8567a9
  1. Target Brand: None
-2. No
-3. Non-Phishing
+2. Any user credential fields (Yes/No) + list them if any: No
+3. Prediction: Non-Phishing
 4. The webpage doesn't request for any user credentials and there is no target brand.
 
 
