@@ -118,7 +118,11 @@ Returning to the ssh session:
     * `file_hash_col`: B
     * `brand_col`: E
     * `verdict_col`: F
-  
+
+#### Calculating metrics 
+* Pre-cond: Running the script `metrics_calc.py` from `Playwright_Crawler_New` directory
+* Cmd: `python3 -m baseline.metrics_calc {tp} {tn} {fp} {fn}`
+
 #### Getting counts of data remaining (after filtering)
 * Pre-cond: Running the script `counter.py` from `Playwright_Crawler_New` directory
 * Cmd: `python3 -m analyzer.utils.counter {dataset_path} {type}`

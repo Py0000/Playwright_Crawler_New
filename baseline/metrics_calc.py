@@ -30,6 +30,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     metric_calculator = MetricCalculator()
-    metric_calculator.calculate_metrics(args.tp, args.tn, args.fp, args.fn)
+    metric_calculator.calculate_metrics(int(args.tp), int(args.tn), int(args.fp), int(args.fn))
 
-    
