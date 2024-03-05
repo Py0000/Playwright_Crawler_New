@@ -5,7 +5,3 @@ Return your response in the following forma, replace everything in <> with your 
     4. Conclusion: <Phishing/Benign>
     5. Phishing Score: <Phishing risk confidence score on a scale from 0 to 10>
     6. Supporting evidence: <List of evidences you have examined and gathered>
-    7. SSL Certificate: <Certificate Name (if found, otherwise put None)>
-    8. How did you obtain the SSL certificate (if present): <your response>
-    9. Website url: <website url (if found, otherwise put None)>
-    10. How did you obtain the url (if present): <your response>
