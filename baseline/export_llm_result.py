@@ -3,11 +3,12 @@ import openpyxl
 import re
 
 class LlmResultExport:
-    def __init__(self, file_hash_column, predicted_brand_column, predicted_verdict_column, has_credentials_column):
+    def __init__(self, file_hash_column, predicted_brand_column, predicted_verdict_column, has_credentials_column, phishing_score_column):
         self.file_hash_column = file_hash_column
         self.predicted_brand_column = predicted_brand_column
         self.predicted_verdict_column = predicted_verdict_column
         self.has_credentials_column = has_credentials_column
+        self.phishing_score_column = phishing_score_column
 
 
     def read_llm_responses(self, txt_file_path):
@@ -16,7 +17,7 @@ class LlmResultExport:
             entries = re.split(r'\n\s*\n', content)
         return entries
 
-    def update_sheet(self, sheet, file_hash, target_brand, conclusion, has_credentials):
+    def update_sheet(self, sheet, file_hash, target_brand, conclusion, has_credentials, phishing_score):
         print(f"\nProcessing file: {file_hash}...")
         hash_found = False
         # Row 1 has headers
@@ -25,6 +26,7 @@ class LlmResultExport:
                 sheet[self.predicted_brand_column + str(row)] = target_brand
                 sheet[self.predicted_verdict_column + str(row)] = 'Yes' if 'phishing' in conclusion.lower() else 'No'
                 sheet[self.has_credentials_column + str(row)] = has_credentials
+                sheet[self.phishing_score_column + str(row)] = phishing_score
                 hash_found = True
                 break
         
@@ -44,9 +46,10 @@ class LlmResultExport:
 
         conclusion = re.search(r'Conclusion: (.+)', entry).group(1).strip()
         target_brand = re.search(r'Target brand: (.+)', entry).group(1).strip()
-        has_credentials = 'NA'
+        has_credentials = re.search(r'Has credentials/call-to-action: (.+)', entry).group(1).strip()
+        phishing_score = re.search(r'Phishing Score: (.+)', entry).group(1).strip()
 
-        self.update_sheet(sheet, file_hash, target_brand, conclusion, has_credentials)
+        self.update_sheet(sheet, file_hash, target_brand, conclusion, has_credentials, phishing_score)
 
 
     def update_sheet_with_responses(self, txt_file_path, excel_file_path):
@@ -69,7 +72,8 @@ if __name__ == '__main__':
     parser.add_argument("brand_col", help="Predicted Brand Column")
     parser.add_argument("verdict_col", help="Predicted Verdict Column")
     parser.add_argument("credentials", help="Has_credentials Column")
+    parser.add_argument("phishing_score", help="Phishing Score Column")
     args = parser.parse_args()
 
-    export_object = LlmResultExport(args.hash_col, args.brand_col, args.verdict_col, args.credentials)
+    export_object = LlmResultExport(args.hash_col, args.brand_col, args.verdict_col, args.credentials, args.phishing_score)
     export_object.update_sheet_with_responses(args.txt_path, args.sheet_path)

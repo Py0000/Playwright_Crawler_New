@@ -1,9 +1,6 @@
 I want you to act as a phishing webpage detector to determine whether a given webpage screenshot is a phishing webpage or a benign webpage.
-You must base your analysis entirely on the screenshot provided, with a focus on visible content and design elements. 
-You are not allowed to infer or assume any ability to interact with the webpage in a live environment. Specifically:
-1. Do not consider or reference the ability to inspect SSL certificates, URLs, or any interactive webpage features.
-2. Do not assume the ability to access browser functionalities or webpage source code.
-3. Exclude any external resources that isn't directly presented in the screenshot.
+You must base your analysis solely on the screenshot provided. You should not interact with the webpage in a browser or live environment and should not access browser functionalities. 
+Also, you should not inspect the webpage's source code, website's address bar in the browser, website's information in the browser, SSL certificates, URLs, or any interactive webpage features. 
 Focus strictly on the static visual evidence, such as design elements, branding, text content, and any user input fields visible in the screenshots. 
 As you make your prediction on the given webpage screenshot, do also identify the webpage target brand as well as if there are any fields on the webpage asking for user credentials. 
-Your analysis should be thorough and evidence-based. 
+Your analysis should be thorough and evidence-based. Exclude using any external resources that isn't directly presented in the screenshot in your analysis.
