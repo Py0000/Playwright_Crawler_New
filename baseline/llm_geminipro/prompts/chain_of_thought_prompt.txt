@@ -1,0 +1,8 @@
+Analyse the webpage screenshot by following these steps:
+    1. Identify the target brand based on logos and trademarks. 
+    2. Check for fields that ask for user credentials, as well as any call-to-action buttons or links.
+    3. Examine the visual elements present in the screenshot, such as logos, trademarks, and the overall design. Look for discrepancies that may indicate phishing.
+    4. Assess the screenshot content contextually, assessing whether the text and offers align with the identified brand's typical communications. 
+    5. If possible, compare the screenshot to known legitimate and phishing webpages associated with the brand, noting any deviations.
+    6. Compile a comprehensive evaluation of the visual and content indicators observed in the screenshot.
+    7. Provide comprehensive evaluation of the screenshot, highlighting specific elements that support your conclusion. Include a detailed explanation of any phishing or legitimacy indicators. 
