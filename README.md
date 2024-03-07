@@ -104,8 +104,9 @@ Returning to the ssh session:
 * Pre-cond: Running the script from `Playwright_Crawler_New` directory
 
 ***GeminiProVision***
-* Cmd: `python3 -m baseline.llm_geminipro.gemini_enhanced {benign or phishing} {number of examples to include} {include_url?}` 
+* Cmd: `python3 -m baseline.llm_geminipro.gemini_enhanced {include_url?} {benign or phishing} {number of examples to include}` 
   * Currently, acceptable parameter for `{number of examples to include}`: 1 to 3
+  * `include_url?`: `true` or `false`
 
 #### Updating results of llm analysis to excel sheet
 * Pre-cond: Running the script `export_llm_result.py` from `Playwright_Crawler_New` directory
@@ -122,6 +123,12 @@ Returning to the ssh session:
     * `verdict_col`: F
     * `credentials_col`: G
     * `phishing_score_col`: H
+  * Combined
+    * `file_hash_col`: B
+    * `brand_col`: G
+    * `verdict_col`: F
+    * `credentials_col`: H
+    * `phishing_score_col`: I
 
 #### Calculating metrics 
 * Pre-cond: Running the script `metrics_calc.py` from `Playwright_Crawler_New` directory

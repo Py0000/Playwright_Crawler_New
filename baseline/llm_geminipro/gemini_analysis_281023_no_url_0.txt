@@ -1,0 +1,180 @@
+0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields: User ID, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate AT&T login page, but there are subtle differences, such as the font of the text and the color of the buttons.
+ - The webpage is hosted on a free hosting service, which is often used by phishing websites.
+ - The webpage asks for the user's User ID and Password, which is not necessary to sign in to MyAT&T.
+ - The webpage uses a generic "Sign In" button instead of the AT&T logo.
+
+
+33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255
+ 1. Target brand: Disqus
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage screenshot has a valid SSL certificate.
+ - The webpage screenshot has a padlock icon in the address bar.
+ - The webpage screenshot has a valid "Disqus" domain.
+ - The webpage screenshot has a valid "Disqus" copyright in the footer.
+ - The webpage screenshot has a valid "Disqus" logo.
+ - The webpage screenshot has a valid "Disqus" trademark.
+ - The webpage screenshot has a valid "Disqus" about us page.
+ - The webpage screenshot has a valid "Disqus" contact us page.
+ - The webpage screenshot has a valid "Disqus" privacy policy page.
+ - The webpage screenshot has a valid "Disqus" terms of service page.
+
+
+37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email account
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's design and layout are not consistent with the legitimate Webmail website. 
+ - The webpage's URL is not the legitimate Webmail website's URL. 
+ - The webpage's text contains grammatical errors and inconsistencies. 
+ - The webpage's call-to-action button is not consistent with the legitimate Webmail website's call-to-action button.
+
+
+6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or Phone
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The webpage's design closely resembles the legitimate Facebook login page, but there are subtle differences, such as the font and the layout of the elements.
+   - The webpage's URL is not the legitimate Facebook login page URL.
+   - The webpage does not have a valid SSL certificate.
+   - The webpage asks for user credentials, which is not necessary for logging into Facebook.
+
+
+6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: Country, Phone Number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Telegram logo, but the overall design looks different from the official Telegram webpage.
+ - The text "Telegram" is misspelled as "Telegarm" in the page title.
+ - The webpage is asking for the user's country and phone number, which is not necessary to log in to Telegram.
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The URL of the webpage is different from the official Telegram webpage.
+
+
+6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Mobile number or email address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Facebook logo, but the overall design looks different from the legitimate Facebook login page.
+ - There is a field asking for the user's mobile number or email address, which is not typical for Facebook login.
+ - There is a field asking for the user's password.
+ - There is a green button that says "Log In", which is not the same as the blue button that says "Log In" on the legitimate Facebook login page.
+ - There is a link that says "Create New Account", which is not present on the legitimate Facebook login page.
+ - The URL of the webpage is not the same as the URL of the legitimate Facebook login page.
+
+
+83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+    - Email address
+    - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage has a Microsoft logo and branding, but the design looks different from the legitimate Microsoft login page. 
+ - The URL is not the legitimate Microsoft login page URL. 
+ - The page requests the user's email address and password. 
+ - The page has a "Sign in" button. 
+ - The page has a "Keep me signed in" checkbox. 
+ - The page has a "Forgot password?" link.
+
+
+9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8
+ 1. Target brand: Progressive
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: The webpage screenshot is an article about hail damage and does not contain Progressive branding or trademarks. There are no fields asking for user credentials, and there are no call-to-action buttons or links. The visual elements present in the screenshot are consistent with the Progressive brand, and the text content is well-written and informative. The overall design of the webpage is professional and does not exhibit any signs of phishing.
+
+
+9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Microsoft logo, which is a registered trademark of Microsoft Corporation. 
+ - The webpage has a field that asks for the user's password. 
+ - The webpage has a button that says "Sign in", which is a common call-to-action on phishing webpages. 
+ - The webpage's design and layout are similar to that of the legitimate Microsoft login page, but there are subtle differences, such as the font of the text and the color of the buttons. 
+ - The webpage's URL is not the legitimate Microsoft login page URL.
+
+
+d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
+ 1. Target brand: Coinbase
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The Coinbase logo and branding are present, but the overall design of the webpage is different from the legitimate Coinbase website.
+ - There is a field asking for the user's email and password.
+ - There is a call-to-action button that says "Get Coinbase Wallet".
+ - The URL of the webpage is not the legitimate Coinbase website.
+ - The text on the webpage is not consistent with the legitimate Coinbase website.
+
+
+f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Username
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a simple design with a white background and a blue button, which is not typical of legitimate webmail login pages. 
+ - The webpage's URL is not secure, as indicated by the missing "https://" prefix. 
+ - The webpage does not have a valid SSL certificate, as indicated by the missing padlock icon in the browser's address bar. 
+ - The webpage's copyright date is in the future year of 2023, which is not possible.
+
+
+fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Telegram's official branding and follows its design guidelines.
+ - The webpage's content is in line with Telegram's messaging and offerings.
+ - There are no suspicious or malicious elements, such as phishing forms or misleading links, present on the webpage.
+ - The webpage's URL is legitimate and belongs to Telegram's official website.
+
+

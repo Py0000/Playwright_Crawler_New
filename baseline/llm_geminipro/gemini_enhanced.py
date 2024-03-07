@@ -14,8 +14,13 @@ from baseline.utils import utils
 class GeminiProVisionBaseline:
     def __init__(self, mode, is_url):
         self.mode = mode
-        self.is_url = is_url
         self.model = self.setup_model()
+        
+        if is_url == 'false':
+            self.is_url = False
+        else:
+            self.is_url = True
+        
     
 
     def setup_model(self):
@@ -130,8 +135,12 @@ class GeminiProVisionBaseline:
                     
                     # Delete the extracted folder after processing
                     shutil.rmtree(extract_path)
-
-        output_file = f"baseline/llm_geminipro/gemini_analysis_{date}_{few_shot_count}.txt"
+        
+        if self.is_url:
+            output_file = f"baseline/llm_geminipro/gemini_analysis_{date}_url_{few_shot_count}.txt"
+        else:
+            output_file = f"baseline/llm_geminipro/gemini_analysis_{date}_no_url_{few_shot_count}.txt"
+        
         with open(output_file, 'w') as file:
             for response in responses:
                 file.write(response + "\n\n\n")
@@ -158,10 +167,9 @@ if __name__ == '__main__':
     parser.add_argument("few_shot_count", help="number of examples to include")
     args = parser.parse_args()
 
-    #benign_folders = ["benign"]
-    #phishing_folders = ["251023", "261023", "271023", "281023", "011123", "041123", "051123", "061123", "161123", "251123", "111223", "151223", "251223"]
-    benign_folders = ["benign_subset"]
-    phishing_folders = ["111223"]
+    benign_folders = ["benign"]
+    phishing_folders = ["251023", "261023", "271023", "281023", "011123", "041123", "051123", "061123", "161123", "251123", "111223", "151223", "251223"]
+    
     if args.benign_phishing == "benign":
         folders = benign_folders
     else:

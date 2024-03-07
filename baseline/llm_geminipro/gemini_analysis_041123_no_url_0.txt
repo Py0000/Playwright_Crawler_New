@@ -1,0 +1,124 @@
+1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage screenshot contains the official Netflix logo, trademarks, and branding elements. The overall design and layout are consistent with the legitimate Netflix website. The screenshot shows a login page where users are required to enter their email address and password to sign in. This is a common practice for legitimate websites, and it is not an indication of phishing.
+
+
+873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The Telegram logo and branding are used in the screenshot, but the overall design of the webpage looks different from the official Telegram website.
+ - There is a field asking for user credentials, which is not present on the official Telegram website. 
+ - The URL in the screenshot is different from the official Telegram website.
+ - The text on the screenshot contains grammatical errors and typos, which is not typical of the official Telegram website.
+
+
+88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
+ 1. Target brand: Coinbase
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Connect Wallet
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage has a Coinbase logo, but the overall design and layout are different from the legitimate Coinbase website.
+ - The webpage is asking for users to connect their wallets, which is not a typical Coinbase feature.
+ - The webpage has a lot of grammatical errors and typos, which is not typical of Coinbase.
+ - The webpage is hosted on a free hosting platform, which is not typical of Coinbase.
+
+
+a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
+ 1. Target brand: bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage has a fake padlock icon in the address bar, indicating that the connection is not secure.
+ - The webpage's URL is not the same as the official bet365 website.
+ - The webpage's design is different from the official bet365 website.
+ - The webpage's text contains grammatical errors and typos.
+ - The webpage's call-to-action button says "立即加入", which is not a common phrase used by bet365.
+
+
+a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
+ 1. Target brand: SurveySparrow
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage screenshot contains the SurveySparrow logo and branding, which is consistent with the legitimate SurveySparrow website. The screenshot also contains a link to the legitimate SurveySparrow website. The webpage screenshot does not contain any fields that ask for user credentials, such as a username or password. The webpage screenshot does not contain any call-to-action buttons or links that would indicate that it is a phishing webpage.
+
+
+aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Microsoft's branding and follows its design guidelines.
+ - The webpage's content is relevant to Microsoft's products and services.
+ - The webpage's links are all to Microsoft's official websites.
+ - There are no suspicious elements on the webpage, such as typos, grammatical errors, or unusual requests for personal information.
+
+
+b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
+ 1. Target brand: Gemini
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Twoje imię 
+ - Twoje nazwisko 
+ - Twój adres e-mail
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate Gemini webpage, but there are some discrepancies, such as the missing of the lock icon in the address bar and the different font used in the text.
+ - The webpage is hosted on a free hosting service, which is often used by phishing websites.
+ - The webpage asks for personal information, such as name, email address, and phone number, which is not necessary for creating a Gemini account.
+ - The webpage uses a sense of urgency by displaying a limited-time offer and a countdown timer.
+ - The webpage's URL is different from the legitimate Gemini webpage.
+
+
+c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
+ 1. Target brand: JEK-MINER
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+ - Phone Number
+ - 2FA Code
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is asking for user credentials, such as email, password, phone number, and 2FA code.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage's design is not consistent with the legitimate JEK-MINER webpage.
+ - The webpage's content is not consistent with the legitimate JEK-MINER webpage.
+ - The webpage's domain name is not the same as the legitimate JEK-MINER webpage.
+
+
+f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
+ 1. Target brand: BBVA
+2. Has credentials/call-to-action: Yes
+3. List of fields: NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate BBVA website, but there are subtle differences in the logo and the overall layout.
+ - The webpage is asking for sensitive user information, such as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono.
+ - The webpage has a fake button labeled "Iniciar sesión" that may be used to steal user credentials.
+ - The webpage has a link to a page to create a new user account, which is not a common feature on legitimate login pages.
+
+

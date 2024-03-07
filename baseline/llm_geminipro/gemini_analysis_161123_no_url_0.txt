@@ -1,0 +1,166 @@
+0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email, phone, or Skype
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of the Microsoft logo and branding is consistent with the legitimate Microsoft login page.
+ - The page is hosted on "login.live.com", which is a legitimate Microsoft domain.
+ - The page has a valid SSL certificate issued by DigiCert.
+ - The page uses a secure HTTPS connection.
+ - The page requests the user's email address or phone number, which is consistent with the legitimate Microsoft login page.
+ - The page has a "Next" button that is consistent with the legitimate Microsoft login page.
+ - The page has a link to "Can't access your account?", which is consistent with the legitimate Microsoft login page.
+ - The page has links to "Terms & Conditions", "Cookie Privacy", and "Privacy", which are consistent with the legitimate Microsoft login page.
+
+
+29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d
+ 1. Target brand: Shaw Communications
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Shaw ID
+    - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate Shaw Communications website, but there are subtle differences, such as the font and the color of the buttons.
+ - The webpage is hosted on a free hosting service, which is not typical for a legitimate business.
+ - The webpage asks for personal information, such as your Shaw ID and password.
+ - There is no lock icon in the address bar, which indicates that the webpage is not secure.
+
+
+2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone number
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a legitimate Google logo and branding.
+ - The page URL contains "google.com", which is the authentic domain for Google.
+ - The page has a valid SSL certificate, indicated by the lock icon in the address bar.
+ - The page has a legitimate "Forgot email?" link.
+ - The page has a legitimate "Create account" button.
+ - The page has a legitimate "Next" button.
+ - The page has a legitimate "English (United States)" option.
+ - The page has a legitimate "Help" link.
+ - The page has a legitimate "Privacy" link.
+ - The page has a legitimate "Terms" link.
+
+
+38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email address or phone number
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's design closely resembles Facebook's login page, but there are subtle differences in the logo and the overall layout.
+ - The text on the page contains grammatical errors and inconsistencies, which is not typical of Facebook's official communications.
+ - The page's URL is not the official Facebook login page URL.
+ - The page requests users to enter their email address or phone number and password, which is not necessary to access their Facebook account.
+
+
+3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone number
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage screenshot matches the legitimate Google sign-in page. 
+ - The URL is secure, starting with "https://". 
+ - The page has the correct branding and design elements of Google. 
+ - The fields requesting user credentials are consistent with Google's sign-in process. 
+ - The "Forgot email?" and "Create account" links are consistent with Google's legitimate sign-in page.
+ - The presence of the language selection and help/privacy/terms links at the bottom of the page is consistent with Google's practices.
+
+
+3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae
+ 1. Target brand: DocuSign
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake DocuSign branding.
+ - The webpage has a fake DocuSign login form.
+ - The webpage has a fake DocuSign copyright text.
+
+
+50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage screenshot has the Microsoft logo and branding, which is consistent with the legitimate Microsoft login page.
+ - The URL bar shows "account.microsoft.com", which is the legitimate domain for Microsoft account login.
+ - The page has a valid SSL certificate, indicated by the green lock icon in the address bar.
+ - The page has a call-to-action button that says "Sign in", which is consistent with the legitimate Microsoft login page.
+ - The page has a link that says "Use another account", which is consistent with the legitimate Microsoft login page.
+ - The overall design and layout of the page is consistent with the legitimate Microsoft login page.
+
+
+596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3
+ 1. Target brand: d アカウント
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - dアカウントID
+ - パスワード
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a legitimate d アカウント login page design.
+ - The webpage URL is legitimate.
+ - The webpage has a valid SSL certificate.
+ - The webpage has a legitimate copyright notice.
+ - The webpage has a legitimate privacy policy.
+ - The webpage has a legitimate terms of use.
+ - The webpage has a legitimate contact us page.
+
+
+61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    * Email, phone, or Skype
+    * Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Microsoft logo, which is a registered trademark of Microsoft Corporation. 
+ - The webpage is designed to look like a Microsoft login page, with a similar layout and color scheme. 
+ - The webpage has a field that asks for the user's email address, phone number, or Skype ID, as well as a field that asks for the user's password. 
+ - The webpage has a "Next" button that the user can click to submit their credentials. 
+ - The webpage does not have a lock icon in the address bar, which indicates that the connection is not secure. 
+ - The webpage address is not a Microsoft domain.
+
+
+a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa
+ 1. Target brand: TV Licensing
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+  - Residential Address
+  - Billing Data
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate, indicated by the green padlock icon in the address bar.
+ - The webpage's URL begins with "https://", which indicates that it is using a secure connection.
+ - The webpage's design is consistent with the official TV Licensing website.
+ - The webpage's text content is well-written and free of grammatical errors.
+ - The webpage's call-to-action button is clear and concise, and it does not request any personal information.
+
+
