@@ -1,0 +1,55 @@
+2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
+ 1. Target brand: Instagram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username 
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL is not the official Instagram website.
+ - The webpage's design is different from the official Instagram app and website.
+ - The webpage has a fake "Login" button.
+ - The webpage asks for the user's Instagram username and password.
+ - The webpage is hosted on a free web hosting service.
+ - The webpage's content is in Indonesian.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: The webpage screenshot displays the Telegram messaging app's official website. The visual elements, such as the logo, color scheme, and overall design, are consistent with the legitimate Telegram website. The content and branding are also aligned with Telegram's official communications. There are no suspicious fields or call-to-action buttons requesting user credentials.
+
+
+4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb
+ 1. Target brand: Garena Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password, Birthday, Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage is hosted on a free hosting service, which is often used by phishing websites.
+ - The webpage's URL does not match the official Garena Free Fire website.
+ - The webpage's design is different from the official Garena Free Fire website.
+ - The webpage asks for personal information, such as your username, password, birthday, and address, which is not necessary to log in to your Garena Free Fire account.
+ - The webpage has a fake "Like" button that does not link to the official Garena Free Fire Facebook page.
+ - The webpage has a fake "Login" button that does not link to the official Garena Free Fire website.
+
+
+6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "telegraimu.com", which is different from the official Telegram website "telegram.org".
+ - The webpage's design and layout are different from the official Telegram website.
+ - The webpage's content is in Chinese, while the official Telegram website is available in multiple languages.
+ - There are no fields on the webpage that ask for user credentials.
+ - There are no call-to-action buttons or links on the webpage.
+
+

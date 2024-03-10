@@ -1,0 +1,251 @@
+00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
+ 1. Target brand: Societe Generale
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Code client
+ - Se souvenir de moi
+ - Valider
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage is hosted on the official domain of Societe Generale.
+ - The design of the webpage is consistent with the official website of Societe Generale.
+ - The webpage uses the correct branding and logos of Societe Generale.
+ - The webpage has a valid security policy in place.
+ - The webpage has a valid privacy policy in place.
+ - The webpage has a valid terms and conditions policy in place.
+
+
+00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
+ 1. Target brand: Correos
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not the official Correos website.
+ - The logo is slightly different from the official Correos logo.
+ - The text on the page is in Spanish, but the Correos website is available in multiple languages.
+ - There is a field asking for the user's email address.
+ - There is a button that says "Continuar" (Continue).
+ - The page looks like a phishing page.
+
+
+00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email, phone, or Skype
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a clean and professional design, with a layout that is consistent with Microsoft's official website.
+ - The logo, typography, and color scheme are all consistent with Microsoft's branding.
+ - The page includes a link to Microsoft's privacy statement and terms of use.
+ - The page uses a secure HTTPS connection.
+
+
+00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
+ 1. Target brand: MetaMask
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is trying to imitate the MetaMask login page, but there are several discrepancies. 
+ - The logo is slightly different from the official MetaMask logo.
+ - The background color is different from the official MetaMask login page.
+ - The font used is different from the official MetaMask login page.
+ - There is a field asking for the user's email address, which is not required on the official MetaMask login page.
+ - There is a field asking for the user's password, which is not required on the official MetaMask login page.
+ - The "Join Group" button is not a standard button and is not something that would be expected on the official MetaMask login page.
+ - The text on the page is not grammatically correct and contains several spelling errors.
+ - The URL of the webpage is not the official MetaMask website.
+
+
+03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
+ 1. Target brand: 12 Volt Does It
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a privacy policy.
+ - The webpage has a terms of service.
+ - The webpage has a contact us page.
+ - The webpage has a social media presence.
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid DMCA notice.
+ - The webpage has a valid BBB rating.
+
+
+05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email address or phone number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by DigiCert SHA2 Secure Server CA.
+ - The webpage's URL begins with "https://", indicating that it is using a secure connection.
+ - The webpage's design is consistent with Microsoft's branding and follows the company's design guidelines.
+ - The webpage's content is written in clear and concise language, and there are no spelling or grammatical errors.
+ - The webpage's links all appear to be legitimate, and they all open in new tabs.
+ - The webpage does not request any personal information, such as passwords or credit card numbers.
+
+
+0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
+ 1. Target brand: PUBG Mobile
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Email
+- Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+- The webpage has a valid SSL certificate.
+- The webpage's URL is pubgmobile.com, which is the official website of PUBG Mobile.
+- The webpage's design is consistent with the official PUBG Mobile website.
+- The webpage's content is consistent with the official PUBG Mobile website.
+- The webpage does not ask for any personal information other than the user's email address and password.
+
+
+0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Username
+    - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL contains 'google'
+ - The logo is consistent with Google's branding
+ - The 'Continue to Drive' button is consistent with Google's branding
+ - The 'Create an account' button is consistent with Google's branding
+ - The 'Forgot password' link is consistent with Google's branding
+ - The 'Stay signed in' checkbox is consistent with Google's branding
+ - The 'Change language' option is consistent with Google's branding
+ - The 'Privacy & Terms' link is consistent with Google's branding
+ - The 'Help' link is consistent with Google's branding
+
+
+589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
+ 1. Target brand: Sakura
+2. Has credentials/call-to-action: Yes
+3. List of fields: Phone number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The presence of a profile picture, group members, and a group
+
+
+76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Apple ID
+- Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+- The URL is appleid.apple.com, which is a legitimate Apple website.
+- The page has a valid SSL certificate.
+- The page uses HTTPS, which is a secure protocol.
+- The page looks identical to the real Apple ID sign-in page.
+- There are no suspicious links or buttons on the page.
+
+
+8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Country
+ - Phone number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a professional design and layout.
+ - The logo and branding are consistent with the official Telegram website.
+ - The page uses a secure HTTPS connection.
+ - The page has a valid SSL certificate.
+ - The page is hosted on a reputable server.
+ - The page does not ask for any personal information, such as passwords or credit card numbers.
+
+
+d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
+ 1. Target brand: Sheng Ho Jyun
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by COMODO CA Limited.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS to encrypt data.
+ - The webpage does not ask for any personal information.
+ - The webpage does not have any suspicious links.
+ - The webpage does not contain any malicious content.
+
+
+decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
+ 1. Target brand: Desjardins
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's URL is legitimate and belongs to Desjardins.
+ - The webpage's design is consistent with Desjardins's branding and uses high-quality images and graphics.
+ - The webpage's text content is well-written and free of grammatical errors.
+ - The webpage's functionality is consistent with Desjardins's other webpages.
+ - The webpage does not request any sensitive information, such as credit card numbers or social security numbers.
+
+
+f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
+ 1. Target brand: Arvest Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Apply Now button
+ - Get in touch button
+ - Request Call Back button
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN) to improve performance and security.
+ - The webpage has a valid security policy.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid social media presence.
+ - The webpage has a valid customer support phone number.
+ - The webpage has a valid customer support email address.
+
+
+f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
+ 1. Target brand: Heineken
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The website is not hosted on Heineken's official domain.
+ - The website's design and layout are not consistent with Heineken's official website.
+ - The website's content is not consistent with Heineken's official website.
+ - The website's URL is suspicious.
+ - The website's security certificate is not valid.
+
+

@@ -1,0 +1,147 @@
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "tbxjly.com", which is not a legitimate Telegram domain.
+ - The webpage's design and layout are different from the official Telegram website.
+ - The webpage's text content is in Chinese, which is not the primary language used by Telegram.
+ - There are no fields on the webpage that ask for user credentials.
+ - There are no call-to-action buttons or links on the webpage.
+ - The webpage does not contain any other indicators of phishing.
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+ 1. Target brand: Libero
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+     - Phone number
+     - Email address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate Libero login page, but there are some discrepancies, such as the missing padlock icon in the address bar and the different font used for the text.
+ - The webpage is hosted on a free hosting service, which is often used by phishing websites.
+ - The webpage asks for the user's phone number and email address, which is not necessary for logging in to a Libero account.
+ - The webpage has a call-to-action button that says "Salva", which is not a common term used on legitimate Libero webpages.
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+ 1. Target brand: Videotron
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free web hosting service.
+ - The webpage is poorly designed and contains several grammatical errors.
+ - The webpage uses a generic "Contact Us" form that is not specific to Videotron.
+ - The webpage requests personal information, such as your email address and password, that is not necessary to sign in to your Videotron account.
+ - The webpage uses a fake padlock icon to trick you into thinking that the connection is secure.
+ - The webpage's URL does not match the official Videotron website.
+
+
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+ 1. Target brand: Trust Wallet
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not the official website of Trust Wallet.
+ - The URL contains the word "masdubai" which is not associated with Trust Wallet.
+ - The logo is slightly different from the official Trust Wallet logo.
+ - The overall design of the webpage is different from the official Trust Wallet webpage.
+ - There is a field asking for the user's email and password.
+ - The webpage is trying to trick the user into giving away their credentials by using a fake login page.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: The webpage screenshot is of the official Telegram website. The URL is legitimate and the design is consistent with the official website. The content is also consistent with the official website. There are no fields asking for user credentials.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a simple design with a white background and a blue login button, which is a common design for phishing webpages.
+ - The webpage's URL is not a secure URL and does not match the target brand's legitimate website.
+ - The webpage asks for the user's username and password, which is a common tactic used by phishing webpages.
+ - The webpage has a fake copyright notice at the bottom of the page.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+ 1. Target brand: Coinbase
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is not the official Coinbase website.
+ - Coinbase does not have a mobile app called Coinbase Wallet.
+ - The webpage has a typo in the word "wallet" in the title.
+ - The webpage is poorly designed and has a lot of grammatical errors.
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email address
+   - Email password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake Microsoft login form.
+ - The webpage is hosted on a free hosting service.
+ - The webpage's design is not consistent with Microsoft's branding.
+ - The webpage's text contains grammatical errors.
+ - The webpage's URL is not a Microsoft domain.
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+ 1. Target brand: Bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate Bet365 webpage, but there are some discrepancies, such as the missing "s" in the "https" protocol in the address bar.
+ - The webpage's URL is different from the legitimate Bet365 webpage.
+ - The webpage asks for the user's credentials, which is not necessary for a legitimate webpage.
+ - The webpage has a lot of pop-ups and advertisements, which is not typical of a legitimate webpage.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+ 1. Target brand: Bank of Ireland
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - User ID
+ - Date of birth
+ - Phone number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting service, which is often used by phishing websites.
+ - The webpage's design is not consistent with the Bank of Ireland's branding.
+ - The webpage's URL is not the same as the Bank of Ireland's official website.
+ - The webpage asks for sensitive information, such as the user's date of birth and phone number, which is not necessary to log in to a bank account.
+ - The webpage has a fake "Security concerns" link at the bottom of the page, which is not present on the Bank of Ireland's official website.
+
+

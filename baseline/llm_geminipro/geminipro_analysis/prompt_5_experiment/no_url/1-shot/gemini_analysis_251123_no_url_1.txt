@@ -1,0 +1,174 @@
+0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27
+ 1. Target brand: Microsoft OneDrive
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+   - Email
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+   - The presence of fields asking for user credentials, such as email and password, is a strong indicator of phishing.
+   - The overall design of the webpage is not consistent with the official Microsoft OneDrive login page.
+   - The URL of the webpage is not the official Microsoft OneDrive login page URL.
+   - The webpage uses a generic Microsoft logo instead of the official OneDrive logo.
+   - The text on the webpage contains grammatical errors and inconsistencies.
+
+
+3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by DigiCert SHA2 Secure Server CA.
+ - The webpage is hosted on Microsoft's official domain, microsoft.com.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid favicon that matches Microsoft's branding.
+ - The webpage has a consistent design and layout that matches Microsoft's official website.
+ - The webpage uses high-quality images and graphics that are consistent with Microsoft's branding.
+ - The webpage has a clear and concise privacy policy that is consistent with Microsoft's official privacy policy.
+ - The webpage has a clear and concise terms of service that is consistent with Microsoft's official terms of service.
+ - The webpage has a valid copyright notice that is consistent with Microsoft's official copyright notice.
+
+
+605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The webpage is hosted on a free hosting platform.
+   - The webpage design is not consistent with DHL's official website.
+   - The webpage uses a generic DHL logo.
+   - The webpage uses a generic font.
+   - The webpage uses a generic layout.
+   - The webpage uses generic text.
+   - The webpage uses generic images.
+   - The webpage uses generic links.
+   - The webpage uses generic buttons.
+   - The webpage uses generic colors.
+
+
+8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918
+ 1. Target brand: Adobe
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL contains "adobe.com", which is the official domain for Adobe.
+ - The page has a valid SSL certificate issued by a trusted certificate authority.
+ - The page uses a secure HTTPS connection.
+ - The page has a valid security policy.
+ - The page has a valid Content-Security-Policy.
+ - The page does not contain any suspicious or malicious content.
+ - The page does not contain any hidden fields or links.
+
+
+acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with Netflix's official website.
+ - The webpage's content is consistent with Netflix's official website.
+ - The webpage's branding is consistent with Netflix's official branding.
+ - The webpage's call-to-action is consistent with Netflix's official website.
+
+
+ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
+ 1. Target brand: Baidu 
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username/Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL in the address bar is not the official Baidu website.
+ - The logo is slightly different from the official Baidu logo.
+ - The text on the page is in Chinese, but the official Baidu website is in English.
+ - There is a field asking for the user's phone number, which is not required on the official Baidu login page.
+
+
+cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
+ 1. Target brand: Garena Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: Full name, Date of birth, Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage's design is not consistent with Garena Free Fire's official website.
+ - The webpage's URL is not the same as Garena Free Fire's official website.
+ - The webpage asks for personal information, such as full name, date of birth, and address, which is not necessary to log in to Garena Free Fire.
+ - The webpage has a green lock icon, which indicates that the connection is secure, but this can be easily faked by phishing websites.
+ - The webpage has a lot of pop-ups and advertisements, which is often a sign of a phishing website.
+
+
+cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email or phone number
+  - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL in the address bar is not the official Netflix website.
+ - The webpage's design is different from the official Netflix website.
+ - The webpage is hosted on a free web hosting service.
+ - The webpage uses a fake "Contact Us" page.
+ - The webpage uses a fake "Help Center" page.
+ - The webpage uses a fake "Sign In" page.
+
+
+daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a padlock icon in the address bar.
+ - The webpage's URL begins with "https://".
+ - The webpage's design is consistent with Netflix's branding.
+ - The webpage's content is consistent with Netflix's offerings.
+ - The webpage does not ask for any personal information other than the email address.
+ - The webpage does not have any suspicious links or buttons.
+
+
+db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
+ 1. Target brand: Dynamic Home Buyers
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Full Name
+ - Street Address
+ - City
+ - State
+ - Zip Code
+ - Phone Number
+ - Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage has a privacy policy and terms of service.
+ - The webpage has a contact form.
+ - The webpage has social media links.
+ - The webpage has a physical address.
+ - The webpage has a phone number.
+ - The webpage has a valid email address.
+ - The webpage has a copyright notice.
+
+

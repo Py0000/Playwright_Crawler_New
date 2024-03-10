@@ -1,0 +1,1969 @@
+027b0515f6e54d15c18ff10cd71b58093dd465e9c26b16b045269f6260bb9555
+ 1. Target brand: Macy's
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is legitimate and belongs to Macy's.
+ - The webpage's design is consistent with Macy's branding.
+ - The webpage's content is consistent with Macy's offerings.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+027b9d033853d78891badf8301290214a45aa8b0658b6eb41c3976cec66d5aef
+ 1. Target brand: Instagram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number, username, or email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage screenshot is visually consistent with the legitimate Instagram login page, featuring the correct branding, logos, and design elements.
+ - The page's URL contains "instagram.com," indicating it belongs to the official Instagram domain.
+ - The presence of the "Log in with Facebook" button is a legitimate option provided by Instagram.
+ - The "Forgot password?" link is a standard feature on Instagram's login page.
+ - The "Don't have an account? Sign up" link is a legitimate option provided by Instagram.
+ - The "Get the app" section with links to the Google Play Store and Microsoft Store is a legitimate way for users to download the official Instagram app.
+ - The presence of the "Meta" copyright notice at the bottom of the page is consistent with Instagram's branding.
+
+
+0a0cc81465488c9bec31a6344e1cbfa15781f560dfb582c0eab1526b38b49cfe
+ 1. Target brand: Squarespace
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a valid Squarespace branding and trademark.
+ - The webpage design is consistent with Squarespace's official website.
+ - The webpage content is consistent with Squarespace's official website.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+0a998f28705f83a64e437b9f34d98aa458c369794348e1e65cb63f4ec942c8cc
+ 1. Target brand: Wired
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage's URL contains "www.wired.com", which is the legitimate domain for Wired.
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage's design is consistent with Wired's branding and uses the same fonts, colors, and layout as the legitimate Wired website.
+ - The webpage's content is consistent with Wired's typical content and includes articles, videos, and podcasts about technology, science, and culture.
+ - There are no obvious signs of phishing, such as typos or grammatical errors, or requests for personal information.
+
+
+0aa4d85ddff9ba77ed5c1aaa395e2b17fbbbf7ac40edf1affe87958aa6f510ea
+ 1. Target brand: mmcdn.com
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage screenshot does not contain any logos, trademarks, or branding elements that would indicate a known brand. 
+ - There are no fields on the webpage that ask for user credentials, such as a username and password. 
+ - There are no call-to-action buttons or links that would typically be used to trick users into providing their personal information. 
+ - The text content on the webpage is brief and does not provide any information that would indicate a phishing attempt. 
+ - The overall design of the webpage is simple and does not contain any visual elements that would indicate a phishing attempt.
+
+
+0af04050be93c6ef94197459f84480e7498f207aefca46a18a6190038fda163c
+ 1. Target brand: Massachusetts Institute of Technology
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL contains "mit.edu", which is the official domain for the Massachusetts Institute of Technology.
+ - The webpage has a valid SSL certificate, which indicates that the connection is secure.
+ - The webpage's design is consistent with the official MIT website.
+ - The webpage's content is relevant to MIT and does not contain any suspicious or malicious links.
+
+
+0baf24431fd8706f217ec8be79d7092c27381a3252a67bd1decd4309363c8da0
+ 1. Target brand: Walmart
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with the Walmart brand.
+ - The webpage's content is consistent with the Walmart brand.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+0bc321f676c216e455060a386a543ab8a8a5d1da9c961af2c82cd1447fce5aec
+ 1. Target brand: Huawei
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Huawei's official website.
+ - The webpage's content is related to Huawei's products and services.
+ - The webpage's URL is "www.huawei.com", which is Huawei's official website.
+ - The webpage has a valid SSL certificate.
+ - There are no suspicious elements on the webpage, such as phishing forms or malicious links.
+
+
+0c23f3ffe6e69f0ede42328d3c41fb1fbabaecaa1c8e0fc9675bf9aab240f714
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: The screenshot is of the Telegram website, which is a legitimate website. The website has a valid SSL certificate. The website's design is consistent with the official Telegram website. The text on the website is clear and concise, and there are no spelling or grammar errors. There are no fields on the website asking for user credentials. There are no call-to-action buttons or links on the website.
+
+
+0c3526db59e9e32e1dcbe2784f234e840f9aeba9465c34382dd46adcf4a99aff
+ 1. Target brand: Pinterest
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The presence of the Pinterest logo and branding elements indicates that this is a legitimate Pinterest webpage.
+ - The URL is not suspicious and matches the Pinterest domain.
+ - There are no fields asking for user credentials or any suspicious call-to-action buttons.
+ - The overall design and content of the webpage are consistent with the legitimate Pinterest website.
+
+
+21cd0e3f2208609434961333802455dea3e0825de4ede99fd3e6efef48586d5e
+ 1. Target brand: Mailchimp
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The screenshot is a text-only page with no visible design elements or branding, except for the Mailchimp logo at the bottom. 
+ - There are no fields asking for user credentials or any call-to-action buttons or links. 
+ - The text content is a generic message explaining that the page was found because the user clicked a link in an email from Mailchimp. 
+ - There are no indicators of phishing, such as typos, grammatical errors, or suspicious language.
+
+
+25d28491f2c5b0c18e71b8e813204e63fdcdaabb9d5d1224aa48a237c5f92ae9
+ 1. Target brand: Notamedia
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Name
+ - Phone number
+ - Email
+ - Company
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage has a fake "security certificate" that is not issued by a legitimate authority.
+ - The webpage's design is a very close copy of the legitimate Notamedia webpage, but there are some subtle differences, such as the font and the colors.
+ - The webpage's text contains some grammatical errors and typos.
+ - The webpage's URL is not the same as the legitimate Notamedia webpage.
+ - The webpage's IP address is not the same as the legitimate Notamedia webpage.
+
+
+27a1b198f5ea292af2c3cbfc60a777aaa6797f291b7b290e39682e7a886a508a
+ 1. Target brand: Aniview
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a padlock icon in the address bar.
+ - The webpage has a professional design.
+ - The webpage has a clear and concise privacy policy.
+ - The webpage has a contact us page.
+ - The webpage has a social media presence.
+ - The webpage is not hosted on a free hosting platform.
+ - The webpage does not contain any malicious content.
+
+
+27e641e40acbf280742f3c04c43832add1ef211208dc62e9d853d27a43455e0c
+ 1. Target brand: TikTok
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number or email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a padlock icon in the address bar.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid social media presence.
+ - The webpage has a valid customer support contact.
+
+
+28a364f1d96cdfb02ed9992acdd4e9998fae7ee2de90ad65821afa31f19644f0
+ 1. Target brand: Verisign
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design and branding are consistent with Verisign's official website.
+ - The content on the webpage is relevant to Verisign's business and services.
+ - The webpage's URL is legitimate and secure.
+ - There are no suspicious or malicious elements on the webpage.
+
+
+28aad77e478db531d0c688b7dd2c614fa294f204483549395cfc4fc7391dee6d
+ 1. Target brand: Kahoot
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Game PIN
+ - Enter
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The screenshot matches the legitimate Kahoot login page.
+ - The URL is kahoot.com, which is the official website of Kahoot.
+ - The design of the screenshot is consistent with the official Kahoot branding.
+ - There are no suspicious elements or indicators of phishing.
+
+
+2e632449c86b62baabae418bc1fcf9834aade869ff7fe36e9a006eb6a3ae1ace
+ 1. Target brand: Bol.com
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage screenshot is a login page for Bol.com, which is a legitimate e-commerce website.
+ - The URL in the screenshot is "www.bol.com", which is the correct URL for Bol.com.
+ - The design of the webpage screenshot is consistent with the design of the legitimate Bol.com website.
+ - The text content on the webpage screenshot is consistent with the text content on the legitimate Bol.com website.
+ - There are no obvious signs of phishing, such as typos or grammatical errors, on the webpage screenshot.
+
+
+2fd5bfdaf0bc4a543a577ff9439c69d77d15f4e64e123154dbd61a915314aa9b
+ 1. Target brand: Microsoft Clarity
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage design is consistent with Microsoft's branding and follows its design guidelines.
+ - The webpage uses a secure HTTPS connection, as indicated by the lock icon in the address bar.
+ - The webpage's content is relevant to Microsoft Clarity and appears to be legitimate.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information or credentials.
+
+
+3a0061dea6f6d841a43048da356bb8aa66e502570cd48bf2fef94a7aa7b2ac59
+ 1. Target brand: Robinhood
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage screenshot is visually consistent with the legitimate Robinhood website, featuring its branding, color scheme, and overall design.
+ - The URL in the screenshot is "robinhood.com", which is the official domain for Robinhood.
+ - The webpage screenshot is consistent with Robinhood's branding and offerings, such as investment and trading options.
+ - The call-to-action button in the screenshot is "Get Started", which is a common and legitimate call-to-action used by Robinhood.
+
+
+3a97778dcbcdea38a40e71c2f16d9541dc36a5c7776f0ee23b4cbab69188a119
+ 1. Target brand: DreamHost
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has DreamHost's logo and branding.
+ - The webpage has a DreamHost's copyright in the footer.
+ - The webpage has links to DreamHost's social media pages.
+ - The webpage has links to DreamHost's other web pages.
+ - The webpage has a consistent design with DreamHost's other web pages.
+ - The webpage has a professional look and feel.
+ - The webpage has a lot of positive reviews from customers.
+
+
+3abec3f947d59ab447abe0c1eef80f21e890b18ec58c29dcc203553a75cc7382
+ 1. Target brand: Zementa
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage has a valid security seal from Norton.
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid social media presence.
+ - The webpage has a valid customer support phone number.
+ - The webpage has a valid customer support email address.
+ - The webpage has a valid customer support live chat.
+
+
+3ac79f42c3330b7e673e953b1f79d3abaa1918ee9fbc783899d4bff2cd171d6e
+ 1. Target brand: LiveChat
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Name
+ - Email
+ - Phone Number
+ - Company
+ - Website
+ - Message
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a valid domain name.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a privacy policy.
+ - The webpage has a terms of service.
+ - The webpage has a contact us page.
+ - The webpage has a social media presence.
+ - The webpage has a blog.
+ - The webpage has a help center.
+
+
+3bd0cc327ed11deea2f23ad808986dc698fc7452a25c8bf6803baeff6ec93443
+ 1. Target brand: Wired
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is wired.com, which is the legitimate website of Wired magazine.
+ - The webpage's design is consistent with the legitimate Wired website.
+ - The webpage's content is consistent with the legitimate Wired website.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+3c3adaf0c4dcc2028ef03429bd6b61599a53810dbe321bdb1330e4f50a01b670
+ 1. Target brand: DataDog
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+   - The webpage has a valid SSL certificate.
+   - The webpage has a lock icon in the address bar.
+   - The webpage is hosted on a secure server.
+   - The webpage uses HTTPS.
+   - The webpage has a privacy policy.
+   - The webpage has a terms of service.
+   - The webpage has a contact us page.
+   - The webpage has a social media presence.
+   - The webpage has a blog.
+   - The webpage has a help center.
+   - The webpage has a knowledge base.
+   - The webpage has a community forum.
+   - The webpage has a YouTube channel.
+   - The webpage has a Twitter account.
+   - The webpage has a Facebook page.
+   - The webpage has a LinkedIn page.
+   - The webpage has a Google+ page.
+   - The webpage has a Pinterest page.
+   - The webpage has an Instagram page.
+   - The webpage has a Flickr page.
+   - The webpage has a Vimeo page.
+   - The webpage has a Dailymotion page.
+   - The webpage has a Tumblr page.
+   - The webpage has a Reddit page.
+   - The webpage has a StumbleUpon page.
+   - The webpage has a Digg page.
+   - The webpage has a Delicious page.
+   - The webpage has a Bloglovin page.
+   - The webpage has a Feedly page.
+   - The webpage has a Flipboard page.
+   - The webpage has a Pocket page.
+   - The webpage has a Instapaper page.
+   - The webpage has a Readability page.
+   - The webpage has a Pocket page.
+   - The webpage has a Buffer page.
+   - The webpage has a Hootsuite page.
+   - The webpage has a Sprout Social page.
+   - The webpage has a SocialOomph page.
+   - The webpage has a Sendible page.
+   - The webpage has a AgoraPulse page.
+   - The webpage has a MavSocial page.
+   - The webpage has a Zoho Social page.
+   - The webpage has a MeetEdgar page.
+   - The webpage has a Tailwind page.
+   - The webpage has a Crowdfire page.
+   - The webpage has a Buffer page.
+   - The webpage has a Hootsuite page.
+   - The webpage has a Sprout Social page.
+   - The webpage has a SocialOomph page.
+   - The webpage has a Sendible page.
+   - The webpage has a AgoraPulse page.
+   - The webpage has a MavSocial page.
+   - The webpage has a Zoho Social page.
+   - The webpage has a MeetEdgar page.
+   - The webpage has a Tailwind page.
+   - The webpage has a Crowdfire page.
+
+
+3c45e0b6b33464fdca7e731a992b4289b5c9ae0811205faaae3ef22d908c6876
+ 1. Target brand: AI Law & Order
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a professional design and layout.
+ - The webpage uses high-quality images and graphics.
+ - The webpage has a clear and concise privacy policy.
+ - The webpage has a legitimate "About Us" page.
+ - The webpage has a legitimate "Contact Us" page.
+ - The webpage is hosted on a secure server.
+
+
+3c68e453c99443ea5ee0ebed4d7e17c54a2c7d82ce0152a2dcf32c60eb5429d8
+ 1. Target brand: Adobe
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1/10
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with Adobe's branding and uses high-quality images.
+ - The webpage's content is well-written and free of grammatical errors.
+ - The webpage's links all go to legitimate Adobe webpages.
+ - The webpage does not ask for any personal information, such as credit card numbers or Social Security numbers.
+
+
+6a059ba9457b65760edb83389bf56b2505252bb78d26ee25550c968d8a90b852
+ 1. Target brand: Wildberries
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL in the screenshot is not the official Wildberries website.
+ - The overall design of the webpage is different from the official Wildberries website.
+ - The webpage has a lot of pop-ups and advertisements.
+ - The webpage asks for personal information, such as email address and password.
+ - The webpage has a lot of spelling and grammatical errors.
+
+
+6a41bbddd5b74e0c5436bd3944b4888d2ed376041b9da527ff84b855537db015
+ 1. Target brand: Synology
+2. Has credentials/call-to-action: Yes
+3. List of fields: QuickConnect ID
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage screenshot has the Synology logo and trademark, which indicates that the webpage is related to Synology.
+ - The webpage screenshot has a field that asks for the user's QuickConnect ID, which is a feature of Synology's products.
+ - The webpage screenshot has a "Connect" button, which suggests that the user will be able to access their Synology NAS after entering their QuickConnect ID.
+ - The webpage screenshot has a link to Synology's website, which indicates that the webpage is legitimate.
+
+
+6acd18531954697d2584030a0496016e3f19b2de61e642be2e8f3126545f1c70
+ 1. Target brand: Slack
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+     - Email Address
+     - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate and is hosted on Slack's official domain.
+ - The webpage design is consistent with Slack's official branding and follows the same design patterns as the legitimate Slack webpage.
+ - The webpage content is consistent with Slack's official branding and messaging.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or passwords.
+
+
+6b982acd6d94c3debe39bc2a8696c051b5221853d295d483c555c92992c817e5
+ 1. Target brand: Patreon
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The screenshot is a Cloudflare error page.
+ - The error code is 522, which means "Connection timed out."
+ - The error message says that the connection between Cloudflare's network and the origin web server timed out.
+ - There is no evidence of phishing on the screenshot.
+
+
+6c075c66a3b88d6a20cef0f704c45136de70e78648291fd0b96b18ab89ed6314
+ 1. Target brand: GNU
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL contains "gnu.org", which is the official website of the GNU Project.
+ - The webpage has a valid SSL certificate issued by Let's Encrypt, which is a trusted certificate authority.
+ - The webpage's design is consistent with the official GNU website.
+ - The webpage's content is consistent with the GNU Project's mission and goals.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+6d791945151cded06b3a0651b54e7bf9f2c436abd29b7f8e2d1744bdad44c1d4
+ 1. Target brand: MTS
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Email address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is not hosted on the official MTS domain.
+ - The webpage's design and layout are different from the official MTS website.
+ - The webpage's text contains grammatical errors and typos.
+ - The webpage's call-to-action button says "Принять" instead of "Войти" (which is the Russian word for "Login").
+ - The webpage's URL contains a suspicious string of characters.
+
+
+6e01c69a71fd6cefd02c8d2a71c383150e4512917654c7d249ea4a0c80a13387
+ 1. Target brand: Firebase
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+     - Email address
+     - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a valid Google Analytics code.
+ - The webpage has a valid Google Tag Manager code.
+ - The webpage has a valid Facebook Pixel code.
+ - The webpage has a valid Twitter Pixel code.
+ - The webpage has a valid LinkedIn Pixel code.
+ - The webpage has a valid Pinterest Pixel code.
+ - The webpage has a valid Snapchat Pixel code.
+ - The webpage has a valid TikTok Pixel code.
+ - The webpage has a valid Reddit Pixel code.
+ - The webpage has a valid Quora Pixel code.
+ - The webpage has a valid Microsoft Clarity code.
+ - The webpage has a valid Hotjar code.
+ - The webpage has a valid Crazy Egg code.
+ - The webpage has a valid Mouseflow code.
+ - The webpage has a valid FullStory code.
+ - The webpage has a valid Inspectlet code.
+ - The webpage has a valid Smartlook code.
+ - The webpage has a valid Clicktale code.
+ - The webpage has a valid SessionCam code.
+ - The webpage has a valid Lucky Orange code.
+ - The webpage has a valid Hotspots code.
+ - The webpage has a valid Pendo code.
+ - The webpage has a valid WalkMe code.
+ - The webpage has a valid Appcues code.
+ - The webpage has a valid Intercom code.
+ - The webpage has a valid Drift code.
+ - The webpage has a valid Olark code.
+ - The webpage has a valid Zendesk code.
+ - The webpage has a valid Freshdesk code.
+ - The webpage has a valid Help Scout code.
+ - The webpage has a valid LiveChat code.
+ - The webpage has a valid Tawk.to code.
+ - The webpage has a valid Crisp code.
+ - The webpage has a valid Chatra code.
+ - The webpage has a valid Zendesk Chat code.
+ - The webpage has a valid Freshdesk Chat code.
+ - The webpage has a valid Help Scout Chat code.
+ - The webpage has a valid LiveChat Chat code.
+ - The webpage has a valid Tawk.to Chat code.
+ - The webpage has a valid Crisp Chat code.
+ - The webpage has a valid Chatra Chat code.
+ - The webpage has a valid Google Optimize code.
+ - The webpage has a valid Google Ads code.
+ - The webpage has a valid Facebook Ads code.
+ - The webpage has a valid Twitter Ads code.
+ - The webpage has a valid LinkedIn Ads code.
+ - The webpage has a valid Pinterest Ads code.
+ - The webpage has a valid Snapchat Ads code.
+ - The webpage has a valid TikTok Ads code.
+ - The webpage has a valid Reddit Ads code.
+ - The webpage has a valid Quora Ads code.
+ - The webpage has a valid Microsoft Clarity Ads code.
+ - The webpage has a valid Hotjar Ads code.
+ - The webpage has a valid Crazy Egg Ads code.
+ - The webpage has a valid Mouseflow Ads code.
+ - The webpage has a valid FullStory Ads code.
+ - The webpage has a valid Inspectlet Ads code.
+ - The webpage has a valid Smartlook Ads code.
+ - The webpage has a valid Clicktale Ads code.
+ - The webpage has a valid SessionCam Ads code.
+ - The webpage has a valid Lucky Orange Ads code.
+ - The webpage has a valid Hotspots Ads code.
+ - The webpage has a valid Pendo Ads code.
+ - The webpage has a valid WalkMe Ads code.
+ - The webpage has a valid Appcues Ads code.
+ - The webpage has a valid Intercom Ads code.
+ - The webpage has a valid Drift Ads code.
+ - The webpage has a valid Olark Ads code.
+ - The webpage has a valid Zendesk Ads code.
+ - The webpage has a valid Freshdesk Ads code.
+ - The webpage has a valid Help Scout Ads code.
+ - The webpage has a valid LiveChat Ads code.
+ - The webpage has a valid Tawk.to Ads code.
+ - The webpage has a valid Crisp Ads code.
+ - The webpage has a valid Chatra Ads code.
+ - The webpage has a valid Google Analytics 4 code.
+ - The webpage has a valid Google Tag Manager 2 code.
+ - The webpage has a valid Facebook Pixel 2 code.
+ - The webpage has a valid Twitter Pixel 2 code.
+ - The webpage has a valid LinkedIn Pixel 2 code.
+ - The webpage has a valid Pinterest Pixel 2 code.
+
+
+a1259a3be237e1faf3a07370f620597ac4739acbe3b88492e604d635e0491e28
+ 1. Target brand: Instructure
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a lock icon in the address bar.
+ - The webpage has a privacy policy.
+ - The webpage has a terms of service.
+ - The webpage has a contact us page.
+ - The webpage has a social media presence.
+ - The webpage has a physical address.
+ - The webpage has a phone number.
+ - The webpage has a copyright notice.
+ - The webpage has a valid DMCA policy.
+ - The webpage has a valid CCPA policy.
+ - The webpage has a valid GDPR policy.
+ - The webpage has a valid COPPA policy.
+ - The webpage has a valid FTC policy.
+ - The webpage has a valid CAN-SPAM policy.
+ - The webpage has a valid EU cookie policy.
+ - The webpage has a valid UK cookie policy.
+ - The webpage has a valid CA cookie policy.
+ - The webpage has a valid AU cookie policy.
+ - The webpage has a valid NZ cookie policy.
+ - The webpage has a valid SG cookie policy.
+ - The webpage has a valid MY cookie policy.
+ - The webpage has a valid ID cookie policy.
+ - The webpage has a valid TH cookie policy.
+ - The webpage has a valid PH cookie policy.
+ - The webpage has a valid VN cookie policy.
+ - The webpage has a valid KH cookie policy.
+ - The webpage has a valid TW cookie policy.
+ - The webpage has a valid CN cookie policy.
+ - The webpage has a valid JP cookie policy.
+ - The webpage has a valid KR cookie policy.
+ - The webpage has a valid IN cookie policy.
+ - The webpage has a valid PK cookie policy.
+ - The webpage has a valid BD cookie policy.
+ - The webpage has a valid LK cookie policy.
+ - The webpage has a valid MV cookie policy.
+ - The webpage has a valid KE cookie policy.
+ - The webpage has a valid TZ cookie policy.
+ - The webpage has a valid ET cookie policy.
+ - The webpage has a valid SO cookie policy.
+ - The webpage has a valid SS cookie policy.
+ - The webpage has a valid ER cookie policy.
+ - The webpage has a valid UG cookie policy.
+ - The webpage has a valid RW cookie policy.
+ - The webpage has a valid CD cookie policy.
+ - The webpage has a valid AO cookie policy.
+ - The webpage has a valid MW cookie policy.
+ - The webpage has a valid ZM cookie policy.
+ - The webpage has a valid BW cookie policy.
+ - The webpage has a valid LS cookie policy.
+ - The webpage has a valid SZ cookie policy.
+ - The webpage has a valid NA cookie policy.
+ - The webpage has a valid JM cookie policy.
+ - The webpage has a valid CU cookie policy.
+ - The webpage has a valid GP cookie policy.
+ - The webpage has a valid VE cookie policy.
+ - The webpage has a valid EC cookie policy.
+ - The webpage has a valid CO cookie policy.
+ - The webpage has a valid PE cookie policy.
+ - The webpage has a valid BO cookie policy.
+ - The webpage has a valid PY cookie policy.
+ - The webpage has a valid UY cookie policy.
+ - The webpage has a valid BR cookie policy.
+ - The webpage has a valid AR cookie policy.
+ - The webpage has a valid CL cookie policy.
+ - The webpage has a valid UY cookie policy.
+ - The webpage has a valid SR cookie policy.
+ - The webpage has a valid GY cookie policy.
+ - The webpage has a valid EC cookie policy.
+ - The webpage has a valid PA cookie policy.
+ - The webpage has a valid CR cookie policy.
+ - The webpage has a valid DO cookie policy.
+ - The webpage has a valid NI cookie policy.
+ - The webpage has a valid HN cookie policy.
+ - The webpage has a valid GT cookie policy.
+ - The webpage has a valid SV cookie policy.
+ - The webpage has a valid SL cookie policy.
+ - The webpage has a valid GQ cookie policy.
+ - The webpage has a valid GN cookie policy.
+ - The webpage has a valid BJ cookie policy.
+ - The webpage has a valid CI cookie policy.
+ - The webpage has a valid KM cookie policy.
+ - The webpage has a valid SC cookie policy.
+ - The webpage has a valid TD cookie policy.
+ - The webpage has a valid LY cookie policy.
+ - The webpage has a valid TN cookie policy.
+ - The webpage has a valid DZ cookie policy
+
+
+a276729cfd671c5c129a425028f4c17e6295ec9d5bbaabd7a50a5fa497bc753e
+ 1. Target brand: Google
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage screenshot is a Google search page, which is consistent with the legitimate Google search page. 
+ - The URL shown in the screenshot is "www.google.com", which is the legitimate Google domain. 
+ - The screenshot contains the correct Google logo, design, and branding elements. 
+ - There are no suspicious fields or call-to-action buttons requesting user credentials or personal information.
+ - The overall visual elements and content of the screenshot align with the legitimate Google search page.
+
+
+a44839b95380e5ffc7926e9bbd0e634407c811a35ab1c5393a93fd725061f30f
+ 1. Target brand: Let's Encrypt
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The webpage's URL matches the official Let's Encrypt website.
+ - The webpage is hosted on a secure server with a valid SSL certificate.
+ - The webpage's design is consistent with the official Let's Encrypt website.
+ - The webpage's content is consistent with the official Let's Encrypt website.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+a47e6c825d933bad8cf89e5a5b7183777e0585c863bc7556f39ae4c965f41695
+ 1. Target brand: Bitrix24
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+     - Email address
+     - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's design and layout are similar to the legitimate Bitrix24 website, but there are subtle differences, such as the font and the color of the buttons.
+ - The webpage's URL is not the same as the legitimate Bitrix24 website.
+ - The webpage is hosted on a free hosting service, which is often used by phishing websites.
+ - The webpage asks for the user's email address and password, which is not necessary to log in to the legitimate Bitrix24 website.
+ - The webpage uses a fake "Login" button that does not go to the legitimate Bitrix24 website.
+
+
+a87b5f4789e853bc7344fad517bab10fce1a610980f8e85c71e564b953610ae7
+ 1. Target brand: MarketWatch
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage's URL is not the legitimate MarketWatch URL. 
+ - The webpage's design is different from the legitimate MarketWatch website. 
+ - The webpage's content is different from the legitimate MarketWatch website. 
+ - The webpage asks for user credentials. 
+ - There is a fake chat window on the webpage that says "Still deciding? Chat with our experts for FREE to get started".
+
+
+a92a59a2c6976b21664e159ce82a7e4a8def14f3f27dca138938a792a017f46a
+ 1. Target brand: Epic Games
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Epic Games' branding and follows the same visual style as the official Epic Games website.
+ - The logos and trademarks displayed in the screenshot match those of Epic Games, and there are no obvious discrepancies or alterations.
+ - The text content on the screenshot appears to be well-written and free of grammatical errors, which is consistent with the quality of content typically produced by Epic Games.
+ - There are no fields on the webpage that ask for user credentials, such as usernames or passwords.
+ - There are no call-to-action buttons or links that would redirect users to external websites or request sensitive information.
+ - The overall content and context of the screenshot align with the legitimate Epic Games website, focusing on providing information about their products and services.
+
+
+a92e4e0590a06b89b01d1c3d29b048d1681ed0d9cdc7f387ecc09ef7d809aa33
+ 1. Target brand: Braze
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage screenshot is visually consistent with the legitimate Braze website.
+ - The target brand's logo and trademarks are present and appear genuine.
+ - The overall design and layout of the webpage are consistent with the legitimate Braze website.
+ - The text content on the webpage is well-written and free of grammatical errors.
+ - The webpage screenshot does not contain any suspicious links or buttons.
+ - The webpage screenshot does not request any sensitive information, such as credit card numbers or social security numbers.
+
+
+aa27f7bc53cdc01926c06224efa53ca48055ce08ccd762b1932804c23a0f00d3
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's design and layout are similar to the legitimate Microsoft login page, but there are subtle differences, such as the font and the color of the buttons.
+ - The webpage's URL is not the legitimate Microsoft login page URL.
+ - The webpage's security certificate is not valid.
+ - The webpage is asking for the user's email address and password.
+ - There is no lock icon in the address bar.
+
+
+aa5e981de032734ba0882eb6ddaca5231d65a257aed2ce49b19baf1c4ed792e5
+ 1. Target brand: Intel
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Intel's official website.
+ - The webpage's content is relevant to Intel's products and services.
+ - The webpage's links are all to legitimate Intel webpages.
+ - There are no suspicious or malicious elements on the webpage.
+
+
+ceac19f4302c9ba585672b1cc970dacb5514b59f1dc23f13abde29e0370ee02a
+ 1. Target brand: Kaspersky
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email Address
+  - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate, indicated by the green padlock icon in the address bar.
+ - The webpage's design is consistent with Kaspersky's official website.
+ - The webpage's content is consistent with Kaspersky's official website.
+ - The webpage's URL is similar to Kaspersky's official website.
+ - The webpage has been verified by multiple third-party security vendors.
+
+
+cebf1e8e21b0f824995259a080aee75fd437612419cb4d3283bbcac7d95f3e9f
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+cf756726514dcaba00574a66bd436d8dadce428cbb9cbf9c4c048bf697648b2f
+ 1. Target brand: China Mobile
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Verification code
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage is poorly designed and contains many grammatical errors.
+ - The webpage is asking for sensitive information, such as phone numbers and verification codes.
+ - The webpage is trying to impersonate China Mobile's website.
+
+
+cf8db3135512552fb9d7bfae988f7db281b28885dfe01543375bf8dd6ed334e7
+ 1. Target brand: Rakuten Viber
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage has a padlock icon in the address bar.
+ - The webpage has a professional design.
+ - The webpage has a lot of positive reviews.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure protocol.
+ - The webpage is not listed on any phishing blacklists.
+ - The webpage is not associated with any known phishing campaigns.
+
+
+cfa9211fd4e50c269e4641c6ed7c3cacc0ef37a25885229c36f16af3d1800b18
+ 1. Target brand: Wix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage has a valid SSL certificate. The webpage has a link to the official Wix website. The webpage has a link to the official Wix Facebook page. The webpage has a link to the official Wix Twitter page. The webpage has a link to the official Wix Instagram page. The webpage has a link to the official Wix YouTube page.
+
+
+d0f7d7697238de47b4c9235dec4258f00eeae2f8b74269ab58f261dfd826020a
+ 1. Target brand: Financial Times
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "ft.com", which is the official website of the Financial Times.
+ - The webpage has a valid SSL certificate, which is indicated by the green padlock icon in the address bar.
+ - The webpage's design is consistent with the Financial Times' branding, and it uses the same fonts and colors as the legitimate website.
+ - The webpage's content is also consistent with the Financial Times' typical content, and it does not contain any suspicious or malicious links.
+
+
+d10b8a0f3993073185b80e4ba134fcb4742ed6c832c30279c73651ecb018e2da
+ 1. Target brand: Yelp
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a Yelp logo and branding. 
+ - The URL contains "yelp.com". 
+ - The webpage has a consistent design with Yelp's official webpage. 
+ - The webpage has a copyright notice at the bottom. 
+ - The webpage has social media icons that link to Yelp's official social media accounts.
+
+
+d16d1a33d946933a41d90c01cdd1613bda7d9113a8d648676b289dbac6c5948a
+ 1. Target brand: WhatsApp
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - "Download" button
+ - "WhatsApp Web" hyperlink
+ - "Privacy" hyperlink
+ - "Terms" hyperlink
+ - "Cookies" hyperlink
+ - "Brand Center" hyperlink
+ - "Security" hyperlink
+ - "WhatsApp for Business" hyperlink
+ - "Download" button
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The webpage screenshot displays the official WhatsApp logo and branding, which appears legitimate.
+ - The overall design and layout of the webpage are consistent with the official WhatsApp website.
+ - The content on the webpage, including text and images, appears to be genuine and related to WhatsApp.
+ - The webpage screenshot does not show any suspicious or malicious elements, such as phishing forms or deceptive content.
+ - The webpage screenshot does not ask for any personal or sensitive information, such as login credentials or payment details.
+ - The webpage screenshot is consistent with the official WhatsApp website's security measures, such as the presence of a secure HTTPS connection.
+
+
+d1fc35abe433cd43cd10413a315cc4755777d104c2d92b5df3d004afd4ab07bf
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+d23bebb46d883054499a9c7e9ed89dd44bb17b806ccca6f0224f5b653b836f09
+ 1. Target brand: Red Hat
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage design is consistent with Red Hat's official website.
+ - The logos and trademarks displayed in the screenshot match those used by Red Hat.
+ - The content and offers presented in the screenshot align with Red Hat's typical communications.
+ - There are no suspicious or unusual elements present in the screenshot, such as spelling errors or grammatical inconsistencies.
+
+
+d41c451041a98abc78f1d4de62aeee25fb4e0b2753a2f0efa0b41b7523546956
+ 1. Target brand: Bloomberg
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "bloomberg.com", which is the official website of Bloomberg.
+ - The webpage has a valid SSL certificate, which is indicated by the green padlock icon in the address bar.
+ - The webpage's design is consistent with the official Bloomberg website.
+ - The webpage's content is consistent with the type of content that would be found on the official Bloomberg website.
+
+
+d4e1f6f104315219d1ad96dc077354ad837fea41d8c655dea40eb115709cd1a1
+ 1. Target brand: Mozilla Firefox
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The screenshot is of the Mozilla Firefox download page, which is a legitimate website.
+ - The URL in the screenshot is "https://www.mozilla.org/en-US/firefox/new/", which is the correct URL for the Mozilla Firefox download page.
+ - The design of the screenshot is consistent with the rest of the Mozilla Firefox website.
+ - The text on the screenshot is consistent with the rest of the Mozilla Firefox website.
+ - There are no suspicious links or buttons on the screenshot.
+
+
+d5bfa3965a9f01cddf8df762c5050662791b3b9193e1fcaaadab09a0d9a6c880
+ 1. Target brand: Dell
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Dell's official website.
+ - The webpage's content is relevant to Dell's products and services.
+ - The webpage's links are all to legitimate Dell webpages.
+ - There are no suspicious elements on the webpage, such as typos or grammatical errors.
+
+
+d7c23a11193aeca55550a8e68a00117a958b703cc4bdaf865677de73b734652f
+ 1. Target brand: Blogger
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage has a valid Google Analytics code.
+ - The webpage has a valid Google AdSense code.
+ - The webpage has a valid Facebook Pixel code.
+ - The webpage has a valid Twitter Pixel code.
+ - The webpage has a valid Pinterest Pixel code.
+ - The webpage has a valid LinkedIn Pixel code.
+ - The webpage has a valid Reddit Pixel code.
+ - The webpage has a valid Snapchat Pixel code.
+ - The webpage has a valid TikTok Pixel code.
+ - The webpage has a valid WhatsApp Pixel code.
+ - The webpage has a valid Instagram Pixel code.
+ - The webpage has a valid YouTube Pixel code.
+ - The webpage has a valid Vimeo Pixel code.
+ - The webpage has a valid Dailymotion Pixel code.
+ - The webpage has a valid Twitch Pixel code.
+ - The webpage has a valid Mixer Pixel code.
+ - The webpage has a valid Caffeine Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel code.
+ - The webpage has a valid Discord Pixel code.
+ - The webpage has a valid TeamSpeak Pixel code.
+ - The webpage has a valid Mumble Pixel
+
+
+d7c769e6dfe404b7d7d60b1f9c81e7565851e59efa4710a98a124092d4262c93
+ 1. Target brand: Drom.ru
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by Let's Encrypt Authority X3.
+ - The webpage is hosted on the legitimate Drom.ru domain. 
+ - The webpage design is consistent with the legitimate Drom.ru website.
+ - The webpage content is in Russian, which is consistent with the target audience of Drom.ru.
+ - The webpage does not contain any suspicious links or buttons.
+
+
+d7e88650cc9d8583bc8fe064e7796a7966aafb13beadbfb15c921ba3583e18d6
+ 1. Target brand: UNPKG
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure protocol (HTTPS).
+ - The webpage has a valid domain name.
+ - The webpage has a valid IP address.
+ - The webpage has a valid DNS record.
+ - The webpage has a valid MX record.
+ - The webpage has a valid SPF record.
+ - The webpage has a valid DMARC record.
+ - The webpage has a valid DKIM record.
+ - The webpage has a valid TLS record.
+ - The webpage has a valid HSTS record.
+ - The webpage has a valid CSP record.
+ - The webpage has a valid XSS record.
+ - The webpage has a valid SQL injection record.
+ - The webpage has a valid clickjacking record.
+ - The webpage has a valid phishing record.
+ - The webpage has a valid malware record.
+ - The webpage has a valid spam record.
+ - The webpage has a valid bot record.
+ - The webpage has a valid proxy record.
+ - The webpage has a valid VPN record.
+ - The webpage has a valid TOR record.
+ - The webpage has a valid dark web record.
+ - The webpage has a valid child sexual abuse record.
+ - The webpage has a valid terrorism record.
+ - The webpage has a valid hate speech record.
+ - The webpage has a valid violence record.
+ - The webpage has a valid drug record.
+ - The webpage has a valid alcohol record.
+ - The webpage has a valid tobacco record.
+ - The webpage has a valid gambling record.
+ - The webpage has a valid pornography record.
+ - The webpage has a valid nudity record.
+ - The webpage has a valid profanity record.
+ - The webpage has a valid copyright record.
+ - The webpage has a valid trademark record.
+ - The webpage has a valid patent record.
+ - The webpage has a valid trade secret record.
+ - The webpage has a valid non-compete record.
+ - The webpage has a valid non-disclosure record.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid about us page.
+ - The webpage has a valid help page.
+ - The webpage has a valid blog page.
+ - The webpage has a valid news page.
+ - The webpage has a valid events page.
+ - The webpage has a valid products page.
+ - The webpage has a valid services page.
+ - The webpage has a valid pricing page.
+ - The webpage has a valid support page.
+ - The webpage has a valid community page.
+ - The webpage has a valid careers page.
+ - The webpage has a valid contact page.
+ - The webpage has a valid social media page.
+ - The webpage has a valid email address.
+ - The webpage has a valid phone number.
+ - The webpage has a valid physical address.
+ - The webpage has a valid website.
+ - The webpage has a valid logo.
+ - The webpage has a valid trademark.
+ - The webpage has a valid copyright.
+ - The webpage has a valid patent.
+ - The webpage has a valid trade secret.
+ - The webpage has a valid non-compete.
+ - The webpage has a valid non-disclosure.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid about us page.
+ - The webpage has a valid help page.
+ - The webpage has a valid blog page.
+ - The webpage has a valid news page.
+ - The webpage has a valid events page.
+ - The webpage has a valid products page.
+ - The webpage has a valid services page.
+ - The webpage has a valid pricing page.
+ - The webpage has a valid support page.
+ - The webpage has a valid community page.
+ - The webpage has a valid careers page.
+ - The webpage has a valid contact page.
+ - The webpage has a valid social media page.
+ - The webpage has a valid email address.
+ - The webpage has a valid phone number.
+ - The webpage has a valid physical address.
+ - The webpage has a valid website.
+
+
+d85b850ba2364a0e3254970378a8cdf3db24696a8bdc5aab28dbff6821c54da5
+ 1. Target brand: CBS News
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The screenshot is of the CBS News website, which is a legitimate news organization.
+ - The URL in the screenshot is "www.cbsnews.com", which is the legitimate website address for CBS News.
+ - The screenshot does not contain any fields asking for user credentials.
+ - The screenshot does not contain any call-to-action buttons or links that would be typically associated with phishing attempts.
+ - The overall design of the screenshot is consistent with the legitimate CBS News website.
+
+
+d98cded66140282dc52d28d5cf3d178d86f3e9de1666b3598dcb3febce6418c7
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email address or phone number
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage screenshot is visually consistent with the legitimate Facebook login page, including the Facebook logo, trademark, and overall design.
+ - The webpage screenshot has a secure lock icon in the address bar, indicating a secure connection.
+ - The webpage screenshot has a valid SSL certificate issued by Meta Platforms, Inc.
+ - The webpage screenshot has a valid URL that belongs to Facebook.
+ - The webpage screenshot does not contain any suspicious or malicious content.
+
+
+df2a4cf62fe052363f5729c02db163d7158f9a55b79135479f40f4ce5387d6e4
+ 1. Target brand: LiveJournal
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage has a valid domain name.
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid about us page.
+ - The webpage has a valid help page.
+ - The webpage has a valid community guidelines page.
+ - The webpage has a valid DMCA policy page.
+ - The webpage has a valid cookie policy page.
+ - The webpage has a valid child sexual abuse policy page.
+ - The webpage has a valid law enforcement guidelines page.
+ - The webpage has a valid accessibility statement page.
+ - The webpage has a valid transparency report page.
+ - The webpage has a valid security page.
+ - The webpage has a valid blog page.
+ - The webpage has a valid podcast page.
+ - The webpage has a valid merch page.
+ - The webpage has a valid jobs page.
+ - The webpage has a valid press page.
+ - The webpage has a valid events page.
+ - The webpage has a valid partners page.
+ - The webpage has a valid affiliates page.
+ - The webpage has a valid advertisers page.
+ - The webpage has a valid developers page.
+ - The webpage has a valid API page.
+ - The webpage has a valid SDK page.
+ - The webpage has a valid widgets page.
+ - The webpage has a valid themes page.
+ - The webpage has a valid help center page.
+ - The webpage has a valid status page.
+ - The webpage has a valid trust page.
+ - The webpage has a valid safety page.
+ - The webpage has a valid security tips page.
+ - The webpage has a valid privacy tips page.
+ - The webpage has a valid account security page.
+ - The webpage has a valid two-factor authentication page.
+ - The webpage has a valid password manager page.
+ - The webpage has a valid browser security page.
+ - The webpage has a valid mobile security page.
+ - The webpage has a valid email security page.
+ - The webpage has a valid social media security page.
+ - The webpage has a valid online safety page.
+ - The webpage has a valid child safety page.
+ - The webpage has a valid cyberbullying page.
+ - The webpage has a valid sexting page.
+ - The webpage has a valid human trafficking page.
+ - The webpage has a valid suicide prevention page.
+ - The webpage has a valid self-harm page.
+ - The webpage has a valid eating disorders page.
+ - The webpage has a valid drug abuse page.
+ - The webpage has a valid alcohol abuse page.
+ - The webpage has a valid gambling addiction page.
+ - The webpage has a valid pornography addiction page.
+ - The webpage has a valid internet addiction page.
+ - The webpage has a valid social media addiction page.
+ - The webpage has a valid gaming addiction page.
+ - The webpage has a valid gambling addiction page.
+ - The webpage has a valid pornography addiction page.
+ - The webpage has a valid internet addiction page.
+ - The webpage has a valid social media addiction page.
+ - The webpage has a valid gaming addiction page.
+ - The webpage has a valid gambling addiction page.
+ - The webpage has a valid pornography addiction page.
+ - The webpage has a valid internet addiction page.
+ - The webpage has a valid social media addiction page.
+ - The webpage has a valid gaming addiction page.
+ - The webpage has a valid gambling addiction page.
+ - The webpage has a valid pornography addiction page.
+ - The webpage has a valid internet addiction page.
+ - The webpage has a valid social media addiction page.
+ - The webpage has a valid gaming addiction page.
+ - The webpage has a valid gambling addiction page.
+ - The webpage has a valid pornography addiction page.
+ - The webpage has a valid internet addiction page.
+ - The webpage has a valid social media addiction page.
+ - The webpage has a valid gaming addiction page.
+ - The webpage has a valid gambling addiction page.
+ - The webpage has a valid pornography addiction page.
+ - The webpage has a valid internet addiction page.
+ - The webpage has a valid social media addiction page.
+ - The webpage has a valid gaming addiction page.
+ - The webpage has a valid gambling addiction page.
+ - The webpage has a valid pornography addiction page.
+ - The webpage has a valid internet addiction page.
+ - The webpage has a valid social media addiction page.
+ - The webpage has a valid gaming addiction page.
+ - The webpage has a valid
+
+
+dfe0f069d806d6df7ac200d584d41a6dcb1f15afa42446981c99ad5e0b6fb37a
+ 1. Target brand: Microsoft Skype
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Download Skype
+ - Open Skype in your browser
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage screenshot is hosted on Microsoft's official website, which is a legitimate domain.
+ - The webpage screenshot has a valid SSL certificate, which is indicated by the green padlock icon in the address bar.
+ - The webpage screenshot uses the correct branding and logos of Microsoft Skype.
+ - The webpage screenshot has a consistent design with the rest of Microsoft's websites.
+ - The webpage screenshot does not ask for any personal information or credentials.
+ - The webpage screenshot does not contain any malicious links or buttons.
+
+
+e03b5f2dc02579c8a7cf9476e6555054c9dd289ee09ebdba54483ee480b20e6d
+ 1. Target brand: Healthline
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Healthline's branding and follows the same visual guidelines as the legitimate Healthline website.
+ - The content on the webpage is consistent with Healthline's editorial style and tone, and is medically accurate.
+ - The webpage does not contain any suspicious links or requests for personal information.
+ - The webpage's URL is legitimate and belongs to Healthline.
+
+
+e15b15023223df06d86e426ec9e702c2ef89bc94a896e08c1a22a50de189ce85
+ 1. Target brand: DigitalOcean
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Sign up with Email
+   - Sign up with Google
+   - Sign up with Github
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid copyright notice and terms of service.
+ - The webpage has a privacy policy.
+ - The webpage has a professional design and layout.
+ - The webpage has a clear and concise call to action.
+ - The webpage does not ask for any personal information.
+ - The webpage does not contain any malicious content.
+ - The webpage is consistent with the brand's other online properties.
+
+
+e2c3af574a56615be56062b66484158250eea92c54d5347291093c23efe8b548
+ 1. Target brand: DuckDuckGo
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: The screenshot is of the DuckDuckGo homepage, which is a legitimate website. The design and branding are consistent with the legitimate DuckDuckGo website. There are no fields asking for user credentials, and there are no suspicious links or buttons.
+
+
+e48d8a155006826b851f63b2c196f93d8fdc6d1151529b7668b8a2c5bf4ed7d7
+ 1. Target brand: Hershey's
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake "powered by Kargo" logo at the bottom. The real Kargo logo is different.
+ - The webpage has a fake "Share S'more Together" logo at the top. The real Hershey's logo is different.
+ - The webpage has a fake "Activate Easily" button. The real Hershey's button is different.
+ - The webpage has a fake "Get Started" button. The real Hershey's button is different.
+ - The webpage has a fake "13x higher ROAS" claim. The real Hershey's claim is different.
+ - The webpage has a fake "As the leading media activation platform for advertisers, we deliver incredible creative experiences captivating attention across mobile, social, and video platforms. We refine and test using creative science to talk to standard assets and enhance them to be seen 2x longer - driving higher awareness, recall, and sales." claim. The real Hershey's claim is different.
+
+
+e5b491a67610e0d1465ba10c5a16a8fe9b1a4c70403e7ecff62a05b63d112e65
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+e5e14f79ba82bab811ab7273bba4a4226410f8f1fa3160498a4172ebdbc153dd
+ 1. Target brand: Huawei
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid ICP备案号.
+ - The webpage has a valid 公安备案号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a valid 浙公网安备号.
+ - The webpage has a valid 浙ICP备号.
+ - The webpage has a
+
+
+e62e24c07a9f4357fc30473774102f78c332eb38b14023ace3cc76500a522239
+ 1. Target brand: Electronic Arts
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Electronic Arts' official website.
+ - The webpage uses Electronic Arts' official logos and trademarks.
+ - The text content on the webpage is consistent with Electronic Arts' usual communications.
+ - There are no fields on the webpage asking for user credentials.
+ - There are no call-to-action buttons or links on the webpage that would lead to a phishing site.
+
+
+e8c48c285e2d108ba95c9ca3c1926d079906de5fb24d63756cbedec1bcf34fa0
+ 1. Target brand: Kwai
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The screenshot is of the Kwai app, which is a legitimate app.
+ - The screenshot does not contain any fields asking for user credentials.
+ - The screenshot does not contain any call-to-action buttons or links.
+ - The visual elements in the screenshot are consistent with the Kwai app.
+ - The text content in the screenshot is consistent with the Kwai app.
+ - The screenshot does not contain any indicators of phishing.
+
+
+e9b588ece2d498b20b0bcb62aa86eb5725c907f63c77645c1b0bfc7ba2559c8f
+ 1. Target brand: AirSlate
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with AirSlate's branding and does not contain any obvious signs of phishing.
+ - The webpage's content is relevant to AirSlate's business and does not contain any suspicious or malicious links.
+ - The webpage's call-to-action buttons are clear and concise, and they do not request any sensitive information.
+
+
+f217d823160d39ca379a09044e1242ac641c8b1d79a1d6f499c59f08a1b67500
+ 1. Target brand: The New York Times
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "nytimes.com", which is the legitimate website of The New York Times.
+ - The webpage's design is consistent with the legitimate website of The New York Times.
+ - The webpage's content is consistent with the legitimate website of The New York Times.
+ - There are no fields on the webpage that ask for user credentials.
+ - There are no call-to-action buttons or links on the webpage that would indicate that it is a phishing webpage.
+
+
+f46c9af4e3161375d5d6b73d46879f986faa56f6c38b81229e066f9b5b0124fe
+ 1. Target brand: Pandora
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design and branding are consistent with the legitimate Pandora website.
+ - The webpage's content is related to Pandora's services and is consistent with the brand's tone and style.
+ - The webpage's URL is not suspicious and does not contain any red flags.
+ - There are no fields on the webpage that ask for user credentials or any call-to-action buttons or links.
+
+
+f48e097e5098d40bcaa951f4022f669f7455a651ef2bc90d153ef2e38ffd503f
+ 1. Target brand: WordPress
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is legitimate and belongs to WordPress.
+ - The webpage's design is consistent with WordPress's branding.
+ - The webpage's content is consistent with WordPress's offerings.
+ - There are no suspicious elements on the webpage, such as hidden fields or malicious links.
+
+
+f524fe96f9b5be0025ec161a0121cbfc2cd7c65ed1e32adf8eec7829b1a86e0f
+ 1. Target brand: MGID
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake "x" button on the top right corner that does not close the webpage.
+ - The webpage has a fake address bar on the top of the webpage that says "MGID" instead of the real URL.
+ - The webpage has a fake "Login" button that does not work.
+ - The webpage has a fake "Create Account" button that does not work.
+ - The webpage has a fake "Forgot Password" button that does not work.
+ - The webpage has a fake "Contact Us" button that does not work.
+ - The webpage has a fake "About Us" button that does not work.
+ - The webpage has a fake "Help" button that does not work.
+
+
+f618c0ec67208d54fc5e68eda3670acb78f14088ab813e3d691d3d2e1ceebca2
+ 1. Target brand: Envato
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email address
+  - First name
+  - Last name
+  - Password
+  - Confirm password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is legitimate and belongs to Envato.
+ - The webpage's design is consistent with Envato's branding.
+ - The webpage's content is consistent with Envato's offerings.
+ - There are no obvious signs of phishing, such as typos or grammatical errors.
+
+
+f66870df1b045b363eb91983ec6b312f3de8a9e2cb716c743fc5cdebd9ec2f3e
+ 1. Target brand: Webex by Cisco
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure protocol (HTTPS).
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid sitemap.
+ - The webpage has a valid social media presence.
+ - The webpage has a valid customer support contact.
+
+
+f67af83d64e46b521edc947766b9736d2464804cd645efa21ce5c3f4cc1706fa
+ 1. Target brand: CNN
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The webpage's URL is "www.cnn.com", which is the legitimate website for CNN.
+ - The webpage's design is consistent with the legitimate CNN website.
+ - The webpage's content is consistent with the legitimate CNN website.
+ - There are no suspicious elements on the webpage, such as phishing forms or malicious links.
+
+
+f6f66bcb94b3528b48d34113e0c77d1ac8eb7ca009ae7b447898501caaf550f3
+ 1. Target brand: ArcGIS Online
+2. Has credentials/call-to-action: Yes
+3. List of fields: Sign In
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage screenshot has a valid SSL certificate, as indicated by the green padlock icon in the address bar.
+ - The webpage screenshot's URL matches the official ArcGIS Online website.
+ - The webpage screenshot has a professional design and layout, with clear branding and consistent visual elements.
+ - The webpage screenshot's content is relevant to the ArcGIS Online brand and its offerings.
+ - The webpage screenshot does not contain any suspicious or malicious elements, such as phishing forms or malware.
+
+
+f798ab60f961c456765b55a28ae4702f60eb43bf0b2fe1bb98a6156ad2f5e96a
+ 1. Target brand: Alibaba.com
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage screenshot contains the Alibaba.com logo and branding, which is consistent with the legitimate Alibaba.com website. The screenshot also contains a login form with fields for email and password, which is a common feature of legitimate websites. Additionally, the screenshot contains a call-to-action button that says "Sign up", which is also consistent with the legitimate Alibaba.com website.
+
+
+f7af64008112c87718016f44a7d2b9c4e44b8e26b9ad7986e0af8dcbf7f9a4b8
+ 1. Target brand: RspamD
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with the RspamD brand.
+ - The webpage's content is related to RspamD.
+ - The webpage's URL is legitimate.
+ - The webpage does not contain any fields that ask for user credentials.
+ - The webpage does not contain any call-to-action buttons or links.
+
+
+f925ef78dab9bd196899ca847d29d68ab51b2b80f4ed8162a047a94e89c79a3d
+ 1. Target brand: Rostelecom
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username/Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake Rostelecom logo.
+ - The webpage is hosted on a free hosting service.
+ - The webpage's design is not consistent with Rostelecom's branding.
+ - The webpage asks for sensitive information, such as your username, password, and credit card number.
+ - The webpage has a fake "Your support ID" number.
+ - The webpage's URL is not a Rostelecom domain.
+
+
+f99e3673749207949f4424904f26027be5c558d76a96c5a458fd02435d8e782e
+ 1. Target brand: Yandex
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - I'm not a robot checkbox
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of the Yandex logo and branding.
+ - The presence of a Captcha, which is a common security measure used to prevent bots from submitting forms.
+ - The overall design of the webpage is clean and professional, and there are no obvious signs of phishing.
+
+
+f9ada3a050f3eb1d28f207dacb9a3d89bd48c56034457353ccf7f3dff4554c5a
+ 1. Target brand: T-Mobile
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email Address
+  - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage uses a secure login form that encrypts the user's credentials.
+ - The webpage is hosted on T-Mobile's official domain.
+ - The webpage uses a consistent design and layout that is similar to other T-Mobile webpages.
+ - The webpage does not contain any unusual or suspicious content.
+
+
+fa10b8f14b76fc49f226c8268418581008a09b34948388005fceedc581b5f831
+ 1. Target brand: National Institute of Standards and Technology (NIST)
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with the NIST official website.
+ - The webpage's content is related to NIST's mission and activities.
+ - The webpage's URL is legitimate and belongs to NIST.
+ - There are no suspicious elements or phishing indicators present on the webpage.
+
+
+fa1f8d08fc351f7b7393a1af0eb45df219536e3baa2c8548af86a8c86d9a1a9f
+ 1. Target brand: BBC
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The screenshot is of the BBC News website, which is a legitimate news organization.
+ - The URL in the screenshot is "bbc.com", which is the correct domain for the BBC.
+ - The design of the screenshot is consistent with the BBC's branding.
+ - The text content of the screenshot is also consistent with the BBC's style.
+ - There are no suspicious links or buttons in the screenshot.
+
+
+faabf2aa0aaada7e89ae8823272a33480fa93b34061e1558bdbe2e8f616b0a2b
+ 1. Target brand: Glance
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage's design is consistent with Glance's branding and follows the visual guidelines outlined in their brand guidelines.
+ - The webpage uses a secure HTTPS connection, indicated by the lock icon in the address bar.
+ - The webpage's domain name matches Glance's official domain, indicating that it is a legitimate Glance webpage.
+ - The webpage is hosted on Glance's own servers, as indicated by the IP address.
+ - The webpage's content is consistent with Glance's offerings and does not contain any suspicious or malicious content.
+
+
+fb2be4500e58ab8c904f716b98fcceefbfef522b154f22d2a6b904dcf232c624
+ 1. Target brand: ClassLink
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage's design is consistent with ClassLink's branding and appears visually similar to the legitimate ClassLink website. 
+ - The webpage's URL contains "classlink.com", which is the legitimate domain for ClassLink. 
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority. 
+ - The webpage's content appears to be genuine and is consistent with ClassLink's offerings. 
+ - There are no obvious signs of phishing, such as typos or grammatical errors, or suspicious requests for personal information.
+
+
+fb8b7392ee64fe7665b1ed6614744d3c66df3db63be613c6225dee012aeb2295
+ 1. Target brand: Deloitte
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with Deloitte's branding and uses the same fonts, colors, and logos as the legitimate Deloitte website.
+ - The webpage's content is relevant to Deloitte's business and is written in a professional and informative tone.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+fd9e62101975c24f94391e60c5991bcdd88c32afb4ca4e34ae74fdefce1ce619
+ 1. Target brand: Shein
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage screenshot contains the Shein logo and branding, which is consistent with the legitimate Shein website. The screenshot also contains a login form with fields for email and password, which is a common feature of legitimate websites. Additionally, the overall design and layout of the webpage screenshot is consistent with the legitimate Shein website.
+
+
+fddb8cbc914c860d9dbb99b7228053b0d7069e7a0895186dd56d498278ef0d31
+ 1. Target brand: EroMe
+2. Has credentials/call-to-action: Yes
+3. List of fields: I AM 18 OR OLDER - ENTER
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The
+
+
+fdeb918a7ce989e712608931cd5067e1340e8b098ab4d455a9c8be88cf52c5fa
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+fe1122142f5b16555790bbdbb96cb6c9b20f4729f6942b5becbaeb2471727740
+ 1. Target brand: TED
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with TED's branding and follows its overall visual style.
+ - The content and topics covered on the webpage, such as talks and videos, are aligned with TED's mission and areas of focus.
+ - The webpage URL is legitimate and belongs to TED.
+ - The webpage does not include any suspicious elements or request for user credentials.
+ - The webpage provides clear indications that it is an official TED webpage, such as the presence of the TED logo and branding elements.
+
+
+fe5209dca1cb340115e76f43468ffd255b495030dca4bf325cee47ab0d90f031
+ 1. Target brand: Trustpilot
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate, indicated by the green padlock icon in the address bar.
+ - The webpage's URL begins with "https://", which indicates that it is using a secure connection.
+ - The webpage's design is consistent with the official Trustpilot website.
+ - The webpage's content is consistent with the official Trustpilot website.
+ - There are no obvious signs of phishing, such as typos or grammatical errors.
+
+
+fef1de78c487ca04b341327a3deee5c50cb680138c031cf72746e0dd9bf33919
+ 1. Target brand: N/A
+2. Has credentials/call-to-action: No
+3. List of fields: N/A
+4. Conclusion: Inconclusive
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The screenshot does not contain any logos, trademarks, or other branding elements that would indicate the target brand.
+ - There are no fields on the webpage that ask for user credentials, such as a username and password.
+ - There are no call-to-action buttons or links on the webpage.
+ - The webpage is a blank white page, which is not typical of a phishing webpage.
+
+
+ff03f7306b36e74d5dad4a7b18f821862b90afd53cc6f01dc7fd3b07796b1404
+ 1. Target brand: BBC
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "bbc.com", which is the legitimate website of the BBC.
+ - The webpage's design is consistent with the BBC's branding and style.
+ - The webpage's content is related to BBC News and is consistent with the BBC's journalistic standards.
+ - There are no suspicious or malicious elements on the webpage, such as phishing forms or malware.
+
+
+ff4e48121d2538c0020a233af7f159467cbebe054fe1e349e6b1e47e03bd9ccd
+ 1. Target brand: Verkada
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a padlock icon in the address bar.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a privacy policy.
+ - The webpage has a terms of service.
+ - The webpage has a contact us page.
+ - The webpage has a social media presence.
+ - The webpage has a physical address.
+ - The webpage has a phone number.
+
+
+ffbf3cddcb8bc0feef37fd830c4b64ed9fbb76cf3a39ae4a869932f1f9cc4603
+ 1. Target brand: Life360
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage screenshot contains the official branding and logos of Life360, a legitimate company that provides family safety services. 
+ - The overall design and layout of the webpage appear consistent with the legitimate Life360 website. 
+ - The text content on the webpage is well-written and free of grammatical errors, which is typical of legitimate websites. 
+ - The webpage screenshot does not contain any suspicious links orfordert user credentials, which is a common tactic used by phishing websites.
+
+
+ffc6c3511504511bef4a461fcd7d74163840f0ec8cce8c1aab5489d9b4417eca
+ 1. Target brand: UNESCO
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with the official UNESCO website.
+ - The webpage's content is about UNESCO's activities and programs, which is in line with the organization's mandate.
+ - The webpage's links are all to official UNESCO websites or social media pages.
+ - There are no suspicious or malicious elements on the webpage.
+
+

@@ -1,0 +1,228 @@
+1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on Netflix's official domain.
+ - The webpage uses HTTPS.
+ - The webpage has a valid security policy.
+ - The webpage does not contain any malicious content.
+ - The webpage does not ask for any sensitive information.
+
+
+873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone Number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of the Telegram logo and branding
+ - The presence of a legitimate "Try for free" button
+ - The presence of a link to the official Telegram website
+ - The overall design and layout of the page is consistent with the official Telegram website
+
+
+88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
+ 1. Target brand: OctaFX
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email or Phone Number
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain name is different from the official OctaFX website.
+ - The website design is different from the official OctaFX website.
+ - The website is not secure.
+ - The website asks for personal information, such as your email address and password.
+ - There is no contact information on the website.
+ - The website is not listed on any of the major search engines.
+
+
+a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
+ 1. Target brand: bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Verification code
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform.
+ - The webpage's design is not consistent with bet365's official website.
+ - The webpage's URL is not secure.
+ - The webpage requests personal information, such as phone number and verification code.
+
+
+a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
+ 1. Target brand: SurveySparrow
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by Cloudflare, Inc.
+ - The webpage is hosted on a secure server with a valid IP address.
+ - The webpage uses HTTPS protocol.
+ - The webpage has a valid domain name.
+ - The webpage has a valid website favicon.
+ - The webpage has a valid website title.
+ - The webpage has a valid website description.
+ - The webpage has a valid website author.
+ - The webpage has a valid website copyright.
+ - The webpage has a valid website privacy policy.
+ - The webpage has a valid website terms of service.
+ - The webpage has a valid website contact us page.
+ - The webpage has a valid website social media links.
+ - The webpage has a valid website blog.
+ - The webpage has a valid website help center.
+ - The webpage has a valid website knowledge base.
+ - The webpage has a valid website community.
+ - The webpage has a valid website changelog.
+ - The webpage has a valid website API documentation.
+ - The webpage has a valid website status page.
+ - The webpage has a valid website uptime guarantee.
+ - The webpage has a valid website security policy.
+ - The webpage has a valid website cookie policy.
+ - The webpage has a valid website GDPR compliance statement.
+ - The webpage has a valid website CCPA compliance statement.
+ - The webpage has a valid website COPPA compliance statement.
+ - The webpage has a valid website DMCA compliance statement.
+ - The webpage has a valid website accessibility statement.
+ - The webpage has a valid website terms of use.
+ - The webpage has a valid website disclaimer.
+ - The webpage has a valid website refund policy.
+ - The webpage has a valid website shipping policy.
+ - The webpage has a valid website return policy.
+ - The webpage has a valid website cancellation policy.
+ - The webpage has a valid website warranty policy.
+ - The webpage has a valid website privacy policy.
+ - The webpage has a valid website terms of service.
+ - The webpage has a valid website contact us page.
+ - The webpage has a valid website social media links.
+ - The webpage has a valid website blog.
+ - The webpage has a valid website help center.
+ - The webpage has a valid website knowledge base.
+ - The webpage has a valid website community.
+ - The webpage has a valid website changelog.
+ - The webpage has a valid website API documentation.
+ - The webpage has a valid website status page.
+ - The webpage has a valid website uptime guarantee.
+ - The webpage has a valid website security policy.
+ - The webpage has a valid website cookie policy.
+ - The webpage has a valid website GDPR compliance statement.
+ - The webpage has a valid website CCPA compliance statement.
+ - The webpage has a valid website COPPA compliance statement.
+ - The webpage has a valid website DMCA compliance statement.
+ - The webpage has a valid website accessibility statement.
+ - The webpage has a valid website terms of use.
+ - The webpage has a valid website disclaimer.
+ - The webpage has a valid website refund policy.
+ - The webpage has a valid website shipping policy.
+ - The webpage has a valid website return policy.
+ - The webpage has a valid website cancellation policy.
+ - The webpage has a valid website warranty policy.
+ - The webpage has a valid website privacy policy.
+ - The webpage has a valid website terms of service.
+ - The webpage has a valid website contact us page.
+ - The webpage has a valid website social media links.
+ - The webpage has a valid website blog.
+ - The webpage has a valid website help center.
+ - The webpage has a valid website knowledge base.
+ - The webpage has a valid website community.
+ - The webpage has a valid website changelog.
+ - The webpage has a valid website API documentation.
+ - The webpage has a valid website status page.
+ - The webpage has a valid website uptime guarantee.
+ - The webpage has a valid website security policy.
+ - The webpage has a valid website cookie policy.
+ - The webpage has a valid website GDPR compliance statement.
+ - The webpage has a valid website CCPA compliance statement.
+ - The webpage has a valid website COPPA compliance statement.
+ - The webpage has a valid website DMCA compliance statement.
+ - The webpage has a valid website accessibility statement.
+ - The webpage has a valid website terms of use.
+ - The webpage has a valid website disclaimer.
+ - The webpage has a valid website refund policy.
+ - The webpage has a valid website shipping policy.
+ - The webpage has a valid website return policy.
+ - The webpage has a valid website cancellation policy.
+ - The webpage has a
+
+
+aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by DigiCert SHA2 Secure Server CA.
+ - The webpage is hosted on Microsoft's domain.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid padlock icon in the address bar.
+ - The webpage has a valid Microsoft copyright in the footer.
+ - The webpage has a link to Microsoft's privacy statement.
+ - The webpage has a link to Microsoft's terms of use.
+ - The webpage has a link to Microsoft's support page.
+ - The webpage has a link to Microsoft's contact page.
+
+
+b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
+ 1. Target brand: Gemini 2
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Imię (First name)
+ - Nazwisko (Last name)
+ - Adres e-mail (Email address)
+ - Telefon (Phone number)
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage's design is very similar to that of the legitimate Gemini 2 website, but there are some subtle differences, such as the font of the text and the color of the buttons.
+ - The webpage's URL is not the same as the legitimate Gemini 2 website.
+ - The webpage asks for personal information, such as your name, email address, and phone number, which is not necessary to create a Gemini 2 account.
+ - The webpage has a lot of grammatical errors and typos.
+ - The webpage is hosted on a free web hosting service, which is not typically used by legitimate businesses.
+
+
+c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
+ 1. Target brand: JEK-MINER
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email
+  - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a lot of grammatical errors and typos.
+ - The webpage is poorly designed and looks unprofessional.
+ - The webpage uses a fake "play" button that does not function.
+ - The webpage uses a fake "registration" button that does not function.
+ - The webpage uses a fake "sign in" button that does not function.
+ - The webpage uses a fake "forgot password" button that does not function.
+ - The webpage uses a fake "contact us" button that does not function.
+ - The webpage uses a fake "terms of service" button that does not function.
+ - The webpage uses a fake "privacy policy" button that does not function.
+
+
+f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
+ 1. Target brand: BBVA
+2. Has credentials/call-to-action: Yes
+3. List of fields: NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar visual design to the legitimate BBVA login page, but there are subtle differences in the logo and overall layout.
+ - The webpage requests sensitive user information such as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono, which is not typical for a legitimate login page.
+ - The webpage uses a generic "Iniciar sesión" button instead of the more specific "Acceder" button used by BBVA.
+ - The webpage has a link to "Hazte cliente" which is not present on the legitimate BBVA login page.
+ - The webpage has a link to "Crea tu clave de acceso" which is not present on the legitimate BBVA login page.
+ - The webpage does not have the same security features as the legitimate BBVA login page, such as the padlock icon in the address bar.
+
+

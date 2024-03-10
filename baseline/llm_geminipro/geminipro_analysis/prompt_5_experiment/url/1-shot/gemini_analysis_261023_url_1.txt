@@ -1,0 +1,347 @@
+00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
+ 1. Target brand: Societe Generale
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Account number or email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL is not a legitimate Societe Generale domain.
+ - The webpage's design and layout are different from the legitimate Societe Generale website.
+ - The webpage's text contains grammatical errors and inconsistencies.
+ - The webpage's security certificate is not valid.
+
+
+00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
+ 1. Target brand: Correos
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email or phone number
+  - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS to encrypt data transmitted between the user and the server.
+ - The webpage has a valid security policy.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid about us page.
+ - The webpage has a valid social media presence.
+ - The webpage has a valid customer support phone number.
+ - The webpage has a valid customer support email address.
+
+
+00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, phone, or Skype
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on Microsoft's servers.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage's design is consistent with Microsoft's branding and follows the company's design guidelines.
+ - The webpage's content is consistent with Microsoft's messaging and does not contain any suspicious or malicious links or text.
+ - The webpage has a valid "Next" button that is used to proceed to the next step of the login process.
+
+
+00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a legitimate Facebook domain.
+ - The Join Group button is not a typical Facebook button.
+ - The page is asking for personal information, such as email and password.
+ - The page is not using a secure connection (HTTPS).
+ - The page is not consistent with Facebook's design.
+ - The page is using a lot of exclamation marks, which is not typical of Facebook.
+ - The page is making unrealistic promises, such as earning $10,000-$30,000 per day.
+ - The page is using testimonials from people who do not exist.
+
+
+03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
+ 1. Target brand: 12 Volt Does It
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage has a privacy policy and terms of service.
+ - The webpage has a contact form.
+ - The webpage has social media links.
+ - The webpage has a blog.
+ - The webpage has a newsletter.
+ - The webpage has a physical address.
+ - The webpage has a phone number.
+
+
+05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email Address
+  - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a secure website.
+ - The website is hosted on a free platform.
+ - The website's design is not consistent with Microsoft's official website.
+ - The website's content is not consistent with Microsoft's official website.
+ - The website is asking for personal information that is not necessary to create an account.
+
+
+0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
+ 1. Target brand: PUBG Mobile
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username/Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting service.
+ - The webpage's URL does not match the official PUBG Mobile website.
+ - The webpage's design is different from the official PUBG Mobile website.
+ - The webpage contains several grammatical errors.
+ - The webpage requests personal information, such as your username, password, and email address.
+
+
+0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on Google's servers.
+ - The webpage uses Google's branding and follows Google's design guidelines.
+ - The webpage uses a secure login form that encrypts the user's credentials.
+ - The webpage does not ask for any unnecessary information, such as the user's social security number or credit card number.
+
+
+589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
+ 1. Target brand: Sakura
+2. Has credentials/call-to-action: Yes
+3. List of fields: Phone number, Verification code
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a legitimate Sakura website.
+ - The page is not using a secure connection (HTTPS).
+ - The page is asking for personal information that is not necessary to create an account.
+ - The page is not using a professional design and layout.
+ - The page has a lot of pop-ups and advertisements.
+ - The page is trying to trick users into giving up their personal information by using social engineering techniques.
+
+
+76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+     - Apple ID
+     - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid Apple logo and uses the correct color scheme and design elements consistent with Apple's branding.
+ - The URL contains "apple.com", which is the official domain for Apple.
+ - The page has a link to Apple's privacy policy and terms of service, which are legitimate pages on Apple's website.
+ - The page has a functional "Forgot Apple ID or password?" link.
+
+
+8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage has a privacy policy and terms of service.
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid DMCA policy.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid social media presence.
+ - The webpage has a valid customer support email address.
+ - The webpage has a valid customer support phone number.
+
+
+d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
+ 1. Target brand: SHENG HO JIUN
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage has a privacy policy and terms of service.
+ - The webpage has a contact form.
+ - The webpage has social media links.
+ - The webpage has a physical address and phone number.
+ - The webpage has a professional design.
+ - The webpage has a lot of content.
+ - The webpage is well-written.
+ - The webpage is informative.
+ - The webpage is easy to use.
+ - The webpage is trustworthy.
+
+
+decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
+ 1. Target brand: Desjardins
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username/Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage is hosted on the official Desjardins domain.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid security policy.
+ - The webpage has a valid content security policy.
+ - The webpage has a valid X-Frame-Options header.
+ - The webpage has a valid X-XSS-Protection header.
+ - The webpage has a valid Cache-Control header.
+ - The webpage has a valid Pragma header.
+ - The webpage has a valid Expires header.
+
+
+f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
+ 1. Target brand: Arvest Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS to encrypt data transmitted between the user and the server.
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid about us page.
+ - The webpage has a valid careers page.
+ - The webpage has a valid blog page.
+ - The webpage has a valid news page.
+ - The webpage has a valid investor relations page.
+ - The webpage has a valid community page.
+ - The webpage has a valid social media page.
+ - The webpage has a valid YouTube page.
+ - The webpage has a valid LinkedIn page.
+ - The webpage has a valid Twitter page.
+ - The webpage has a valid Facebook page.
+ - The webpage has a valid Instagram page.
+ - The webpage has a valid Pinterest page.
+ - The webpage has a valid Snapchat page.
+ - The webpage has a valid TikTok page.
+ - The webpage has a valid Reddit page.
+ - The webpage has a valid Quora page.
+ - The webpage has a valid Medium page.
+ - The webpage has a valid Tumblr page.
+ - The webpage has a valid Flickr page.
+ - The webpage has a valid Vimeo page.
+ - The webpage has a valid Dailymotion page.
+ - The webpage has a valid Twitch page.
+ - The webpage has a valid Mixer page.
+ - The webpage has a valid Caffeine page.
+ - The webpage has a valid Discord page.
+ - The webpage has a valid TeamSpeak page.
+ - The webpage has a valid Skype page.
+ - The webpage has a valid WhatsApp page.
+ - The webpage has a valid Telegram page.
+ - The webpage has a valid Line page.
+ - The webpage has a valid WeChat page.
+ - The webpage has a valid QQ page.
+ - The webpage has a valid Weibo page.
+ - The webpage has a valid Renren page.
+ - The webpage has a valid Kaixin page.
+ - The webpage has a valid Douban page.
+ - The webpage has a valid Zhihu page.
+ - The webpage has a valid Baidu page.
+ - The webpage has a valid Sogou page.
+ - The webpage has a valid Youku page.
+ - The webpage has a valid Tudou page.
+ - The webpage has a valid iQiyi page.
+ - The webpage has a valid Tencent Video page.
+ - The webpage has a valid Bilibili page.
+ - The webpage has a valid AcFun page.
+ - The webpage has a valid Miaopai page.
+ - The webpage has a valid Kuaishou page.
+ - The webpage has a valid Douyin page.
+ - The webpage has a valid TikTok page.
+ - The webpage has a valid Likee page.
+ - The webpage has a valid Vigo Video page.
+ - The webpage has a valid Bigo Live page.
+ - The webpage has a valid YY Live page.
+ - The webpage has a valid Huya Live page.
+ - The webpage has a valid Douyu Live page.
+ - The webpage has a valid Zhanqi Live page.
+ - The webpage has a valid Panda Live page.
+ - The webpage has a valid Dragon TV page.
+ - The webpage has a valid CCTV page.
+ - The webpage has a valid Hunan TV page.
+ - The webpage has a valid Zhejiang TV page.
+ - The webpage has a valid Jiangsu TV page.
+ - The webpage has a valid Anhui TV page.
+ - The webpage has a valid Shandong TV page.
+ - The webpage has a valid Henan TV page.
+ - The webpage has a valid Hubei TV page.
+ - The webpage has a valid Hunan TV page.
+ - The webpage has a valid Guangdong TV page.
+ - The webpage has a valid Guangxi TV page.
+ - The webpage has a valid Yunnan TV page.
+ - The webpage has a valid Tibet TV page.
+ - The webpage has a valid Xinjiang TV page.
+ - The webpage has a valid Inner Mongolia TV page.
+ - The webpage has a valid Ningxia TV page.
+ - The webpage has a valid Qinghai TV page.
+ - The webpage has a valid Gansu TV page.
+ - The webpage has a valid Shaanxi TV page.
+ - The webpage has a valid Shanxi TV page.
+ - The webpage has a valid Hebei TV page.
+ - The webpage has a valid Tianjin TV page.
+
+
+
+f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
+ 1. Target brand: Pivkom.ru
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage has a privacy policy and terms of service.
+ - The webpage has a contact form.
+ - The webpage has social media links.
+ - The webpage has a blog.
+ - The webpage has a newsletter.
+ - The webpage has a physical address.
+ - The webpage has a phone number.
+
+

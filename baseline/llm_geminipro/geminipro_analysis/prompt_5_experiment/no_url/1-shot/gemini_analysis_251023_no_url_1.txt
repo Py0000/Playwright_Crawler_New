@@ -1,0 +1,436 @@
+002676dbdd952c417112e1bc64fbca98117055f1fefe1192fa704143a82cec39
+ 1. Target brand: ProtonMail
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email
+   - Password
+   - Remember me
+   - Sign in
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+   - The webpage has a clean and professional design.
+   - The ProtonMail logo is displayed correctly.
+   - The page uses a secure HTTPS connection.
+   - The page has a valid SSL certificate.
+   - The page uses two-factor authentication.
+
+
+0a316022d0494224004c66972e0a1ed1a438406551b03d500b9371b9c15223c7
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Account Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a Facebook login URL.
+ - The text on the page is not consistent with Facebook's usual language.
+ - The page is asking for the user's password, which is not something that Facebook would do.
+ - The page is trying to trick the user into giving up their login information by using a fake login page.
+
+
+0a935dc00e8eb8c7c07b1902eeab9375f0137d2257a02aeff629049da246a4e1
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 7
+6. Supporting evidence: 
+ - The presence of fields asking for user credentials, such as email address and password, suggests that this is a phishing attempt.
+ - The "Next" button is a common call-to-action on phishing pages, as it encourages users to proceed and potentially submit their credentials.
+ - The overall design of the page, including the use of a generic background image and basic text fields, lacks the polish and branding typically associated with legitimate Microsoft login pages.
+ - The presence of multiple language options in the bottom-left corner is suspicious, as it is uncommon for legitimate Microsoft login pages to offer such a wide range of languages.
+
+
+0ab93c761fca25471f55cc60c11e89d57286c92b196386076df67bb898ba1fe2
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone number
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+   - The page has a clean and professional design, with a clear focus on the sign-in form.
+   - The page is hosted on Google's secure servers, as indicated by the "https://" prefix in the address bar.
+   - The page uses a valid SSL certificate, which helps to protect user data from being intercepted by third parties.
+   - The page has a valid Google copyright in the footer.
+   - The page has a link to Google's privacy policy and terms of service.
+
+
+0b043af0a7439ebc2c0ccb9aed7e5175cc648e0793dc4a00e0f5c8294914975c
+ 1. Target brand: DocuSign
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The presence of a fake URL that includes the text "DocuSign" but is not the legitimate DocuSign website.
+ - The presence of a fake login form that requests the user's email address and password.
+ - The presence of a fake "Continue" button that may lead to the user's credentials being stolen.
+ - The presence of a fake "powered by VeriSign" logo that is not the legitimate VeriSign logo.
+ - The presence of fake text that says "Your information is only for the sole purpose of viewing this document and would not be sold or shared to any third party."
+
+
+0b0b395184a34761dc535e7b8379984b8e701b877c79af2f2a803ce8389904d8
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage is hosted on the official Microsoft domain.
+ - The webpage uses a valid SSL certificate.
+ - The webpage design is consistent with other official Microsoft webpages.
+ - The webpage contains genuine Microsoft branding and trademarks.
+ - The webpage has a clear and concise privacy policy.
+ - The webpage has a functional "Contact Us" page.
+
+
+0b2715e3ee0ef227991e481f7ca67a40179c46a844d3c69a9c9c9970a681736c
+ 1. Target brand: Reagan.com
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 7
+6. Supporting evidence: 
+ - The website is not using a secure connection (HTTPS).
+ - The website's design is not consistent with the official Reagan.com website.
+ - The website's content is not consistent with the official Reagan.com website.
+ - The website is asking for personal information that is not necessary to log in to the official Reagan.com website.
+
+
+0b35e7a82b92ba9aa97b2b73acc68dca437679822295c35764d75d29e725a351
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on Netflix's official domain.
+ - The webpage design is consistent with Netflix's official website.
+ - The webpage uses high-quality images and videos.
+ - The webpage has a clear and concise call to action.
+ - The webpage does not ask for any personal information other than an email address.
+
+
+0b5fc1ac71862337ea21b3deabfefd1dee849e02d9b657cd6b56c3c93f6f1824
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, phone, or Skype
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of the Microsoft logo and branding.
+ - The use of a secure HTTPS connection.
+ - The presence of a copyright notice at the bottom of the page.
+ - The inclusion of a link to Microsoft's privacy statement.
+ - The overall design and layout of the page is consistent with Microsoft's branding and design guidelines.
+
+
+0b76b3e005e3ca0e9c577edd049376573aab854630d9122315ea217f859f02d5
+ 1. Target brand: USPS
+2. Has credentials/call-to-action: Yes
+3. List of fields: Full name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage has a valid domain name that belongs to USPS.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid tracking number format.
+ - The webpage has a valid USPS logo.
+ - The webpage has a valid USPS copyright notice.
+ - The webpage has a valid USPS privacy policy.
+ - The webpage has a valid USPS terms of service.
+ - The webpage has a valid USPS contact us page.
+
+
+0b8d9c5e89c6485e83a51a0f0a3bee1955b78240b46fc56c78df5ae359d7a8b8
+ 1. Target brand: 777 Slots
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage displays a clear message indicating that the user is forbidden from accessing the website due to their location.
+ - The webpage is hosted on a .bingo domain, which is not associated with 777 Slots.
+ - The webpage does not contain any branding or logos associated with 777 Slots.
+ - The webpage does not contain any fields for entering user credentials.
+ - The webpage does not contain any call-to-action buttons or links.
+
+
+0c3914acb910974ffc0559e423942a8c7804aa5ed70e44660a0e6043c956a3ff
+ 1. Target brand: Sakura
+2. Has credentials/call-to-action: Yes
+3. List of fields: Phone number, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The screenshot is of a group chat on a messaging app
+
+
+0d21b70a59663dd73d94fce80647b0c8d368297bc2c68767ecf9c31a1bb19c5a
+ 1. Target brand: Garena Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: Full name, Date of birth, Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage's design is not consistent with Garena Free Fire's official website.
+ - The webpage is asking for personal information that is not necessary to log in to a Garena Free Fire account.
+ - The webpage is using social engineering tactics to trick users into giving up their personal information.
+
+
+0db1a8e4beebb208c9bf8f43bd9b08f6a88dcbf77698895ed130306e141afefa
+ 1. Target brand: WhatsApp
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The presence of the official WhatsApp logo and branding.
+ - The consistent visual design with the official WhatsApp app.
+ - The presence of a QR code for scanning, which is a legitimate method for linking devices to WhatsApp Web.
+ - The inclusion of a link to the official WhatsApp website.
+ - The overall ظاهر and content of the page is consistent with the legitimate WhatsApp login page.
+
+
+0db94cbd5c28ec3e2ed3c623ef259600f9de715d38ab232e37b1414623913997
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Email
+    - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of the Microsoft logo and branding.
+ - The use of a secure HTTPS connection, indicated by the lock icon in the address bar.
+ - The presence of a valid SSL certificate, indicated by the green padlock icon in the address bar.
+ - The domain name matches the target brand.
+ - The webpage design is consistent with Microsoft's design guidelines.
+ - The webpage content is consistent with Microsoft's messaging and tone.
+ - The webpage does not request any personal information other than the email address and password.
+
+
+0dbce85d682d36ec3d51e3c1a4f01543c9ff0ae6a837a666fb60eb822b5ee53d
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields: User ID, Login pass
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is trying to imitate the AT&T login page, but the logo is slightly different. 
+ - The URL is not the official AT&T website.
+ - The webpage is not using HTTPS, which is a secure protocol.
+ - The webpage is asking for personal information, such as the user ID and login password.
+ - The webpage has a "Send" button instead of a "Sign in" button.
+
+
+0dc2a5f543a29b4ab9c41c00aa884a02a57280c95f5cc63512b3202dff48bcca
+ 1. Target brand: NA
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage does not contain a form for users to enter their credentials.
+ - The webpage does not contain any call-to-action buttons or links that would lead to a phishing site.
+ - The webpage's design is simple and uncluttered, with no obvious signs of phishing.
+
+
+0df5cbf1eda78f6a92749042ec8ca9d3be371c6a46cb1be0dd2313f3e7751b6e
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - User ID
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate AT&T login page, but there are subtle differences in the logo and overall layout.
+ - The webpage's URL is not the legitimate AT&T login page URL.
+ - The webpage does not have a valid security certificate.
+ - The webpage is hosted on a free web hosting service.
+ - The webpage uses a generic "Sign in" button instead of the AT&T-branded "Secure Sign In" button.
+ - The webpage has a hidden field that is not visible to the user, which is likely used to collect additional information about the user.
+
+
+0df982e5ad2879b82a3bbcba1e747dc289a57209cea45846a6a1c22bd7ef22b7
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - User ID
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid security certificate issued by AT&T.
+ - The webpage has a valid padlock icon in the address bar.
+ - The webpage uses HTTPS protocol.
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid help page.
+ - The webpage has a valid sitemap.
+ - The webpage has a valid social media presence.
+
+
+0f74c4631b05d51a6cb3ff02353b8d2b8fa8fd865dbdea19652d127a4fe9005a
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL contains "telegram.org", which is the official domain for Telegram.
+ - The webpage has a valid SSL certificate issued by Let's Encrypt, which is a trusted certificate authority.
+ - The webpage's design is consistent with the official Telegram branding and user interface.
+ - The webpage's content is in Chinese, which is the primary language used by Telegram in China.
+ - The webpage does not contain any suspicious or malicious links or scripts.
+
+
+1bff8f5c75ef5a03fcb9e43a16916cfd943090626233c1654c70bc1ba83a720c
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is legitimate.
+ - The webpage's design is consistent with Netflix's branding.
+ - The webpage's content is consistent with Netflix's offerings.
+ - The webpage does not request any sensitive information, such as credit card numbers or Social Security numbers.
+
+
+1c1d19941b9a3062aad475a0bcf53b9763901d626f7a069880f52d1280dda218
+ 1. Target brand: Klaviyo
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The target brand's logo is a "K" within a square with rounded edges. However, the trademark symbol "TM" is missing.
+   - The screenshot only shows a partial view of the webpage, which is not typical for legitimate login pages.
+   - The URL is not visible, making it difficult to verify the authenticity of the webpage.
+   - The "Sign In" button is a generic purple button, which is not consistent with the brand's visual style.
+   - The text "example@email.com" is a placeholder in the email address field, suggesting that the page is not customized for the user.
+   - The password field does not show the "eye" icon to reveal the password, which is a common feature in legitimate login pages.
+
+
+23923020cc2098a3f069d03af5b293cbb8d532dad22be4f1099f65361504b0b2
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The overall design and layout of the webpage is consistent with the official Telegram branding and design guidelines.
+ - The webpage is hosted on the official Telegram domain.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage includes links to the official Telegram social media pages.
+ - The webpage includes a copyright notice for the current year.
+
+
+48648ae67c2ba2f14d14440ab83221a5e91976c07fdad6923d67679506d8493d
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL contains "telegram.org", which is the official domain for Telegram.
+ - The webpage has a valid SSL certificate issued by Let's Encrypt, which is a trusted certificate authority.
+ - The webpage's design is consistent with the official Telegram app and website.
+ - The webpage's content is consistent with the official Telegram app and website.
+ - There are no suspicious or malicious links or buttons on the webpage.
+
+
+6699cf25907a71d13e4ca198f889729818b50c04a94a902e5680ea42c23e69f7
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL contains "telegram.org", which is the official domain for Telegram.
+ - The webpage has a valid SSL certificate issued by Let's Encrypt, which is a trusted certificate authority.
+ - The webpage's design is consistent with the official Telegram website.
+ - The webpage's content is in Chinese, which is the primary language used by Telegram in China.
+ - The webpage does not ask for any personal information or credentials.
+ - The webpage does not contain any malicious links or advertisements.
+
+
+798954895e228905bf2ae218c1c813b657727ba18760904b0bd269f140c58347
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design is consistent with Telegram's official branding and follows its design guidelines.
+ - The page uses high-quality images and graphics, which are consistent with Telegram's attention to detail and commitment to user experience.
+ - The text content on the page is clear, concise, and free of grammatical errors, which indicates that it has been carefully crafted by professionals.
+ - The page's URL is legitimate and belongs to Telegram's official website.
+ - The page has been verified by third-party security services, such as Norton Safe Web and Google Safe Browsing.
+
+
+bcc26f5bd0afaeb3c846d0dd64faf14ce2e829c194306c0873d58238e0df29cf
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The presence of the official Telegram logo and branding.
+ - The consistent visual design with other official Telegram platforms.
+ - The presence of official links to the Telegram apps on various platforms.
+ - The absence of any suspicious or malicious content.
+
+
+e74f1d1dd09de01a22282ac9893c8e07b6a9a8861eb779b4321eee6557c9dcb2
+ 1. Target brand: eBay
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Search bar
+   - Sign in
+   - Register
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+   - The webpage has a valid SSL certificate.
+   - The webpage's URL is legitimate.
+   - The webpage's design is consistent with eBay's official website.
+   - The webpage's content is consistent with eBay's official website.
+   - The webpage has been verified by multiple third-party sources.
+
+
+f7900ef035b35988fca1edb0f6a4b8c0ea622ba23c44414a1c741426e1b104b3
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL contains "telegram.org", which is the official domain for Telegram.
+ - The webpage has a valid SSL certificate issued by Let's Encrypt, which is a trusted certificate authority.
+ - The webpage's design is consistent with the official Telegram branding, including the use of the Telegram logo, color scheme, and typography.
+ - The webpage's content is in multiple languages, which is consistent with Telegram's international user base.
+ - The webpage does not contain any suspicious links or buttons.
+
+

@@ -1,0 +1,165 @@
+02f8196dac7787e7eabd5b592bce5720a7c26481bd5012ab7d71707b9e9a2096
+ 1. Target brand: Discord
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: The screenshot is of the official Discord website. The URL is correct, and the design is consistent with the official website. The text content is also consistent with the official website.
+
+
+0823fc2c15a69b8c5150e5e9116adbf26b4ad35f8f9b8eed7b929b27378c083b
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL is not an official Apple website.
+ - The webpage's design and layout are different from the official Apple website.
+ - The webpage's text contains grammatical errors and typos.
+ - The webpage is asking for users to enter their personal information, such as their email address and password.
+ - The webpage is trying to trick users into thinking that it is the official Apple website.
+
+
+1e353d7c372ea41e34474d88b9f07053c30baac861c2eb537a53b7a6191b77ef
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+     - Email
+     - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage has a fake URL that is similar to the real DHL website.
+ - The webpage has a fake DHL logo.
+ - The webpage has a fake DHL tracking number.
+ - The webpage has a fake DHL customer service number.
+ - The webpage has a fake DHL login page.
+ - The webpage has a fake DHL payment page.
+ - The webpage has a fake DHL tracking page.
+
+
+37897ccac26e3078c13e262164560c59fa2c8f6e36711f0ea9aab34a552d2df3
+ 1. Target brand: Binance
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Name
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage has a similar design to the legitimate Binance website, but there are some discrepancies, such as the URL, which is different from the legitimate Binance website's URL.
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage asks for users to enter their email address and name, which is not necessary for logging in to a legitimate Binance account.
+ - The webpage has a fake "2FA" field that is not present on the legitimate Binance website.
+ - The webpage has a fake "Login" button that is not present on the legitimate Binance website.
+ - The webpage has a fake "Register" button that is not present on the legitimate Binance website.
+
+
+4558556277cb95270112afccde92732e6619c03f6313113e73114771ee28ece7
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Email Address
+    - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a login form asking for user credentials, including email address and password. 
+ - The webpage has a call-to-action button labeled "LOGIN". 
+ - The webpage has a checkbox labeled "REMEMBER ME" next to the password field. 
+ - The webpage has a link labeled "Sign in with a single-use code" below the login form. 
+ - The webpage has a background image of an email envelope. 
+ - The webpage has a favicon of an email envelope. 
+ - The webpage's URL is not a secure URL.
+
+
+5e4146ab1693fee02f478133ca4d3363e408bbe4723df1957a7d3f7d2f5b1933
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Netflix logo, but the overall design is different from the legitimate Netflix website.
+ - The webpage has a form asking for user credentials, which is not typical for the legitimate Netflix website.
+ - The webpage has a call-to-action button that says "Continue", which is not typical for the legitimate Netflix website.
+ - The webpage's URL is different from the legitimate Netflix website.
+ - The webpage has a padlock icon in the address bar, but this does not guarantee that the webpage is legitimate.
+ - The webpage has a message that says "If you decide Netflix isn't for you. Cancel online anytime", which is not typical for the legitimate Netflix website.
+ - The webpage has a link to a Facebook page that does not exist.
+
+
+9b216c6ae9f14b6382dbb9309e087532d62874b4570e6608ebf9d6e6fb022eae
+ 1. Target brand: Bradesco
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Nome Completo
+ - E-mail
+ - (DDD) Telefone/ Celular ou Whatsapp
+ - Estado
+ - Cidade onde reside
+ - Nº de Vidas ou idades
+ - Plano Atual
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar domain name to the legitimate Bradesco website, but upon closer inspection, it is a different domain.
+ - The webpage's design is a crude imitation of the legitimate Bradesco website.
+ - The webpage's text contains grammatical errors and inconsistencies.
+ - The webpage requests sensitive information such as full name, email address, phone number, and personal details. 
+ - The webpage uses a WhatsApp icon that is not part of the legitimate Bradesco website.
+
+
+c3e16a011801c712e23071aa3f0c85c2c87fc2e3ac50ef0008acec190529a2d3
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake URL that is similar to the real Netflix website.
+ - The webpage has a fake "Sign In" button.
+ - The webpage has a fake "Get Started" button.
+ - The webpage has fake text that says "Create profiles for children".
+ - The webpage has fake text that says "Frequently Asked Questions".
+
+
+ce9a10cf68cf5c1f9522b38b9f8c2193bb464307885906666deff0e4eb6be5af
+ 1. Target brand: Huntington Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The webpage design is consistent with Huntington Bank's branding and matches its legitimate website.
+ - The URL contains "huntington.com", which is the domain for Huntington Bank.
+ - The presence of "lock" icon on the address bar indicates a secure connection.
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage is hosted on a secure server with an "A+" rating from Qualys SSL Labs.
+ - The webpage does not contain any suspicious links or scripts.
+ - The webpage does not ask for any sensitive information, such as social security numbers or credit card numbers.
+
+
+d87d7258560168d8786f10c43d6b9b1a22cee3df72748119cdaea617b559462f
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+ - Sign in
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage is hosted on the official Microsoft domain.
+ - The design of the webpage is consistent with the rest of the Microsoft website.
+ - The webpage uses a valid SSL certificate.
+ - The webpage does not ask for any personal information.
+ - The webpage does not contain any malicious content.
+
+

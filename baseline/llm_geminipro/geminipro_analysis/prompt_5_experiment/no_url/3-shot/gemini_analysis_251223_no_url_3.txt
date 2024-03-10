@@ -1,0 +1,307 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Email address
+- Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+- The webpage has a valid SSL certificate issued by Apple Inc.
+- The webpage is hosted on Apple's servers.
+- The webpage uses Apple's branding and design elements.
+- The webpage has a legitimate Apple copyright notice at the bottom.
+- The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with Netflix's official website.
+ - The webpage's content is consistent with Netflix's official website.
+ - The webpage's links are all valid and go to the correct pages on Netflix's official website.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email or phone
+ - Password
+ - "Forgot password?" link
+ - "Next" button
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The page has a fake URL that is similar to the real Google login page.
+ - The page has a fake Google logo.
+ - The page has a fake "Forgot password?" link.
+ - The page has a fake "Next" button.
+ - The page is hosted on a free web hosting service.
+ - The page is not encrypted with HTTPS.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with Netflix's official website.
+ - The webpage's content is consistent with Netflix's official website.
+ - The webpage's links are all valid and go to the intended destinations.
+ - The webpage does not contain any malicious code.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+ 1. Target brand: TFBank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Kundennummer (Customer number)
+ - Geburtsdatum (Date of birth)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage's URL is not a secure link.
+ - The webpage's design is not consistent with the official TFBank website.
+ - The webpage's logo is slightly different from the official TFBank logo.
+ - The webpage's text contains grammatical errors.
+ - The webpage's input fields are not secure.
+ - The webpage's "Einloggen" (Log in) button is not a secure button.
+ - The webpage's background image is not a professional image.
+ - The webpage's overall appearance is not trustworthy.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Tracking Code
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL does not match the official DHL website.
+ - The logo is slightly different from the official DHL logo.
+ - The font used in the page is different from the official DHL font.
+ - The layout of the page is different from the official DHL website.
+ - The page requests personal information, such as the tracking code, email, and password, which is not typical of the official DHL website.
+ - The 'Next' button has an unusual color and does not match the official DHL branding.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Target brand: Allegro
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a valid domain name.
+ - The webpage has a valid IP address.
+ - The webpage has a valid favicon.
+ - The webpage has a valid title.
+ - The webpage has a valid description.
+ - The webpage has a valid viewport.
+ - The webpage has a valid charset.
+ - The webpage has a valid language.
+ - The webpage has a valid content-type.
+ - The webpage has a valid cache-control.
+ - The webpage has a valid pragma.
+ - The webpage has a valid expires.
+ - The webpage has a valid last-modified.
+ - The webpage has a valid etag.
+ - The webpage has a valid vary.
+ - The webpage has a valid server.
+ - The webpage has a valid x-powered-by.
+ - The webpage has a valid x-content-type-options.
+ - The webpage has a valid x-frame-options.
+ - The webpage has a valid x-xss-protection.
+ - The webpage has a valid content-security-policy.
+ - The webpage has a valid x-webkit-csp.
+ - The webpage has a valid x-content-security-policy.
+ - The webpage has a valid x-frame-options.
+ - The webpage has a valid x-xss-protection.
+ - The webpage has a valid expect-ct.
+ - The webpage has a valid report-to.
+ - The webpage has a valid subresource-integrity.
+ - The webpage has a valid cross-origin-opener-policy.
+ - The webpage has a valid cross-origin-embedder-policy.
+ - The webpage has a valid referrerpolicy.
+ - The webpage has a valid permissions-policy.
+ - The webpage has a valid feature-policy.
+ - The webpage has a valid x-request-id.
+ - The webpage has a valid x-correlation-id.
+ - The webpage has a valid x-envoy-upstream-service-time.
+ - The webpage has a valid x-envoy-attempt-count.
+ - The webpage has a valid x-envoy-envoy-version.
+ - The webpage has a valid x-envoy-request-id.
+ - The webpage has a valid x-envoy-route-id.
+ - The webpage has a valid x-envoy-upstream-rq-time.
+ - The webpage has a valid x-envoy-upstream-rq-total-time.
+ - The webpage has a valid x-envoy-upstream-rs-time.
+ - The webpage has a valid x-envoy-upstream-rs-total-time.
+ - The webpage has a valid x-envoy-upstream-cx-time.
+ - The webpage has a valid x-envoy-upstream-cx-total-time.
+ - The webpage has a valid x-envoy-upstream-rx-bytes-total.
+ - The webpage has a valid x-envoy-Upstream-tx-bytes-total.
+ - The webpage has a valid x-envoy-Upstream-rx-bytes-buffered.
+ - The webpage has a valid x-envoy-Upstream-tx-bytes-buffered.
+ - The webpage has a valid x-envoy-Upstream-buffer-size-used.
+ - The webpage has a valid x-envoy-Upstream-buffer-size-total.
+ - The webpage has a valid x-envoy-Upstream-buffer-size-limit.
+ - The webpage has a valid x-envoy-Upstream-retry-on.
+ - The webpage has a valid x-envoy-Upstream-retry-attempt.
+ - The webpage has a valid x-envoy-Upstream-retry-reset.
+ - The webpage has a valid x-envoy-Upstream-retry-grpc-on.
+ - The webpage has a valid x-envoy-Upstream-retry-grpc-attempt.
+ - The webpage has a valid x-envoy-Upstream-retry-gr
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+ 1. Target brand: Banca di Pescia e della Versilia
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS to encrypt data transmitted between the user and the server.
+ - The webpage has a valid PCI DSS Level 1 certification.
+ - The webpage is regularly scanned for malware and vulnerabilities.
+ - The webpage has a good reputation and is not blacklisted by any major security vendors.
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with DPD's official website.
+ - The webpage's content is accurate and informative.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, phone, or Skype
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a legitimate Microsoft logo.
+ - The background pattern and color gradient are consistent with Microsoft's official styling.
+ - The links for 'Terms of use' and 'Privacy & cookies' at the bottom have the usual Microsoft hyperlink styling.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Target brand: Rebecca DONG
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - OTP
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a legitimate Rebecca DONG website.
+ - The page is hosted on a free web hosting service.
+ - The page is not using a secure connection (HTTPS).
+ - The page's design is not consistent with the official Rebecca DONG website.
+ - The page is asking for personal information, such as phone number and OTP, that is not necessary to access the content.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+ 1. Target brand: 365bet
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+ - Verification code
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The website is not using a secure connection (HTTPS).
+ - The website's address bar shows a padlock icon, but the certificate is not valid.
+ - The website's design is not consistent with the official 365bet website.
+ - The website's content is in Chinese, but the official 365bet website is in English.
+ - The website is asking for personal information, such as the user's name, password, and verification code.
+ - The website is using a fake "security" seal.
+ - The website is using a fake "customer service" number.
+ - The website is using a fake "live chat" feature.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+ 1. Target brand: Vserossiyskiy tvorcheskiy konkurs
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Name
+ - Email
+ - Phone number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage has a valid DNS record.
+ - The webpage has a valid WHOIS record.
+ - The webpage has a valid MX record.
+ - The webpage has a valid SPF record.
+ - The webpage has a valid DMARC record.
+ - The webpage has a valid CAA record.
+ - The webpage has a valid EV certificate.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - DPD Tracking Number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by Cloudflare, Inc.
+ - The webpage has a valid padlock icon in the address bar.
+ - The webpage has a valid "dpd.com" domain name.
+ - The webpage has a valid "DPD" logo.
+ - The webpage has a valid "Follow my package" title.
+ - The webpage has a valid "Your parcel number" label.
+ - The webpage has a valid "Schedule a New Delivery" button.
+ - The webpage has a valid "DPD" copyright notice.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - E-post (Email)
+  - Lösenord (Password)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a form that asks for DHL account credentials, including email and password.
+ - The webpage has a button that says "Logga in" (Log in) that is likely used to submit the credentials.
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage's design is not consistent with DHL's official website.
+ - The webpage's URL does not match DHL's official website.
+
+

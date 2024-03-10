@@ -1,0 +1,526 @@
+002676dbdd952c417112e1bc64fbca98117055f1fefe1192fa704143a82cec39
+ 1. Target brand: Dropbox
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL is not a Dropbox domain. 
+ - The webpage's design is not consistent with Dropbox's official website.
+ - The webpage's logo is slightly different from Dropbox's official logo.
+ - The webpage's text contains grammatical errors.
+ - The webpage's call-to-action button says "Sign in" instead of "Log in," which is what Dropbox typically uses.
+ - The webpage's privacy policy link goes to a different website.
+
+
+0a316022d0494224004c66972e0a1ed1a438406551b03d500b9371b9c15223c7
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Account password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - Facebook's official logo is not displayed on the webpage. 
+ - The URL of the webpage is not a Facebook domain.
+ - The text on the webpage is not grammatically correct. 
+ - There is a field on the webpage asking for the user's account password. 
+ - There is a button on the webpage that says "Turn on Facebook Protect".
+
+
+0a935dc00e8eb8c7c07b1902eeab9375f0137d2257a02aeff629049da246a4e1
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform, which is often used by phishing sites.
+ - The domain name of the webpage does not match the domain name of the legitimate Microsoft website.
+ - The webpage uses a generic "Sign In" button instead of the Microsoft logo or branding.
+ - The webpage asks for the user's email address and password, which is not necessary to sign in to a Microsoft account.
+ - The webpage uses a green padlock icon to indicate that the connection is secure, but this is not a guarantee that the webpage is legitimate.
+ - The webpage uses a background image of mountains, which is not related to Microsoft or the purpose of the webpage.
+
+
+0ab93c761fca25471f55cc60c11e89d57286c92b196386076df67bb898ba1fe2
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone number
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has the Google logo and branding.
+ - The domain name is "accounts.google.com", which is the official domain for Google accounts.
+ - The page has a valid SSL certificate.
+ - The page uses HTTPS, which is a secure protocol.
+ - The page has a privacy policy and terms of service.
+ - The page has a link to create a new account.
+ - The page has a link to sign in with a different account.
+ - The page has a link to learn more about using a guest mode.
+
+
+0b043af0a7439ebc2c0ccb9aed7e5175cc648e0793dc4a00e0f5c8294914975c
+ 1. Target brand: Norton
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The webpage is not hosted on Norton's official domain.
+   - The design of the webpage is different from Norton's official website.
+   - The webpage asks for users' credentials, which is not necessary for viewing a document.
+   - The webpage has a fake Norton Secured seal.
+
+
+0b0b395184a34761dc535e7b8379984b8e701b877c79af2f2a803ce8389904d8
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage is hosted on the official Microsoft domain.
+ - The webpage uses a valid SSL certificate.
+ - The webpage design is consistent with other official Microsoft webpages.
+ - The webpage contains genuine Microsoft branding and trademarks.
+ - The webpage content is consistent with other official Microsoft communications.
+
+
+0b2715e3ee0ef227991e481f7ca67a40179c46a844d3c69a9c9c9970a681736c
+ 1. Target brand: Reagan.com
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The webpage has a different URL than the official Reagan.com website.
+   - The webpage is hosted on a freeweebly.com subdomain, which is not associated with Reagan.com.
+   - The webpage's design and layout are different from the official Reagan.com website.
+   - The webpage contains several grammatical errors and typos.
+   - The webpage asks for users to enter their email address and password, which is not necessary to access the official Reagan.com website.
+
+
+0b35e7a82b92ba9aa97b2b73acc68dca437679822295c35764d75d29e725a351
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain name "swathi27s.github.io" is not owned by Netflix.
+ - The webpage's design and layout are different from the official Netflix website.
+ - The webpage's content contains grammatical errors and inconsistencies.
+ - The webpage's URL contains a parameter that is not used by Netflix.
+ - The webpage's source code contains suspicious code that could be used to steal user credentials.
+
+
+0b5fc1ac71862337ea21b3deabfefd1dee849e02d9b657cd6b56c3c93f6f1824
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email, phone, or Skype
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+   - The webpage has a legitimate Microsoft branding and design.
+   - The URL contains "microsoft" and is related to "login.srf", which is a legitimate Microsoft login URL.
+   - The page has a valid SSL certificate.
+   - The page has a legitimate "Sign in with a security key" option.
+   - The page has a legitimate "Sign-in options" link.
+   - The page has a legitimate "Terms of use" and "Privacy & cookies" links.
+
+
+0b76b3e005e3ca0e9c577edd049376573aab854630d9122315ea217f859f02d5
+ 1. Target brand: USPS
+2. Has credentials/call-to-action: Yes
+3. List of fields: Full name, Street address 1, Street address 2, City, State, Zip code, Phone number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design and layout are consistent with the USPS brand.
+ - The webpage's content is relevant to the USPS brand and does not contain any suspicious or malicious links.
+ - The webpage does not request any personal or financial information from the user.
+
+
+0b8d9c5e89c6485e83a51a0f0a3bee1955b78240b46fc56c78df5ae359d7a8b8
+ 1. Target brand: 3115aa
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is not a Dropbox domain. 
+ - The webpage is hosted on a free web hosting service. 
+ - The webpage's design is simple and lacks the branding and visual elements typically associated with Dropbox. 
+ - The webpage displays a generic error message that is not specific to Dropbox. 
+ - The webpage does not request any personal information or credentials.
+
+
+0c3914acb910974ffc0559e423942a8c7804aa5ed70e44660a0e6043c956a3ff
+ 1. Target brand: Sakura
+2. Has credentials/call-to-action: Yes
+3. List of fields: Phone number, OTP
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a legitimate Sakura website.
+ - The page is hosted on a free web hosting service.
+ - The design of the page is not consistent with Sakura's branding.
+ - The page requests sensitive information, such as phone number and OTP.
+
+
+0d21b70a59663dd73d94fce80647b0c8d368297bc2c68767ecf9c31a1bb19c5a
+ 1. Target brand: Garena Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Facebook login button
+ - Username field
+ - Password field
+ - Birthday field
+ - Address field
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform.
+ - The webpage's design is not consistent with Garena Free Fire's official website.
+ - The webpage's URL is not the same as Garena Free Fire's official website.
+ - The webpage asks for personal information that is not necessary to log in to a Garena Free Fire account.
+ - The webpage uses social engineering tactics to trick users into giving up their personal information.
+
+
+0db1a8e4beebb208c9bf8f43bd9b08f6a88dcbf77698895ed130306e141afefa
+ 1. Target brand: WhatsApp
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a legitimate WhatsApp domain.
+ - The page's design is not consistent with WhatsApp's official website.
+ - The page requests sensitive information, such as the user's phone number.
+ - The page uses a green padlock icon, which is not a secure connection.
+
+
+0db94cbd5c28ec3e2ed3c623ef259600f9de715d38ab232e37b1414623913997
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Email
+    - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid security certificate issued by Microsoft Corporation.
+ - The URL of the webpage starts with "https", which indicates that it is using a secure connection.
+ - The webpage is hosted on Microsoft's own servers.
+ - The design of the webpage is consistent with Microsoft's other webpages.
+ - The text on the webpage is clear and concise, and there are no spelling or grammatical errors.
+ - There are no suspicious links or buttons on the webpage.
+
+
+0dbce85d682d36ec3d51e3c1a4f01543c9ff0ae6a837a666fb60eb822b5ee53d
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - User ID
+ - Login pass
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is not hosted on AT&T's official domain.
+ - The webpage design is different from AT&T's official website.
+ - The webpage does not have a valid security certificate.
+ - The webpage is hosted on a free web hosting service.
+ - The webpage uses a generic login form that is not specific to AT&T.
+ - The webpage does not have any links to AT&T's official website.
+
+
+0dc2a5f543a29b4ab9c41c00aa884a02a57280c95f5cc63512b3202dff48bcca
+ 1. Target brand: NA
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Select Language to Continue
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a simple design with a blue background and white text. 
+ - The webpage has a clear call-to-action button that says "Select Language to Continue". 
+ - The webpage does not have any fields that ask for user credentials. 
+ - The webpage does not have any suspicious links or images.
+
+
+0df5cbf1eda78f6a92749042ec8ca9d3be371c6a46cb1be0dd2313f3e7751b6e
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - User ID
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a different URL than the legitimate AT&T website.
+ - The webpage's design is not consistent with AT&T's branding.
+ - The webpage's logo is slightly different from AT&T's official logo.
+ - The webpage's text contains grammatical errors.
+ - The webpage's "Sign in" button does not redirect to the legitimate AT&T website.
+
+
+0df982e5ad2879b82a3bbcba1e747dc289a57209cea45846a6a1c22bd7ef22b7
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - User ID
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The webpage's URL is not a legitimate AT&T domain.
+   - The webpage's design and layout are different from the legitimate AT&T login page.
+   - The webpage's logo is different from the legitimate AT&T logo.
+   - The webpage's text contains grammatical errors.
+   - The webpage's fields are not secure.
+
+
+0f74c4631b05d51a6cb3ff02353b8d2b8fa8fd865dbdea19652d127a4fe9005a
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on the official Telegram domain.
+ - The webpage uses the official Telegram logo and branding.
+ - The webpage content is consistent with the official Telegram website.
+
+
+1bff8f5c75ef5a03fcb9e43a16916cfd943090626233c1654c70bc1ba83a720c
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+   - The webpage has a valid SSL certificate and is hosted on a secure server.
+   - The webpage's design is consistent with Netflix's branding and uses high-quality images and graphics.
+   - The webpage's content is well-written and free of grammatical errors.
+   - The webpage's links and buttons all function properly and direct users to the intended pages.
+   - The webpage does not request any personal information from users, such as their credit card numbers or social security numbers.
+
+
+1c1d19941b9a3062aad475a0bcf53b9763901d626f7a069880f52d1280dda218
+ 1. Target brand: kuda
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The target brand is kuda, but the URL is web-kuda.firebaseapp.com. The domain name does not match the target brand.
+ - The page has a simple design with minimal branding.
+ - The page requests for user credentials, including email address and password.
+ - The "Sign In" button has a generic appearance and does not match the target brand's style.
+ - The page does not have any security indicators, such as a padlock icon or a security certificate.
+
+
+23923020cc2098a3f069d03af5b293cbb8d532dad22be4f1099f65361504b0b2
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "**telegra2.org**", which is very similar to the official Telegram website "**telegram.org**". 
+ - The webpage's design is consistent with the official Telegram website.
+ - The webpage's content is in Chinese, which is the same language as the official Telegram website.
+ - The webpage does not ask for any personal information or credentials.
+ - The webpage does not have any suspicious links or buttons.
+
+
+48648ae67c2ba2f14d14440ab83221a5e91976c07fdad6923d67679506d8493d
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "eieggim.life", which is not a legitimate Telegram domain.
+ - The webpage's design and layout are different from the official Telegram website.
+ - The webpage's content is in Chinese, which is not the primary language used by Telegram.
+ - The webpage has a lot of pop-ups and advertisements, which are not typically found on legitimate websites.
+
+
+6699cf25907a71d13e4ca198f889729818b50c04a94a902e5680ea42c23e69f7
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is legitimate and belongs to Telegram.
+ - The webpage's design is consistent with Telegram's official branding and follows its design guidelines.
+ - The webpage's content is relevant to Telegram and its services.
+ - The webpage does not contain any suspicious or malicious elements.
+
+
+798954895e228905bf2ae218c1c813b657727ba18760904b0bd269f140c58347
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure protocol (HTTPS).
+ - The webpage has a valid security policy.
+ - The webpage does not contain any malicious content.
+ - The webpage does not contain any phishing elements.
+ - The webpage does not contain any misleading information.
+ - The webpage does not contain any deceptive content.
+ - The webpage does not contain any malicious links.
+ - The webpage does not contain any malicious scripts.
+ - The webpage does not contain any malicious iframes.
+ - The webpage does not contain any malicious popups.
+ - The webpage does not contain any malicious redirects.
+ - The webpage does not contain any malicious downloads.
+ - The webpage does not contain any malicious cookies.
+ - The webpage does not contain any malicious local storage.
+ - The webpage does not contain any malicious session storage.
+ - The webpage does not contain any malicious IndexedDB.
+ - The webpage does not contain any malicious WebSockets.
+ - The webpage does not contain any malicious Service Workers.
+ - The webpage does not contain any malicious Push Notifications.
+ - The webpage does not contain any malicious WebRTC.
+ - The webpage does not contain any malicious WebGL.
+ - The webpage does not contain any malicious Canvas.
+ - The webpage does not contain any malicious Audio.
+ - The webpage does not contain any malicious Video.
+ - The webpage does not contain any malicious Image.
+ - The webpage does not contain any malicious Font.
+ - The webpage does not contain any malicious CSS.
+ - The webpage does not contain any malicious JavaScript.
+ - The webpage does not contain any malicious HTML.
+ - The webpage does not contain any malicious XML.
+ - The webpage does not contain any malicious SVG.
+ - The webpage does not contain any malicious MathML.
+ - The webpage does not contain any malicious GraphML.
+ - The webpage does not contain any malicious XAML.
+ - The webpage does not contain any malicious Flash.
+ - The webpage does not contain any malicious Silverlight.
+ - The webpage does not contain any malicious Java.
+ - The webpage does not contain any malicious ActiveX.
+ - The webpage does not contain any malicious VBScript.
+ - The webpage does not contain any malicious JScript.
+ - The webpage does not contain any malicious PowerShell.
+ - The webpage does not contain any malicious Batch.
+ - The webpage does not contain any malicious CMD.
+ - The webpage does not contain any malicious EXE.
+ - The webpage does not contain any malicious DLL.
+ - The webpage does not contain any malicious OCX.
+ - The webpage does not contain any malicious MSI.
+ - The webpage does not contain any malicious MSP.
+ - The webpage does not contain any malicious CAB.
+ - The webpage does not contain any malicious CHM.
+ - The webpage does not contain any malicious HLP.
+ - The webpage does not contain any malicious INF.
+ - The webpage does not contain any malicious ISO.
+ - The webpage does not contain any malicious DMG.
+ - The webpage does not contain any malicious PKG.
+ - The webpage does not contain any malicious APK.
+ - The webpage does not contain any malicious IPA.
+ - The webpage does not contain any malicious DEB.
+ - The webpage does not contain any malicious RPM.
+ - The webpage does not contain any malicious TAR.
+ - The webpage does not contain any malicious GZ.
+ - The webpage does not contain any malicious BZ2.
+ - The webpage does not contain any malicious ZIP.
+ - The webpage does not contain any malicious RAR.
+ - The webpage does not contain any malicious 7Z.
+ - The webpage does not contain any malicious XZ.
+ - The webpage does not contain any malicious LZMA.
+ - The webpage does not contain any malicious BZIP2.
+ - The webpage does not contain any malicious ZSTD.
+ - The webpage does not contain any malicious LZ4.
+ - The webpage does not contain any malicious Snappy.
+ - The webpage does not contain any malicious Brotli.
+ - The webpage does not contain any malicious Zopfli.
+ - The webpage does not contain any malicious LZHAM.
+ - The webpage does not contain any malicious LZUTF.
+ - The webpage does not contain any malicious LZSS.
+ - The webpage does not contain any malicious LZW.
+ - The webpage does not contain any malicious Huffman.
+ - The webpage does not contain any malicious RLE.
+ - The webpage does not contain any malicious Burrows-Wheeler.
+ - The webpage does not contain any malicious Move-to-Front.
+ - The webpage does not contain any malicious Run
+
+
+bcc26f5bd0afaeb3c846d0dd64faf14ce2e829c194306c0873d58238e0df29cf
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "telaggrams.xyz", which is different from the official Telegram website "telegram.org".
+ - The webpage's design and layout are different from the official Telegram website.
+ - The webpage's logo is different from the official Telegram logo.
+ - The webpage's text content is different from the official Telegram website.
+ - The webpage does not have any links to the official Telegram website.
+
+
+e74f1d1dd09de01a22282ac9893c8e07b6a9a8861eb779b4321eee6557c9dcb2
+ 1. Target brand: eBay
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email/Username
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not the official website of eBay.
+ - The logo is slightly different from the official eBay logo.
+ - The page is hosted on a free web hosting service.
+ - The page is not secure.
+ - The page contains multiple grammatical errors.
+ - The page is asking for personal information that is not necessary to create an account.
+
+
+f7900ef035b35988fca1edb0f6a4b8c0ea622ba23c44414a1c741426e1b104b3
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage is using the latest version of the TLS protocol.
+ - The webpage is using HSTS.
+ - The webpage is using referrerpolicy.
+ - The webpage is using subresource integrity.
+ - The webpage is using CSP.
+ - The webpage is using XSS protection.
+ - The webpage is using clickjacking protection.
+
+

@@ -1,0 +1,260 @@
+00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
+ 1. Target brand: Societe Generale
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is trying to imitate the login page of Societe Generale.
+ - The webpage has a fake "Se souvenir de moi" checkbox.
+ - The webpage has a fake "Valider" button.
+ - The webpage has a fake "Obtenir vos codes" button.
+ - The webpage has a fake "Code secret oublié" button.
+ - The webpage has a fake "Annuler" button.
+ - The webpage has a fake "Retour" button.
+ - The webpage has a fake "Espace client" button.
+ - The webpage has a fake "Compte" button.
+ - The webpage has a fake "Carte" button.
+ - The webpage has a fake "Assurance" button.
+ - The webpage has a fake "Crédit" button.
+ - The webpage has a fake "Epargne" button.
+ - The webpage has a fake "Retraite" button.
+ - The webpage has a fake "Placements" button.
+ - The webpage has a fake "Bourse" button.
+ - The webpage has a fake "Immobilier" button.
+ - The webpage has a fake "Crédit immobilier" button.
+ - The webpage has a fake "Assurance vie" button.
+ - The webpage has a fake "Assurance habitation" button.
+ - The webpage has a fake "Assurance auto" button.
+ - The webpage has a fake "Assurance santé" button.
+ - The webpage has a fake "Assurance prévoyance" button.
+ - The webpage has a fake "Assurance emprunteur" button.
+ - The webpage has a fake "Assurance scolaire" button.
+ - The webpage has a fake "Assurance voyage" button.
+ - The webpage has a fake "Assurance animaux" button.
+ - The webpage has a fake "Assurance habitation" button.
+ - The webpage has a fake "Assurance auto" button.
+ - The webpage has a fake "Assurance santé" button.
+ - The webpage has a fake "Assurance prévoyance" button.
+ - The webpage has a fake "Assurance emprunteur" button.
+ - The webpage has a fake "Assurance scolaire" button.
+ - The webpage has a fake "Assurance voyage" button.
+ - The webpage has a fake "Assurance animaux" button.
+
+
+00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
+ 1. Target brand: Correos
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+     - NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage screenshot has the logo and branding of Correos, a legitimate Spanish postal service company.
+ - The overall design and layout of the webpage are consistent with the official Correos website.
+ - The screenshot is a part of the Correos webpage for tracking a package, which is a legitimate service offered by Correos.
+ - The webpage screenshot has a secure padlock icon in the address bar, indicating that the connection is encrypted and secure.
+
+
+00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Email, phone, or Skype
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of the Microsoft logo and branding.
+ - The presence of a legitimate Microsoft copyright notice at the bottom of the page.
+ - The presence of a legitimate "Sign in options" link at the bottom of the page.
+ - The consistent visual design with legitimate Microsoft webpages.
+
+
+00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
+ 1. Target brand: Meta (Facebook)
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email address
+  - Name
+  - Phone number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage's URL is not a legitimate Meta (Facebook) website.
+ - The webpage's design and layout are different from the legitimate Meta (Facebook) website.
+ - The webpage's text contains grammatical errors and inconsistencies.
+ - The webpage's images are low-quality and appear to be stock photos.
+ - The webpage's call-to-action button is suspicious and does not match the legitimate Meta (Facebook) website.
+
+
+03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
+ 1. Target brand: 12 Volt Does It
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage has a padlock icon in the address bar.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a privacy policy.
+ - The webpage has a terms of service.
+ - The webpage has a contact us page.
+ - The webpage has a social media presence.
+ - The webpage has a physical address.
+ - The webpage has a phone number.
+
+
+05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage is trying to imitate the legitimate Microsoft Office 365 login page.
+ - The URL of the webpage is not the legitimate Microsoft Office 365 login page URL.
+ - The webpage is asking for the user's email address and password.
+ - The webpage has a fake "Sign in" button.
+ - The webpage is trying to trick the user into entering their credentials by using a fake Microsoft Office 365 login page.
+
+
+0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
+ 1. Target brand: PUBG Mobile
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Get Lizard M416
+ - Facebook
+ - Twitter
+ - Youtube
+ - Instagram
+ - VK
+ - Discord
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a lot of visual elements that are not related to PUBG Mobile, such as the images of people and the social media icons.
+ - The webpage is asking for user credentials, such as their Facebook or Twitter account.
+ - The webpage is not hosted on the official PUBG Mobile website.
+ - The webpage's design is not consistent with the official PUBG Mobile website.
+ - The webpage's text contains grammatical errors.
+ - The webpage's URL is not the official PUBG Mobile website.
+
+
+0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Username
+    - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on Google's servers.
+ - The webpage uses Google's branding and design elements, including the logo, color scheme, and typography.
+ - The webpage's content is consistent with Google's legitimate login page.
+ - The webpage does not contain any suspicious links or buttons.
+
+
+589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
+ 1. Target brand: Sakura
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The screenshot is of a group chat on a messaging app
+
+
+76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+     - Apple ID
+     - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is designed to mimic the Apple login page, but there are subtle differences, such as the font of the text and the color of the buttons.
+ - The webpage URL is not the official Apple website.
+ - The webpage asks for personal information, such as your Apple ID and password.
+ - There is no lock icon in the address bar, which indicates that the webpage is not secure.
+
+
+8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's design, including the logo and overall layout, is consistent with the legitimate Telegram website.
+ - The webpage's content is also consistent with the legitimate Telegram website, and there are no suspicious links or requests for personal information.
+ - There are no fields on the webpage asking for user credentials.
+ - The webpage's URL is legitimate and belongs to Telegram.
+
+
+d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
+ 1. Target brand: Sheng He Juing
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with the brand's official website.
+ - The webpage's content is in line with the brand's products and services.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
+ 1. Target brand: Desjardins
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with the Desjardins brand.
+ - The webpage's content is consistent with the Desjardins brand.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
+ 1. Target brand: Arvest Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage's design is consistent with Arvest Bank's branding.
+ - The webpage's content is consistent with Arvest Bank's messaging.
+ - The webpage does not ask for any sensitive information, such as Social Security numbers or credit card numbers.
+
+
+f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
+ 1. Target brand: Narodnye Nalitki
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with the brand's other official webpages.
+ - The webpage's content is related to the brand's products and services.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+

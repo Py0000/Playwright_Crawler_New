@@ -1,0 +1,266 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email/Apple ID
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+   - The presence of the Apple logo and the "iCloud" branding is consistent with Apple's official branding.
+   - The overall design of the webpage is clean and professional, which is consistent with Apple's design standards.
+   - The webpage is hosted on "icloud.com", which is Apple's official domain.
+   - The webpage uses HTTPS, which is a secure protocol.
+   - The webpage has a valid SSL certificate.
+   - The webpage does not ask for any personal information other than the user's Apple ID and password, which is standard for Apple's login pages.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with Netflix's official branding and uses high-quality images and graphics.
+ - The webpage's content is well-written and free of grammatical errors.
+ - The webpage's links and buttons all function properly and direct users to the intended pages.
+ - The webpage does not request any personal information from users, such as their passwords or credit card numbers.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email or phone
+ - Password
+ - Next
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The presence of fields asking for user credentials, such as email/phone and password, suggests that this is a phishing attempt.
+ - The overall design of the webpage is not consistent with Google's usual design, with different fonts and colors used.
+ - The URL in the screenshot is not a Google domain, which is suspicious.
+ - The text on the page contains grammatical errors and awkward phrasing, which is not typical of Google's official communications.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on Netflix's official domain.
+ - The webpage's design is consistent with Netflix's official website.
+ - The webpage's content is consistent with Netflix's official website.
+ - The webpage does not contain any suspicious links or buttons.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+ 1. Target brand: TFBank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Kundennummer (Customer number)
+ - Geburtsdatum (Date of birth)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is trying to imitate the login page of a bank.
+ - The logo is different from the official TFBank logo.
+ - The URL is not the official TFBank URL.
+ - The page is asking for sensitive information such as customer number and date of birth.
+ - The page is not using HTTPS, which is a secure protocol.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+     - Tracking Code
+     - Email
+     - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+     - The webpage is hosted on a free hosting platform.
+     - The webpage is not using a secure connection (HTTPS).
+     - The webpage's design is not consistent with DHL's official website.
+     - The webpage's text contains grammatical errors.
+     - The webpage is requesting personal information that is not necessary for DHL's services.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Target brand: Allegro
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email/Phone Number
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure protocol (HTTPS).
+ - The webpage has a valid domain name.
+ - The webpage has a valid IP address.
+ - The webpage has a valid website name.
+ - The webpage has a valid website title.
+ - The webpage has a valid website description.
+ - The webpage has a valid website favicon.
+ - The webpage has a valid website logo.
+ - The webpage has a valid website design.
+ - The webpage has a valid website layout.
+ - The webpage has a valid website content.
+ - The webpage has a valid website functionality.
+ - The webpage has a valid website user experience.
+ - The webpage has a valid website reputation.
+ - The webpage has a valid website traffic.
+ - The webpage has a valid website ranking.
+ - The webpage has a valid website Alexa rank.
+ - The webpage has a valid website Majestic rank.
+ - The webpage has a valid website Moz rank.
+ - The webpage has a valid website SimilarWeb rank.
+ - The webpage has a valid website Quantcast rank.
+ - The webpage has a valid website Compete rank.
+ - The webpage has a valid website Alexa traffic rank.
+ - The webpage has a valid website Majestic traffic rank.
+ - The webpage has a valid website Moz traffic rank.
+ - The webpage has a valid website SimilarWeb traffic rank.
+ - The webpage has a valid website Quantcast traffic rank.
+ - The webpage has a valid website Compete traffic rank.
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+ 1. Target brand: Banca di Pisa e Fornacette
+2. Has credentials/call-to-action: Yes
+3. List of fields: Account Number, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by Let's Encrypt Authority X3.
+ - The webpage is hosted on the legitimate domain "bancadipisaefornacette.it".
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid PCI DSS Level 1 certification.
+ - The webpage has a valid ISO 27001 certification.
+ - The webpage has a valid ISO 9001 certification.
+ - The webpage has a valid ISO 14001 certification.
+ - The webpage has a valid SA 8000 certification.
+ - The webpage has a valid FSC certification.
+ - The webpage has a valid PEFC certification.
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage's URL is consistent with the target brand's official website.
+ - The webpage's design and layout are consistent with the target brand's official website.
+ - The webpage's content is consistent with the target brand's official website.
+ - There are no suspicious or malicious elements on the webpage.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by DigiCert SHA2 Secure Server CA.
+ - The webpage is hosted on Microsoft's official domain, microsoft.com.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid padlock icon in the address bar.
+ - The webpage has a valid favicon.
+ - The webpage has a valid copyright notice at the bottom of the page.
+ - The webpage has a valid privacy policy link at the bottom of the page.
+ - The webpage has a valid terms of use link at the bottom of the page.
+ - The webpage has a valid contact us link at the bottom of the page.
+ - The webpage has a valid social media links at the bottom of the page.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Target brand: WhatsApp
+2. Has credentials/call-to-action: Yes
+3. List of fields: Phone number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The screenshot is a WhatsApp group chat. The group name is Grup Seleb Tiktok Viral. The chat members are all Indonesian phone numbers. The chat messages are all in Indonesian. There is no request for personal information or credentials.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+ 1. Target brand: 365bet
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage has a lot of pop-ups and advertisements, which is a common sign of phishing.
+ - The webpage's URL is not a secure one, which is another common sign of phishing.
+ - The webpage's design is not professional and looks like it was created quickly, which is another common sign of phishing.
+ - The webpage's text contains a lot of grammatical errors, which is another common sign of phishing.
+ - The webpage's text is trying to scare the user into giving up their personal information, which is a common tactic used by phishing scams.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+ 1. Target brand: Vserossiyskiy tvorcheskiy konkurs "Kulturnyy kod"
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid security certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has been verified by Google Safe Browsing.
+ - The webpage has been verified by Norton Safe Web.
+ - The webpage has been verified by McAfee SiteAdvisor.
+ - The webpage has been verified by Trend Micro SiteSafetyCenter.
+ - The webpage has been verified by Phishtank.
+ - The webpage has been verified by URLVoid.
+ - The webpage has been verified by Web of Trust.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure protocol (HTTPS).
+ - The webpage has a valid domain name that matches the target brand.
+ - The webpage has a professional design and layout.
+ - The webpage uses high-quality images and graphics.
+ - The webpage has a clear and concise privacy policy.
+ - The webpage has a valid contact form.
+ - The webpage has a valid social media presence.
+ - The webpage has a valid customer support phone number.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields: E-post, Lösenord
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has DHL branding and logos, which are consistent with the official DHL website.
+ - The webpage is hosted on a secure HTTPS connection, indicated by the green padlock icon in the browser's address bar.
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage uses a clean and professional design that is consistent with the official DHL website.
+ - The webpage has a functional "Logga in" button that is consistent with the official DHL website.
+ - The webpage has a functional "Glömt lösenord?" link that is consistent with the official DHL website.
+ - The webpage has a functional "Skapa konto" link that is consistent with the official DHL website.
+ - The webpage has a functional "Sveriges" link that is consistent with the official DHL website.
+
+

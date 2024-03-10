@@ -1,0 +1,59 @@
+2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
+ 1. Target brand: Auto Followers
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Email Address
+- Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+- The target brand has a low online presence with no official website or social media pages.
+- The URL in the screenshot is suspicious and does not match the target brand.
+- The design of the webpage is poor and unprofessional, with multiple grammatical errors.
+- The webpage requests personal information such as email address and password without any security measures.
+- The webpage does not provide any contact information or terms of service.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's URL is legitimate and belongs to Telegram.
+ - The webpage's design is consistent with Telegram's official branding and does not contain any suspicious elements.
+ - The webpage's content is written in clear and concise language and does not contain any spelling or grammatical errors.
+ - The webpage does not request any personal information from the user.
+
+
+4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb
+ 1. Target brand: Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: Full name, Date of birth, Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage's design is not consistent with the official Free Fire website.
+ - The webpage's URL is not the same as the official Free Fire website.
+ - The webpage asks for personal information, such as full name, date of birth, and address, which is not necessary to log in to a game.
+ - The webpage has a fake "Like" button that does not lead to the official Free Fire Facebook page.
+ - The webpage has a fake "Share" button that does not lead to the official Free Fire website.
+ - The webpage has a fake "Comment" button that does not lead to the official Free Fire website.
+
+
+6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on Telegram's official domain.
+ - The webpage's design is consistent with Telegram's official branding and user interface.
+ - The webpage's content is in line with Telegram's official announcements and updates.
+ - There are no suspicious links or buttons on the webpage.
+
+

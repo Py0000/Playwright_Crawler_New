@@ -1,0 +1,189 @@
+0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+ - User ID
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage has a simple design and lacks the visual polish typically associated with AT&T's official webpages.
+ - The logo appears slightly off compared to the official AT&T logo.
+ - The input fields lack proper labels or placeholders, which is unusual for a legitimate AT&T login page.
+ - The 'SIGN IN' button lacks the blue color typically used by AT&T for its official buttons.
+ - The background is a plain white, which is inconsistent with AT&T's branding.
+
+
+33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255
+ 1. Target brand: Disqus
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's URL is legitimate and belongs to Disqus.
+ - The webpage's design is consistent with the official Disqus website.
+ - The webpage's content is relevant to Disqus and does not contain any suspicious or malicious links.
+ - The webpage does not request any personal information from the user.
+
+
+37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email account
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The overall design and layout of the webpage are not consistent with the official Webmail website.
+   - The logo is slightly different from the official Webmail logo.
+   - The text on the page is in Spanish, but the official Webmail website is in English.
+   - The URL of the webpage is not the official Webmail website.
+   - The webpage asks for the user's email address and password, which is not typical of the official Webmail website.
+
+
+6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or Phone
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The URL does not match the official Facebook login page URL.
+   - The logo is slightly different from the official Facebook logo.
+   - The text on the page is in Thai, which is not the default language for Facebook.
+   - The "Log In" button is a different color than the official Facebook login button.
+   - The page is missing the usual Facebook security features, such as the padlock icon in the address bar and the "Forgot password?" link.
+
+
+6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: Country, Phone number
+4. Conclusion: Phishing
+5. Phishing Score: 7
+6. Supporting evidence: 
+ - The logo is slightly different from the official Telegram logo.
+ - The overall design and layout do not match the official Telegram web client.
+ - The text "Please confirm your country code and phone number." is not a typical Telegram prompt.
+ - The input field for the phone number does not have the typical Telegram styling.
+ - The 'Next' button is not styled in Telegram's signature blue color.
+
+
+6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Mobile number or email address
+- Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+- The URL is secure (https)
+- The logo is correct
+- The general layout of the page is consistent with the official Facebook login page
+- The input fields are consistent with the official Facebook login page
+- The "Log In" button is consistent with the official Facebook login page
+- The "Create New Account" button is consistent with the official Facebook login page
+- The "Forgotten password?" link is consistent with the official Facebook login page
+- The language options are consistent with the official Facebook login page
+- The copyright notice at the bottom of the page is consistent with the official Facebook login page
+
+
+83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email, phone, or Skype
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL does not match the official Microsoft website.
+ - The page is not using a secure HTTPS connection.
+ - The page is asking for personal information, such as your password, that Microsoft would not ask for on a login page.
+ - The page has a fake "Forgot password" link.
+ - The page has a fake "Sign in" button.
+
+
+9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8
+ 1. Target brand: Deer Park Progress
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Name
+ - Email
+ - Phone Number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is legitimate.
+ - The webpage's design is consistent with the Deer Park Progress brand.
+ - The webpage's content is relevant to the Deer Park Progress brand.
+ - The webpage does not contain any suspicious links or buttons.
+
+
+9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is requesting for sensitive information such as password.
+ - The URL of the webpage is not a Microsoft website.
+ - The design of the webpage is different from the official Microsoft website.
+ - The text on the webpage contains grammatical errors.
+
+
+d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
+ 1. Target brand: Coinbase
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - Coinbase does not have a product called Coinbase Wall.
+ - The URL for the website is coinbase.com, not coinbasewall.com.
+ - The website is not using a secure connection (HTTPS).
+ - The website's design is not consistent with Coinbase's official website.
+ - The website's text contains grammatical errors.
+ - The website is asking for users to provide their email address and password.
+
+
+f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Username
+    - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL does not match the official Webmail website.
+ - The webpage's design and layout are different from the official Webmail website.
+ - The webpage's logo is different from the official Webmail logo.
+ - The webpage's text contains grammatical errors.
+ - The webpage's security certificate is not valid.
+
+
+fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has the official Telegram logo and branding.
+ - The page has a clean and consistent design.
+ - The page has a valid SSL certificate.
+ - The page is hosted on the official Telegram domain.
+
+

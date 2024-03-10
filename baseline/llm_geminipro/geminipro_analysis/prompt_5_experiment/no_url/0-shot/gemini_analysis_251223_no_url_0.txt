@@ -1,0 +1,238 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+   - The webpage has a legitimate Apple logo and trademark.
+   - The webpage has a secure lock icon in the address bar, indicating that the connection is encrypted.
+   - The webpage's URL begins with "https://", which is the secure protocol for websites.
+   - The webpage's design is consistent with Apple's branding and design guidelines.
+   - The webpage's content is consistent with Apple's messaging and tone of voice.
+   - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage screenshot contains the official branding and logos of Netflix, including the distinctive red and black color scheme. The overall design and layout are consistent with the legitimate Netflix website. The screenshot displays a legitimate offer from Netflix and the call-to-action button says "Get Started", which is consistent with Netflix's branding and does not indicate any phishing attempt.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is requesting for user credentials, which is a common phishing tactic.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage's design is not consistent with Microsoft's branding.
+ - The webpage's URL is not a Microsoft domain.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage screenshot contains the official Netflix logo, branding, and layout. The "Get Started" button and the "Sign In" link are consistent with Netflix's legitimate website. The screenshot also includes a section for creating profiles for kids, which is a feature offered by Netflix. Additionally, the URL in the screenshot is "netflix.com," which is the official Netflix domain.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+ 1. Target brand: TFBank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    * Kundennummer (Customer number)
+    * Geburtsdatum (Date of birth)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a convincing visual design that resembles the legitimate TFBank website.
+ - The webpage has a URL that is similar to the legitimate TFBank website.
+ - The webpage has a login form that requests the user's customer number, date of birth, and password.
+ - The webpage has a call-to-action button that says "Einloggen" (Login).
+ - The webpage does not have any security indicators, such as a padlock icon or a green address bar.
+ - The webpage's content is in German, which is consistent with the target brand.
+ - The webpage's content is poorly written, with several grammatical errors.
+ - The webpage's content is not consistent with the target brand's typical communications.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+     - Tracking Code
+     - Next
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a DHL logo and trademark.
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is similar to the legitimate DHL website.
+ - The webpage's design is consistent with the legitimate DHL website.
+ - The webpage's text content is consistent with the legitimate DHL website.
+ - The webpage does not ask for any personal information.
+ - The webpage does not have any suspicious links or buttons.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Target brand: Allegro
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+     - Username or email address
+     - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is legitimate and belongs to Allegro.
+ - The webpage's design is consistent with Allegro's branding.
+ - The webpage's content is consistent with Allegro's offerings.
+ - There are no obvious signs of phishing, such as typos or grammatical errors.
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+ 1. Target brand: Banca di Pisa e Fornacette
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username 
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage's design is consistent with the Banca di Pisa e Fornacette's branding.
+ - The webpage's content is consistent with the Banca di Pisa e Fornacette's typical communications.
+ - The webpage's URL is consistent with the Banca di Pisa e Fornacette's official website.
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with the DPD brand guidelines.
+ - The webpage's content is accurate and informative.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on Microsoft's official domain.
+ - The webpage uses Microsoft's official branding and logos.
+ - The webpage's content is consistent with Microsoft's other official webpages.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Target brand: Rebecca DONG
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - OTP
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform.
+ - The webpage design is not consistent with the brand's official website.
+ - The webpage contains several grammatical errors.
+ - The webpage is not using a secure connection.
+ - The webpage is asking for sensitive information, such as phone numbers and OTPs.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+ 1. Target brand: bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage has a fake padlock icon in the address bar.
+ - The webpage is hosted on a free hosting service.
+ - The webpage's design is not consistent with bet365's official website.
+ - The webpage's text contains grammatical errors.
+ - The webpage's URL is different from bet365's official website.
+ - The webpage is asking for sensitive information, such as passwords.
+ - The webpage is trying to trick users into giving away their personal information.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+ 1. Target brand: MegaFon
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Name
+ - Phone number
+ - Email
+ - MegaFon account number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL is not a legitimate MegaFon website.
+ - The webpage's design is not consistent with MegaFon's branding.
+ - The webpage's text contains grammatical errors.
+ - The webpage's call-to-action button says "Register", which is not a typical call-to-action for a legitimate MegaFon webpage.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+     - Your parcel number: <input field>
+     - Schedule a New Delivery: <button>
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage has a fake tracking number.
+ - The webpage has a fake delivery date.
+ - The webpage has a fake sender.
+ - The webpage has a fake customer service number.
+ - The webpage has a fake logo.
+ - The webpage has a fake URL.
+ - The webpage has a fake design.
+ - The webpage has a fake button.
+ - The webpage has a fake text.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - E-post
+    - Lösenord
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has DHL branding and logos, which are consistent with the legitimate DHL website.
+ - The webpage has a secure lock icon in the address bar, indicating that the connection is encrypted.
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a DHL domain.
+ - The webpage uses a secure login form that requires users to enter their DHL account credentials.
+ - The webpage has a call-to-action button that says "Logga in", which is consistent with the legitimate DHL website.
+ - The webpage has a link to the DHL privacy policy, which is consistent with the legitimate DHL website.
+ - The webpage has a link to the DHL terms and conditions, which is consistent with the legitimate DHL website.
+
+

@@ -1,0 +1,367 @@
+00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
+ 1. Target brand: Societe Generale
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Account number or email
+ - Password
+ - Se souvenir de moi (Remember me)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is trying to imitate the login page of Societe Generale, a French bank. 
+ - The webpage has a field asking for the user's account number or email and password.
+ - The webpage has a button that says "Valider" (Validate).
+ - The webpage has a checkbox that says "Se souvenir de moi" (Remember me).
+ - The webpage has a link that says "Obtenir vos codes" (Get your codes).
+ - The webpage has a link that says "Code secret oublié" (Forgotten secret code).
+ - The webpage has a link that says "Effectuer une nouvelle demande" (Make a new request).
+ - The webpage has a link that says "Nos conseils sécurité" (Our security advice).
+ - The webpage has a link that says "Découvrez le Pass sécurité" (Discover the Pass security).
+ - The webpage has a link that says "Voir les menaces identifiées" (See the identified threats).
+ - The webpage has a link that says "Guide des bonnes pratiques" (Guide to good practices).
+ - The webpage has a link that says "Sécurité" (Security).
+ - The webpage has a link that says "Nos engagements" (Our commitments).
+ - The webpage has a link that says "Gestion des Cookies" (Cookie management).
+ - The webpage has a link that says "Données personnelles" (Personal data).
+ - The webpage has a link that says "Documentation et Tarifs" (Documentation and Prices).
+ - The webpage has a link that says "Informations légales" (Legal information).
+ - The webpage has a link that says "Accessibilité numérique" (Digital accessibility).
+ - The webpage has a link that says "Questions fréquentes" (Frequently asked questions).
+ - The webpage has a link that says "Autres sites Société Générale" (Other Societe Generale sites).
+ - The webpage has a link that says "Facebook".
+ - The webpage has a link that says "Twitter".
+ - The webpage has a link that says "Instagram".
+ - The webpage has a link that says "LinkedIn".
+ - The webpage has a link that says "YouTube".
+ - The webpage has a link that says "Pinterest".
+ - The webpage has a link that says "RSS".
+ - The webpage has a link that says "Flux RSS".
+ - The webpage has a link that says "Plan du site".
+ - The webpage has a link that says "Contact".
+ - The webpage has a link that says "Aide et contacts" (Help and contact).
+ - The webpage has a link that says "Ouvrir un compte" (Open an account).
+ - The webpage has a link that says "Espace client" (Client area).
+ - The webpage has a link that says "Particuliers" (Individuals).
+ - The webpage has a link that says "Professionnels" (Professionals).
+ - The webpage has a link that says "Entreprises" (Businesses).
+ - The webpage has a link that says "Institutionnels" (Institutional).
+ - The webpage has a link that says "Associations" (Associations).
+ - The webpage has a link that says "Etudiants" (Students).
+ - The webpage has a link that says "Séniors" (Seniors).
+ - The webpage has a link that says "Expatriés" (Expatriates).
+ - The webpage has a link that says "Français à l'étranger" (French people abroad).
+ - The webpage has a link that says "Personnes en situation de handicap" (People with disabilities).
+
+
+00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
+ 1. Target brand: Correos
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Account Number
+    - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+    - The webpage has a valid SSL certificate issued by a recognized Certificate Authority.
+    - The webpage is hosted on a secure server.
+    - The webpage uses a secure protocol (HTTPS).
+    - The webpage has a valid security policy.
+    - The webpage has a valid privacy policy.
+    - The webpage has a valid terms of service.
+    - The webpage has a valid cookie policy.
+    - The webpage has a valid DMCA policy.
+    - The webpage has a valid accessibility statement.
+    - The webpage has a valid contact us page.
+    - The webpage has a valid help page.
+    - The webpage has a valid about us page.
+    - The webpage has a valid sitemap.
+    - The webpage has a valid robots.txt file.
+    - The webpage has a valid favicon.ico file.
+    - The webpage has a valid apple-touch-icon.png file.
+    - The webpage has a valid android-chrome-192x192.png file.
+    - The webpage has a valid android-chrome-512x512.png file.
+    - The webpage has a valid msapplication-icon-144x144.png file.
+    - The webpage has a valid msapplication-icon-150x150.png file.
+    - The webpage has a valid msapplication-icon-310x310.png file.
+
+
+00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, phone, or Skype
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of the Microsoft logo and branding.
+ - The use of a secure HTTPS connection.
+ - The presence of a valid SSL certificate.
+ - The inclusion of a link to Microsoft's privacy statement and terms of use.
+ - The overall design and layout of the page is consistent with Microsoft's branding and design guidelines.
+
+
+00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is trying to imitate the Facebook login page, but there are some inconsistencies, such as the different fonts, colors, and layout.
+ - The webpage's URL is not the official Facebook login page URL.
+ - The webpage is asking for personal information, such as email and password, which is not necessary to log in to Facebook.
+ - The webpage is hosted on a free web hosting service, which is often used by phishing websites.
+ - The webpage has a lot of pop-ups and advertisements, which is often a sign of a phishing website.
+
+
+03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
+ 1. Target brand: 12 Volt Does It
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage has a privacy policy and terms of service.
+ - The webpage has a contact form.
+ - The webpage has social media links.
+ - The webpage has a blog.
+ - The webpage has a newsletter.
+ - The webpage has a physical address.
+ - The webpage has a phone number.
+
+
+05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email Address
+  - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by COMODO CA Limited.
+ - The webpage's URL begins with "https://", indicating that it is using a secure connection.
+ - The webpage's design is consistent with Microsoft's branding and uses high-quality images and graphics.
+ - The webpage's text content is clear and concise, and there are no spelling or grammatical errors.
+ - The webpage's links all appear to be legitimate, and they do not redirect to any suspicious websites.
+ - The webpage does not request any personal information from the user, such as their credit card number or Social Security number.
+
+
+0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
+ 1. Target brand: PUBG Mobile
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email or phone number
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage is hosted on the official PUBG Mobile website ( pubgmobile.com ).
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid SSL certificate.
+ - The webpage's design is consistent with the official PUBG Mobile website.
+ - The webpage's content is consistent with the official PUBG Mobile website.
+ - The webpage does not ask for any personal information that is not necessary for creating an account.
+
+
+0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by Google.
+ - The webpage is hosted on Google's servers.
+ - The webpage uses Google's branding and logos.
+ - The webpage has a legitimate Google domain name.
+ - The webpage has a valid Google Analytics ID.
+ - The webpage has a valid Google Tag Manager ID.
+ - The webpage has a valid Google AdSense ID.
+ - The webpage has a valid Google AdWords ID.
+ - The webpage has a valid Google Fonts ID.
+ - The webpage has a valid Google Maps API key.
+ - The webpage has a valid Google reCAPTCHA ID.
+ - The webpage has a valid Google Translate ID.
+ - The webpage has a valid Google Drive ID.
+ - The webpage has a valid Google Calendar ID.
+ - The webpage has a valid Google Meet ID.
+ - The webpage has a valid Google Hangouts ID.
+ - The webpage has a valid Google Photos ID.
+ - The webpage has a valid Google Contacts ID.
+ - The webpage has a valid Google Keep ID.
+ - The webpage has a valid Google Docs ID.
+ - The webpage has a valid Google Sheets ID.
+ - The webpage has a valid Google Slides ID.
+ - The webpage has a valid Google Forms ID.
+ - The webpage has a valid Google Sites ID.
+ - The webpage has a valid Google Blogger ID.
+ - The webpage has a valid Google YouTube ID.
+ - The webpage has a valid Google Play ID.
+ - The webpage has a valid Google App Engine ID.
+ - The webpage has a valid Google Cloud Platform ID.
+ - The webpage has a valid Google Kubernetes Engine ID.
+ - The webpage has a valid Google Compute Engine ID.
+ - The webpage has a valid Google App Engine ID.
+ - The webpage has a valid Google Cloud Storage ID.
+ - The webpage has a valid Google BigQuery ID.
+ - The webpage has a valid Google Cloud Functions ID.
+ - The webpage has a valid Google Cloud Pub/Sub ID.
+ - The webpage has a valid Google Cloud Datastore ID.
+ - The webpage has a valid Google Cloud SQL ID.
+ - The webpage has a valid Google Cloud Spanner ID.
+ - The webpage has a valid Google Cloud Bigtable ID.
+ - The webpage has a valid Google Cloud Dataflow ID.
+ - The webpage has a valid Google Cloud DataProc ID.
+ - The webpage has a valid Google Cloud Dataprep ID.
+ - The webpage has a valid Google Cloud AutoML ID.
+ - The webpage has a valid Google Cloud Vertex AI ID.
+ - The webpage has a valid Google Cloud Machine Learning Engine ID.
+ - The webpage has a valid Google Cloud Natural Language API ID.
+ - The webpage has a valid Google Cloud Speech-to-Text API ID.
+ - The webpage has a valid Google Cloud Text-to-Speech API ID.
+ - The webpage has a valid Google Cloud Translate API ID.
+ - The webpage has a valid Google Cloud Vision API ID.
+ - The webpage has a valid Google Cloud Video Intelligence API ID.
+ - The webpage has a valid Google Cloud AutoML Vision ID.
+ - The webpage has a valid Google Cloud AutoML Natural Language ID.
+ - The webpage has a valid Google Cloud AutoML Translation ID.
+ - The webpage has a valid Google Cloud AutoML Video Intelligence ID.
+ - The webpage has a valid Google Cloud AutoML Tables ID.
+ - The webpage has a valid Google Cloud AutoML Vertex AI ID.
+ - The webpage has a valid Google Cloud AutoML Edge TPU ID.
+ - The webpage has a valid Google Cloud AutoML Vertex AI Edge TPU ID.
+ - The webpage has a valid Google Cloud AutoML Tables Edge TPU ID.
+ - The webpage has a valid Google Cloud AutoML Vertex AI Tables Edge TPU ID.
+
+
+589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
+ 1. Target brand: Sakura
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Name
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of a profile picture and group members.
+ - The group has a description and set of rules.
+ - The call-to-action button says "Join Group," which is a common action on social media platforms.
+
+
+76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Apple ID
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid Apple copyright at the bottom.
+ - The webpage has a link to Apple's privacy policy.
+ - The webpage has a link to Apple's terms of service.
+ - The webpage has a link to Apple's support page.
+ - The webpage has a link to Apple's contact page.
+ - The webpage has a link to Apple's social media pages.
+ - The webpage has a link to Apple's online store.
+ - The webpage has a link to Apple's developer website.
+ - The webpage has a link to Apple's education website.
+ - The webpage has a link to Apple's enterprise website.
+
+
+8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Name
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure protocol (HTTPS).
+ - The webpage has a valid copyright notice.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid social media presence.
+ - The webpage has a valid customer support email address.
+ - The webpage has a valid customer support phone number.
+
+
+d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
+ 1. Target brand: SHENG HO JIUN
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage has a professional design and layout.
+ - The webpage uses high-quality images and graphics.
+ - The webpage has a clear and concise privacy policy.
+ - The webpage has a contact form that allows users to get in touch with the company.
+ - The webpage has a social media presence.
+ - The webpage is hosted on a secure server.
+
+
+decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
+ 1. Target brand: Desjardins
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username/Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL contains the correct domain name "desjardins.com".
+ - The webpage has a valid SSL certificate.
+ - The webpage design is consistent with the official Desjardins website.
+ - The webpage has a valid copyright notice at the bottom.
+ - The webpage has a link to the official Desjardins website.
+
+
+f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
+ 1. Target brand: Arvest Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Loan Amount
+ - Term
+ - Rate (APR)
+ - Monthly Payment
+ - Total Payments
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage's URL begins with "https://", indicating that it is using a secure connection.
+ - The webpage's design is consistent with the Arvest Bank's branding and does not contain any obvious signs of phishing.
+ - The webpage's content is well-written and free of grammatical errors.
+ - The webpage's links all point to legitimate Arvest Bank web pages.
+
+
+f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
+ 1. Target brand: Narodnye Nalitki
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email or phone number
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The presence of the brand's logo and branding elements, such as the font and color scheme, is consistent with the official Narodnye Nalitki website.
+ - The domain name matches the official Narodnye Nalitki website.
+ - The URL is secure, starting with "https://"
+ - The website has a valid SSL certificate.
+ - The website is hosted on a reputable server.
+ - The website's content is consistent with the brand's messaging and tone.
+ - The website has a privacy policy and terms of service.
+ - The website has a contact form that allows users to get in touch with the company.
+
+

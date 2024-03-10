@@ -1,0 +1,162 @@
+4aa338f74582fab200185a53f108bb7c8152644530190f33a54fd1d08e02ad25
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage's design is consistent with Microsoft's branding and follows the company's visual guidelines. 
+ - The webpage's content is relevant to Microsoft's products and services, and is consistent with the company's tone of voice. 
+ - The webpage's URL is legitimate and belongs to Microsoft. 
+ - The webpage has a valid SSL certificate.
+
+
+4ce8a0e0ae3b7adfe042c6ec9b5da355ced3b7209b8757b394c28c2996c8dce8
+ 1. Target brand: DBS
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - DBS Internet Banking User ID
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar visual layout and design to the legitimate DBS website, but there are subtle differences in the logos and trademarks.
+ - The webpage's URL is not the legitimate DBS website URL.
+ - The webpage asks for user credentials, such as DBS Internet Banking User ID and Password.
+ - The webpage has a sense of urgency, offering a $150 instant discount, which may pressure users into making rash decisions.
+ - The webpage is hosted on a free hosting platform, which is not typical for a legitimate corporate website.
+
+
+54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81
+ 1. Target brand: Instagram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The Instagram logo is present in the screenshot, but it is slightly different from the official logo. The "@" symbol in the official logo is missing in the screenshot.
+ - The text on the screenshot is in Turkish, which is not the primary language used by Instagram.
+ - The URL in the screenshot is not the official Instagram URL.
+ - There is a field on the screenshot that asks for the user's password.
+ - There is a call-to-action button on the screenshot that says "Giriş Yap" which means "Log In" in Turkish.
+ - The overall design of the screenshot is similar to the official Instagram login page, but there are some discrepancies, such as the different logo and the Turkish text.
+
+
+593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105
+ 1. Target brand: Bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage has a similar design to the legitimate Bet365 webpage, but there are some discrepancies, such as the missing "s" in the "https" protocol in the address bar and the different font used in the text.
+ - The webpage is hosted on a different domain than the legitimate Bet365 webpage.
+ - The webpage asks for the user's credentials, which is not necessary for a legitimate webpage.
+ - The webpage has a call-to-action button that says "Login", which is not a common call-to-action for a legitimate webpage.
+ - The webpage has a QR code that says "Bet365", but it is not clear what the QR code is for.
+
+
+6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d
+ 1. Target brand: Uphold
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake URL that is similar to the legitimate Uphold website.
+ - The webpage has a fake login form that asks for the user's email address and password.
+ - The webpage has a fake "Forgot Password" link.
+ - The webpage has a fake "Sign Up" button.
+ - The webpage has a fake "Log In" button.
+ - The webpage has a fake "Uphold" logo.
+ - The webpage has fake social media icons.
+ - The webpage has a fake "Copyright" notice.
+
+
+789fd6e7081d9c6f60caa614127d16be13ee598f30eb3f049d54c7ed0208324a
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage is hosted on the official Microsoft domain.
+ - The webpage design is consistent with the official Microsoft website.
+ - The webpage uses the official Microsoft logo and branding.
+ - The webpage content is consistent with the official Microsoft messaging.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage does not ask for any personal information.
+
+
+b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and a padlock icon in the address bar.
+ - The webpage's URL is similar to the legitimate DPD website.
+ - The webpage's design is consistent with the legitimate DPD website.
+ - The webpage's content is consistent with the legitimate DPD website.
+ - There are no suspicious links or buttons on the webpage.
+
+
+b775e39e5156d2f1c18d9dc50868970658e0ce378a542ffbac621213768e9e8a
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email Address
+  - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage is hosted on the official Microsoft domain.
+ - The webpage design is consistent with the official Microsoft website.
+ - The webpage uses the official Microsoft logo and branding.
+ - The text content on the webpage is consistent with the official Microsoft messaging.
+ - There are no suspicious links or buttons on the webpage.
+
+
+d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed
+ 1. Target brand: eBay
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage's URL is not the official eBay website.
+ - The webpage's design and layout are different from the official eBay website.
+ - The webpage's content is different from the official eBay website.
+ - The webpage has fields asking for user credentials.
+ - The webpage has a call-to-action button that says "Sign In".
+
+
+ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521
+ 1. Target brand: De'Longhi
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is not the official website of De'Longhi.
+ - The website is not secure.
+ - The design of the webpage is not consistent with the official website of De'Longhi.
+ - The webpage asks for personal information, such as email address and password.
+ - The webpage has a lot of pop-ups and advertisements.
+
+

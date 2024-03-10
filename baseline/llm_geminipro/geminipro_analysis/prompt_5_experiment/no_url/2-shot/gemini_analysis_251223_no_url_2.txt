@@ -1,0 +1,244 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+   - The webpage has a valid SSL certificate issued by Apple Inc.
+   - The webpage is hosted on Apple's servers.
+   - The webpage uses Apple's branding and design elements.
+   - The webpage has a legitimate Apple copyright at the bottom.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with Netflix's branding and uses high-quality images and graphics.
+ - The webpage's content is well-written and free of grammatical errors.
+ - The webpage's links are all valid and go to the intended destinations.
+ - The webpage does not ask for any personal information, such as passwords or credit card numbers.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email or phone
+ - Password
+ - "Sign in" button
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The page's URL does not match the official Google sign-in page.
+ - The page's design is different from the official Google sign-in page.
+ - The page's logo is different from the official Google logo.
+ - The page's text is different from the official Google sign-in page.
+ - The page's input fields are different from the official Google sign-in page.
+ - The page's "Sign in" button is different from the official Google sign-in page.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with Netflix's branding and uses high-quality images and graphics.
+ - The webpage's content is well-written and free of grammatical errors.
+ - The webpage's links are all valid and go to the intended destinations.
+ - The webpage does not ask for any personal information, such as credit card numbers or passwords.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+ 1. Target brand: TFBank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Kundennummer (Customer number)
+ - Geburtsdatum (Date of birth)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar logo to the official website of TFBank, but the logo is slightly different.
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage uses a generic form for collecting user credentials, which is not secure.
+ - The webpage does not have any security certificates, which are used to protect websites from phishing attacks.
+ - The webpage has a lot of spelling and grammatical errors, which is often a sign of a phishing website.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Tracking Code
+ - Email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with DHL's branding and uses high-quality images and graphics.
+ - The webpage's content is clear and concise, and there are no spelling or grammatical errors.
+ - The webpage has a clear and concise privacy policy that explains how DHL will use and protect your personal information.
+ - The webpage has a valid contact form that you can use to contact DHL customer service.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Target brand: Allegro
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email/Username
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure protocol (HTTPS).
+ - The webpage has a valid domain name.
+ - The webpage has a valid IP address.
+ - The webpage has a valid DNS record.
+ - The webpage has a valid MX record.
+ - The webpage has a valid SPF record.
+ - The webpage has a valid DKIM record.
+ - The webpage has a valid DMARC record.
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+ 1. Target brand: Banca di Pescia
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage's URL is consistent with the target brand's official website.
+ - The webpage's design is consistent with the target brand's official website.
+ - The webpage's content is consistent with the target brand's official website.
+ - The webpage does not contain any suspicious or malicious content.
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with DPD's branding and uses high-quality images.
+ - The webpage's content is clear and concise, and there are no spelling or grammatical errors.
+ - The webpage does not ask for any personal or financial information.
+ - The webpage does not contain any malicious links or scripts.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage is hosted on the official Microsoft domain.
+ - The webpage uses a valid SSL certificate.
+ - The webpage design is consistent with other official Microsoft webpages.
+ - The webpage uses high-quality images and graphics.
+ - The webpage has a clear and concise privacy policy.
+ - The webpage has a valid contact form.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Target brand: Rebecca DONG
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - OTP
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a legitimate Rebecca DONG website.
+ - The webpage design is not consistent with the official Rebecca DONG website.
+ - The webpage is hosted on a free web hosting service.
+ - The webpage contains a number of spelling and grammatical errors.
+ - The webpage is not secure.
+ - The webpage requests personal information, such as your phone number and OTP.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+ 1. Target brand: 365bet
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Username
+- Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+- The webpage is trying to imitate the look and feel of a legitimate website in order to trick users into entering their personal information.
+- The webpage is hosted on a free web hosting service, which is often used by phishing websites.
+- The webpage uses a lot of pop-ups and other distractions to try to trick users into staying on the page and entering their information.
+- The webpage uses a fake "security" seal to try to trick users into thinking that the page is legitimate.
+- The webpage uses a fake "customer support" chat to try to trick users into giving them their personal information.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+ 1. Target brand: Vserossiyskiy tvorcheskiy konkurs
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is legitimate and belongs to the target brand.
+ - The webpage's design is consistent with the target brand's official website.
+ - The webpage's content is in Russian, which is the primary language of the target brand.
+ - The webpage does not contain any suspicious links or buttons.
+ - The webpage does not ask for any personal information.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email or Phone Number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with the official DPD website.
+ - The webpage's content is consistent with the official DPD website.
+ - The webpage's links are all valid and go to the official DPD website.
+ - The webpage does not ask for any personal information.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+ - E-post (Email)
+ - Lösenord (Password)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The language used in the screenshot is Swedish, however, DHL is a German company and the official DHL website for Sweden is in English.
+ - The URL for the login page is not the official DHL Sweden website.
+ - The logo at the top right corner of the screenshot is slightly different from the official DHL logo.
+ - The font used in the screenshot is different from the official DHL font.
+ - The layout of the screenshot is different from the official DHL website.
+ - There is no "Log in with Facebook" button on the official DHL website.
+ - There is no "Log in with Google" button on the official DHL website.
+ - There is no "Log in with Apple" button on the official DHL website.
+
+

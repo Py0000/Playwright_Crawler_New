@@ -1,0 +1,169 @@
+0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email, phone, or Skype
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Microsoft logo, which is a registered trademark of Microsoft Corporation. 
+ - The webpage has a field that asks for user credentials, specifically an email address, phone number, or Skype ID. 
+ - The webpage has a blue button that says "Next," which is often used to submit forms. 
+ - The webpage's address bar shows "servicerequest.html#3mail@b.c", which is not a typical Microsoft domain. 
+ - The webpage's design and layout are not consistent with Microsoft's typical webpages.
+
+
+29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d
+ 1. Target brand: Shaw Communications
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Shaw ID
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate Shaw Communications webpage, but there are subtle differences, such as the font and the color of the buttons.
+ - The webpage is hosted on a free hosting service, which is often used by phishing websites.
+ - The webpage asks for the user's Shaw ID and password, which is not necessary to sign in to a Shaw Communications account.
+ - The webpage has a fake button that says "Sign In", which is likely to be used to steal the user's credentials.
+
+
+2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone number
+4. Conclusion: Benign
+5. Phishing Score: 1/10
+6. Supporting evidence: 
+ - The webpage has Google's logo and branding.
+ - The domain name in the screenshot is "accounts.google.com", which is a legitimate Google domain.
+ - The page has a legitimate Google reCAPTCHA.
+ - The page has a link to Google's privacy policy and terms of service.
+ - The page has a language selection at the bottom.
+
+
+38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email address or phone number
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+   - The webpage's URL is not a legitimate Facebook domain.
+   - The webpage's design and layout are different from the legitimate Facebook login page.
+   - The webpage's text contains grammatical errors and inconsistencies.
+   - The webpage requests users to enter their email address or phone number and password, which is not necessary to login to Facebook.
+   - The webpage displays a fake security notification to trick users into entering their credentials.
+
+
+3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone number field
+   - "Next" button
+   - "Create account" button
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+   - The webpage has a legitimate Google logo and branding.
+   - The URL contains "google.com".
+   - The page has a legitimate Google favicon.
+   - The page is served over HTTPS.
+   - The page has a valid SSL certificate.
+   - The page has a lock icon in the address bar.
+   - The page has a privacy policy and terms of service.
+   - The page has a help center.
+   - The page has a copyright notice.
+   - The page has a "Not your computer? Use Guest mode to sign in privately" link.
+
+
+3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae
+ 1. Target brand: DocuSign
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The webpage has a fake DocuSign branding and logo.
+   - The webpage asks for user credentials, including email address and password.
+   - The webpage has a fake DocuSign copyright statement.
+   - The webpage has a fake DocuSign support link.
+   - The webpage has a fake DocuSign privacy policy link.
+   - The webpage has a fake DocuSign terms of use link.
+
+
+50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Microsoft logo, but the overall design looks different from Microsoft's official website.
+ - The URL is not a Microsoft domain.
+ - The webpage asks for the user's email address and password.
+ - There is no security lock icon in the address bar.
+ - The text on the page contains grammatical errors.
+
+
+596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3
+ 1. Target brand: NTT Docomo
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - d-account ID
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage's URL is similar to the legitimate NTT Docomo website.
+ - The webpage's design is consistent with the legitimate NTT Docomo website.
+ - The webpage's content is consistent with the legitimate NTT Docomo website.
+
+
+61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email, phone, or Skype
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Microsoft logo, which is a trademark of Microsoft Corporation.
+ - The webpage has a field that asks for the user's email address, phone number, or Skype ID.
+ - The webpage has a field that asks for the user's password.
+ - The webpage has a button that says "Next".
+ - The webpage's design is similar to the design of Microsoft's login page.
+ - The webpage's URL is not a Microsoft domain.
+
+
+a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa
+ 1. Target brand: TV Licensing
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Residential Address
+ - Billing Data
+ - Identity Verification
+ - Current Debit Card
+ - Name
+ - Address
+ - Phone Number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage is trying to imitate the legitimate TV Licensing website, but the URL is different. 
+ - The webpage is asking for personal information, such as your name, address, and phone number, which is not necessary to update your TV license. 
+ - The webpage is not using a secure connection, which is indicated by the отсутствие замка in the address bar.
+ - The webpage has a lot of typos and grammatical errors.
+ - The webpage is not using the same fonts and colors as the legitimate TV Licensing website.
+
+
