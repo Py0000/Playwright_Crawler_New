@@ -40,6 +40,13 @@ class LlmResultExport:
         file_hash = lines[0].strip()
 
         if len(lines) <= 2:
+            isExceeded = re.search(r'400 Request payload size exceeds the limit', entry).group(1).strip()
+            if isExceeded:
+                conclusion = "Payload exceeds limit"
+                target_brand = "Payload exceeds limit"
+                has_credentials = "Payload exceeds limit"
+                phishing_score = "Payload exceeds limit"
+
             # Encountered error when gemini-pro generates the response
             print(f"[ERROR LOG] Invalid Entry for file: {file_hash}")
             return
@@ -48,6 +55,9 @@ class LlmResultExport:
         target_brand = re.search(r'Target brand: (.+)', entry).group(1).strip()
         has_credentials = re.search(r'Has credentials/call-to-action: (.+)', entry).group(1).strip()
         phishing_score = re.search(r'Phishing Score: (.+)', entry).group(1).strip()
+
+        if target_brand.lower() == "na" or target_brand.lower == "n/a":
+            target_brand = "Indeterminate"
 
         self.update_sheet(sheet, file_hash, target_brand, conclusion, has_credentials, phishing_score)
 
