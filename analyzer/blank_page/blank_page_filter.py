@@ -3,9 +3,10 @@ import os
 from analyzer.utils import file_utils
 
 class BlankPageFilter:
-    def __init__(self, main_folder_path, date):
+    def __init__(self, main_folder_path, date, mode):
         self.main_folder_path = main_folder_path
         self.date = date
+        self.mode = mode
 
 
     def filter_out_blank_page_by_html(self, blank_page_list, ref_type):
@@ -16,8 +17,11 @@ class BlankPageFilter:
         if "zip" in dataset_path:
             dataset_path = file_utils.extract_zipfile(dataset_path)
 
-        parent_folder_path = os.path.join(dataset_path, f'dataset_{date}', f'dataset_{date}', 'complete_dataset')
-        
+        if self.mode == "phishing":
+            parent_folder_path = os.path.join(dataset_path, f'dataset_{date}', f'dataset_{date}', 'complete_dataset')
+        else:
+            parent_folder_path = os.path.join(dataset_path, 'complete_dataset')
+
         # Create the new directory to hold the dataset that contains the blank webpages
         blank_page_dir = os.path.join(parent_folder_path, 'blank_pages', ref_type)
         file_utils.check_and_generate_new_dir(blank_page_dir)

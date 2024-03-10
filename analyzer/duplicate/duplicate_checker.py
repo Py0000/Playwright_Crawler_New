@@ -3,8 +3,9 @@ import hashlib
 import os
 from collections import defaultdict
 from zipfile import ZipFile
+import zipfile
 
-class DuplicateChecker:
+class DuplicateCheckerPhishing:
     def __init__(self):
         self.month_folders = ["Oct", "Nov", "Dec"]
         return 
@@ -64,18 +65,41 @@ class DuplicateChecker:
                 if len(zip_name) > 0:  # More than one occurrence means it's a duplicate
                     file.write(f"\nDuplicate for: {dates}: {zip_name}\n")
                                 
-        
 
+
+class duplicateCheckerBenign:
+    def __init__(self) -> None:
+        pass
+
+    def check_for_duplicates_url(self, dataset_path):
+        zip_occurrences = defaultdict(list)
+
+        for folder_name in ["001", "002", "003"]:
+            zip_folder_path = os.path.join(dataset_path, folder_name)
+            zipped_folders = [f for f in os.listdir(zip_folder_path) if f.endswith('.zip')]
+            for zipped_folder in zipped_folders:
+                zip_occurrences[zipped_folder].append(folder_name)
+
+        duplicates = {hash_value: folders for hash_value, folders in zip_occurrences.items() if len(folders) > 1}
+        print(duplicates)    
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Supply the folder names")
     parser.add_argument("dataset_path", help="Dataset Path")
+    parser.add_argument("type", help="phishing or benign")
     parser.add_argument("mode", help="url or html")
     args = parser.parse_args()
 
-    checker = DuplicateChecker()
-    if args.mode == "url":
-        checker.check_for_duplicates_url(args.dataset_path)
-    elif args.mode == "html":
-        checker.check_for_duplicates_html(args.dataset_path)
+    
+    if args.type == "phishing":
+        checker = DuplicateCheckerPhishing()
+        if args.mode == "url":
+            checker.check_for_duplicates_url(args.dataset_path)
+        elif args.mode == "html":
+            checker.check_for_duplicates_html(args.dataset_path)
+    elif args.type == "benign":
+        checker = duplicateCheckerBenign()
+        if args.mode == "url":
+
+

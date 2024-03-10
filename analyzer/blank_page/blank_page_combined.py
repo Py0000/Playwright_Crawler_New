@@ -7,9 +7,10 @@ from analyzer.blank_page import blank_page_util
 from analyzer.utils import file_utils
 
 class BlankPageHandler:
-    def __init__(self, main_folder_path, date):
+    def __init__(self, main_folder_path, date, mode):
         self.main_folder_path = main_folder_path
         self.date = date
+        self.mode = mode
     
     """
     def shift_detector_log_files(self, src_dir):
@@ -36,7 +37,7 @@ class BlankPageHandler:
 
     def detect_blank_page(self):
         date = self.date
-        detector = blank_page_detector.BlankPageDetector(self.main_folder_path, date)
+        detector = blank_page_detector.BlankPageDetector(self.main_folder_path, date, self.mode)
         consolidated_detector_output = detector.check_dataset_for_blank()
 
         blank_page_output_dir = os.path.join("analyzer/blank_page/primary_logs", date)
@@ -47,7 +48,7 @@ class BlankPageHandler:
     def filter_blank_page(self, ref_type):
         date = self.date
         primary_logs_dir = os.path.join("analyzer/blank_page/primary_logs", date)
-        filterer = blank_page_filter.BlankPageFilter(self.main_folder_path.replace(".zip", ""), date)
+        filterer = blank_page_filter.BlankPageFilter(self.main_folder_path.replace(".zip", ""), date, self.mode)
         checker = blank_page_filter.BlankPageFilterChecker(primary_logs_dir, date)
 
         html_blank_txt_file_path = os.path.join(primary_logs_dir, f"{date}_html_blank_{ref_type}.txt")
@@ -74,9 +75,10 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Supply the folder names")
     parser.add_argument("folder_path", help="Folder name")
     parser.add_argument("date", help="Date")
+    parser.add_argument("mode", help="phishing or benign")
     args = parser.parse_args()
 
-    blank_page_handler = BlankPageHandler(args.folder_path, args.date)
+    blank_page_handler = BlankPageHandler(args.folder_path, args.date, args.mode)
     blank_page_handler.detect_and_filter()
 
 

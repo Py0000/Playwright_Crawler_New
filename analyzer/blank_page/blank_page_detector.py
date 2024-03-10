@@ -6,9 +6,10 @@ from analyzer.blank_page.image_analysis import BlankScreenshotDetector
 from analyzer.utils import file_utils
 
 class BlankPageDetector:
-    def __init__(self, main_folder_path, date):
+    def __init__(self, main_folder_path, date, mode):
         self.main_folder_path = main_folder_path
         self.date = date
+        self.mode = mode
 
     def detect_blank_page_html_script(self, soup):
         # Analyze the body 
@@ -81,7 +82,11 @@ class BlankPageDetector:
         if "zip" in main_directory:
             main_directory = file_utils.extract_zipfile(main_directory)
         
-        parent_folder_path = os.path.join(main_directory, f'dataset_{date}', f'dataset_{date}', 'complete_dataset')
+        if self.mode == "phishing":
+            parent_folder_path = os.path.join(main_directory, f'dataset_{date}', f'dataset_{date}', 'complete_dataset')
+        else:
+            parent_folder_path = os.path.join(main_directory, 'complete_dataset')
+
         for dir in os.listdir(parent_folder_path):
             print(f"Processing {dir}...")
             dir_without_zip_extension = dir.replace('.zip', '')
