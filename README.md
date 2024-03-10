@@ -92,7 +92,8 @@ Returning to the ssh session:
 
 #### Finding duplicated files/content 
 * Pre-cond: Running the script `duplicate_checker.py` from `Playwright_Crawler_New` directory
-* Cmd: `python3 -m analyzer.duplicate.duplicate_checker {path_to_dataset} {mode}`
+* Cmd: `python3 -m analyzer.duplicate.duplicate_checker {path_to_dataset} {type} {mode}`
+  * `type`: `phishing` or `benign`
   * `mode`: `url` or `html`
 
 #### Removing duplicated files/content 
