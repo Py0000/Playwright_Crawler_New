@@ -55,7 +55,10 @@ def check_status_for_ref_config(zip_file, file_path):
                 folder_status[config_folder] = "Faulty"
             else:
                 folder_status[config_folder] = "Complete"
-            
+
+        else:
+            folder_status[config_folder] = "Faulty"
+                    
             # Can get the status from log.json also 
             # TODO: Fill in logic 
             # response_status_code = log_data["Status"]
