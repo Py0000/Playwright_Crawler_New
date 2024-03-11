@@ -40,7 +40,7 @@ class LlmResultExport:
         file_hash = lines[0].strip()
 
         if len(lines) <= 2:
-            isExceeded = re.search(r'400 Request payload size exceeds the limit', entry).group(1).strip()
+            isExceeded = re.search(r'400 Request payload size exceeds the limit: (.+)', entry).group(1).strip()
             if isExceeded:
                 conclusion = "Payload exceeds limit"
                 target_brand = "Payload exceeds limit"
