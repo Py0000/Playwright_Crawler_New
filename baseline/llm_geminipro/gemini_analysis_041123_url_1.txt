@@ -1,0 +1,150 @@
+1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email address
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's URL is consistent with the official Netflix website.
+ - The webpage's design and layout are consistent with the official Netflix website.
+ - The webpage's content is consistent with the official Netflix website.
+ - The webpage does not request any personal information from the user.
+
+
+873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone Number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid HTTPS certificate.
+ - The webpage is hosted on the official Telegram domain.
+ - The webpage design is consistent with the official Telegram branding.
+ - The webpage content is consistent with the official Telegram messaging.
+ - The webpage does not request any personal information.
+
+
+88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
+ 1. Target brand: authconnect.net
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Connect Wallet
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not a secure website.
+ - The website is not hosted on the same domain as the legitimate website.
+ - The website is not using a valid SSL certificate.
+ - The website is not using a secure DNS server.
+ - The website is not using a secure web server.
+ - The website is not using a secure web application firewall.
+ - The website is not using a secure content delivery network.
+ - The website is not using a secure DNSSEC record.
+
+
+a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
+ 1. Target brand: Nipp-Showbiz
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username/Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The URL is not a secure website.
+ - The website is poorly designed and contains many grammatical errors.
+ - The website is hosted on a free hosting platform.
+ - The website uses a generic contact form instead of a secure login page.
+ - The website does not have a valid SSL certificate.
+ - The website is not listed on any major search engines.
+ - The website is not associated with any reputable brands or organizations.
+
+
+a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
+ 1. Target brand: SurveySparrow
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Sign Up, Log In
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - SurveySparrow logo and branding are consistent with the official website.
+ - The URL is a subdomain of surveysparrow.com, which is the official website.
+ - The page has a valid SSL certificate.
+ - The page is hosted on a secure server.
+ - The page uses HTTPS.
+ - The page does not ask for sensitive information, such as passwords or credit card numbers.
+ - The page has a privacy policy and terms of service.
+ - The page has contact information, such as an email address and phone number.
+
+
+aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate issued by DigiCert SHA2 Secure Server CA.
+ - The webpage is hosted on Microsoft's official domain, microsoft.com.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid padlock icon in the address bar.
+ - The webpage has a valid favicon.
+ - The webpage has a valid copyright notice at the bottom.
+ - The webpage has a valid privacy policy link at the bottom.
+ - The webpage has a valid terms of use link at the bottom.
+ - The webpage has a valid contact us link at the bottom.
+ - The webpage has a valid social media links at the bottom.
+ - The webpage has a valid sitemap link at the bottom.
+
+
+b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
+ 1. Target brand: Gemini
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Twoje imię 
+- Twoje nazwisko 
+- Twój adres e-mail 
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+- The URL is not a secure website.
+- The website is not hosted on the official Gemini domain.
+- The website's design is not consistent with the official Gemini website.
+- The website's content is not in Polish, which is the official language of Poland.
+- The website asks for personal information, such as your name, email address, and phone number, which is not necessary to create a Gemini account.
+- The website has a fake "live chat" feature that does not actually connect you to a live person.
+- The website has a fake "countdown clock" that creates a sense of urgency to sign up.
+
+
+c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
+ 1. Target brand: JEK-MINER
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username/Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is not a secure website (https).
+ - The website is not using a secure connection (SSL).
+ - The website's design is not consistent with the official JEK-MINER website.
+ - The website's content is not consistent with the official JEK-MINER website.
+ - The website is asking for personal information that is not necessary to create an account.
+ - The website is not providing any contact information.
+ - The website is not providing any information about its terms of service or privacy policy.
+
+
+f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
+ 1. Target brand: BBVA
+2. Has credentials/call-to-action: Yes
+3. List of fields: NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is hosted on a free hosting platform, which is often used by phishing sites.
+ - The webpage's design is not consistent with BBVA's official website.
+ - The webpage's URL is not a BBVA domain.
+ - The webpage is requesting sensitive information, such as passwords and ID numbers.
+
+

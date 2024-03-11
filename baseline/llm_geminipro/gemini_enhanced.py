@@ -35,10 +35,14 @@ class GeminiProVisionBaseline:
 
     def generate_zero_shot_prompt(self):
         prompt_file_path = os.path.join("baseline", "llm_geminipro", "prompts")
-        system_prompt = self.read_text_from_file(os.path.join(prompt_file_path, "system_prompt.txt"))
-        chain_of_thought_prompt = self.read_text_from_file(os.path.join(prompt_file_path, "chain_of_thought_prompt.txt"))
+        if not self.is_url:
+            system_prompt = self.read_text_from_file(os.path.join(prompt_file_path, "system_prompt.txt"))
+            chain_of_thought_prompt = self.read_text_from_file(os.path.join(prompt_file_path, "chain_of_thought_prompt.txt"))   
+        else:
+            system_prompt = self.read_text_from_file(os.path.join(prompt_file_path, "system_prompt_url.txt"))
+            chain_of_thought_prompt = self.read_text_from_file(os.path.join(prompt_file_path, "chain_of_thought_prompt_url.txt"))
+        
         reponse_format_prompt = self.read_text_from_file(os.path.join(prompt_file_path, "response_format_prompt.txt"))
-
         return f"{system_prompt}\n\n{chain_of_thought_prompt}", f"\n\n{reponse_format_prompt}"
     
     
