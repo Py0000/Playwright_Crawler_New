@@ -6,11 +6,9 @@
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
- - The webpage has a Microsoft logo, which is a registered trademark of Microsoft Corporation. 
- - The webpage has a field that asks for user credentials, specifically an email address, phone number, or Skype ID. 
- - The webpage has a blue button that says "Next," which is often used to submit forms. 
- - The webpage's address bar shows "servicerequest.html#3mail@b.c", which is not a typical Microsoft domain. 
- - The webpage's design and layout are not consistent with Microsoft's typical webpages.
+ - The webpage has a Microsoft logo, but the overall design looks different from the legitimate Microsoft login page.
+ - The URL is not a Microsoft domain.
+ - The page requests for user credentials.
 
 
 29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d
@@ -21,42 +19,48 @@
  - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage has a similar design to the legitimate Shaw Communications webpage, but there are subtle differences, such as the font and the color of the buttons.
- - The webpage is hosted on a free hosting service, which is often used by phishing websites.
- - The webpage asks for the user's Shaw ID and password, which is not necessary to sign in to a Shaw Communications account.
- - The webpage has a fake button that says "Sign In", which is likely to be used to steal the user's credentials.
+6. Supporting evidence:
+ - The webpage has a similar design to the legitimate Shaw Communications website, but there are subtle differences in the branding and layout.
+ - The URL is not the legitimate Shaw Communications website.
+ - The webpage asks for the user's Shaw ID and password.
+ - The webpage has a fake button that says "Sign In".
+ - The webpage has a link that says "Forgot your Shaw ID or password?".
+ - The webpage has a link that says "Create a Shaw ID to get started".
+ - The webpage has a link that says "Manage your services in My Shaw".
+ - The webpage has a link that says "Connect to Rogers Wifi Hotspots".
+ - The webpage has a link that says "Free your TV with the Ignite TV app".
+ - The webpage has a link that says "Provide Shaw IDs for household members".
 
 
 2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062
  1. Target brand: Google
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
-   - Email or phone number
+   - Email or phone number field
+   - "Next" button
+   - "Create account" link
+   - "Forgot email?" link
 4. Conclusion: Benign
-5. Phishing Score: 1/10
-6. Supporting evidence: 
- - The webpage has Google's logo and branding.
- - The domain name in the screenshot is "accounts.google.com", which is a legitimate Google domain.
- - The page has a legitimate Google reCAPTCHA.
- - The page has a link to Google's privacy policy and terms of service.
- - The page has a language selection at the bottom.
+5. Phishing Score: 1
+6. Supporting evidence:
+   - The presence of Google's logo and branding.
+   - The URL is similar to Google's legitimate website.
+   - The fields and call-to-action buttons are consistent with Google's sign-in page.
+   - The overall design and layout of the webpage are consistent with Google's branding.
 
 
 38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
  1. Target brand: Facebook
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
-   - Email address or phone number
-   - Password
+3. List of fields: Email address or phone number, Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence:
-   - The webpage's URL is not a legitimate Facebook domain.
-   - The webpage's design and layout are different from the legitimate Facebook login page.
-   - The webpage's text contains grammatical errors and inconsistencies.
-   - The webpage requests users to enter their email address or phone number and password, which is not necessary to login to Facebook.
-   - The webpage displays a fake security notification to trick users into entering their credentials.
+6. Supporting evidence: 
+ - The webpage's URL is not a legitimate Facebook domain.
+ - The webpage's design and layout are not consistent with Facebook's branding.
+ - The webpage's text contains grammatical errors and inconsistencies.
+ - The webpage requests users to enter their email address, phone number, and password.
+ - There is a fake security warning on the webpage.
 
 
 3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa
@@ -69,16 +73,11 @@
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence:
-   - The webpage has a legitimate Google logo and branding.
+   - The presence of Google's logo and branding.
    - The URL contains "google.com".
-   - The page has a legitimate Google favicon.
-   - The page is served over HTTPS.
-   - The page has a valid SSL certificate.
-   - The page has a lock icon in the address bar.
-   - The page has a privacy policy and terms of service.
-   - The page has a help center.
-   - The page has a copyright notice.
-   - The page has a "Not your computer? Use Guest mode to sign in privately" link.
+   - The page has a legitimate Google sign-in form.
+   - The page has a link to Google's privacy policy and terms of service.
+   - The page has a language selection option.
 
 
 3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae
@@ -90,12 +89,11 @@
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
-   - The webpage has a fake DocuSign branding and logo.
-   - The webpage asks for user credentials, including email address and password.
-   - The webpage has a fake DocuSign copyright statement.
-   - The webpage has a fake DocuSign support link.
-   - The webpage has a fake DocuSign privacy policy link.
-   - The webpage has a fake DocuSign terms of use link.
+   - The webpage has a fake URL that is similar to the legitimate DocuSign website.
+   - The webpage design is not consistent with the legitimate DocuSign website.
+   - The webpage is hosted on a free web hosting service.
+   - The webpage requests sensitive information such as email address and password.
+   - The webpage has a fake login button.
 
 
 50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419
@@ -104,14 +102,12 @@
 3. List of fields: 
  - Email address
  - Password
-4. Conclusion: Phishing
-5. Phishing Score: 8
+4. Conclusion: Benign
+5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage has a Microsoft logo, but the overall design looks different from Microsoft's official website.
- - The URL is not a Microsoft domain.
- - The webpage asks for the user's email address and password.
- - There is no security lock icon in the address bar.
- - The text on the page contains grammatical errors.
+ - The URL contains "microsoft.com", which is the domain for Microsoft.
+ - The screenshot shows a Microsoft login page, which is a legitimate page used by Microsoft to allow users to sign in to their accounts.
+ - The page is hosted on "pub-02c7a38666214a48b43a1c1fc544e582.r2.dev", which is a subdomain of "microsoft.com".
 
 
 596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3
@@ -123,47 +119,52 @@
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage has a valid SSL certificate.
- - The webpage's URL is similar to the legitimate NTT Docomo website.
- - The webpage's design is consistent with the legitimate NTT Docomo website.
- - The webpage's content is consistent with the legitimate NTT Docomo website.
+ - The webpage has a legitimate NTT Docomo branding and design.
+ - The URL contains the official NTT Docomo domain name.
+ - The page has security indicators such as the lock icon and "https" in the address bar.
+ - The content and text on the page are consistent with NTT Docomo's official website.
 
 
 61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce
  1. Target brand: Microsoft
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
-   - Email, phone, or Skype
-   - Password
+  - Email, phone, or Skype
+  - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
- - The webpage has a Microsoft logo, which is a trademark of Microsoft Corporation.
- - The webpage has a field that asks for the user's email address, phone number, or Skype ID.
- - The webpage has a field that asks for the user's password.
+ - The webpage has a Microsoft logo, which is a registered trademark of Microsoft Corporation. 
+ - The webpage has a field that asks for the user's email address, phone number, or Skype ID. 
+ - The webpage has a field that asks for the user's password. 
  - The webpage has a button that says "Next".
- - The webpage's design is similar to the design of Microsoft's login page.
  - The webpage's URL is not a Microsoft domain.
+ - The webpage's design and layout are different from the legitimate Microsoft login page.
 
 
 a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa
  1. Target brand: TV Licensing
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Residential Address
- - Billing Data
- - Identity Verification
- - Current Debit Card
  - Name
  - Address
- - Phone Number
-4. Conclusion: Phishing
-5. Phishing Score: 8
+ - Postcode
+ - Email
+ - Phone number
+ - Bank account number
+ - Sort code
+4. Conclusion: Benign
+5. Phishing Score: 1
 6. Supporting evidence:
- - The webpage is trying to imitate the legitimate TV Licensing website, but the URL is different. 
- - The webpage is asking for personal information, such as your name, address, and phone number, which is not necessary to update your TV license. 
- - The webpage is not using a secure connection, which is indicated by the отсутствие замка in the address bar.
- - The webpage has a lot of typos and grammatical errors.
- - The webpage is not using the same fonts and colors as the legitimate TV Licensing website.
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a secure login form.
+ - The webpage has a privacy policy.
+ - The webpage has a terms of service.
+ - The webpage has a contact us page.
+ - The webpage has a social media presence.
+ - The webpage has a physical address.
+ - The webpage has a phone number.
+ - The webpage has a valid email address.
 
 

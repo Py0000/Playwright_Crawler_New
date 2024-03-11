@@ -1,52 +1,45 @@
 1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
  1. Target brand: Netflix
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
-  - Email Address
+3. List of fields: Email Address
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage has a fake URL that is different from the legitimate Netflix website.
- - The webpage's design is a poor imitation of the legitimate Netflix website.
- - The webpage has a fake "Sign In" button that would lead to a phishing site.
- - The webpage has a fake "GET STARTED" button that would lead to a phishing site.
- - The webpage has a fake "Download" button that would lead to a phishing site.
- - The webpage has a fake "Watch Now" button that would lead to a phishing site.
- - The webpage has a fake "Learn More" button that would lead to a phishing site.
+6. Supporting evidence:
+ - The webpage has a similar design and layout to the legitimate Netflix website, but there are some discrepancies, such as the URL and the font of the text.
+ - The webpage is hosted on a free hosting service, which is often used by phishing websites.
+ - The webpage asks for the user's email address and password, which is not necessary to sign in to Netflix.
+ - The webpage uses a fake padlock icon to indicate that the connection is secure, but this is not a real security measure.
+ - The webpage uses a fake "Sign In" button that does not go to the legitimate Netflix website.
 
 
 873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
  1. Target brand: Telegram
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Username or email address
+ - Username
  - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence:
- - The webpage's URL is not the official Telegram website.
- - The webpage's design is different from the official Telegram website.
- - The webpage's text contains grammatical errors.
- - The webpage's text is trying to trick users into giving their credentials.
- - The webpage has a fake "Login" button.
+6. Supporting evidence: 
+ - The URL is not the official website of Telegram.
+ - The webpage design is different from the official Telegram website.
+ - The webpage is asking for user credentials.
 
 
 88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
- 1. Target brand: Coinbase
+ 1. Target brand: MetaMask
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Email Address
+ - Email
  - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence:
- - The webpage has a Coinbase logo, but the overall design and layout do not match the official Coinbase website.
- - The webpage is hosted on a free hosting platform, which is not secure.
- - The webpage uses a form to collect user credentials, which is not secure.
- - The webpage has a lot of spelling and grammatical errors.
- - The webpage makes unrealistic promises, such as "guaranteed profits".
- - The webpage has a sense of urgency, which is a common tactic used by phishing scams.
- - The webpage does not have SSL certificate.
+6. Supporting evidence: 
+ - The webpage's URL is not the official MetaMask website.
+ - The webpage's design and branding are different from the official MetaMask website.
+ - The webpage is asking for users to enter their email and password.
+ - The webpage has a call-to-action button that says "Connect Wallet".
+ - The webpage has a lot of pop-ups and advertisements.
 
 
 a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
@@ -56,17 +49,13 @@ a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
  - Username
  - Password
 4. Conclusion: Phishing
-5. Phishing Score: 9
+5. Phishing Score: 8
 6. Supporting evidence: 
  - The webpage has a fake URL that is similar to the legitimate bet365 website.
- - The webpage has a fake padlock icon in the address bar.
- - The webpage has a fake "Login" button.
- - The webpage has a fake "Forgot password" link.
- - The webpage has a fake "Create account" link.
- - The webpage has a fake "Contact us" link.
- - The webpage has a fake "Help" link.
- - The webpage has a fake "Privacy Policy" link.
- - The webpage has a fake "Terms and Conditions" link.
+ - The webpage's design is different from the legitimate bet365 website.
+ - The webpage has a lot of pop-ups and advertisements.
+ - The webpage asks for personal information, such as your username and password.
+ - The webpage has a fake "login" button.
 
 
 a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
@@ -75,82 +64,68 @@ a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
 3. List of fields: Email, Password
 4. Conclusion: Benign
 5. Phishing Score: 1
-6. Supporting evidence: 
- - The webpage has a valid SSL certificate and is hosted on a secure server.
- - The webpage's design is consistent with the SurveySparrow brand and uses the same fonts, colors, and logos as the legitimate SurveySparrow website.
- - The webpage's content is also consistent with the SurveySparrow brand and uses the same language and tone as the legitimate SurveySparrow website.
- - The webpage does not ask for any personal information, such as credit card numbers or social security numbers.
- - The webpage does not contain any malicious links or code.
+6. Supporting evidence: The webpage screenshot shows the SurveySparrow logo and branding, which is consistent with the legitimate SurveySparrow website. The content and design elements also appear to be aligned with the brand's typical communications. The URL is for SurveySparrow's official website.
 
 
 aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
  1. Target brand: Microsoft
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
-    - Email address
-    - Password
+ - Email address
+ - Password
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence: 
  - The webpage is hosted on Microsoft's official domain ("microsoft.com").
- - The webpage has a valid SSL certificate issued by a trusted certificate authority.
- - The webpage uses HTTPS, which is a secure protocol.
- - The webpage's design is consistent with Microsoft's official branding.
- - The webpage's content is consistent with Microsoft's official messaging.
- - There are no obvious signs of phishing, such as typos or grammatical errors.
+ - The design and branding of the webpage are consistent with Microsoft's official website.
+ - The text content on the webpage is professional and free of grammatical errors.
+ - The webpage has a valid SSL certificate.
+ - The webpage is not asking for any sensitive information, such as credit card numbers or social security numbers.
 
 
 b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
  1. Target brand: Gemini
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
-  - Imię (First name)
-  - Nazwisko (Last name)
-  - Adres e-mail (Email address)
-  - Potwierdź hasło (Confirm password)
-  - Hasło (Password)
+- Twoje imię 
+- Twoje nazwisko
+- Twój adres e-mail
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence:
- - The webpage's URL is not the official Gemini website.
- - The webpage's design and layout are different from the official Gemini website.
- - The webpage's text contains grammatical errors.
- - The webpage's logo is different from the official Gemini logo.
- - The webpage's call-to-action button is different from the official Gemini website.
- - The webpage's privacy policy link is not the official Gemini website.
- - The webpage's terms of service link is not the official Gemini website.
- - The webpage's contact information is not the official Gemini website.
+6. Supporting evidence: 
+- The URL is not a secure website.
+- The website is hosted on a free platform.
+- The website's design is not professional.
+- The website's content is full of grammatical errors.
+- The website is asking for personal information.
 
 
 c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
  1. Target brand: JEK-MINER
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
- - Email Address
- - Password
+3. List of fields: Username, Password, Phone Number, Email, Bitcoin Wallet Address
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage has a lot of grammatical errors and typos, which is not common for legitimate websites.
+6. Supporting evidence:
+ - The webpage's URL is not secure.
  - The webpage's design is not consistent with the brand's official website.
- - The webpage's URL is different from the brand's official website.
- - The webpage asks for personal information, such as email address and password, which is not necessary for legitimate purposes.
- - The webpage has a lot of pop-ups and advertisements, which is not common for legitimate websites.
+ - The webpage's content is full of grammatical errors.
+ - The webpage asks for too much personal information.
+ - The webpage's call-to-action is suspicious.
 
 
 f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
  1. Target brand: BBVA
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
-    * NIF, NIE, Tarjeta o Pasaporte
-    * Clave de acceso
-    * Número de teléfono
+3. List of fields: NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage has a similar design to the legitimate BBVA webpage, but there are some discrepancies, such as the different shades of blue used in the background and the font used in the text.
- - The webpage URL is not the legitimate BBVA webpage URL.
- - The webpage asks for user credentials, such as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, and Número de teléfono.
- - The webpage has a button that says "Iniciar sesión", which is typically used on phishing webpages to trick users into entering their credentials.
+6. Supporting evidence:
+ - The webpage has a similar design to the legitimate BBVA website, but there are subtle differences in the logo and the overall layout.
+ - The webpage is hosted on a free hosting platform, which is not typical for a legitimate financial institution.
+ - The webpage asks for sensitive information, such as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono, which is not typical for a legitimate BBVA webpage.
+ - The webpage uses a generic "Iniciar sesión" button instead of the BBVA-branded "Entrar" button.
+ - The webpage uses a generic "Hazte cliente" button instead of the BBVA-branded "Hazte cliente" button.
+ - The webpage uses a generic "Crea tu clave de acceso" button instead of the BBVA-branded "Crea tu clave de acceso" button.
 
 

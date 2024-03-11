@@ -5,106 +5,97 @@
    - Email Address
    - Password
 4. Conclusion: Benign
-5. Phishing Score: 0
+5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage's design is consistent with Apple's branding and design guidelines.
- - The webpage's URL is legitimate and belongs to Apple.
- - The webpage has a valid SSL certificate.
- - The webpage is hosted on Apple's servers.
- - The webpage's content is consistent with Apple's iCloud service.
+   - The webpage screenshot matches the legitimate iCloud login page.
+   - The URL is legitimate and belongs to Apple.
+   - The design elements, branding, and text content are consistent with Apple's official website.
+   - The screenshot does not contain any suspicious or malicious elements.
 
 
 2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
  1. Target brand: Netflix
 2. Has credentials/call-to-action: Yes
 3. List of fields: Email address
-4. Conclusion: Phishing
-5. Phishing Score: 8
-6. Supporting evidence:
- - The webpage has a fake "Sign In" button that is not associated with Netflix's legitimate website.
- - The webpage's URL is not the legitimate Netflix website.
- - The webpage's design and layout are different from the legitimate Netflix website.
- - The webpage's text content contains grammatical errors and inconsistencies.
- - The webpage's branding and logos are different from Netflix's legitimate branding and logos.
- - The webpage's call-to-action button says "Get Started" instead of "Sign In".
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage screenshot resembles the legitimate Netflix website, featuring its logo, branding, and design elements. The visible content, including text and images, appears consistent with Netflix's offerings and aligns with its overall brand identity. The presence of a field requesting an email address is typical of legitimate websites for account creation or login purposes. The URL provided, "adarshjha12.github.io/netflix-by-adarsh," while not an official Netflix domain, could potentially be a legitimate custom domain or a developer's test environment.
 
 
 3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
- 1. Target brand: Amazon
+ 1. Target brand: N/A
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
  - Email Address
  - Password
+ - Confirm Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
- - The URL is not a legitimate Amazon URL.
- - The URL contains the word "voucher" which is not typical of Amazon.
- - The webpage design is not consistent with Amazon's branding.
- - The text on the webpage contains grammatical errors.
- - The webpage requests personal information, such as email address and password, which is not typical of Amazon.
+ - The webpage design is not consistent with the typical design of legitimate websites.
+ - The webpage URL is suspicious and does not belong to the target brand.
+ - The webpage contains fields asking for user credentials, such as email address and password.
+ - The webpage contains a call-to-action button that says "Confirm", which is often used in phishing webpages to trick users into submitting their information.
 
 
 4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
  1. Target brand: Netflix
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
-   - Email Address
-   - Password
+3. List of fields: Email Address
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage's design and branding are consistent with Netflix's official website.
- - The webpage's URL is similar to Netflix's official website.
+ - The webpage's visual elements, such as the logo, color scheme, and layout, are consistent with the legitimate Netflix website.
+ - The webpage's URL is similar to the legitimate Netflix website.
  - The webpage has a valid SSL certificate.
  - The webpage is hosted on a secure server.
- - The webpage does not ask for any personal information other than the user's email address and password.
- - The webpage does not have any suspicious links or buttons.
+ - The webpage does not contain any malicious content.
 
 
 5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
- 1. Target brand: TFBank
+ 1. Target brand: TF Bank
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Kundennummer (Customer number)
- - Geburtsdatum (Date of birth)
+    - Kundennummer (Customer number)
+    - Geburtsdatum (Date of birth)
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
- - The webpage's URL is not a secure one, starting with "http" instead of "https".
- - The webpage's design is not consistent with TFBank's official website.
- - The webpage's content is in German, but TFBank is a bank based in the United States.
- - The webpage has a field asking for the user's customer number and date of birth, which is not typical for a bank's login page.
+ - The webpage's URL is not a secure link.
+ - The webpage's design is not consistent with the official TF Bank website.
+ - The webpage's logo is slightly different from the official TF Bank logo.
+ - The webpage's text contains grammatical errors.
+ - The webpage's call-to-action button says "Login" instead of "Log in" which is not consistent with the official TF Bank website.
 
 
 6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
  1. Target brand: DHL
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
- - "Next" button
+3. List of fields: Username, Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage has a DHL logo, but the URL is not a DHL website.
- - The webpage has a DHL tracking number, but the tracking number is fake.
- - The webpage has a fake "Important Message!" asking for payment.
- - The webpage has a "Next" button that is likely to lead to a page requesting personal information.
+6. Supporting evidence:
+ - The URL is not a DHL website.
+ - The design of the webpage is different from the DHL website.
+ - The webpage has fields asking for user credentials.
+ - The webpage has a call-to-action button that says "Next".
+ - The text on the webpage is not consistent with the DHL website.
 
 
 6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
  1. Target brand: Allegro
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Email address
+ - Username/Email
  - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
+6. Supporting evidence:
+ - The URL is not the official website of Allegro.
+ - The webpage design is different from the official website of Allegro.
+ - The webpage is asking for personal information such as username and password.
  - The webpage is hosted on a free hosting service.
- - The webpage's design is not consistent with Allegro's branding.
- - The webpage's URL is not a legitimate Allegro URL.
- - The webpage's text contains grammatical errors.
- - The webpage is asking for sensitive information, such as passwords.
+ - The webpage has a low Alexa ranking.
 
 
 6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
@@ -114,10 +105,11 @@
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage's URL matches the official Banca di Venezia website.
- - The webpage's design is consistent with the official Banca di Venezia website.
- - The webpage's content is consistent with the official Banca di Venezia website.
- - The webpage has a valid SSL certificate.
+ - The webpage's URL is "www.bancadivenezia.it," which is the official website of Banca di Venezia.
+ - The webpage has a valid SSL certificate, which indicates that the connection is secure.
+ - The webpage's design is consistent with the rest of the Banca di Venezia website.
+ - The webpage's content is consistent with the rest of the Banca di Venezia website.
+ - There are no obvious signs of phishing, such as typos or grammatical errors.
 
 
 afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
@@ -128,51 +120,60 @@ afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
 5. Phishing Score: 0
 6. Supporting evidence: 
  - The webpage has a valid SSL certificate and a padlock icon in the address bar.
- - The webpage's URL is similar to the legitimate DPD website.
- - The webpage's design is consistent with the legitimate DPD website.
- - The webpage's content is consistent with the legitimate DPD website.
- - There are no suspicious elements on the webpage, such as hidden fields or malicious links.
+ - The URL is similar to the official DPD website.
+ - The webpage design is consistent with the official DPD website.
+ - The webpage content is in German, which is consistent with the official DPD website.
+ - There are no fields asking for user credentials.
+ - The webpage does not contain any suspicious links or buttons.
 
 
 ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
  1. Target brand: Microsoft
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Email address
- - Password
+- Email address
+- Password
+- Sign in
+- Create account
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage is hosted on Microsoft's official domain.
- - The webpage design is consistent with Microsoft's branding.
- - The webpage uses a secure HTTPS connection.
- - The webpage has a valid SSL certificate.
- - There are no suspicious links or buttons on the webpage.
- - The webpage does not ask for any personal information.
- - The webpage does not ask for any financial information.
- - The webpage does not ask for any login credentials.
+- The webpage's URL is "https://www.microsoft.com/en-sg/", which is a legitimate Microsoft domain.
+- The webpage has a valid SSL certificate issued by DigiCert, Inc.
+- The webpage's design is consistent with other Microsoft webpages.
+- The webpage's content is consistent with other Microsoft webpages.
+- The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
 
 
 bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
  1. Target brand: Rebecca DONG
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- -
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage screenshot has a form asking for the user's username and password.
+ - The webpage screenshot is hosted on a free web hosting service.
+ - The webpage screenshot has a lot of pop-ups and advertisements.
+ - The webpage screenshot has a lot of grammatical errors.
+ - The webpage screenshot has a lot of spelling errors.
+ - The webpage screenshot has a lot of security warnings.
+ - The webpage screenshot has a lot of phishing warnings.
 
 
 c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
  1. Target brand: Bet365
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
- - Username
- - Password
+3. List of fields: Username, Password
 4. Conclusion: Phishing
 5. Phishing Score: 9
 6. Supporting evidence: 
- - The webpage has a similar design to the legitimate Bet365 webpage, but there are some discrepancies, such as the missing "s" in the "https" protocol in the address bar, the different favicon, and the different font used in the text.
- - The webpage is hosted on a different domain than the legitimate Bet365 webpage.
- - The webpage asks for the user's credentials, which is not necessary for a legitimate webpage.
- - The webpage has a call-to-action button that says "Login", which is not necessary for a legitimate webpage.
+ - The webpage has a similar URL to the legitimate Bet365 website but with a different TLD.
+ - The webpage's design is a mirror of the legitimate Bet365 webpage.
+ - The webpage has a fake "安全验证" (security verification) pop-up window.
+ - The webpage has a fake "立即领取" (receive now) button.
 
 
 ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
@@ -180,51 +181,48 @@ ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
  - Name
- - Phone
+ - Phone Number
  - Email
- - MegaFon personal account number
+ - MegaFon account number
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage is hosted on a free hosting platform.
- - The webpage is not using a secure connection (HTTPS).
- - The webpage is not using the brand's official logo and branding.
- - The webpage is using a generic contact form instead of a branded one.
- - The webpage is asking for sensitive information such as the user's MegaFon personal account number.
- - The webpage is not providing any information about the contest or its rules.
- - The webpage is not providing any contact information for the contest organizers.
- - The webpage is not providing any links to the brand's official website or social media pages.
+6. Supporting evidence:
+ - The webpage's URL is not a legitimate MegaFon domain.
+ - The webpage's design is different from the legitimate MegaFon website.
+ - The webpage's text contains grammatical errors.
+ - The webpage's call-to-action button says "Register", which is not a typical call-to-action for a legitimate MegaFon webpage.
+ - The webpage's privacy policy is not a legitimate MegaFon privacy policy.
 
 
 d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
  1. Target brand: DPD
 2. Has credentials/call-to-action: Yes
-3. List of fields:
-     - Your parcel number: <input field>
+3. List of fields: 
+   - Username/Email
+   - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence:
- - The webpage has a fake URL that is similar to the legitimate DPD website.
- - The webpage's design and branding elements are inconsistent with the legitimate DPD website.
- - The webpage's text content contains grammatical errors and inconsistencies.
- - The webpage requests sensitive information such as your DPD account number.
- - The webpage does not have the same security features as the legitimate DPD website.
+6. Supporting evidence: 
+   - The URL is not a secure website.
+   - The website is not hosted on DPD's official domain.
+   - The website's design is different from DPD's official website.
+   - The website's text contains grammatical errors.
+   - The website is asking for personal information, such as your username and password.
 
 
 e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
  1. Target brand: DHL
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
-    * E-post
-    * Lösenord
+   - E-post (Email)
+   - Lösenord (Password)
 4. Conclusion: Benign
 5. Phishing Score: 1
-6. Supporting evidence: 
- * The webpage has DHL branding and design elements, such as logos and color schemes, consistent with the legitimate DHL website.
- * The URL contains "dhlparcel.se", which is associated with DHL.
- * The page has a valid SSL certificate issued to "dhlparcel.se".
- * The page has a lock icon in the address bar, indicating a secure connection.
- * The page has a link to the legitimate DHL website in the footer.
- * The page has a copyright notice at the bottom.
+6. Supporting evidence:
+   - The webpage screenshot matches the DHL website's design and branding.
+   - The URL is similar to the official DHL website.
+   - The page requests DHL account credentials, which is expected behavior for a DHL login page.
+   - The page has security measures like the "Keep me signed in" checkbox and "Forgot password" link.
+   - The page has a valid SSL certificate, indicated by the lock icon in the browser's address bar.
 
 

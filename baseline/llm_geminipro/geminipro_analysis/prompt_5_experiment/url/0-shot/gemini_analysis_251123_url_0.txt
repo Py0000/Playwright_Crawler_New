@@ -1,18 +1,17 @@
 0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27
  1. Target brand: Microsoft
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
-    - Email Address
-    - Password
+3. List of fields:
+   - Email
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage is hosted on a free hosting platform.
- - The domain name is different from the legitimate Microsoft website.
- - The webpage design is not consistent with the legitimate Microsoft website.
- - The webpage contains a number of spelling and grammatical errors.
- - The webpage requests sensitive information, such as email addresses and passwords.
- - The webpage uses a fake "Next" button to trick users into providing their information.
+6. Supporting evidence:
+   - The webpage is trying to impersonate Microsoft's OneDrive login page.
+   - The URL is not a legitimate Microsoft URL.
+   - The page requests the user to enter their email address and password.
+   - The page has a fake "Next" button that is designed to trick the user into entering their credentials.
+   - The page is hosted on a free web hosting service, which is often used by phishing websites.
+   - The page is not using a secure connection (HTTPS).
 
 
 3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2
@@ -23,89 +22,82 @@
  - Password
 4. Conclusion: Benign
 5. Phishing Score: 1
-6. Supporting evidence: 
- - The webpage is hosted on Microsoft's official domain, "microsoft.com".
- - The webpage uses a secure HTTPS connection, as indicated by the lock icon in the address bar.
- - The webpage's design is consistent with Microsoft's official branding and follows the design patterns of Microsoft's official website.
- - The webpage's content is consistent with Microsoft's official branding and offerings, such as the Xbox Series X and Surface Laptop Studio 2.
- - The webpage provides clear contact information and links to Microsoft's official social media accounts.
+6. Supporting evidence:
+ - The webpage's URL is "https://www.microsoft.com/en-sg/", which is the official website of Microsoft.
+ - The webpage's design is consistent with Microsoft's official website.
+ - The webpage's content is consistent with Microsoft's official website.
+ - The webpage has a valid SSL certificate.
+ - The webpage is not asking for any sensitive information, such as credit card numbers or social security numbers.
 
 
 605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817
  1. Target brand: DHL
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
+3. List of fields:
    - Email Address
    - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
-   - The webpage has a DHL logo and branding, but the URL is not the official DHL website.
-   - The webpage is asking for the user's email address and password.
-   - The webpage has a "Track Shipment" button that is likely to be a phishing link.
-   - The webpage has a checkbox that says "Remember my email account on this device", which is a common phishing tactic.
-   - The webpage has a copyright date of 2022, which is not the current year.
-   - The webpage is not using a secure HTTPS connection.
+6. Supporting evidence:
+   - The URL is not a DHL website.
+   - The design of the webpage is different from DHL's official website.
+   - The webpage asks for personal information, such as email address and password.
+   - There is a call-to-action button that says "Track Shipment".
+   - The webpage has a lot of pop-ups.
 
 
 8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918
  1. Target brand: Adobe
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
-    - Email address
-    - Password
+  - Email Address
+  - Password
 4. Conclusion: Benign
 5. Phishing Score: 1
-6. Supporting evidence:
- - The webpage is hosted on Adobe's official domain "helpx.adobe.com".
- - The webpage has a valid SSL certificate issued by "Adobe Systems Incorporated".
- - The webpage uses a secure "HTTPS" connection.
- - The webpage design is consistent with Adobe's official website.
- - The webpage content is consistent with Adobe's official website.
- - The webpage does not ask for any sensitive information such as credit card numbers or social security numbers.
+6. Supporting evidence: 
+ - The webpage is hosted on Adobe's official domain "helpx.adobe.com", which is a trusted source.
+ - The URL contains a reference to "Adobe Acrobat", which is a legitimate Adobe product.
+ - The page has a valid SSL certificate, indicated by the green padlock icon in the browser's address bar.
+ - The design and layout of the webpage are consistent with Adobe's branding and other legitimate webpages.
+ - The text content on the page is well-written and free of grammatical errors.
+ - The page includes a link to Adobe's official website.
 
 
 acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801
  1. Target brand: Netflix
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
- - Email Address
+3. List of fields: Email
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage has a fake URL that is similar to the legitimate Netflix website.
- - The webpage's design is a copy of the legitimate Netflix website.
- - The webpage has a fake sign-in form that asks for users to enter their email addresses.
- - The webpage has a fake "Get Started" button that may lead to a phishing website.
- - The webpage's text content is a copy of the legitimate Netflix website.
+6. Supporting evidence:
+ - The webpage's URL is not the official Netflix website.
+ - The webpage's design is different from the official Netflix website.
+ - The webpage's content is different from the official Netflix website.
+ - The webpage asks for the user's email address.
+ - The webpage has a fake "Get Started" button.
 
 
 ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
  1. Target brand: Bilibili
 2. Has credentials/call-to-action: Yes
 3. List of fields: Username, Password
-4. Conclusion: Phishing
-5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage has a fake URL that is similar to the legitimate Bilibili website.
- - The webpage has a fake login form that asks for the user's credentials.
- - The webpage has a fake call-to-action button that says "Login".
- - The webpage has a fake copyright notice that says "Copyright © 2023 Bilibili".
- - The webpage has a fake social media icons that link to nowhere.
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The webpage has a valid SSL certificate, and the URL matches the official Bilibili website. The design and branding elements are consistent with the legitimate Bilibili website. The screenshot is visually consistent with other official Bilibili webpages.
 
 
 cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
  1. Target brand: Garena Free Fire
 2. Has credentials/call-to-action: Yes
-3. List of fields: Username, Password, Date of Birth, Address
+3. List of fields: Username, Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence:
  - The webpage has a Facebook login button, which is not a typical login method for Garena Free Fire.
- - The webpage asks for personal information, such as date of birth and address, which is not necessary for logging in to Garena Free Fire.
+ - The webpage asks for personal information such as name, birthday, and address, which is not necessary for logging in to Garena Free Fire.
  - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage's URL is different from the official Garena Free Fire website.
  - The webpage's design is not consistent with the official Garena Free Fire website.
- - The webpage's URL is not the official Garena Free Fire website.
 
 
 cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
@@ -115,31 +107,27 @@ cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
  - Email Address
  - Password
 4. Conclusion: Phishing
-5. Phishing Score: 9
+5. Phishing Score: 8
 6. Supporting evidence:
- - The webpage's URL is not a legitimate Netflix domain.
- - The webpage's design and layout are different from the legitimate Netflix website.
- - The webpage's text contains grammatical errors and inconsistencies.
- - The webpage's logo is different from the legitimate Netflix logo.
- - The webpage is hosted on a free web hosting service.
- - The webpage's "Contact Us" page contains a form that asks for users to provide their personal information, such as their name, email address, and phone number.
- - The webpage's "Contact Us" page contains a phone number that is not a legitimate Netflix phone number.
- - The webpage's "Contact Us" page contains a link to a fake Netflix Facebook page.
+ - The URL is not the official Netflix website.
+ - The website is hosted on a free platform.
+ - The website's design is different from the official Netflix website.
+ - The website's content is different from the official Netflix website.
+ - The website asks for users to enter their personal information.
+ - The website has a lot of pop-ups and advertisements.
 
 
 daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
  1. Target brand: Netflix
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
-  - Email Address
- - Password
+3. List of fields: Email Address
 4. Conclusion: Phishing
-5. Phishing Score: 9
-6. Supporting evidence: 
- - The webpage has a similar design to the legitimate Netflix website, but there are some discrepancies, such as the font of the text and the layout of the buttons.
- - The webpage's URL is different from the legitimate Netflix website's URL.
- - The webpage asks for users to enter their email address and password, which is not necessary to watch Netflix.
- - The webpage has a fake "Frequently Asked Questions" section at the bottom of the page.
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage's URL is not the official Netflix website. 
+ - The webpage's design is different from the official Netflix website.
+ - The webpage's content is different from the official Netflix website.
+ - The webpage has a field asking for user credentials.
 
 
 db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
@@ -152,15 +140,18 @@ db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
  - Address
  - City
  - State
- - Zip Code
+ - Zip
+ - Property Type
+ - Price
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence:
- - The webpage's URL is not secure.
- - The webpage's design is not consistent with the legitimate Sell My Home Fast Ohio website.
- - The webpage's content is full of grammatical errors.
- - The webpage has a lot of pop-ups and advertisements.
- - The webpage asks for too much personal information.
- - The webpage uses a fake contact number and address.
+ - The webpage's URL is different from the legitimate website.
+ - The webpage's design is different from the legitimate website.
+ - The webpage's content is different from the legitimate website.
+ - The webpage has fields asking for user credentials.
+ - The webpage has a call-to-action button that says "Get Started".
+ - The webpage has a lot of pop-ups.
+ - The webpage is not secure.
 
 

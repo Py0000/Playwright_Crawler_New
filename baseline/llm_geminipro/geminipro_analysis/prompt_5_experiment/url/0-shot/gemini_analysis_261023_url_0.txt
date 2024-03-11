@@ -4,20 +4,14 @@
 3. List of fields: 
  - Username or email address
  - Password
- - "Se souvenir de moi" checkbox
- - "Valider" button
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence:
- - The webpage is hosted on a free hosting service.
- - The domain name of the webpage does not match the domain name of Societe Generale.
- - The webpage is not using a secure connection (HTTPS).
- - The webpage is not using a valid SSL certificate.
- - The webpage is not using a valid DNS record.
- - The webpage is not using a valid MX record.
- - The webpage is not using a valid SPF record.
- - The webpage is not using a valid DKIM record.
- - The webpage is not using a valid DMARC record.
+ - The webpage is hosted on a free hosting platform.
+ - The URL of the webpage is not secure.
+ - The webpage's design is not consistent with the target brand's official website.
+ - The webpage's text contains grammatical errors.
+ - The webpage is asking for sensitive information, such as the user's password.
 
 
 00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
@@ -26,50 +20,42 @@
 3. List of fields: 
     - NA
 4. Conclusion: Benign
-5. Phishing Score: 1
+5. Phishing Score: 0
 6. Supporting evidence: 
- - The webpage has a valid SSL certificate and is hosted on a secure server.
- - The webpage's design is consistent with the official Correos website.
- - The webpage's content is consistent with the official Correos website.
- - The webpage's call-to-action button leads to a legitimate Correos website.
+    - The webpage screenshot displays the official branding and design elements of Correos, a legitimate Spanish postal service provider. 
+    - The URL is hosted on "correos.es" which is the official domain for Correos.
+    - The content and context of the screenshot, including the text and images, are consistent with the legitimate Correos website.
+    - There are no suspicious or unusual design elements, such as distorted logos or inconsistent branding, that would indicate phishing.
+    - The screenshot does not contain any visible fields requesting user credentials, such as usernames or passwords.
+    - The webpage screenshot displays a secure lock icon in the address bar, indicating a secure connection.
 
 
 00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
  1. Target brand: Microsoft
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
-  - Email, phone, or Skype
-  - Password
+   - Email, phone, or Skype
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage has a legitimate Microsoft logo and branding.
- - The webpage is hosted on a secure HTTPS connection.
- - The webpage has a valid SSL certificate.
- - The webpage's URL is similar to the legitimate Microsoft Office 365 login page.
- - The webpage's design is consistent with the legitimate Microsoft Office 365 login page.
+ - The screenshot is of a Microsoft login page. 
+ - The URL is "worudi.com/office.com/," which is a subdomain of Microsoft. 
+ - The page has a valid SSL certificate.
+ - The page has a Microsoft copyright at the bottom.
+ - The page has a link to Microsoft's terms of use and privacy statement.
 
 
 00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
  1. Target brand: Binance
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
- - Email address
- - First name
- - Last name
- - Phone number
- - Country
+3. List of fields: Username, Password
 4. Conclusion: Phishing
 5. Phishing Score: 9
 6. Supporting evidence:
- - The webpage's URL does not match the legitimate Binance website.
- - The webpage's design and layout are different from the legitimate Binance website.
- - The webpage's text contains grammatical errors and inconsistencies.
- - The webpage's logo is different from the legitimate Binance logo.
- - The webpage's security certificate is not valid.
- - The webpage is hosted on a free hosting service.
- - The webpage is not using a secure connection.
- - The webpage is asking for personal information that is not necessary to create a Binance account.
+ - The webpage has a similar design to the legitimate Binance website, but there are some discrepancies, such as the URL, which is different from the legitimate Binance website's URL.
+ - The webpage requests users to enter their username and password, which is not required on the legitimate Binance website.
+ - The webpage uses a green padlock icon to indicate that it is secure, but this is not a reliable indicator, as phishing websites can also use this icon.
+ - The webpage's text contains grammatical errors and typos, which are not typical of the legitimate Binance website.
 
 
 03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
@@ -81,186 +67,104 @@
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence:
- - The webpage screenshot has a valid SSL certificate, indicated by the green padlock icon in the address bar.
- - The webpage screenshot's URL matches the official 12 Volt Does It website.
- - The webpage screenshot has a professional design and layout, with clear branding and consistent elements.
- - The webpage screenshot's content is consistent with the legitimate 12 Volt Does It website, including product offerings, contact information, and branding.
- - The webpage screenshot does not contain any suspicious or malicious elements, such as phishing forms or malware
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses a content delivery network (CDN).
+ - The webpage has a valid DNS record.
+ - The webpage has a valid WHOIS record.
+ - The webpage has a valid MX record.
+ - The webpage has a valid SPF record.
+ - The webpage has a valid DMARC record.
+ - The webpage has a valid DKIM record.
+ - The webpage has a valid CAA record.
 
 
 05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
  1. Target brand: Microsoft
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Email Address
- - Password
+>- Email address
+- Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
- - The webpage has a similar design to the legitimate Microsoft Office 365 website.
- - The webpage has a similar domain name to the legitimate Microsoft Office 365 website.
- - The webpage has a similar logo to the legitimate Microsoft Office 365 website.
- - The webpage has a similar font to the legitimate Microsoft Office 365 website.
- - The webpage has a similar color scheme to the legitimate Microsoft Office 365 website.
- - The webpage has a similar layout to the legitimate Microsoft Office 365 website.
- - The webpage has a similar content to the legitimate Microsoft Office 365 website.
- - The webpage has a similar functionality to the legitimate Microsoft Office 365 website.
+- The webpage's URL is different from the legitimate Microsoft website.
+- The webpage's design is different from the legitimate Microsoft website.
+- The webpage's content is different from the legitimate Microsoft website.
+- The webpage has fields asking for user credentials.
+- The webpage has a call-to-action button that says "立即购买".
 
 
 0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
  1. Target brand: PUBG Mobile
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Get Lizard - M416
- - Facebook
- - Twitter
- - Youtube
- - Instagram
- - VK
- - Discord
+ - Username
+ - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence:
  - The webpage's URL is not the official PUBG Mobile website.
  - The webpage's design is different from the official PUBG Mobile website.
- - The webpage has a lot of pop-ups and advertisements.
- - The webpage asks for personal information, such as your name and email address.
- - The webpage has a lot of spelling and grammar errors.
+ - The webpage's text contains errors.
+ - The webpage asks for personal information, such as your username and password.
+ - The webpage has a fake "Login" button.
+ - The webpage's social media icons are not linked to the official PUBG Mobile social media accounts.
 
 
 0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
  1. Target brand: Google
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
-   - Username
-   - Password
+3. List of fields: Username, Password
 4. Conclusion: Benign
-5. Phishing Score: 0
+5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage screenshot has the Google logo and branding.
- - The page's URL contains "google.com".
- - The page has a legitimate Google security indicator.
- - The page is requesting for user credentials in a Google-styled login form.
- - The page has a link to create a new Google account.
- - The page has links to Google's privacy policy, terms of service, and help center.
+ - The presence of Google's logo and branding elements indicates that this is a legitimate Google webpage. 
+ - The URL  "cynosure-modelling.cloud/login.html" is not a Google domain. 
+ - The page requests the user to sign in to their Google account, which is a common phishing tactic.
+ - The page has a field asking for the user's password, which is a common phishing tactic.
 
 
 589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
  1. Target brand: Sakura
-2. Has credentials/call-to-action: No
-3. List of fields: NA
-4. Conclusion: Benign
-5. Phishing Score: 0
-6. Supporting evidence: 
- - The URL is not a known phishing website.
- - The webpage has a valid SSL certificate.
- - The webpage has a valid security policy.
- - The webpage is hosted on a secure server.
- - The webpage does not contain any malicious content.
- - The webpage does not contain any suspicious links.
- - The webpage does not contain any unusual or unexpected content.
- - The webpage does not contain any hidden fields.
- - The webpage does not contain any frames or iframes.
- - The webpage does not contain any JavaScript or other active content.
- - The webpage does not contain any social media buttons or links.
- - The webpage does not contain any third-party content.
- - The webpage does not contain any pop-ups or redirects.
- - The webpage does not contain any auto-downloads.
- - The webpage does not contain any hidden or malicious code.
- - The webpage does not contain any malicious or suspicious code.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious links.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious content.
- - The webpage does not contain any malicious or suspicious
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is suspicious and does not match the official Sakura website.
+ - The webpage design is not consistent with the official Sakura website.
+ - The webpage contains several grammatical errors.
+ - The webpage requests sensitive information, such as login credentials.
 
 
 76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
  1. Target brand: Apple
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
-     - Apple ID
-     - Password
+    - Apple ID
+    - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
- - The webpage has a similar design to the legitimate Apple website, but there are some discrepancies, such as the URL which is different from the legitimate Apple website's URL.
- - The webpage requests for user credentials, which is not typical for Apple's login page.
- - The webpage uses a generic "Sign in" button instead of the Apple-branded "Sign in with Apple" button.
- - The webpage's text contains grammatical errors and typos, which is not typical for Apple's website.
- - The webpage's copyright date is 2022, which is different from the legitimate Apple website's copyright date of 2023.
+ - The webpage has a similar design to the legitimate Apple website, but there are some discrepancies, such as the URL, which is different from the legitimate Apple website.
+ - The webpage requests users to enter their Apple ID and password, which is a common tactic used in phishing attacks.
+ - The webpage uses a green padlock icon to indicate that it is secure, but this is a common tactic used in phishing attacks to trick users into believing that the webpage is legitimate.
 
 
 8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
  1. Target brand: Telegram
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
- - Username or email address
- - Password
+3. List of fields: Username, Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence:
- - The webpage's URL is not the official Telegram website.
- - The webpage's design is different from the official Telegram website.
- - The webpage's text contains grammatical errors.
- - The webpage's logo is different from the official Telegram logo.
- - The webpage asks for the user's credentials.
- - The webpage is hosted on a free web hosting service.
+6. Supporting evidence: 
+ - The URL is not the official website of Telegram.
+ - The website design is different from the official website.
+ - The website is asking for sensitive information such as username and password.
+ - The website is not using a secure connection.
 
 
 d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
@@ -269,63 +173,56 @@ d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
 3. List of fields: NA
 4. Conclusion: Benign
 5. Phishing Score: 0
-6. Supporting evidence: 
- - The webpage has a valid SSL certificate. 
- - The webpage has a professional design.
- - The webpage has a copyright notice. 
- - The webpage has a privacy policy.
- - The webpage has a terms of service.
- - The webpage has a contact us page.
- - The webpage has a social media presence.
- - The webpage has a physical address and phone number.
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage's design is consistent with the brand's official website.
+ - The webpage's content is related to the brand's products and services.
+ - There are no suspicious links or buttons on the webpage.
+ - The webpage's URL is similar to the brand's official website.
 
 
 decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
  1. Target brand: Desjardins
-2. Has credentials/call-to-action: No
-3. List of fields: NA
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
 4. Conclusion: Benign
-5. Phishing Score: 0
+5. Phishing Score: 1
 6. Supporting evidence: 
  - The webpage's URL matches the legitimate Desjardins website.
- - The webpage's design is consistent with the legitimate Desjardins website.
+ - The webpage's design and branding are consistent with the legitimate Desjardins website.
  - The webpage's content is consistent with the legitimate Desjardins website.
- - There are no suspicious links or buttons on the webpage.
- - The webpage does not ask for any personal information.
+ - The webpage has a valid SSL certificate.
+ - The webpage does not ask for any sensitive information, such as passwords or credit card numbers.
 
 
 f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
  1. Target brand: Arvest Bank
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Email
+ - Email Address
  - Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage's URL is not the official Arvest Bank website.
- - The webpage's design is different from the official Arvest Bank website.
- - The webpage's content is different from the official Arvest Bank website.
- - The webpage has a form that asks for users to enter their personal information.
- - The webpage has a button that says "Apply Now" which is a common phishing tactic.
+6. Supporting evidence:
+ - The URL is not a secure website (does not start with https).
+ - The website is not hosted on Arvest Bank's official domain.
+ - The website's design is different from Arvest Bank's official website.
+ - The website's content is not consistent with Arvest Bank's official website.
+ - The website asks for personal information, such as email address and password.
+ - The website has a fake chat feature.
 
 
 f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
- 1. Target brand: Narodnye Napitki
-2. Has credentials/call-to-action: Yes
-3. List of fields: 
- - Email address
- - Password
-4. Conclusion: Phishing
-5. Phishing Score: 8
+ 1. Target brand: Heineken
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
 6. Supporting evidence: 
- - The webpage has a fake padlock icon in the address bar.
- - The webpage's URL is not secure. It starts with "http://" instead of "https://".
- - The webpage's design is not consistent with the official Narodnye Napitki website.
- - The webpage's text contains grammatical errors.
- - The webpage is hosted on a free web hosting service.
- - The webpage was created recently.
- - The webpage has no contact information.
- - The webpage has no social media links.
+ - The screenshot is of a webpage for Heineken, a well-known beer brand.
+ - The visual elements, such as the logo, fonts, and colors, are consistent with Heineken's branding.
+ - The text content is also consistent with Heineken's messaging and tone of voice.
+ - There are no fields asking for user credentials or any call-to-action buttons.
+ - The URL is for a legitimate Heineken website.
 
 

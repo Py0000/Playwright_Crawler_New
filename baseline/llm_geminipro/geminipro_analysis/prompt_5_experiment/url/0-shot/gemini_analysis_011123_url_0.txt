@@ -4,123 +4,44 @@
 3. List of fields: NA
 4. Conclusion: Benign
 5. Phishing Score: 0
-6. Supporting evidence: 
- - The webpage's design is consistent with Telegram's official branding and follows its design guidelines.
- - The webpage's content is related to Telegram's services and features, and is consistent with the information found on Telegram's official website.
- - There are no suspicious or malicious elements, such as phishing forms or misleading links, present on the webpage.
- - The webpage's URL is similar to Telegram's official website, and does not contain any suspicious or malicious characters.
+6. Supporting evidence:
+ - The webpage's URL matches the official Telegram website.
+ - The webpage's design is consistent with the official Telegram branding.
+ - The webpage's content is consistent with the official Telegram messaging.
+ - There are no fields asking for user credentials.
+ - There are no call-to-action buttons or links.
 
 
 5ed6bc379e46f1a6d48070277c68e577a49fb7d8332a33d224124e4ccdf94428
  1. Target brand: PUBG Mobile
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Email/Username
+ - Email address
  - Password
-4. Conclusion: Benign
-5. Phishing Score: 1
+4. Conclusion: Phishing
+5. Phishing Score: 8
 6. Supporting evidence:
- - The webpage has a valid SSL certificate and is hosted on a secure server.
- - The webpage's design is consistent with the official PUBG Mobile website.
- - The webpage's content is pubg mobile related and does not contain any malicious links or advertisements.
- - The webpage does not request any personal information from the user.
+ - The webpage's URL is not the official PUBG Mobile website.
+ - The webpage's design is different from the official PUBG Mobile website.
+ - The webpage's content is different from the official PUBG Mobile website.
+ - The webpage asks for the user's email address and password.
+ - The webpage has a fake "Join the Community" section with social media icons.
 
 
 8ebb62e318e8c7165ae24fe9f8b44fef3a1d67a8bbbfa94c687760263bd618c9
  1. Target brand: Shopee
 2. Has credentials/call-to-action: Yes
 3. List of fields: 
- - Phone number/ Username/ Email
- - Password
+     - Phone number/ Username/ Email
+     - Password
 4. Conclusion: Benign
 5. Phishing Score: 1
 6. Supporting evidence:
+ - The URL is "shopee.sg", which is the official website of Shopee.
  - The webpage has a valid SSL certificate.
- - The webpage has a padlock icon in the address bar.
- - The webpage has a green address bar.
- - The webpage has a valid URL.
- - The webpage has a valid website name.
- - The webpage has a valid website title.
- - The webpage has a valid website favicon.
- - The webpage has a valid website design.
- - The webpage has a valid website content.
- - The webpage has a valid website logo.
- - The webpage has a valid website trademark.
- - The webpage has a valid website copyright.
- - The webpage has a valid website privacy policy.
- - The webpage has a valid website terms of service.
- - The webpage has a valid website contact us page.
- - The webpage has a valid website social media links.
- - The webpage has a valid website customer service.
- - The webpage has a valid website help center.
- - The webpage has a valid website blog.
- - The webpage has a valid website forum.
- - The webpage has a valid website app.
- - The webpage has a valid website mobile app.
- - The webpage has a valid website desktop app.
- - The webpage has a valid website browser extension.
- - The webpage has a valid website API.
- - The webpage has a valid website SDK.
- - The webpage has a valid website documentation.
- - The webpage has a valid website changelog.
- - The webpage has a valid website roadmap.
- - The webpage has a valid website team.
- - The webpage has a valid website company.
- - The webpage has a valid website address.
- - The webpage has a valid website phone number.
- - The webpage has a valid website email address.
- - The webpage has a valid website social media presence.
- - The webpage has a valid website customer reviews.
- - The webpage has a valid website rating.
- - The webpage has a valid website Alexa rank.
- - The webpage has a valid website SimilarWeb rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website SimilarWeb rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahrefs rank.
- - The webpage has a valid website Moz rank.
- - The webpage has a valid website SEMrush rank.
- - The webpage has a valid website Majestic rank.
- - The webpage has a valid website Ahref
+ - The webpage has a green padlock icon in the address bar.
+ - The webpage has the correct branding and design elements of Shopee.
+ - The webpage has a link to the official Shopee app on the Google Play Store and Apple App Store.
 
 
 af430ef89e0d3c0ed9762591c97acef6e187bde52da3a38edd4f36115b73bbb8
@@ -130,30 +51,19 @@ af430ef89e0d3c0ed9762591c97acef6e187bde52da3a38edd4f36115b73bbb8
  - CPF
  - Nome Completo
  - E-mail
- - Telefone
- - Celular
+ - Número de Celular
  - Data de Nascimento
- - Sexo
- - Estado Civil
- - Escolaridade
- - Renda Mensal
- - Ocupação
- - Empresa
- - Endereço
- - Número
- - Complemento
- - Bairro
- - Cidade
- - Estado
- - CEP
+ - Salário Mensal
+ - Valor Máximo do Emprestimo
 4. Conclusion: Phishing
 5. Phishing Score: 9
 6. Supporting evidence:
- - The webpage has a similar design to the legitimate Banco Bradesco website, but there are some discrepancies, such as the different favicon and the different text in the logo.
- - The webpage is hosted on a free hosting service, which is not typical for a legitimate website.
- - The webpage asks for a lot of personal information, including the user's CPF, full name, email address, phone number, date of birth, gender, marital status, education, monthly income, occupation, company, address, and CEP. This is more information than is typically required by legitimate websites.
- - The webpage has a lot of grammatical errors and typos, which is not typical for a legitimate website.
- - The webpage has a lot of pop-ups and advertisements, which is not typical for a legitimate website.
+ - The webpage has a similar design to the legitimate Banco Bradesco website, but there are some discrepancies, such as the different logo and the different text in the navigation bar.
+ - The webpage is hosted on a free hosting site, which is not typical for a legitimate website.
+ - The webpage asks for sensitive information, such as CPF, full name, email address, phone number, date of birth, monthly salary, and maximum loan amount.
+ - The webpage has a lot of grammatical errors.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage has a low Alexa ranking, which indicates that it is not a popular website.
 
 
 bf7f1b582945e4ef1f842b97d83f2913ca38948fdb7cb837b5b910c7a26e158e
@@ -165,12 +75,10 @@ bf7f1b582945e4ef1f842b97d83f2913ca38948fdb7cb837b5b910c7a26e158e
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
- - The webpage has a fake URL that is different from the legitimate AT&T website.
- - The webpage design is not consistent with the legitimate AT&T website.
- - The webpage has a form that asks for user credentials.
- - The webpage has a call-to-action button that says "Sign In".
- - The webpage has a checkbox that says "Opt-in to receive marketing and promotional materials".
- - The webpage has a Weebly logo at the bottom, which is a platform for creating websites. This indicates that the webpage is not hosted by AT&T.
+   - The webpage has a similar design and layout to the legitimate AT&T website, but there are some discrepancies, such as the missing "Secure" icon in the address bar and the different font used in the text.
+   - The webpage's URL is not the legitimate AT&T website.
+   - The webpage asks for the user's email address and password, which is not necessary to access AT&T mail.
+   - The webpage is hosted on Weebly, a free website hosting service, which is not typically used by large companies like AT&T.
 
 
 c23d392e973b20179f7e7ab5775a39c1222becf06d71e370e7b3aa4bce8856c2
@@ -182,10 +90,13 @@ c23d392e973b20179f7e7ab5775a39c1222becf06d71e370e7b3aa4bce8856c2
 4. Conclusion: Phishing
 5. Phishing Score: 8
 6. Supporting evidence: 
-   - The webpage has a similar design to the legitimate SharePoint login page, but there are subtle differences, such as the font and the color of the buttons.
-   - The URL of the webpage is not the legitimate SharePoint URL.
-   - The webpage asks for the user's email address, phone number, or Skype ID, which is not typical for SharePoint login.
-   - The webpage has a "Next" button instead of a "Sign in" button.
+   - The webpage has a URL that is not associated with Microsoft or SharePoint.
+   - The webpage's design is different from the legitimate SharePoint login page.
+   - The webpage has a field asking for the user's email address, phone number, or Skype ID.
+   - The webpage has a field asking for the user's password.
+   - The webpage has a button that says "Next." This button is typically used to submit a form.
+   - The webpage has a checkbox that says "Keep me signed in." This checkbox is typically used to save the user's login information so that they do not have to enter it again the next time they visit the webpage.
+   - The webpage has a link that says "Forgot Password?" This link is typically used to help users who have forgotten their passwords.
 
 
 d3995faa33bac11bd44ddc9fe904fe0366266197c86fcc47736c51806863b112
@@ -195,32 +106,28 @@ d3995faa33bac11bd44ddc9fe904fe0366266197c86fcc47736c51806863b112
  - Email address
  - Password
 4. Conclusion: Benign
-5. Phishing Score: 0
+5. Phishing Score: 1
 6. Supporting evidence: 
- - The webpage is hosted on Microsoft's official domain ("microsoft.com").
- - The webpage uses a secure HTTPS connection (indicated by the lock icon in the address bar).
- - The webpage's design is consistent with Microsoft's official branding and follows the company's design guidelines.
- - The webpage's content is relevant to Microsoft's products and services.
- - The webpage does not contain unusual pop-ups or intrusive advertisements.
- - The webpage does not request personal information or financial information.
+ - The URL is a legitimate Microsoft domain.
+ - The webpage design is consistent with Microsoft's branding and follows the design and layout of the official Microsoft website. 
+ - The webpage is hosted on a secure HTTPS connection.
+ - The webpage contains legitimate Microsoft products and services.
+ - The webpage has a valid SSL certificate.
+ - The webpage does not contain any suspicious or malicious content.
 
 
 ee2a45354b1ff2bb8eba1e92e38b17752144166d7b350ded1170e717a990e873
- 1. Target brand: PUBG Mobile
+ 1. Target brand: PUBG Arena
 2. Has credentials/call-to-action: Yes
-3. List of fields: 
- - Registration
- - Login
+3. List of fields: Username, Password
 4. Conclusion: Phishing
 5. Phishing Score: 8
-6. Supporting evidence: 
- - The webpage has a similar URL to the legitimate PUBG Mobile website.
- - The webpage has a similar design to the legitimate PUBG Mobile website.
- - The webpage has a similar logo to the legitimate PUBG Mobile website.
- - The webpage has a similar font to the legitimate PUBG Mobile website.
- - The webpage has a similar color scheme to the legitimate PUBG Mobile website.
- - The webpage has a similar layout to the legitimate PUBG Mobile website.
- - The webpage has a similar text to the legitimate PUBG Mobile website.
- - The webpage has a similar image to the legitimate PUBG Mobile website.
+6. Supporting evidence:
+ - The URL is not the official PUBG Arena website.
+ - The website is not using a secure connection (HTTPS).
+ - The website's design is different from the official PUBG Arena website.
+ - The website is asking for personal information, such as your username and password.
+ - There is no information about the company that owns the website.
+ - The website has a lot of pop-ups and advertisements.
 
 
