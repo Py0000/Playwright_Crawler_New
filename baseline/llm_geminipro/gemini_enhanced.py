@@ -54,7 +54,13 @@ class GeminiProVisionBaseline:
         desc = self.read_text_from_file(os.path.join(example_file_path, f"desc_{index}.txt"))
         
         title_prompt = "\n\nThis is an example of a phishing page. You can use this to aid you in making your predictions subsequently"
-        full_prompt = f"{title_prompt}\n\nBelow is an example analysis based on the image.\n{desc}"
+        
+        url_prompt = ""
+        if self.is_url:
+            url = self.read_text_from_file(os.path.join(example_file_path, f"url_{index}.txt"))
+            url_prompt = f"This is the url of the webpage: {url}"
+
+        full_prompt = f"{title_prompt}\n\nBelow is an example analysis based on the image.\n{url_prompt}\n{desc}"
 
         return full_prompt, image
     
@@ -66,7 +72,13 @@ class GeminiProVisionBaseline:
         desc = self.read_text_from_file(os.path.join(example_file_path, f"desc_{index}.txt"))
         
         title_prompt = "\n\nThis is an example of a benign page. You can use this to aid you in making your predictions subsequently"
-        full_prompt = f"{title_prompt}\n\nBelow is an example analysis based on the image.\n{desc}"
+        
+        url_prompt = ""
+        if self.is_url:
+            url = self.read_text_from_file(os.path.join(example_file_path, f"url_{index}.txt"))
+            url_prompt = f"This is the url of the webpage: {url}"
+        
+        full_prompt = f"{title_prompt}\n\nBelow is an example analysis based on the image.\n{url_prompt}\n{desc}"
         
         return full_prompt, image
        
@@ -133,6 +145,7 @@ class GeminiProVisionBaseline:
                             if not os.path.exists(log_path):
                                 continue
                             visited_url = self.get_page_url(log_path)
+                            
 
                         response = self.analyse_individual_data(self.model, screenshot_path, few_shot_count, visited_url)
                         responses.append(response)
@@ -172,8 +185,13 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     benign_folders = ["benign"]
-    phishing_folders = ["251023", "261023", "271023", "281023", "011123", "041123", "051123", "061123", "161123", "251123", "111223", "151223", "251223"]
-    
+    #phishing_folders = ["251023", "261023", "271023", "281023", "011123", "041123", "051123", "061123", "161123", "251123", "111223", "151223", "251223"]
+    phishing_folders_oct = ["251023", "261023", "271023", "281023", "291023", "301023", "311023"] # oct
+    phishing_folders_nov = ["011123", "041123", "051123", "061123", "071123", "081123", "091123", "101123", "111123", "121123", "131123", "141123", "151123", "161123", "171123", "181123", "191123", "201123", "211123", "221123", "231123", "241123", "251123", "261123", "271123", "281123", "291123", "301123"]
+    phishing_folders_dec_1 = ["011223", "021223", "031223", "041223", "051223", "061223", "071223", "081223", "091223", "101223", "111223", "121223", "131223"]
+    phishing_folders_dec_2 = ["141223", "151223", "161223", "171223", "181223", "191223", "201223", "211223", "221223", "231223", "241223", "251223"]
+    phishing_folders = phishing_folders_oct + phishing_folders_nov + phishing_folders_dec_1 + phishing_folders_dec_2
+
     if args.benign_phishing == "benign":
         folders = benign_folders
     else:

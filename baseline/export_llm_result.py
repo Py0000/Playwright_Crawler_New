@@ -24,9 +24,14 @@ class LlmResultExport:
         for row in range(2, sheet.max_row + 1):
             if sheet[self.file_hash_column + str(row)].value == file_hash:
                 sheet[self.predicted_brand_column + str(row)] = target_brand
-                sheet[self.predicted_verdict_column + str(row)] = 'Yes' if 'phishing' in conclusion.lower() else 'No'
                 sheet[self.has_credentials_column + str(row)] = has_credentials
                 sheet[self.phishing_score_column + str(row)] = phishing_score
+                if "payload exceeds limit" in conclusion.lower():
+                    sheet[self.predicted_verdict_column + str(row)] = "Payload exceeds limit"
+                elif 'phishing' in conclusion.lower():
+                    sheet[self.predicted_verdict_column + str(row)] = 'Yes' 
+                elif 'benign' in conclusion.lower() or 'non-phishing' in conclusion.lower():
+                    sheet[self.predicted_verdict_column + str(row)] = 'No' 
                 hash_found = True
                 break
         

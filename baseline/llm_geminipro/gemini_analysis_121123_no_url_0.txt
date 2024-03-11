@@ -1,0 +1,162 @@
+0a803bc306dfb97eceec30a382a69bee6174004adf1b76482ad1bdea0d096824
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    * Domain Username
+    * Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate Outlook Web App login page, but there are subtle differences, such as the font and the color of the buttons.
+ - The URL of the webpage is not the legitimate Outlook Web App URL.
+ - The webpage is asking for the user's domain username and password, which is not necessary for the legitimate Outlook Web App login page.
+
+
+27716752b897ff63221e9064d11300ec3122455d9efa2a714bb2130e790c8e3a
+ 1. Target brand: First Financial Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Continue button
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake "verification successful" message to trick users into thinking that they have successfully verified their information.
+ - The webpage requests users to click on the "Continue" button to proceed, which is a common tactic used in phishing scams.
+ - The webpage's URL is not a secure link, indicated by the missing "https" prefix.
+ - The webpage's design is not consistent with the First Financial Bank's official website.
+ - The webpage's text contains grammatical errors and typos, which are common in phishing scams.
+
+
+406cdf1183eaa1c92c061d5ce7ac6f2744f73069acd847ce91b5f41e7703e3b3
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the real Facebook login page, but there are subtle differences, such as the font and the color of the buttons.
+ - The URL of the webpage is not the real Facebook URL.
+ - The webpage asks for the user's phone number and password, which is not necessary to log in to Facebook.
+ - The webpage has a call-to-action button that says "Zaloguj sie", which is Polish for "Log in".
+ - There is a fake Facebook logo on the top right corner of the page.
+ - The page has a link to "Utwórz nowe konto", which is Polish for "Create new account".
+ - There is a link to "Pomoc", which is Polish for "Help".
+ - There is a link to "Informacje", which is Polish for "Information".
+ - There is a link to "Więcej", which is Polish for "More".
+ - There is a link to "English (US)", which is not the default language of the page.
+ - There is a link to "Polski", which is the default language of the page.
+ - There is a link to "Русский", which is not a language option on the real Facebook login page.
+ - There is a link to "Español", which is not a language option on the real Facebook login page.
+
+
+69b52bc74d554b4ecc25b853197f39fe32700768875e8975acf01cb3e6b8720d
+ 1. Target brand: Credit Agricole
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Telephone number
+ - Email address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake green padlock icon which is a phishing indicator
+ - The URL is not the official website of Credit Agricole
+ - The webpage is asking for personal information such as telephone number and email address
+ - The webpage has a fake button labeled "Activer" which is a phishing indicator
+ - The webpage has a fake "Validation des operations sensees" checkbox which is a phishing indicator
+ - The webpage has a fake "Appeler-moi ou voyons nous a l'agence pour en discuter" link which is a phishing indicator
+
+
+74ef921a602a3f5c5cd80ae41948e5e17702974060d6cdb1bc769d774b9485dd
+ 1. Target brand: CVS Health
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The webpage has a simple, minimalistic design, which is not typical for CVS Health's website.
+   - The webpage's URL is not a CVS Health domain.
+   - The webpage is asking for the user's email and password, which is not typical for CVS Health's website.
+   - The webpage's design is not consistent with CVS Health's branding.
+
+
+79433408fa3d0788dcecb66ef7c23db6c5d532231240a835fbae3565f8fe92e1
+ 1. Target brand: MyGov
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Username or email
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design and branding are consistent with the MyGov brand.
+ - The webpage's content is consistent with the MyGov brand and does not contain any suspicious or malicious elements.
+
+
+7f7f2a8823c26ef999fa286173c653c4afdc65497ee3d3ded7011a71603c7dfb
+ 1. Target brand: NA
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has fields asking for user credentials, such as email address and password.
+ - There is a call-to-action button labeled "Log In".
+ - The overall design of the webpage is simple and lacks branding elements.
+ - The text content on the webpage is generic and does not provide any specific information about the target brand.
+
+
+c96f2c6cc04fbdb0a2c2a31ceabb1acb72ba80fe7c2ee8cb36c00f9d3123fbcb
+ 1. Target brand: Meta (Facebook)
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email address or phone number
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The screenshot is of a login page for Facebook.
+   - The URL is not the official Facebook login page URL.
+   - The page is asking for the user's email address or phone number and password.
+   - There is a call-to-action button that says "Log In".
+   - The page has a fake error message that says "The password that you've entered is incorrect."
+   - The page has a link that says "Forgot password?"
+   - The page has a copyright notice that says "Meta © 2023".
+   - The overall design of the page is similar to the official Facebook login page, but there are some discrepancies, such as the font and the color of the buttons.
+
+
+dec220c28a735ebf48e95ce79dff38a583630d2c0268104851b385912386161d
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is not a Netflix domain.
+ - The webpage's design is different from Netflix's official website.
+ - The webpage's content is not related to Netflix.
+ - There are no fields on the webpage that ask for user credentials.
+ - There are no call-to-action buttons or links on the webpage.
+
+
+f2decee51d9eeeb97312e59052df929f8752b80ffbadbcb26705271c57f986b8
+ 1. Target brand: Idaho Central Credit Union
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+   - The webpage is trying to imitate the login page of Idaho Central Credit Union.
+   - The webpage has a field asking for user credentials.
+   - The webpage has a call-to-action button that says "Log In".
+   - The webpage is trying to trick users into giving away their personal information.
+
+
