@@ -132,8 +132,9 @@ Returning to the ssh session:
     * `phishing_score_col`: I
 
 #### Calculating metrics 
-* Pre-cond: Running the script `metrics_calc.py` from `Playwright_Crawler_New` directory
-* Cmd: `python3 -m baseline.metrics_calc {tp} {tn} {fp} {fn}`
+* Pre-cond: Running the script `metrics_calc_phishing.py` or `metrics_calc_brand.py` from `Playwright_Crawler_New` directory
+* Cmd: `python3 -m baseline.metrics_calc_phishing {tp} {tn} {fp} {fn}`
+* Cmd: `python3 -m baseline.metrics_calc_brand {identified_correct} {identified_wrong} {indeterminate}`
 
 #### Getting counts of data remaining (after filtering)
 * Pre-cond: Running the script `counter.py` from `Playwright_Crawler_New` directory
