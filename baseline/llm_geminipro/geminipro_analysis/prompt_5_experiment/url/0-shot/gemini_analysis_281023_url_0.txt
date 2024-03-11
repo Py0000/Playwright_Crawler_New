@@ -1,0 +1,181 @@
+0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc
+ 1. Target brand: AT&T
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage screenshot has the AT&T logo and branding, but the domain in the URL "site9613638.92.webydo.com" does not match the official AT&T domain "att.com".
+ - The webpage is asking for user credentials, including username and password.
+ - The webpage has a "Sign In" button.
+
+
+33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255
+ 1. Target brand: Disqus
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage's URL is "disqus.com", which is the official domain of Disqus.
+ - The webpage's design is consistent with the legitimate Disqus website.
+ - The webpage's content is consistent with the legitimate Disqus website.
+ - The webpage has a valid SSL certificate.
+
+
+37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db
+ 1. Target brand: N/A
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL provided is not the official login page for any major email provider.
+ - The domain "perniktermo.com" is not associated with any legitimate email service.
+ - The design of the webpage is not consistent with the official login pages of major email providers.
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage does not have a valid SSL certificate, which is used to encrypt data between the user and the website.
+ - The webpage contains a number of grammatical errors and typos, which is often a sign of a phishing website.
+
+
+6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or Phone
+   - Password
+   - Login button
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+   - The URL provided, "dfsdcsfdgf.blogspot.com", does not match the official Facebook domain, "facebook.com".
+   - The overall design of the webpage is a close imitation of the legitimate Facebook login page, but there are subtle differences, such as the font and the spacing of the elements.
+   - The webpage requests sensitive user information, such as email or phone number and password, which is not necessary for a legitimate login page.
+   - The webpage uses a generic "Login" button instead of the Facebook-branded "Log In" button.
+   - The text on the login button is in Thai, while the rest of the page is in English.
+   - The URL contains suspicious characters, such as "dfsdcsfdgf", which are not typically found in legitimate URLs.
+
+
+6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Country
+ - Phone number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is suspicious and does not match the official Telegram domain.
+ - The screenshot shows a login page asking for the user's phone number.
+ - The overall design of the webpage is not consistent with the legitimate Telegram website.
+
+
+6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Mobile number or email address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+   - The webpage screenshot shows a login form for Facebook.
+   - The URL provided is not the official Facebook login URL.
+   - The domain of the webpage url does not match the official domain of Facebook.
+   - The overall design of the webpage is not consistent with the legitimate Facebook login page.
+   - There are fields asking for user credentials, such as usernames and passwords.
+   - The webpage is trying to mimic the legitimate Facebook login page by using similar design elements and branding.
+   - The webpage is using social engineering techniques in the URL to make it appear legitimate.
+
+
+83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The URL is not the official Microsoft website. The legitimate Microsoft website is "microsoft.com", but the URL in the screenshot is "pub-ecfd66fe742646ddbea15f7c9799b3ee.r2.dev/kpass.html?email=3mail@b.c". 
+   - The screenshot shows a login page that asks for the user's email address and password. This is a common phishing tactic to steal users' credentials.
+   - The page's design is similar to the legitimate Microsoft login page, which could trick users into thinking it is legitimate. However, there are subtle differences, such as the font and the color of the text, that indicate that it is a phishing page.
+
+
+9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8
+ 1. Target brand: Marmer Construction
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The webpage's URL is "https://deerparkprogress.com/hsgcvsj/marmerconstruction/bwfydhlabwfybwvyy29uc3rydwn0aw9ulmnvbq==", which is a subdomain of "deerparkprogress.com".
+ - The screenshot shows a webpage with the logo and branding of Marmer Construction, a legitimate construction company.
+ - The content of the webpage is about Marmer Construction and its services.
+ - There are no fields asking for user credentials or any call-to-action buttons.
+ - The overall design and appearance of the webpage is consistent with the legitimate Marmer Construction website.
+
+
+9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+   - The webpage screenshot resembles the Microsoft login page; however, the URL provided does not match Microsoft's official domain.
+   - The URL contains a suspicious subdomain ("pub-2598caa00dcf4c658bf8753f6761f962.r2.dev") that is not associated with Microsoft.
+   - The webpage requests the user's password without providing any context or reason for doing so.
+   - The webpage uses a generic "Sign in" button instead of Microsoft's typical "Next" or "Sign in" button.
+   - The overall design of the webpage is not consistent with Microsoft's branding guidelines.
+
+
+d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a
+ 1. Target brand: Coinbase
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The URL provided is not the official Coinbase website. The legitimate Coinbase website is coinbase.com, while the provided URL is coinbase-trade.com.
+   - The screenshot shows a Coinbase login page, but the URL in the address bar is not the official Coinbase website.
+   - The Coinbase logo on the screenshot is slightly different from the official Coinbase logo.
+   - The overall design of the webpage is similar to the official Coinbase website, but there are subtle differences, such as the font and the layout.
+   - There is a field asking for the user's email address and password.
+   - The webpage is trying to trick users into entering their Coinbase credentials by mimicking the Coinbase login page.
+
+
+f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Username
+    - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL provided is not the official Webmail login URL. 
+ - The screenshot shows a login page that is not consistent with the official Webmail login page. 
+ - The page requests for sensitive information such as username and password.
+
+
+fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The URL "terlergram.com" is a misspelling of the legitimate Telegram domain "telegram.org".
+ - The screenshot shows a Telegram logo that is slightly different from the official logo.
+ - The overall design of the webpage is similar to the official Telegram website, but there are some discrepancies, such as the font and the layout of the text.
+ - The webpage does not ask for any user credentials or other sensitive information.
+ - The webpage does not contain any call-to-action buttons or links.
+ - The text content on the webpage appears to be legitimate and consistent with the Telegram brand.
+
+

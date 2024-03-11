@@ -1,0 +1,217 @@
+040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email/Username
+   - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+   - The URL is legitimate and belongs to Apple.
+   - The screenshot shows the official iCloud login page, with the Apple logo and branding.
+   - The page is hosted on Apple's servers.
+   - The page has a valid SSL certificate.
+   - The page uses HTTPS, which is a secure protocol.
+
+
+2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is adarshjha12.github.io/netflix-by-adarsh/, which is different from the official Netflix domain, netflix.com.
+ - The screenshot shows a Netflix logo, but the design is slightly different from the official Netflix website.
+ - The screenshot shows a fake "Sign In" button.
+ - The screenshot shows a fake "Get Started" button.
+ - The screenshot shows a fake "Frequently Asked Questions" section.
+ - The screenshot shows a fake "Contact Us" section.
+
+
+3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c
+ 1. Target brand: N/A
+2. Has credentials/call-to-action: No
+3. List of fields: N/A
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The screenshot does not show any branding or logos that would indicate a target brand.
+ - The URL does not contain any obvious phishing indicators, such as misspellings or unusual characters.
+ - The screenshot shows a payment confirmation page, which is not typically associated with phishing.
+
+
+4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL provided is "https://prajwalk-07.github.io/netflix-clone.github.io/", which is different from the official Netflix domain "netflix.com".
+ -  Although the screenshot closely resembles the legitimate Netflix login page, there are subtle differences in the design, such as the font of the text and the spacing of the elements.
+ - The page requests for user credentials, including email address, which is a common tactic used in phishing scams.
+ - The page includes a fake "Frequently Asked Questions" section, which is a common phishing tactic to make the page appear more legitimate.
+
+
+5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db
+ 1. Target brand: TFBank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Kundennummer (Customer Number)
+ - Geburtsdatum (Date of Birth)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL provided is "https://bqq.quo.temporary.site/tf/web/login.php", which is different from the official TFBank website. 
+ - The screenshot shows a login page with the TFBank logo, but the overall design is different from the official TFBank website. 
+ - The text on the screenshot is in German, which is not the primary language used by TFBank. 
+ - The screenshot requests for user credentials, such as customer number and date of birth.
+
+
+6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+- Username/Email
+- Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+- The URL provided is not the official DHL website. The legitimate DHL tracking url is https://www.dhl.com/en/express/tracking.shtml
+- The screenshot is a DHL branded phishing page, requesting for DHL account credentials.
+
+
+6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b
+ 1. Target brand: Allegro
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username/Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is similar to the legitimate Allegro website but has a different domain.
+ - The design of the webpage is almost identical to the legitimate Allegro website, but there are subtle differences, such as the font and the color of the buttons.
+ - There are fields asking for user credentials, such as username and password.
+ - The webpage is hosted on a free hosting platform.
+ - The webpage's content is not consistent with the legitimate Allegro website.
+ - There are many reports online about this webpage being a phishing scam.
+
+
+6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7
+ 1. Target brand: Banca di venezia
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is different from the official Banca di venezia website. The official website is https://www.bancadivenezia.it, while the phishing website is https://www.bancadivenezia.it/persone/digital-banking/index.html.
+ - The phishing website has a fake security certificate. The certificate is issued by "DigiCert SHA2 Secure Server CA", which is not a trusted certificate authority.
+ - The phishing website has a fake login form. The form asks for the user's username and password.
+ - The phishing website has a fake call-to-action button. The button says "Accedi", which means "Login".
+
+
+afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage design is consistent with the official DPD website.
+ - The url uses the subdomain of the official DPD website.
+ - The screenshot does not contain any fields that ask for user credentials.
+ - The screenshot does not contain any call-to-action buttons or links.
+ - The text and offers in the screenshot are consistent with the legitimate DPD communications.
+
+
+ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The URL is legitimate and belongs to Microsoft.
+ - The design of the webpage is consistent with Microsoft's branding.
+ - The content on the webpage is relevant to Microsoft's products and services.
+ - There are no suspicious elements or symbols in the URL.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8
+ 1. Target brand: Rebecca DONG
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL provided is not the official Rebecca DONG website.
+ - The screenshot shows a login page asking for the user's username and password.
+ - The overall design of the webpage is not consistent with the official Rebecca DONG website.
+
+
+c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125
+ 1. Target brand: Bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence:
+ - The URL provided is different from the official Bet365 website. The official Bet365 website is bet365.com, while the URL provided is 793e365.com.
+ - The screenshot shows a login page that is not consistent with the official Bet365 website.
+ - The screenshot shows a call-to-action button that says "Login".
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+
+
+ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9
+ 1. Target brand:  Минпросвещения России
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL is not suspicious and appears to be a subdomain of the legitimate brand's website.
+ - The screenshot is consistent with the legitimate brand's website and contains branding elements, such as logos and trademarks.
+ - There are no fields that ask for user credentials, such as usernames, passwords, or other sensitive information.
+ - The overall design and content of the webpage appear to be legitimate and consistent with the brand's guidelines.
+
+
+d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+     -  Tracking Number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL provided is not the official DPD website. The legitimate DPD website is dpd.com. The provided URL contains a different domain name, which is cprapid.com.
+ - The screenshot contains a DPD logo, but it is slightly different from the official DPD logo. The legitimate DPD logo has a blue background, while the logo in the screenshot has a green background.
+ - The text in the screenshot contains grammatical errors, such as "Your parcel number: 981689999268" should be "Your parcel number is 981689999268"
+ - The screenshot requests users to input their tracking number, which is a common tactic used in phishing scams.
+
+
+e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - E-post (Email)
+   - Lösenord (Password)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+   - The screenshot is of a DHL login page.
+   - The URL is similar to the official DHL website, but it is not the official DHL website.
+   - The page requests the user to enter their email address and password.
+   - The page has a button that says "Logga in" (Log in).
+   - The page has a link that says "Glömt lösenord?" (Forgot password?).
+   - The page has a link that says "Skapa konto" (Create account).
+   - The page has a link that says "Integritetsmeddelande" (Privacy policy).
+   - The page has a link that says "Rättsligt meddelande" (Legal notice).
+
+

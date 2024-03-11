@@ -1,0 +1,156 @@
+0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, phone, or Skype
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL belongs to the official Microsoft domain.
+ - The design of the webpage is consistent with Microsoft's branding.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid SSL certificate.
+ - The webpage does not ask for any sensitive information, such as passwords or credit card numbers.
+
+
+29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d
+ 1. Target brand: Shaw Communications
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username/Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL belongs to the official Shaw Communications domain ("ffhshaw.com").
+ - The webpage design is consistent with the official Shaw Communications website.
+ - The webpage uses the official Shaw Communications logo.
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone number
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+   - The URL belongs to the official Google domain ("google.com").
+   - The page has a valid SSL certificate issued by Google.
+   - The page uses the official Google logo and branding.
+   - The page has a clean and professional design.
+   - The page uses a secure login form that requires the user to enter their email address or phone number and password.
+   - The page has a link to the official Google Privacy Policy and Terms of Service.
+
+
+38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address or phone number
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL is not an official Facebook domain.
+ - The page's design is not consistent with Facebook's branding.
+ - The text on the page contains grammatical errors.
+ - The page requests sensitive information, such as passwords.
+ - The page uses social engineering tactics to scare users into providing their information.
+
+
+3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone number
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+   - The URL belongs to the official Google domain ("google.com").
+   - The page has a valid SSL certificate.
+   - The page uses the official Google logo and branding.
+   - The page has a clear and concise design.
+   - The page uses a secure login form.
+
+
+3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae
+ 1. Target brand: DocuSign
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain "fileprotectedsharelinedd453.weebly.com" is not associated with DocuSign.
+ - The page's design is a crude imitation of DocuSign's login page, with several inconsistencies and missing elements.
+ - The page requests sensitive information such as email address and password.
+ - The page uses a generic "Sign In" button instead of DocuSign's branded "Log In" button.
+ - The page's URL contains a long string of random characters, which is not typical of legitimate DocuSign URLs.
+
+
+50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL is a subdomain of "r2.dev", which is a legitimate Google Cloud Platform domain.
+ - The page is hosted on Microsoft's Azure platform, which is a legitimate cloud computing platform.
+ - The page uses a valid SSL certificate issued by Let's Encrypt, a trusted certificate authority.
+ - The page's design is consistent with Microsoft's branding and follows the company's design guidelines.
+ - The page's content is consistent with Microsoft's messaging and does not contain any suspicious or malicious content.
+
+
+596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3
+ 1. Target brand: NTT Docomo
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username/ID, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL belongs to the official NTT Docomo domain ("docomo.ne.jp").
+ - The webpage design is consistent with NTT Docomo's official website.
+ - The webpage has a valid SSL certificate.
+ - The webpage uses a secure connection (HTTPS).
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email, phone, or Skype
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The domain "sp79750.sitebeat.crazydomains.com" is not owned by Microsoft and is not associated with the official Microsoft website.
+   - The URL does not match the official Microsoft login page URL.
+   - The design of the webpage is different from the official Microsoft login page.
+   - The webpage asks for the user's email, phone, or Skype, which is not required on the official Microsoft login page.
+
+
+a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa
+ 1. Target brand: TV Licensing
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Account number
+ - Sort code
+ - Name on the account
+ - New direct debit amount
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage is hosted on the official domain of TV Licensing ("tvlicensing.co.uk").
+ - The webpage uses a valid SSL certificate issued by a trusted certificate authority.
+ - The webpage's design and layout are consistent with the official TV Licensing website.
+ - The webpage uses the official TV Licensing logo and branding.
+ - The webpage provides a clear and concise explanation of the process for updating direct debit information.
+ - The webpage does not request any personal information that is not necessary for updating direct debit information.
+
+

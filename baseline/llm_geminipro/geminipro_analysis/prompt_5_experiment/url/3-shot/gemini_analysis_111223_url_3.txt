@@ -1,0 +1,161 @@
+02f8196dac7787e7eabd5b592bce5720a7c26481bd5012ab7d71707b9e9a2096
+ 1. Target brand: Discord
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - URL does not belong to the official Discord domain.
+ - Design elements are inconsistent with the official Discord website.
+ - The overall aesthetic and functional elements do not match the official Discord website.
+ - Presence of a suspicious download button.
+
+
+0823fc2c15a69b8c5150e5e9116adbf26b4ad35f8f9b8eed7b929b27378c083b
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email 
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL belongs to the official Apple domain "apple.com".
+ - The design of the webpage is consistent with Apple's official website.
+ - The webpage uses high-quality images and graphics.
+ - The webpage has a valid SSL certificate.
+ - The webpage is free of spelling and grammatical errors.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+1e353d7c372ea41e34474d88b9f07053c30baac861c2eb537a53b7a6191b77ef
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: The URL contains the official DHL domain name, "dhl.com". The webpage design is consistent with DHL's official website. The page has a valid SSL certificate. The page has a link to DHL's official website.
+
+
+37897ccac26e3078c13e262164560c59fa2c8f6e36711f0ea9aab34a552d2df3
+ 1. Target brand: Binance
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Email Address
+- Name
+- Phone Number
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+- The URL does not belong to the official Binance domain.
+- The design of the webpage is not consistent with the official Binance website.
+- The webpage is asking for sensitive information, such as email address, name, and phone number.
+- The webpage is hosted on a free web hosting service.
+- The webpage was created recently.
+- The webpage has a low Alexa ranking.
+- The webpage is not using a secure connection.
+
+
+4558556277cb95270112afccde92732e6619c03f6313113e73114771ee28ece7
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+   - Remember Me
+   - Login Button
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+   - The domain name "ipfs.eth.aragon.network" does not belong to any legitimate webmail provider.
+   - The design of the webpage is not consistent with the official webmail service.
+   - The presence of a "Login" button instead of a "Sign In" or "Next" button is not typical of legitimate webmail services.
+   - The text "sign in using your email and password to retrieve pending emails" is not clear and concise, and it may be an attempt to trick users into providing their credentials.
+
+
+5e4146ab1693fee02f478133ca4d3363e408bbe4723df1957a7d3f7d2f5b1933
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain "harshrajvardhan.github.io" does not belong to Netflix.
+ - The URL contains a subdomain that is not associated with Netflix.
+ - The page's design and layout are different from the official Netflix website.
+ - The page uses a different logo than the official Netflix logo.
+ - The page contains a fake "Sign In" button.
+ - Netflix does not have a plan called "Watch free for 30 days".
+ - Netflix does not have a plan called "Pick your price".
+
+
+9b216c6ae9f14b6382dbb9309e087532d62874b4570e6608ebf9d6e6fb022eae
+ 1. Target brand: Bradesco
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Nome Completo
+ - E-mail
+ - (DDD) Telefone/Celular ou Whatsapp
+ - Estado
+ - Cidade onde reside
+ - Tipo de Plano
+ - Nº de Vidas ou idades
+ - Plano Atual
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL contains the brand name "Bradesco".
+ - The webpage has a valid SSL certificate.
+ - The webpage design is consistent with the brand's official website.
+ - The webpage has a valid contact number and email address.
+ - The webpage has a privacy policy and terms of use.
+
+
+c3e16a011801c712e23071aa3f0c85c2c87fc2e3ac50ef0008acec190529a2d3
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Get Started >
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain "srinathakula45.github.io" does not belong to Netflix.
+ - The URL contains a subdomain that is not associated with Netflix.
+ - The page's design and layout are not consistent with Netflix's official website.
+ - The page uses a form to collect users' email addresses, which is not a common practice on Netflix's official website.
+ - The page uses a green button that says "Get Started" instead of the red button that says "Sign In" on Netflix's official website.
+ - The page does not have a valid SSL certificate, which is indicated by the missing padlock icon in the browser's address bar.
+
+
+ce9a10cf68cf5c1f9522b38b9f8c2193bb464307885906666deff0e4eb6be5af
+ 1. Target brand: Huntington Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The URL belongs to the official Huntington Bank domain.
+ - The URL is consistent with those promoted on official Huntington Bank channels and documentation.
+ - The page design is clean and consistent with Huntington Bank’s branding.
+ - The logo is prominently displayed at the top, and the sign-in prompt is clear and concise.
+ - The option to "Keep me signed in" is a common feature for convenience and user preference.
+ - The 'NEXT' button is styled in Huntington Bank’s signature blue, matching the official color scheme.
+ - The alternative option to "LOG IN BY QR CODE" provides a secure sign-in method that aligns with modern authentication practices and is known to be offered by Huntington Bank.
+
+
+d87d7258560168d8786f10c43d6b9b1a22cee3df72748119cdaea617b559462f
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Phone, Skype
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL belongs to the official Microsoft domain.
+ - The webpage design is consistent with Microsoft's official website.
+ - The logo, typography, and layout match Microsoft's branding.
+ - The page includes standard links like 'Terms of use' and 'Privacy & cookies' in Microsoft's hyperlink styling.
+
+

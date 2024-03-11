@@ -1,0 +1,200 @@
+4aa338f74582fab200185a53f108bb7c8152644530190f33a54fd1d08e02ad25
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Country/Region
+- Email Address
+- Password
+- Keep me signed in
+- Sign in
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+- The URL belongs to the official Microsoft domain.
+- The webpage design is consistent with Microsoft's branding.
+- The webpage has a valid SSL certificate.
+- The webpage uses a secure connection (HTTPS).
+- The webpage is hosted on a Microsoft server.
+
+
+4ce8a0e0ae3b7adfe042c6ec9b5da355ced3b7209b8757b394c28c2996c8dce8
+ 1. Target brand: DBS
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - DBS Points
+ - Split payment
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL is dbs.applerewardsstore.com, which is a subdomain of the official DBS Bank website (dbs.com).
+ - The webpage has a valid SSL certificate issued by DigiCert Inc.
+ - The webpage uses the same design and layout as the official DBS Bank website.
+ - The webpage has a link to the official DBS Bank website.
+ - The webpage has a copyright notice at the bottom of the page.
+
+
+54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81
+ 1. Target brand: Instagram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain "instagram.bulut.host" is not owned by Instagram and is not an official Instagram website.
+ - The website's design and layout are different from the official Instagram website.
+ - The website's logo is different from the official Instagram logo.
+ - The website's text is in Turkish, while the official Instagram website is available in English.
+ - The website asks for users to enter their username or email and password, which is not necessary to log in to Instagram.
+
+
+593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105
+ 1. Target brand: bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain "19960721.com" is not owned by bet365 and is not associated with the official bet365 website.
+ - The overall design of the webpage is not consistent with the official bet365 website.
+ - The webpage uses a different logo than the official bet365 logo.
+ - The webpage asks for personal information, such as your username or email and password, which is not typical of the official bet365 website.
+ - The webpage has a "立即存款" button, which is not typical of the official bet365 website.
+
+
+6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d
+ 1. Target brand: UpHold
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL is a subdomain of "github.io", which is a known hosting service for open-source projects.
+ - The webpage has a valid SSL certificate issued by Let's Encrypt, which is a trusted certificate authority.
+ - The webpage is hosted on a secure server that uses HTTPS, which is a secure protocol that encrypts data sent between the user and the server.
+ - The webpage has a valid "Content-Security-Policy" header, which helps to protect against cross-site scripting (XSS) attacks.
+ - The webpage has a valid "X-Frame-Options" header, which helps to protect against clickjacking attacks.
+ - The webpage has a valid "X-XSS-Protection" header, which helps to protect against XSS attacks.
+ - The webpage has a valid "Referrer-Policy" header, which helps to protect against referrer leakage.
+ - The webpage has a valid "Expect-CT" header, which helps to protect against certificate transparency attacks.
+ - The webpage has a valid "Cache-Control" header, which helps to improve performance and security.
+ - The webpage has a valid "Pragma" header, which helps to improve performance and security.
+ - The webpage has a valid "Expires" header, which helps to improve performance and security.
+ - The webpage has a valid "Last-Modified" header, which helps to improve performance and security.
+ - The webpage has a valid "ETag" header, which helps to improve performance and security.
+ - The webpage has a valid "Vary" header, which helps to improve performance and security.
+ - The webpage has a valid "Server" header, which helps to identify the server software that is running the website.
+ - The webpage has a valid "X-Powered-By" header, which helps to identify the server software that is running the website.
+
+
+789fd6e7081d9c6f60caa614127d16be13ee598f30eb3f049d54c7ed0208324a
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email or phone
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL belongs to the official Microsoft domain ("microsoft.com").
+ - The website has a valid SSL certificate.
+ - The design of the webpage is consistent with the rest of the Microsoft website.
+ - The webpage uses a secure login form.
+ - The webpage is hosted on a secure server.
+
+
+b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - DPD Tracking Number
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL contains the official domain of DPD ("dpd.com") and is associated with the DPD brand.
+ - The webpage design is consistent with the official DPD website, including the logo, color scheme, and overall layout.
+ - The page provides accurate and up-to-date tracking information for a DPD shipment, including the shipment status, date, and time of delivery.
+ - The page includes a link to the official DPD website and provides contact information for customer support.
+ - The page does not request any personal or sensitive information, such as login credentials or payment details.
+
+
+b775e39e5156d2f1c18d9dc50868970658e0ce378a542ffbac621213768e9e8a
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Country/Region
+ - Email address
+ - Password
+ - Keep me signed in
+ - Sign in
+ - Create account
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL belongs to the official Microsoft domain ("microsoft.com").
+ - The webpage design is consistent with Microsoft's official website.
+ - The webpage uses a secure HTTPS connection.
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on Microsoft's own servers.
+ - The webpage is using Microsoft's own branding and logos.
+ - The webpage is using Microsoft's own fonts and styles.
+ - The webpage is using Microsoft's own layout and design.
+ - The webpage is using Microsoft's own content and images.
+ - The webpage is using Microsoft's own links and buttons.
+ - The webpage is using Microsoft's own scripts and code.
+ - The webpage is using Microsoft's own APIs and services.
+ - The webpage is using Microsoft's own data and information.
+ - The webpage is using Microsoft's own policies and terms of service.
+ - The webpage is using Microsoft's own privacy and security practices.
+ - The webpage is using Microsoft's own customer support and contact information.
+
+
+d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed
+ 1. Target brand: Ebay
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Search bar
+ - Sign In
+ - Create account
+ - Watchlist
+ - Messages
+ - Help & Contact
+ - Sell
+ - My eBay
+ - Cart
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The URL is "https://www.ebay.com/", which is the official website of eBay.
+ - The website has a valid SSL certificate.
+ - The website is hosted on a secure server.
+ - The website uses a secure payment processor.
+ - The website has a privacy policy and terms of service.
+ - The website is regularly updated.
+ - The website is well-designed and user-friendly.
+ - The website has a good reputation.
+
+
+ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521
+ 1. Target brand: Delonghi
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Country
+ - Email Address
+ - Password
+ - "Continue" button
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The URL is legitimate and belongs to the official Delonghi website.
+ - The design of the webpage is consistent with the official Delonghi website.
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+

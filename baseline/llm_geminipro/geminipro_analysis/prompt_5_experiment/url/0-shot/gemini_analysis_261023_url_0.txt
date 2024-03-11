@@ -1,0 +1,226 @@
+00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a
+ 1. Target brand: Societe Generale
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+ - Username/Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL provided is not the official website of Societe Generale.
+ - The screenshot shows a login page that is not consistent with the official Societe Generale login page.
+ - The screenshot shows a field asking for user credentials.
+ - The screenshot shows a call-to-action button that says "Valider".
+
+
+00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2
+ 1. Target brand: Correos
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - FGDD
+ - HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain of the webpage url (kivaya.com) does not match the official domain of the targeted brand (correos.es).
+ - The screenshot contains a field asking for user credentials (FGDD and HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG).
+ - The webpage url has suspicious elements or symbols (#).
+ - The overall design of the webpage is inconsistent with the legitimate Correos website.
+ - The text and offers on the webpage do not align with Correos' typical communications.
+
+
+00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email, phone, or Skype
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain name "worudi.com" is not owned by Microsoft.
+ - The URL is different from the official Microsoft Office 365 login page URL, which is "https://www.office.com".
+ - The page is hosted on a free hosting platform, which is often used by phishing websites.
+ - The design of the page is not consistent with the official Microsoft Office 365 login page.
+ - The page contains a number of fields that are not typically found on legitimate login pages, such as "Email, phone, or Skype".
+ - The page uses a generic "Next" button instead of the branded "Sign in" button found on the legitimate Microsoft login page.
+
+
+00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5
+ 1. Target brand: Binance
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence:
+ - The URL tjcks66.xyz does not match the official Binance domain.
+ - The screenshot contains a form asking for personal information.
+ - The screenshot contains a call-to-action button that says "Join Group".
+ - The webpage screenshot is hosted on a free hosting platform.
+ - The webpage screenshot has a lot of grammatical errors and inconsistencies.
+ - The webpage screenshot is not using a secure connection (HTTPS).
+
+
+03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59
+ 1. Target brand: 12 Volt Does It
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+ - Confirm Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage screenshot is consistent with the legitimate 12 Volt Does It website.
+ - The URL provided is the legitimate 12 Volt Does It website.
+ - The screenshot contains the 12 Volt Does It logo and branding.
+ - The screenshot contains a link to the legitimate 12 Volt Does It website.
+ - The screenshot contains a copyright notice for 12 Volt Does It.
+ - The screenshot contains a link to the legitimate 12 Volt Does It website.
+ - The screenshot contains a link to the legitimate 12 Volt Does It website.
+
+
+05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Email address
+- Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+- The URL provided is "https://www.officesoftcn.com/newbuy.html?onlineid=1669170002311", which is different from the official Microsoft website.
+- The domain "officesoftcn.com" is not associated with Microsoft.
+- The webpage design is similar to the official Microsoft website, but there are some discrepancies, such as the font and the layout.
+- The webpage asks for user credentials, such as email address and password.
+- The webpage has a call-to-action button that says "立即购买", which means "buy now" in Chinese.
+
+
+0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b
+ 1. Target brand: PUBG Mobile
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL provided is not the official domain of PUBG Mobile.
+ - The screenshot contains a number of visual elements that are not consistent with the official PUBG Mobile website, such as the font, the layout, and the images.
+ - The screenshot contains fields that ask for user credentials, such as usernames and passwords.
+ - The screenshot contains a call-to-action button that says "Start".
+ - The webpage screenshot is hosted on a free hosting platform.
+
+
+0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01
+ 1. Target brand: Google
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The screenshot shows a login page with the Google logo and branding.
+ - The URL bar shows that the page is hosted on "cynosure-modelling.cloud", which is not a Google domain.
+ - The page requests the user to enter their username and password, which is a common tactic used in phishing attacks.
+ - The page has a "Sign in" button, which is often used in phishing attacks to trick users into submitting their credentials.
+
+
+589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed
+ 1. Target brand: Sakura
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL is not a subdomain of the official Sakura website (sakura.co.jp).
+ - The URL contains a number of random characters, which is not typical of legitimate websites.
+ - The screenshot is of a group chat on a social media platform, which is not a typical way for a brand to communicate with its customers.
+
+
+76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d
+ 1. Target brand: Apple
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Apple ID
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL provided is "skstore.top", which is different from the legitimate Apple website "apple.com".
+ - The screenshot shows a login page asking for Apple ID and password, which is a common phishing tactic.
+ - The overall design of the webpage is similar to the legitimate Apple website, but there are subtle differences, such as the font and the layout.
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage uses a self-signed SSL certificate, which is not as secure as a certificate from a trusted certificate authority.
+
+
+8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is similar to the legitimate Telegram domain, but it is not the official domain.
+ - The website design is very similar to the legitimate Telegram website, but there are some discrepancies, such as the font and the color of the text.
+ - The website asks for user credentials, such as username and password.
+ - The website has a call-to-action button that says "Log in".
+ - The website's content is not consistent with the legitimate Telegram website.
+
+
+d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7
+ 1. Target brand: SHENG HO JIN
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The webpage's URL (www.shjbottle.com) does not match the official domain of the brand (www.shenghojin.com.tw).
+ - The webpage's design is different from the official website.
+ - The webpage's content is different from the official website.
+ - The webpage does not ask for any user credentials.
+ - The webpage does not have any call-to-action buttons or links.
+
+
+decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f
+ 1. Target brand: Desjardins
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage's URL matches the official Desjardins domain.
+ - The webpage's design is consistent with the legitimate Desjardins website.
+ - The webpage's content is consistent with the legitimate Desjardins website.
+ - The webpage has a valid SSL certificate.
+
+
+f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d
+ 1. Target brand: Arvest Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL provided is not the official URL of Arvest Bank. The legitimate url is arvest.com, while the url in the screenshot is arvestonlineltd.com.
+ - The screenshot contains a number of visual elements that are not consistent with the Arvest Bank website, such as the logo, the font, and the overall design.
+ - The screenshot contains fields that ask for user credentials, such as a username and password.
+ - The screenshot contains a call-to-action button that says "Login".
+ - The text on the screenshot is poorly written and contains a number of grammatical errors.
+
+
+f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f
+ 1. Target brand: Heineken
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The URL is not an official Heineken domain.
+ - The URL contains a typo in the spelling of Heineken.
+ - The website's design is different from the official Heineken website.
+ - The website's content is not related to Heineken.
+
+

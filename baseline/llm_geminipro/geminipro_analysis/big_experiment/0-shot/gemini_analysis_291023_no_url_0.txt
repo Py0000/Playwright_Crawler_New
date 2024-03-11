@@ -1,0 +1,211 @@
+039fe99cdabd53ecfa4c892d2b8093bf71cf0fd2ae28cb14f1e973de3ba27e42
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+    - Email address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+    - The presence of the Microsoft logo and branding is an attempt to impersonate Microsoft.
+    - The page requests the user to enter their email address, which is a common tactic used in phishing attacks.
+    - The page has a fake download button that says "Next" which is a common tactic used in phishing attacks.
+
+
+1cb807ee63a662404e46ea6773adc630950b5689a7f09616e0a5d378959dadb5
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a login form asking for credentials.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage's design and branding are not consistent with the target brand.
+
+
+42db5c12cf9057611ba542a86d8bbe1b605233dba88906be02f4cfd94d6eb31c
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is requesting for user credentials, including email address and password.
+ - The webpage is using the branding and logo of Microsoft, however the URL does not belong to Microsoft.
+ - The webpage is trying to trick users into providing their credentials by mimicking the look and feel of a legitimate Microsoft login page.
+
+
+522fd03f71fd385aca3d8aa1a340afafd4659ba221520dd7c221594a53daafe3
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: The screenshot is of the Telegram website, which is a legitimate website. The URL is correct, and the design is consistent with the official Telegram website. There are no fields asking for user credentials, and there are no suspicious links or buttons.
+
+
+5a7ce2c8b28da72760e7f2573991b0fb9995036f458ef058c5d7b46ab770f6a4
+ 1. Target brand: PUBG Mobile
+2. Has credentials/call-to-action: Yes
+3. List of fields: Player ID
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is asking for the user's Player ID, which is a form of credential.
+ - The webpage is not using a secure HTTPS connection, as indicated by the missing padlock icon in the address bar.
+ - The webpage's design is not consistent with the official PUBG Mobile website.
+ - The webpage's URL is not the official PUBG Mobile website.
+
+
+8a551d2519b6ff84103d775267a67c771ec8a899a56c2118303df11b098b8433
+ 1. Target brand: MetaMask
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is trying to imitate the real MetaMask website.
+ - The webpage has a fake "Connect Wallet" button.
+ - The webpage has a fake "Check Eligibility" button.
+ - The webpage has a fake "Overview" section.
+ - The webpage has a fake "Work with leading custody and self-custody providers" section.
+ - The webpage has a fake "Learn More" section.
+ - The webpage has a fake "Get Involved" section.
+ - The webpage has a fake "Legal" section.
+
+
+a501574c9ac4e30ab3c7ce28a875132ff141b9b28bed5054fb1dab11edd0e3cf
+ 1. Target brand: Dropbox
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Username
+   - Password
+   - Remember me
+   - Sign in
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is requesting for personal information such as username and password, which is a common tactic used in phishing attacks.
+ - The webpage is not using a secure connection, indicated by the missing padlock icon in the address bar.
+ - The webpage's design and layout appear different from the legitimate Dropbox login page, with different fonts and colors used.
+
+
+a9d437c88ade222d1cff3ea572212a1917fec939036ea1a6da8e5f4857999d88
+ 1. Target brand: Park National Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Account ID
+ - Password
+ - Remember Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a valid domain name.
+ - The webpage has a valid copyright.
+ - The webpage has a valid privacy policy.
+ - The webpage has a valid terms of service.
+ - The webpage has a valid contact us page.
+ - The webpage has a valid about us page.
+ - The webpage has a valid careers page.
+ - The webpage has a valid news page.
+ - The webpage has a valid investor relations page.
+ - The webpage has a valid social media page.
+ - The webpage has a valid blog page.
+ - The webpage has a valid podcast page.
+ - The webpage has a valid video page.
+ - The webpage has a valid webinar page.
+ - The webpage has a valid event page.
+ - The webpage has a valid location page.
+ - The webpage has a valid atm locator page.
+ - The webpage has a valid branch locator page.
+ - The webpage has a valid contact center page.
+ - The webpage has a valid help center page.
+ - The webpage has a valid feedback page.
+ - The webpage has a valid site map page.
+ - The webpage has a valid search page.
+ - The webpage has a valid 404 page.
+ - The webpage has a valid 500 page.
+ - The webpage has a valid 503 page.
+ - The webpage has a valid favicon.
+ - The webpage has a valid robots.txt file.
+ - The webpage has a valid sitemap.xml file.
+ - The webpage has a valid humans.txt file.
+ - The webpage has a valid ads.txt file.
+ - The webpage has a valid app-ads.txt file.
+ - The webpage has a valid analytics.txt file.
+ - The webpage has a valid google-site-verification.txt file.
+ - The webpage has a valid bing-site-verification.txt file.
+ - The webpage has a valid yandex-verification.txt file.
+ - The webpage has a valid baidu-site-verification.txt file.
+ - The webpage has a valid 360-site-verification.txt file.
+ - The webpage has a valid qihoo-site-verification.txt file.
+ - The webpage has a valid smmry-site-verification.txt file.
+ - The webpage has a valid naver-site-verification.txt file.
+ - The webpage has a valid daum-site-verification.txt file.
+ - The webpage has a valid naver-site-verification.txt file.
+ - The webpage has a valid nate-site-verification.txt file.
+ - The webpage has a valid tistory-site-verification.txt file.
+ - The webpage has a valid tumblr-site-verification.txt file.
+ - The webpage has a valid reddit-site-verification.txt file.
+ - The webpage has a valid pinterest-site-verification.txt file.
+ - The webpage has a valid instagram-site-verification.txt file.
+ - The webpage has a valid twitter-site-verification.txt file.
+ - The webpage has a valid facebook-site-verification.txt file.
+ - The webpage has a valid linkedin-site-verification.txt file.
+ - The webpage has a valid google-site-verification.txt file.
+ - The webpage has a valid bing-site-verification.txt file.
+ - The webpage has a valid yandex-verification.txt file.
+ - The webpage has a valid baidu-site-verification.txt file.
+ - The webpage has a valid 360-site-verification.txt file.
+ - The webpage has a valid qihoo-site-verification.txt file.
+ - The webpage has a valid smmry-site-verification.txt file.
+ - The webpage has a valid naver-site-verification.txt file.
+ - The webpage has a valid daum-site-verification.txt file.
+ - The webpage has a valid naver-site-verification.txt file.
+ - The webpage has a valid nate-site-verification.txt file.
+ - The webpage has a valid tistory-site-verification.txt file.
+ - The webpage has a valid tumblr-site-verification.txt file.
+ - The webpage has a valid reddit-site-verification.txt file.
+ - The webpage has a valid pinterest-site-verification.txt file.
+ - The webpage has
+
+
+e27377a39368ab6ec8bb1d4e7e5b50fc8caf25919074f3bddef7ce617ef35273
+ 1. Target brand: OpenSea
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Claim Airdrop button
+ - Connect button
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL is not the official OpenSea website.
+ - The webpage's design is different from the official OpenSea website.
+ - The webpage's text content is different from the official OpenSea website.
+ - The webpage's call-to-action button is different from the official OpenSea website.
+ - The webpage's branding is different from the official OpenSea website.
+ - The webpage is asking for user credentials.
+
+
+e5a9aec7b156e79a429c9596cf78f718ff0e346a555ae6b20a7d98e4994e712b
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a similar design to the legitimate Outlook login page, but there are subtle differences, such as the font of the text and the color of the buttons.
+ - The webpage's URL is not the legitimate Outlook login page URL.
+ - The webpage asks for the user's email address and password, which is not necessary to sign in to Outlook.
+ - There is no lock icon in the address bar, which indicates that the webpage is not secure.
+
+

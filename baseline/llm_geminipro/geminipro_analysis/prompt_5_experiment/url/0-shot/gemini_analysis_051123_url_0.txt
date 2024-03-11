@@ -1,0 +1,58 @@
+2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
+ 1. Target brand: Instagram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Email Address
+- Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+- The URL is not the official Instagram domain.
+- The screenshot shows a login page, which is not a typical feature of Instagram.
+- The screenshot contains a field asking for user credentials.
+- The screenshot contains a call-to-action button that says "Login", which is not a typical feature of Instagram.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The URL is telegram-com-zhcn.pages.dev, which is different from the official Telegram domain.
+ - The screenshot shows a Telegram login page, but the URL does not match the official Telegram login page URL.
+ - The page is hosted on GitHub Pages, which is a free hosting service. This is not typical for legitimate websites.
+ - The design of the page is different from the official Telegram website.
+ - The page does not have any security features, such as HTTPS.
+
+
+4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb
+ 1. Target brand: Garena Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL is not the official domain of Garena Free Fire. The legitimate domain is garena.com.
+ - The screenshot shows a login page that is not consistent with the official Garena Free Fire website.
+ - The screenshot shows fields asking for user credentials, such as username and password.
+ - The screenshot shows a call-to-action button that says "Đăng nhập" (Login).
+ - The overall design of the webpage is not consistent with the official Garena Free Fire website.
+
+
+6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The URL is "https://telegraimu.com/", which is very similar to the legitimate Telegram domain "https://telegram.org/". However, the "m" in "telegraimu" is suspicious.
+ - The screenshot shows a Telegram logo that is identical to the legitimate Telegram logo.
+ - The screenshot shows a Telegram webpage design that is identical to the legitimate Telegram webpage design.
+ - There are no fields asking for user credentials.
+ - There are no call-to-action buttons or links.
+ - The text and offers on the screenshot are consistent with Telegram's typical communications.
+
+

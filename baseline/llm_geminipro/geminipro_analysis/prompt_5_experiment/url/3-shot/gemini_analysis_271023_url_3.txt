@@ -1,0 +1,254 @@
+0300be1c692e2598724d8992ed1687064d772dd4ad2c65bda20f614d0ef4321e
+ 1. Target brand: Netshoes
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Search bar
+ - Cart
+ - Sign in/ Register
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL is a legitimate website.
+ - The website has a valid SSL certificate.
+ - The website's design is consistent with the official Netshoes website.
+ - The website's content is consistent with the official Netshoes website.
+
+
+2144b3b3cd198d7a15855e8b49cf59ec1f0f3961c0e81dfc211513e2234153f7
+ 1. Target brand: Sands
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The URL is not the official Sands website.
+ - The website is hosted on a free hosting platform.
+ - The website's design is not consistent with the official Sands website.
+ - The website's content is full of grammatical errors.
+ - The website is asking for personal information, such as your credit card number, that is not necessary to sign in to your account.
+
+
+2dbbc8f4dd74d47745add189f3a00b3e2861fc4ce30c19b902a50ca9603dcf84
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Country
+- Phone number
+- Verification code
+- Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+- The domain name "telegczn.club" does not belong to Telegram.
+- The overall design and layout of the webpage are not consistent with the official Telegram website.
+- The input fields for the phone number and verification code are not formatted in a manner consistent with Telegram's official sign-in page.
+- The "Sign In" button has a different color and style than the official Telegram button.
+- The presence of a field asking for the user's password is not a standard practice for Telegram's sign-in process.
+- The webpage is hosted on a free web hosting platform, which is not typical for legitimate websites.
+
+
+4be94d1cf61fe9314b54a30f884ff05ceb85319cf18c005774f79aac34155e14
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+644b57d030e8483c3c9ba3b7d842c5af03fed79ddce68af297cb1bc3aee48e0c
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL belongs to the official Telegram domain "telegram.org".
+ - The page has a valid SSL certificate.
+ - The design of the page is consistent with the official Telegram website.
+ - The page uses the official Telegram logo and branding.
+ - The page does not ask for any personal information or credentials.
+
+
+8346d4f6a9a0e0f0808c2c1203014b9126725f2467c66470ae0424c75ba8360a
+ 1. Target brand: Redtail
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 7
+6. Supporting evidence: 
+ - The domain "redtailfriday0004.firebaseapp.com" does not belong to the official Redtail domain.
+ - The URL contains a suspicious subdomain "redtailfriday0004" which is not associated with the official Redtail website.
+ - The overall design and layout of the webpage do not match the official Redtail website.
+ - The logo used in the webpage is slightly different from the official Redtail logo.
+ - The webpage does not have a valid SSL certificate, indicated by the missing padlock icon in the browser's address bar.
+ - The "Web App Version" dropdown does not have any options to choose from, indicating it is a non-functional element likely added to mimic a legitimate login page.
+
+
+90b0cf47d8679a3290669531272cbc327be8461ab49a11e27d3264438dd719bf
+400 Request payload size exceeds the limit: 4194304 bytes.
+
+
+b796fd6776b871b74cabeb494ddb82588dc31df60f07db605d5695901607487f
+ 1. Target brand: bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence:
+ - The domain name "7365009.com" does not belong to bet365.
+ - The URL contains suspicious characters and does not match the official bet365 website.
+ - The webpage design is different from the official bet365 website.
+ - The webpage has a lot of pop-ups and advertisements.
+ - The webpage asks for personal information, such as your username and password.
+
+
+d9f5e35c9fb5542262bd582d5f636b133af4a90aafff6b67df8b3df58836c459
+ 1. Target brand: M&T Bank
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL belongs to the official domain of M&T Bank ("mtb.com").
+ - The design of the webpage is consistent with the official M&T Bank website.
+ - The webpage has a valid SSL certificate.
+ - The webpage uses a secure login form.
+
+
+da7209afd2979c8329dfa64c2cdd285d318b21fb6ef0d61afc18d53b243af9a7
+ 1. Target brand: NA
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain "firebaseapp.com" is not associated with any major brands or organizations.
+ - The URL contains a random string of characters ("4a4bc"), which is not typical of legitimate websites.
+ - The design of the webpage is overly simplistic and lacks the polish and branding elements typically found on legitimate websites.
+ - The webpage does not provide any information about the company or organization behind it, which is a common red flag for phishing attempts.
+
+
+ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983
+ 1. Target brand: 3659yy
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL is not a known phishing site.
+ - The webpage is hosted on a server with a valid SSL certificate.
+ - The webpage's design is consistent with other legitimate 3659yy webpages.
+ - The webpage does not contain any suspicious content or links.
+ - The webpage does not request any personal information.
+
+
+ff6b737751c4090f39e246dbab884d010e14c21797da0407b14cce12c5357d9c
+ 1. Target brand: Shopify
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email or phone
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain "418a5b97.1266b8dd0c622df28d9af103.workers.dev" does not belong to Shopify.
+ - The URL contains a query parameter that includes what appears to be an email address. Legitimate Shopify URLs would not require sensitive information to be passed openly in the URL.
+ - The page's design and layout are not consistent with Shopify's official website.
+ - The page uses a generic "Just a moment" message with a "Verifying..." progress bar, which is often used in phishing attempts to deceive users into thinking that the page is legitimate.
+ - The page displays the text "We need to review the security of your connection before proceeding," which is not a typical message displayed by legitimate websites.
+
+
+ff745b855934ce4a847d3b07be14fae4fc8aec4fa405ff5cb8775bcd77e17ce6
+ 1. Target brand: Commerzbank
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Benutzername/Telemmernummer
+- PIN
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+- The URL contains the official domain of Commerzbank.
+- The webpage has the official logo and branding of Commerzbank.
+- The webpage has a valid SSL certificate.
+- The webpage uses a secure HTTPS connection.
+- The webpage has a professional design and layout.
+- The webpage has a clear and concise call-to-action.
+- The webpage does not ask for any sensitive information, such as passwords or credit card numbers.
+
+
+ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662
+ 1. Target brand: photoTAN
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+- Benutzername 
+- Passwort 
+- TAN-Eingabefeld 
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+- The URL is suspicious. The legitimate website for photoTAN is phototan.de, but the URL in the screenshot is blog.dularsharma.com/acces/phototan.php/. This is a clear indication that the website is a phishing attempt.
+- The website's design is not the same as the legitimate photoTAN website. 
+- The website is asking for sensitive information, such as the user's username, password, and TAN. This is a clear indication that the website is a phishing attempt.
+
+
+ff7defb38194d97bb909399e10a77a57bc4e7a8a1fc6cde104121ee2b2769083
+ 1. Target brand: Yahoo
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL contains the subdomain "yahoo.html", which is not a legitimate subdomain of Yahoo.
+ - The URL is hosted on a third-party cloud storage service, which is not typical for legitimate Yahoo pages.
+ - The page does not contain any branding or logos from Yahoo.
+ - The page contains a suspicious iframe that is not related to Yahoo.
+ - The page contains a suspicious script that is not related to Yahoo.
+
+
+ffa33109af4b72825f28ac19b14f48ddfb7d3cbd9652896a0c57107a29d32fc5
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email or phone
+  - Password
+  - Name
+  - Surname
+  - New password
+  - Date of birth
+  - Gender
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL does not belong to the official Facebook domain.
+ - The overall design and layout of the webpage do not match the official Facebook website.
+ - The input fields for sensitive information such as passwords are not secure, as they are not encrypted.
+ - The webpage uses social engineering tactics to trick users into providing their personal information, such as offering a free gift card.
+
+
+ffbb55989db21c98053b19e4a84e60358232181175610a8f965873dd7b06e76e
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL belongs to the official Microsoft domain.
+ - The design and layout of the webpage are consistent with Microsoft's official website.
+ - The logo and branding elements are authentic.
+ - The page uses a secure HTTPS connection.
+ - There are no suspicious links or requests for personal information.
+
+
+ffebad27c1c7954600ac1080a3f0cb7e07739fd4cba45813f06e45593c8567a9
+ 1. Target brand: IBM
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL contains the string "ibm.com", which is the official domain of IBM.
+ - The page does not ask for any personal information such as passwords or credit card numbers.
+ - The page does not have any suspicious links or buttons.
+ - The overall design of the page is clean and professional, which is consistent with IBM's branding.
+
+

@@ -1,0 +1,160 @@
+0ce809619a352bbbb3017df602856ecec7a30bd18bb209bdff07283959ae02bb
+ 1. Target brand: ABANCA
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+ - NIF/NIE/Passport
+ - Username
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a legitimate SSL certificate issued by COMODO CA Limited.
+ - The webpage has a valid security padlock icon in the address bar.
+ - The webpage's URL starts with "https://", indicating that it is using a secure connection.
+ - The webpage's design is consistent with the ABANCA brand guidelines.
+ - The webpage's text content is written in Spanish, which is consistent with the target brand's language.
+ - The webpage's text content is professional and free of grammatical errors.
+ - The webpage's call-to-action button is labeled "Iniciar sesión", which is consistent with the expected action on a login page.
+ - The webpage's copyright notice at the bottom is consistent with the ABANCA brand.
+
+
+165fc268d6180931118405d7c487b93351dd23b9cb1899e4b01b095b5628d49a
+ 1. Target brand: Red Silver
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL is not the official website of Red Silver.
+ - The webpage's design is different from the official website of Red Silver.
+ - The webpage's logo is different from the official logo of Red Silver.
+ - The webpage's text is different from the official website of Red Silver.
+ - The webpage has fields asking for user credentials, which is not necessary for a legitimate webpage.
+ - The webpage has a call-to-action button that says "Continue", which is not a common call-to-action for a legitimate webpage.
+
+
+46eb9a95352f49cb2c7e836a3a37cedf6d29cbcb7a2cd1448a71123ba4853620
+ 1. Target brand: Garena Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Facebook login button
+   - Username field
+   - Password field
+   - Birthday field
+   - Address field
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The webpage is trying to imitate the login page of Garena Free Fire.
+ - The webpage is hosted on a free hosting platform.
+ - The webpage has a lot of pop-ups and advertisements.
+ - The webpage is asking for personal information, such as your birthday and address.
+
+
+6c5972f617f3c3dff4464ed7e8a77f4b9f285dcb1ad66dafee8b2e2594e08d2c
+ 1. Target brand: WebClient
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Password
+   - Keep me signed in
+   - Sign In
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a login form asking for credentials.
+ - The webpage is trying to impersonate a legitimate website by using a similar logo and design elements.
+ - The webpage has a generic background image that is not related to the brand.
+ - The webpage is hosted on a free hosting platform.
+ - The webpage's URL is different from the legitimate website.
+
+
+703fe3dcac2231cdd9de7b2f0fb1d7c86d32edcb5fa159ba2d3853fed1e71696
+ 1. Target brand: DPD
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - E-mail Address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design is consistent with DPD's branding and uses the company's logos and trademarks.
+ - The webpage's content is consistent with DPD's typical communications and does not contain any suspicious or malicious links or offers.
+ - The webpage does not request any sensitive information, such as credit card numbers or passwords.
+
+
+75da1e9b363b48a69f858b885d2a9dcb610fe67fd7a9ac9c6a98be294e5cd921
+ 1. Target brand: Intuit
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Phone number, email or user ID
+    - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage screenshot is a login page for Intuit, a legitimate financial software company. 
+ - The design and branding elements, such as the logo, color scheme, and overall layout, are consistent with Intuit's official website.
+ - The URL is legitimate and belongs to Intuit.
+ - The page requests for user credentials, which is expected for a legitimate login page.
+ - The presence of a "Remember me" checkbox and a link to create a new account are also indicators of a legitimate login page.
+ - The legal information at the bottom of the page is consistent with Intuit's official website.
+
+
+89891a51098ad4bb158df18ac41be398d76bdc7c7a1e6b6a25aa0402ab8137d6
+ 1. Target brand: Mail Center
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+    - Email Address
+    - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake "Sign In" button.
+ - The webpage has a fake "Mail Center" logo.
+ - The webpage is trying to trick users into entering their email address and password.
+
+
+b9480bcd0115c6462abe990004bfaed41ad25401e19b9a421928604de6481533
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate and is hosted on a secure server.
+ - The webpage's design and layout are consistent with the official Netflix website.
+ - The webpage's content is consistent with the official Netflix website.
+ - The webpage does not contain any suspicious links or buttons.
+
+
+fa8f2a9abf0de550ded33072654f57b597cd63df79da7ff0585c3db339151ec0
+ 1. Target brand: Bank BTN
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Nama Lengkap
+ - Nomor Handphone
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake URL that is similar to the real Bank BTN website.
+ - The webpage's design is different from the real Bank BTN website.
+ - The webpage asks for sensitive information such as your full name and phone number.
+ - The webpage has a fake copyright notice at the bottom.
+
+
+ff9f690d6ed31ac6b0d3fcb379ab4a1ad10ddbb57b0a19a351cb02b1231c6dd0
+ 1. Target brand: Facebook
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Turn on Facebook Protect
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Facebook logo. 
+ - The webpage has a Facebook-styled design. 
+ - The webpage is trying to trick users into enabling Facebook Protect by providing a fake warning message.
+
+

@@ -1,0 +1,152 @@
+1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL "ry2002.github.io/Netflix/" does not belong to Netflix, but it is hosted on Github. The domain "netflix.com" is the official domain for Netflix.
+ - The webpage's design is very similar to the official Netflix website, but there are some subtle differences, such as the font of the text and the color of the buttons.
+ - The webpage asks for the user's email address, which is not required to sign in to Netflix.
+ - The webpage does not have a valid security certificate.
+ - The webpage's content is not consistent with the official Netflix website. For example, the "Watch on your TV" section features the logo of a different company, and the "Download shows to watch offline" section uses a different font than the rest of the page.
+
+
+873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Country
+ - Phone number
+ - Keep me signed in
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The domain "telegram.org" is the official domain owned by Telegram.
+ - The "/k/" path in the URL refers to a newer version of Telegram Web, known as "Telegram Web K," which is one of the web-based interfaces developed by Telegram to access your messages and communicate with your contacts directly from a web browser.
+ - The URL is consistent with those promoted on official Telegram channels and documentation.
+ - The interface is clean and consistent with Telegram’s branding.
+ - The logo is prominently displayed at the top, and the sign-in prompt is clear and concise, asking for the user’s country and phone number in a manner typical of Telegram's web client.
+ - The option to "Keep me signed in" is a common feature for convenience and user preference.
+ - The 'NEXT' button is styled in Telegram’s signature blue, matching the official color scheme.
+ - The alternative option to "LOG IN BY QR CODE" provides a secure sign-in method that aligns with modern authentication practices and is known to be offered by Telegram.
+
+
+88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
+ 1. Target brand: authconnect.net
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain name "authconnect.net" is not associated with any legitimate cryptocurrency exchange or trading platform.
+ - The website design is poor and unprofessional, with misaligned text, low-quality images, and inconsistent branding.
+ - The website uses a fake "Connect Wallet" button that is not associated with any legitimate cryptocurrency wallet.
+ - The website requests personal information, such as your email address and password, which is not necessary for cryptocurrency trading.
+ - The website is hosted on a free web hosting platform, which is often used by phishing websites.
+
+
+a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
+ 1. Target brand: bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone number
+ - Verification code
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain name "nippe-showbiz.com" is not owned by bet365.
+ - The webpage design is different from the official bet365 website.
+ - The webpage uses a lot of pop-ups and advertisements.
+ - The webpage asks for personal information, such as your phone number and verification code.
+
+
+a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
+ 1. Target brand: SurveySparrow
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The URL belongs to the official SurveySparrow domain.
+ - The design of the webpage is consistent with the official SurveySparrow website.
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Country/Region
+ - Email address
+ - Password
+ - Keep me signed in
+ - Sign in
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL belongs to the official Microsoft domain ("microsoft.com").
+ - The webpage has a valid SSL certificate issued by a trusted certificate authority.
+ - The design of the webpage is consistent with the official Microsoft website.
+ - The webpage uses the official Microsoft logo and branding.
+ - The webpage has a link to the official Microsoft privacy policy.
+ - The webpage has a link to the official Microsoft terms of use.
+ - The webpage has a link to the official Microsoft support page.
+
+
+b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
+ 1. Target brand: Gemini
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Twoje imię 
+ - Twoje nazwisko
+ - Twój adres e-mail
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain "waveinterferencey.xyz" is not owned by Gemini and is not associated with the official Gemini platform.
+ - The webpage design and layout are not consistent with the official Gemini website.
+ - The webpage contains grammatical errors and typos, which are not typical of official Gemini communications.
+ - The webpage uses a generic "@" symbol instead of the official Gemini logo.
+ - The webpage does not provide any contact information or links to the official Gemini website.
+ - The webpage uses a fake "utwórz darmowe konto" button that is not associated with the official Gemini platform.
+
+
+c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
+ 1. Target brand: JEK-MINER
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Phone Number
+ - Email
+ - Password
+ - Name
+ - Last name
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The URL is not the official website of JEK-MINER.
+ - The website is hosted on a free hosting platform.
+ - The website is not using a secure connection.
+ - The website's design is not consistent with the official JEK-MINER website.
+ - The website is asking for personal information that is not necessary to create an account.
+ - The website is using a fake "Join Now" button.
+ - The website is using a fake "Join Now" button.
+
+
+f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
+ 1. Target brand: BBVA
+2. Has credentials/call-to-action: Yes
+3. List of fields: NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain name "uberduds.com" does not belong to BBVA.
+ - The URL contains a suspicious string "/103123BBVA0/" which is not a typical pattern for BBVA's official website.
+ - The webpage design is not consistent with BBVA's official website.
+ - The webpage is asking for sensitive information such as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono, which is not typical for BBVA's official website.
+
+

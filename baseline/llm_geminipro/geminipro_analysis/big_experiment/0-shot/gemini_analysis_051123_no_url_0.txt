@@ -1,0 +1,53 @@
+2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a
+ 1. Target brand: Instagram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage's URL is not the official Instagram website.
+ - The webpage's design is different from the official Instagram website.
+ - The webpage has a field asking for user credentials.
+ - The webpage has a call-to-action button that says "Login".
+ - The webpage's content is not consistent with the official Instagram website.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: The screenshot is of the Telegram website, which is a legitimate website. The website has a valid SSL certificate. The URL is correct. The design of the website is consistent with the official Telegram website. There are no suspicious elements on the website.
+
+
+4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb
+ 1. Target brand: Garena Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is asking for user credentials, which is a common phishing tactic.
+ - The webpage is not using a secure HTTPS connection, which is a security risk.
+ - The webpage's design is not consistent with the official Garena Free Fire website.
+ - The webpage's URL is not the official Garena Free Fire website.
+ - The webpage's text contains grammatical errors, which is a common phishing tactic.
+
+
+6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The webpage's URL is "telegram.org", which is the official website of Telegram.
+ - The webpage's design is consistent with the official Telegram website.
+ - The webpage's content is consistent with the official Telegram website.
+ - There are no fields on the webpage that ask for user credentials.
+ - There are no call-to-action buttons or links on the webpage that would lead to a phishing site.
+
+

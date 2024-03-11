@@ -1,0 +1,144 @@
+1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The domain "tbxjly.com" is not owned by Telegram.
+ - The webpage design and layout are different from the official Telegram website.
+ - The webpage does not have a valid SSL certificate.
+ - The webpage is hosted on a free hosting platform.
+ - The webpage contains a lot of advertisements.
+ - The webpage is not listed in the official Telegram website.
+
+
+1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53
+ 1. Target brand: Libero
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Cellulare (Mobile Number)
+ - Mail secondaria (Secondary Email)
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - URL is not the official domain of Libero.
+ - The page has a different design compared to the official Libero login page.
+ - The page has a suspicious input field asking for the user's mobile number and secondary email.
+ - The page has a suspicious button labeled "SALVA" (SAVE).
+
+
+1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a
+ 1. Target brand: Videotron
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 7
+6. Supporting evidence: 
+ - The domain name "videotronmaill.weebly.com" does not match the official Videotron domain "videotron.com".
+ - The URL contains a subdomain "weebly" which indicates that the website is hosted on a Weebly platform, which is not associated with Videotron.
+ - The design of the webpage is not consistent with the official Videotron website.
+ - The webpage is hosted on a free platform, which is not secure and can be easily used for phishing attacks.
+ - The webpage asks for personal information such as email address and password, which is not necessary for logging in to a Videotron account.
+
+
+31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b
+ 1. Target brand: Trust Wallet
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL does not belong to the official Trust Wallet domain.
+ - The URL contains suspicious characters and does not follow a standard structure.
+ - The webpage design is not consistent with the official Trust Wallet website.
+ - The webpage contains spelling and grammatical errors.
+ - The webpage uses a fake padlock icon to indicate a secure connection.
+ - The webpage requests sensitive information, such as email address and password, without a secure connection.
+
+
+3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Country
+ - Phone number
+4. Conclusion: Phishing
+5. Phishing Score: 7
+6. Supporting evidence: 
+ - The domain "telegram-com-zhcn.pages.dev" does not belong to the official Telegram domain (telegram.org).
+ - The overall design and layout of the webpage do not match the official Telegram website.
+ - The Telegram logo is slightly different from the official logo.
+ - The text "Telegram" at the top of the page is in a different font than the rest of the text on the page.
+ - The "Sign In" button is a different color than the rest of the buttons on the page.
+ - The URL contains a number of parameters that are not typically found in legitimate Telegram URLs.
+
+
+4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a
+ 1. Target brand: Webmail
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain "bafybeif263mizfzroy53si3dt7jafhzmwf33bx27v4qx7biqfknpfkiuvy.ipfs.cf-ipfs.com" is not a recognized domain for webmail or any legitimate email service provider.
+ - The overall design and layout of the webpage are simplistic and lack the polish and branding typically associated with legitimate webmail services.
+ - The "Webmail" logo at the top of the sign-in box appears generic and does not match the logos of popular webmail providers.
+ - The presence of a single input field for "Username" instead of separate fields for email address and password is not a common practice in webmail services.
+ - The "Secured Login session" checkbox is not a standard feature in webmail sign-in pages and raises suspicion.
+ - The "Forgot Password?" link is not styled consistently with the rest of the page and appears to be an afterthought, which is not typical of legitimate webmail services.
+ - The copyright notice at the bottom of the page states "Copyright© 2022," which is a common tactic used by phishing websites to appear legitimate. However, legitimate companies usually include their company name or logo in the copyright notice.
+
+
+4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566
+ 1. Target brand: Coinbase
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The domain name "coinbasewalletty.com" is different from the official Coinbase domain "coinbase.com".
+ - Coinbase does not have a product or service called "Coinbase Wall".
+ - The overall design and layout of the webpage are not consistent with Coinbase's official website.
+ - The webpage uses a chat icon that is not typically used by Coinbase.
+ - The webpage does not have a valid SSL certificate.
+
+
+834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce
+ 1. Target brand: NA
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Email Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL does not belong to any known legitimate brand.
+ - The design of the webpage is not consistent with the targeted brand.
+ - The webpage asks for user credentials, such as email address and password.
+ - The webpage has a green button that says "Connection", which is not a common term used for logging in.
+ - The webpage has a red button that says "Annuler", which is not a common term used for canceling.
+
+
+ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2
+ 1. Target brand: 365bet
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username or email
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence: 
+ - The domain name "896e365.com" does not match the official domain of 365bet, which is "365bet.com".
+ - The webpage design is different from the official 365bet website.
+ - The webpage has a lot of pop-ups and advertisements.
+ - The webpage asks for personal information, such as your username, password, and phone number.
+ - The webpage uses a fake "security certificate" to trick you into thinking that it is legitimate.
+
+
+fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d
+400 Request payload size exceeds the limit: 4194304 bytes.

@@ -1,0 +1,145 @@
+1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email Address
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence: 
+ - The webpage screenshot contains the official branding and logos of Netflix.
+ - The webpage screenshot has a valid SSL certificate.
+ - The webpage screenshot has a secure URL.
+ - The webpage screenshot does not contain any suspicious elements or content.
+ - The webpage screenshot is consistent with the official Netflix website.
+
+
+873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7
+ 1. Target brand: Telegram
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The overall design and branding of the webpage are consistent with Telegram's official website.
+ - The URL is legitimate and belongs to Telegram.
+ - There are no fields asking for user credentials or any suspicious call-to-action buttons.
+ - The content and text on the webpage are aligned with Telegram's typical communications.
+
+
+88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139
+ 1. Target brand: Coinbase
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a Coinbase logo, but the overall design and layout are different from the legitimate Coinbase website.
+ - The webpage is asking for users to enter their Coinbase account credentials, which is a phishing attempt.
+ - The webpage is hosted on a free hosting platform, which is often used by phishing websites.
+ - The webpage was created recently, which is a common tactic used by phishing websites.
+
+
+a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb
+ 1. Target brand: bet365
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Username
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The webpage is not hosted on bet365's official domain.
+ - The webpage's design and layout are different from bet365's official website.
+ - The webpage's text contains grammatical errors and typos.
+ - The webpage is asking for users' personal information, such as their username and password.
+ - The webpage is trying to trick users into clicking on malicious links.
+
+
+a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765
+ 1. Target brand: SurveySparrow
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email address
+  - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage has a valid SSL certificate.
+ - The webpage is hosted on a secure server.
+ - The webpage uses HTTPS.
+ - The webpage has a valid security policy.
+ - The webpage does not contain any malicious content.
+ - The webpage does not contain any phishing elements.
+ - The webpage is consistent with the brand's visual identity.
+ - The webpage is consistent with the brand's tone of voice.
+ - The webpage is consistent with the brand's messaging.
+ - The webpage is consistent with the brand's values.
+
+
+aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence: 
+ - The URL is "microsoft.com", which is the official website of Microsoft.
+ - The screenshot shows the Microsoft logo and branding.
+ - The overall design of the webpage is consistent with Microsoft's branding.
+ - The text content is consistent with Microsoft's typical communications.
+
+
+b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b
+ 1. Target brand: Gemini
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Twoje imię 
+  - Twoje nazwisko 
+  - Twój adres e-mail 
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage has a fake "Gemini" branding. The logo is slightly different from the real Gemini logo.
+ - The webpage is asking for user credentials, such as name, email address, and phone number.
+ - The webpage has a fake "5 miejsc" progress bar at the top.
+ - The webpage has a fake "Twoje konto" section on the right side.
+ - The webpage has a fake "WYNIKI NA ŻYWO" section.
+ - The webpage has a fake "KLIKAJ WSKAŹÓWKI" section.
+ - The webpage has a fake "Prośbę zarejestrować" section.
+ - The webpage has a fake "Polityka prywatności" link at the bottom.
+ - The webpage has a fake "Copyright 2021" at the bottom.
+
+
+c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b
+ 1. Target brand: JEK-MINER
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+  - Email address
+  - Phone number
+  - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is asking for user credentials, such as email address, phone number, and password.
+ - The webpage is not using a secure HTTPS connection.
+ - The webpage has a lot of pop-ups and advertisements.
+ - The webpage's design is not professional and looks like it was created quickly.
+ - The webpage's content is full of spelling and grammatical errors.
+ - The webpage is trying to pressure the user into taking action by using phrases like "limited time offer" and "don't miss out."
+
+
+f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3
+ 1. Target brand: BBVA
+2. Has credentials/call-to-action: Yes
+3. List of fields: NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage is asking for sensitive information such as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, Número de teléfono.
+ - The webpage is not using a secure connection (HTTPS).
+ - The webpage's design is not consistent with the BBVA brand.
+ - The webpage's URL is not a BBVA domain.
+
+

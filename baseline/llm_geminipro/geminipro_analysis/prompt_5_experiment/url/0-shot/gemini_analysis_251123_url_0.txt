@@ -1,0 +1,151 @@
+0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The webpage screenshot is a phishing page that is designed to look like a legitimate Microsoft login page. 
+ - The URL of the webpage is not a legitimate Microsoft URL. The domain "zksfechaduras.com.br" is not owned by Microsoft.
+ - The design of the webpage is very similar to the legitimate Microsoft login page, but there are some subtle differences. For example, the Microsoft logo on the phishing page is slightly different than the legitimate Microsoft logo.
+ - The text on the phishing page is very similar to the text on the legitimate Microsoft login page, but there are some subtle differences. For example, the phishing page says "Verify your identity" instead of "Sign in".
+ - The phishing page has a field that asks for the user's email address. This is a common tactic used by phishing pages to collect user credentials.
+ - The phishing page has a button that says "Next". This button is likely designed to trick users into clicking it and submitting their email addresses.
+
+
+3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2
+ 1. Target brand: Microsoft
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The URL is legitimate and belongs to Microsoft.
+ - The screenshot is consistent with the legitimate Microsoft website.
+ - The design elements, branding, text content, and user input fields are all consistent with the legitimate Microsoft website.
+ - There are no obvious phishing indicators, such as spelling errors or suspicious links.
+
+
+605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817
+ 1. Target brand: DHL
+2. Has credentials/call-to-action: Yes
+3. List of fields:
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+   - The URL is not the official DHL website. The legitimate DHL website is "www.dhl.com", while the provided URL is "ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu".
+   - The screenshot shows a DHL logo, but the design of the page is not consistent with the official DHL website.
+   - The screenshot requests users to enter their email address and password. This is a common tactic used by phishing websites to steal user credentials.
+
+
+8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918
+ 1. Target brand: Adobe
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email address
+ - Password
+4. Conclusion: Benign
+5. Phishing Score: 1
+6. Supporting evidence:
+ - The webpage's URL is "helpx.adobe.com," which is a legitimate Adobe domain.
+ - The webpage's design is consistent with Adobe's branding and design.
+ - The webpage's content is consistent with Adobe's offerings and support topics.
+ - The webpage has a valid SSL certificate.
+ - The webpage does not ask for any sensitive information, such as credit card numbers or social security numbers.
+
+
+acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: Email Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain of the webpage url "clement-lotus-mollick.github.io" does not match the official domain of Netflix, which is "netflix.com".
+ - Netflix's official website has a green background for the "Get Started" button, whereas the webpage in the screenshot has a red background for the button.
+ - The Netflix logo in the screenshot is slightly different from the official Netflix logo.
+ - The webpage in the screenshot has a lot of grammatical errors, which is not typical of Netflix's official website.
+ - The webpage in the screenshot asks for the user's email address, which is not typical of Netflix's official website.
+
+
+ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c
+ 1. Target brand: Bilibili
+2. Has credentials/call-to-action: No
+3. List of fields: NA
+4. Conclusion: Benign
+5. Phishing Score: 0
+6. Supporting evidence:
+ - The screenshot is of the official Bilibili website, which is a legitimate Chinese video-sharing platform.
+ - The URL provided is the official URL for Bilibili.
+ - The design elements, branding, text content, and user input fields are consistent with the official Bilibili website.
+ - There are no visible indicators of phishing, such as requests for user credentials or suspicious links.
+
+
+cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a
+ 1. Target brand: Garena Free Fire
+2. Has credentials/call-to-action: Yes
+3. List of fields: Username, Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The URL provided is suspicious as it contains a subdomain that is not associated with the legitimate Garena Free Fire website.
+ - The screenshot shows a login page that is not consistent with the official Garena Free Fire website.
+ - The page requests for personal information such as name, date of birth, and address, which is not typical for a legitimate login page.
+
+
+cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Email Address
+ - Password
+4. Conclusion: Phishing
+5. Phishing Score: 9
+6. Supporting evidence:
+ - The domain of the webpage url "netflix.ayuda-telefonica.com" does not match the official domain of Netflix, which is "netflix.com".
+ - The screenshot contains a form asking for user credentials, including email address and password.
+ - The webpage design is not consistent with the official Netflix website.
+ - The webpage url contains suspicious elements, such as "ayuda-telefonica", which is not part of the official Netflix domain.
+ - The screenshot contains a fake chat box in the bottom right corner.
+
+
+daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453
+ 1. Target brand: Netflix
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+   - Email Address
+   - Password
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence: 
+ - The URL provided is not the official Netflix website. The legitimate Netflix url is "netflix.com".
+ - The screenshot contains a form asking for personal information, including email address and password.
+ - The Netflix logo is slightly different from the official logo.
+ - The overall design of the webpage is similar to the official Netflix website, but there are some discrepancies, such as the font and the layout of the buttons.
+
+
+db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3
+ 1. Target brand: Sell My Home Fast Ohio
+2. Has credentials/call-to-action: Yes
+3. List of fields: 
+ - Name
+ - Email
+ - Phone Number
+ - Address
+4. Conclusion: Phishing
+5. Phishing Score: 8
+6. Supporting evidence:
+ - The domain of the webpage url (sellmyhomefastohio.com) does not match the official domain of the legitimate brand (sellmyhomefast.com).
+ - The url contains extra characters that is not part of the legitimate brand domain.
+ - The screenshot contains a form that asks for user credentials, such as name, email, phone number, and address.
+ - The webpage design is almost completely the same as the legitimate brand website.
+ - The webpage uses a green padlock icon to indicate that it is secure, but this can be easily faked.
+ - The webpage uses a fake "Norton Secured" seal to indicate that it is secure, but this can be easily faked.
+ - The webpage uses a fake "BBB Accredited Business" seal to indicate that it is accredited by the Better Business Bureau, but this can be easily faked.
+
+
