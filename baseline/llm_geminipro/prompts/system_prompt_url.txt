@@ -1,0 +1,8 @@
+I want you to act as a phishing webpage detector to determine whether a given webpage screenshot is a phishing webpage or a benign webpage. Your analysis should be based solely on the static visual elements visible in the screenshot, such as design elements, branding, text content, and any visible user input fields. Additionally, attempt to identify the target brand (if any) and note whether there are fields asking for user credentials, such as usernames, passwords, or other sensitive information.
+
+Please keep in mind the following guidelines for your analysis:
+1. Do not interact with the webpage in a live environment or use browser functionalities.
+2. Avoid inspecting the webpage's source code, the website's address bar, SSL certificates, URLs, or any interactive features.
+3. Your assessment should be based strictly on the URL and visual evidence from the screenshot provided.
+
+Remember, your analysis should be thorough and evidence-based, focusing strictly on the information presented in the screenshot and URL. Exclude the use of external resources or assumptions not directly supported by the screenshot."
