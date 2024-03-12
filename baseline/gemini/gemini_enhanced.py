@@ -20,7 +20,7 @@ class GeminiProVisionBaseline:
         self.model = self.setup_model()
         
     def setup_model(self):
-        genai.configure(api_key=utils.get_api_key("baseline/llm_geminipro/api_key.txt"))
+        genai.configure(api_key=utils.get_api_key("baseline/gemini/api_key.txt"))
         model = genai.GenerativeModel('gemini-pro-vision')
         return model
     
@@ -66,7 +66,7 @@ class GeminiProVisionBaseline:
         return f"{system_prompt}\n\n{chain_of_thought_prompt}", f"\n\n{reponse_format_prompt}"
     
     def generate_prompt_example(self, index):
-        example_file_path = os.path.join("baseline", "prompt_examples")
+        example_file_path = os.path.join("baseline", "gemini", "prompt_examples")
         image = PIL.Image.open(os.path.join(example_file_path, f"ss_{index}.png"))
         desc = FileUtils.read_from_txt_file(os.path.join(example_file_path, f"analysis_{index}.txt"))
     
@@ -128,7 +128,7 @@ class GeminiProVisionBaseline:
                     # Delete the extracted folder after processing
                     shutil.rmtree(extract_path)
         
-        output_file = f"baseline/geminipro/gemini_responses_{date}_{few_shot_count}.json"
+        output_file = f"baseline/gemini/gemini_responses/gemini_{date}_{few_shot_count}.json"
         FileUtils.read_from_txt_file(output_file, responses)
     
 
@@ -145,8 +145,8 @@ if __name__ == '__main__':
     phishing_folders_oct = ["251023", "261023", "271023", "281023", "291023", "301023", "311023"] # oct
     phishing_folders_nov = ["011123", "041123", "051123", "061123", "071123", "081123", "091123", "101123", "111123", "121123", "131123", "141123", "151123", "161123", "171123", "181123", "191123", "201123", "211123", "221123", "231123", "241123", "251123", "261123", "271123", "281123", "291123", "301123"]
     phishing_folders_dec = ["011223", "021223", "031223", "041223", "051223", "061223", "071223", "081223", "091223", "101223", "111223", "121223", "131223", "141223", "151223", "161223", "171223", "181223", "191223", "201223", "211223", "221223", "231223", "241223", "251223"]
-    phishing_folders = phishing_folders_oct + phishing_folders_nov + phishing_folders_dec
-    
+    # phishing_folders = phishing_folders_oct + phishing_folders_nov + phishing_folders_dec
+    phishing_folders = ["011123"]
     if args.benign_phishing == "benign":
         folders = benign_folders
     else:
