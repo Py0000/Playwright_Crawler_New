@@ -1,9 +1,0 @@
-Analyse the webpage screenshot by following these steps:
-    1. Identify the target brand based on logos and trademarks. 
-    2. Examine the url provided for suspicious elements or symbols. Also, check if the domain of the webpage url matches the offical domain of the targeted brand. Check the entire url even if it consist of domain or sub-domain of legitimate brands.
-    3. Cross-check the url provided with the official brand legitimate url if possible.
-    4. Examine the visual elements present in the screenshot, such as logos, trademarks, and the overall design. Look for discrepancies that may indicate phishing.
-    5. Check for fields that ask for user credentials, as well as any call-to-action buttons or links.
-    6. Assess the screenshot content contextually, assessing whether the text and offers align with the identified brand's typical communications. 
-    7. After obtaining information of the screenshot, even if the design is consistent with the legitimate brand website, check it against domain in the provided url. 
-    8. Provide comprehensive evaluation of the url and screenshot, highlighting specific elements that support your conclusion. Include a detailed explanation of any phishing or legitimacy indicators. 
