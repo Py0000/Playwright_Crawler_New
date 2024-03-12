@@ -54,14 +54,18 @@ class BlockedPageFilter:
         file_utils.export_output_as_txt_file(output_path, status)
 
 
-    def filter_blocked_page_main(self, date):
+    def filter_blocked_page_main(self, date, mode):
         main_directory = self.main_folder_path
         if "zip" in main_directory:
             main_directory = file_utils.extract_zipfile(main_directory)
 
+        if mode == "phishing":
+            txt_parent_folder_path = os.path.join(main_directory, f'dataset_{date}', 'filter_logs')
+            parent_path = os.path.join(main_directory, f'dataset_{date}', f'dataset_{date}', 'complete_dataset')
+        else:
+            txt_parent_folder_path = os.path.join(main_directory, 'filter_logs')
+            parent_path = os.path.join(main_directory, 'complete_dataset')
 
-        txt_parent_folder_path = os.path.join(main_directory, f'dataset_{date}', 'filter_logs')
-        parent_path = os.path.join(main_directory, f'dataset_{date}', f'dataset_{date}', 'complete_dataset')
         blocked_dataset_txt_file_path = os.path.join(txt_parent_folder_path, f"{date}_response_non_200_status.json")
         blocked_lists_dict = self.get_seperate_list_of_blocked_data(blocked_dataset_txt_file_path)
         
@@ -79,7 +83,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Supply the folder names")
     parser.add_argument("folder_path", help="Folder name")
     parser.add_argument("date", help="Date")
+    parser.add_argument("mode", help="phishing or benign")
     args = parser.parse_args()
 
     block_page_filterer = BlockedPageFilter(args.folder_path)
-    block_page_filterer.filter_blocked_page_main(args.date)
+    block_page_filterer.filter_blocked_page_main(args.date, args.mode)
