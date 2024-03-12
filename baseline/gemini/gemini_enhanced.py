@@ -129,7 +129,7 @@ class GeminiProVisionBaseline:
                     shutil.rmtree(extract_path)
         
         output_file = f"baseline/gemini/gemini_responses/gemini_{date}_{few_shot_count}.json"
-        FileUtils.read_from_txt_file(output_file, responses)
+        FileUtils.save_as_json_output(output_file, responses)
     
 
 
