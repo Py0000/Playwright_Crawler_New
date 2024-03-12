@@ -159,9 +159,9 @@ Returning to the ssh session:
   * `{number of examples}`: 1 to 3
 
 
-#### Updating results of llm analysis to excel sheet
+### Updating results of llm analysis to excel sheet
 * Pre-cond: Running the script `export_llm_result.py` from `Playwright_Crawler_New` directory
-* Cmd: `python3 -m baseline.gemini.export_llm_result {path_to_analysis_json_file} {path_to_excel_sheet} {file_hash_col} {brand_col} {credentials_col} {call_to_action_col} {confidence_score_col}`
+* Cmd: `python3 -m baseline.gemini.export_llm_result {path_to_analysis_json_file} {path_to_excel_sheet} {file_hash_col} {brand_col} {credentials_col} {call_to_action_col} {confidence_score_col} {sld_col} {is_phish_col}`
   * `{path_to_analysis_json_file}`: `baseline/gemini/gemini_response/gemini_{date}_{shot}.json`
   * `{path_to_excel_sheet}`: `baseline/gemini/gemini_response/validation_{shot}.xlsx`
   * `file_hash_col`: 
@@ -169,5 +169,6 @@ Returning to the ssh session:
   * `credentials_col`: 
   * `call_to_action_col`: 
   * `confidence_score_col`: 
-
+  * `sld_col`: 
+  * `is_phish_col`: 
 
