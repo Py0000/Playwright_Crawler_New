@@ -19,9 +19,14 @@ class GeminiProVisionBaseline:
         self.model = self.setup_model()
         
     def setup_model(self):
-        genai.configure(api_key=utils.get_api_key("baseline/gemini/api_key.txt"))
+        genai.configure(api_key=utils.get_api_key("baseline/gemini/api_key_new.txt"))
         model = genai.GenerativeModel('gemini-pro-vision')
         return model
+    
+    def obtain_page_url(self, log_path):
+        log_data = FileUtils.read_from_json_file(log_path)
+        url = log_data["Url visited"]
+        return url
     
     def search_for_response(self, pattern, response_text):
         try: 
@@ -88,14 +93,15 @@ class GeminiProVisionBaseline:
             response = model.generate_content(model_prompt, stream=True)
             response.resolve()
             data = self.format_model_response(folder_hash, response.text, is_error=False)
-            return data
+            return folder_hash, data
         except Exception as e:
             data = self.format_model_response(folder_hash, str(e), is_error=True)
             print(e)
-            return data
+            return folder_hash, data
 
 
     def analyse_directory(self, zip_folder_path, date, few_shot_count):
+        urls = []
         responses = []
 
         for zip_file in os.listdir(zip_folder_path):
@@ -121,14 +127,30 @@ class GeminiProVisionBaseline:
                         if not os.path.exists(screenshot_path):
                             continue
 
-                        response = self.analyse_individual_data(self.model, screenshot_path, few_shot_count)
+                        hash, response = self.analyse_individual_data(self.model, screenshot_path, few_shot_count)
                         responses.append(response)
+
+                        log_path = os.path.join(self_ref_path, 'log.json')
+                        if not os.path.exists(log_path):
+                            url_data = {
+                                "Folder Hash": hash,
+                                "Url": "Not found"
+                            }
+                        else:
+                            url = self.obtain_page_url(log_path)
+                            url_data = {
+                                "Folder Hash": hash,
+                                "Url": url
+                            }
+                        urls.append(url_data)
                     
                     # Delete the extracted folder after processing
                     shutil.rmtree(extract_path)
         
         output_file = f"baseline/gemini/gemini_responses/gemini_{date}_{few_shot_count}.json"
+        url_output_file = f"baseline/gemini/gemini_responses/url_{date}_{few_shot_count}.json"
         FileUtils.save_as_json_output(output_file, responses)
+        FileUtils.save_as_json_output(url_output_file, urls)
     
 
 
