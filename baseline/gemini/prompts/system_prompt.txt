@@ -1,4 +1,4 @@
-I want you to act a webpage brand identifier.
+I want you to act as a webpage brand identifier.
 Given a screenshot of a webpage. I want you to identify the brand of the webpage from the screenshot alone. 
 Additionally, also note whether there are fields asking for sensitive user credentials as well as any call-to-action buttons/links.
 Examples of sensitive user credentials: email, username, password, phone number, etc.

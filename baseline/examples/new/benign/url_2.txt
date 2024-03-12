@@ -1,3 +1,0 @@
-https://web.telegram.org/k/
-
-Analysis: The domain "telegram.org" is the official domain owned by Telegram. Official domains are typically registered by the company and used across their products and communications. The "/k/" path in the URL refers to a newer version of Telegram Web, known as "Telegram Web K," which is one of the web-based interfaces developed by Telegram to access your messages and communicate with your contacts directly from a web browser. The URL is consistent with those promoted on official Telegram channels and documentation. 

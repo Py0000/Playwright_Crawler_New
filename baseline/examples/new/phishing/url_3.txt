@@ -1,3 +1,0 @@
-https://microsoftsupport.be/fr/demandez/?email=3mail@b.c&secret=CD83a3pTxgh5pujSMIwZjNIAJk0uOa8oXDyi
-
-Analysis: The official Microsoft support domain does not match this URL. The URL contains query parameters that include what appears to be an email address and a "secret" token. Legitimate Microsoft support URLs would not require sensitive information to be passed openly in the URL due to security concerns. This is a common phishing tactic used to either confirm sensitive information or to make the URL appear to be personalized and thus more trustworthy.

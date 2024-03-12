@@ -1,3 +1,0 @@
-https://bhtlgr.github.io/#/login
-
-Analysis: The domain does not belong to the offical Telegram domain (telegram.org). This is a website hosted on github, and the sub-domain  "bhtlgr.github.io" suggests that this site is hosted in a GitHub repository owned by a user or organization with the username "bhtlgr", which does not belong to telegram.

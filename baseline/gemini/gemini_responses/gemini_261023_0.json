@@ -1,0 +1,162 @@
+[
+    {
+        "Folder Hash": "00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a",
+        "Brand": "Societe Generale",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Ouvrir un compte",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Societe Generale in the top left corner. The page is asking for login credentials and has a call-to-action button that says \"Se connecter\"."
+    },
+    {
+        "Folder Hash": "00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2",
+        "Brand": "Correos",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Seguir, Descargar la app de Correos",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo of Correos, which is a Spanish postal service company. The page has a blue background, which is also used in Correos' branding. The page also has a link to Correos' app."
+    },
+    {
+        "Folder Hash": "00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The screenshot shows the Outlook login page. The Microsoft logo is clearly visible in the top-left corner of the page. The page has fields asking for user credentials such as email, phone, or Skype. It also has a call-to-action button that says \"Next\"."
+    },
+    {
+        "Folder Hash": "00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5",
+        "Brand": "AI Crypto Trading",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join Group",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the words \"AI Crypto Trading\" prominently displayed at the top. The webpage also has a green button that says \"Join Group\"."
+    },
+    {
+        "Folder Hash": "03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59",
+        "Brand": "12 Volt Does It",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo, trademark, and branding. The page is selling Microsoft 365. The fields asking for user credentials include email and password. The call-to-action buttons are \"Add to Cart\" and \"Buy Now\"."
+    },
+    {
+        "Folder Hash": "0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo, which is a well-known battle royale game. The game is developed by Krafton, Inc. and is available on both Android and iOS devices. The screenshot also shows the in-game currency, which is called \"UC\". UC can be used to purchase items in the game, such as weapons, skins, and characters. The screenshot also shows a button that says \"Start\", which is likely used to start the game."
+    },
+    {
+        "Folder Hash": "0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in, Create an account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Google logo, which is a registered trademark of Google LLC. The page also has the words \"Google\" and \"Sign in\" on it. The presence of the words \"Username\", \"Password\", \"Sign in\", and \"Create an account\" indicate that the webpage is asking for user credentials and has call-to-action elements."
+    },
+    {
+        "Folder Hash": "4e34f5dbdf9094db6a984687f2d83025273fac431aef32639e51cf0136d94f65",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The page also has links to the Telegram app and website."
+    },
+    {
+        "Folder Hash": "589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding prominently displayed at the top. The overall design and layout of the webpage is consistent with Telegram's branding guidelines."
+    },
+    {
+        "Folder Hash": "d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7",
+        "Brand": "SHENG HO JIUN",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is located at the top right corner of the webpage."
+    },
+    {
+        "Folder Hash": "decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f",
+        "Brand": "Desjardins",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Se connecter",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Desjardins logo and trademark at the top left corner. The screenshot is a login page. The page is asking for username and password. The page has a button that says \"Se connecter\"."
+    },
+    {
+        "Folder Hash": "f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d",
+        "Brand": "Arvest Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "apply today, get started, request call back",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Arvest Bank logo at the top left corner. It also has the Arvest Bank trademark at the bottom of the page. The page has fields asking for user credentials such as email and password. It also has call-to-action elements such as \"apply today\", \"get started\", and \"request call back\"."
+    },
+    {
+        "Folder Hash": "f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f",
+        "Brand": "Narodnye Napitki",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows the brand logo of Narodnye Napitki, which is a Russian beverage company. The screenshot also shows the company's name in Cyrillic script. The overall design and layout of the webpage is consistent with the branding of Narodnye Napitki."
+    }
+]
