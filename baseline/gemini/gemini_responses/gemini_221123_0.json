@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Aave logo and branding. The \"Connect Wallet\" button is a call-to-action element.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "1132d513064f9cbd06d4a67e55d71d05de1b057a83e53bf890fbe38cb7d3ee96",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://kshravyab.github.io/Movies/"
+    },
+    {
+        "Folder Hash": "6a6851eb5446ab402cd5df390b32a4ab9ee1953460ace99c4968db255a548ec8",
+        "Brand": "Creagidem",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://tools.creagidem.com/moncrea"
+    },
+    {
+        "Folder Hash": "862efcc8c7ec1760df8267cc7383033998b03b9c29826ae99dd610da799d80ca",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose your Microsoft 365, Shop for students, Save up to 54%, Get Microsoft Teams for free, Try Microsoft Teams, Join the era of AI",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and trademark at the top left corner of the page. The overall design, layout, and typography of the webpage are consistent with Microsoft's branding guidelines. The page also features several links to other Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "97b410d0e17b4bb3f6bafe57b4d5e84b3e4aa44ddfa17bd5a84277fb46e5b6f2",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "a5730957b4e0e813dd1209a8ec64d9b6df5c428b3d4488be4387bd59800af9ba",
+        "Brand": "Freehold Properties",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://freeholdproperty.ae/wp-admin/x8z9.php?el20=3mail@b.c"
+    },
+    {
+        "Folder Hash": "aa4b884cba268415bc04deb704a5f32e40fbfd5b3631dd89c1cf4540a9c38b4e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Learn More, See Plans, Try Now, Start Your Free Trial, Explore AI Solutions, Sign Up For Free",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and trademark at the top left corner. The overall design and layout of the webpage is consistent with Microsoft's branding. The call-to-action buttons and links are also consistent with Microsoft's branding.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c0fde17683b2fe017214e7a1ab39cbad6538adaa4fe41ab082060ea15c557eb9",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the OneDrive logo, which is a cloud storage service from Microsoft. The presence of the OneDrive logo indicates that the webpage is a OneDrive page. The screenshot also shows a list of files and folders, which is consistent with the functionality of OneDrive.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmbSH4QTBtodXn7AWC9ajietCHNcLowXxf2JRiSf3Ei4aW"
+    },
+    {
+        "Folder Hash": "c1a2ca3a66d8fc408ad6daf129d1f8b2ddd415f1847c296a703cc6678215e450",
+        "Brand": "Svastant",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Svastant at the top center. The login form has fields for username and password, and a button that says \"Login\". There is also a \"Register Now\" button below the login form.",
+        "Url": "https://savasten0.cc/"
+    },
+    {
+        "Folder Hash": "c60ac9f23b634af849beeddc946b34f83f160bfdc16583b49891fe8e05863d36",
+        "Brand": "Etudes",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join 900+ subscribers",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Etdues at the top left corner. The overall design and layout of the webpage is consistent with the branding of Etdues. The content on the webpage is also related to the services offered by Etdues.",
+        "Url": "https://leieem.com/"
+    },
+    {
+        "Folder Hash": "d56f0a4a5a40034440ee541393dbd687b94006938378b554e4133abfae523e75",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose, Shop for Students, Shop for Surface, Shop for Xbox, See All Deals, Get Started, Sign Up For Free, Download Visual Studio, Get It Today",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Microsoft logo and branding prominently displayed at the top of the page. The overall design and layout of the page is consistent with other Microsoft webpages. The page also contains links to other Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "dabac25b314a758b2ade58de5be3f6790a2ced935d0f4cfd8fc8cba694f571c9",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihnecv6xgkb7axyv3tbhulcl7yt5t2gmhs5xgfxxfikqdcoil73d4"
+    },
+    {
+        "Folder Hash": "e330ef7a7761bf403e97ad9d57f54e18bbeb3009f04fa0d13ab42e38abd6a9ff",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo and trademark. The page is asking for user credentials such as email address. It also has a call-to-action button that says \"Get Started\".",
+        "Url": "https://akkpk.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "e88468e8a894aefeb45f8c645e4e0569690eef94fb824a72f7e85084dc1ab0f7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://kadamgp.github.io/Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "f683e0a45ed2b3f48f9faf760b64c4af39f817f18bbdbf994204edacd34952c0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Learn More, See Plans, Start Free Trial, Sign Up Free, Join the Era of AI",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and trademark, as well as the words \"Microsoft\" and \"Xbox\" prominently displayed. The overall design and layout of the webpage is also consistent with Microsoft's branding.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    }
+]

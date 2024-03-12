@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "BitYard",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Try Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the bet365 logo at the top left corner. The logo is a green circle with a white \"365\" inside. The webpage also has the words \"bet365\" written in white at the top of the page. The webpage is asking for the user's username and password. The webpage has a green button that says \"Login\".",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Try it free, Book a demo, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the SurveySparrow logo at the top left corner. The \"Sign Up\" button is also a strong indicator that the webpage is a SurveySparrow webpage.",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Microsoft 365\" in the top left corner. The page is also branded with the Microsoft logo and colors. The page has a lot of information about Microsoft products and services. The call-to-action buttons are all related to Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "Gemini 2",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Gemini 2 at the top left corner. The page also has a form asking for user credentials such as email and phone number. Additionally, there is a call-to-action button that says \"UTWORZ DARMOWE KONTO\".",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "Jek Miner",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Password",
+        "List of Call-To-Actions": "Registration, Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Jek Miner, a cryptocurrency mining company. It also has fields asking for user credentials such as email, phone number, and password. Additionally, it has call-to-action buttons such as \"Registration\" and \"Login\".",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono",
+        "List of Call-To-Actions": "Iniciar sesi\u00f3n, Hazte cliente, Crea tu clave de acceso",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the BBVA logo at the top left corner. The page is asking for sensitive user credentials such as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono. The page also has call-to-action buttons such as Iniciar sesi\u00f3n, Hazte cliente, Crea tu clave de acceso.",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]

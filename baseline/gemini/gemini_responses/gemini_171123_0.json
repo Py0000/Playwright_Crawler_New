@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the USPS logo, which is a registered trademark of the United States Postal Service. The webpage also has the words \"USPS Tracking\" in the title bar. The webpage is asking for the user's tracking number, which is a form of user credential. The webpage also has a button that says \"Continue\", which is a call-to-action.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address/Login ID, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the DHL logo and branding. It also has fields asking for user credentials such as email address/login ID and password. Additionally, there is a call-to-action button labeled \"Sign In\".",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "Members 1st",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Click here to register",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has the logo of Members 1st at the top left corner. The page also has a form asking for sensitive user credentials like username and password. Additionally, there is a call-to-action button that says \"Sign In\" and a link that says \"Click here to register\".",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Orange, which is a French telecommunications company. The page also has the words \"Orange et moi\" which means \"Orange and me\" in French. This indicates that the webpage is likely to be associated with Orange. In addition, the webpage has fields asking for user credentials, such as email address and password. This suggests that the webpage is used to access an Orange account. Finally, the webpage has a call-to-action button that says \"Connecter\", which means \"Connect\" in French. This suggests that the webpage is used to log in to an Orange account.",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "Metamask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "b152ab1f314e8508af30123e4907f67ac1657d02dca13a358679d6452c92bf2e",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full name, Street address 1, Street address 2, City, State, ZIP code, Phone number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. The page is asking for user credentials such as name, address, and phone number. The page has a call-to-action button that says \"Continue\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/standard-shipping/"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It also has fields asking for user credentials such as full name, address, and phone number. Additionally, there is a call-to-action button that says \"Continue\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, email, mobile, password",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Yahoo logo and branding. It also has fields asking for sensitive user credentials such as username, email, mobile, and password. There is a call-to-action button that says \"Next\".",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

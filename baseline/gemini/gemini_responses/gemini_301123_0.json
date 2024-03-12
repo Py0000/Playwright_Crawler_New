@@ -1,0 +1,123 @@
+[
+    {
+        "Folder Hash": "0c6cdf65f3a54872a8645d6981048dd06f994e84199a219301a73387b6952740",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://meta-account-setting.com/"
+    },
+    {
+        "Folder Hash": "11a58351b0b0c1ae68e1675f31ac5531f4e94511384c4ee26b0edede65bef2ae",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://crazew.github.io/simply/"
+    },
+    {
+        "Folder Hash": "1e0f39c1715d2002bfbb33bd3895276fec0827a2185710ef756477d9be67d588",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://playstakecom.web.app/"
+    },
+    {
+        "Folder Hash": "2c6d6ea5b4d25c0b56b452c33cae300793881b4de0086ece59ea7a62eaa07eb8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://09ta.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "3bd85627c716e638b3fae2ef502f2d12379d065d247e19d30dc2764ca1b0e0e2",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand logo of PUBG Mobile is prominently displayed at the top of the webpage. The overall design and layout of the webpage is consistent with the PUBG Mobile brand guidelines. There are no fields asking for user credentials. However, there are call-to-action buttons for social media platforms such as Facebook, Twitter, YouTube, Instagram, VK, and Discord.",
+        "Url": "https://bey.help-page-reviev.my.id/"
+    },
+    {
+        "Folder Hash": "49ab6cb01928dfd2e0a8bb6a4ed49d5039c3c67cb1687484305d38a7134b29fe",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo at the top left corner. The game's name is also displayed at the top of the page. The screenshot also shows the game's characters and weapons. The call-to-action buttons are also consistent with the game's branding.",
+        "Url": "https://ha33.krafton-news.com/"
+    },
+    {
+        "Folder Hash": "51fa830e14d1dc51ccef9415d4f3f0358b0ad7293c262429376c6f84b91d7248",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://shrestha-tripathi.github.io/netflix-html-clone/"
+    },
+    {
+        "Folder Hash": "593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the bet365 logo at the top left corner, and the text \"bet365\" is also present in the title bar. The webpage is asking for user credentials such as username and password, and there is a call-to-action button that says \"Login\".",
+        "Url": "http://19960721.com/"
+    },
+    {
+        "Folder Hash": "8292dd540a9633426a81fb85249f8ada78cc34cff3874d7b01b25946cd938349",
+        "Brand": "GBWhatsApp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://gbwhats.in/"
+    },
+    {
+        "Folder Hash": "8fc80c306751cc61ba1d29b890f14e147914e2cfe4f73919ef2b046571847a68",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the DPD logo at the top left corner and \"dpdgroup\" at the bottom right corner. The central part of the page has the words \"dpd\" and \"your delivery experts\" in large font size. The page also has a tracking number field, but it is not asking for any personal information. There are no call-to-action buttons or links on the page.",
+        "Url": "https://neu.planen.lieferung.4-235-113-82.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "974e84c16ee32ec67387d7f4a9d965592681486393150f23b299ae0037ce7cb0",
+        "Brand": "Itau Unibanco",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green and blue color scheme. The logo of Itau Unibanco is present on the top left corner of the webpage. The page has a lot of text and is divided into multiple sections. The webpage is about Itau Unibanco's products and services.",
+        "Url": "https://rafael3590.github.io/"
+    }
+]

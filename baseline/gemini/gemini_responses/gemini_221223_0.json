@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1bc24aeff90db5aa1a3e53e00ea5d7b1a3ebbe58bc68d7e77008617c16851f69",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed in the header and throughout the page. The overall design and layout of the page is consistent with Microsoft's branding guidelines. The products and services featured on the page are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "1cd0dbd45cc37ebf6eb2f4fb3dba22ee61b04015e6c0709981976f600d82f0af",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "pubg id, password",
+        "List of Call-To-Actions": "login with twitter, login with facebook, tap to collect, free, like, follow, subscribe",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo at the top left corner, and the words \"PUBG Mobile\" are also visible in the title bar. The screenshot also shows the login page, where users can enter their pubg id and password to log in. Additionally, the screenshot shows call-to-action buttons such as \"tap to collect\", \"free\", \"like\", \"follow\", and \"subscribe\".",
+        "Url": "https://goodeat12.eventfree.de/"
+    },
+    {
+        "Folder Hash": "2652bcee0aeaf8fb0d8c70e5ee1a4c79b2c884b99d9f64ae19e428e0bee518b0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "52a14d8528acc72b4ed6e7793fe341a8aa84711925ee3bf80707b238e7f772d4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Surface, Shop Windows 11, Shop Xbox games, Shop Xbox accessories, Choose your Microsoft 365, Sale, Shop for students, Sign up for free, Get it today, Download Visual Studio 2022, Get started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and trademark. The overall design and layout of the webpage is consistent with Microsoft's branding. The call-to-action buttons and links are also consistent with Microsoft's branding.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "79dd2bd59fab3bde710517c9528ac5a279f8d5380d21e55df6bfebac0c44977b",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Hier geht's zur Ihrer Bank",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo of Volksbanken Raiffeisenbanken is clearly visible in the top left corner of the screenshot. Additionally, the words \"Volksbanken Raiffeisenbanken\" are also present in the top center of the screenshot. The screenshot also contains two fields asking for user credentials, namely \"Benutzername\" and \"Passwort\". Finally, the screenshot contains two call-to-action buttons, namely \"Anmelden\" and \"Hier geht's zu Ihrer Bank\".",
+        "Url": "http://puchem-international.com/.well-known/64394/Login.html"
+    },
+    {
+        "Folder Hash": "7b226573de1568a0182cc870e9eefab06d506c979bba734e0b8cf66fe4ee1798",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://darsandinesh.github.io/Netflix_Clone/"
+    },
+    {
+        "Folder Hash": "b62094a01946c3c1aab9c6300e05f34310d50ecc3b63823db6e890e2d77256a7",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://microsoftsupport.be/en/connect/?email=3mail@b.c&secret=dxhaxuE5KtdQAcReEzKYY0eKJkHpA556Ueeb"
+    },
+    {
+        "Folder Hash": "c62dacc4a2a1f3b5eb142353bee0ecff811e5f43b1234b2775757a3cd8227d73",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://rajithteja04.github.io/Netflix-Home-Page-Clone/"
+    },
+    {
+        "Folder Hash": "c8123d8101a7c3d9bdd8d0dc730cea4c58025b101613fe7e0db20ad72ab1e4be",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://atharva5522.github.io/Netflix-project/"
+    },
+    {
+        "Folder Hash": "dc9d05a407242d2a7cae23e50be4e41682fb138bb5a5f7829917f198df2417c1",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeidoii6rv43yd4duuure2kdyneon7cu5oughg76cfsb4m3yz4asflq/"
+    }
+]

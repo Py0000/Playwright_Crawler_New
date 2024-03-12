@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "email address, password",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding. The page also has fields asking for user credentials, which is a common feature of Microsoft login pages.",
+        "Url": "https://sites.google.com/amricalturs.net/download4/microsoft-office-365"
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch the event",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Apple\" is prominently displayed at the center of the page. The page is advertising the new Macbook Pro and iMac. It is an Apple product showcase page.",
+        "Url": "https://www.apple.com/uk/"
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand logo \"PUBG Mobile\" is prominently displayed at the top left corner of the screenshot. The screenshot also features the game's signature characters and weapons, which are highly recognizable by players.",
+        "Url": "https://pubgmobilecorporationevents.klikdisini2023.my.id/"
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://mail-102784.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "8367d843344f32ddf9b77e6f2c55b26d1a7c0298d61f1348cc15bef4759e90da",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo of Instagram is present on the top center of the webpage. The screenshot also shows fields where users can enter their email or phone number and password. There is a call-to-action button that says \"Connexion\".",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://www.amazon258.top/"
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo of Microsoft. It is asking for credentials like Username and Password. Additionally, it has a call-to-action button that says \"Sign in\".",
+        "Url": "http://pub-b2955bd5cc5a447cba7f9017e8915538.r2.dev/webmail.html"
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "Rakuten",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Rakuten logo on the top left corner. The login form also has the Rakuten logo. The page is asking for user credentials such as email address and password. The page also has a call-to-action button that says \"Login\".",
+        "Url": "https://bitbaink.web.app/login"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Claim Instantly",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Axis Bank logo and branding prominently displayed at the top and bottom of the page. The page also features the Amazon Pay logo and branding. The overall design and layout of the page is consistent with Axis Bank's branding guidelines.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Folder Hash": "2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a",
+        "Brand": "AutoFollowers.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the words \"AutoFollowers.com\" at the top center. The logo of AutoFollowers.com is also present on the top left corner of the webpage. The page also has a form that asks for user credentials such as email and password. There is also a call to action button that says \"Login\".",
+        "Url": "http://pengikut-gratis.com/"
+    },
+    {
+        "Folder Hash": "3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding prominently displayed at the top. The page showcases features of the Telegram app, such as its security, privacy, and speed. The page also has links to download the app on various platforms.",
+        "Url": "https://telegram-com-zhcn.pages.dev/"
+    },
+    {
+        "Folder Hash": "4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "http://www.freefire.member.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The page is also hosted on telegram.org, which is the official website for Telegram.",
+        "Url": "https://telegraimu.com/"
+    }
+]

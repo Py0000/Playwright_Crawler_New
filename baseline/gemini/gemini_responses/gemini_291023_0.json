@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "039fe99cdabd53ecfa4c892d2b8093bf71cf0fd2ae28cb14f1e973de3ba27e42",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a Microsoft logo and a Microsoft-branded pop-up window. The pop-up window asks for the user's email address in order to receive and download a PDF file. There is a \"Next\" button that the user can click after entering their email address.",
+        "Url": "https://bafybeifenqc5dv5bp3wibnrukqjx334bouavrzelldan26fl6oittcb2aa.ipfs.w3s.link/officeonedrivehtml.html"
+    },
+    {
+        "Folder Hash": "1cb807ee63a662404e46ea6773adc630950b5689a7f09616e0a5d378959dadb5",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the words \"Webmail\" and \"Sign in\" on it. There are also fields for entering a username and password. These are all common elements of a webmail login page.",
+        "Url": "https://mailwebserveraccessverificationacessmailacessswebsbusiness.pages.dev/"
+    },
+    {
+        "Folder Hash": "42db5c12cf9057611ba542a86d8bbe1b605233dba88906be02f4cfd94d6eb31c",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://bafkreicr7z4zdpsydblclljmo3qaqvjgtrgyoltyqxzbanaroapf5fndmu.ipfs.dweb.link/"
+    },
+    {
+        "Folder Hash": "522fd03f71fd385aca3d8aa1a340afafd4659ba221520dd7c221594a53daafe3",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The page is about Telegram and its features. The page also has links to Telegram's other platforms.",
+        "Url": "https://www.zh-telegram.net/"
+    },
+    {
+        "Folder Hash": "5a7ce2c8b28da72760e7f2573991b0fb9995036f458ef058c5d7b46ab770f6a4",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Player ID, Season Token",
+        "List of Call-To-Actions": "Redeem, OK",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo and branding. The page also has fields asking for user credentials such as Player ID and Season Token. Additionally, there are call-to-action elements such as the Redeem button.",
+        "Url": "https://espelhorosa.com/hanon/b/"
+    },
+    {
+        "Folder Hash": "8a551d2519b6ff84103d775267a67c771ec8a899a56c2118303df11b098b8433",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the MetaMask logo and branding prominently displayed at the top. The overall design and layout of the webpage is consistent with other MetaMask webpages. The domain name \"metamask.io\" is clearly visible in the address bar.",
+        "Url": "http://maskdex.net/"
+    },
+    {
+        "Folder Hash": "a501574c9ac4e30ab3c7ce28a875132ff141b9b28bed5054fb1dab11edd0e3cf",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage screenshot is a login page. There is no logo or trademark on the screenshot. Therefore, I cannot identify the brand of the webpage. However, the webpage is asking for sensitive user credentials, such as username and password. There is also a call-to-action button that says \"Sign in\".",
+        "Url": "http://bafkreieoagxmj5ssouxuk7vuolq72npprkvd5vp6s3mnk2f6xztz73dayy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "a9d437c88ade222d1cff3ea572212a1917fec939036ea1a6da8e5f4857999d88",
+        "Brand": "Park National Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://gattaranmis.com/index.html"
+    },
+    {
+        "Folder Hash": "e27377a39368ab6ec8bb1d4e7e5b50fc8caf25919074f3bddef7ce617ef35273",
+        "Brand": "OpenSea",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://opensea-nft.eu.org/1OTlqMGo3qAIAsAIA.htm"
+    },
+    {
+        "Folder Hash": "e5a9aec7b156e79a429c9596cf78f718ff0e346a555ae6b20a7d98e4994e712b",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://pub-9d425aa9335c4307a502c0721d499bdd.r2.dev/7MSoutlook4.html?/cpsess0355843576/frontend/jupiter/filemanager/editit.htmlfile=send.php&fileop=&dir=/home/fishvoez/public_html&dirop=&charset=&file_charset=utf-8&baseurl=&basedir=&edit=1"
+    }
+]

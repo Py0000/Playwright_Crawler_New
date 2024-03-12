@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://zksfechaduras.com.br/huyeambnaduiyadmbnasiuasmnad798iqenmas87/dcfo/"
+    },
+    {
+        "Folder Hash": "3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed at the top of the page. The overall design and layout of the page is consistent with Microsoft's branding guidelines. The page also contains links to other Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu"
+    },
+    {
+        "Folder Hash": "8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://clement-lotus-mollick.github.io/Netflix-Clone-FC/"
+    },
+    {
+        "Folder Hash": "ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c",
+        "Brand": "Baidu",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://www.bilibili.com/"
+    },
+    {
+        "Folder Hash": "cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://www.ff.members.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    },
+    {
+        "Folder Hash": "cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "LLAMAR, Iniciar sesi\u00f3n",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo and trademark. It also has fields asking for user credentials such as email and password. Additionally, there is a call-to-action button that says \"LLAMAR\" and \"Iniciar sesi\u00f3n\".",
+        "Url": "http://www.netflix.ayuda-telefonica.com/"
+    },
+    {
+        "Folder Hash": "daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://sakshishakya.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3",
+        "Brand": "Dynamic Home Buyers",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Email Address, Phone Number",
+        "List of Call-To-Actions": "Contact Us, Get a Free Offer",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo and branding of Dynamic Home Buyers. It also has a form that asks for user credentials such as full name, email address, and phone number. Additionally, it has a call-to-action button that says \"Contact Us\" and \"Get a Free Offer\".",
+        "Url": "https://www.sellmyhomefastohio.com/"
+    }
+]

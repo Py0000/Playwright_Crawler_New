@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "050ba2177abe312113ab42590e8dad439cb059abb099ca872bf7b57ec09aef1b",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.santanderprivate.co.uk/"
+    },
+    {
+        "Folder Hash": "1768703dbb0c07039402d025dd3393a2a941c884637542aa84bf30a39cac6d8a",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Instagram logo and branding. It also has fields asking for sensitive user credentials such as username and password. Additionally, there is a call-to-action button that says \"Login\".",
+        "Url": "https://businessforcopyrightsupport.com/help-team/"
+    },
+    {
+        "Folder Hash": "2f668765889071c402d37caa442e0d10359bb1b9cbdbc8cb40c2ab492deabdaf",
+        "Brand": "Handmade Arcade",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Search Website, Subscribe, Contact, Donate",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Handmade Arcade logo at the top left corner. The footer also contains the Handmade Arcade logo, along with copyright information. The \"Contact\" link in the footer leads to a page with a contact form that includes fields for name, email, and message. The \"Subscribe\" button in the footer leads to a page with a form that includes fields for first name, last name, and email.",
+        "Url": "https://www.handmadearcade.org/wp-content/plugins/page/sunrise/sunrise"
+    },
+    {
+        "Folder Hash": "3ded60b24f882cb05bf1145bc111a25ebaa90f9bc48642add5d8aae98d8312a1",
+        "Brand": "Tesco Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Sign Up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Tesco Bank logo on the top left corner. The page also has the words \"Tesco Bank\" on the top left corner. The page has fields asking for sensitive user credentials such as username and password. The page has call-to-action elements such as \"Login\" and \"Sign Up\".",
+        "Url": "https://deserted-topaz-moss.glitch.me/public/oriba.html"
+    },
+    {
+        "Folder Hash": "3f45e707db1f3780563f784c671cf7cea7ff3d8abb43f277f29e70108ae3e13a",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://st-gift.ru/gift33096"
+    },
+    {
+        "Folder Hash": "65f7111d70bf88c318910261d3880a0c89ea84a6e37779eb6ee3025267caed59",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://rajkumarthakur88.github.io/NetFlix-Home-Page/"
+    },
+    {
+        "Folder Hash": "ad19fe539994a2ccb72e07f621854609fd400973d77d5d17309c61e23c6aad53",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://fgdgfdsgsfgfsfg.surveysparrow.com/s/classical-home/tt-pYheASAKywJaDkHTovweQ4"
+    },
+    {
+        "Folder Hash": "c18d18a03e152571f9ec94f741855a2bd6ea1817572607477f8f6fa7d6fda556",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed in the header of the webpage. The overall design and layout of the webpage is consistent with Microsoft's branding guidelines. The products and services featured on the webpage are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "d52ce70470b6910fd83b2b3b7bf80f0ad2f18ca8faca12ba37a91b75eae7d3f9",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Email Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Wells Fargo logo, which is a clear indication of the brand. Additionally, the page has a number of security features, such as the request for email verification, which is consistent with Wells Fargo's commitment to security.",
+        "Url": "https://pub-cc09a92ea2d24879b5e0d1bbd3b85fa5.r2.dev/emailerror.htm"
+    },
+    {
+        "Folder Hash": "e029e9f5867cf79dc5f25de8ab0cb9cb5898c87bf01df9346d79bc52299a3e94",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://madhurima-das01.github.io/Netflix-clone.github.io/"
+    }
+]
