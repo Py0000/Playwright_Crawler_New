@@ -1,0 +1,102 @@
+[
+    {
+        "Folder Hash": "1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding prominently displayed at the top. The page also has links to the Telegram app and website. The overall design and layout of the page is consistent with Telegram's branding."
+    },
+    {
+        "Folder Hash": "1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53",
+        "Brand": "Libero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a",
+        "Brand": "Videotron",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b",
+        "Brand": "Trust Wallet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding prominently displayed at the top. The overall design and layout of the webpage is consistent with Telegram's branding guidelines. The content on the webpage is also related to Telegram's services and features."
+    },
+    {
+        "Folder Hash": "4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Webmail\" on the top left corner, which is a common branding technique. The page also has a login form with fields for username and password, which are common user credentials. Additionally, there is a \"Sign In\" button, which is a common call-to-action."
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Coinbase Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Coinbase logo and branding. The Coinbase logo is clearly visible at the top left corner of the webpage. The page also has Coinbase branding on the title \"Get Coinbase Wallet\"."
+    },
+    {
+        "Folder Hash": "834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2",
+        "Brand": "365bet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of 365bet, which is a well-known online gambling brand. The webpage also has fields asking for user credentials such as username and password. There are also call-to-action buttons such as Register and Login."
+    },
+    {
+        "Folder Hash": "fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d",
+        "Brand": "Bank of Ireland",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, Date of Birth, Phone Number",
+        "List of Call-To-Actions": "Continue, Forgot User ID",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Bank of Ireland logo and branding. It also has a login form with fields for sensitive user credentials such as username, password, date of birth, and phone number. There is a call-to-action button labeled \"Continue\" and a link labeled \"Forgot User ID\"."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the logo of PUBG Mobile, which is a battle royale game developed by Krafton Inc. The screenshot also shows the words \"Take the Road to Victory\" and \"Get Exclusive Items Now\", which are likely to be part of a marketing campaign for the game. The screenshot also shows a number of social media icons, which suggests that the game is active on social media."
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the AT&T logo at the bottom. The page also has fields asking for email and password, which are sensitive user credentials. There is a \"Sign In\" button, which is a call-to-action element."
+    },
+    {
+        "Folder Hash": "8367d843344f32ddf9b77e6f2c55b26d1a7c0298d61f1348cc15bef4759e90da",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Microsoft logo at the top left corner and the words \"Microsoft Surface\" in the middle. The overall design and layout of the webpage is consistent with other Microsoft webpages."
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand's logo and logotype is clearly visible at the top of the page. The login page also has the branding of Instagram."
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo of Microsoft. The webpage is asking for user credentials such as username and password. The webpage has a call-to-action button that says \"Sign in\"."
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "Hubstaff",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Hubstaff logo on the top left corner. The login form has fields for email address and password, and a \"Login\" button."
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Claim Instantly",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the words \"Axis Bank\" in the top left corner and the words \"Axis Bank MY ZONE Credit Card\" in the top right corner. The page also has the logos of Amazon Pay and Visa. The page is likely to be a webpage of Axis Bank."
+    }
+]

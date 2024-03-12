@@ -1,0 +1,102 @@
+[
+    {
+        "Folder Hash": "318cd96aa99863e47744fe2a14e6e1923b15c15ecfcca741ff85fc9350650ae6",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding prominently displayed at the top. The background also has a subtle watermark of the Telegram logo. The page showcases the features of Telegram."
+    },
+    {
+        "Folder Hash": "5ed6bc379e46f1a6d48070277c68e577a49fb7d8332a33d224124e4ccdf94428",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand logo \"PUBG Mobile\" is clearly visible at the top center of the webpage. The screenshot also features the game's characters, weapons, and other in-game items. The call-to-action buttons are also consistent with the game's branding."
+    },
+    {
+        "Folder Hash": "795cbfea27e52f9014ee76650f13a5cb89648d2f5dcd89d0f3f638fdd0e84997",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Pre-order now, Buy now, Start your free trial, Explore Al solutions",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo, and the words \"Microsoft 365\" are visible at the top of the page. The page also has a number of fields asking for user credentials, including email address and password. Additionally, there are several call-to-action buttons on the page, including \"Pre-order now\", \"Buy now\", \"Start your free trial\", and \"Explore AI solutions\"."
+    },
+    {
+        "Folder Hash": "8ebb62e318e8c7165ae24fe9f8b44fef3a1d67a8bbbfa94c687760263bd618c9",
+        "Brand": "Shopee",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has the Shopee logo, which is a prominent e-commerce platform in Southeast Asia. The page also has fields asking for user credentials such as phone number/username/email, and password. There are also call-to-action buttons such as \"Log In\", \"Forgot Password\", \"Log In with Phone Number\", \"Facebook\", \"Google\", and \"Sign Up\"."
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "af430ef89e0d3c0ed9762591c97acef6e187bde52da3a38edd4f36115b73bbb8",
+        "Brand": "Banco Bradesco",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Banco Bradesco, which is a Brazilian bank. The page also has a form asking for user credentials, such as CPF, e-mail, and password. Additionally, there are call-to-action buttons, such as \"Solicitar informa\u00e7\u00f5es\" and \"Acessar conta-corrente\"."
+    },
+    {
+        "Folder Hash": "bf7f1b582945e4ef1f842b97d83f2913ca38948fdb7cb837b5b910c7a26e158e",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "c23d392e973b20179f7e7ab5775a39c1222becf06d71e370e7b3aa4bce8856c2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "d3995faa33bac11bd44ddc9fe904fe0366266197c86fcc47736c51806863b112",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Microsoft logo and branding prominently displayed at the top. The page is also using the Microsoft-specific fonts and color scheme. The overall design and layout of the page is consistent with other Microsoft webpages."
+    },
+    {
+        "Folder Hash": "ee2a45354b1ff2bb8eba1e92e38b17752144166d7b350ded1170e717a990e873",
+        "Brand": "PUBG Arena",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "Sign Up, Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the PUBG Arena logo at the top left corner. The page has fields asking for user credentials such as email, username, and password. There are also call-to-action buttons such as \"Sign Up\" and \"Log In\"."
+    }
+]
