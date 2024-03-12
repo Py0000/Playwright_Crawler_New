@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "039a5c6bb048f5f67d48870f8d22e955152657284a4a88ce04abab2d88865f3e",
+        "Brand": "Raiffeisen Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "071970528ecbea8bf393d644c803563cfc663af1107d9e5ec2d2ffab305c66a8",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "1aee5d2661551cd8af9159ff0bcfe8a7f682fce3d5231069a7ea5a5d71f4efbf",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "539e5117f9dba194cbffe6f54f9b1eb80e63ef4fef7ef81159cbacb13758704b",
+        "Brand": "Raiffeisen Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "First name, Last name, Date of birth, Country, City, Postal code, Phone number",
+        "List of Call-To-Actions": "WEITER (Continue)",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Raiffeisen Bank. The page is asking for personal information such as first name, last name, date of birth, country, city, postal code, and phone number. There is a call-to-action button that says \"WEITER\" (Continue)."
+    },
+    {
+        "Folder Hash": "6b20936058c6e0d9c4fe89fa7d80898ff11ac787ca2d0b1b56e59addc67d4d67",
+        "Brand": "NetZero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the NetZero logo and branding. It also has fields asking for user credentials such as email address and password, and a call-to-action button that says \"Sign In\"."
+    },
+    {
+        "Folder Hash": "6c7bb398eed5bf999ab68d9756dd9c3f0eb99ccd0f1e92bf5a6a503729491b23",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose Your Microsoft 365, Shop for Students, Shop for Business, Sign up for free, Get it today",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of the Microsoft website. The Microsoft logo is clearly visible in the top left corner of the page. The page is selling Microsoft products, such as the Xbox Series X, Surface Laptop Studio 2, and Microsoft 365. The call-to-action buttons are all related to purchasing Microsoft products."
+    },
+    {
+        "Folder Hash": "73b6943837da35b8b1908a7dfc8c3af40138fb24cbe463d72233cbbb51508ec6",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "b64ef9ef4778bf022bf1f80323fbfe10bd9338a226b169093cd61ffbd715571c",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "b8ffbd64dfa99d3e37956e203094c742345d6452375bbdcc465cf00499a87970",
+        "Brand": "BNP Paribas",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "VALIDER, ANNULER",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of BNP Paribas. The BNP Paribas logo is clearly visible in the top left corner of the page. The page also has fields asking for the user's username and password. There are two call-to-action buttons on the page: \"VALIDER\" and \"ANNULER\"."
+    },
+    {
+        "Folder Hash": "cb8de0eb3aa49fb382799d2d4457e838b4bd036dfbf8b9c4ed64147fecbe952e",
+        "Brand": "bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "da9b8f6bdc3e88e6e63acd994af58d87a965a27d92931bd273a8d9a3c4ec0447",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    }
+]

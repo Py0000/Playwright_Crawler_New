@@ -1,0 +1,102 @@
+[
+    {
+        "Folder Hash": "071970528ecbea8bf393d644c803563cfc663af1107d9e5ec2d2ffab305c66a8",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred"
+    },
+    {
+        "Folder Hash": "14516ca57b3f04f2cf0de8b79afa686c6a7db04ce1486d64503a590763d2b381",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "GO NOW, LOGIN",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the AT&T logo and branding. It also has a login form asking for a username and password. The call-to-action button says \"GO NOW\" and \"LOGIN\"."
+    },
+    {
+        "Folder Hash": "50fe90344030b5bd8024772c7e7f81d53ab41f035fd2f5c9fff0a97443fbaf23",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "6c35b11c0d7feff5f0640ce93a5d2f00ad47665f405dd4a76d15f1e6eda7bfa7",
+        "Brand": "Serasa",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Serasa, which is a Brazilian credit bureau. The page also has fields asking for user credentials, such as name and CPF (tax identification number), and a button labeled \"Consultar CPF\" (Check CPF). Additionally, there is a call-to-action button labeled \"Buscar Acordo\" (Search for Agreement), which suggests that the user may be able to negotiate a payment plan with their creditors."
+    },
+    {
+        "Folder Hash": "804e1eda5b99ca5a7eab156124b8429e736558b903c7fcb988d3537130c1fd94",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "85152f0c34ee42acb322c66e2096035e6b5ad73dd7f0148276d0e0f2daae91d7",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "a71ba57a8a308c7a5f1679925d22ef2bb10b1e0229dadfa525e0e7a2d3bd89cb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now, Learn more, Buy now, See all offers, Sign up free, Download Visual Studio 2022, Get it today",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed in the header and footer of the webpage. The overall design and layout of the webpage is consistent with Microsoft's branding guidelines."
+    },
+    {
+        "Folder Hash": "b81e83eb5a6015fd92e5fd9ede8df618fd9f5a95969ccb28dbfff21a4b16fceb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "f58f2809ed7aaf27e59d90eeb5077871133d1e49663b398af662a0290aeeddc3",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage's color scheme, logo, and overall design are consistent with DHL's branding. The presence of DHL's logo and branding throughout the screenshot further confirms that this is a DHL webpage."
+    }
+]

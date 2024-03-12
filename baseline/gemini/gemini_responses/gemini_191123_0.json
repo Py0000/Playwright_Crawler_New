@@ -1,0 +1,102 @@
+[
+    {
+        "Folder Hash": "059cafdf56fb56d6e5ae60278e19d2fee87b003e15c42864b6496ec48a09bef2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "1992e1de0502bdc3bcd230ee8821ff8c73c58a452234ba76f37b889055c1a7cf",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "1e1f183cea2f34afd55ad72514aa6792c3a2f69730571fe2482458fa73a4ca3e",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the AT&T logo and branding. It also has fields asking for user credentials and a call-to-action button that says \"Sign In\"."
+    },
+    {
+        "Folder Hash": "2476d4fb0fe5142fa2542a61dd5c2f5c26b9ce0bede0b3c24d4e5acf5633515a",
+        "Brand": "Instagram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Instagram logo and the words \"from Meta\". This is a strong indication that the brand is Instagram. There are no fields asking for user credentials or any call-to-action buttons/links."
+    },
+    {
+        "Folder Hash": "411145294a15999152c4aa2def8f377501ac83864034b0a2e723f6ddfa82c2f9",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Country",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and the word \"Telegram\" on it. The page also has fields asking for the user's phone number and country. There is a \"Next\" button that is likely used to submit the user's information."
+    },
+    {
+        "Folder Hash": "53253947b718f1871205a248af19ee1099f14944e62296d69fb0c501a7bea4d1",
+        "Brand": "Washington State Government",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Washington State Government. It is asking for password, which is a sensitive user credential. It also has a call-to-action button \"Sign in\"."
+    },
+    {
+        "Folder Hash": "985bc75d0a8373aecca35f9e99e7ab5b59d9050da7f5faae8150e0602f7bc9f2",
+        "Brand": "BT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "b19c92ddf0a58eb0af2bcdcf1ddc1ab251fee8ac674f2b75e231e21a468c81ff",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the AT&T logo and branding. It also has fields asking for username and password, which are sensitive user credentials. Additionally, there is a call-to-action button that says \"Continue\"."
+    },
+    {
+        "Folder Hash": "bf311703f6460d29eabe2a42b9bab2583e46ac2eee458f898514d95d59b93b65",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. The page is asking for user credentials such as name, address, and phone number. It is also asking for sensitive information such as SSN. There are call-to-action buttons such as \"Next\" and \"Apply Coupon\"."
+    },
+    {
+        "Folder Hash": "ed70e8e50c1b5d17b349d1b662c8e7b938a275ed9be41f15b5798762bf25b022",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Phone number",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and the words \"Telegram\" and \"a new era of messaging\" on it. The page also has fields asking for a phone number."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "Folder Hash": "0a803bc306dfb97eceec30a382a69bee6174004adf1b76482ad1bdea0d096824",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "27716752b897ff63221e9064d11300ec3122455d9efa2a714bb2130e790c8e3a",
+        "Brand": "First Financial Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of First Financial Bank. The page also has the words \"Your account information have been successfully verified. Please click on the sign in button below to login.\" This indicates that the webpage is a login page for First Financial Bank."
+    },
+    {
+        "Folder Hash": "406cdf1183eaa1c92c061d5ce7ac6f2744f73069acd847ce91b5f41e7703e3b3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Password",
+        "List of Call-To-Actions": "Log In, Create New Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. It also has fields asking for user credentials such as phone number and password. Additionally, it has call-to-action elements such as \"Log In\" and \"Create New Account\"."
+    },
+    {
+        "Folder Hash": "69b52bc74d554b4ecc25b853197f39fe32700768875e8975acf01cb3e6b8720d",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Activer, Appelez-moi ou voyons nous a l'agence pour en discuter",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The Credit Agricole logo is clearly visible in the top left corner of the webpage. The screenshot also contains a number of other elements that are consistent with the Credit Agricole brand, such as the green and blue color scheme and the use of the same font. Additionally, the screenshot contains a number of fields asking for user credentials, such as username and password. This is consistent with the fact that Credit Agricole is a bank and would need to collect this information in order to provide its services. Finally, the screenshot contains a number of call-to-action elements, such as the \"Activer\" button. This is consistent with the fact that Credit Agricole would want to encourage users to take action, such as activating their accounts."
+    },
+    {
+        "Folder Hash": "74ef921a602a3f5c5cd80ae41948e5e17702974060d6cdb1bc769d774b9485dd",
+        "Brand": "CVS Health",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign On",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a CVS Health logo at the top. There are two fields asking for user credentials, specifically email and password. There is a call-to-action button that says \"Sign On\"."
+    },
+    {
+        "Folder Hash": "79433408fa3d0788dcecb66ef7c23db6c5d532231240a835fbae3565f8fe92e1",
+        "Brand": "myGov",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "7f7f2a8823c26ef999fa286173c653c4afdc65497ee3d3ded7011a71603c7dfb",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "c96f2c6cc04fbdb0a2c2a31ceabb1acb72ba80fe7c2ee8cb36c00f9d3123fbcb",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "dec220c28a735ebf48e95ce79dff38a583630d2c0268104851b385912386161d",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Search",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Netflix logo at the top right corner. The page also has the words \"Just another WordPress site\" below the logo. The page has a search bar with a button that says \"Search\". The page also has a section for recent posts and recent comments."
+    },
+    {
+        "Folder Hash": "f2decee51d9eeeb97312e59052df929f8752b80ffbadbcb26705271c57f986b8",
+        "Brand": "Idaho Central Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, password",
+        "List of Call-To-Actions": "Log In, Go to mobile site, Download on the App Store, Get it on Google Play",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is clearly visible at the top-left corner of the webpage. The page also has fields asking for user credentials, such as email address and password. Additionally, there are call-to-action elements, such as \"Log In\" and \"Go to mobile site\"."
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "Folder Hash": "06577e85ba18ef4cff7bd9a369b710a5dc8b2030992cd8903b0e81cd740ec17f",
+        "Brand": "Skat.dk",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPR-number",
+        "List of Call-To-Actions": "Forts\u00e6t, V\u00e6lg en anden login-type, Bestil ny TastSelv-kode",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Skat.dk, which is the Danish tax authority. The page is asking for the user's CPR number, which is a Danish personal identification number. This information is used to log in to the Skat.dk website. The page also has a call-to-action button that says \"Forts\u00e6t\" (Continue). This button is used to submit the user's CPR number and log in to the website."
+    },
+    {
+        "Folder Hash": "19063c2a9c8014dab7fb571c3bb74948fd42a6eeb9faa9eae4c48a766aabddf0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "1c2b996e5f4670be1c3afd40f3f60030c082f688a7771123fcaffaa1bfd5d232",
+        "Brand": "DocuSign",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "5252961c958214b41129b9e152aa622926b14d4ab8c41b817a393de71435739f",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage has a dark theme with a black background and white text. The main feature is a form that asks for user credentials. The form has three fields: username, email, and password. There is a \"Remember me\" checkbox below the password field. The form has a blue \"Sign in\" button. The webpage does not have any logos or trademarks that would indicate the brand."
+    },
+    {
+        "Folder Hash": "5de65c58800342fe00346912a98d262bb3d5396cbc5d016a9f1f66d193009bf5",
+        "Brand": "DocuSign",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "79d7c3abdfc66bd28bfb36f3a0c69f4ba5600207dc62693f8196929543da2540",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "8c340d59563cfab5558c149dff976b8839cc36bf9ea65f54104ed635cd1965eb",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "94384aebc536f4fdaa4e01806dc2549f23dc1f806d7c659600aefc39b423ea78",
+        "Brand": "Meta (Facebook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "9ff57ffe4d1de67efdad1507613d0dfea4ad0b8067bb495a8a1ea3743a884d9f",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Zimbra, which is a collaboration and messaging software. The page also has fields asking for user credentials such as username and password. Additionally, there is a call-to-action button that says \"Sign In\"."
+    }
+]

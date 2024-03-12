@@ -1,0 +1,92 @@
+[
+    {
+        "Folder Hash": "002d11ef2b0ae2ad18243d649760709de8652dc07481e8112564690cad169e15",
+        "Brand": "Mail Server Authenticator",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "529576da61ace61d0b21a5c79b16af9635a5b4516399786999bd55d0e581b1d7",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. It also has fields asking for user credentials such as email or phone number and password. Additionally, there are call-to-action elements such as \"Log In\", \"Create New Account\", and \"Forgot Password?\"."
+    },
+    {
+        "Folder Hash": "613ce80e7a9715a041d192008d5316f13917a2221c57ac75b3c61a3457311dc7",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Facebook logo and the text \"Facebook\" in the title bar. The page also has fields asking for user credentials, such as email and password, and a call-to-action button that says \"Log In\"."
+    },
+    {
+        "Folder Hash": "8ba3e2dd2bcfe19372d8baa4cb436907deff2324ba932b20a33e03e7e834eae3",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "b5a7a6d49a07d61e8a7b5ec298876dee232da785d889da5757e664eab82c9d10",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Telegram logo at the top left corner. The title of the page is \"Telegram\" and the page is asking the user if they are over 18. The call-to-action buttons are \"Yes\" and \"No\"."
+    },
+    {
+        "Folder Hash": "be2af9d85a6464aa6a7add1b0849e35e587251459bb5e68e61793c9856cbed9c",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "c5ec3997918ae64a1bb52a528a435512da567651017a457f7e724a209b7b343a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "ca01d76f887d9244a7db78b192ea9aa73c8fad66d2bf0afe5022ced99e185810",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "d390545ea6ce0b5fe699bfcd33af0b7b32bfd8c578d7cdf67f552239d17472a3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. It also has fields asking for user credentials such as phone number or email and password. Additionally, it has call-to-action buttons such as \"Log In\" and \"Create New Account\"."
+    }
+]

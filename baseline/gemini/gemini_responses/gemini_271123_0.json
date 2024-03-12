@@ -1,0 +1,102 @@
+[
+    {
+        "Folder Hash": "164ad949f9595380059658035fdc02fbaf46e833d5e6a017297391509709b3cb",
+        "Brand": "Tasuri Automotive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Name, Address",
+        "List of Call-To-Actions": "Buy Now, Add to Cart, Contact Us",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Tasuri Automotive logo at the top left corner. The logo is a stylized image of a car with the words \"Tasuri Automotive\" below it. The webpage also has a number of other features that are consistent with the Tasuri Automotive brand, such as the use of the same color scheme and fonts. Additionally, the webpage is selling products that are manufactured by Tasuri Automotive."
+    },
+    {
+        "Folder Hash": "19ae88c673d1b61b7e5df50961ab9e6a8b7f0b532558125fd4b81cc9818933cf",
+        "Brand": "Banpro Grupo Promerica",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Sign Up",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has the logo of Banpro Grupo Promerica at the top left corner. The login form has fields for username and password. There is a call-to-action button that says \"Login\". There is also a link that says \"Sign Up\" which is a call-to-action as well."
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "KSB",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "31c40fdd6f2f7007261f3cf59f7d4d1b3f3d3a306a031b3e5fb8ff85ea8c8028",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Microsoft logo, trademark, and branding prominently displayed at the top left corner of the webpage. The overall design, layout, and typography of the webpage are consistent with Microsoft's branding guidelines. The products and services featured on the webpage are all Microsoft products and services."
+    },
+    {
+        "Folder Hash": "8596686c03d764958db74627678de987a7b5b3ed0490ec0b63b32c0d8374a54e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "a4ad70fbd111247f286b1364997a9099527e0e1348b8a070073b27d79abfbdeb",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": ""
+    },
+    {
+        "Folder Hash": "c0a0edcd380a5c918c884cbd8de521c702eda077dac81d0ec9d92b519ee3d409",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of the Microsoft website. The Microsoft logo is visible in the top left corner of the page. The page is selling Microsoft products, such as the Xbox Series S, Surface Laptop 5, and Microsoft 365. The call-to-action buttons are \"Shop Now\", \"Buy Now\", \"Shop for Surface devices\", \"Buy Xbox games and consoles\", \"Choose your Microsoft 365\", \"Shop for students\", \"Shop for business\", \"Sign up for free\", \"Get it now\", \"Download Visual Studio 2022\", and \"Welcome to your Windows 365 Cloud PC\"."
+    },
+    {
+        "Folder Hash": "c40c09de4d38419a8dcef0dc13d33ad07bcf21bacd6df5984b58616b1fee3c8e",
+        "Brand": "Suncoast Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Member Number, Password",
+        "List of Call-To-Actions": "LOGIN, Join Now",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has the logo of Suncoast Credit Union at the top left corner. The page also has the words \"Suncoast Credit Union\" at the top of the page. The page has fields asking for user credentials such as member number and password. The page also has a call-to-action button that says \"LOGIN\"."
+    },
+    {
+        "Folder Hash": "e9e9b5de6eda512206beb1f71d65125b14ce947010dcf5def32e0597f091f56e",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Check Rates, Learn More, Apply Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Wells Fargo logo and branding. The page also has a login form with fields for username and password, as well as a call-to-action button that says \"Login\". The page also has a call-to-action button that says \"Check Rates\" and \"Learn More\". The page also has a call-to-action button that says \"Apply Now\"."
+    },
+    {
+        "Folder Hash": "f52a5a4a2e5c8da13499aaafe8a4df46e38baadac1abb724e8c183a9a47b38ef",
+        "Brand": "Gazprombank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number, passport details, address, employment details, income details, bank account details",
+        "List of Call-To-Actions": "Register, Apply Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the logo of Gazprombank, a Russian bank. The page is asking for user credentials, such as email, phone number, passport details, address, employment details, income details, and bank account details. The page also has a call-to-action button that says \"Register\"."
+    }
+]
