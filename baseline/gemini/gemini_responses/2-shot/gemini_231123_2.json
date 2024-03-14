@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "071970528ecbea8bf393d644c803563cfc663af1107d9e5ec2d2ffab305c66a8",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The word \"Webmail\" is seen at the top of the login box. The screenshot also shows fields for email and password, as well as a \"Remember Me\" checkbox and a \"Login\" button.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihsef3pq3bpqawvkhspixapw2iejwrnsuiw3aq4r7fuwrhmur6age"
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect Wallet",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is shown on the top left corner. There is a button that says \"Connect Wallet\" on the center of the page.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "14516ca57b3f04f2cf0de8b79afa686c6a7db04ce1486d64503a590763d2b381",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "LOGIN",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The wordmark \"yahoo\" is seen on the screenshot, alongside the logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://5567879798.weebly.com/"
+    },
+    {
+        "Folder Hash": "50fe90344030b5bd8024772c7e7f81d53ab41f035fd2f5c9fff0a97443fbaf23",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "View Photos",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Google logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "http://nixolindumentaria.com/kkdv5yI6H6AVxLWFmZxl/d2Ovms1MCtLj74XqzoeOucdrREd29hTrHqFvZtzBdP4blOPJB1m86fP/"
+    },
+    {
+        "Folder Hash": "6c35b11c0d7feff5f0640ce93a5d2f00ad47665f405dd4a76d15f1e6eda7bfa7",
+        "Brand": "Serasa",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Consultar CPF, Buscar Acordo",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Serasa is clearly visible at the top of the page. The page has a form where users can enter their CPF number to check their credit score. The page also has a button that says \"Buscar Acordo\", which suggests that users can use the website to find a loan or other financial product.",
+        "Url": "https://arrastaolimpanome.online/"
+    },
+    {
+        "Folder Hash": "804e1eda5b99ca5a7eab156124b8429e736558b903c7fcb988d3537130c1fd94",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone, Skype",
+        "List of Call-To-Actions": "Next, Create One, Sign-in options",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has a Microsoft logo. The presence of fields asking for credentials such as email, phone, and Skype, and call-to-action elements such as Next, Create One, and Sign-in options further indicates that this is a Microsoft login page.",
+        "Url": "https://microsoftsupport.be/fr/demandez/?email=3mail@b.c&secret=CD83a3pTxgh5pujSMIwZjNIAJk0uOa8oXDyi"
+    },
+    {
+        "Folder Hash": "85152f0c34ee42acb322c66e2096035e6b5ad73dd7f0148276d0e0f2daae91d7",
+        "Brand": "Metamask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Create New Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Metamask logo is clearly visible in the top left corner of the screenshot. The screenshot also shows a set of credentials fields and two buttons, one of which says \"Login\" and the other says \"Create New Account\".",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "a71ba57a8a308c7a5f1679925d22ef2bb10b1e0229dadfa525e0e7a2d3bd89cb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose, Shop for Students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot is a product landing page for Microsoft's Black Friday sale. The page features a large banner with the words \"Black Friday Sale\" and a smaller banner with the words \"Save up to 54% on Surface devices.\" The page also features a number of product images and links to purchase those products. The Microsoft logo is present in the top left corner of the page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b81e83eb5a6015fd92e5fd9ede8df618fd9f5a95969ccb28dbfff21a4b16fceb",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "There is a Microsoft logo on the top right corner. The screenshot shows a page requesting for email credential with a \"Next\" button below.",
+        "Url": "http://www.zksfechaduras.com.br/hjad%20naduyhdamdayajmadsnyad/dcfo/"
+    },
+    {
+        "Folder Hash": "f58f2809ed7aaf27e59d90eeb5077871133d1e49663b398af662a0290aeeddc3",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible in the top-left corner. The page is consistent with DHL's branding. The screenshot is of a DHL tracking page.",
+        "Url": "https://whoyster-adelehool079770.codeanyapp.com/wp-content/uploads/NETDH7748/"
+    }
+]

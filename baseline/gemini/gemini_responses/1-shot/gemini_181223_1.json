@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "001c4940ddcc0c4dc4aa6ec299a9f25f02973575e071f645aef3cf6ef84a5203",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a grid of logos, one of which is Coinbase's. Coinbase is a cryptocurrency exchange, and the logos displayed are all of cryptocurrencies and related companies.",
+        "Url": "https://dapp.noderepository.xyz/"
+    },
+    {
+        "Folder Hash": "05c3053688c11ff410afd20bde88486bea076293d638a46f52bb85304b1b484a",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Log In, Create new account, Create a Page",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Facebook\" is clearly visible at the top of the page. The screenshot also includes a login form with fields for email address and password, as well as a call-to-action button labeled \"Log In\". Additionally, there is a link to create a new account and a link to create a page for a celebrity, brand, or business.",
+        "Url": "https://shiiivani.github.io/facebook-clone/Signin"
+    },
+    {
+        "Folder Hash": "1a5eb259e3acbd1df71255392e70e0c490dbd83cfac56c955b3188c559307ee5",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Purchase, Redeem, Shop, Events",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo and the words \"PUBG Mobile\" at the top of the page. The page also has a green button that says \"Purchase\" and a blue button that says \"Redeem\". These are both call-to-action buttons. The screenshot also shows a list of items that can be purchased in the game.",
+        "Url": "https://djs2.krafton-news.com/"
+    },
+    {
+        "Folder Hash": "2941b5ee70e6663efef41c2bc6ba66b3306f66a6170dd18f0a14e77dec7c2931",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a WhatsApp chat. The green color scheme, the logo, the presence of a chat bubble, and the call icon are all distinctive features of WhatsApp.",
+        "Url": "http://grub-whatsapptouugif.website-x.my.id/vhsfhqpdhdsih6/"
+    },
+    {
+        "Folder Hash": "34bfe5f97619f25f1539d4624550042c51ccef178915aca43866ed16b2cbc27a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of the Microsoft Store. The Microsoft Store is a website where users can buy products and services from Microsoft. The screenshot shows the home page of the Microsoft Store. The home page features a carousel of products and services, as well as a list of categories. The screenshot also shows the navigation bar at the top of the page, which includes links to different sections of the Microsoft Store.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4366a2fd2d515108801071fe22f7e2d93c4ae97ac0464521081cf0c748b692d6",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo on the top left corner. The page also has a red button that says \"Get Started\". The page is likely a landing page for Netflix, where users can sign up for a new account or log in to an existing account.",
+        "Url": "https://vigneshsugumaran30.github.io/net/"
+    },
+    {
+        "Folder Hash": "4ef7f475e7dcc3e39cd8b0f6fea79bde51f5ff178334c6efc6d47b8e69283a81",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Contact us",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Orange is present on the top left corner of the webpage. The screenshot also contains fields asking for user credentials such as email and password. Additionally, there is a \"Contact us\" button which is a call-to-action element.",
+        "Url": "https://lemedab246.wixsite.com/my-site/"
+    },
+    {
+        "Folder Hash": "5c1e2ee2058f106e6b32e5551bd271605993196c4e6bbd712d0c953351f1f4e2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Add to Cart",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Microsoft Store\". The page is selling products. There are buttons that say \"Shop Now\", \"See Price\", \"Buy Now\", and \"Add to Cart\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "6bdb075decab6bc1d6b14cc2939d8e7071325af91f39668d5243713df7fc9d32",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started >",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Netflix logo and the words \"Netflix\" and \"Sign In\" on the page. There is also a field asking for an email address.",
+        "Url": "https://asimnizam1.github.io/net-flix/"
+    },
+    {
+        "Folder Hash": "7a25d13df82e4a7a2a69219cbb67c0239a3962a34ecde119b03900c4985672f8",
+        "Brand": "PayPal",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More, View Invoice, Sign Up, Apply Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the words \"PayPal\" and \"PayPayl Cashback Mastercard\" on it. The colors used in the screenshot are consistent with PayPal's branding.",
+        "Url": "https://e.synchronyfinancial.com/H/2/v70000018c72c74158a784eaf4bbcf6cc0/d119b3a0-025c-41a2-bb54-ea3c4cc4bcc7/HTML/"
+    },
+    {
+        "Folder Hash": "97c3f473a71eab374d6f279ff0b82d0feabb0ecb8611b735ab58210d8e7c0907",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Discord\" is prominent at the top-left corner of the webpage. The page also contains a large banner with the text \"Imagine a Place...\", which is likely a slogan or tagline for Discord. The page also has a number of other features that are consistent with the Discord brand, such as the use of the Discord logo and the Discord color scheme.",
+        "Url": "http://server-discord.ggchat.com.cn/"
+    },
+    {
+        "Folder Hash": "99b66781d5b7edc07bdc48c5056e2ef1f1c51edc7ceaca61cd59666682e594eb",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Netflix logo and branding. It has fields asking for email address and a button that says \"Get Started\".",
+        "Url": "https://arsvzero.github.io/Project-Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "9ab4fa1c959bf3be3169b507f370cfea8b95f4be7e203376e497d1e8b1c5bc37",
+        "Brand": "Timeweb",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Order, Control panel, VDS, Register domain, Hosting, Create website",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Timeweb is present on the top right corner of the webpage. The buttons \"Order\", \"Control panel\", \"VDS\", \"Register domain\", \"Hosting\", \"Create website\" are all call-to-action elements.",
+        "Url": "https://premium60.timeweb.ru/blocked/?ref=cu34756.tw1.ru"
+    },
+    {
+        "Folder Hash": "be34b6cca5a7af4be027c7c1de33b2d52c6a6e16deed92d1c06f492e35e1cce5",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Claim Instantly",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Axis Bank is clearly visible on the screenshot. The page also has the words \"Congratulations\" and \"Welcome benefit of Amazon Pay E-Gift Card worth \u20b9500\". Also, there is a button that says \"Unlock Benefit\" and \"Claim Instantly\" which is indicative of a call-to-action button.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    },
+    {
+        "Folder Hash": "cb9914adde0ecaf6abafdc49413e594ac80031e387ea1be1a14c32d2d2b737c0",
+        "Brand": "Steam",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Yes, 2 buttons - \"Yes\" and \"No, thanks\"",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Steam logo and branding. The page is asking the user if they would like to see the item accepted and supported in Counter-Strike 2. There are two buttons, \"Yes\" and \"No, thanks\".",
+        "Url": "https://steam.work-shop.vip/"
+    },
+    {
+        "Folder Hash": "cbfb588ec267eb657fd1e55e5bbe5fc79ba2a73b2647fc2db76c7bb94948b145",
+        "Brand": "LiveAccess",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is shown at the bottom of the page as \"LiveAccess\". The screenshot contains fields asking for email and password. There is a call-to-action button that says \"Login\".",
+        "Url": "https://interpreteri.firebaseapp.com/login"
+    },
+    {
+        "Folder Hash": "f99dc48ed2e46675f05706b63b2178dcfc485d31b47c4fa9821a2ef7cb52269a",
+        "Brand": "Alibaba",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact Supplier",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Alibaba is present on the top left corner of the webpage. The green button on the right side of the page says \"Contact Supplier\", which is a call-to-action button.",
+        "Url": "http://lifeng-staples.com/"
+    }
+]

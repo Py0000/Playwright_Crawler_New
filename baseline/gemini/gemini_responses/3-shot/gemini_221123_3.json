@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect Wallet",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is shown on the top left corner. There is a button saying \"Connect Wallet\" on the screen.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "1132d513064f9cbd06d4a67e55d71d05de1b057a83e53bf890fbe38cb7d3ee96",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the top left corner. The webpage has a red background with a gradient to black at the bottom. The text \"Watch anywhere. Cancel anytime.\" is present in the middle of the page. There is a button that says \"Get Started\" on the right side of the page.",
+        "Url": "https://kshravyab.github.io/Movies/"
+    },
+    {
+        "Folder Hash": "6a6851eb5446ab402cd5df390b32a4ab9ee1953460ace99c4968db255a548ec8",
+        "Brand": "Creagidem",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Creagidem is on the top left corner of the page. The credentials fields and buttons can be seen on the screenshot. The text \"Identifiez-vous\" means \"identify yourself\" in French, which is a common phrase used in login pages.",
+        "Url": "https://tools.creagidem.com/moncrea"
+    },
+    {
+        "Folder Hash": "862efcc8c7ec1760df8267cc7383033998b03b9c29826ae99dd610da799d80ca",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See All Deals, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The presence of the Microsoft logo and the Xbox branding are strong indicators that this is a Microsoft webpage. The webpage is advertising the Xbox Series X, and there are several call-to-action buttons that say \"Shop Now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "97b410d0e17b4bb3f6bafe57b4d5e84b3e4aa44ddfa17bd5a84277fb46e5b6f2",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Username, Password",
+        "List of Call-To-Actions": "Log In, Create Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is shown on the top left corner. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "a5730957b4e0e813dd1209a8ec64d9b6df5c428b3d4488be4387bd59800af9ba",
+        "Brand": "Freehold Properties",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Back to Homepage",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Freehold Properties is on the top left corner of the page. The call-to-action button is clearly visible in the middle of the page.",
+        "Url": "https://freeholdproperty.ae/wp-admin/x8z9.php?el20=3mail@b.c"
+    },
+    {
+        "Folder Hash": "aa4b884cba268415bc04deb704a5f32e40fbfd5b3631dd89c1cf4540a9c38b4e",
+        "Brand": "Microsoft (Store)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See All Deals, Learn More, Buy Now, Pre-Order, Get Started, Try Now, Sign Up Now, Start Your Free Trial, Explore AI Solutions",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has a Microsoft logo on the top left corner. The overall layout and design of the webpage is consistent with other Microsoft webpages. The products being advertised are all Microsoft products.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c0fde17683b2fe017214e7a1ab39cbad6538adaa4fe41ab082060ea15c557eb9",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The presence of the OneDrive logo, the \"Shared files\" tab, and the \"New\", \"Upload\", \"Sync\" and \"Automate\" buttons are all indicative of Microsoft OneDrive.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmbSH4QTBtodXn7AWC9ajietCHNcLowXxf2JRiSf3Ei4aW"
+    },
+    {
+        "Folder Hash": "c1a2ca3a66d8fc408ad6daf129d1f8b2ddd415f1847c296a703cc6678215e450",
+        "Brand": "Svastant",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register Now",
+        "Confidence Score": "6",
+        "Supporting Evidence": "The logo of Svastant is present on the top center of the page. The page is a login page which asks for username and password. The \"Forgot Password\" option is also present. The \"Login\" button is present. The \"Register Now\" button is present.",
+        "Url": "https://savasten0.cc/"
+    },
+    {
+        "Folder Hash": "c60ac9f23b634af849beeddc946b34f83f160bfdc16583b49891fe8e05863d36",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0",
+        "Supporting Evidence": "There are no logos, trademarks, or other identifying features on the screenshot.",
+        "Url": "https://leieem.com/"
+    },
+    {
+        "Folder Hash": "d56f0a4a5a40034440ee541393dbd687b94006938378b554e4133abfae523e75",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See All Deals",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Microsoft logo on the top left corner. The page also has a consistent design with other Microsoft webpages. Furthermore, the products and services being advertised are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "dabac25b314a758b2ade58de5be3f6790a2ced935d0f4cfd8fc8cba694f571c9",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The word \"Webmail\" is displayed on the top of the login box. Also, the background has an email envelope graphic design.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihnecv6xgkb7axyv3tbhulcl7yt5t2gmhs5xgfxxfikqdcoil73d4"
+    },
+    {
+        "Folder Hash": "e330ef7a7761bf403e97ad9d57f54e18bbeb3009f04fa0d13ab42e38abd6a9ff",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner. The screenshot contains a form asking for user credentials and a call-to-action button.",
+        "Url": "https://akkpk.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "e88468e8a894aefeb45f8c645e4e0569690eef94fb824a72f7e85084dc1ab0f7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The red and black Netflix logo is clearly visible on the top right corner of the screenshot. The screenshot also contains a prominent call-to-action button that says \"Get Started\" and a field where users can enter their email address. These elements strongly suggest that the webpage is associated with Netflix.",
+        "Url": "https://kadamgp.github.io/Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "f683e0a45ed2b3f48f9faf760b64c4af39f817f18bbdbf994204edacd34952c0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, See Price, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the Microsoft logo on the top left corner. It is the official Microsoft website that sells products and services. The page has \"Shop Now\", \"Buy Now\", \"See Price\", and \"Learn More\" buttons.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    }
+]

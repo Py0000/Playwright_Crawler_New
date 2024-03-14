@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "001c4940ddcc0c4dc4aa6ec299a9f25f02973575e071f645aef3cf6ef84a5203",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0",
+        "Supporting Evidence": "There are no logos, trademarks or any other visual indicators that can be used to identify the brand.",
+        "Url": "https://dapp.noderepository.xyz/"
+    },
+    {
+        "Folder Hash": "05c3053688c11ff410afd20bde88486bea076293d638a46f52bb85304b1b484a",
+        "Brand": "Google (Gmail)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Google logo and a Gmail logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://shiiivani.github.io/facebook-clone/Signin"
+    },
+    {
+        "Folder Hash": "1a5eb259e3acbd1df71255392e70e0c490dbd83cfac56c955b3188c559307ee5",
+        "Brand": "Midasbuy",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Purchase, Redeem, Shop, Events",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Midasbuy is on the top left corner of the webpage. The call-to-action buttons are clearly labeled and easy to identify.",
+        "Url": "https://djs2.krafton-news.com/"
+    },
+    {
+        "Folder Hash": "2941b5ee70e6663efef41c2bc6ba66b3306f66a6170dd18f0a14e77dec7c2931",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of a WhatsApp chat. The green color, logo, and the general layout of the app is consistent with WhatsApp.",
+        "Url": "http://grub-whatsapptouugif.website-x.my.id/vhsfhqpdhdsih6/"
+    },
+    {
+        "Folder Hash": "34bfe5f97619f25f1539d4624550042c51ccef178915aca43866ed16b2cbc27a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Pre-Order, Learn More, Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the Microsoft logo on the top left corner. The overall design and layout of the webpage is consistent with other Microsoft webpages.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4366a2fd2d515108801071fe22f7e2d93c4ae97ac0464521081cf0c748b692d6",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The word \"Netflix\" is seen on the screenshot. The screenshot also contains images, buttons, and text that is consistent with the Netflix brand.",
+        "Url": "https://vigneshsugumaran30.github.io/net/"
+    },
+    {
+        "Folder Hash": "4ef7f475e7dcc3e39cd8b0f6fea79bde51f5ff178334c6efc6d47b8e69283a81",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in, Contact us",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Orange is present on the top left corner. The screenshot contains fields asking for email and password. There is a \"Sign in\" button. There is a \"Contact us\" button.",
+        "Url": "https://lemedab246.wixsite.com/my-site/"
+    },
+    {
+        "Folder Hash": "5c1e2ee2058f106e6b32e5551bd271605993196c4e6bbd712d0c953351f1f4e2",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See All Deals, Shop Xbox Series X, Shop Xbox Games, Shop Xbox 360, Choose your Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is shown at the top of the page. The page contains the product name \"Xbox\". The page contains a call-to-action button that says \"Shop Now\". The page contains a list of products that can be purchased.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "6bdb075decab6bc1d6b14cc2939d8e7071325af91f39668d5243713df7fc9d32",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the Netflix logo. There is a field asking for email address. There is a call-to-action button that says \"Get Started\".",
+        "Url": "https://asimnizam1.github.io/net-flix/"
+    },
+    {
+        "Folder Hash": "7a25d13df82e4a7a2a69219cbb67c0239a3962a34ecde119b03900c4985672f8",
+        "Brand": "PayPal",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "View Online, Learn More, Check Out, Shop Now, Apply Now, Sign Up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The wordmark \"PayPal\" is seen on the screenshot. The screenshot also shows a \"View Online\" button, which is a call-to-action.",
+        "Url": "https://e.synchronyfinancial.com/H/2/v70000018c72c74158a784eaf4bbcf6cc0/d119b3a0-025c-41a2-bb54-ea3c4cc4bcc7/HTML/"
+    },
+    {
+        "Folder Hash": "97c3f473a71eab374d6f279ff0b82d0feabb0ecb8611b735ab58210d8e7c0907",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The word \"Discord\" and its logo are visible on the top left corner of the webpage. The page also has a large banner with the text \"Imagine a Place...\" and a button that says \"Download for Windows\". The overall design of the webpage is consistent with Discord's branding.",
+        "Url": "http://server-discord.ggchat.com.cn/"
+    },
+    {
+        "Folder Hash": "99b66781d5b7edc07bdc48c5056e2ef1f1c51edc7ceaca61cd59666682e594eb",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The red and black Netflix logo is clearly visible at the top right corner of the webpage. The screenshot contains a form asking for email address. The call-to-action button says \"Get Started\".",
+        "Url": "https://arsvzero.github.io/Project-Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "9ab4fa1c959bf3be3169b507f370cfea8b95f4be7e203376e497d1e8b1c5bc37",
+        "Brand": "Timeweb",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-up, Sign-in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Timeweb is present on the screenshot. The screenshot also contains two input fields, one for email and one for password. There are two buttons, one for signing up and one for signing in.",
+        "Url": "https://premium60.timeweb.ru/blocked/?ref=cu34756.tw1.ru"
+    },
+    {
+        "Folder Hash": "be34b6cca5a7af4be027c7c1de33b2d52c6a6e16deed92d1c06f492e35e1cce5",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Browse Voucher Details, Claim Instantly",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Axis Bank logo. The webpage is offering an Amazon Pay E-Gift Card worth 500. It is asking users to unlock the benefit by using an 8-digit activation code.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    },
+    {
+        "Folder Hash": "cb9914adde0ecaf6abafdc49413e594ac80031e387ea1be1a14c32d2d2b737c0",
+        "Brand": "Steam",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Yes, Install Steam",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Steam logo and the Steam website's signature blue background. The page title is \"Counter-Strike: Global Offensive\". The page is a product page of a game called \"M4A4 | Last Dragon\". The call-to-action button is \"Install Steam\".",
+        "Url": "https://steam.work-shop.vip/"
+    },
+    {
+        "Folder Hash": "cbfb588ec267eb657fd1e55e5bbe5fc79ba2a73b2647fc2db76c7bb94948b145",
+        "Brand": "Liveaccess",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Forgot Password, Create Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Liveaccess is at the bottom of the page. The screenshot contains a set of credentials and a call-to-action button.",
+        "Url": "https://interpreteri.firebaseapp.com/login"
+    },
+    {
+        "Folder Hash": "f99dc48ed2e46675f05706b63b2178dcfc485d31b47c4fa9821a2ef7cb52269a",
+        "Brand": "LIFENG",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "View More, Contact Supplier, Chat Now, Send Message",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage of a company called LIFENG. The webpage is mainly about their products, and it has a call-to-action button that says \"View More\". The webpage also has a chat button that says \"Chat Now\", a contact button that says \"Contact Supplier\", and a send message button that says \"Send Message\".",
+        "Url": "http://lifeng-staples.com/"
+    }
+]

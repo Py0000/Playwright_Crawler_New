@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "337a147d29d18b0caa7f287224ab0a390f2cee3998f359e54a3519c6f37167c2",
+        "Brand": "Spotify",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or username, Password",
+        "List of Call-To-Actions": "Log In, Sign Up For Spotify",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand logo is clearly visible on the top left corner. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://cpanel17wh.bkk1.cloud.z.com/~cp042619/spoofi/Issued/settings/"
+    },
+    {
+        "Folder Hash": "45f284227bba96cfab6ef3b88c3e197510fc75454f7cd50b58b3abe3cde13bd7",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a logo of Apple. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://suscripcion-myldevicelocation.com/isignesp.php"
+    },
+    {
+        "Folder Hash": "50d9a9dd5fb90c7bb7bf9e2d8e6160aec2af9cd32c5738d292994f348a51e776",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is displayed at the top left corner. The screenshot also shows fields asking for username and password, as well as a button that says \"Sign In\".",
+        "Url": "https://steamcorumunity.ru/gift/765625724239673548-auth"
+    },
+    {
+        "Folder Hash": "52ab62fa37550e58c5431661bc5b3dfc99232c8ef84a7dd428dcdec994fa88a3",
+        "Brand": "BT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "BT ID or Email address, Password",
+        "List of Call-To-Actions": "Sign in, Create an account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The BT logo is visible at the top right corner of the webpage. The screenshot also shows fields for BT ID or email address and password, as well as a \"Sign in\" button.",
+        "Url": "https://btconnectfilesecureinboxbthomelogindropbopsdnebackboxpdf.weebly.com/"
+    },
+    {
+        "Folder Hash": "6a3df72d7a1feb4cc61dbd4a3f8fac326842330ac0607183730d02db2206a3b7",
+        "Brand": "Dropbox",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "View Document",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Dropbox logo is clearly visible in the top right corner of the screenshot. Additionally, the \"Log in to Dropbox using your regular email address and correct password in use to access the secured document\" text further supports the conclusion that this is a Dropbox webpage.",
+        "Url": "https://doc-drop-box.weebly.com/"
+    },
+    {
+        "Folder Hash": "7cc458d21b98539d4a42d271da2e6778e45dc866cba2af10ed1545d801d30445",
+        "Brand": "DANA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Lanjutkan (Continue)",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is clearly visible at the top left corner of the page. The page is asking for user input for verification purposes. There is a call-to-action button labelled \"Lanjutkan\" (Continue).",
+        "Url": "https://claim-hadiah-dana.vip-resmi.my.id/"
+    },
+    {
+        "Folder Hash": "83892b58a772494ee0981a624bf9922cc60b4f5f20f3f0c138b04931e8908706",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://seaz2.getthis4free.com/start_225.html"
+    },
+    {
+        "Folder Hash": "c42d928f7e87d5658451bdf8b60447c40dd7059699031b4edcdebd7c1867b1ff",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a DHL logo at the top left corner. The Register and Login buttons are also present on the top right corner.",
+        "Url": "http://socialmediaconsultant.ae/public/pZsPXuMZl74EGYJ7h2WqEQl0DxBrvEyp"
+    },
+    {
+        "Folder Hash": "c492d060c45876a020df1747b7d636958a7c93fd92ed1f1eadb6ef5b8379be68",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Intuit logo. It also has fields asking for credentials such as username and password. It has a call-to-action button that says \"Sign In\".",
+        "Url": "https://dev.vanira.co/wp-admin/intu/quickbooks.com-secure-qbo/quickbooks/"
+    },
+    {
+        "Folder Hash": "fd096d15c4f378b726a3bb3b530dc452216ed3d427a5778dc0a63a90a206b86d",
+        "Brand": "Spectrum",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Spectrum logo at the bottom of the page. The screenshot is of a sign-in page, which typically asks for credentials such as username and password. There is a red banner indicating that the credentials entered do not match the records. There is a \"No Username?\" link beside the password field.",
+        "Url": "https://basis.org.ua/sites/all/themes/omega/alpha/chartererror/error.php"
+    }
+]

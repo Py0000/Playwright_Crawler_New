@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1543a64420a07f8abf667b6611ee4965f83ea0fb8f9ae67aca4e64cb424636f5",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See all offers",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Microsoft is on the top left corner. The page is selling Xbox. The call-to-action buttons are clear.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "24883ee9041c6f5bc847b29e80a43020169a0c152e4d46549b0f873c1483bc60",
+        "Brand": "Alliance Swap",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect Wallet, See rewards, Buy BABYAPE",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a logo that says \"Alliance Swap\". There is also a \"Connect Wallet\" button.",
+        "Url": "https://www.allianceswap.finance/"
+    },
+    {
+        "Folder Hash": "31f9dbf28c339b2dd73cf2208dda2e6494b31090649c7e0f8ff77a2d0150179c",
+        "Brand": "Rogers",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register, Forgot Password",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Rogers logo is clearly visible at the top left corner of the page. The screenshot also contains fields for entering a username and password, as well as a call-to-action button that says \"Login\". There is also a link that says \"Forgot Password\" which is a common feature on login pages.",
+        "Url": "https://avantages-sociaux-rogers.com/account/login/MustAuthLogin?target=%2f#/login"
+    },
+    {
+        "Folder Hash": "4a42656362c4e724983dc24bf59e8aa8c8508ba9440b27021620c093e5cab251",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Visit Business Help Centre",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Facebook is present on the top left corner. Although there are no fields asking for credentials, there is a call-to-action button that says \"Visit Business Help Centre\".",
+        "Url": "https://www.facebook.com/help"
+    },
+    {
+        "Folder Hash": "57a95a4c23171a198b24f30e5340a0ae654037206b12057f0b400e2ccb7c6549",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Netflix is present on the top right corner. The screenshot contains a form asking for user credentials, specifically an email address. There is a call-to-action button that says \"Get Started\".",
+        "Url": "https://greyhatniranjan.github.io/Niranjan/"
+    },
+    {
+        "Folder Hash": "69577a7fe7447b51e8705363bf51b22199117c62db15704aba3df1d159579efb",
+        "Brand": "Paribu",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Password",
+        "List of Call-To-Actions": "Login, Create Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is on the top left corner of the page. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://nicom.com.mk/login.php"
+    },
+    {
+        "Folder Hash": "d8a9bbed6a52423556d62e1f4015384005120c6e9c0d19a3fc3e5f8bed909839",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open in your browser, Sign up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a big logo of Discord. The call-to-action buttons are also consistent with Discord's branding.",
+        "Url": "https://discord.hebjyy.com/"
+    },
+    {
+        "Folder Hash": "eb0493cddce21878ef0eead1daf7dfde6aee4a8adbe276855f28fcda67087c2c",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in, Create Free Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the word \"OneDrive\" on the top left corner. Also, the page title is \"OneDrive\". The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://n3u4t2.view-invoice-onedrive.site/"
+    },
+    {
+        "Folder Hash": "eeef0bffd9acb2e4734b700b6dbbd29e857e132b92b5de415b22ef9c9d1988f2",
+        "Brand": "Westbury Publishing",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Order Now, Publish With Us, Contact Us, Buy Now, Download Title List, Download Catalogue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Westbury Publishing is at the top left corner of the page. The navigation bar contains \"Home\", \"About Us\", \"Publish With Us\" and \"Contact Us\". The page has a green banner with text saying \"To Publish Great Books Well\" and a button saying \"Order Now\". Below the banner is a section about Westbury Publishing. It has a heading \"About Westbury Publishing\" and a paragraph describing the company. The next section is \"Publish With Us\", which has a heading and a paragraph describing the process of publishing with Westbury Publishing. It also has a button saying \"Publish With Us\". The next section is \"Best Selling Books\", which has a heading and a list of books with their titles, authors, and prices. The next section is \"25% OFF All Books\", which has a heading and a paragraph describing the discount. It also has a button saying \"Buy Now\". The next section is \"Free worldwide delivery on orders more than \u00a3500\", which has a heading and a paragraph describing the free shipping offer. It also has a button saying \"Contact Us\". The final section is \"Contact Us\", which has a heading and a form with fields for name, email address, phone number, and message. It also has a button saying \"Submit\".",
+        "Url": "https://westburypublishing.com/"
+    },
+    {
+        "Folder Hash": "f34cbf951c1c816af2ed07a0760ac02121e57af5eb1324a187320ed8d1303bfd",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See All Deals, Shop Xbox Series X, Shop Xbox Series S, Shop Xbox One, Shop Windows, Shop Surface, Shop Gaming, Shop Accessories, Shop Controllers",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Microsoft\" and \"Xbox\" is clearly visible on the screenshot. The page is selling products, and there is a clear call-to-action to \"Shop Now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    }
+]

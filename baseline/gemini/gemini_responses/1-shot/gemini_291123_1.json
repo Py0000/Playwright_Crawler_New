@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1eb972f52ea2543db68297c7116fed44b83692406dfd745bdb5d3553b6ca52dc",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, See Price, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Black Friday Sale\". The page is selling products such as the Xbox Series X, Surface Laptop Studio 2, and Microsoft 365. The call-to-action buttons are \"Shop Now\", \"Buy Now\", \"See Price\", and \"Learn More\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "524d69e099ce2cf898dbd3614e175228b3b3624e8f5496f3252b5136c9fc55f2",
+        "Brand": "bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download bet365 App, Visit bet365.cc",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of bet365 is clearly visible on the screenshot.",
+        "Url": "http://19730510.com/"
+    },
+    {
+        "Folder Hash": "57ef3530895093d5a4cab5f34f7d34f127015946c19e5b0ae90f7f934d2e020d",
+        "Brand": "Meta",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Log in with Facebook",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Meta is present on the webpage. The call-to-action button is also present with the text \"Log in with Facebook\".",
+        "Url": "https://www.meta-support-page.com/"
+    },
+    {
+        "Folder Hash": "5b079aaddbb1fcd8f92f31136a6235e8f7c77b4a69cb2b4bd72997a4d6bfb288",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number, Password",
+        "List of Call-To-Actions": "Sign In button, Sign up button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Netflix logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://netflix-december21.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6adcc77d36f1c22526469ab12f1758bf1eda7f96d66e01c7fe3bc71e4050900e",
+        "Brand": "N/A",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd t\u00ean, Ng\u00e0y sinh, \u0110\u1ecba ch\u1ec9",
+        "List of Call-To-Actions": "Nh\u1eadn qu\u00e0",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The screenshot is in Vietnamese. There are 3 fields asking for user credentials: H\u1ecd t\u00ean (name), Ng\u00e0y sinh (date of birth) and \u0110\u1ecba ch\u1ec9 (address). There is one call-to-action button labelled \"Nh\u1eadn qu\u00e0\" (receive gift).",
+        "Url": "http://ff.member.gareza.vn/cre96aCBExqeaXVpAUtesGytOkoIi0b316MEngRB6GduITgIXVrolFEk2af8IFjZOoSP3KYbglKd4dNBCztIqgAYAV650Z5ySGNc_index/#/"
+    },
+    {
+        "Folder Hash": "a97b31d3ecdfe1d824afe2dbe6b31f2198346e40697fc3b2269f601ad0bc99d7",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Join Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green and white logo that says \"bet365\". The words \"Username\" and \"Password\" are visible on the screenshot. There are two buttons, one that says \"Login\" and another that says \"Join Now\".",
+        "Url": "https://www.bet3659.tv/home"
+    },
+    {
+        "Folder Hash": "aa4a498386e1135bb11171167c2833f459c01d92f2f806af12e2a178174bb608",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo. The screenshot contains fields asking for user credentials, specifically an email address. There is also a call-to-action button that says \"Get Started\".",
+        "Url": "https://imshivamnair.github.io/Netflix-and-Chill/"
+    },
+    {
+        "Folder Hash": "d00adfb26aca6d440945911e196167c79020355e213d72da41ba54eca09f7d62",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The word \"Netflix\" and the red and black logo are clearly visible at the top of the page. \"Get Started\" button is also visible.",
+        "Url": "https://dubeyprashant1.github.io/Netflix-Clone.github.io/"
+    },
+    {
+        "Folder Hash": "dcd93ffe7cc0ce8d070abaa399e5e36738aa5c3bc7f7cd3b92cce094ff77cd6d",
+        "Brand": "",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of dskdirekt. The screenshot also shows fields for username and password, as well as a login button.",
+        "Url": "https://directonline-bg.com/login/"
+    },
+    {
+        "Folder Hash": "f34bd4c756f9c0ad38e85f51cdf9c3ff9a52ed1bc924d6ad1ae31948173e2903",
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Beli Sekarang button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Codashop\" is clearly visible at the top of the page. The page also has a form that asks for an email address. There is also a button that says \"Beli Sekarang\", which is likely a call-to-action button.",
+        "Url": "https://diamond-gratis-9736.real4.biz.id/id/"
+    }
+]

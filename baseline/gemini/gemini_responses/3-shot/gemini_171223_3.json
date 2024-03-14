@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1dd0c1f7539926d5de978334a85bf888b354fe7562d70e2db225b88b66b95612",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Orange is present. The screenshot shows fields for email and password, and a \"Sign-in\" button.",
+        "Url": "https://identifiez-vous08.hubside.fr/"
+    },
+    {
+        "Folder Hash": "295e747dadcb8721180a22558c01ec4070ffa6eb9f17b8ce619b3eb9346addeb",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Hier geht's zur Ihrer Bank",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of the bank is clearly visible in the screenshot. The call-to-action button is also visible.",
+        "Url": "https://prosodix.com/.well-known/17704/Login.html"
+    },
+    {
+        "Folder Hash": "40ecb74ec815c943b3cb17e7f56cc3acbcd52c7981d23c71c047a65d838ab9f4",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible. The screenshot contains a form asking for email. The call-to-action button says \"Get Started\".",
+        "Url": "https://mariomartinezaguilar.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "447ee13c34c2907cf3b9e8a10a97e3c4b17fd2776e21ea2e8e6e683d043a4316",
+        "Brand": "Bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log-in, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Bet365 logo on the top right corner of the webpage. The credentials fields and buttons are behind the modal overlay. The page URL contains \"bet365\".",
+        "Url": "http://nrl688.com/"
+    },
+    {
+        "Folder Hash": "6975b5e5aef785e2c0090af6307fc07857e92f41e2ed43cc3c48e50e9caa85e0",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See all deals, Learn more",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The green and white Xbox logo is present on the top left corner of the webpage. The page also has \"Xbox Series X\" and \"Shop now\" texts.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "6bb2cc568067b517b177e9c705af145a8c6273391f4287fafb1e0dccfc401d08",
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Zone ID",
+        "List of Call-To-Actions": "Buy Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is shown on the top left corner. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://jjoingrupwhastapp.ktt55.my.id/mobile-legends/index.php"
+    },
+    {
+        "Folder Hash": "8a7adf77466cef0fc8dde857892143a066055e9462fe229d11e2a38e6a31d2fa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a Netflix logo on the top left corner. The center of the page has a title that reads \"Unlimited movies, TV shows, and more\", followed by a text field that says \"Ready to watch? Enter your email to create or restart your membership\" and a red button that says \"Get Started\". Below this, there is a section that says \"Enjoy on your TV\", with a picture of a TV and a laptop with the Netflix logo on them. The text below this section reads \"Watch on Smart TVs, PlayStations, Xbox, Chromecast, Apple TV, Blu-ray players, and more.\" The next section is titled \"Download your shows to watch offline\", with a picture of a phone with the Netflix logo on it and a text that reads \"Save your favorites easily and always have something to watch.\" The final section is titled \"Create profiles for kids\", with a picture of two kids watching Netflix on a TV and a text that reads \"Send kids on adventures with their favorite characters in a space made just for them\u2014free with your membership.\" At the bottom of the page, there are links to the Netflix Help Center, Privacy Policy, Terms of Use, and Cookie Preferences.",
+        "Url": "https://waliderprint69.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "94edd0f6e0a96a44e6f967355303b830ad5b467b036415bede9646ad22c4571f",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Facebook logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://page-meta-support-id88594936.pages.mus.br/19"
+    },
+    {
+        "Folder Hash": "a7ff7179ebdc42e3298d3428a58517118b9a41b43897369bfbe2fb86046ce9a8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The red and black Netflix logo is clearly visible at the top right corner of the webpage. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://prashantkmr389.github.io/netflix_clone/"
+    },
+    {
+        "Folder Hash": "d11faf0e41a2339470a2d495463bdf51e2665f65552e94fdff0f473cee9a2aac",
+        "Brand": "Bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cardholder name, Card number, Expiration date, CVV, Phone number",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Bpost is present on the top left corner of the webpage. The screenshot shows a payment page where users are required to enter their credit card details.",
+        "Url": "https://pakket-bpost-be.web.app/"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "00d53af26a171113d0a536a4bb214d69a89e71beae2db3b1cec648ed68d6f365",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join, Get Started, Find a course or training",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the LinkedIn logo at the top left corner. The page has a blue theme, which is consistent with LinkedIn's branding. The page also has a search bar, which is a common feature on LinkedIn.",
+        "Url": "https://www.linkedin-hiring.cc/"
+    },
+    {
+        "Folder Hash": "113b3081a0a4758ab03479b7df048baa59019ddd410cf06b414513f878763482",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, email or user ID, Password",
+        "List of Call-To-Actions": "Sign In, Try something else, Create an account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the Intuit logo. The presence of fields requesting for credentials and call-to-action buttons are also evident.",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "140e7476ee0343f602e53a3149797c4df4621c10b964f6342a34533781adf290",
+        "Brand": "Nike Brazil",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy Now, Add to Cart",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Nike Brazil is visible at the top left corner of the page. The page is selling Nike shoes and apparels. The call-to-action buttons are 'Buy Now' and 'Add to Cart'.",
+        "Url": "https://unitensloja.site/"
+    },
+    {
+        "Folder Hash": "1609c8ef7f93c3cc34b5f6679bf8943be89d2dcb0607ea94cf3a4ff99b56ec4c",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Create free account, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of Microsoft OneDrive. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://onedrivelseeattachfile.web.app/"
+    },
+    {
+        "Folder Hash": "33932ac057385308009b54178640b8eb5fb848749a1642de0fabdcf16cc68646",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In, Get Acrobat",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The red \"Adobe\" logo is visible on the top left corner of the webpage. The screenshot shows a login page that is consistent with Adobe's branding.",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "5e1a287812762ebd7e044d6c7a61644c4b3dc26669d9a5bf0b6de2fb92e927a2",
+        "Brand": "BullPhish ID",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is shown at the top of the page. The rest of the content is a disclaimer.",
+        "Url": "https://secured.cloudsurveillance.net/0b22b244-593f-428f-883a-f0c6eccd7cc0"
+    },
+    {
+        "Folder Hash": "721a476d024a0dfd32057c312a00b60d6d2f3f751a1bb09548dcd11e9ba634aa",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Telephone Number, Card Number, Sicherheitscode",
+        "List of Call-To-Actions": "Pay Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The DHL logo is on the top right corner. The credentials and buttons can be seen on the screenshot. The page also has a tracking number on the upper left corner.",
+        "Url": "https://wsx.vvo.mybluehost.me/wp-admin/AGJ/LoginServices/"
+    },
+    {
+        "Folder Hash": "8ca024cdc6d763e242452e3fd44805aa1c00c159c982e8d68e9e7ceaaf1586e0",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in, Create an account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Microsoft logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://support.microsoft.com/en-us/office/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2"
+    },
+    {
+        "Folder Hash": "a7130332f01e2cbcfa13cec93ea1d2b256c59188e3ccdb1df21ff3aacc7e958d",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect, Demo",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of WalletConnect is present on the top center of the page. Two buttons are also present with the text \"Connect\" and \"Demo\".",
+        "Url": "https://walletconnectpay.com/"
+    },
+    {
+        "Folder Hash": "d66c28b7d332cbcc89c9c66c1b425043f3e007ef35ee2c7285ecfe9eaa0d57ee",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has \"Battlegrounds Mobile India\" and \"KRAFTON\" logos. There are no fields asking for user credentials and no call-to-action buttons/links.",
+        "Url": "https://gunk8tsbvpz.penguasa.de/"
+    }
+]

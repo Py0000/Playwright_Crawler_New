@@ -23,8 +23,8 @@ class GeminiProVisionBaseline:
         model = genai.GenerativeModel('gemini-pro-vision')
         return model
     
-    def obtain_page_url(self, log_path):
-        log_data = FileUtils.read_from_json_file(log_path)
+    def obtain_page_url(self, log_file):
+        log_data = FileUtils.read_from_json_zipped_file(log_file)
         url = log_data["Url visited"]
         return url
     
@@ -77,7 +77,7 @@ class GeminiProVisionBaseline:
         full_prompt = f"Below is an example analysis based on the provided image.\n{desc}"
         return full_prompt, image
 
-    def analyse_individual_data(self, model, image_path, few_shot_count):
+    def analyse_individual_data(self, model, image, few_shot_count, folder_hash):
         zero_shot_prompt, response_format_prompt = self.generate_zero_shot_prompt()
         few_shot_prompts = []
         for i in range(few_shot_count):
@@ -87,8 +87,6 @@ class GeminiProVisionBaseline:
 
         current_prediction_prompt = "Here is the webpage screenshot:"
         try: 
-            image = PIL.Image.open(image_path)
-            folder_hash = image_path.split("/")[3]
             model_prompt = [zero_shot_prompt] + few_shot_prompts + [current_prediction_prompt, image, response_format_prompt]
             response = model.generate_content(model_prompt, stream=True)
             response.resolve()
@@ -107,37 +105,34 @@ class GeminiProVisionBaseline:
             print(f"Processing {zip_file}")
             
             if zip_file.endswith(".zip"):
+                hash = zip_file.split(".zip")[0]
                 zip_path = os.path.join(zip_folder_path, zip_file)
 
                 # Extract the zip file
                 with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-                    extract_path = os.path.join(zip_folder_path, zip_file.replace('.zip', ''))
-                    zip_ref.extractall(extract_path)
-                    
-                    if self.mode == "phishing":
-                        self_ref_path = os.path.join(extract_path, extract_path.split("/")[3], 'self_ref')
-                    else: 
-                        self_ref_path = os.path.join(extract_path, 'self_ref')
-                    
-                    # Find the screenshot in the extracted folder
-                    if os.path.exists(self_ref_path):
-                        screenshot_path = os.path.join(self_ref_path, 'screenshot_aft.png')
+                    screenshot_relative_path = os.path.join('self_ref', 'screenshot_aft.png')
+                    logs_relative_path = os.path.join('self_ref', 'log.json')
 
-                        if not os.path.exists(screenshot_path):
+                    # Checking if the required files exist in the ZIP
+                    screenshot_exists = any(screenshot_relative_path in zipinfo.filename for zipinfo in zip_ref.infolist())
+                    log_exists = any(logs_relative_path in zipinfo.filename for zipinfo in zip_ref.infolist())
+
+                    if screenshot_exists and log_exists:
+                        screenshot_file_path = next((zipinfo.filename for zipinfo in zip_ref.infolist() if screenshot_relative_path in zipinfo.filename), None)
+                        if not screenshot_file_path:
                             continue
-
-                        response = self.analyse_individual_data(self.model, screenshot_path, few_shot_count)
+                        with zip_ref.open(screenshot_file_path) as screenshot_file:
+                            image = PIL.Image.open(screenshot_file)
+                            response = self.analyse_individual_data(self.model, image, few_shot_count, hash)
                         
+                        log_file_path = next((zipinfo.filename for zipinfo in zip_ref.infolist() if logs_relative_path in zipinfo.filename), None)
                         url = "Not found"
-                        log_path = os.path.join(self_ref_path, 'log.json')
-                        if os.path.exists(log_path):
-                            url = self.obtain_page_url(log_path)
-
+                        if log_file_path:
+                            with zip_ref.open(log_file_path) as log_file:
+                                url = self.obtain_page_url(log_file)
+                        
                         response.update({"Url": url})
                         responses.append(response)
-
-                    # Delete the extracted folder after processing
-                    shutil.rmtree(extract_path)
         
         output_file = f"baseline/gemini/gemini_responses/gemini_{date}_{few_shot_count}.json"
         FileUtils.save_as_json_output(output_file, responses)
@@ -152,14 +147,9 @@ if __name__ == '__main__':
     parser.add_argument("few_shot_count", help="number of examples to include")
     args = parser.parse_args()
 
-    benign_folders = ["benign_1000"]
-    phishing_folders_oct = ["251023", "261023", "271023", "281023", "291023", "301023", "311023"] # oct
-    phishing_folders_nov = ["011123", "041123", "051123", "061123", "071123", "081123", "091123", "101123", "111123", "121123", "131123", "141123", "151123", "161123", "171123", "181123", "191123", "201123", "211123", "221123", "231123", "241123", "251123", "261123", "271123", "281123", "291123", "301123"]
-    phishing_folders_dec = ["011223", "021223", "031223", "041223", "051223", "061223", "071223", "081223", "091223", "101223", "111223", "121223", "131223", "141223", "151223", "161223", "171223", "181223", "191223", "201223", "211223", "221223", "231223", "241223", "251223"]
-    phishing_folders = phishing_folders_oct + phishing_folders_nov + phishing_folders_dec
-    
+    phishing_folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec
     if args.benign_phishing == "benign":
-        folders = benign_folders
+        folders = utils.benign_folders
     else:
         folders = phishing_folders
     

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "050ba2177abe312113ab42590e8dad439cb059abb099ca872bf7b57ec09aef1b",
+        "Brand": "Standard Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join, Talk to us",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible. The call-to-action buttons are also visible.",
+        "Url": "https://www.santanderprivate.co.uk/"
+    },
+    {
+        "Folder Hash": "1768703dbb0c07039402d025dd3393a2a941c884637542aa84bf30a39cac6d8a",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is an Instagram logo. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://businessforcopyrightsupport.com/help-team/"
+    },
+    {
+        "Folder Hash": "2f668765889071c402d37caa442e0d10359bb1b9cbdbc8cb40c2ab492deabdaf",
+        "Brand": "HandMade Arcade",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is on the top left corner of the page. The rest of the content is about the 2023 Holiday Market.",
+        "Url": "https://www.handmadearcade.org/wp-content/plugins/page/sunrise/sunrise"
+    },
+    {
+        "Folder Hash": "3ded60b24f882cb05bf1145bc111a25ebaa90f9bc48642add5d8aae98d8312a1",
+        "Brand": "Tesco Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username",
+        "List of Call-To-Actions": "Log in, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Tesco Bank logo is clearly visible in the top left corner of the webpage. The credentials fields and buttons are also visible on the screenshot.",
+        "Url": "https://deserted-topaz-moss.glitch.me/public/oriba.html"
+    },
+    {
+        "Folder Hash": "3f45e707db1f3780563f784c671cf7cea7ff3d8abb43f277f29e70108ae3e13a",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Create New Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Steam is present on the top left corner of the webpage. The screenshot also shows two buttons, one says \"Sign In\" and the other says \"Create New Account\". There are also two text fields, one for username and the other for password.",
+        "Url": "https://st-gift.ru/gift33096"
+    },
+    {
+        "Folder Hash": "65f7111d70bf88c318910261d3880a0c89ea84a6e37779eb6ee3025267caed59",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible. The screenshot contains a prominent call-to-action button with the text \"Get Started\". The page also has a section called \"Frequently Asked Questions\", which is a common feature on many websites.",
+        "Url": "https://rajkumarthakur88.github.io/NetFlix-Home-Page/"
+    },
+    {
+        "Folder Hash": "ad19fe539994a2ccb72e07f621854609fd400973d77d5d17309c61e23c6aad53",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Username",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of AT&T is present on the top left corner of the webpage. The page also has fields asking for user credentials and a call-to-action button labeled \"Next\".",
+        "Url": "https://fgdgfdsgsfgfsfg.surveysparrow.com/s/classical-home/tt-pYheASAKywJaDkHTovweQ4"
+    },
+    {
+        "Folder Hash": "c18d18a03e152571f9ec94f741855a2bd6ea1817572607477f8f6fa7d6fda556",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See all offers, Learn More, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is displayed on the top left corner of the webpage. The webpage is selling a product and has a call-to-action button that says \"Shop Now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "d52ce70470b6910fd83b2b3b7bf80f0ad2f18ca8faca12ba37a91b75eae7d3f9",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Email Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Wells Fargo logo is visible on the upper left corner of the page. The screenshot is of a Wells Fargo webpage where the user is prompted to enter their email address and password. The page also has a \"Continue\" button.",
+        "Url": "https://pub-cc09a92ea2d24879b5e0d1bbd3b85fa5.r2.dev/emailerror.htm"
+    },
+    {
+        "Folder Hash": "e029e9f5867cf79dc5f25de8ab0cb9cb5898c87bf01df9346d79bc52299a3e94",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The red and black Netflix logo is clearly visible at the top left corner of the page. The screenshot contains a form with a field for email address. The call-to-action button says \"Get Started\".",
+        "Url": "https://madhurima-das01.github.io/Netflix-clone.github.io/"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "318cd96aa99863e47744fe2a14e6e1923b15c15ecfcca741ff85fc9350650ae6",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present on the top center of the page. The images and text content present are consistent with the branding of Telegram.",
+        "Url": "https://tg-telegram.club/"
+    },
+    {
+        "Folder Hash": "5ed6bc379e46f1a6d48070277c68e577a49fb7d8332a33d224124e4ccdf94428",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Facebook, Twitter, Youtube, Instagram, VK, Discord",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo at the top left corner. The call-to-action buttons are social media icons that link to the game's official social media pages.",
+        "Url": "http://u2297956.plsk.regruhosting.ru/j/"
+    },
+    {
+        "Folder Hash": "795cbfea27e52f9014ee76650f13a5cb89648d2f5dcd89d0f3f638fdd0e84997",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8ebb62e318e8c7165ae24fe9f8b44fef3a1d67a8bbbfa94c687760263bd618c9",
+        "Brand": "Shopee",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number/ Username/ Email, Password",
+        "List of Call-To-Actions": "Login, Forgot Password, Login with QR, Login with Phone Number, Sign Up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Shopee\" is clearly visible at the top of the page. The screenshot also contains a number of other elements that are consistent with the Shopee brand, such as the company logo, the color scheme, and the overall layout of the page. Additionally, the page includes fields asking for user credentials, such as phone number/username/email and password, as well as call-to-action elements, such as \"Login\", \"Forgot Password\", \"Login with QR\", \"Login with Phone Number\", and \"Sign Up\". These elements are all consistent with the Shopee brand and are used to allow users to access their accounts.",
+        "Url": "https://shopee.sg/buyer/login?next=https%3A%2F%2Fshopee.sg%2Fshop%2F445275287%3Futm_campaign%3D-%26utm_content%3D17048272-2dfb0e4cf1a8d2d11e1d66e0fdd7e7b1-direct--%26utm_medium%3Daffiliates%26utm_source%3Dan_14228600000%26utm_term%3Da4u4d9i8oxmu"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is clearly visible on the top center of the webpage. There is also the \"Meta\" logo at the bottom of the page. The screenshot also contains fields for username or email and password, as well as a \"Login\" button.",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "af430ef89e0d3c0ed9762591c97acef6e187bde52da3a38edd4f36115b73bbb8",
+        "Brand": "Banco Bradesco",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPF, Password",
+        "List of Call-To-Actions": "Acessar, Solicite atendimento",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is clearly visible on the top left corner of the webpage. The screenshot also shows two input fields, one labeled \"CPF\" and the other labeled \"Senha\", which are likely used to enter a user's login credentials. Additionally, there are two buttons on the webpage, one labeled \"Acessar\" and the other labeled \"Solicitar atendimento\".",
+        "Url": "https://aprovarapido.online/"
+    },
+    {
+        "Folder Hash": "bf7f1b582945e4ef1f842b97d83f2913ca38948fdb7cb837b5b910c7a26e158e",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the AT&T logo. It is asking for email and password. There is a \"Sign In\" button.",
+        "Url": "https://att-102882.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "c23d392e973b20179f7e7ab5775a39c1222becf06d71e370e7b3aa4bce8856c2",
+        "Brand": "Microsoft (SharePoint)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Skype",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has a logo that resembles that of Microsoft SharePoint. The credentials and buttons can be seen on the screenshot. The screenshot is consistent with the branding and layout of Microsoft SharePoint.",
+        "Url": "http://bafybeigcgdalpgb3fdz3mkfsyp2pjmaswaungl56teg777lzbxjo23asua.ipfs.cf-ipfs.com/pup09.html"
+    },
+    {
+        "Folder Hash": "d3995faa33bac11bd44ddc9fe904fe0366266197c86fcc47736c51806863b112",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "ee2a45354b1ff2bb8eba1e92e38b17752144166d7b350ded1170e717a990e873",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://pubg-arena.top/"
+    }
+]

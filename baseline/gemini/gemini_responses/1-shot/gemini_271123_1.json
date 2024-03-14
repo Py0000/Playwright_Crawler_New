@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "164ad949f9595380059658035fdc02fbaf46e833d5e6a017297391509709b3cb",
+        "Brand": "Tasuri",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop, Contact, My Account, Shipping Worldwide",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Tasuri\" is displayed on the top left corner of the webpage. The call-to-action buttons are \"Shop\", \"Contact\", \"My Account\", and \"Shipping Worldwide\". The screenshot is of an online store.",
+        "Url": "https://basurishop.com/"
+    },
+    {
+        "Folder Hash": "19ae88c673d1b61b7e5df50961ab9e6a8b7f0b532558125fd4b81cc9818933cf",
+        "Brand": "Banpro Grupo Promerica",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is clearly visible on the top left corner. The screenshot also shows fields where users can input their credentials and a call-to-action button that says \"Sign In\".",
+        "Url": "https://46c8371e-2ec7-4ab6-8119-797076e037dd.id.repl.co/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Hanwha Techwin",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Hanwha Techwin is clearly visible on the top left corner of the screenshot. The screenshot also contains two fields asking for user credentials, namely \"Username\" and \"Password\". There is a call-to-action button with the text \"Login\".",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "31c40fdd6f2f7007261f3cf59f7d4d1b3f3d3a306a031b3e5fb8ff85ea8c8028",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot is of the Microsoft Store. The Microsoft logo is visible in the top left corner. The page has \"Shop Now\", \"See Price\", \"Buy Now\", and \"Learn More\" buttons, which are all typical call-to-action elements.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8596686c03d764958db74627678de987a7b5b3ed0490ec0b63b32c0d8374a54e",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://d15a1lvkr18tre.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "a4ad70fbd111247f286b1364997a9099527e0e1348b8a070073b27d79abfbdeb",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started >",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the word Netflix on it. It also has a red background, which is a color associated with Netflix. Also, the screenshot shows a list of movies and TV shows, which is what Netflix is known for.",
+        "Url": "https://gentmulaj1.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "c0a0edcd380a5c918c884cbd8de521c702eda077dac81d0ec9d92b519ee3d409",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot is of the Microsoft Store. The Microsoft logo is visible in the top left corner and the words \"Microsoft Store\" are visible in the top center. The page has a search bar, categories, and a shopping cart icon.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c40c09de4d38419a8dcef0dc13d33ad07bcf21bacd6df5984b58616b1fee3c8e",
+        "Brand": "Suncoast Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Member Number, Password",
+        "List of Call-To-Actions": "LOGIN, Join Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Suncoast Credit Union's online banking portal. The Suncoast Credit Union logo is clearly visible in the top left corner, and the words \"Log In To SunNet\" are displayed prominently in the center of the page. The page also includes fields for entering a member number and password, as well as a \"LOGIN\" button.",
+        "Url": "https://suncoastaut.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "e9e9b5de6eda512206beb1f71d65125b14ce947010dcf5def32e0597f091f56e",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Wells Fargo logo is clearly visible in the upper left corner of the screenshot. The screenshot also includes fields for entering a username and password, as well as a \"Login\" button.",
+        "Url": "https://intlexperiwellscomms.weebly.com/"
+    },
+    {
+        "Folder Hash": "f52a5a4a2e5c8da13499aaafe8a4df46e38baadac1abb724e8c183a9a47b38ef",
+        "Brand": "Gazprombank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Phone Number, Email, Passport Number, Residential Address",
+        "List of Call-To-Actions": "Registration button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the logo of Gazprombank, a Russian bank. The screenshot also shows a registration form with fields for entering personal information such as full name, phone number, email, passport number, and residential address. There is a call-to-action button that says \"Registration\".",
+        "Url": "https://ultimatefinancesedition.com/"
+    }
+]

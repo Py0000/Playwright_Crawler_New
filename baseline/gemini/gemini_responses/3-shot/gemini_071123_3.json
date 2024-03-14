@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "059f3a7145a116c7b3739037f55aaba024e23055d1cb700fa3eabcdbe711beaf",
+        "Brand": "Mail Center",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is shown at the top of the page. There is a text field for email and password. There is a sign in button below.",
+        "Url": "https://adsincoinciousin.web.app/?err=363-cc04b44-ib4co5-D6i4obcii44ib46bi4-4bbi-Xb5ii-D5-400-2A-74a66cc669A0e4b03a-b43DD0ec6eeD65ibe542406c4o958ae5e-4bbc54-67o03b6i-ai57c-3i0c52bc52664iXi2o5i65c4-&dispatch=3A76A3640BaA8b9CA283Bb2cB8944b7b4&id=CCC6cBaC5100C72266b1946C051534"
+    },
+    {
+        "Folder Hash": "66076adce603f73ff4a40125d2a02251b918a296fcd288464c64197bcc11962f",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is at the top of the page. The page is about Telegram.",
+        "Url": "https://telegraawm.com/"
+    },
+    {
+        "Folder Hash": "774d3f49e4ca5e646c4e35c51ad71526685bc15ace2739860a613a01c1d7e556",
+        "Brand": "Microsoft (Surface)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Pre-order now, Shop now, Buy now, See all offers",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo on the top left corner of the page, the 'Surface' branding throughout the page, and the 'Pre-order now' button are all strong indicators that this is a Microsoft Surface product page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "7d92f155796cdef849b1ebd3db2fc89712e47ab80ff68ee9f661b0c21a7550d1",
+        "Brand": "Bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log-in, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Bet365 logo. The credentials fields and buttons are behind the modal overlay.",
+        "Url": "https://993777.vip/#/"
+    },
+    {
+        "Folder Hash": "9175d3239ab45b50c732abd9ea5ddfc503bf948d468eb07da8b10a0d99a85346",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Telegram logo is clearly visible at the top of the page. The page is about Telegram, a messaging app. There are no fields asking for user credentials or call-to-action buttons.",
+        "Url": "https://www.telp5gram.com/"
+    },
+    {
+        "Folder Hash": "987ac4f51b98e55557d9c32375cdad841002975ad115944ffc6c3b8d75b0d7f2",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More, Install App, Connect Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"WalletConnect\" is prominent in the screenshot, and the overall design and layout of the page is consistent with the WalletConnect branding. Additionally, the page includes links to the WalletConnect website and social media pages.",
+        "Url": "https://walletanalogy.com/"
+    },
+    {
+        "Folder Hash": "b0f012a4a3c2ee9f4fb53dc21c3939e79d165a4ce4c8477375d7052619553860",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or mobile number, Password",
+        "List of Call-To-Actions": "Sign-in, Create an account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Orange is present on the top left corner of the webpage. The screenshot contains fields for email or mobile number and password, as well as a \"Sign in\" button, which are typical of login pages.",
+        "Url": "https://succesreussite522.wixsite.com/my-site"
+    },
+    {
+        "Folder Hash": "bc2f4d4856e648301b1d502369142d426b96e833b76eae1b1e3462115f8ca997",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0",
+        "Supporting Evidence": "There is no logo or trademark present on the screenshot. No credentials or call-to-action elements can be seen.",
+        "Url": "https://coinianse.com/?a=wallet"
+    },
+    {
+        "Folder Hash": "bd3f90eac256d91838b69d4a08c149cdbacde2999429eedf550b11d4a539ab9f",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a Weebly logo at the bottom. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://napcooilgasdubaillc.weebly.com/"
+    },
+    {
+        "Folder Hash": "eeffbebb79ee6891f7b0735876c3bc3decddfaff446d220e55570292eb0bb997",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Telegram, Telegram for Android, Telegram for iPhone/iPad",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present on the top left corner of the webpage. The call-to-action buttons are clearly visible in the middle of the page.",
+        "Url": "http://wtelegram.com/home"
+    }
+]

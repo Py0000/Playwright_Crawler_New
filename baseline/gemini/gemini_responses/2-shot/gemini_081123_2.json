@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0ce809619a352bbbb3017df602856ecec7a30bd18bb209bdff07283959ae02bb",
+        "Brand": "ABANCA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF/NIE, Username, Password",
+        "List of Call-To-Actions": "Login, Forgot Password, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of ABANCA is on the top left corner of the page. The screenshot shows a login page with fields for NIF/NIE, username, and password. There is a button that says \"Login\" and a link that says \"Forgot Password\". At the bottom of the page, there is a link that says \"Register\".",
+        "Url": "https://dtv-ar.com.es/home.php"
+    },
+    {
+        "Folder Hash": "165fc268d6180931118405d7c487b93351dd23b9cb1899e4b01b095b5628d49a",
+        "Brand": "Red Silver",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Acessar minha conta, Entrar em contato",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is shown on the top left corner of the page. The call-to-action buttons are also indicative of a login page.",
+        "Url": "https://www.redsilveroficiall.com.br/"
+    },
+    {
+        "Folder Hash": "46eb9a95352f49cb2c7e836a3a37cedf6d29cbcb7a2cd1448a71123ba4853620",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Email Address, Date of Birth, Address",
+        "List of Call-To-Actions": "Claim Reward button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a Facebook logo. It is asking for user credentials such as Full Name, Email Address, Date of Birth, Address, which are commonly used by Facebook for account registration and verification. There is a call-to-action button that says \"Claim Reward\".",
+        "Url": "https://www.ff.membes.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c5972f617f3c3dff4464ed7e8a77f4b9f285dcb1ad66dafee8b2e2594e08d2c",
+        "Brand": "WebClient",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is shown on the top-left corner of the login interface. The screenshot also contains a textbox for password and a \"Sign In\" button, which are typical elements of a login page.",
+        "Url": "https://eirz7.sa.com/.xl/alldoman/genWeb/genWeb/webmail/?client_id=tPWxE3ynQb4qhed6lFzHuV&redirect_uri=https%3A%2F%2Fwww.%2F&protectedtoken=false&id=&Country=NL&x=&i=others"
+    },
+    {
+        "Folder Hash": "703fe3dcac2231cdd9de7b2f0fb1d7c86d32edcb5fa159ba2d3853fed1e71696",
+        "Brand": "DPD Germany",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Planen Sie eine neue Lieferung",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The DPD Germany logo is present on the top right corner of the webpage. The screenshot is in German and the overall layout and design is consistent with the DPD Germany website. Additionally, the URL contains \"dpd.de\", which further indicates that this is the DPD Germany website.",
+        "Url": "https://ecard.com.eg/de_dpd7859/"
+    },
+    {
+        "Folder Hash": "75da1e9b363b48a69f858b885d2a9dcb610fe67fd7a9ac9c6a98be294e5cd921",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, email or user ID, Password",
+        "List of Call-To-Actions": "Sign In, Try something else, Create an account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the logo of Intuit. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "89891a51098ad4bb158df18ac41be398d76bdc7c7a1e6b6a25aa0402ab8137d6",
+        "Brand": "Mail.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the words \"Mail Center\" on top. The screenshot shows fields for email address and password, and a \"Sign In\" button.",
+        "Url": "http://ls360.org/function/uploadfile/20220412/20220412000328_60888.html?err=MPVL0DGO4CXHVYHFL5L&err=MPVL0DGO4CXHVYHFL5L&dispatch=1Ab&id=9ab8BA6464964b06c71BA97B586c03"
+    },
+    {
+        "Folder Hash": "b9480bcd0115c6462abe990004bfaed41ad25401e19b9a421928604de6481533",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Netflix logo. The screenshot is of a webpage where users can sign up for a Netflix account.",
+        "Url": "https://adithyan12789.github.io/Netflix.github.io/"
+    },
+    {
+        "Folder Hash": "fa8f2a9abf0de550ded33072654f57b597cd63df79da7ff0585c3db339151ec0",
+        "Brand": "Bank BTN",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The logo of Bank BTN is clearly visible on the top center of the screenshot. The fields for entering full name and phone number are also visible. There is a \"Continue\" button which is a call-to-action element.",
+        "Url": "https://contoh-btn11.resmi-id.art/"
+    },
+    {
+        "Folder Hash": "ff9f690d6ed31ac6b0d3fcb379ab4a1ad10ddbb57b0a19a351cb02b1231c6dd0",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Turn on Facebook Protect",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is on the top left corner. The Facebook logo is also present. The call-to-action button is also present.",
+        "Url": "http://support.768684333.kamnya.net/help/contact/9417940251527349"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white USPS logo at the top left corner. The words \"USPS Tracking\" are in the center of the page. Below the logo is a tracking number field. There is a button that says \"Track Another Package\" below the tracking number field. There is a link that says \"FAQs\" in the upper right corner of the page.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address/Login ID, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DHL logo is clearly visible at the top of the page. The screenshot also includes fields for entering an email address/login ID and password, as well as a \"Sign In\" button. These are all common elements of a login page.",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "Members 1st",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Members 1st\" is clearly visible at the top of the page. The screenshot also includes fields for entering a username and password. There is a \"Sign In\" button that is consistent with the brand's color scheme.",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Verify Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has a blue background with a white box in the center. The white box contains the Facebook logo,  a message that the account has been restricted, and a button that says \"Verify Account\".",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Connect",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Orange. The page is asking for credentials such as email and password. It also has a call-to-action button that says \"Connect\".",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "Metamask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Download, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Metamask logo at the top left corner. The screenshot also shows two input fields, one labeled \"Username\" and the other labeled \"Password\". There is also a button labeled \"Download\" and \"Learn More\".",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Webmail\" on the top. It is likely a login page for an email service. There are two input fields, one for email address and another for password. There are two buttons, one for logging in and another for resetting password.",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "b152ab1f314e8508af30123e4907f67ac1657d02dca13a358679d6452c92bf2e",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white USPS logo at the top left corner. The words \"USPS Tracking\" are in the center of the page. Below that, there is a tracking number field and a button that says \"Track\". The page also has links to the USPS website and other resources.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/standard-shipping/"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white USPS logo at the top left corner. The words \"USPS Tracking\" are in the center of the page. Below that, there is a tracking number field and a button that says \"Track Package\". The page also has links to the USPS website and other resources.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, email, mobile, password",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Yahoo\" is clearly visible on the top center of the webpage. The screenshot also contains fields asking for credentials such as username, email, mobile, and password. There is also a call-to-action button that says \"Next\".",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

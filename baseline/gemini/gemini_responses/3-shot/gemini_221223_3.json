@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1bc24aeff90db5aa1a3e53e00ea5d7b1a3ebbe58bc68d7e77008617c16851f69",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games and consoles, Choose your Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Microsoft logo is clearly visible in the top left corner of the webpage. The page is selling Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "1cd0dbd45cc37ebf6eb2f4fb3dba22ee61b04015e6c0709981976f600d82f0af",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Facebook, Twitter, Youtube, Instagram, VK, Discord",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The PUBG Mobile logo is clearly visible at the top of the page. The call-to-action buttons for social media platforms are also visible at the bottom of the page.",
+        "Url": "https://goodeat12.eventfree.de/"
+    },
+    {
+        "Folder Hash": "2652bcee0aeaf8fb0d8c70e5ee1a4c79b2c884b99d9f64ae19e428e0bee518b0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the top left corner. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "52a14d8528acc72b4ed6e7793fe341a8aa84711925ee3bf80707b238e7f772d4",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See all offers, Learn More, Buy Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is shown on top left corner of the webpage. The call-to-action buttons can be seen on the screenshot.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "79dd2bd59fab3bde710517c9528ac5a279f8d5380d21e55df6bfebac0c44977b",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Hier geht's zur Ihrer Bank",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of the bank is clearly visible in the top right corner of the page. The page is a landing page for the bank's online banking service. The page has a blue background with a white banner at the top. The banner has the bank's logo and the words \"Volksbanken Raiffeisenbanken\" in white. The page has a search bar in the top right corner and a navigation bar below the banner. The navigation bar has links to the bank's various services and products. The page has a large image of a group of people in the center of the page. The image is of a group of people standing in front of a building. The people are all smiling and waving. The page has a section below the image with three different buttons. The buttons are labeled \"Privatkunden\", \"Firmenkunden\", and \"Institutionen\". The page has a footer at the bottom of the page. The footer has links to the bank's various legal and privacy policies.",
+        "Url": "http://puchem-international.com/.well-known/64394/Login.html"
+    },
+    {
+        "Folder Hash": "7b226573de1568a0182cc870e9eefab06d506c979bba734e0b8cf66fe4ee1798",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The red and black Netflix logo is clearly visible at the top right corner of the page. The screenshot contains a form asking for user credentials such as email. The call-to-action button says \"Get Started\".",
+        "Url": "https://darsandinesh.github.io/Netflix_Clone/"
+    },
+    {
+        "Folder Hash": "b62094a01946c3c1aab9c6300e05f34310d50ecc3b63823db6e890e2d77256a7",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of outlook. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://microsoftsupport.be/en/connect/?email=3mail@b.c&secret=dxhaxuE5KtdQAcReEzKYY0eKJkHpA556Ueeb"
+    },
+    {
+        "Folder Hash": "c62dacc4a2a1f3b5eb142353bee0ecff811e5f43b1234b2775757a3cd8227d73",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The red and black Netflix logo is clearly visible at the top right corner of the webpage. The screenshot shows a page where users can sign up for a Netflix account. The 'Get started' button is a clear call-to-action, and the text above it asks for the user's email address, which is a common credential required for creating an account.",
+        "Url": "https://rajithteja04.github.io/Netflix-Home-Page-Clone/"
+    },
+    {
+        "Folder Hash": "c8123d8101a7c3d9bdd8d0dc730cea4c58025b101613fe7e0db20ad72ab1e4be",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign-in, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The red and black Netflix logo is clearly visible at the top left corner of the page. \"Sign In\" and \"Get Started\" buttons are also present.",
+        "Url": "https://atharva5522.github.io/Netflix-project/"
+    },
+    {
+        "Folder Hash": "dc9d05a407242d2a7cae23e50be4e41682fb138bb5a5f7829917f198df2417c1",
+        "Brand": "ePanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of ePanel is present on the top left corner of the webpage. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeidoii6rv43yd4duuure2kdyneon7cu5oughg76cfsb4m3yz4asflq/"
+    }
+]

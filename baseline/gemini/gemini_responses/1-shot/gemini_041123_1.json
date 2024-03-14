@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "GET STARTED button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo, the words \"Sign In\", and two fields for entering an email address and password. There is a blue button with the words \"GET STARTED\" next to the password field. The overall design of the page is consistent with the Netflix brand.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Try Telegram",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo and the overall design of the webpage resemble that of Telegram. The call-to-action button is also consistent with Telegram's branding.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "Phemex",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Connect Wallet, Registration",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Phemex\" is prominent at the top of the page. The screenshot also includes a section for connecting a wallet and a registration form  requesting for email and password.",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Join Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the bet365 logo at the top left corner. It also has a \"Login\" button and a \"Join Now\" button. The screenshot also shows fields for entering a username and password.",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Free Trial, Book a Demo, Sign Up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"SurveySparrow\" is displayed prominently on the top left corner of the webpage. The page has 3 call-to-action buttons with the texts \"Free Trial\", \"Book a Demo\", and \"Sign Up\".",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Shop now, See plans",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Microsoft\" is clearly visible in the top-left corner of the webpage. The screenshot also contains a set of fields asking for user credentials, including an email address and password. Additionally, there is a call-to-action button labeled \"Shop now\" and \"See plans\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "JEK-MINER",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "Registration, Contacts",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a blue background and a white header. The header contains the company logo, which is a stylized pickaxe with the text \"JEK-MINER\" below it. The main body of the webpage contains a form with two fields: \"Email\" and \"Phone Number\". Below the form, there are two buttons: \"Registration\" and \"Contacts\". The overall design of the webpage is simple and straightforward, with a focus on the form and the two buttons. The presence of the company logo, the form, and the two buttons suggests that this is a webpage for a company called JEK-MINER.",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono",
+        "List of Call-To-Actions": "Iniciar sesi\u00f3n, Hazte cliente, Crea tu clave de acceso",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of BBVA is clearly visible in the screenshot. The screenshot also contains several fields asking for user credentials, including NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono. Additionally, there are two call-to-action buttons, Iniciar sesi\u00f3n and Hazte cliente.",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]

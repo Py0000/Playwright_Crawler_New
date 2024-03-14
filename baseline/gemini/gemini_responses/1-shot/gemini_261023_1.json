@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a",
+        "Brand": "Societe Generale",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Societe Generale is clearly visible in the top left corner of the screenshot. The screenshot also contains a form asking for the user's username and password. The \"sign in\" button is also visible in the screenshot.",
+        "Url": "https://custeur.dnsalias.net/oiuiyutfio/SG%2020/"
+    },
+    {
+        "Folder Hash": "00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2",
+        "Brand": "Correos",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Seguir, Descargar la app de Correos",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Correos is clearly visible in the upper left corner of the screenshot. The page is for tracking a package, with the option to download the Correos app.",
+        "Url": "http://kivaya.com/ESV5612/index.php?FGDD=1#HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG"
+    },
+    {
+        "Folder Hash": "00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of outlook. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://worudi.com/office.com/"
+    },
+    {
+        "Folder Hash": "00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5",
+        "Brand": "AI Crypto Trading",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join Group",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is on the top of the screenshot. The Join Group button is also a clear indication that this is a webpage for users to join a group.",
+        "Url": "https://tjcks66.xyz/"
+    },
+    {
+        "Folder Hash": "03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59",
+        "Brand": "12 Volt Does It",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Request Appointment, Shop 12 Volt Wire, Documentation, Fusebox, Bulb Chart, Contact Us, Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the words \"12 Volt Does It\" at the top. The logo is also present on the left corner of the page. The call-to-action buttons are clearly visible on the top right corner of the page.",
+        "Url": "https://www.12voltdoesit.com/"
+    },
+    {
+        "Folder Hash": "05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Buy Now button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Office 365 logo in the top left corner. The page also has fields for entering a username and password, as well as a button that says \"Buy Now\".",
+        "Url": "https://www.officesoftcn.com/newbuy.html?onlineid=1669170002311"
+    },
+    {
+        "Folder Hash": "0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start, Like, Follow, Subscribe, Join",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the home page of PUBG Mobile. The PUBG Mobile logo is clearly visible at the top left corner of the page. The page also has several call-to-action buttons, including \"Start\", \"Like\", \"Follow\", \"Subscribe\", and \"Join\". These buttons are all designed to encourage users to interact with the game and its community.",
+        "Url": "http://she2we.privrendom.com/"
+    },
+    {
+        "Folder Hash": "0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Google logo. The page also has fields asking for username and password. There is a call-to-action button that says \"Sign In\".",
+        "Url": "http://cynosure-modelling.cloud/login.html"
+    },
+    {
+        "Folder Hash": "4e34f5dbdf9094db6a984687f2d83025273fac431aef32639e51cf0136d94f65",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number",
+        "List of Call-To-Actions": "Sign-up button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo, trademark, and the overall design of the webpage resembles that of Telegram. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://www.bzfumru.com/"
+    },
+    {
+        "Folder Hash": "589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://gruop-wadtudjjw.terbaru-2023.com/vhsfhqpdhdsih6/"
+    },
+    {
+        "Folder Hash": "76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID",
+        "List of Call-To-Actions": "Sign In, Create Apple ID",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Apple logo and the words \"Apple ID\" on it. The page also has fields for entering an Apple ID and password, as well as a button that says \"Sign In\".",
+        "Url": "https://skstore.top/"
+    },
+    {
+        "Folder Hash": "8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present at the top left corner of the webpage. The page is mainly about Telegram's features.",
+        "Url": "https://www.telegramm.cloud/TG_ZH/index.html"
+    },
+    {
+        "Folder Hash": "d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7",
+        "Brand": "SHENG HO JIUN",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is located at the top-center of the page. There is a logo next to it. The call-to-action buttons are clearly visible at the top-right corner.",
+        "Url": "https://www.shjbottle.com/"
+    },
+    {
+        "Folder Hash": "decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f",
+        "Brand": "Desjardins",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Se connecter",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Desjardins logo is clearly visible in the top right corner of the webpage. The page is in French, and the call to action button says \"Se connecter\", which means \"to connect\" or \"to log in\".",
+        "Url": "https://www.fondsdesjardins.com/fnb/prix-rendements/"
+    },
+    {
+        "Folder Hash": "f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d",
+        "Brand": "Arvest Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Apply Today, Get Started, Request Call Back",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the words \"Arvest Bank\" on the top left corner. The logo is also consistent with Arvest Bank's branding. The page has a form with fields asking for user credentials. There is a call-to-action button that says \"Apply Today\".",
+        "Url": "http://arvestonlineltd.com/"
+    },
+    {
+        "Folder Hash": "f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f",
+        "Brand": "Narodnye Nalitki",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Narodnye Nalitki is clearly visible at the top of the page. The rest of the content is in Russian. The overall design of the page is consistent with other Narodnye Nalitki webpages.",
+        "Url": "https://pivokom.ru/"
+    }
+]

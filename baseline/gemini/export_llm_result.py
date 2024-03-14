@@ -1,5 +1,8 @@
 import argparse
 import openpyxl
+import os
+import tldextract
+from baseline.utils import utils
 from utils.file_utils import FileUtils
 
 class LlmResultExport:
@@ -63,7 +66,8 @@ class LlmResultExport:
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Supply the folder names")
-    parser.add_argument("json_path", help="Analysis json file path")
+    # parser.add_argument("json_path", help="Analysis json file path")
+    parser.add_argument("shot", help="Few shots used")
     parser.add_argument("sheet_path", help="Excel sheet file path")
     parser.add_argument("hash_col", help="File Hash Column")
     parser.add_argument("brand_col", help="Predicted Brand Column")
@@ -74,5 +78,10 @@ if __name__ == '__main__':
     parser.add_argument("is_phish", help="Is Phishing Column")
     args = parser.parse_args()
 
-    export_object = LlmResultExport(args.hash_col, args.brand_col, args.credentials, args.call_to_actions, args.confidence_score, args.sld, args.is_phish)
-    export_object.update_sheet_with_responses(args.json_path, args.sheet_path)
+    folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec
+    # folders = utils.benign_folders
+    
+    for folder in folders:
+        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
+        export_object = LlmResultExport(args.hash_col, args.brand_col, args.credentials, args.call_to_actions, args.confidence_score, args.sld, args.is_phish)
+        export_object.update_sheet_with_responses(json_file_path, args.sheet_path)

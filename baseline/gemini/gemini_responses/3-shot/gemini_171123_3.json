@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tracking Number, Full Name, Street Address 1, Street Address 2, City, State, Zip Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of USPS is present on the top left corner of the webpage. The screenshot also contains fields for entering a tracking number, full name, street address 1, street address 2, city, state, zip code, and phone number. These fields are typically used to track a package. The \"Continue\" button is consistent with the USPS branding.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address/Login ID, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DHL logo is clearly visible at the top of the page. The screenshot also contains fields for email address/login ID and password, as well as a \"Sign In\" button.",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "Members 1st",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign-In, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Members 1st is clearly visible at the top left corner of the webpage. The screenshot also shows two input fields, one labeled \"Username\" and the other labeled \"Password\". These fields indicate that the user is required to enter their credentials in order to access the website. The \"Sign-In\" button suggests that the user will be able to access the website after entering their credentials.",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Verify Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a Facebook-styled message stating that the account has been restricted. There is also a \"Verify Account\" button.",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The logo of Orange is present on the top left corner of the webpage. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "Metamask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Unlock",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Metamask logo is clearly visible in the top-left corner of the screenshot. The screenshot also shows a login form with a  password field. The \"Unlock\" button is also visible.",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a logo of cPanel. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "b152ab1f314e8508af30123e4907f67ac1657d02dca13a358679d6452c92bf2e",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tracking Number, Full Name, Street Address 1, Street Address 2, City, State, Zip Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of USPS is clearly visible on the top left corner of the webpage. The screenshot also includes fields for entering a tracking number and other personal information such as full name, address, and phone number. The presence of these fields indicates that the webpage is likely associated with USPS.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/standard-shipping/"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tracking Number, Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of USPS is clearly visible on the top left corner of the webpage. The screenshot is of a USPS webpage where users can track their packages. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, email, or mobile, Password",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a Yahoo logo. There are input fields for username, email, or mobile, and password. There is a 'Next' button.",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

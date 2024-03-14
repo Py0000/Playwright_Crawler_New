@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the Microsoft logo and branding. The page also has fields asking for user credentials, including email and password. There is also a call-to-action button that says \"Sign in\".",
+        "Url": "https://sites.google.com/amricalturs.net/download4/microsoft-office-365"
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch the event",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Apple\" is clearly visible at the top center of the page. The \"Watch the event\" button is also visible, indicating that this is a promotional page for an upcoming event.",
+        "Url": "https://www.apple.com/uk/"
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo and branding. The call-to-action buttons are also consistent with the PUBG Mobile brand.",
+        "Url": "https://pubgmobilecorporationevents.klikdisini2023.my.id/"
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the AT&T logo at the top right corner. The page is asking for username and password, and has a \"Sign In\" button, which are typical elements of a login page.",
+        "Url": "https://mail-102784.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "8367d843344f32ddf9b77e6f2c55b26d1a7c0298d61f1348cc15bef4759e90da",
+        "Brand": "Microsoft (Surface)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Pre-order now, Shop for Surface devices, Buy Xbox games and consoles, Choose your Microsoft 365, Shop for business, Shop for students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the Microsoft Surface webpage. The top bar contains the Microsoft logo, and the words \"Microsoft 365\", \"Windows\", \"Xbox\", \"Sale\", \"Small Business\", and \"Support\". The main part of the page is a large banner with the words \"Surface Laptop Studio 2\" and a picture of the laptop. Below the banner is a section with the words \"Introducing the Surface Laptop Studio 2\". This section contains a list of the features of the laptop, as well as a button that says \"Pre-order now\". The bottom of the page contains a section with the words \"Shop Surface devices\". This section contains a list of different Surface devices that can be purchased.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Instagram\" is displayed at the top of the page. There are fields asking for user credentials such as email and password. There is a call-to-action button that says \"Login\". The overall design and layout of the page resembles that of Instagram's login page.",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is clearly visible at the top left corner of the page. The page is displaying a list of products with prices and \"Shop now\" call-to-action button.",
+        "Url": "https://www.amazon258.top/"
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "Mail.ru",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand's logo is clearly visible in the top-center of the screenshot. The screenshot also contains two fields for user credentials, and a call-to-action button.",
+        "Url": "http://pub-b2955bd5cc5a447cba7f9017e8915538.r2.dev/webmail.html"
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "Hubstaff",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo that resembles that of Hubstaff. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://bitbaink.web.app/login"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot has the words \"Axis Bank\" on it. The page also has a link to the bank's website. The page also has a button that says \"Unlock Benefit\".",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    }
+]
