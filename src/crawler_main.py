@@ -109,6 +109,7 @@ async def get_server_side_data(browser, ref_flag, folder_path, to_visit_url):
 
 # Obtains all the client-side calls that is present in the page HTML Script
 async def get_client_side_script(page, folder_path):
+    status = "Failed"
     try:
         client_side_scripts = await page.evaluate(crawler_utilities.client_side_scripts_injection_code)
 
@@ -291,6 +292,7 @@ async def crawl(browser, url, url_hash, folder_path, timeout_multiplier, ref_fla
         
 
     except Exception as e:
+        print(e)
         crawler_utilities.save_html_script(folder_path, util_def.FILE_HTML_SCRIPT_AFT, f"Error occurred for url: {url}\n{e}")
         client_html_script_status = "Failed"
 
