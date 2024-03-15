@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1e8122f8ec70c9fa08ba6c75607978ae052c7b94c1af59d61d6264a8bca8f746",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Discord\" is prominently displayed in the webpage's header. The overall design and color scheme of the webpage is consistent with Discord's branding. The page also features Discord's logo and a call-to-action button that says \"Download for Windows\".",
+        "Url": "http://apimj.sencant.com/"
+    },
+    {
+        "Folder Hash": "22c97b496360dd202caed914db887ec5c980c4ee26cd582b2220d15ba1478704",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://hritik0910.github.io/Netflix-Homepage-Clone/"
+    },
+    {
+        "Folder Hash": "2e2e8ec72f8fbdb21f2d801d6dcd2a82cfc9bcd5b512475bfc2e1d496086c233",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://khushivb.github.io/movie/"
+    },
+    {
+        "Folder Hash": "312d6bd8b1d3812052902aaa3b92cccc890aaa7689f5add9f51661267f599569",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "GET STARTED>",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo at the top left corner. The predominant colors used on the webpage are red and black, which are consistent with Netflix's branding. The page also has the words \"Netflix\" and \"Watch anywhere. Cancel anytime.\" prominently displayed, which further confirms that this is a Netflix webpage. In addition, there is a form field asking for user credentials (email address) and a call-to-action button that says \"GET STARTED>\".",
+        "Url": "https://strippie.github.io/netflix-homepage/"
+    },
+    {
+        "Folder Hash": "372af7c500921a3c9d81706e82dc79a481b1a0896a6f144b2978686e07278671",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The brand name \"Volksbanken Raiffeisenbanken\" is prominently displayed at the top of the webpage. The logo is also clearly visible. The overall design and color scheme of the webpage are consistent with the brand's guidelines. The webpage has multiple forms where users can input their credentials and call-to-action buttons that prompt users to log in or sign up.",
+        "Url": "https://easy-doc-templates.com/.quarantine/1406/Login.html"
+    },
+    {
+        "Folder Hash": "3d7e3f6bf3aac59c567bef040b82b72af1f4c9b18914bcc5a5e46538900d88a9",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand is prominently displayed in the top-left corner of the webpage and in the footer. The overall design and layout of the webpage are consistent with Microsoft's branding guidelines. The products and services featured on the webpage are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4b489fac3321f0d02dad3816d38ca152081905158e66f831e0ff2db14120a1bd",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://xpsky.pages.dev/"
+    },
+    {
+        "Folder Hash": "5911f837d733f873dc9c2ad2b4ce33abb9b18fb08bb7926906fa5ebc5989a8f1",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://prarthnadhokiya.github.io/Bharat-intern-Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "603b97380828a9dc931af4785a4b4044d2a3f487f8a611c0813aaf5d21c960d6",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://divjot121.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "8d13d03d13832ccc6af81c1bbbbcb831cd8f0324ad137db90cd0ea07f1f480f2",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://afreen356.github.io/netflix123/"
+    }
+]

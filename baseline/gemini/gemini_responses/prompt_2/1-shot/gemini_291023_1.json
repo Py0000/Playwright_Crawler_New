@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "039fe99cdabd53ecfa4c892d2b8093bf71cf0fd2ae28cb14f1e973de3ba27e42",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The presence of the Microsoft logo, the \"Confirm your identity\" text, and the email field for entering credentials suggest that this is a Microsoft login page. The \"Next\" button indicates that this is a call-to-action for the user to proceed with the login process.",
+        "Url": "https://bafybeifenqc5dv5bp3wibnrukqjx334bouavrzelldan26fl6oittcb2aa.ipfs.w3s.link/officeonedrivehtml.html"
+    },
+    {
+        "Folder Hash": "1cb807ee63a662404e46ea6773adc630950b5689a7f09616e0a5d378959dadb5",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo that says \"Webmail\". Below the logo, there is a form with two input fields, one labeled \"Username\" and the other labeled \"Password\". There is also a button that says \"Sign In\".",
+        "Url": "https://mailwebserveraccessverificationacessmailacessswebsbusiness.pages.dev/"
+    },
+    {
+        "Folder Hash": "42db5c12cf9057611ba542a86d8bbe1b605233dba88906be02f4cfd94d6eb31c",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a login form. The logo of Microsoft Office 365 is present on the top left corner of the page. The page has a blue background, which is consistent with the branding of Microsoft Office 365. The page also has a text that reads \"Sign in with Office 365 to view document\", which indicates that the webpage is associated with Microsoft Office 365.",
+        "Url": "https://bafkreicr7z4zdpsydblclljmo3qaqvjgtrgyoltyqxzbanaroapf5fndmu.ipfs.dweb.link/"
+    },
+    {
+        "Folder Hash": "522fd03f71fd385aca3d8aa1a340afafd4659ba221520dd7c221594a53daafe3",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present on the webpage. The page is mainly about Telegram and its features.",
+        "Url": "https://www.zh-telegram.net/"
+    },
+    {
+        "Folder Hash": "5a7ce2c8b28da72760e7f2573991b0fb9995036f458ef058c5d7b46ab770f6a4",
+        "Brand": "Midasbuy",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "OK",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Midasbuy is present on the top left corner of the webpage. The webpage has a blue background, which is consistent with the brand's color scheme. The webpage also has a number of call-to-action buttons, such as \"OK\" and \"Follow us on social media\".",
+        "Url": "https://espelhorosa.com/hanon/b/"
+    },
+    {
+        "Folder Hash": "8a551d2519b6ff84103d775267a67c771ec8a899a56c2118303df11b098b8433",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"MetaMask\" is prominently displayed at the top of the page. The page has a blue background, which is consistent with MetaMask's branding. The page also features a \"Connect Wallet\" button, which is a common call-to-action for MetaMask users.",
+        "Url": "http://maskdex.net/"
+    },
+    {
+        "Folder Hash": "a501574c9ac4e30ab3c7ce28a875132ff141b9b28bed5054fb1dab11edd0e3cf",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage has a dark theme with a black background and white text. The main focus of the webpage is a form that asks for the user's credentials. The form has two input fields, one for the username and one for the password. There is also a checkbox that says \"Remember me\". Below the form, there is a blue button that says \"Sign In\". The webpage also has a logo of a square with a checkmark in it.",
+        "Url": "http://bafkreieoagxmj5ssouxuk7vuolq72npprkvd5vp6s3mnk2f6xztz73dayy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "a9d437c88ade222d1cff3ea572212a1917fec939036ea1a6da8e5f4857999d88",
+        "Brand": "Park National Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More, Meet the Team",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Park National Bank is present at the top left corner of the webpage. The blue color used in the logo and the webpage is consistent with the brand's color scheme. The 'Personal' and 'Business' options on the top right corner are indicative of the services offered by the bank.",
+        "Url": "https://gattaranmis.com/index.html"
+    },
+    {
+        "Folder Hash": "e27377a39368ab6ec8bb1d4e7e5b50fc8caf25919074f3bddef7ce617ef35273",
+        "Brand": "OpenSea",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Claim Airdrop",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of OpenSea is present on the top left corner of the webpage. The blue and white color scheme used on the webpage is consistent with OpenSea's branding.",
+        "Url": "https://opensea-nft.eu.org/1OTlqMGo3qAIAsAIA.htm"
+    },
+    {
+        "Folder Hash": "e5a9aec7b156e79a429c9596cf78f718ff0e346a555ae6b20a7d98e4994e712b",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Outlook logo. The page requests for credentials like email address and password and has a call-to-action button that says \"Sign In\".",
+        "Url": "https://pub-9d425aa9335c4307a502c0721d499bdd.r2.dev/7MSoutlook4.html?/cpsess0355843576/frontend/jupiter/filemanager/editit.htmlfile=send.php&fileop=&dir=/home/fishvoez/public_html&dirop=&charset=&file_charset=utf-8&baseurl=&basedir=&edit=1"
+    }
+]

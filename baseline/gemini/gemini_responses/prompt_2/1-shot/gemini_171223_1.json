@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1dd0c1f7539926d5de978334a85bf888b354fe7562d70e2db225b88b66b95612",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Orange logo at the top left corner. The Orange logo is also present in the favicon. The webpage is in French, which is consistent with Orange being a French company.",
+        "Url": "https://identifiez-vous08.hubside.fr/"
+    },
+    {
+        "Folder Hash": "295e747dadcb8721180a22558c01ec4070ffa6eb9f17b8ce619b3eb9346addeb",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Volksbanken Raiffeisenbanken is present at the top left corner of the webpage. The color scheme of the webpage is predominantly blue and white, which are the brand colors of Volksbanken Raiffeisenbanken.",
+        "Url": "https://prosodix.com/.well-known/17704/Login.html"
+    },
+    {
+        "Folder Hash": "40ecb74ec815c943b3cb17e7f56cc3acbcd52c7981d23c71c047a65d838ab9f4",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Start your free trial, Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is clearly visible on the top right corner of the page. The webpage has a prominent red button with text \"Start your free trial\" and a link \"Sign In\" below it.",
+        "Url": "https://mariomartinezaguilar.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "447ee13c34c2907cf3b9e8a10a97e3c4b17fd2776e21ea2e8e6e683d043a4316",
+        "Brand": "bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download App, Join Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of bet365 is clearly visible in the top left corner of the webpage. The predominant colors used on the webpage are green and black, which are consistent with the brand's color scheme. The webpage also features a number of call-to-action buttons, such as \"Download App\" and \"Join Now\", which are typically used to encourage users to sign up for an account or make a purchase.",
+        "Url": "http://nrl688.com/"
+    },
+    {
+        "Folder Hash": "6975b5e5aef785e2c0090af6307fc07857e92f41e2ed43cc3c48e50e9caa85e0",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See All Deals, Shop Xbox Series X, Shop Xbox Games, Shop Xbox 360, Choose Your Microsoft 365, Sale, Shop for Students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Microsoft\" is displayed at the top of the page. The page has the Xbox logo and the words \"Xbox Series X\" in the header. The page is selling a product called the \"Xbox Series X\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "6bb2cc568067b517b177e9c705af145a8c6273391f4287fafb1e0dccfc401d08",
+        "Brand": "Codashop",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Codashop\" is written at the top center of the page. Although the page features the logo and name of other brands like \"Mobile Legends\" and \"Bang Bang\", these are likely third-party brands or partners, and not the main focus of the webpage. The call-to-action button says \"Buy Now\", which is a common call-to-action for e-commerce websites.",
+        "Url": "https://jjoingrupwhastapp.ktt55.my.id/mobile-legends/index.php"
+    },
+    {
+        "Folder Hash": "8a7adf77466cef0fc8dde857892143a066055e9462fe229d11e2a38e6a31d2fa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the top left corner of the webpage. The webpage has a prominent red color, which is consistent with Netflix's branding. The page has fields where users can enter their email addresses and also has a 'Sign In' button, indicating that users can create an account or sign in to an existing one.",
+        "Url": "https://waliderprint69.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "94edd0f6e0a96a44e6f967355303b830ad5b467b036415bede9646ad22c4571f",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address or Phone Number",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a Meta logo at the bottom, which is the parent company of Facebook. The page also has a Facebook-branded icon on the tab.",
+        "Url": "https://page-meta-support-id88594936.pages.mus.br/19"
+    },
+    {
+        "Folder Hash": "a7ff7179ebdc42e3298d3428a58517118b9a41b43897369bfbe2fb86046ce9a8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started >",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the webpage. The webpage has fields asking for user credentials like email address. It also has a call-to-action button that says \"Get Started >\".",
+        "Url": "https://prashantkmr389.github.io/netflix_clone/"
+    },
+    {
+        "Folder Hash": "d11faf0e41a2339470a2d495463bdf51e2665f65552e94fdff0f473cee9a2aac",
+        "Brand": "bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cardholder name, Card number, Expiration date, CVC, Phone",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of bpost is present on the top left corner of the webpage. The page also has a form where users can enter their credit card details. The presence of the bpost logo and the credit card form indicates that this is a webpage associated with bpost.",
+        "Url": "https://pakket-bpost-be.web.app/"
+    }
+]

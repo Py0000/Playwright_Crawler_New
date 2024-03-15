@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "05af1ebf4057cde3f9b51d4d45e4d7ec9a4d25b4b4c19d17bcc93a43b416bf2e",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The brand name \"Volksbanken Raiffeisenbanken\" is prominently displayed at the top of the webpage. The logo of the bank is also present on the page. The webpage uses a color scheme of red, white, and blue, which are the colors of the bank's logo.",
+        "Url": "https://prosodix.com/.well-known/32044/Login.html"
+    },
+    {
+        "Folder Hash": "1bdb900bfccf4e4e37505e9ce233a21717f58723ceec82391212378c2ff94d1f",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" prominently displayed at the top left corner. The logo is also present on the page. The predominant colors used on the webpage are red and black, which are consistent with Netflix's branding. The page has fields asking for user credentials, such as email address, and a call-to-action button that says \"Get Started\".",
+        "Url": "https://amangangwani1101.github.io/Netflix-Clone-Project/"
+    },
+    {
+        "Folder Hash": "262401372fb780e37223f4792f374c89ac64f0b97f97186facd5482a028b6164",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand is prominently displayed in the top-left corner of the webpage. The overall design, color scheme, and imagery used on the webpage are consistent with Microsoft's branding guidelines. The call-to-action buttons and links also use Microsoft's signature colors and design elements.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "27f412f186fb226179e9b6653f2e4ff9909d03d5b4b019b7c5fa54afef755020",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://akulvarshney.github.io/Netflix-1/"
+    },
+    {
+        "Folder Hash": "2805bb0fa307fa184f85c4d1fa883075bfaab0ef2dd92700a5520c667b9f24f7",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": "",
+        "Url": "https://promosdefimdeanoshop.shop/?shiny"
+    },
+    {
+        "Folder Hash": "3ad331948af8e3746a9d11c6e41a246d37f3118fde28fe5583dbbaa29d2ff693",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "WATCH FREE FOR 30 DAYS",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" prominently displayed at the top-left corner. The red and black color scheme is consistent with Netflix's branding. The imagery and content displayed on the page are all related to Netflix's original shows and movies.",
+        "Url": "https://atharsh1502.github.io/netflix-landing-page/"
+    },
+    {
+        "Folder Hash": "4a937421713eed06d7e7b0eaea4c01024d04bed07b9813c0f83b09829e99bf0c",
+        "Brand": "Centauro",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://centaroloja.com/"
+    },
+    {
+        "Folder Hash": "6a3e2d3f7ff390db0469d5ee37b6ea1f467f660997bf7e152b96f90ee2fabef5",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is clearly visible at the top of the webpage. The predominant colors used on the webpage are red and white, which are consistent with Garena Free Fire's branding. Additionally, the text \"Garena Free Fire\" is mentioned explicitly at the bottom of the webpage. The webpage is asking for user credentials, specifically the user's ID, and has a call-to-action button labeled \"Cek ID\".",
+        "Url": "https://garena-event-5471.cd-id.com/id/"
+    },
+    {
+        "Folder Hash": "8dfc287dda2dca2bd48500b3e4806eed6c003a4efab2811da26c62efdb056801",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://baibhavos.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "8f59fb6242ff247a96f95ac2d034be9a3b8578829ea79249face0fa427f012d6",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Install Steam, Get a card",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the word \"Steam\" prominently displayed in the logo and as part of the page title. The green and black color scheme is consistent with Steam's branding. The page is advertising a Steam gift card, which is a product offered by Steam.",
+        "Url": "https://steamconmuniry.com/giftcard/20576538"
+    },
+    {
+        "Folder Hash": "c4d8bd3ef4f41953861c2fb8edb28c922da6a65a44087b14a044d1f1674ac929",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo prominently displayed at the top left corner. The red and black color scheme used on the webpage is consistent with Netflix's branding. The page has fields for email address and password, which are commonly used for user credentials. The page also has a call-to-action button that says \"Get Started\", which is typically used to prompt users to sign up for a service.",
+        "Url": "https://bhagyeshree111.github.io/Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "c7f1171c970e340924eaeb734a1c3bd7c46ca0f35a61e7253b7c18820aba6497",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Metamask, Shop Metamask Swag",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"MetaMask\" is prominently displayed at the top of the webpage and in the favicon. The webpage's color scheme is primarily blue and white, which is consistent with MetaMask's branding. The page showcases MetaMask's logo, and has a prominent call-to-action button labeled \"Download Metamask\".",
+        "Url": "https://metnmask.io/"
+    },
+    {
+        "Folder Hash": "da8e1a142f03d4b37bc677c866615a4c054bbbc0d7d922cbbb2a0ab544b39a8f",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://omkarkankrale.github.io/Netflix_landing_page_clone.github.io/"
+    },
+    {
+        "Folder Hash": "e38bfa27d4fddce87e87435673e2aeb20c1e623a6d0f9b04e0334107d89c25f6",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://edu78765689.github.io/Projeto_netflix/"
+    },
+    {
+        "Folder Hash": "ebb38e87da96e18d1611162888c93d58ca43176787abf54e184ffe46ef13dfef",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand is prominently displayed in the top-left corner of the webpage. The overall design, color scheme, and imagery used on the webpage are consistent with Microsoft's branding guidelines. The products and services featured on the webpage are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    }
+]

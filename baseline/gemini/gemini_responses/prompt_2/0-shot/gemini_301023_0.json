@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "393f74dcf55e8530f7c1112fab73dad24bd4565f662f9e7e125daa72f042665a",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://pub-1cd83eaf4a66425d86fb1e8f37610be0.r2.dev/index.html"
+    },
+    {
+        "Folder Hash": "6931dab519ee45f708973ffaead18ed57abdebf4e807bfba6cf413916e835d8f",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has the logo of Poste Italiane prominently displayed at the top center. The predominant colors used on the webpage are red and yellow, which are consistent with the brand colors of Poste Italiane. The page also explicitly mentions \"Poste Italiane\" as the brand name. The webpage has fields asking for user credentials, such as username and password. It also has call-to-action buttons, such as \"Login\" and \"Register\".",
+        "Url": "http://in.pt.it.87-120-254-165.cprapid.com/pi23/"
+    },
+    {
+        "Folder Hash": "8954c5dcd26b608986cef321586a7d362b32b59496b0179b0d1d9f72881aedcf",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Telegram\" is prominently displayed at the top of the webpage. The logo is also clearly visible. The overall design and layout of the webpage is consistent with the Telegram brand.",
+        "Url": "https://c-telegram.biz/?user-agent=mozilla/5.0"
+    },
+    {
+        "Folder Hash": "9b6e78f83843a9b61a2d98e2fa4adfbe5d292638f97954a65006ae6c00c6962f",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Track, Get a Quote, Portal Login, Sign Up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has DHL logo at the top left corner. The predominant colors used on the webpage are red and yellow, which are also the colors of DHL logo. The webpage also explicitly mentions \"DHL\" as the brand name in the title bar and in the footer.",
+        "Url": "https://xcx3gsz9.dreamwp.com/smon/dhl/home/info.php"
+    },
+    {
+        "Folder Hash": "bccc08f4595fc8871d5378019618fe4c00577f77604992c411e75a56e9e97f86",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand is prominently displayed in the top-left corner of the webpage. The overall design, color scheme, and imagery used on the webpage are consistent with Microsoft's branding guidelines. The products and services featured on the webpage are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "cd2adfcdf9e8b704e1b1c860c71470931bfda033e7d70c51aaaf500df7d3d026",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign Up, Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the bet365 logo at the top left corner. The predominant colors used on the webpage are green and black, which are consistent with bet365's branding. The webpage also has a form where users can enter their credentials and a button that says \"Log In\".",
+        "Url": "https://7365009.com/#/"
+    },
+    {
+        "Folder Hash": "d1d3c49edf0bb4b7c9ed62c267aa32de835000bc53114f73859e3860465f1091",
+        "Brand": "Citibank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Citibank logo prominently displayed in the header. The blue and orange color scheme used on the webpage is consistent with Citibank's branding. The page's title is \"Credit Cards | Banking | Lending | Investing | Citigroup\", which indicates that the webpage is related to Citibank's financial services. The presence of the login form and call-to-action buttons such as \"Sign On\", \"Learn More\", \"Get Details\", and \"Apply Now\" further suggests that this is a Citibank webpage.",
+        "Url": "https://citiii.diskstation.org/"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Claim Instantly",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage's main brand is indicated by the prominent Axis Bank logo at the top left corner and the text \"Axis Bank\" at the bottom. The page is about claiming an Amazon Pay e-gift card benefit from Axis Bank. The colors used on the webpage are predominantly red and white, which are consistent with Axis Bank's branding.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    },
+    {
+        "Folder Hash": "ea4055a35b68abedf1f2879cce61fdf2e61bae4ed7437f14596f7445400eff11",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Telegram\" is prominently displayed at the top of the webpage. The overall design and layout of the webpage is consistent with the Telegram brand guidelines. The color scheme used on the webpage is also in line with the Telegram brand colors.",
+        "Url": "http://teelgarm.top/"
+    },
+    {
+        "Folder Hash": "eb36a40ce49a9fc7d2c4cebb8c47969c8cc65486df5681a0b6bfeddab0a10ae2",
+        "Brand": "GoShare",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://h5.shippinghero.vip/index.html#/pages/active/active?inviter=7004336"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "050ba2177abe312113ab42590e8dad439cb059abb099ca872bf7b57ec09aef1b",
+        "Brand": "Standard Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Standard Bank is present on the top right corner of the webpage. The blue color used in the logo is consistent with the brand's color scheme. The imagery and text content on the page is consistent with the services offered by the bank.",
+        "Url": "https://www.santanderprivate.co.uk/"
+    },
+    {
+        "Folder Hash": "1768703dbb0c07039402d025dd3393a2a941c884637542aa84bf30a39cac6d8a",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Instagram is present on the webpage. The webpage has fields asking for user credentials like Username and Password. It also has a call-to-action button that says \"Login\".",
+        "Url": "https://businessforcopyrightsupport.com/help-team/"
+    },
+    {
+        "Folder Hash": "2f668765889071c402d37caa442e0d10359bb1b9cbdbc8cb40c2ab492deabdaf",
+        "Brand": "Handmade Arcade",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Handmade Arcade\" is written in the header of the page. The page has a search bar and a link to the home page, both of which are common elements of a website's navigation bar. The page also has links to the brand's social media pages, which is another common element of a website's footer.",
+        "Url": "https://www.handmadearcade.org/wp-content/plugins/page/sunrise/sunrise"
+    },
+    {
+        "Folder Hash": "3ded60b24f882cb05bf1145bc111a25ebaa90f9bc48642add5d8aae98d8312a1",
+        "Brand": "Tesco Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username",
+        "List of Call-To-Actions": "Login, Sign Up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Tesco Bank is present on the webpage. The webpage has fields asking for user credentials like Username. It also has call-to-action buttons like Login and Sign Up.",
+        "Url": "https://deserted-topaz-moss.glitch.me/public/oriba.html"
+    },
+    {
+        "Folder Hash": "3f45e707db1f3780563f784c671cf7cea7ff3d8abb43f277f29e70108ae3e13a",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Sign In With QR Code",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The logo of Steam is present on the top left corner of the webpage. The page also has two buttons, one says \"Sign In\" and the other says \"Sign In With QR Code\". These buttons are indicative of a login page.",
+        "Url": "https://st-gift.ru/gift33096"
+    },
+    {
+        "Folder Hash": "65f7111d70bf88c318910261d3880a0c89ea84a6e37779eb6ee3025267caed59",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top right corner of the webpage. The webpage's color scheme is consistent with Netflix's branding.",
+        "Url": "https://rajkumarthakur88.github.io/NetFlix-Home-Page/"
+    },
+    {
+        "Folder Hash": "ad19fe539994a2ccb72e07f621854609fd400973d77d5d17309c61e23c6aad53",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email/Username",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the AT&T logo, and the blue color scheme is consistent with AT&T's branding. The page requests for email/username and has a 'Next' button, which are indicative of a login page.",
+        "Url": "https://fgdgfdsgsfgfsfg.surveysparrow.com/s/classical-home/tt-pYheASAKywJaDkHTovweQ4"
+    },
+    {
+        "Folder Hash": "c18d18a03e152571f9ec94f741855a2bd6ea1817572607477f8f6fa7d6fda556",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Pre-order, Add to Cart",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Microsoft\" is displayed prominently in the top-left corner of the webpage. The overall design and layout of the webpage is consistent with Microsoft's branding guidelines. The page is advertising Microsoft's products, including the Xbox Series X, Surface Laptop Studio, and Microsoft 365.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "d52ce70470b6910fd83b2b3b7bf80f0ad2f18ca8faca12ba37a91b75eae7d3f9",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Email Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Wells Fargo logo is present on the page. The page has fields for email address and email password. It also has a \"Continue\" button.",
+        "Url": "https://pub-cc09a92ea2d24879b5e0d1bbd3b85fa5.r2.dev/emailerror.htm"
+    },
+    {
+        "Folder Hash": "e029e9f5867cf79dc5f25de8ab0cb9cb5898c87bf01df9346d79bc52299a3e94",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo at the top right corner. The page has a prominent red button with \"Get Started\" text, which is a call-to-action for users to sign up for Netflix. There is also a \"Sign In\" link below the button for existing users. The page also has a section called \"Create profiles for kids\", which indicates that the webpage is related to Netflix.",
+        "Url": "https://madhurima-das01.github.io/Netflix-clone.github.io/"
+    }
+]

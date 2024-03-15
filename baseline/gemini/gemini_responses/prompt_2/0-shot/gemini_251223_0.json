@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://www.icloud.com/"
+    },
+    {
+        "Folder Hash": "2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://adarshjha12.github.io/netflix-by-adarsh/"
+    },
+    {
+        "Folder Hash": "3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c",
+        "Brand": "Google",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Google\" is prominently displayed in the center of the page. The page has a minimalist design with a white background, which is consistent with Google's branding. The search bar is a prominent feature of the page, which is also a key feature of Google's search engine.",
+        "Url": "https://us-central-1.fybeobjects.com/a2de2ea95a1b47e69f3e3ef485c3be59:depositpaymentawaitingforconfirmation7486438743/voucher-a6a43dc24a642edbank@763498809.html"
+    },
+    {
+        "Folder Hash": "4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo prominently displayed at the top left corner. The red and black color scheme used on the webpage is consistent with Netflix's branding. The page has a form field asking for user's email address. The call-to-action button says \"Get Started\", which is consistent with Netflix's sign-up process.",
+        "Url": "https://prajwalk-07.github.io/netflix-clone.github.io/"
+    },
+    {
+        "Folder Hash": "5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db",
+        "Brand": "TFBank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of TFBank prominently displayed at the top center. The color scheme of the webpage is primarily white, brown, and orange, which are colors often associated with the brand. The word \"TFBank\" is also mentioned in the title of the webpage. The webpage has two fields where users can enter their customer number, birth date, and a button that says \"Login\", which indicates that the user needs to provide their credentials to access the website.",
+        "Url": "https://bqq.quo.temporary.site/tf/web/login.php"
+    },
+    {
+        "Folder Hash": "6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has DHL logo at the top center, and \"DHL\" is also shown in the tracking number. The red and yellow color scheme is consistent with DHL's branding. The page's title is \"DHL Tracking\".",
+        "Url": "http://gqs.yqp.mybluehost.me/fthjx/des/"
+    },
+    {
+        "Folder Hash": "6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b",
+        "Brand": "Allegro",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Allegro\" is prominently displayed at the top of the page. The page is selling a product and has a prominent \"Kup i zap\u0142a\u0107\" button, which indicates that the user can purchase the product.",
+        "Url": "https://allegro.zakuppayu24.pl/oferta/iPhone-14-Pro-256gb-sprawny?id=339827496"
+    },
+    {
+        "Folder Hash": "6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7",
+        "Brand": "Banca Monte dei Paschi di Siena",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Banca Monte dei Paschi di Siena\" is prominently displayed at the top of the webpage. The logo of the bank is also present on the left corner of the page. The color scheme of the webpage is blue and white, which are the brand colors of Banca Monte dei Paschi di Siena.",
+        "Url": "https://www.bancadivenezia.it/persone/digital-banking/index.html"
+    },
+    {
+        "Folder Hash": "afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DPD logo is prominently displayed at the top of the page. The DPD color scheme of red and blue is used throughout the page. The page's title is \"DPD - Online-Dienste / Sendungsverfolgung\".",
+        "Url": "http://www.neu.planen.lieferung.id.51-107-1-90.cprapid.com/info/paket/update.php"
+    },
+    {
+        "Folder Hash": "ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has several elements that indicate the brand is Microsoft. The most prominent is the Microsoft logo at the top left corner of the page. The page also uses a color palette that is consistent with Microsoft's branding, with blue being the primary color. Additionally, the page explicitly mentions \"Microsoft\" in several places, such as in the title bar and in the footer.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"WhatsApp\" is prominently displayed at the top of the webpage. The webpage's green and white color scheme is also consistent with WhatsApp's branding. Additionally, the icons and buttons on the webpage are all designed in WhatsApp's signature style.",
+        "Url": "http://ovjaoo.c505.net/"
+    },
+    {
+        "Folder Hash": "c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125",
+        "Brand": "365bet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, Verification Code",
+        "List of Call-To-Actions": "Sign Up, Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a prominent logo of 365bet at the top center. The predominant colors used on the webpage are black, green, and yellow, which are consistent with the brand colors of 365bet. The webpage also explicitly mentions the brand name \"365bet\" in the title bar and in the footer. In addition, there are form fields asking for user credentials and call-to-action buttons such as \"Sign Up\" and \"Log In\".",
+        "Url": "https://www.793e365.com/#/"
+    },
+    {
+        "Folder Hash": "ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9",
+        "Brand": "\u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage is about the finalists of a cultural competition in Russia. The logo of the Ministry of Culture of the Russian Federation is present on the top left corner of the page. The main content of the page is a list of the finalists, their names, and photos. There are no forms or buttons on the page.",
+        "Url": "https://plum19588527.brizy.site/"
+    },
+    {
+        "Folder Hash": "d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DPD logo is prominently displayed at the top of the page. The DPD color scheme of red and blue is used throughout the page. The page's title is \"DPD - Follow My Package\".",
+        "Url": "https://18-197-40-90.cprapid.com/cz/update.php"
+    },
+    {
+        "Folder Hash": "e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has DHL logo at the top center. The main colors of the webpage are red and yellow, which are also the colors present in the DHL logo. The word \"DHL\" is also written in the middle of the page. The webpage is about tracking a shipment with DHL.",
+        "Url": "https://my.dhlparcel.se/account/sign-in"
+    }
+]

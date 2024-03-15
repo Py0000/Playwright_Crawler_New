@@ -89,7 +89,7 @@ class GeminiProVisionBaseline:
         current_prediction_prompt = "Here is the webpage screenshot:"
         try: 
             model_prompt = [zero_shot_prompt] + few_shot_prompts + [current_prediction_prompt, image, response_format_prompt]
-            response = model.generate_content(model_prompt, stream=True)
+            response = model.generate_content(model_prompt)
             response.resolve()
             data = self.format_model_response(folder_hash, response.text, is_error=False)
             return data
@@ -134,7 +134,7 @@ class GeminiProVisionBaseline:
                         
                         response.update({"Url": url})
                         responses.append(response)
-                        
+
                     time.sleep(random.randint(1, 3))
         
         output_file = f"baseline/gemini/gemini_responses/gemini_{date}_{few_shot_count}.json"

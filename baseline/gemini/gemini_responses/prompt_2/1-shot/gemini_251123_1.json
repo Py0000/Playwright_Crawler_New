@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The presence of the Microsoft logo, the \"Verify your identity\" text, and the \"Next\" button all indicate that this is a Microsoft webpage. Additionally, the URL contains \"onedrive.live.com\", which is a subdomain of Microsoft's OneDrive service.",
+        "Url": "https://zksfechaduras.com.br/huyeambnaduiyadmbnasiuasmnad798iqenmas87/dcfo/"
+    },
+    {
+        "Folder Hash": "3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose Your Microsoft 365, Shop for Students, Shop for Business, Save up to 54%, Get up to $454, Sign up for free, Get it today",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot is of the Microsoft website. The page has the Microsoft logo and the words \"Microsoft\" and \"Xbox\" on it. It also has the following links: Shop Now, Buy Now, Choose Your Microsoft 365, Shop for Students, Shop for Business, Save up to 54%, Get up to $454, Sign up for free, Get it today.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Track Shipment",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of DHL is present on the webpage. The DHL color scheme of red and yellow is also used. The page requests for user credentials and has a call-to-action button.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu"
+    },
+    {
+        "Folder Hash": "8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Adobe logo at the top left corner. The page is about Adobe Acrobat, a product of Adobe. The page has a form with fields for email and password. The page has a button that says \"Sign In\".",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible in the top right corner. The webpage's color scheme is consistent with Netflix's branding. The call-to-action button is also in line with Netflix's branding.",
+        "Url": "https://clement-lotus-mollick.github.io/Netflix-Clone-FC/"
+    },
+    {
+        "Folder Hash": "ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c",
+        "Brand": "Bilibili",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a logo that says \"bilibili\" and the predominant colors used on the webpage are black and yellow, which are consistent with the colors used in the bilibili logo.",
+        "Url": "https://www.bilibili.com/"
+    },
+    {
+        "Folder Hash": "cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a",
+        "Brand": "ZingPlay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd T\u00ean, Ng\u00e0y Sinh, \u0110\u1ecba Ch\u1ec9",
+        "List of Call-To-Actions": "NH\u1eacN QU\u00c0",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of ZingPlay is present on the top left corner of the webpage. The webpage is in Vietnamese and the overall design and layout is consistent with other ZingPlay games.",
+        "Url": "https://www.ff.members.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    },
+    {
+        "Folder Hash": "cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In, Start Your Free Month",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "http://www.netflix.ayuda-telefonica.com/"
+    },
+    {
+        "Folder Hash": "daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the top left corner of the webpage. The webpage has a prominent red color scheme, which is consistent with Netflix's branding. The page requests for user credentials and has a call-to-action button labeled \"Get Started\".",
+        "Url": "https://sakshishakya.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3",
+        "Brand": "Sell My House Fast Ohio",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact Us, Get A Free Offer, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the words \"Sell My House Fast Ohio\" prominently displayed at the top. The overall design and layout of the webpage is consistent with the brand's image. The webpage also contains a contact form and a call-to-action button, which are commonly used to generate leads.",
+        "Url": "https://www.sellmyhomefastohio.com/"
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "0bca8942073f3cda1ad34f63177b283e28e211f50e21038730a809c3ea8e933c",
+        "Brand": "La Nacion",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Subscribe, Register, Log in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of La Nacion is present at the top-left corner of the webpage. The webpage has a blue background with a white header. The main content area is white. The font color is black. These colors are consistent with the brand colors of La Nacion. The webpage has a form with fields for name, email, and password. This form is likely used for users to create an account or log in to their existing account. The webpage also has a call to action button that says \"Subscribe\". This button is likely used to encourage users to subscribe to the website's content.",
+        "Url": "https://oilindex360ai.com/BacOilIndexCR/?s2=b1e029cb-1d86-4ce4-8c97-69388d134a94"
+    },
+    {
+        "Folder Hash": "1e653b57b5b1f62dbaa2f949f87ce51b7b4a8d94dc4fc9c149a262f1b2ee9f3b",
+        "Brand": "Quotex",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign Up, Log In, Open a Demo Account, Start Trading",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Quotex\" is prominently displayed on the webpage. The screenshot also shows a blue button with the text \"Open a Demo Account\" and a green button with the text \"Start Trading\", which suggests that the webpage is a forex trading platform.",
+        "Url": "https://qxbroker.com/en?click_id=w80f774kbi5kdjet2v43vjl6&lid=312156"
+    },
+    {
+        "Folder Hash": "226fb4f65f988f02bed4cbfac152cb8e0a19abae7f822b19cf0c4c5982671ee7",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present at the top-left corner of the webpage. The webpage has a red background with a gradient to black at the bottom. The webpage is about Netflix, a streaming service, and has a prominent call-to-action button that says \"Get Started\".",
+        "Url": "https://afsalmadathingal.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "2610fbcd3135759cc0a2f27c879c0d5463be8758102081e0a21bfca904ae1c1e",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Install Steam",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Steam is present on the top left corner of the webpage. The blue background and the overall layout of the page resemble that of Steam. The screenshot also shows a form with fields for entering credentials and a button that says \"Sign In\".",
+        "Url": "https://steam.guesskings.com/profiles/76561199240493541"
+    },
+    {
+        "Folder Hash": "621a990bdb89d4e09b8b7f222c80c1d55c8d703c23a2a4966ae0bba6cac4e8f9",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Coinbase logo is present at the bottom of the page. The page has a blue background, which is consistent with Coinbase's branding. The page's content is about cryptocurrency investing, which is Coinbase's main business.",
+        "Url": "https://www.coinbaseam.com/"
+    },
+    {
+        "Folder Hash": "77305d5087d7405654a611ef67b62743e3372ea8a26f690741daa0fe543c7f4d",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Facebook, Youtube, Instagram, VK, Discord",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of PUBG Mobile is present at the top left corner of the webpage. The page has social media icons at the bottom.",
+        "Url": "https://dulliusimoveis.com.br/links/pubg-skin-V6/jj1saghf.php"
+    },
+    {
+        "Folder Hash": "7dac5511e01177dc662ff6960bf72382e2c1002c1e22b6932ac743e2821f439e",
+        "Brand": "Raiffeisen Salzburg Versicherung",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Raiffeisen Salzburg Versicherung\" is prominently displayed at the top of the page. The color scheme of red and blue is consistent with the brand's logo and marketing materials. The imagery and text content is related to insurance.",
+        "Url": "https://www.rsvmgmbh.at/de/raiffeisen-salzburg-versicherungsmakler.html"
+    },
+    {
+        "Folder Hash": "a0c8380fb98b0d75f2e9af31b880b63cb9073592996d2c4824d805c5a478e6f4",
+        "Brand": "Azteca Server",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Iniciar Sesion",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is clearly visible and the webpage has a login form with a username and password field. The call to action button is labeled \"Iniciar Sesion\", which means \"Sign In\" in English.",
+        "Url": "https://azteca-servermx.top/"
+    },
+    {
+        "Folder Hash": "a2e32821a91e0f9ae959169507de1722d6f7b83a40a5f9a60c0a6bfbeb3e94cd",
+        "Brand": "365BET",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo that says \"365BET\" at the top left corner. The colors used on the webpage are primarily blue and white, with some green and red accents. These colors are consistent with the brand colors of 365BET. The webpage also has a form that asks for user credentials, including a username and password. There is a call-to-action button that says \"Sign In\".",
+        "Url": "https://www.bet988b.com/home"
+    },
+    {
+        "Folder Hash": "a6919b4c98619b0a85e2c88eaedb9050f5c681e80944a478fb5841a2d839733e",
+        "Brand": "PancakeSwap",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy CAKE, Connect Wallet",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of PancakeSwap is present on the top left corner of the webpage. The predominant colors used on the webpage are pink and blue, which are also present in the logo. The word \"PancakeSwap\" is mentioned explicitly in the title of the webpage. There is a call to action button that says \"Connect Wallet\"",
+        "Url": "https://allenanna.com/"
+    },
+    {
+        "Folder Hash": "baa5fa08c4d62a671adeffb024902d9ed6f61bd2144942a029fbe9af34fde1f9",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign In, Watch Free For 30 Days",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Netflix logo at the top left corner. The predominant colors used on the webpage are red and black, which are consistent with Netflix's branding. The \"Sign In\" button is also a strong indicator that this is a Netflix webpage.",
+        "Url": "https://atifmoin19.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "c01d518f2c145b1834448b5d7443b9c8924804499bb408a1e383912ff40657fb",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Nh\u1eadn Qu\u00e0, XEM VIDEO, CH\u01a0I NGAY",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Garena Free Fire is present at the bottom of the webpage. The overall color scheme of the webpage is consistent with the brand's identity. The webpage is promoting an event called \"Arena Free Fire\" and has a YouTube video embedded in it.",
+        "Url": "https://nhanqua-booyah.garaena.vn/"
+    },
+    {
+        "Folder Hash": "d04b578cdf567d5a446c5c6ca5c717071aba635b15ce0ea0699f8f826b50994d",
+        "Brand": "CMC Markets",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Create Account, Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name is present on the top-left corner of the webpage. The screenshot also contains a login form with fields for email and password, along with two buttons labeled \"Create Account\" and \"Log In\".",
+        "Url": "https://www.megaxchange.live/"
+    },
+    {
+        "Folder Hash": "d5330ee1b6a26d09d349e4f5f701361acea837b2cacdf772ef485825234ca8f2",
+        "Brand": "GRUB",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"GRUB\" is written in large letters at the top of the page. The predominant colors used on the webpage are pink and white.",
+        "Url": "http://mail.jjoingroupwhtsaps.crazzy.my.id/"
+    },
+    {
+        "Folder Hash": "e6082ec85f2166997ba7ff1f317b2326f3ebeb9eca3787a2ab657ee5632d2350",
+        "Brand": "Gemini",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Imi\u0119, Nazwisko, Email, Telefon",
+        "List of Call-To-Actions": "Zarejestruj, ZACZNIJ ZARABIA\u0106",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Gemini logo at the top and bottom of the page. The page also has a form with fields for users to enter their name, email address, and phone number. There is also a button that says \"ZACZNIJ ZARABIA\u0106\".",
+        "Url": "https://1.greatgreat.monster/"
+    },
+    {
+        "Folder Hash": "e912f60fcb528dfeaf20f77cdc8ced31946543a04ab5be8149397488413e6b40",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Sign in, Buy now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Microsoft\" and \"Office 365\" is seen at the top of the page. The page has a blue theme which is consistent with Microsoft's branding. The page is advertising Office 365 and has a call-to-action button that says \"Get Started\".",
+        "Url": "https://officehomeprodprv.brazilsouth.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "f5e681d2b4fd98b3591ecdd59623b1656d169896e4fce973a288f7f27c91a55a",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Proceed",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Poste Italiane is clearly visible on the top left corner of the webpage. The page also has fields where users can enter their credentials and a button that says \"Proceed\".",
+        "Url": "http://formato-posta.34-94-5-15.cprapid.com/"
+    }
+]

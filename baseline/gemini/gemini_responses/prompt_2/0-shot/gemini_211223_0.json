@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "01ec95975f5383644a19b1947b41d571a985384991ad0281dd2f9f2421faf1b0",
+        "Brand": "Sortex Clothing",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Sortex Clothing\" is prominently displayed in the webpage's header and footer. The logo is also clearly visible in the header. The overall visual elements of the webpage, such as the color scheme and typography, are consistent with the brand's identity. The webpage is focused on selling clothes and has call-to-actions such as \"Buy Now\" and \"Quick Contact\".",
+        "Url": "https://www.sorttexclothing.com/"
+    },
+    {
+        "Folder Hash": "0fbb4f5dbb6c22a55f0905c429af07927fb6be49c8a470849f010fa797b25039",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://dhruvrastogi1003.github.io/bharat-intern-netflix-clone/"
+    },
+    {
+        "Folder Hash": "16d2f3a86213d0d8a9848cc911f756354227d9b449a2609e53dc82de3ee2172e",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://thilaganiranchan.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "267fd444d1da8ea043956bb57b576e81010ba8eff8e4642152964d86b5ed8294",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://deli-codex.github.io/NetfilxHomepage.github.io/"
+    },
+    {
+        "Folder Hash": "2d05c4862900292910980eb8a7ead7f0ef6fe56b6a0b6a5c3601a318df8f2bde",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://divyashantkumar.github.io/netflixclonereact/"
+    },
+    {
+        "Folder Hash": "44899cfeea4e79c37f0887c31a38f724ff03e303345fdc55f003f9b744c733e4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games and consoles, Choose your Microsoft 365, Sale, Shop for students, Maximise the everyday with Microsoft 365, Get the most competitive IDE for Visual Studio 2022, Welcome to your Windows 365 Cloud PC",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Microsoft\" is prominently displayed in the top-left corner of the webpage. The webpage is primarily dedicated to showcasing Microsoft's products and services, such as the Xbox Series X, Xbox games, Microsoft 365, and Windows 11. The overall design and layout of the webpage is consistent with Microsoft's branding guidelines.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4f9870675b24fa8b898a5b7b2c71ac7f9f520d968322643b502855e8693f2237",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://subha603.github.io/netflix.github.io/"
+    },
+    {
+        "Folder Hash": "805c2f9375e60d23c6e3cc5d3e28a5def70c7e8f45b567e05ac89729f8e7c9b6",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://otutukingsley.github.io/netflix-clone-page/"
+    },
+    {
+        "Folder Hash": "b5893b4bc7dc10bf45cee4b3bd9f96ad61079e3d287b3fa8fd36a215071c5530",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://3omaralaa.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "ba3a7e5a6da27eaa8e44b838f405a4f5fa4f89dec385d4a81a897408ec145319",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://www.microsoft.com/en-sg/"
+    }
+]

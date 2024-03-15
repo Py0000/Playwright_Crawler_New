@@ -1,0 +1,90 @@
+[
+    {
+        "Folder Hash": "09196776e1f0424c3ce25cf181ed0793e3bcde35cbe688fce7a1c54970903198",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://ayushkhadgi.github.io/Netflix-Frontend/"
+    },
+    {
+        "Folder Hash": "280ec080b9a48a22be126d4870dacb554c9c2b1612a71317917db72dca60b1fb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Shop Xbox Series X, Shop Xbox games and consoles, Choose your Microsoft 365, Sale, Shop for students, Sign up to stay in touch, Get it today",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Microsoft\" is prominently displayed in the top-left corner of the webpage. The overall design and layout of the webpage is consistent with Microsoft's branding guidelines. The products and services featured on the webpage are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "3d6e0e57e9a0af08dfd6620b6012436ee5534782816530e8841d1325d10fdb00",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigqvxdp3mulmpt3lua2mrpi6cwk5skzjieldi7lwv3gzumgevb4jm#abuse@dhl.com"
+    },
+    {
+        "Folder Hash": "3f9fdb199394c50d41a85979f8dd507927b4bf4df1d1459ddf86d0c0f1692b71",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games and consoles, Choose your Microsoft 365, Sale, Shop for students, Maximise the everyday with Microsoft 365, Get up to 54%, Get Microsoft Teams for free, Get the most comprehensive IDE for Visual Studio 2022, Welcome to your Windows 365 Cloud PC",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Microsoft\" is prominently displayed in the top-left corner of the webpage. The overall design, color scheme, and imagery used on the webpage are consistent with Microsoft's branding guidelines. The presence of various Microsoft products and services, such as the Xbox, Surface, and Office 365, further confirms that this is a Microsoft webpage.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4ef7f475e7dcc3e39cd8b0f6fea79bde51f5ff178334c6efc6d47b8e69283a81",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Orange, a prominent telecommunications brand, at the top left corner. The Orange logo is also present on the favicon of the webpage. The predominant colors used on the webpage are orange and black, which are consistent with Orange's brand colors. The webpage also explicitly mentions the brand name \"Orange\" in the title and in the text.",
+        "Url": "https://lemedab246.wixsite.com/my-site/"
+    },
+    {
+        "Folder Hash": "7ec14caed1a721ca079f297b80643d75dd335693ecd67dd430851bb6ffb594d8",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage is about WhatsApp Plus, a modified version of the popular messaging app WhatsApp. The green and white color scheme is consistent with WhatsApp's branding. The logo is also present on the page. The page has a form where users can input their phone number to get a verification code. The page also has a call to action button that says \"Download\".",
+        "Url": "https://www.waplus.top/"
+    },
+    {
+        "Folder Hash": "9947447e5f5802c354433472acdc357226e4d53a63c2dbf02069aa3180668795",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://ayushgoel9908.github.io/Bharatintern_NetflixHomepage/"
+    },
+    {
+        "Folder Hash": "f24dbb281a7ba41265d7ec6ac1478cd6c29179e1bd3550c9f11b9801f453f077",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo prominently displayed at the top left corner. The red and black color scheme used on the webpage is consistent with Netflix's branding. The page also features the Netflix logo and branding elements throughout. Additionally, the webpage is for Netflix's sign-up page, which is a clear indication of the brand.",
+        "Url": "https://ayushjain-10.github.io/Netflix-Clone/"
+    }
+]

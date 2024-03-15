@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "06577e85ba18ef4cff7bd9a369b710a5dc8b2030992cd8903b0e81cd740ec17f",
+        "Brand": "Skat",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPR-nummer",
+        "List of Call-To-Actions": "Forts\u00e6t",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Skat, a Danish government agency responsible for tax collection. The predominant colors used on the webpage are blue and green, which are also found in the logo. The webpage also explicitly mentions the brand name \"Skat\" in the title bar and in the footer. There is a form field asking for user credentials (CPR-nummer) and a call-to-action button labeled \"Forts\u00e6t\".",
+        "Url": "https://dymdlxd0.dreamwp.com/skat/"
+    },
+    {
+        "Folder Hash": "19063c2a9c8014dab7fb571c3bb74948fd42a6eeb9faa9eae4c48a766aabddf0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://lamarinatalca.cl/owa/webapp.html"
+    },
+    {
+        "Folder Hash": "1c2b996e5f4670be1c3afd40f3f60030c082f688a7771123fcaffaa1bfd5d232",
+        "Brand": "DocuSign",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://779425.selcdn.ru/mail-management/kerma-index4.html"
+    },
+    {
+        "Folder Hash": "5252961c958214b41129b9e152aa622926b14d4ab8c41b817a393de71435739f",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Email, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage has a dark theme with a black background and white text. The main focus of the page is a form that asks for user credentials, including a username, email, and password. There is a blue button below the form that says \"Sign In\". The overall design of the page is simple and straightforward, with no other branding elements or logos present. Based on these visual elements, I cannot identify the brand associated with this webpage.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeialf2tdeo2jb3u3ltluqzn4pcqxhv2xvwfnr5hq5vocvhlwjynkca/svr2-mr1.html"
+    },
+    {
+        "Folder Hash": "5de65c58800342fe00346912a98d262bb3d5396cbc5d016a9f1f66d193009bf5",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5",
+        "Supporting Evidence": "",
+        "Url": "http://oasis-alabaster-exception.glitch.me/"
+    },
+    {
+        "Folder Hash": "79d7c3abdfc66bd28bfb36f3a0c69f4ba5600207dc62693f8196929543da2540",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5",
+        "Supporting Evidence": "",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeigarvbzkhzzbljgreisft7r4mw3tdhakobwkzdlliwdblrgxx3ciq/index1.html"
+    },
+    {
+        "Folder Hash": "8c340d59563cfab5558c149dff976b8839cc36bf9ea65f54104ed635cd1965eb",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://pub-9e11a359d213455e8ad57f733583373b.r2.dev/aask.html"
+    },
+    {
+        "Folder Hash": "94384aebc536f4fdaa4e01806dc2549f23dc1f806d7c659600aefc39b423ea78",
+        "Brand": "Meta (Formerly Facebook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://appsecure-adsbusiness-pages-en.github.io/cinora/import/"
+    },
+    {
+        "Folder Hash": "9ff57ffe4d1de67efdad1507613d0dfea4ad0b8067bb495a8a1ea3743a884d9f",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Zimbra, which is a collaboration and messaging software. The presence of the words 'Username' and 'Password' indicates that the webpage is asking for user credentials. The 'Sign In' button suggests that the webpage is asking for a call-to-action.",
+        "Url": "https://pub-ccb2162674f0423993958b6739a1fc20.r2.dev/34324ummi.html"
+    },
+    {
+        "Folder Hash": "d3f3142a2631e578a8d523243f0daabedb8a898028658c5eba80f7dd54629dcb",
+        "Brand": "Globloplaynews.com",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Funded Trading, Free Online, Online",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Globloplaynews.com\" is prominently displayed at the top of the webpage. The color scheme used on the webpage is dark blue and light blue, which are often associated with the brand. Although there is no logo present on the page, the repeated use of the brand name and the consistent color scheme strongly suggest that this is the main brand of the webpage.",
+        "Url": "http://bemestar.globoplaynews.com/"
+    }
+]
