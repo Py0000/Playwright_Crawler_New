@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "10ae1de08e1b3b633e38c6b7bd0c5073f5557a00b5c5c61c58db7b6fb10426a6",
+        "Brand": "Baltic Pipe",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join the project, Watch video",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Baltic Pipe is present on the webpage. The webpage has a clear call-to-action button with the text \"Join the project\".",
+        "Url": "https://www.makeprrofit.site/"
+    },
+    {
+        "Folder Hash": "14fc2efc96604b37269dc3e18a02d057f972c47580876d6d4653578e3171df10",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Download",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a red banner with the Adobe logo. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeieuck7midptnnddf36kxotthabk5oeqdixn6zc5mnwkfh23mtsiea"
+    },
+    {
+        "Folder Hash": "2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a",
+        "Brand": "Auto Follower Indonesia",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Daftar",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is in the webpage title and also seen at the bottom of the page. The screenshot contains a login form with email and password fields, and two buttons with the labels \"Login\" and \"Daftar\" (Indonesian for \"Register\").",
+        "Url": "http://pengikut-gratis.com/"
+    },
+    {
+        "Folder Hash": "3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present at the top-left corner of the webpage. The page has a blue theme and the words \"Telegram\" and \"chats\" are seen.",
+        "Url": "https://telegram-com-zhcn.pages.dev/"
+    },
+    {
+        "Folder Hash": "4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb",
+        "Brand": "Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook account",
+        "List of Call-To-Actions": "\u0110\u0103ng nh\u1eadp (Log in)",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Free Fire is present on the top left corner of the webpage. The presence of Facebook logo suggests that it is an option to login to the webpage. There is a form that is requesting for user credentials like name, date of birth and address. There is a call-to-action button that says \u0110\u0103ng nh\u1eadp (Log in).",
+        "Url": "http://www.freefire.member.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c9daa0070c0f57a16a0f9f0859f756c56ad094c09473ae461a2fb2814923450",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone, Skype",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Microsoft logo. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "http://bafybeihc74glgbx6mfibmqolz253ajpbhbrjhlalpe4uzmsejhy6qox5ni.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present at the top center of the page. The predominant colors used on the webpage are blue and white, which are consistent with Telegram's branding.",
+        "Url": "https://telegraimu.com/"
+    },
+    {
+        "Folder Hash": "832ab50628ca227eb01e9e8695ec04a8b4d51b28e7b1ad6cf0333f88dbd1ae85",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Microsoft is present on the top left corner of the webpage. The webpage is selling Microsoft Surface Laptop Go 3. The call-to-action button says \"Shop Now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c9123c75952563cb603dcfc8bac45446095c5f2c082b043f4b28730a7c8c4473",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Sign In, Create Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Google logo is present on the page. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "http://070124460033066.graficaaoquadrado.com.br/"
+    },
+    {
+        "Folder Hash": "e394d02c472a064c58540bba26f9a02695735f7b1bffecda5810e0698084f2a5",
+        "Brand": "BDF",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "PIN",
+        "List of Call-To-Actions": "Cancelar, Confirmar",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of BDF is present on the top left corner of the webpage. The webpage has a form with a field asking for a PIN. There are two buttons with the labels \"Cancelar\" and \"Confirmar\".",
+        "Url": "http://www.imobiliariacasacapixaba.com.br/firm.php"
+    }
+]

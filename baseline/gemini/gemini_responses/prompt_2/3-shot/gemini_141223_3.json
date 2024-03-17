@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "2195b27965be4df38b6d8caea64814ac421a7876bc1550d70226abefca20f8fd",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start, Upgrade, Purchase",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of the game is present on the top left corner of the webpage. The green and black color scheme is consistent with the game's branding. The presence of the \"Start\", \"Upgrade\" and \"Purchase\" buttons indicate that the user is expected to take action.",
+        "Url": "https://pagani-gcevent.indianxevent.com/"
+    },
+    {
+        "Folder Hash": "243fac392f12f2525adba8f0994fce50bce41e6ded3231ebb838d953db341789",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible in the top right corner. The screenshot also shows a form with an email address field and a \"Get Started\" button, which is typical of Netflix's sign-up page.",
+        "Url": "https://abhedanil.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "2bfd99b42d651f7476101a8c1de0f0c19a511feae1a6c3b1f3e3ac43665adf9e",
+        "Brand": "Serasa",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Consultar CPF, Negociar d\u00edvidas, Serasa Premium, Acessar Serasa",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Serasa is present at the top left corner of the page. The page has a green button with the text \"Consultar CPF\" and a blue button with the text \"Negociar d\u00edvidas\".",
+        "Url": "https://d3k44z507vpdol.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "63ee342e3458b77dbb7a3e4dd59545e62390505307f67042d715081a53d4fa64",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The presence of the Microsoft logo, the \"Verify your identity\" text, and the email input field all indicate that this is a Microsoft login page.",
+        "Url": "blob:https://bafybeiasvt3phgmntyoxldrx6qkmxcepznkmwau7qyihhwn7mp7in6cpve.ipfs.cf-ipfs.com/23bc4db9-fb16-47f3-bfa8-f73c891059a1"
+    },
+    {
+        "Folder Hash": "6499c7f2d25be057d932a1dcf0401879d84e59c0f29991915c3daf191e1f3eea",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See all offers",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name and logo of Microsoft Xbox are clearly visible on the webpage. The webpage is selling Microsoft's Xbox gaming console. The call-to-action button says \"Shop Now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "72376788aaacd253f79474dd79a991dd722a5da08e874eace610450d649c5932",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Facebook logo. The credentials fields and buttons are seen on the screenshot.",
+        "Url": "https://bg-bg-facebooks.pages.net.br/"
+    },
+    {
+        "Folder Hash": "765b783e207951696818c8293ed7774500cef568bb02022cf34b6756f194c78c",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See all deals, Shop Xbox Series X, Shop Xbox Series S, Shop Xbox One X, Shop Xbox One S, Shop Windows 10, Shop Xbox Game Pass Ultimate, Shop Xbox Live Gold, Shop Xbox Accessories",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Microsoft\" is displayed at the top left corner of the page. The page is about Microsoft's Xbox gaming console. The page has a green theme, which is consistent with Microsoft's branding.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "89b0a2b7e7922fd0262bb40610c7d705353d1c50342fd3fe58320b9742010599",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Compare, Add to Cart, Buy Now, Pre-Order",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Microsoft\" is clearly visible in the top-left corner of the webpage. The page is selling products and has \"Buy Now\", \"Pre-Order\", \"Add to Cart\" buttons, which are typical call-to-actions for e-commerce websites.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c3a2cf3bca2899bc25eb0b8f61d8403d109ca212a72edeaef9b1c5f2bea2ecd4",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The DHL logo is present on the webpage. The webpage has fields for email address and password. It also has a 'Continue' button.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeigyp2cjhkqpljyz5cjeu6elqhbljivyhrr5iug5k7wko6qkojbijy"
+    },
+    {
+        "Folder Hash": "d9f5e35c9fb5542262bd582d5f636b133af4a90aafff6b67df8b3df58836c459",
+        "Brand": "M&T Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log In, Enroll Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The M&T Bank logo is clearly visible in the top-left corner. The screenshot shows a login page with fields for Username and Password, as well as a Log In button.",
+        "Url": "http://busanopen.org/new/bbs/data/event/M_T/M&T/"
+    }
+]

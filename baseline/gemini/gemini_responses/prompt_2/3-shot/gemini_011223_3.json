@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "1d707065606ddb62d053cdb23e3a9a62c00864ab7ba2295fb57d7d6543ba1083",
+        "Brand": "Vivobarefoot",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Vivobarefoot\" is displayed at the top of the page. The page is selling shoes and displays the prices of the shoes.",
+        "Url": "https://www.vivobarefootalesuomi.com/"
+    },
+    {
+        "Folder Hash": "326e47601bcdc551576ae5992e86f4c205684ce9f8a6aaff7c9d78561ce20a54",
+        "Brand": "Devel Group",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Devel Group is present on the top left corner of the webpage. The company name, Devel Group, is also mentioned in the title of the webpage.",
+        "Url": "https://greatplacetoworkcarca.com/es/devel-group-devel-security/"
+    },
+    {
+        "Folder Hash": "3d4de5bd8c085970bcf2758afebf699b8d6e1c97e5ee385b5c6e7961dff45594",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner of the webpage. The credentials fields and buttons are also visible.",
+        "Url": "https://gujju0.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "47505600e44f76d09a4cbde34ea628603f6d2b5f89527c863294b5e823903e1e",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible and the webpage follows the color scheme of Netflix. The call-to-action button is also consistent with Netflix's branding.",
+        "Url": "https://itachi2704.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "496dac5f4abae821f05ac310f433e836780e0ec500abd732e9d4b4a5007c0886",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner. The webpage has a form field asking for email address. The call-to-action button says \"Get Started\".",
+        "Url": "https://grace-code-lover.github.io/"
+    },
+    {
+        "Folder Hash": "63f6a3ff9471e1b15e851b54d502f389628458ee3f38284c94f2f27f15221338",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the top left corner of the webpage. The webpage has a section that prompts users to enter their email addresses to get started. This indicates that the webpage is likely associated with Netflix.",
+        "Url": "https://ayush979876.github.io/ayush-netflix/"
+    },
+    {
+        "Folder Hash": "65553203fc8855257d1c40b6a5b923859b883eb94f6e497915ab2c8a559bfbe1",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is clearly visible on the top left corner of the webpage. The presence of credentials fields and call-to-action buttons such as \"Sign In\" and \"Get Started\" further reinforces that this is a login page for Netflix.",
+        "Url": "https://ayushjaiswal0122.github.io/Netflix.com/"
+    },
+    {
+        "Folder Hash": "737e3ffa8b6b9e589d1310411f0b5b6693a62e4615a086672687a8d73bd772e2",
+        "Brand": "Bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log-in, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Bet365 logo. The credentials fields and buttons are behind the modal overlay.",
+        "Url": "https://www.bet110g.com/home"
+    },
+    {
+        "Folder Hash": "7961b92ea1238392b0a3b2a5a6f6f6f2de90538094800ff29b6e5efced9a79d8",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Register Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of PUBG Mobile is present at the top left corner of the webpage. The green button at the center reads 'Register Now', which is a call-to-action. The background image is of a PUBG Mobile character, which further supports the brand identification.",
+        "Url": "https://www.esports-pubgm.com/"
+    },
+    {
+        "Folder Hash": "8f68912aac1d903cd802a877cd07852784f1d80d5241aabb0b6ef88be8a45f36",
+        "Brand": "Vivobarefoot",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Join our mailing list",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Vivobarefoot\" is prominently displayed in the header of the webpage. The overall design and layout of the webpage is consistent with the brand's other marketing materials.",
+        "Url": "https://www.vivobarefootsaleireland.com/"
+    },
+    {
+        "Folder Hash": "9f411378afadb7f71a3e95ad61e6406775feb09294201d3a79901ae2d7f5f3f2",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0",
+        "Supporting Evidence": "There are no clear indicators of a brand on this webpage.",
+        "Url": "https://www.ebay-999.com/home/"
+    },
+    {
+        "Folder Hash": "a632cb446d857a072ace3f35dcdf3c83ad18974b9cc05763b3f31698c84c0e6a",
+        "Brand": "Meta",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is the primary indicator of the brand. The webpage has a simple design with a white background and a centered logo. The colors used on the webpage are blue and white, which are commonly associated with Meta (formerly Facebook).",
+        "Url": "https://support-team.pages.adm.br/32314233216"
+    },
+    {
+        "Folder Hash": "cd323f5718a8d7c102c88bbceb81eee48db975b2323ead4f1d3e5ab762948241",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Like, Follow, Subscribe, Join",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of PUBG Mobile is present at the top center of the webpage. The call-to-action buttons for various social media platforms are also present at the bottom of the webpage.",
+        "Url": "http://psychophage.my.id/"
+    },
+    {
+        "Folder Hash": "d5370b8bdb4f894715bb51cbe31e641c19a9247c19c4b0e2f630750cca9ea50e",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Sign Up, Start Your Free Month",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is present on the top left corner. The webpage has a red background with a gradient to black at the bottom. The call-to-action buttons are also in red. These are all elements commonly associated with Netflix.",
+        "Url": "https://freestream.gbtoystime.com/"
+    },
+    {
+        "Folder Hash": "e912f60fcb528dfeaf20f77cdc8ced31946543a04ab5be8149397488413e6b40",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Buy Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The presence of the Microsoft logo, the 'Office 365' branding, and the call-to-action buttons 'Get Started' and 'Buy Now' strongly suggest that this is a Microsoft webpage.",
+        "Url": "https://officehomeprodprv.brazilsouth.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "ed12951ab0de23840a51693ac8caafe44b0caa6cebdc0c55203069215e2f14d4",
+        "Brand": "eBay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign In, Register, Become a merchant",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of eBay is present on the top left corner of the webpage. The webpage has a search bar, which is a common feature of e-commerce websites. The \"Sign In\" and \"Register\" buttons are also present on the top right corner of the webpage.",
+        "Url": "https://ebay-999.com/home"
+    }
+]

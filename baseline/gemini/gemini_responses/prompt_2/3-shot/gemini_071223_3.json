@@ -1,0 +1,200 @@
+[
+    {
+        "Folder Hash": "443e348efc0dd9a57294017aa719612d4b8bad8cf910de2d65a7fccf46da9978",
+        "Brand": "Autopay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Autopay is present at the bottom of the page. The screenshot contains a login form with fields for email address and password. The call-to-action button says \"Log In\".",
+        "Url": "https://erick-parkin-g-phrkhraphr240894.codeanyapp.com/v/"
+    },
+    {
+        "Folder Hash": "4ebe79efdd74eb44ac55942655656692be2092b47b0d4f771159ee70bf493827",
+        "Brand": "EE",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Explore EE Broadband",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of EE is present on the top left corner of the page. The webpage has the branding colors of EE.",
+        "Url": "https://ee.co.uk/"
+    },
+    {
+        "Folder Hash": "4ffcd0d3cbbe6da700af99a7bb423b6b685f8521da8f0929433e53a42df56c5e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Surface Pro 9",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Microsoft is present on the webpage. The webpage is selling Microsoft Surface Pro 9.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "50af37149df8da3b62036075920cbcb8ab859f8174ec6765c15a0107eaabc825",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible in the top right corner. The screenshot contains a form field for email address and a call-to-action button that says \"Get Started\". The overall design and layout of the webpage is consistent with Netflix's branding.",
+        "Url": "https://intanmaharanis.github.io/"
+    },
+    {
+        "Folder Hash": "5d5d5bcfeea2f3cd9d88a55fd682a478932471fea6f5309ec74321e64fb8a6e4",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The prominent green color and the logo are strong indicators that this is a WhatsApp group chat.",
+        "Url": "https://fjso.c505.net/"
+    },
+    {
+        "Folder Hash": "74dbd4e989c661f940b5b9e27431590b3fe2ce581760834105eee41e22d7ea41",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download the application",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of the bank is present on the top left corner. The page is about downloading an application. The call-to-action button is also present.",
+        "Url": "https://dev-decvredagriipaste.pantheonsite.io/coordination-seminarialgricolor/96684/"
+    },
+    {
+        "Folder Hash": "76cc57a5db53d4df8eabec068e5d0cee4f782a1198ef9fb0f807f97379cefe27",
+        "Brand": "Microsoft (Office)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More, Buy Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Microsoft Office is present on the top left corner of the webpage. The page has a blue background with white texts, which is consistent with Microsoft's branding. The page is advertising Office 365, a product of Microsoft.",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "88be6a5b95c6236166d7cd8385ed16577b9e6d90399739d36df464cbec565129",
+        "Brand": "AliExpress",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of AliExpress is present on the top left corner of the webpage. The color scheme of the webpage is predominantly white, with shades of red and black. The call to action button is clearly visible in the center of the page.",
+        "Url": "https://ebay-gjds.com/home"
+    },
+    {
+        "Folder Hash": "8918a59007b5a6844975e1b04c520c6a092a47f0416b03ad95cdcf90af11889b",
+        "Brand": "Vanilla",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign In, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Vanilla is present on the top left corner of the page. The webpage has a blue background with white texts, which are the primary colors used by Vanilla. The page has a search bar, which is consistent with Vanilla's focus on discussions and community engagement.",
+        "Url": "https://gabe.vanillademo.com/"
+    },
+    {
+        "Folder Hash": "94fcf79e0cbb96f2a4bffeaf29b071220cccc23ed571ef4f0c69143fcc666967",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Surface Pro 9",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Microsoft is present on the top left corner. The page has a blue theme, which is consistent with Microsoft's branding. The call-to-action button is \"Shop for Surface Pro 9\", which indicates that the page is trying to sell the Surface Pro 9.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9f99f677a3c41f624405769a8639d5b121a6e62f5076e56c5270494d899aca30",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The green color scheme and the logo are strong indicators that this is a WhatsApp group chat.",
+        "Url": "https://news2023yacsanp.gxscv.com/vhsfhqpdhdxih1"
+    },
+    {
+        "Folder Hash": "b01b5f23356ac1c1e93b0d3db4ed6dd922e8e3bcace1eb5c61cd92088a6d66a6",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present at the top-center of the page. The page showcases the features of Telegram.",
+        "Url": "https://tg-telegram.club/tg_zh/index.html"
+    },
+    {
+        "Folder Hash": "cc832d45a1f2ca2f216bba2d2507b35e2481aeb17f139d31e3e2b0f795349c5c",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://valonez.com/"
+    },
+    {
+        "Folder Hash": "d7f4f19eaf8bb7f16ff6272c7ada47414be5231d9b08dc6fe9383bdc1495aa5f",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Try for free, Buy now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Microsoft Office 365 is at the top left corner of the page. The page is about Office 365, which is a productivity suite offered by Microsoft. The page has a blue background, which is the same color used by Microsoft in its branding.",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "ddf790ee2e8890b5451ba172487800c8aa3e5344900564de05778ed4f7c2fab0",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of a WhatsApp group chat. The green color and logo of WhatsApp are distinctive and easily recognizable.",
+        "Url": "https://news2023yacsanp.gxscv.com/vhsfhqpdhdxih1/"
+    },
+    {
+        "Folder Hash": "e10ca01e5a3e07c072226ac9b10121ee24df21fcc270a0b8e9013146663128e7",
+        "Brand": "Bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log-in, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Bet365 logo. The credentials fields and buttons are behind the modal overlay.",
+        "Url": "https://www.bet1267.com/home"
+    },
+    {
+        "Folder Hash": "e148e2e30e5671767f5f33a65ede07e89f2c5d4039f23d33bd8cf3caf98a89ec",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present at the top-left corner of the webpage. The blue and white color scheme used on the webpage is consistent with Telegram's branding. The content of the webpage is also related to Telegram's services, such as messaging and group chats.",
+        "Url": "https://telegram-zh.biz/tg_zh/index.html"
+    },
+    {
+        "Folder Hash": "fa4a9254cab55d5c0471f3a312113c92f5d7a0a3401845dc2925094803ec540a",
+        "Brand": "GoShare",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Name, Email, Phone Number, Password",
+        "List of Call-To-Actions": "Sign Up, Next, Agree & Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"GoShare\" is prominently displayed at the top of the webpage. The screenshot also shows a form where users can enter their credentials, including their name, email address, phone number, and password. There is also a call-to-action button that says \"Sign Up\".",
+        "Url": "https://h5.shippinghero.vip/index.html#/pages/active/active?inviter=2263326"
+    }
+]

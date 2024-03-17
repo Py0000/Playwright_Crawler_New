@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "02f8196dac7787e7eabd5b592bce5720a7c26481bd5012ab7d71707b9e9a2096",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open in your browser, Sign up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Discord is present on the top left corner of the webpage. The page has the words \"Download for Windows\" and \"Open in your browser\" which are calls-to-action.",
+        "Url": "https://app.dabing888.cn/"
+    },
+    {
+        "Folder Hash": "2cc5baf89c60dbd4efc9eaef5674e6ce116354f9da6b7c4e68f1399f48c4f347",
+        "Brand": "Meta",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Meta is present on the webpage. The webpage is about Meta and what they are building. The call to action button says \"Continue\".",
+        "Url": "https://www.meta-livechat.email/contact/"
+    },
+    {
+        "Folder Hash": "467992ac6220976e920c39d57f0463f865648d4622c77064f35f6ef4a7362d36",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Get it now, Buy now, Pre-order, Learn More, Try Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Microsoft\" is prominently displayed in the top-left corner of the webpage. The overall design and layout of the webpage is consistent with Microsoft's branding.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4fd90c40b78a29da6e0a064ad854620106127eb9a7d1832a2d84fe09bd37867c",
+        "Brand": "Facebook Marketplace",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log In, Create New Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Facebook is present at the top left corner of the webpage. The page has a form asking for user credentials and has a call-to-action button labelled \"Log In\".",
+        "Url": "https://www.facebook.com/marketplace/adelaide/?unavailable_product=1"
+    },
+    {
+        "Folder Hash": "57561f2b7090cb241717682bc987754805ccf9fa1b5d8f56034732861e2e6f1e",
+        "Brand": "Meta (Facebook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Meta logo is present at the bottom of the page. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://id-id-facebooks.pages.net.br/"
+    },
+    {
+        "Folder Hash": "94abe3263e9a60f89755913710ba693fdb53cd8033341cdcfd3a4a995f608d74",
+        "Brand": "bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green banner at the top with bet365 logo on the left corner. Although there are other logos and banners on the page, bet365 seems to be the main brand as it's logo is larger and more prominent.",
+        "Url": "http://www.molihuatea.com/"
+    },
+    {
+        "Folder Hash": "ab17de4f635ba4d04d28644ddb63c3e05f7703e87ff3d75f63d904089dd92c84",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser, Sign up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Discord\" is displayed at the top center of the page. The page has a blue and purple gradient background with a cartoonish illustration of a group of people. The call-to-action buttons are \"Download for Windows\", \"Open Discord in your browser\", and \"Sign up\".",
+        "Url": "http://discord.swaychat.cn/"
+    },
+    {
+        "Folder Hash": "d3c57c823a905acc35bb4d62d438d6b38e192b4ec3c7247de868b384bee45350",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Netflix is present on the top left corner of the webpage. The webpage has a form field asking for the user's email address. There is a call-to-action button with the text \"Get Started\".",
+        "Url": "https://kuldeepsuthar007.github.io/netflixclone/"
+    },
+    {
+        "Folder Hash": "d42bc4dae1ea48f95a0b197c99c1e950bebb7b74add15a35f6c6435e6212e207",
+        "Brand": "Shopee",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone Number, Verification Code",
+        "List of Call-To-Actions": "Login, Sign Up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Shopee is present at the top of the page. The green \"Sign Up\" button and \"Login\" button are also indicative of Shopee's branding.",
+        "Url": "https://vn36722shp.com/"
+    },
+    {
+        "Folder Hash": "e385c7db10a1f91d606366e9ea5df80671c4341ff4189e309826b844c2dcfc97",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible in the top left corner of the page. The red and black color scheme is also consistent with Netflix's branding.",
+        "Url": "https://divyanshugupta123.github.io/Netflix/"
+    }
+]

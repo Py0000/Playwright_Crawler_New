@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "081c65126aa5a2b56b4a4f92eedb0015cce1d0715658a487e7babbe3ff97d013",
+        "Brand": "EE",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Explore Broadband",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of EE is present at the top right corner of the page. The webpage has the words 'EE' and 'Everything Everywhere' on it.",
+        "Url": "https://ee.co.uk/"
+    },
+    {
+        "Folder Hash": "226fb4f65f988f02bed4cbfac152cb8e0a19abae7f822b19cf0c4c5982671ee7",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner of the page. \"Netflix\" is also mentioned in the title of the page. The webpage has a red background, which is consistent with Netflix's branding.",
+        "Url": "https://afsalmadathingal.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "5567e926418568c90a1a3ebc6c5aba94d81b4b7b19f6cf255cf54d39fc5a01a0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-up, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top-left corner of the page. The screenshot also includes the words \"Join today\", which is a clear call-to-action for users to sign up for an account.",
+        "Url": "https://shivanshu-mall.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "64bd0f8100a8087eec7f6cd924dbeaf5c94ba21ccd475180c4c45226950a9d0c",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log In, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of bet365 is present on the top left corner of the webpage. The words \"Log In\" and \"Register\" are also present on the webpage, indicating that the user needs to provide their credentials to access the website.",
+        "Url": "https://www.7365win.com/#/home"
+    },
+    {
+        "Folder Hash": "6ecf057eab4cdf1d0f1dd653432b638534f66727ee1bb85c66b721a770c62766",
+        "Brand": "Gndi",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Fale conosco, Atendimento 24 horas, Atendimento Online, Cote online!",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is mentioned at the top of the page. The overall color scheme is consistent with the brand's logo. The imagery and content on the page are all related to the brand's products and services.",
+        "Url": "https://www.gndisa.com.br/"
+    },
+    {
+        "Folder Hash": "7b2496e3855dbf20d62f039b8e6a40e3e00fe70cd76616833d894a6e2e70fa9e",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible in the top left corner. The webpage's main call-to-action is to download Discord for Windows, suggesting that it is the primary focus of the page.",
+        "Url": "https://discordapi.aiparty.art/"
+    },
+    {
+        "Folder Hash": "7f5b2d71e5c2f6efc21837e3fd354d88a6062315eb174fc992ee8c30bf1c6318",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch Free For 30 Days",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the webpage. The webpage's primary call-to-action is to watch for free for 30 days.",
+        "Url": "https://jamesya28.github.io/Netflix_Landing/"
+    },
+    {
+        "Folder Hash": "95fd3cc601baaa4dac2bd92065bcaad8ffbdf0bcd5e9cfbd8fbd7c2058784a21",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Try 1 Month Free, Buy Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Microsoft Office 365 is at the top left corner of the page. The page has a blue background with white text and green and yellow highlights. The page is advertising the product Microsoft Office 365. There are three buttons on the page: \"Get Started\", \"Try 1 Month Free\", and \"Buy Now\".",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "9ea49ecb8b7d9f5e52f28680370c41d3c58ee3b5cb05178aded0011ecd2e67b4",
+        "Brand": "Microsoft (Surface)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Surface, Shop for Xbox, Shop for Windows, Sale, Shop for Students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Microsoft Surface is present on the top left corner. The page has a blue theme, which is consistent with Microsoft's branding. The call-to-action buttons are also in Microsoft's signature blue color.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "a0c8380fb98b0d75f2e9af31b880b63cb9073592996d2c4824d805c5a478e6f4",
+        "Brand": "Azteca Server",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Iniciar Sesion",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Azteca server is present at the top. The screenshot also contains the words \"Iniciar Sesion\" which means \"Start Session\" in English. There is also a text field for entering an email address.",
+        "Url": "https://azteca-servermx.top/"
+    },
+    {
+        "Folder Hash": "a56175fd70509eab7e00a834452ec9fc469408b7c43e9592ea14a3c845b93a36",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is present on the top left corner. The screenshot contains a form field asking for email address. The call-to-action button says \"Get Started\".",
+        "Url": "https://ayush979876.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "b7e1af342c296e8b13b46423d75499eee698bbfe1e57496532acd61b22814341",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://xn--80ai0ang1db.xn--90ais/AdvancedWordonline.html"
+    },
+    {
+        "Folder Hash": "ceb43c6f039ec7c362e6f60162dd54e222569a2fdc9a0e60ca5db8edd3092006",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner of the page. The words 'Sign In' are also visible on the top right corner of the page. The page has a form where users can enter their email addresses to create an account or sign in to an existing one. The call-to-action button says 'Get Started'.",
+        "Url": "https://nisha-kashyap742.github.io/netflix.github.io/"
+    },
+    {
+        "Folder Hash": "daa641388c63caed2ad541cb1e646952ab56661c5d6f75fec13dfe673aea542c",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of a WhatsApp group chat. The green color and logo are distinctive of WhatsApp.",
+        "Url": "http://chat-whatsapp.garstfa.my.id/"
+    },
+    {
+        "Folder Hash": "e964fdad12bf4ea8e99f7fff48470a80f1402e4c8bda73a0287ee2a70abd43bd",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Try 1 Month Free, Buy Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Microsoft\" and \"Office 365\" is written on the webpage. The page has a blue theme, which is consistent with Microsoft's branding. The page is advertising Office 365, and has a clear call-to-action to \"Try 1 Month Free\" or \"Buy Now\".",
+        "Url": "https://www.office.com/"
+    }
+]

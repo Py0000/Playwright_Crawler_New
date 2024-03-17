@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "00d53af26a171113d0a536a4bb214d69a89e71beae2db3b1cec648ed68d6f365",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join, Find a job, Post a job, Find a course or training, Get started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of LinkedIn is present. The webpage has the text \"LinkedIn\" on it. The webpage has a blue background, which is consistent with LinkedIn's branding. The webpage has a search bar, which is consistent with LinkedIn's search functionality.",
+        "Url": "https://www.linkedin-hiring.cc/"
+    },
+    {
+        "Folder Hash": "113b3081a0a4758ab03479b7df048baa59019ddd410cf06b414513f878763482",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, email or user ID, Remember me",
+        "List of Call-To-Actions": "Sign In, Try something else, Create an account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Intuit is present on the webpage. The screenshot also includes a number of fields where users can enter their credentials, such as their phone number, email address, and password. Additionally, there is a call-to-action button that says \"Sign In\".",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "140e7476ee0343f602e53a3149797c4df4621c10b964f6342a34533781adf290",
+        "Brand": "Nike",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy Now, Add to Cart",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Nike is present on the webpage. The webpage is selling Nike products.",
+        "Url": "https://unitensloja.site/"
+    },
+    {
+        "Folder Hash": "1609c8ef7f93c3cc34b5f6679bf8943be89d2dcb0607ea94cf3a4ff99b56ec4c",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Create free account, Sign up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Microsoft OneDrive is present on the webpage. The screenshot shows a login form with fields for email and password. There is a blue button with the text \"Login\" next to the password field. There is also a link that says \"Create free account\" below the login button.",
+        "Url": "https://onedrivelseeattachfile.web.app/"
+    },
+    {
+        "Folder Hash": "33932ac057385308009b54178640b8eb5fb848749a1642de0fabdcf16cc68646",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In, Create an Adobe Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Adobe logo at the top left corner. The screenshot shows a login page with fields for email and password, and a \"Sign In\" button.",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "5e1a287812762ebd7e044d6c7a61644c4b3dc26669d9a5bf0b6de2fb92e927a2",
+        "Brand": "BullPhish ID",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of BullPhish ID is present on the top center of the page. The text below the logo indicates that the domain is owned and operated by BullPhish ID.",
+        "Url": "https://secured.cloudsurveillance.net/0b22b244-593f-428f-883a-f0c6eccd7cc0"
+    },
+    {
+        "Folder Hash": "721a476d024a0dfd32057c312a00b60d6d2f3f751a1bb09548dcd11e9ba634aa",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Telephone Number, Card Number, Sicherheitscode",
+        "List of Call-To-Actions": "Sichere Zahlung",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of DHL is present at the top right corner of the webpage. The webpage has a form that is requesting for user credentials. The form has fields for Full Name, Telephone Number, Card Number, Sicherheitscode. The webpage has a button that says \"Sichere Zahlung\".",
+        "Url": "https://wsx.vvo.mybluehost.me/wp-admin/AGJ/LoginServices/"
+    },
+    {
+        "Folder Hash": "8ca024cdc6d763e242452e3fd44805aa1c00c159c982e8d68e9e7ceaaf1586e0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start, Troubleshooter",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Microsoft is present on the top left corner of the webpage. The webpage has a blue background, which is a color often associated with Microsoft. The title of the webpage is \"Fix OneDrive sync problems\", which suggests that the webpage is related to Microsoft OneDrive.",
+        "Url": "https://support.microsoft.com/en-us/office/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2"
+    },
+    {
+        "Folder Hash": "a7130332f01e2cbcfa13cec93ea1d2b256c59188e3ccdb1df21ff3aacc7e958d",
+        "Brand": "WalletConnect Pay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect, Demo",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of WalletConnect Pay is present on the page. The webpage has two buttons, one says \"Connect\" and the other says \"Demo\".",
+        "Url": "https://walletconnectpay.com/"
+    },
+    {
+        "Folder Hash": "d66c28b7d332cbcc89c9c66c1b425043f3e007ef35ee2c7285ecfe9eaa0d57ee",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Battlegrounds Mobile India is present at the bottom of the webpage. The screenshot also contains the words \"Battlegrounds Mobile India\" and \"KRAFTON\" which are associated with the brand.",
+        "Url": "https://gunk8tsbvpz.penguasa.de/"
+    }
+]

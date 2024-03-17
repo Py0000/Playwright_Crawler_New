@@ -1,0 +1,123 @@
+[
+    {
+        "Folder Hash": "039a5c6bb048f5f67d48870f8d22e955152657284a4a88ce04abab2d88865f3e",
+        "Brand": "Raiffeisen Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Benutzername, PIN",
+        "List of Call-To-Actions": "WEITER",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Raiffeisen Bank is present on the top right corner of the webpage. The screenshot is in German, which is consistent with the bank's headquarters being in Austria. The presence of fields for Benutzername (username) and PIN (password) and a WEITER (continue) button suggests that this is a login page.",
+        "Url": "https://web12105.cweb06.gamingcontrol.de/"
+    },
+    {
+        "Folder Hash": "071970528ecbea8bf393d644c803563cfc663af1107d9e5ec2d2ffab305c66a8",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is not clear but it is likely webmail. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihsef3pq3bpqawvkhspixapw2iejwrnsuiw3aq4r7fuwrhmur6age"
+    },
+    {
+        "Folder Hash": "1aee5d2661551cd8af9159ff0bcfe8a7f682fce3d5231069a7ea5a5d71f4efbf",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch Free for 30 Days",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Netflix is present on the webpage. The webpage has a red background, which is consistent with Netflix's branding. The webpage also has a call-to-action button that says \"Watch Free for 30 Days\", which is consistent with Netflix's subscription model.",
+        "Url": "https://radhikakakkar.github.io/page-clone/"
+    },
+    {
+        "Folder Hash": "539e5117f9dba194cbffe6f54f9b1eb80e63ef4fef7ef81159cbacb13758704b",
+        "Brand": "Raiffeisen",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "First name, Last name, Date of birth, Country, City, Postal code, Phone number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Raiffeisen is present at the top center of the page. The page is asking for user's personal information like first name, last name, date of birth, country, city, postal code and phone number. The \"Continue\" button is also present.",
+        "Url": "https://web12104.cweb06.gamingcontrol.de/personal.php"
+    },
+    {
+        "Folder Hash": "6b20936058c6e0d9c4fe89fa7d80898ff11ac787ca2d0b1b56e59addc67d4d67",
+        "Brand": "NetZero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of NetZero is present on the top left corner of the page. The screenshot also shows two text fields, one labeled \"Email Address\" and the other labeled \"Password\". There is also a button with the text \"Sign In\".",
+        "Url": "https://netzero-webmail-107432.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "6c7bb398eed5bf999ab68d9756dd9c3f0eb99ccd0f1e92bf5a6a503729491b23",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose Your Microsoft 365, Shop for Students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Microsoft\" is displayed at the top-left corner of the webpage. The overall design and layout of the webpage is consistent with Microsoft's branding. The page is advertising Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "73b6943837da35b8b1908a7dfc8c3af40138fb24cbe463d72233cbbb51508ec6",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "TRY 30 DAYS FREE",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible. The webpage has a section asking for user credentials and a call-to-action button.",
+        "Url": "https://clearlydhruv.github.io/Net_clone/"
+    },
+    {
+        "Folder Hash": "b64ef9ef4778bf022bf1f80323fbfe10bd9338a226b169093cd61ffbd715571c",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of outlook. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://wkq.fr/f/X47lJ/HJgKD1Ji/"
+    },
+    {
+        "Folder Hash": "b8ffbd64dfa99d3e37956e203094c742345d6452375bbdcc465cf00499a87970",
+        "Brand": "BNP Paribas",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Account Number, Customer Number, Access Code, Password",
+        "List of Call-To-Actions": "Validate, Cancel",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of BNP Paribas is present on the webpage. The page has fields where the user can enter their credentials and there is a button that says \"Validate\".",
+        "Url": "https://www.taka.com.mx/pv/dist/js/pages/chartist/groupbnpparibasnc/app/user.php"
+    },
+    {
+        "Folder Hash": "cb8de0eb3aa49fb382799d2d4457e838b4bd036dfbf8b9c4ed64147fecbe952e",
+        "Brand": "Bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cardholder name, Card number, Expiration date, CVC, Phone",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Bpost is present on the top left corner of the webpage. The page has a form where users can enter their credit card details. The page also has a button that says \"Next\" which suggests that this is a payment page.",
+        "Url": "https://pakket-bpost-be.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "da9b8f6bdc3e88e6e63acd994af58d87a965a27d92931bd273a8d9a3c4ec0447",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log In, Forgotten Password, Create New Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "There is a Facebook logo on the top of the webpage. Also, the Facebook login button is present on the page.",
+        "Url": "http://ff.memberrs.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    }
+]

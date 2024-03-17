@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "0bca8942073f3cda1ad34f63177b283e28e211f50e21038730a809c3ea8e933c",
+        "Brand": "La Nacion",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Cambiar idioma, Suscribite",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of La Nacion is present on the webpage. The call-to-action button is visible on the webpage.",
+        "Url": "https://oilindex360ai.com/BacOilIndexCR/?s2=b1e029cb-1d86-4ce4-8c97-69388d134a94"
+    },
+    {
+        "Folder Hash": "0f07ed3e30fd8f50bb56bc8b1798fe183f0c7d41b34b40682783f8d4cab917b2",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible. The webpage has a prominent red button with a text saying \"Get Started\". The background shows a screenshot of the Netflix app on a TV.",
+        "Url": "https://zainsite.github.io/"
+    },
+    {
+        "Folder Hash": "1c98ed6f6ffc07ad9b4f18dc614ea440cd9c094de4c1a7499eeaef11b2c8c0e0",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner of the webpage. The webpage has a red background, which is consistent with Netflix's branding. The page has a clear call-to-action button that says \"Get Started\".",
+        "Url": "https://ebrahemsamir.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "31f95ac73295bf28031d0d0f185483f453d19711d9f67bd2861a9c42eaa4070e",
+        "Brand": "Navy Federal Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Become a Member, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Navy Federal Credit Union is present on the top left corner of the webpage. The screenshot also shows a login form with fields for Username and Password, as well as a Sign In button. The webpage also has a section that says \"Not a Navy Federal member? Join now and enjoy the support and great service of a credit union that puts your needs first.\" with a Become a Member button.",
+        "Url": "https://fnd-inc.com/wp-includes/certificates/centor-idimoas-UNH-400x39.htm"
+    },
+    {
+        "Folder Hash": "360f3c20546a4e3cc006b353e5181f68d77284a31d708f3615739a230733a938",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"MetaMask\" is prominently displayed at the top of the page. The page has a clear call-to-action to \"Download\" the MetaMask app. The overall design and layout of the page is consistent with the MetaMask brand guidelines.",
+        "Url": "https://metamask.itoken.cool/"
+    },
+    {
+        "Folder Hash": "3b8ef53b181ac6bd88261fec42bfd1435706b2a8a051a8d98ce3cd01c3c24fdc",
+        "Brand": "Mobile Legends",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of the game is present at the bottom of the page. The call to action button says \"Start\".",
+        "Url": "http://mail.keihvp.nag4.com.tr/"
+    },
+    {
+        "Folder Hash": "5260c44c0f85965735303cd2ea691b2060e53faa53e91898950ba4ab1d11d3d7",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start your free trial, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner. The webpage has a red background with a gradient to black at the bottom, which is consistent with Netflix's branding. The page is advertising the benefits of Netflix, such as unlimited movies, TV shows, and more.",
+        "Url": "https://shiwanimall.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "69fd742b4e1e39aa609f3dc85e0139ef3255f5d235747d19fc28d274ed21d1d0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the top right corner of the page. The screenshot also shows a login form with email and password fields, along with a \"Get Started\" button.",
+        "Url": "https://shivam5162323.github.io/Netflixclone/"
+    },
+    {
+        "Folder Hash": "7a5664908563298dc2b3e119f0bdd4c4e04f7c7efd64ae45d7977d9c3e4c72be",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner. The webpage has a section that says \"Frequently Asked Questions\" which is common for websites to have. The overall look and feel of the webpage is consistent with Netflix's branding.",
+        "Url": "https://a-dith-k.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "838b441f5417e36f79aa78c0cc5f13f1c0c34c02c2dceae345cf35a32ab9a62d",
+        "Brand": "Herald",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of the webpage is that of Herald. There are no credentials or call-to-action buttons on the page.",
+        "Url": "https://hstv.co.zw/"
+    },
+    {
+        "Folder Hash": "9d937ee107db41eb381b24805d32b06d49a0511d154eb1e6f605c8fb3e4dc452",
+        "Brand": "Bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log-in, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Bet365 logo. The credentials fields and buttons are behind the modal overlay.",
+        "Url": "https://bet988v.com/home"
+    },
+    {
+        "Folder Hash": "a572866215a9b95b245be8898c18cbe1932abeab44c1a6ec8a2d19bd1bbeab70",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner of the webpage. The screenshot also shows a form field for email address and a call-to-action button labeled \"Get Started\".",
+        "Url": "https://devshubhamjadav.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "b7e1af342c296e8b13b46423d75499eee698bbfe1e57496532acd61b22814341",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://xn--80ai0ang1db.xn--90ais/AdvancedWordonline.html"
+    },
+    {
+        "Folder Hash": "c979df598c3f7be4a3ebadc36540874230fad3988ec14f9e7ac1495ff3187cfc",
+        "Brand": "Desjardins",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Desjardins is present at the top left corner of the webpage. The blue color scheme used on the webpage is consistent with Desjardins' branding.",
+        "Url": "https://www.fondsdesjardins.com/accueil/index.jsp"
+    },
+    {
+        "Folder Hash": "e6082ec85f2166997ba7ff1f317b2326f3ebeb9eca3787a2ab657ee5632d2350",
+        "Brand": "Gemini",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Phone Number",
+        "List of Call-To-Actions": "Zarejestruj, Zacznij zarabia\u0107",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Gemini is present on the webpage. The webpage has a form where users can enter their email address and phone number. There is a call-to-action button that says \"Zarejestruj\" which means \"Register\" in Polish. There is another call-to-action button that says \"Zacznij zarabia\u0107\" which means \"Start earning\" in Polish.",
+        "Url": "https://1.greatgreat.monster/"
+    },
+    {
+        "Folder Hash": "f22ad693ae34b29a135580921e4b51555992b53dd54dd6342641048d5deb164f",
+        "Brand": "Quad Solution Printing",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of \"Quad Solution Printing\" is at the top of the page. The overall color scheme of the page is white and light blue, with dark blue text.",
+        "Url": "https://web.quadel.co.th.quadel.co.th/Paketzustllung"
+    },
+    {
+        "Folder Hash": "f9aafd805cd812ca5f0316444c263074f1a4ac36646f10a143be588a5138f298",
+        "Brand": "ePanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of ePanel is present on the top right corner. The screenshot contains a login form with fields for email address and password, along with a \"Log In\" button.",
+        "Url": "http://bafybeiefalwgo2dutlt3okjfwwj7rropuiufhwnf24nukew7fsdrekorwi.ipfs.cf-ipfs.com/"
+    }
+]

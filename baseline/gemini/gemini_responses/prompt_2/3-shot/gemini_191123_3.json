@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "059cafdf56fb56d6e5ae60278e19d2fee87b003e15c42864b6496ec48a09bef2",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of outlook. The credentials and buttons can be seen on the screenshot.",
+        "Url": "http://completar.3655.outlook.zya.me/login.live.com_login_verify_credentials_outlook.html?i=1"
+    },
+    {
+        "Folder Hash": "1992e1de0502bdc3bcd230ee8821ff8c73c58a452234ba76f37b889055c1a7cf",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of AT&T is present on the top left corner of the page. The page has two input fields, one for email and the other for password. These fields are followed by a blue button with the text \"Next\" on it.",
+        "Url": "https://mail-107095.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "1e1f183cea2f34afd55ad72514aa6792c3a2f69730571fe2482458fa73a4ca3e",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of AT&T is present on the webpage. The page requests User ID and Password as credentials. The call-to-action button says 'Sign In'.",
+        "Url": "https://att-104300.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "2476d4fb0fe5142fa2542a61dd5c2f5c26b9ce0bede0b3c24d4e5acf5633515a",
+        "Brand": "Instagram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Instagram is present in the center. The background is white, which is in line with Instagram's branding. The text \"from Meta\" at the bottom further confirms that this is an Instagram webpage.",
+        "Url": "https://www-instagram-com.app2.sup2.skyfencenet.com/"
+    },
+    {
+        "Folder Hash": "411145294a15999152c4aa2def8f377501ac83864034b0a2e723f6ddfa82c2f9",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Country, Phone Number",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible and the page is asking for user credentials and has a call-to-action button.",
+        "Url": "https://telegram.awqdui.top/"
+    },
+    {
+        "Folder Hash": "53253947b718f1871205a248af19ee1099f14944e62296d69fb0c501a7bea4d1",
+        "Brand": "Washington State Government",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign In, Forgot my password",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo of the Washington State Government. The credentials fields and buttons can be seen on the screenshot. The URL also contains \"wa.gov\" which is the domain for the Washington State Government.",
+        "Url": "https://pub-f842ee8b79264a61ab09cbed614c77e6.r2.dev/link%20(4).html#"
+    },
+    {
+        "Folder Hash": "985bc75d0a8373aecca35f9e99e7ab5b59d9050da7f5faae8150e0602f7bc9f2",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Weebly is present at the bottom of the page. The webpage has a simple design with a lavender background and a white form for entering credentials. The words \"BT Home\" are present at the top of the page, which could indicate that this is the login page for a company or organization called \"BT Home\".",
+        "Url": "https://bt-102768.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b19c92ddf0a58eb0af2bcdcf1ddc1ab251fee8ac674f2b75e231e21a468c81ff",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of AT&T is present on the top left corner. The page has two input fields for User ID and Password with a button saying Continue.",
+        "Url": "https://sign-in-att-100076.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "bf311703f6460d29eabe2a42b9bab2583e46ac2eee458f898514d95d59b93b65",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, First Name, Last Name, Address Line 1, Address Line 2, City, State, ZIP Code, Phone, SSN",
+        "List of Call-To-Actions": "Next, Cancel, Apply Coupon",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of USPS is present at the top left corner of the page. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://zxb.bgd.mybluehost.me/uspshome/"
+    },
+    {
+        "Folder Hash": "ed70e8e50c1b5d17b349d1b662c8e7b938a275ed9be41f15b5798762bf25b022",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Phone Number",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present at the top of the page. The page has a field to enter phone number. The page also has a warning message stating that the account is restricted.",
+        "Url": "https://tgadminuser.awqdui.top/"
+    }
+]

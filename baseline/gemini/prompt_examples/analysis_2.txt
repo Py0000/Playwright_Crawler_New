@@ -4,4 +4,4 @@
 4. List_of_credentials: Email or Phone Number, Password
 5. List_of_call_to_action: Log-in, Forgotten Password, Create new account
 6. Confidence_Score: 10
-7. Supporting_Evidence: There is a Facebook logo. The credentials and buttons can be seen on the screenshot.
+7. Supporting_Evidence: The image shows the login page of Facebook with its distinctive blue logo with white lowercase letters. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text "Facebook helps you connect and share with the people in your life."

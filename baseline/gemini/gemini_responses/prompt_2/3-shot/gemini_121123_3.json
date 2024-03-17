@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0a803bc306dfb97eceec30a382a69bee6174004adf1b76482ad1bdea0d096824",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of outlook. The credentials and buttons can be seen on the screenshot.",
+        "Url": "http://sugarcommunications.com/js/fgd/app.hellofax.html"
+    },
+    {
+        "Folder Hash": "27716752b897ff63221e9064d11300ec3122455d9efa2a714bb2130e790c8e3a",
+        "Brand": "First Financial Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of the bank is clearly visible on the top left corner of the webpage. The page also has a green checkmark indicating a successful verification, which is consistent with the bank's verification process.",
+        "Url": "http://crispyux.design/firstfinancial/complete.php"
+    },
+    {
+        "Folder Hash": "406cdf1183eaa1c92c061d5ce7ac6f2744f73069acd847ce91b5f41e7703e3b3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone Number or Email, Password",
+        "List of Call-To-Actions": "Log In, Create New Account, Forgotten Password",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Facebook is present on the top left corner of the webpage. The screenshot also shows two text fields, one for phone number or email, and the other for password. There are also three buttons, one for logging in, one for creating a new account, and one for forgotten password.",
+        "Url": "https://handel-wszechstronny.pl/authorize.php/"
+    },
+    {
+        "Folder Hash": "69b52bc74d554b4ecc25b853197f39fe32700768875e8975acf01cb3e6b8720d",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Activer",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Credit Agricole is present on the top left corner of the webpage. The green button in the middle of the page says \"Activer\", which means \"Activate\" in English. This suggests that the user needs to activate their account or a service.",
+        "Url": "https://convention-securitaire-franc.web.app/"
+    },
+    {
+        "Folder Hash": "74ef921a602a3f5c5cd80ae41948e5e17702974060d6cdb1bc769d774b9485dd",
+        "Brand": "CVS Health",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign On",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a CVS Health logo at the top. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://cvshealth.sharepoint.corp.index.organicbitesindia.com/ext.home/Udlaps/index.php"
+    },
+    {
+        "Folder Hash": "79433408fa3d0788dcecb66ef7c23db6c5d532231240a835fbae3565f8fe92e1",
+        "Brand": "MyGov",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or email, Password",
+        "List of Call-To-Actions": "Sign in, Create a myGov account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a logo that says \"myGov\". The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://www.apocsulb.org/g/"
+    },
+    {
+        "Folder Hash": "7f7f2a8823c26ef999fa286173c653c4afdc65497ee3d3ded7011a71603c7dfb",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The screenshot is of a login page. There is no logo or other branding visible on the page. The email and password fields are common to many login pages. The \"Log In\" button is also common to many login pages.",
+        "Url": "https://pub-3bc9161e0ceb4c5397b48936ad7e7bd6.r2.dev/index.html#"
+    },
+    {
+        "Folder Hash": "c96f2c6cc04fbdb0a2c2a31ceabb1acb72ba80fe7c2ee8cb36c00f9d3123fbcb",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Facebook logo. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://pages-adsbusiness-hlp-inf-acc.github.io/omega/manager/#confirm-page-container-navigation"
+    },
+    {
+        "Folder Hash": "dec220c28a735ebf48e95ce79dff38a583630d2c0268104851b385912386161d",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present at the top of the page. The overall layout and design of the page is consistent with the branding of Netflix.",
+        "Url": "https://subscription-netflix-support.codeanyapp.com/heltsa/jonika/account/paymybill.php"
+    },
+    {
+        "Folder Hash": "f2decee51d9eeeb97312e59052df929f8752b80ffbadbcb26705271c57f986b8",
+        "Brand": "Idaho Central Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Go to mobile site",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Idaho Central Credit Union is present at the top left corner. The page has fields for email address and password, along with a 'Log In' button. The page also has a section promoting the Idaho Central Credit Union mobile app.",
+        "Url": "http://womanizervibrator.nl/ICCU/emailpass.html"
+    }
+]

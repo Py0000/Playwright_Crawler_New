@@ -1,0 +1,156 @@
+[
+    {
+        "Folder Hash": "0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of AT&T is present on the top of the page. The page has two input fields for credentials and a button with a call-to-action text.",
+        "Url": "http://site9613638.92.webydo.com/"
+    },
+    {
+        "Folder Hash": "1ebdbd3ba2ec49a9a59303ab1673300c9e367009efe7248bd677b9a61d802627",
+        "Brand": "ePanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is present on the top of the page. The credentials fields and buttons are also visible.",
+        "Url": "http://bafybeiagroeoycb2v6dizowqc7bnsqsgwtzqxgscmygrdch36t5gwrktmu.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255",
+        "Brand": "Disqus",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Explore Now, Contact Sales",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Disqus is present on the top left corner of the webpage. The webpage has a blue background with a white text, which is consistent with the colors used by Disqus. The webpage is about the Disqus product, which is a commenting platform for websites.",
+        "Url": "https://disqus.com/"
+    },
+    {
+        "Folder Hash": "37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email account, Password",
+        "List of Call-To-Actions": "ACCEDER AL CORREO",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo, the email and password fields, and the call-to-action button are all consistent with the branding of Webmail.",
+        "Url": "https://scure001.logins.account11.perniktermo.com/aps/"
+    },
+    {
+        "Folder Hash": "6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password, Create new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Facebook logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://dfsdcsfdgf.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Country Code, Phone Number",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is a prominent visual element on the webpage, and the colors used on the webpage are consistent with Telegram's branding. Additionally, the webpage has a form field asking for user credentials, which is a common feature of login pages.",
+        "Url": "https://tele-gram05.com/"
+    },
+    {
+        "Folder Hash": "6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password, Create new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Facebook logo. The credentials and buttons can be seen on the screenshot.",
+        "Url": "http://www.impideservicios.es/"
+    },
+    {
+        "Folder Hash": "83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of outlook. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://pub-ecfd66fe742646ddbea15f7c9799b3ee.r2.dev/kpass.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8",
+        "Brand": "Deer Park Progress",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Deer Park Progress is present at the top of the page. The overall visual elements such as the font, color scheme and layout are consistent with the brand guidelines of Deer Park Progress.",
+        "Url": "https://deerparkprogress.com/hsgcvsj/marmerconstruction/bwfydhlabwfybwvyy29uc3rydwn0aw9ulmnvbq=="
+    },
+    {
+        "Folder Hash": "9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Microsoft logo on the top left corner of the webpage. The webpage is asking for a password, and there is a 'Sign in' button.",
+        "Url": "https://pub-2598caa00dcf4c658bf8753f6761f962.r2.dev/compki.html"
+    },
+    {
+        "Folder Hash": "c99bd0bd3d9229ba01bd0a86e65d6f94837ae58ec8db350c29a26b9a14dcfc95",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone, Skype",
+        "List of Call-To-Actions": "Sign-in, Create Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a Microsoft logo on the top left corner of the page. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://ipfs.runfission.com/ipfs/bafybeignwgza547soouu5nbyb35msg3x2yi7o2ezx2szaezb3vc22unacu/fficeo_office74.html"
+    },
+    {
+        "Folder Hash": "d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Coinbase logo is present at the top left corner of the webpage. The blue theme is consistent with Coinbase's branding. The overall layout and font style are also similar to Coinbase's other webpages.",
+        "Url": "https://www.bakkt-trade.com/#/"
+    },
+    {
+        "Folder Hash": "f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is the most prominent visual element on the webpage. The presence of credentials fields and a call-to-action button is also indicative of a login page.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmeFgtyCcgC1dLPwKewSAifcDDjteT9njUGntftNC1qnxb"
+    },
+    {
+        "Folder Hash": "fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Telegram is present at the top-center of the page. The page showcases the features of Telegram.",
+        "Url": "https://terlergram.com/"
+    }
+]

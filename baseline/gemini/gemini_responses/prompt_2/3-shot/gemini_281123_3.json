@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0e4582d1db1403de859a5b4265acb69e80016bb02a1a932c2580000801932fec",
+        "Brand": "Cupom de Desconto Ponto Frio",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of the brand is clearly visible at the top of the webpage. The overall layout and color scheme of the webpage is consistent with the brand's identity.",
+        "Url": "https://www.cupom-de-desconto.com/ponto-frio/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Hanwha Techwin",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "ID, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Hanwha Techwin is present on the top left corner of the page. The screenshot also shows a login form with fields for ID and Password, along with a Login button.",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "372e6116960e55286a120894035b699ce5a184bc1bcc1d4c3ac20a68f3ec4b55",
+        "Brand": "SFR Business",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of SFR Business is present on the top left corner of the webpage. The blue color scheme used on the webpage is consistent with the brand's identity. The webpage also contains the company's contact information and social media icons.",
+        "Url": "https://www.sfrbusiness.fr/sfr-politique-de-protection-des-donnees-personnelles.html?eff_cpt=22931728&eff_pr1=**id_bat**"
+    },
+    {
+        "Folder Hash": "6012d0196d437b61def2e0d4b09b14d95c7c2ccd0b0a2651638de9249a3ec780",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose Your Microsoft 365, Shop for Students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Microsoft is present on the top left corner of the webpage. The webpage is selling products, and there is a call-to-action button \"Shop Now\" on the top right corner.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8265aae7b50ade829d3ac265f082cbe64ce1aa752aa7cad3f3ebe8e87caf69b9",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-up, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://beyon-d-yadhu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "a26025419c72baf42631231b435e27ec7438f50d1d6ba41dcc918cdcc9782d23",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of DHL is present at the top left corner of the webpage. The overall color scheme of the webpage is red and yellow, which are the brand colors of DHL. The imagery and text content on the webpage are related to the logistics industry, which is the industry that DHL operates in.",
+        "Url": "https://www.dhleoyssa.com/"
+    },
+    {
+        "Folder Hash": "aa92152333593704107b819af91676431cbdb5c445e4a9312396eaa60ee230d8",
+        "Brand": "Envases",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Envases is present at the top left corner of the webpage. The overall visual elements such as the color scheme, typography, and layout are consistent with the brand guidelines of Envases.",
+        "Url": "https://todosonsantos.com/?gclid=EAIaIQobChMI9LK_-cjiggMVBqFaBR3h8gAXEAAYAiAAEgL7z_D_BwE"
+    },
+    {
+        "Folder Hash": "ab17de4f635ba4d04d28644ddb63c3e05f7703e87ff3d75f63d904089dd92c84",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Discord\" is prominently displayed in the center of the page. The page also features the Discord logo, which is a stylized image of a speech bubble with a game controller in the center. The page also features a number of other Discord branding elements, such as the Discord font and color scheme.",
+        "Url": "http://discord.swaychat.cn/"
+    },
+    {
+        "Folder Hash": "d8f30a1d70e75a4ed32fc20171e4ae06441aa98d077b3d82b697aba57a4beff7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible on the top left corner. The screenshot contains a form field asking for email address. The call-to-action button says \"Get Started\".",
+        "Url": "https://shubhamsharma20061998.github.io/"
+    },
+    {
+        "Folder Hash": "d980baaf9e0647a9529eeba4cbca9738c6558edd5389f4400a70cfc1e11d903b",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the top left corner of the webpage. The webpage has a form field asking for user email address. There is a call-to-action button that says \"Get Started\".",
+        "Url": "https://shreeompatil.github.io/netflixmobileclone/"
+    }
+]

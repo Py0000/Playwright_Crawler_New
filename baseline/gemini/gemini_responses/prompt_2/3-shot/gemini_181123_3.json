@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "337a147d29d18b0caa7f287224ab0a390f2cee3998f359e54a3519c6f37167c2",
+        "Brand": "Spotify",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or username, Password",
+        "List of Call-To-Actions": "Log In, Sign Up for Spotify",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name is shown at the top of the page. The credentials fields and buttons can be seen on the screenshot.",
+        "Url": "https://cpanel17wh.bkk1.cloud.z.com/~cp042619/spoofi/Issued/settings/"
+    },
+    {
+        "Folder Hash": "45f284227bba96cfab6ef3b88c3e197510fc75454f7cd50b58b3abe3cde13bd7",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible. The presence of credentials fields and call-to-action button is also evident.",
+        "Url": "https://suscripcion-myldevicelocation.com/isignesp.php"
+    },
+    {
+        "Folder Hash": "50d9a9dd5fb90c7bb7bf9e2d8e6160aec2af9cd32c5738d292994f348a51e776",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Help, I can't sign in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Steam is present on the top left corner of the page. The screenshot shows a login page with fields for username and password, along with a 'Sign In' button.",
+        "Url": "https://steamcorumunity.ru/gift/765625724239673548-auth"
+    },
+    {
+        "Folder Hash": "52ab62fa37550e58c5431661bc5b3dfc99232c8ef84a7dd428dcdec994fa88a3",
+        "Brand": "BT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "BT ID or Email address, Password",
+        "List of Call-To-Actions": "Sign In, Create an account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of BT is present on the top left corner of the webpage. The presence of credentials fields and call-to-action buttons is also indicative of a login page.",
+        "Url": "https://btconnectfilesecureinboxbthomelogindropbopsdnebackboxpdf.weebly.com/"
+    },
+    {
+        "Folder Hash": "6a3df72d7a1feb4cc61dbd4a3f8fac326842330ac0607183730d02db2206a3b7",
+        "Brand": "Dropbox",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "View Document",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Dropbox is present on the top right corner of the page. The page has fields for email and password. It also has a call-to-action button that says \"View Document\".",
+        "Url": "https://doc-drop-box.weebly.com/"
+    },
+    {
+        "Folder Hash": "7cc458d21b98539d4a42d271da2e6778e45dc866cba2af10ed1545d801d30445",
+        "Brand": "DANA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Lanjutkan",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of DANA is present at the top left corner of the webpage. The page has a green button with the text \"Lanjutkan\" which is a call-to-action.",
+        "Url": "https://claim-hadiah-dana.vip-resmi.my.id/"
+    },
+    {
+        "Folder Hash": "83892b58a772494ee0981a624bf9922cc60b4f5f20f3f0c138b04931e8908706",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "H\u00e4mta i butik, Via Post",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Amazon logo is present at the top of the page. The colors used on the webpage are predominantly orange and white, which are consistent with Amazon's branding. The call-to-action buttons are also consistent with Amazon's branding.",
+        "Url": "https://seaz2.getthis4free.com/start_225.html"
+    },
+    {
+        "Folder Hash": "c42d928f7e87d5658451bdf8b60447c40dd7059699031b4edcdebd7c1867b1ff",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Register, Log In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of DHL is present on the top left corner of the webpage. The webpage is in English and the Singapore flag is present on the top right corner of the webpage.",
+        "Url": "http://socialmediaconsultant.ae/public/pZsPXuMZl74EGYJ7h2WqEQl0DxBrvEyp"
+    },
+    {
+        "Folder Hash": "c492d060c45876a020df1747b7d636958a7c93fd92ed1f1eadb6ef5b8379be68",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Sign In, Sign in with Google",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Intuit is present at the top of the page. The screenshot also contains the words \"Sign In\", \"User ID\", and \"Password\", which are commonly associated with login forms.",
+        "Url": "https://dev.vanira.co/wp-admin/intu/quickbooks.com-secure-qbo/quickbooks/"
+    },
+    {
+        "Folder Hash": "fd096d15c4f378b726a3bb3b530dc452216ed3d427a5778dc0a63a90a206b86d",
+        "Brand": "Spectrum",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Spectrum is present on the top right corner. \"Spectrum\" is also mentioned in the page title. The screenshot is of a login page, which typically requires credentials.",
+        "Url": "https://basis.org.ua/sites/all/themes/omega/alpha/chartererror/error.php"
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72",
+        "Brand": "Apple (iCloud)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo, the presence of credentials and call-to-action button, and the overall design are consistent with Apple's iCloud branding.",
+        "Url": "https://www.icloud.com/"
+    },
+    {
+        "Folder Hash": "2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo is clearly visible in the top right corner. The screenshot also has a prominent \"Get Started\" button, which is a common call-to-action for subscription services like Netflix.",
+        "Url": "https://adarshjha12.github.io/netflix-by-adarsh/"
+    },
+    {
+        "Folder Hash": "3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone, Password",
+        "List of Call-To-Actions": "Sign In, Create Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Google logo is present on the page. The page has a text field for email or phone number and a text field for password. There is a blue button with text \"Sign In\" and a grey button with text \"Create Account\".",
+        "Url": "https://us-central-1.fybeobjects.com/a2de2ea95a1b47e69f3e3ef485c3be59:depositpaymentawaitingforconfirmation7486438743/voucher-a6a43dc24a642edbank@763498809.html"
+    },
+    {
+        "Folder Hash": "4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Netflix is present on the webpage. The screenshot contains a form field asking for user email address. There is a call-to-action button with the text \"Get Started\".",
+        "Url": "https://prajwalk-07.github.io/netflix-clone.github.io/"
+    },
+    {
+        "Folder Hash": "5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db",
+        "Brand": "TFBank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Account Number, Date of Birth",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of TFBank is present on the webpage. The screenshot also shows two fields for entering credentials, namely \"Account Number\" and \"Date of Birth\", along with a \"Login\" button, which is a call-to-action.",
+        "Url": "https://bqq.quo.temporary.site/tf/web/login.php"
+    },
+    {
+        "Folder Hash": "6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of DHL is present on the webpage. The webpage has a blue background, which is consistent with DHL's branding. The page's title is \"DHL Tracking\", which indicates that the page is related to DHL's tracking services. There is a tracking number on the page, which is consistent with DHL's tracking services.",
+        "Url": "http://gqs.yqp.mybluehost.me/fthjx/des/"
+    },
+    {
+        "Folder Hash": "6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b",
+        "Brand": "Allegro",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Kup Teraz, Dodaj do koszyka",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Allegro is present on the top left corner of the page. The green button on the right hand side that says \"Kup Teraz\" translates to \"Buy Now\" and is a call-to-action button.",
+        "Url": "https://allegro.zakuppayu24.pl/oferta/iPhone-14-Pro-256gb-sprawny?id=339827496"
+    },
+    {
+        "Folder Hash": "6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7",
+        "Brand": "Banca di Pisa e Fornacette",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Banca di Pisa e Fornacette is present on the top left corner of the webpage. The rest of the page is filled with information about the bank's services. There are no forms or buttons asking for user credentials or call-to-action.",
+        "Url": "https://www.bancadivenezia.it/persone/digital-banking/index.html"
+    },
+    {
+        "Folder Hash": "afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DPD logo is present at the top of the page. The DPD name is also present in the browser tab. The colors used on the page are DPD's brand colors.",
+        "Url": "http://www.neu.planen.lieferung.id.51-107-1-90.cprapid.com/info/paket/update.php"
+    },
+    {
+        "Folder Hash": "ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now",
+        "Confidence Score": "7",
+        "Supporting Evidence": "The brand name \"Microsoft\" is displayed at the top of the page. The webpage is selling products and has a call-to-action button that says \"Shop Now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The green color scheme and the logo are indicative of WhatsApp.",
+        "Url": "http://ovjaoo.c505.net/"
+    },
+    {
+        "Folder Hash": "c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125",
+        "Brand": "365bet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign Up, Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of 365bet is present on the top left corner of the webpage. The screenshot also contains a form with fields for entering credentials and a call to action button for logging in.",
+        "Url": "https://www.793e365.com/#/"
+    },
+    {
+        "Folder Hash": "ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9",
+        "Brand": "Vserossiyskiy tvorcheskiy konkurs",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of the competition is present at the top of the page. The title of the competition is also stated at the top of the page.",
+        "Url": "https://plum19588527.brizy.site/"
+    },
+    {
+        "Folder Hash": "d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DPD logo is clearly visible at the top of the page. The page also has a DPD-branded color scheme of blue and orange. The page's main content is a form that allows users to track their packages. The form has fields for the user's tracking number and email address.",
+        "Url": "https://18-197-40-90.cprapid.com/cz/update.php"
+    },
+    {
+        "Folder Hash": "e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Logga in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The DHL logo is present on the webpage. The screenshot also shows a login form with fields for email and password.",
+        "Url": "https://my.dhlparcel.se/account/sign-in"
+    }
+]

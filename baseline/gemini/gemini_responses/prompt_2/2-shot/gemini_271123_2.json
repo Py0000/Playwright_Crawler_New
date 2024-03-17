@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "164ad949f9595380059658035fdc02fbaf46e833d5e6a017297391509709b3cb",
+        "Brand": "Tasuri",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop, Contact, My Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Tasuri is at the top-left corner of the webpage. The footer of the webpage also contains the company name, address, and contact information.",
+        "Url": "https://basurishop.com/"
+    },
+    {
+        "Folder Hash": "19ae88c673d1b61b7e5df50961ab9e6a8b7f0b532558125fd4b81cc9818933cf",
+        "Brand": "Banpro Grupo Promerica",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Forgot Password, Remember me, Affiliate",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Banpro Grupo Promerica is clearly visible in the top left corner of the webpage. The screenshot also shows two text fields, one labeled \"Username\" and the other labeled \"Password\". There is also a button labeled \"Sign In\". These elements indicate that the webpage is likely a login page for an online banking or financial services platform.",
+        "Url": "https://46c8371e-2ec7-4ab6-8119-797076e037dd.id.repl.co/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Hanwha Techwin",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "ID, Password",
+        "List of Call-To-Actions": "Login, Forgot Password",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Hanwha Techwin is present on the top left corner of the webpage. The screenshot also shows a login form with fields for ID and Password. There is a call-to-action button that says \"Login\" and another that says \"Forgot Password\".",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "31c40fdd6f2f7007261f3cf59f7d4d1b3f3d3a306a031b3e5fb8ff85ea8c8028",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Add to Cart, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Microsoft\" is located at the top-left corner of the webpage. The overall design and layout of the webpage is consistent with Microsoft's branding. The page has a blue background with white text, which are Microsoft's brand colors.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8596686c03d764958db74627678de987a7b5b3ed0490ec0b63b32c0d8374a54e",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Try for free, Contact sales",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The presence of the Microsoft logo and the \"Try for free\" button strongly suggest that this is a Microsoft webpage. The overall design and layout of the page is consistent with other Microsoft webpages.",
+        "Url": "http://d15a1lvkr18tre.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "a4ad70fbd111247f286b1364997a9099527e0e1348b8a070073b27d79abfbdeb",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of Netflix is present on the top right corner of the webpage. The screenshot contains a prominent section that requests users to sign in with their credentials. Additionally, there is a call-to-action button labeled \"Get Started\" which is a common CTA used by Netflix.",
+        "Url": "https://gentmulaj1.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "c0a0edcd380a5c918c884cbd8de521c702eda077dac81d0ec9d92b519ee3d409",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, See Price, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Microsoft\" is displayed at the top of the page. The webpage is selling products, and the call-to-action buttons are \"Shop Now\" and \"Buy Now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c40c09de4d38419a8dcef0dc13d33ad07bcf21bacd6df5984b58616b1fee3c8e",
+        "Brand": "Suncoast Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Member Number, Password",
+        "List of Call-To-Actions": "Log In, Join Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Suncoast Credit Union is present on the webpage. The page has fields for Member Number and Password. It also has a Log In button and a Join Now button.",
+        "Url": "https://suncoastaut.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "e9e9b5de6eda512206beb1f71d65125b14ce947010dcf5def32e0597f091f56e",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "LOGIN",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Wells Fargo logo is clearly visible in the top left corner of the webpage. The screenshot also includes a login form with fields for Username and Password, as well as a LOGIN button.",
+        "Url": "https://intlexperiwellscomms.weebly.com/"
+    },
+    {
+        "Folder Hash": "f52a5a4a2e5c8da13499aaafe8a4df46e38baadac1abb724e8c183a9a47b38ef",
+        "Brand": "Gazprombank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Phone Number, Email, Passport details",
+        "List of Call-To-Actions": "Registration",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Gazprombank is clearly visible in the top-left corner of the webpage. The page has green and white as its primary colors, which are also the colors of Gazprombank. The page is about opening an account with Gazprombank. The page has a form that asks for user credentials and a call-to-action button that says \"Registration\".",
+        "Url": "https://ultimatefinancesedition.com/"
+    }
+]

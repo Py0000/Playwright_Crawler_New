@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Microsoft Office 365 is present on the top left corner of the webpage. The screenshot also shows a form requesting email and password, along with a button labeled \"Sign-in\".",
+        "Url": "https://sites.google.com/amricalturs.net/download4/microsoft-office-365"
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Apple\" is prominently displayed at the top center of the page. The products \"MacBook Pro\" and \"iMac\" are also displayed on the page.",
+        "Url": "https://www.apple.com/uk/"
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Like, Follow, Subscribe, Join",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of PUBG Mobile is present at the top-left corner of the webpage. The page also has the branding colors of PUBG Mobile. The call-to-action buttons are also consistent with the PUBG Mobile brand.",
+        "Url": "https://pubgmobilecorporationevents.klikdisini2023.my.id/"
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "AT&T",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the AT&T logo at the top left corner. The blue color used in the background is consistent with AT&T's branding. The \"Sign In\" button is also a strong indicator that this is an AT&T webpage.",
+        "Url": "https://mail-102784.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "8367d843344f32ddf9b77e6f2c55b26d1a7c0298d61f1348cc15bef4759e90da",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Pre-order now, Buy Xbox games and consoles, Choose your Microsoft 365, Shop for business, Shop for students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand name \"Microsoft\" is displayed prominently at the top of the page. The page is selling Microsoft products, and the call-to-action button says \"Pre-order now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or Email, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Instagram is present on the webpage. The screenshot also shows fields for entering credentials and a button with the text \"Log In\", which suggests that users can log in to their Instagram accounts on this page.",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand logo is clearly visible on the top left corner of the webpage. The signature orange color is also used on the \"Add to Cart\" button.",
+        "Url": "https://www.amazon258.top/"
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of outlook. The credentials and buttons can be seen on the screenshot.",
+        "Url": "http://pub-b2955bd5cc5a447cba7f9017e8915538.r2.dev/webmail.html"
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "CyberAgent",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo is present on the top left corner. The webpage has a form with fields for email address, password and a button with the text \"Login\".",
+        "Url": "https://bitbaink.web.app/login"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Claim Instantly",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Axis Bank is present on the webpage. The webpage is offering an Amazon Pay E-Gift Card worth 500. The \"Unlock Benefit\" button is the call-to-action on this page.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    }
+]

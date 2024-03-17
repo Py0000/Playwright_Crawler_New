@@ -4,4 +4,4 @@
 4. List_of_credentials: Username, Password
 5. List_of_call_to_action: Log-in, Register
 6. Confidence_Score: 10
-7. Supporting_Evidence: There is a Bet365 logo. The credentials fields and buttons are behind the modal overlay.
+7. Supporting_Evidence: The logo Bet365 is visible at the top center of the web page, with a distinctive green and yellow color scheme. 

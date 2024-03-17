@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "2a6492b561feeebfb57940be411eef9bfac7905043baa6bc96a6998d1b9b54a7",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a Microsoft logo. It also has fields for password and a \"Sign in\" button.",
+        "Url": "https://pub-af56fe61ca864658a18b9bce60bcbc6f.r2.dev/zaaa.html"
+    },
+    {
+        "Folder Hash": "571c629dd6777f947e0f64c0ba9e3af3fd1119b30d936695fa40b8863d91a270",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Name, Phone, Email, Business Email",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Meta is present at the top left corner of the webpage. The webpage has a form that is requesting for user's credentials. The form also has a call-to-action button that says \"Continue\".",
+        "Url": "https://relief-data-appeal-349805e.surge.sh/"
+    },
+    {
+        "Folder Hash": "64524e2ef45f4644cc2994e2ce15c20f7d0a348f4c8c0aac5066fbb35d6d471b",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "There is a logo that resembles that of outlook. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://pub-73ee129d9ec943f785408564adcaf985.r2.dev/cryn.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "9e204f718f150aabbaebc0737c36cfec98cfca139a2cb964c353a388098f8ec0",
+        "Brand": "Roundcube",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Roundcube is present on the top left corner of the login page. The Roundcube logo is a blue and grey sphere with the word \"roundcube\" written in a sans-serif font below it. The login page has a dark grey background with a light grey border around the login form. The login form has two input fields for the username and password, and a blue button with the text \"Login\" to submit the form.",
+        "Url": "https://freightoinx0006.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "a80c294225b3057768f3465e3466226c69a790eb9c7ac88808e19370286e7f8e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Microsoft is present on the top left corner of the webpage. The screenshot also has fields where users can enter their credentials and a button that reads \"Sign in\".",
+        "Url": "https://pub-d351cc1193114bc695708e600762f48a.r2.dev/tex.htm"
+    },
+    {
+        "Folder Hash": "b24b5100cfe6dd7c6eec1419abef79fb2b74fb8a52b80747bb91544884bd450a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the words \"Welcome to Webmail\" at the top, indicating that it is a webmail service. There are also fields for entering a username and password, and a button that says \"Login\".",
+        "Url": "http://gottagopotties.mycustomerconnect.com/app/Email/phpmail/extras/co.ne.jp/webmail.php"
+    },
+    {
+        "Folder Hash": "b7a14dcd66c2d04a2ed97bd5e3cf1b358321d9a61fb6c77ef109dde267e76675",
+        "Brand": "163.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of 163.com is present on the page. The screenshot also shows two input fields for username and password. There is a button labeled \"Login\" that is consistent with the brand's color scheme.",
+        "Url": "http://pansionat-v-troicke.ru/cn/VerifyCN/"
+    },
+    {
+        "Folder Hash": "b86e24505f6a9fe4c1eb5e26425891551454a20bc715ec5f013a199554ec43d4",
+        "Brand": "MCG",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Account, Password, Code",
+        "List of Call-To-Actions": "Sign in, Forgot password?, Register now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of MCG is present on the top left corner of the webpage. The webpage has a dark theme with green and white accents. The center of the page has a form with fields for Account, Password, and Code, along with a button that says \"Sign in\". Below the form are two links, one that says \"Forgot password?\" and the other that says \"Register now\".",
+        "Url": "https://mcg1.vip/Login/index.html"
+    },
+    {
+        "Folder Hash": "c074bca11260d1842a201d87dd675a8ae496bd2c86c8f8fbffaf3913e1607936",
+        "Brand": "Naver",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "ID, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Naver is present on the page. The screenshot also contains credentials and call-to-action button.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigthv56vhof4ua6vvxzrcftujsvetxxoi2dkofxrhyowxfsgnv63i"
+    },
+    {
+        "Folder Hash": "e4a2a39be2550bf2777ddda45564eafa79aa039c0c4b730782fc1a0c7058f703",
+        "Brand": "Banco Pichincha",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Contrase\u00f1a Email",
+        "List of Call-To-Actions": "Continuar",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The logo of Banco Pichincha is clearly visible at the top of the page. The presence of fields for email, Contrase\u00f1a Email, and a button labeled \"Continuar\" indicate that the user is being prompted to enter their credentials and continue.",
+        "Url": "http://26validate5q8.royalwebhosting.net/"
+    }
+]
