@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0e4582d1db1403de859a5b4265acb69e80016bb02a1a932c2580000801932fec",
+        "Brand": "Dafiti",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Receba Cupons, Pegar Cupons",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo of Dafiti, which is an online retailer in Brazil. The logo is located at the top right corner of the webpage. The webpage also has a search bar where users can search for products. There are also links to the company's social media pages.",
+        "Url": "https://www.cupom-de-desconto.com/ponto-frio/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Hanwha Techwin",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Hanwha Techwin at the top left corner. The logo is distinct and is a registered trademark of Hanwha Techwin. The login form has fields for username and password. The call-to-action button says \"Login\".",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "372e6116960e55286a120894035b699ce5a184bc1bcc1d4c3ac20a68f3ec4b55",
+        "Brand": "SFR Business",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows the privacy policy of SFR Business. The SFR Business logo is clearly visible at the top of the page. The screenshot also includes the company's contact information and social media links.",
+        "Url": "https://www.sfrbusiness.fr/sfr-politique-de-protection-des-donnees-personnelles.html?eff_cpt=22931728&eff_pr1=**id_bat**"
+    },
+    {
+        "Folder Hash": "6012d0196d437b61def2e0d4b09b14d95c7c2ccd0b0a2651638de9249a3ec780",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose Your Microsoft 365, Shop for Students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with a black header containing the Microsoft logo in the top left corner. The main content area is divided into 3 sections. The first section has a large banner image with text that reads \"Black Friday Sale\". The second section has a grid of products with the title \"Shop Surface devices\". The third section has a grid of products with the title \"Shop Xbox consoles\". The fourth section has a grid of products with the title \"Choose your Microsoft 365\". The fifth section has a grid of products with the title \"Shop for students\". The sixth section has a grid of products with the title \"Maximise the everyday with Microsoft 365\". The seventh section has a grid of products with the title \"For business\". The eighth section has a grid of products with the title \"Follow Microsoft\". The ninth section has a grid of products with the title \"Shop now\". The tenth section has a grid of products with the title \"Get it free\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8265aae7b50ade829d3ac265f082cbe64ce1aa752aa7cad3f3ebe8e87caf69b9",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of Netflix, a streaming service. The Netflix logo is clearly visible in the top left corner of the page. The page features a large banner with the text \"Unlimited movies, TV shows and more\" along with a button that says \"Get Started\". Below the banner, there are several rows of thumbnails of movies and TV shows. The screenshot also includes a section called \"Create profiles for kids\", which features a row of child-friendly characters. There is also a call-to-action button that says \"Sign In\" in the top right corner of the page.",
+        "Url": "https://beyon-d-yadhu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "a26025419c72baf42631231b435e27ec7438f50d1d6ba41dcc918cdcc9782d23",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a webpage with the DHL logo at the top left corner. The logo is distinct with its red and yellow colors and is well-recognized as a global logistics company. The text \"DHL\" is also prominently displayed in the logo. The background of the webpage is white with a blue border around the edges. The page is divided into three main sections: the header, the body, and the footer. The header contains the DHL logo and the main navigation menu. The body contains the main content of the page, which is a form for employees to register for an event. The footer contains the contact information for the event.",
+        "Url": "https://www.dhleoyssa.com/"
+    },
+    {
+        "Folder Hash": "aa92152333593704107b819af91676431cbdb5c445e4a9312396eaa60ee230d8",
+        "Brand": "Envases",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contactanos, Ir al catalogo de productos",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the word \"Envases\" prominently displayed at the top center of the page, suggesting that it is the brand name. The overall visual elements of the webpage, such as the color scheme and logo, are consistent with the brand identity of Envases as seen on other official channels. Additionally, the webpage showcases various products and services offered by Envases, such as caps, tubes, and pumps, which further supports the identification of the brand.",
+        "Url": "https://todosonsantos.com/?gclid=EAIaIQobChMI9LK_-cjiggMVBqFaBR3h8gAXEAAYAiAAEgL7z_D_BwE"
+    },
+    {
+        "Folder Hash": "ab17de4f635ba4d04d28644ddb63c3e05f7703e87ff3d75f63d904089dd92c84",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a screenshot of the Discord website. The Discord logo is clearly visible in the top left corner of the image. The rest of the image is a large banner that says \"Imagine a Place...\" and features a group of people hanging out in a chat room. The call-to-action buttons are clearly visible in the center of the image.",
+        "Url": "http://discord.swaychat.cn/"
+    },
+    {
+        "Folder Hash": "d8f30a1d70e75a4ed32fc20171e4ae06441aa98d077b3d82b697aba57a4beff7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page with its distinctive red and black logo. The logo is located at the top left corner of the page, just above the main text \"Unlimited movies, TV shows and more.\" The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://shubhamsharma20061998.github.io/"
+    },
+    {
+        "Folder Hash": "d980baaf9e0647a9529eeba4cbca9738c6558edd5389f4400a70cfc1e11d903b",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the Netflix login page. The Netflix logo is clearly visible at the top of the page. The page has fields for email address and password, and a \"Sign In\" button. The \"Get Started\" button is also visible on the page.",
+        "Url": "https://shreeompatil.github.io/netflixmobileclone/"
+    }
+]

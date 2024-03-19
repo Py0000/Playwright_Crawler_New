@@ -1,0 +1,145 @@
+[
+    {
+        "Folder Hash": "09ee277d2aff9a289052581dc676c064fe9760816ea6e8b1018bc6d7b92f5178",
+        "Brand": "Revoke.cash",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Connect Wallet, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Revoke.cash logo at the top left corner. The logo is distinct and is associated with the Revoke.cash brand. The webpage also has a \"Connect Wallet\" button which is a clear call-to-action for users to connect their cryptocurrency wallets to the Revoke.cash platform. The presence of the Revoke.cash logo and the \"Connect Wallet\" button strongly suggests that this webpage is associated with the Revoke.cash brand.",
+        "Url": "https://datacloudsolutions.org/revoke.cash/web3-connectgpstwhbrwnrxnbfrphhzapwuhmwcesusqxwoeakruplvrvvknmwzlhjjpmiwhnukbuldiwwprdoljeyvwstkuekealyvtugzcstqkrjtpemaoehgeguhzttsgrvjmecjoaiqbblinzwookfqijtsgwplusqioriwusvwb/"
+    },
+    {
+        "Folder Hash": "0bca8942073f3cda1ad34f63177b283e28e211f50e21038730a809c3ea8e933c",
+        "Brand": "La Nacion",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Subscribe, Newsletters, Contact Us",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the home page of La Nacion, a Costa Rican newspaper. The newspaper's logo is displayed at the top left corner of the page, and the main menu is located at the top center. The screenshot also shows a subscription form on the right side of the page.",
+        "Url": "https://oilindex360ai.com/BacOilIndexCR/?s2=b1e029cb-1d86-4ce4-8c97-69388d134a94"
+    },
+    {
+        "Folder Hash": "1c98ed6f6ffc07ad9b4f18dc614ea440cd9c094de4c1a7499eeaef11b2c8c0e0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Netflix with its distinctive red and black logo. The credentials and buttons can be seen on the screenshot. The logo is located at the top left corner of the webpage, just above the main text \"Unlimited movies, TV shows, and more.\"",
+        "Url": "https://ebrahemsamir.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "266ff503052a52b3ddcca07c61c2b18ee7ff5e63a117888559547c3088d1f6c2",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Poste Italiane with its logo and trademark. The logo is located at the top left corner of the webpage, just above the main text \"Poste Italiane\". The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://user.poste-it.45-55-199-16.cprapid.com/"
+    },
+    {
+        "Folder Hash": "360f3c20546a4e3cc006b353e5181f68d77284a31d708f3615739a230733a938",
+        "Brand": "Metamask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Metamask, Shop Metamask Swag, Receive our Newsletter",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Metamask logo at the top left corner. The logo is distinct and easily recognizable. The webpage also has a blue button that says \"Download Metamask\" in the center. The webpage is about Metamask, a cryptocurrency wallet and gateway to blockchain apps.",
+        "Url": "https://metamask.itoken.cool/"
+    },
+    {
+        "Folder Hash": "45ff05748d601f8e5f3726eab475a164e68599046622d1d96fc7dd022a73c12d",
+        "Brand": "Topup Provider",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white header and a black footer. The header contains the company logo, which is a black and white image of a person holding a trophy. The footer contains the company's contact information and social media icons. The main content of the webpage is a list of products, which are displayed in a grid format. Each product has a name, an image, and a price. The webpage also has a search bar, which allows users to search for products by name.",
+        "Url": "https://topupprovider.com/"
+    },
+    {
+        "Folder Hash": "539c8b4a4679fde50a1a7481549ecaf743aada20e0e3e06e8362063c49d1d771",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Poste Italiane logo at the bottom left corner. The logo is a red hexagon with a white \"P\" inside. The login page has a blue background with a white box in the center. The white box contains the Poste Italiane logo, the words \"Poste Italiane\" in blue, and a login form. The login form has two fields: \"Email\" and \"Password\". There is a blue button below the login form that says \"Login\".",
+        "Url": "http://www.user.poste-it.45-55-199-16.cprapid.com/"
+    },
+    {
+        "Folder Hash": "78f514de9b20ba8ecf025d84841e56d4d9f40cba61390961314b0c8dee0c88a8",
+        "Brand": "Weebly",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop the Collection, Take a look, See what's new, Shop now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a Weebly logo at the top right corner. It is a website builder platform and this webpage is likely created using Weebly. The call-to-action buttons are also common in Weebly websites.",
+        "Url": "https://ftswxdgverifyloiiwcihfg.weebly.com/"
+    },
+    {
+        "Folder Hash": "a6919b4c98619b0a85e2c88eaedb9050f5c681e80944a478fb5841a2d839733e",
+        "Brand": "PancakeSwap",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy CAKE, Connect Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of PancakeSwap, a decentralized exchange for cryptocurrencies. The logo of PancakeSwap, a rabbit, is prominently displayed at the top of the page. The page has a button that says \"Connect Wallet\" in the upper right corner. The page also has a button that says \"Buy CAKE\" in the center of the page.",
+        "Url": "https://allenanna.com/"
+    },
+    {
+        "Folder Hash": "abf00d88a4aa8a0f574cf0dd49164c77bbced32720fb70477a798f01f318e6ff",
+        "Brand": "PCS Mastercard",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In, Create Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The PCS Mastercard logo is prominently displayed at the top center of the screenshot, with the words \"PCS Mastercard\" below it. The logo is a stylized image of a globe with a blue and green background. The words \"PCS Mastercard\" are in a white font. The background of the screenshot is a light blue color. There is a form on the left side of the page that asks for the user's email address and password. There is a button next to the form that says \"Sign In\". Below the button is a link that says \"Create Account\".",
+        "Url": "http://www.serveurattestation-tabac.com/"
+    },
+    {
+        "Folder Hash": "b06da19f77664c00dfa8f69236dc965d3a6eaa0a91dbadb389fce7256adcdfb1",
+        "Brand": "BV MAAO Exports",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact us, Submit Inquiry",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The BV MAAO Exports logo is clearly visible at the top of the page. The logo is a stylized image of a globe with the company name in a banner across the top. The company's contact information is listed at the bottom of the page. The webpage has a blue background and white text. The overall design of the page is simple and easy to navigate.",
+        "Url": "https://bvmaaoexport.com/"
+    },
+    {
+        "Folder Hash": "cdb09796612d3c3d55db6b3f2fa8e10188115d83099022a3882ab91e3b5b96af",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page. The Netflix logo is clearly visible at the top left corner of the page. The page has fields for email address and password, and a \"Sign In\" button. The \"Get Started\" button is also visible on the page.",
+        "Url": "https://frontendeveloperanass.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "f04043bfcf4e97078aca5943d41d324989604c00f1b6b182ed8ef1632a88f43c",
+        "Brand": "Unicredit Bulbank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register, Forgotten Password",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Unicredit Bulbank prominently displayed at the bottom left corner. The logo is a stylized version of the letters \"UBB\" in blue and white, with the words \"Unicredit Bulbank\" written in black underneath. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://login-bulbank.firebaseapp.com/login_sessionid#ba2a78ef3eaf0cffe9b76fab86c9183d"
+    }
+]

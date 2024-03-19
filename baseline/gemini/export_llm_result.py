@@ -81,6 +81,6 @@ if __name__ == '__main__':
     folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
     
     for folder in folders:
-        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "prompt_2", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
+        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_new_shot_example", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
         export_object = LlmResultExport(args.hash_col, args.brand_col, args.credentials, args.call_to_actions, args.confidence_score, args.sld, args.is_phish)
         export_object.update_sheet_with_responses(json_file_path, args.sheet_path)

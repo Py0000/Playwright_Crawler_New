@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "393f74dcf55e8530f7c1112fab73dad24bd4565f662f9e7e125daa72f042665a",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a login pop-up window with the OneDrive logo prominently displayed. The OneDrive logo is distinct with two clouds and a blue background, which is well-recognized as part of Microsoft's suite of cloud storage and file hosting services. The logo is positioned at the top center of the login box, which itself is centered on the screen. The page also contains the text \"OneDrive Online Limits across different plans. Sign in to continue to OneDrive Online\", which further indicates that the webpage is related to Microsoft OneDrive.",
+        "Url": "https://pub-1cd83eaf4a66425d86fb1e8f37610be0.r2.dev/index.html"
+    },
+    {
+        "Folder Hash": "6931dab519ee45f708973ffaead18ed57abdebf4e807bfba6cf413916e835d8f",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login page with the Poste Italiane logo prominently displayed at the top left corner. The Poste Italiane logo is distinct with a red and blue symbol, which is well-recognized as the logo of the Italian postal service. The logo is positioned at the top left corner of the login box, which itself is centered on the screen against a white background. The page also has the text \"Poste Italiane\" at the top right corner, further indicating that this is the official website of the Italian postal service.",
+        "Url": "http://in.pt.it.87-120-254-165.cprapid.com/pi23/"
+    },
+    {
+        "Folder Hash": "8954c5dcd26b608986cef321586a7d362b32b59496b0179b0d1d9f72881aedcf",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large Telegram logo at the top center. The logo is distinct with a blue and white airplane, which is well-recognized as the logo for Telegram, a popular messaging app. The background is white with a blue section at the top. The page also has the words \"Telegram\" and \"\u4e2d\u6587\" in the top left corner, indicating that the page is the Chinese version of the Telegram website.",
+        "Url": "https://c-telegram.biz/?user-agent=mozilla/5.0"
+    },
+    {
+        "Folder Hash": "9b6e78f83843a9b61a2d98e2fa4adfbe5d292638f97954a65006ae6c00c6962f",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Track, Get a Quote",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a DHL webpage with the DHL logo at the top left corner. The DHL logo is distinct and easily recognizable. The page has a blue background and features a search bar at the top right corner. The main content of the page is a form with two fields: one for the tracking number and one for the shipper's reference number. There are two buttons below the form: one labeled \"Track\" and the other labeled \"Get a Quote\". The \"Track\" button is blue and the \"Get a Quote\" button is yellow. The page also has links to other DHL pages, such as the DHL homepage, the DHL tracking page, and the DHL quote page.",
+        "Url": "https://xcx3gsz9.dreamwp.com/smon/dhl/home/info.php"
+    },
+    {
+        "Folder Hash": "bccc08f4595fc8871d5378019618fe4c00577f77604992c411e75a56e9e97f86",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Surface, Buy Xbox games and consoles, Choose your Microsoft 365, Shop for business, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft homepage with the Microsoft logo and the search bar at the top. The page has a blue background with a white header and footer. The main content area is divided into three sections. The first section has a carousel of images showcasing different Microsoft products. The second section has a grid of tiles representing different Microsoft services. The third section has a list of links to Microsoft social media pages.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "cd2adfcdf9e8b704e1b1c860c71470931bfda033e7d70c51aaaf500df7d3d026",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a login page with a clear bet365 logo at the top center. The logo is distinct and easily recognizable. The page also has fields for entering username and password, as well as a login button. These elements are all consistent with the bet365 login page.",
+        "Url": "https://7365009.com/#/"
+    },
+    {
+        "Folder Hash": "d1d3c49edf0bb4b7c9ed62c267aa32de835000bc53114f73859e3860465f1091",
+        "Brand": "Citibank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign On",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a Citibank logo at the top left corner and the words \"Sign On\" in the middle. The page also has fields for entering a username and password, which are common elements of a login page.",
+        "Url": "https://citiii.diskstation.org/"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Claim Instantly",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Axis Bank logo prominently displayed at the bottom left corner. The Axis Bank logo is distinct with a blue and red symbol, which is well-recognized as one of India's largest private sector banks. The logo is positioned at the bottom left corner of the page, which itself is centered on the screen against a white background. The page also includes the words \"Congratulations\" and \"Welcome benefit of Amazon Pay E-Gift Card worth \u20b9500\", indicating that the page is related to an offer or promotion from Axis Bank.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    },
+    {
+        "Folder Hash": "ea4055a35b68abedf1f2879cce61fdf2e61bae4ed7437f14596f7445400eff11",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Telegram, Web Version, Desktop App, Android App, iPhone/iPad App",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Telegram, which is a messaging app. The logo is in the top left corner of the page. The page also has a blue background, which is similar to the color of Telegram's logo. The page has 5 call-to-action buttons, which are all related to downloading Telegram.",
+        "Url": "http://teelgarm.top/"
+    },
+    {
+        "Folder Hash": "eb36a40ce49a9fc7d2c4cebb8c47969c8cc65486df5681a0b6bfeddab0a10ae2",
+        "Brand": "GoShare",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Name, Email, Phone Number, Password",
+        "List of Call-To-Actions": "Sign Up, Next, Agree & Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the GoShare logo at the top center. The webpage is about creating an account on GoShare. It asks for user credentials such as name, email, phone number, and password. It has call-to-action buttons such as Sign Up, Next, and Agree & Next.",
+        "Url": "https://h5.shippinghero.vip/index.html#/pages/active/active?inviter=7004336"
+    }
+]

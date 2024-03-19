@@ -1,0 +1,90 @@
+[
+    {
+        "Folder Hash": "09196776e1f0424c3ce25cf181ed0793e3bcde35cbe688fce7a1c54970903198",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page. The Netflix logo is clearly visible at the top left corner of the page. The page has fields for email address and password, and a \"Get Started\" button.",
+        "Url": "https://ayushkhadgi.github.io/Netflix-Frontend/"
+    },
+    {
+        "Folder Hash": "280ec080b9a48a22be126d4870dacb554c9c2b1612a71317917db72dca60b1fb",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games, Shop Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the home page of Microsoft's Xbox website. The Xbox logo is prominently displayed in the top left corner of the page, and the main content of the page is a carousel of featured Xbox games. The page also includes links to the Xbox Store, Xbox Game Pass, and Xbox Live.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "3d6e0e57e9a0af08dfd6620b6012436ee5534782816530e8841d1325d10fdb00",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The image shows a login page with the DHL logo prominently displayed. The DHL logo is distinct with red and yellow letters, which is well-recognized as a global logistics company. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigqvxdp3mulmpt3lua2mrpi6cwk5skzjieldi7lwv3gzumgevb4jm#abuse@dhl.com"
+    },
+    {
+        "Folder Hash": "3f9fdb199394c50d41a85979f8dd507927b4bf4df1d1459ddf86d0c0f1692b71",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Learn More, Compare, Buy Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a product page on the Microsoft website. The Microsoft logo is displayed in the top-left corner of the page. The page is selling a product called the \"Xbox Series X\". There are several call-to-action buttons on the page, including \"Shop Now\", \"See Price\", \"Learn More\", \"Compare\", and \"Buy Now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4ef7f475e7dcc3e39cd8b0f6fea79bde51f5ff178334c6efc6d47b8e69283a81",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in, Contact us",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Orange logo at the top left corner. The logo is distinct with its stylized orange square and the word \"Orange\" in lowercase letters. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://lemedab246.wixsite.com/my-site/"
+    },
+    {
+        "Folder Hash": "7ec14caed1a721ca079f297b80643d75dd335693ecd67dd430851bb6ffb594d8",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone Number, Verification Code",
+        "List of Call-To-Actions": "Verify, Change Phone Number, Resend Code",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the verification page of WhatsApp with its distinctive green and white logo. The logo is located at the top center of the webpage, just above the main text \"WhatsApp.\" The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://www.waplus.top/"
+    },
+    {
+        "Folder Hash": "9947447e5f5802c354433472acdc357226e4d53a63c2dbf02069aa3180668795",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct and easily recognizable. Below the logo, there is a form with fields for email address and password. There is also a button that says \"Get Started\". The overall design of the webpage is consistent with Netflix's branding.",
+        "Url": "https://ayushgoel9908.github.io/Bharatintern_NetflixHomepage/"
+    },
+    {
+        "Folder Hash": "f24dbb281a7ba41265d7ec6ac1478cd6c29179e1bd3550c9f11b9801f453f077",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page with its distinctive red and black logo. The logo is located at the top left corner of the webpage, just above the main text \"Unlimited movies, TV shows and more.\" The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://ayushjain-10.github.io/Netflix-Clone/"
+    }
+]

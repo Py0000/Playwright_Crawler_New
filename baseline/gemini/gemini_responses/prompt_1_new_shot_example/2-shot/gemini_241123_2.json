@@ -1,0 +1,123 @@
+[
+    {
+        "Folder Hash": "039a5c6bb048f5f67d48870f8d22e955152657284a4a88ce04abab2d88865f3e",
+        "Brand": "Raiffeisen",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Benutzername, PIN",
+        "List of Call-To-Actions": "WEITER",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a login page with a green background and a large tree in the background. The Raiffeisen logo is prominently displayed at the top of the page. The login form has two fields: Benutzername and PIN. The \"WEITER\" button is located at the bottom of the page.",
+        "Url": "https://web12105.cweb06.gamingcontrol.de/"
+    },
+    {
+        "Folder Hash": "071970528ecbea8bf393d644c803563cfc663af1107d9e5ec2d2ffab305c66a8",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains the Webmail logo, which is a stylized \"W\" with an envelope. Below the logo is a form with two input fields: one for the user's email address and one for their password. There is also a checkbox that says \"Remember me\" and a blue button that says \"Login\". The overall design of the webpage is simple and straightforward, and it is clear that the purpose of the page is to allow users to log in to their Webmail account.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihsef3pq3bpqawvkhspixapw2iejwrnsuiw3aq4r7fuwrhmur6age"
+    },
+    {
+        "Folder Hash": "1aee5d2661551cd8af9159ff0bcfe8a7f682fce3d5231069a7ea5a5d71f4efbf",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch free for 30 days",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of Netflix, a popular streaming service. The Netflix logo is clearly visible in the top left corner of the page. The page features a large banner with the text \"See what's next\" and a button that says \"Watch free for 30 days\". The page also has a menu bar at the top with links to various sections of the site.",
+        "Url": "https://radhikakakkar.github.io/page-clone/"
+    },
+    {
+        "Folder Hash": "539e5117f9dba194cbffe6f54f9b1eb80e63ef4fef7ef81159cbacb13758704b",
+        "Brand": "Raiffeisen",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "First name, Last name, Date of birth, Country, City, Postal code, Phone number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Raiffeisen logo at the top center. The page is asking for personal information, which is a common practice for banks.",
+        "Url": "https://web12104.cweb06.gamingcontrol.de/personal.php"
+    },
+    {
+        "Folder Hash": "6b20936058c6e0d9c4fe89fa7d80898ff11ac787ca2d0b1b56e59addc67d4d67",
+        "Brand": "NetZero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo that says \"NetZero\" at the top left corner. The login form has fields for email address and password. There is a \"Sign In\" button below the password field. The page has a copyright notice at the bottom that says \"\u00a9 NetZero Webmail\".",
+        "Url": "https://netzero-webmail-107432.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "6c7bb398eed5bf999ab68d9756dd9c3f0eb99ccd0f1e92bf5a6a503729491b23",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose Your Microsoft 365, Shop for Students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Microsoft logo at the top left corner. The logo is a stylized \"Microsoft\" wordmark with a four-color gradient from blue to green to yellow to red. The webpage has a black background with white text and blue links. The main content of the webpage is a grid of products with prices. The products are all Microsoft products, such as the Surface Laptop, Surface Pro, and Xbox One. The webpage also has a search bar at the top right corner.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "73b6943837da35b8b1908a7dfc8c3af40138fb24cbe463d72233cbbb51508ec6",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "TRY 30 DAYS FREE",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of Netflix. The Netflix logo is prominently displayed in the top left corner of the page. The page has a large banner with the text \"Unlimited movies, TV shows, and more. Watch anywhere. Cancel anytime.\" The banner also has a button that says \"TRY 30 DAYS FREE\". Below the banner, there is a section called \"Enjoy on your TV\". This section has a picture of a TV with the Netflix logo on it. The section also has a list of devices that you can watch Netflix on. Below the \"Enjoy on your TV\" section, there is a section called \"Download your shows to watch on the go\". This section has a picture of a laptop with the Netflix logo on it. The section also has a list of benefits of downloading shows to watch offline. Below the \"Download your shows to watch on the go\" section, there is a section called \"Watch everywhere\". This section has a picture of a phone with the Netflix logo on it. The section also has a list of devices that you can watch Netflix on. Below the \"Watch everywhere\" section, there is a section called \"Frequently Asked Questions\". This section has a list of frequently asked questions about Netflix.",
+        "Url": "https://clearlydhruv.github.io/Net_clone/"
+    },
+    {
+        "Folder Hash": "b64ef9ef4778bf022bf1f80323fbfe10bd9338a226b169093cd61ffbd715571c",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://wkq.fr/f/X47lJ/HJgKD1Ji/"
+    },
+    {
+        "Folder Hash": "b8ffbd64dfa99d3e37956e203094c742345d6452375bbdcc465cf00499a87970",
+        "Brand": "BNP Paribas",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, One-time password",
+        "List of Call-To-Actions": "VALIDER, ANNULER",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login page for BNP Paribas. The BNP Paribas logo is clearly visible at the top of the page. The page has fields for entering a username, password, and one-time password. There are two buttons on the page: one to validate and one to cancel.",
+        "Url": "https://www.taka.com.mx/pv/dist/js/pages/chartist/groupbnpparibasnc/app/user.php"
+    },
+    {
+        "Folder Hash": "cb8de0eb3aa49fb382799d2d4457e838b4bd036dfbf8b9c4ed64147fecbe952e",
+        "Brand": "Bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cardholder name, Card number, Expiration date, CVC, Phone number",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a red banner with a white \"bpost\" logo at the top left corner. The logo is distinct and is associated with the Belgian postal service. The page has a form with fields for entering credit card information, including the cardholder name, card number, expiration date, CVC, and phone number. The form has a \"Next\" button that is likely used to submit the payment information.",
+        "Url": "https://pakket-bpost-be.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "da9b8f6bdc3e88e6e63acd994af58d87a965a27d92931bd273a8d9a3c4ec0447",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password, Create new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the login page of Facebook with its distinctive blue logo with white lowercase letters. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text \"Facebook helps you connect and share with the people in your life.\"",
+        "Url": "http://ff.memberrs.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    }
+]

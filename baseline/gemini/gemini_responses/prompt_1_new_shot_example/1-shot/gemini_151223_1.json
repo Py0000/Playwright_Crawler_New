@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "4aa338f74582fab200185a53f108bb7c8152644530190f33a54fd1d08e02ad25",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See All Deals, Shop Xbox Series X, Shop Xbox Series S, Shop Xbox One, Shop Windows, Shop Minecraft, Sign up for free",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store homepage. The Microsoft Store logo is prominently displayed in the top left corner of the page. The page is divided into different sections, each of which showcases a different product or category of products. The \"Shop now\" button is clearly visible in the center of the page, and it is likely that this button would lead to a page where users can purchase products.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4ce8a0e0ae3b7adfe042c6ec9b5da355ced3b7209b8757b394c28c2996c8dce8",
+        "Brand": "DBS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop All Categories",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of DBS at the top left corner. The text \"DBS\" is also present at the top left corner. The page is selling Apple products and has a clear call-to-action button \"Shop All Categories\".",
+        "Url": "https://dbs.applerewardsstore.com/"
+    },
+    {
+        "Folder Hash": "54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login screen with the Instagram logo prominently displayed. The Instagram logo is distinct with a camera icon and a gradient of colors, which is well-recognized as a social media platform owned by Meta. The logo is positioned at the center of the login box, which itself is centered on the screen against a white background. The words \"Log In\" are displayed in blue text below the password field, indicating that this is a login page.",
+        "Url": "http://instagram.bulut.host/"
+    },
+    {
+        "Folder Hash": "593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of bet365 at the top center. The logo is distinct and easily recognizable. The webpage also has a login form with fields for username and password. There is a green button with the text \"Login\" next to the login form. The webpage has a clear call-to-action for users to login to their bet365 account.",
+        "Url": "http://19960721.com/"
+    },
+    {
+        "Folder Hash": "6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d",
+        "Brand": "Uphold",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-up, Log-in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains the Uphold logo, a place to enter an email address, a place to enter a password, and a green button that says \"Log In\". The Uphold logo is prominent and is a stylized version of the word \"Uphold\" with a green leaf as the \"O\". The webpage also has links to the Uphold company website, as well as links to the Uphold app on the Apple App Store and Google Play.",
+        "Url": "https://uslogii-upheld.github.io/"
+    },
+    {
+        "Folder Hash": "789fd6e7081d9c6f60caa614127d16be13ee598f30eb3f049d54c7ed0208324a",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Pre-order, Buy Now, Learn More, Get it Today",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store. The Microsoft Store is an online store owned and operated by Microsoft. The store sells a variety of products, including computers, software, games, and movies. The screenshot shows the home page of the Microsoft Store. The home page features a carousel of images that highlight different products and promotions. The images are accompanied by text that provides more information about the products. The home page also features a number of links to different sections of the store. The links are organized into categories, such as \"Computers,\" \"Software,\" \"Games,\" and \"Movies.\" The screenshot also shows a search bar that allows users to search for specific products. The Microsoft Store is a popular destination for people who want to buy Microsoft products. The store offers a wide variety of products and competitive prices. The Microsoft Store is also a convenient way to buy products because it is available online 24/7.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DPD logo is clearly visible at the top of the page. The page also has a DPD copyright at the bottom of the page. The colors used on the page are also consistent with DPD's branding.",
+        "Url": "https://rewards.buchung.info.54-91-1-54.cprapid.com/dpd/paket/update.php"
+    },
+    {
+        "Folder Hash": "b775e39e5156d2f1c18d9dc50868970658e0ce378a542ffbac621213768e9e8a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now, See price, Buy now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store homepage. The Microsoft Store logo is prominently displayed in the top-left corner of the page. The page features a large banner advertising the Xbox Series X, with a prominent \"Shop now\" button. The page also features a number of other products, including the Surface Laptop 4, the Xbox Series S, and the Xbox Game Pass. The overall design of the page is consistent with other Microsoft webpages.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed",
+        "Brand": "eBay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a portion of the eBay homepage. The eBay logo is prominently displayed in the top left corner of the page, and the page is full of product listings. The \"Shop Now\" button is clearly visible in the center of the page, inviting users to make a purchase.",
+        "Url": "https://global-ebay.net/#/pc"
+    },
+    {
+        "Folder Hash": "ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521",
+        "Brand": "De'Longhi",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a product page on the De'Longhi website. The De'Longhi logo is clearly visible in the top left corner of the page. The page is selling a coffee machine.",
+        "Url": "https://www.delonghishop.store/"
+    }
+]

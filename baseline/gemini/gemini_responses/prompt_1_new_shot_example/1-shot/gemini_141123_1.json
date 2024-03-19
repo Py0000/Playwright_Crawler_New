@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "2a6492b561feeebfb57940be411eef9bfac7905043baa6bc96a6998d1b9b54a7",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://pub-af56fe61ca864658a18b9bce60bcbc6f.r2.dev/zaaa.html"
+    },
+    {
+        "Folder Hash": "571c629dd6777f947e0f64c0ba9e3af3fd1119b30d936695fa40b8863d91a270",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Name, Phone, Email",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Meta logo at the top left corner. The logo is distinct and easily recognizable. The page also has the words \"Appeal Request\" at the top center, which indicates that this is a page where users can submit an appeal. There are also fields for users to enter their name, phone number, and email address. These are all pieces of information that are typically required when submitting an appeal. Finally, there is a \"Continue\" button at the bottom of the page, which indicates that users can continue to the next step of the appeal process.",
+        "Url": "https://relief-data-appeal-349805e.surge.sh/"
+    },
+    {
+        "Folder Hash": "64524e2ef45f4644cc2994e2ce15c20f7d0a348f4c8c0aac5066fbb35d6d471b",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://pub-73ee129d9ec943f785408564adcaf985.r2.dev/cryn.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "9e204f718f150aabbaebc0737c36cfec98cfca139a2cb964c353a388098f8ec0",
+        "Brand": "Roundcube",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a login form with fields for username and password. The Roundcube logo is displayed at the top-left corner of the login form. The webpage has a grey background.",
+        "Url": "https://freightoinx0006.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "a80c294225b3057768f3465e3466226c69a790eb9c7ac88808e19370286e7f8e",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://pub-d351cc1193114bc695708e600762f48a.r2.dev/tex.htm"
+    },
+    {
+        "Folder Hash": "b24b5100cfe6dd7c6eec1419abef79fb2b74fb8a52b80747bb91544884bd450a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a title \"Welcome to Webmail\". The page requests for username and password, and has a \"Login\" button. These are typical elements of a webmail login page.",
+        "Url": "http://gottagopotties.mycustomerconnect.com/app/Email/phpmail/extras/co.ne.jp/webmail.php"
+    },
+    {
+        "Folder Hash": "b7a14dcd66c2d04a2ed97bd5e3cf1b358321d9a61fb6c77ef109dde267e76675",
+        "Brand": "163.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of 163.com, which is a Chinese email service provider. The logo is in the top right corner of the screenshot, and the words \"163.com\" are clearly visible. The webpage also has two text fields, one for the username and one for the password. These fields are both labeled with the appropriate text, and the \"Login\" button is clearly visible.",
+        "Url": "http://pansionat-v-troicke.ru/cn/VerifyCN/"
+    },
+    {
+        "Folder Hash": "b86e24505f6a9fe4c1eb5e26425891551454a20bc715ec5f013a199554ec43d4",
+        "Brand": "MGC",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Account, Password, Code",
+        "List of Call-To-Actions": "Sign in, Forgot password?, Register now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a dark theme with a starry background. The MGC logo is displayed in the top left corner of the page. The login form has three fields: Account, Password, and Code. The Sign in button is green and located at the bottom of the form. The Forgot password? link is located below the Sign in button. The Register now link is located in the bottom right corner of the page.",
+        "Url": "https://mcg1.vip/Login/index.html"
+    },
+    {
+        "Folder Hash": "c074bca11260d1842a201d87dd675a8ae496bd2c86c8f8fbffaf3913e1607936",
+        "Brand": "Naver",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Naver, a South Korean search engine company. The logo is located at the top center of the page. Below the logo, there is a login form with two input fields: one for the username and one for the password. There is also a green button that says \"Login\". The overall design of the page is consistent with Naver's branding.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigthv56vhof4ua6vvxzrcftujsvetxxoi2dkofxrhyowxfsgnv63i"
+    },
+    {
+        "Folder Hash": "e4a2a39be2550bf2777ddda45564eafa79aa039c0c4b730782fc1a0c7058f703",
+        "Brand": "Banco Pichincha",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Continuar (Continue) button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Banco Pichincha logo at the top center. The logo is distinct and is well-recognized as the trademark of Banco Pichincha. The webpage also has a form with fields asking for email and password, which are common credentials required for logging in to an account. There is a call-to-action button with the text \"Continuar\" (Continue), which is a common call-to-action for logging in.",
+        "Url": "http://26validate5q8.royalwebhosting.net/"
+    }
+]

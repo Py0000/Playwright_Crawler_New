@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "06577e85ba18ef4cff7bd9a369b710a5dc8b2030992cd8903b0e81cd740ec17f",
+        "Brand": "SKAT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPR-number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has \"skat.dk\" in the address bar, which is the official website of the Danish tax authority. The page has a green \"Forts\u00e6t\" button, which means \"continue\" in Danish. The page also has the Danish coat of arms at the top right corner.",
+        "Url": "https://dymdlxd0.dreamwp.com/skat/"
+    },
+    {
+        "Folder Hash": "19063c2a9c8014dab7fb571c3bb74948fd42a6eeb9faa9eae4c48a766aabddf0",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password, Confirm Password",
+        "List of Call-To-Actions": "Submit",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://lamarinatalca.cl/owa/webapp.html"
+    },
+    {
+        "Folder Hash": "1c2b996e5f4670be1c3afd40f3f60030c082f688a7771123fcaffaa1bfd5d232",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The screenshot shows a login form with fields for email and password. There is a \"Continue\" button below the password field. The overall design of the form is simple and clean, with a white background and blue accents. There is no logo or other branding visible on the screenshot.",
+        "Url": "https://779425.selcdn.ru/mail-management/kerma-index4.html"
+    },
+    {
+        "Folder Hash": "5252961c958214b41129b9e152aa622926b14d4ab8c41b817a393de71435739f",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage has a dark theme with a black background and white text. The login form is centered on the screen and has a dark blue background. The form has three input fields: username, email, and password. The \"Sign in\" button is blue and located at the bottom of the form. There is a \"Remember me\" checkbox next to the \"Sign in\" button. The webpage does not have a logo or any other branding elements.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeialf2tdeo2jb3u3ltluqzn4pcqxhv2xvwfnr5hq5vocvhlwjynkca/svr2-mr1.html"
+    },
+    {
+        "Folder Hash": "5de65c58800342fe00346912a98d262bb3d5396cbc5d016a9f1f66d193009bf5",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage has a simple design with a white background and a blue header. The header contains a logo with a globe and the text \"Please sign in with your email\". Below the header, there is a form with two input fields: one for the email address and one for the password. There is also a blue button with the text \"Continue\". The webpage is likely a login page for a web application.",
+        "Url": "http://oasis-alabaster-exception.glitch.me/"
+    },
+    {
+        "Folder Hash": "79d7c3abdfc66bd28bfb36f3a0c69f4ba5600207dc62693f8196929543da2540",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage has a simple design with a white background and a grey pop-up window in the center. The pop-up window has two text fields, one labeled \"Email Address\" and the other labeled \"Password\". There is a red button below the text fields that says \"Login\". The webpage does not have any logos or other branding elements that would indicate what company or organization it belongs to.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeigarvbzkhzzbljgreisft7r4mw3tdhakobwkzdlliwdblrgxx3ciq/index1.html"
+    },
+    {
+        "Folder Hash": "8c340d59563cfab5558c149dff976b8839cc36bf9ea65f54104ed635cd1965eb",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the words \"Webmail\" and \"Webmail App\" on the top and left side of the screenshot respectively. The words are in a blue circle logo on the top and a blue rectangle on the left. The login form has fields for email address and password. The \"Sign In\" button is blue and located at the bottom of the form.",
+        "Url": "https://pub-9e11a359d213455e8ad57f733583373b.r2.dev/aask.html"
+    },
+    {
+        "Folder Hash": "94384aebc536f4fdaa4e01806dc2549f23dc1f806d7c659600aefc39b423ea78",
+        "Brand": "Meta (Facebook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a Meta (Facebook) login page. The Meta (Facebook) logo is clearly visible at the top of the page. The screenshot also shows two text fields, one for the email address and one for the password. There is a \"Log In\" button below the text fields. The \"Log In\" button is consistent with the branding of Meta (Facebook).",
+        "Url": "https://appsecure-adsbusiness-pages-en.github.io/cinora/import/"
+    },
+    {
+        "Folder Hash": "9ff57ffe4d1de67efdad1507613d0dfea4ad0b8067bb495a8a1ea3743a884d9f",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login page with the Zimbra logo prominently displayed. The Zimbra logo is distinct with a cartoonish cat-like mascot and the word \"Zimbra\" in a stylized font. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://pub-ccb2162674f0423993958b6739a1fc20.r2.dev/34324ummi.html"
+    },
+    {
+        "Folder Hash": "d3f3142a2631e578a8d523243f0daabedb8a898028658c5eba80f7dd54629dcb",
+        "Brand": "GloboPlayNews",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Funded Trading, Free Online, Online",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a dark blue background with three blue buttons with the text \"Funded Trading\", \"Free Online\", and \"Online\". The buttons are arranged vertically in the center of the page. The text \"globopaynews.com\" is written in white at the top of the page. The webpage is likely a landing page for a website or an advertisement.",
+        "Url": "http://bemestar.globoplaynews.com/"
+    }
+]

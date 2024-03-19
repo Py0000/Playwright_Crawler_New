@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "040e524e6eeb8ad433f2d8d13d08e85e5ded305b493a617e05e5a51109c94b72",
+        "Brand": "Apple (iCloud)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login page with the iCloud logo prominently displayed. The iCloud logo is distinct with a cloud symbol, which is well-recognized as part of Apple's suite of cloud services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background. The \"Sign In\" button is also a strong indicator that this is a login page.",
+        "Url": "https://www.icloud.com/"
+    },
+    {
+        "Folder Hash": "2363d13b84b28ab73684127ef1c5a1fd1d48c8ce2132b7143bcd3bff044d0775",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct and easily recognizable. The page has a prominent call-to-action button that says \"Get Started\" and a field asking for the user's email address.",
+        "Url": "https://adarshjha12.github.io/netflix-by-adarsh/"
+    },
+    {
+        "Folder Hash": "3fca4bf4a1f188d263687eccfc784338ce3bf16241264fab86c72db32bd2c17c",
+        "Brand": "Google (Gmail)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Google logo prominently displayed. The Google logo is distinct with a combination of four colors and the word \"Google\" written in a custom font. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background.",
+        "Url": "https://us-central-1.fybeobjects.com/a2de2ea95a1b47e69f3e3ef485c3be59:depositpaymentawaitingforconfirmation7486438743/voucher-a6a43dc24a642edbank@763498809.html"
+    },
+    {
+        "Folder Hash": "4688bcdd35f3bbf4b7c2751998a365ca361d6f6a14d83ba74fa152008fa8f4da",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started >",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo at the top left corner and \"Netflix\" is also seen in the page title. The page has a prominent call-to-action button that says \"Get Started >\" and a field asking for the user's email address. The overall design and layout of the page is consistent with Netflix's branding.",
+        "Url": "https://prajwalk-07.github.io/netflix-clone.github.io/"
+    },
+    {
+        "Folder Hash": "5b48eeb3dc6aaf14de816e41003329b2be98a902f1f6af01e87ee17be48749db",
+        "Brand": "TFBank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Customer number, Date of birth",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the TFBank logo prominently displayed at the top center. The logo is distinct and is associated with the bank. The page also has a section with two fields, one labeled \"Customer number\" and the other labeled \"Date of birth\", indicating that these are required to proceed. There is a button labeled \"Login\" below these fields, indicating that this is a login page.",
+        "Url": "https://bqq.quo.temporary.site/tf/web/login.php"
+    },
+    {
+        "Folder Hash": "6567fb00c3659b90fa90d05221da33a46d643c912685a030289399843007edb5",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has DHL logo at the top center. The page title is \"DHL Tracking\". The tracking number is shown in the middle of the page. The page also has a blue navigation bar on the top and a gray footer at the bottom. The overall layout and design of the page is consistent with other DHL webpages.",
+        "Url": "http://gqs.yqp.mybluehost.me/fthjx/des/"
+    },
+    {
+        "Folder Hash": "6728a70e68ee15ce92356a7757b7a8308c8a4bd1eca22bb324bca8bab2c98e3b",
+        "Brand": "Allegro",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Kup Teraz (Buy Now)",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Allegro, a well-known Polish e-commerce platform. The logo is located at the top left corner of the page. The page has a search bar, which is a common feature of e-commerce websites. The page also has a shopping cart icon, which is another common feature of e-commerce websites. The page has a green button that says \"Kup Teraz\" (Buy Now), which is a common call-to-action on e-commerce websites.",
+        "Url": "https://allegro.zakuppayu24.pl/oferta/iPhone-14-Pro-256gb-sprawny?id=339827496"
+    },
+    {
+        "Folder Hash": "6946f32b28a8f981adebf5f3ab0d59a2a60a2bf778437e2088c4417d899d4cd7",
+        "Brand": "Banca Monte dei Paschi di Siena",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Vai ai servizi, Scarica l'app",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Banca Monte dei Paschi di Siena homepage. The Banca Monte dei Paschi di Siena logo is clearly visible at the top of the page. The page has a blue background with white text. The page is divided into three sections. The first section has a title, \"Digital Banking,\" and a list of options. The second section has a title, \"I canali di Banca Digitale,\" and a list of options. The third section has a title, \"Firma Elettronica Avanzata e Servizio ID,\" and a list of options. At the bottom of the page, there is a link to the Banca Monte dei Paschi di Siena website.",
+        "Url": "https://www.bancadivenezia.it/persone/digital-banking/index.html"
+    },
+    {
+        "Folder Hash": "afc03a721fd96906b8321379ecdcf56acce0173ee24621897158096e05782725",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DPD logo is clearly visible in the top right corner of the webpage. The screenshot is of a tracking page, which is a common feature of DPD's website. The page also has a blue background, which is consistent with DPD's branding.",
+        "Url": "http://www.neu.planen.lieferung.id.51-107-1-90.cprapid.com/info/paket/update.php"
+    },
+    {
+        "Folder Hash": "ba4260a9e37fd978d0f3286932df3cf5054f255775ccbf9cb2b34ea39c6fa219",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now, See price, Buy now, Pre-order, Learn more, Try now, Get started, Sign up free, Download Visual Studio 2022",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store, which is an online store owned and operated by Microsoft. The store sells a variety of products, including computers, software, games, and movies. The screenshot shows the home page of the store, which features a carousel of featured products. The navigation bar at the top of the page allows users to browse the store by product category. The page also includes a search bar, which allows users to search for specific products.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "bbff5f79af2f06e519617dc40816880a53e3023ba8945eee669e0f2ac18b40c8",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a group chat on WhatsApp. The WhatsApp logo is clearly visible in the top left corner of the screen. The chat is between several people, and their profile pictures are visible on the left side of the screen. The messages in the chat are visible in the center of the screen. The screenshot also shows the time of the last message, as well as the name of the group chat.",
+        "Url": "http://ovjaoo.c505.net/"
+    },
+    {
+        "Folder Hash": "c381f1d9a11996aa07efd26a859fd822a63873ea3b9842f5af227cdc5edd7125",
+        "Brand": "365bet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a login page with the 365bet logo prominently displayed at the top center. The 365bet logo is distinct and easily recognizable with its unique font and color scheme. The login page also includes fields for entering a username and password, as well as a call-to-action button labeled \"Sign-in\". The overall design and layout of the webpage are consistent with the 365bet brand guidelines.",
+        "Url": "https://www.793e365.com/#/"
+    },
+    {
+        "Folder Hash": "ca6d311b1afa405474829838ae0f9d7055259fe51e6e7e8ba67376e414f4f0b9",
+        "Brand": "Vserossiiskiy tvorcheskiy konkurs",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a title \"\u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043d\u043a\u0443\u0440\u0441 \u00ab\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0439 \u043a\u043e\u0434!\u00bb (All-Russian creative competition \"Cultural code\"). At the bottom of the page, there is a logo of Made with Brizy, which is a website builder. There are pictures of finalists of the competition with a \"\u041f\u0440\u043e\u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u0442\u044c\" button below each picture. There is also a \"\u0423\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u0435\" button on the page.",
+        "Url": "https://plum19588527.brizy.site/"
+    },
+    {
+        "Folder Hash": "d5127fb02261b9b298b409e21ff282510a6d633c7873cb2a6833a962aa27567f",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DPD logo is clearly visible in the top right corner of the webpage. The screenshot is of a tracking page, with the tracking number 981689999268. The page also has a blue button that says \"Schedule a New Delivery\".",
+        "Url": "https://18-197-40-90.cprapid.com/cz/update.php"
+    },
+    {
+        "Folder Hash": "e5448eaf6dfd65cbf0bb437afebece09e1266f1fe519a8ff68157427d91bcda5",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a yellow background with a DHL logo on the top right corner. The logo is distinct with red and yellow letters, which is well-recognized as a global logistics company. Below the logo, there is a login form with two input fields, one for email and one for password. There is a blue button below the input fields that says \"Logga in\", which is Swedish for \"Login\".",
+        "Url": "https://my.dhlparcel.se/account/sign-in"
+    }
+]

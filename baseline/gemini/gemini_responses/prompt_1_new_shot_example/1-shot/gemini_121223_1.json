@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "02f8196dac7787e7eabd5b592bce5720a7c26481bd5012ab7d71707b9e9a2096",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large banner at the top that says \"Discord\" and shows a cartoon-style illustration of a group of people. The same logo is also shown as a small icon in the tab bar. The webpage also has a blue button that says \"Download for Windows\" and a grey button that says \"Open Discord in your browser\". The webpage is likely the official website of Discord, a popular chat app, as it has the Discord logo, and the call-to-action buttons are for downloading the app or opening it in a browser.",
+        "Url": "https://app.dabing888.cn/"
+    },
+    {
+        "Folder Hash": "2cc5baf89c60dbd4efc9eaef5674e6ce116354f9da6b7c4e68f1399f48c4f347",
+        "Brand": "Meta",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Meta logo prominently displayed at the top center. The Meta logo is distinct and easily recognizable, with the company's name displayed below it. The page has a blue background, with a white box in the center containing the call-to-action button that reads \"Continue\". The overall design and layout of the page is consistent with Meta's branding and follows the company's design guidelines.",
+        "Url": "https://www.meta-livechat.email/contact/"
+    },
+    {
+        "Folder Hash": "467992ac6220976e920c39d57f0463f865648d4622c77064f35f6ef4a7362d36",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See All Deals, Shop Xbox Series X, Shop Xbox Series S, Shop Xbox One, Shop Windows 11 Laptops, Shop Surface Laptops, Shop Surface Pro, Shop Surface Go, Shop Surface Duo, Shop Xbox Game Pass Ultimate, Shop Xbox Live Gold, Shop Xbox Accessories",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store's home page. The Microsoft Store logo is prominently displayed in the top left corner of the page. The page is divided into different sections, each of which showcases different products and services offered by Microsoft. The \"Shop now\" button is clearly visible in the center of the page, inviting users to make a purchase. The \"See all deals\" button is located in the top right corner of the page, providing users with access to a wider range of products and services. The \"Shop Xbox Series X\" button is located in the middle of the page, highlighting the latest gaming console from Microsoft. The \"Shop Xbox Series S\" button is located to the right of the \"Shop Xbox Series X\" button, showcasing the more affordable option for gamers. The \"Shop Xbox One\" button is located to the right of the \"Shop Xbox Series S\" button, catering to users who prefer the previous generation of Xbox consoles. The \"Shop Windows 11 Laptops\" button is located below the \"Shop Xbox One\" button, highlighting the latest laptops that come with Windows 11 pre-installed. The \"Shop Surface Laptops\" button is located to the right of the \"Shop Windows 11 Laptops\" button, showcasing Microsoft's own line of laptops. The \"Shop Surface Pro\" button is located to the right of the \"Shop Surface Laptops\" button, highlighting the 2-in-1 device from Microsoft. The \"Shop Surface Go\" button is located to the right of the \"Shop Surface Pro\" button, showcasing the more affordable option for users who want a smaller and more portable device. The \"Shop Surface Duo\" button is located to the right of the \"Shop Surface Go\" button, highlighting Microsoft's dual-screen smartphone. The \"Shop Xbox Game Pass Ultimate\" button is located below the \"Shop Surface Duo\" button, offering a subscription service that provides access to a library of games. The \"Shop Xbox Live Gold\" button is located to the right of the \"Shop Xbox Game Pass Ultimate\" button, offering a subscription service that provides access to online multiplayer gaming. The \"Shop Xbox Accessories\" button is located to the right of the \"Shop Xbox Live Gold\" button, showcasing a variety of accessories for Xbox consoles.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4fd90c40b78a29da6e0a064ad854620106127eb9a7d1832a2d84fe09bd37867c",
+        "Brand": "Facebook Marketplace",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone, Password",
+        "List of Call-To-Actions": "Log in, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains a Facebook logo at the top, followed by two input fields, and a blue button that says \"Log in\". The \"Log in\" button is the call-to-action button. The two input fields are asking for user credentials. The webpage is a login page for Facebook Marketplace.",
+        "Url": "https://www.facebook.com/marketplace/adelaide/?unavailable_product=1"
+    },
+    {
+        "Folder Hash": "57561f2b7090cb241717682bc987754805ccf9fa1b5d8f56034732861e2e6f1e",
+        "Brand": "Meta (Facebook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage screenshot shows a login page with a prominent Meta (Facebook) logo. The logo is located at the bottom center of the page. The page has fields for entering an email address or phone number, and a password. There is a green button labeled \"Login\" that a user can click to submit their credentials. The overall design and layout of the page is consistent with other Meta (Facebook) products.",
+        "Url": "https://id-id-facebooks.pages.net.br/"
+    },
+    {
+        "Folder Hash": "94abe3263e9a60f89755913710ba693fdb53cd8033341cdcfd3a4a995f608d74",
+        "Brand": "bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a banner ad for bet365, a well-known online gambling company. The bet365 logo is prominently displayed in the top left corner of the ad. The ad also features a number of other elements, including a list of upcoming events, odds for various bets, and a call to action to \"Bet Now\". The overall design and layout of the ad is consistent with other bet365 marketing materials.",
+        "Url": "http://www.molihuatea.com/"
+    },
+    {
+        "Folder Hash": "ab17de4f635ba4d04d28644ddb63c3e05f7703e87ff3d75f63d904089dd92c84",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large banner at the top with the Discord logo, which is a stylized lowercase \"D\" in blue and purple. The logo is centered on the banner and is surrounded by a gradient background. The banner also has the text \"Imagine a Place...\" in white, centered above the logo. The rest of the webpage is white with a blue footer. The webpage is likely the landing page for the Discord website, which is a popular chat app. The call to action buttons are \"Download for Windows\", \"Open Discord in your browser\", and \"Sign up\".",
+        "Url": "http://discord.swaychat.cn/"
+    },
+    {
+        "Folder Hash": "d3c57c823a905acc35bb4d62d438d6b38e192b4ec3c7247de868b384bee45350",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo, which is a well-known streaming service. The logo is in the top left corner of the page, and it is accompanied by the text \"Netflix.\" The page also has a large banner image that says \"Unlimited Movies, TV Shows, and More.\" The banner image is of a scene from the popular Netflix series \"Stranger Things.\" The page also has several other images and videos that are related to Netflix content. The overall appearance of the page is consistent with the Netflix brand.",
+        "Url": "https://kuldeepsuthar007.github.io/netflixclone/"
+    },
+    {
+        "Folder Hash": "d42bc4dae1ea48f95a0b197c99c1e950bebb7b74add15a35f6c6435e6212e207",
+        "Brand": "Shopee",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Verification code",
+        "List of Call-To-Actions": "Login button, Register button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a prominent logo of Shopee, which is a well-known e-commerce platform in Southeast Asia. The logo is located at the top center of the page. Below the logo, there are two buttons: \"Login\" and \"Register\". The \"Login\" button is green, while the \"Register\" button is grey. The \"Login\" button has a phone number field and a verification code field. The \"Register\" button has a phone number field, a verification code field, and a password field.",
+        "Url": "https://vn36722shp.com/"
+    },
+    {
+        "Folder Hash": "e385c7db10a1f91d606366e9ea5df80671c4341ff4189e309826b844c2dcfc97",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with a large banner image at the top, featuring various popular movies and TV shows. The Netflix logo is prominently displayed in the upper left corner of the banner. The main body of the page is divided into three sections. The first section highlights the benefits of Netflix, such as unlimited movies and TV shows, the ability to watch on any device, and the ability to create profiles for children. The second section features a list of frequently asked questions. The third section is a call-to-action, encouraging users to sign up for a free trial.",
+        "Url": "https://divyanshugupta123.github.io/Netflix/"
+    }
+]

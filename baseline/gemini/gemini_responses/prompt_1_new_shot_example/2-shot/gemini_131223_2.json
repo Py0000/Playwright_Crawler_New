@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "050ba2177abe312113ab42590e8dad439cb059abb099ca872bf7b57ec09aef1b",
+        "Brand": "Standard Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join, Talk to us, Arrange an appointment",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with the Standard Bank logo at the top left corner. The logo is a blue and white square with the words \"Standard Bank\" in white. The background of the webpage is white with a blue header. The main content of the webpage is a carousel of images with text overlaid on each image. The text on the images is about the bank's services. The webpage also has a navigation bar at the top with links to different sections of the website.",
+        "Url": "https://www.santanderprivate.co.uk/"
+    },
+    {
+        "Folder Hash": "1768703dbb0c07039402d025dd3393a2a941c884637542aa84bf30a39cac6d8a",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the login page of Instagram with its distinctive logo, which is a camera icon with a gradient background. The logo is located at the top left corner of the webpage, just above the main text \"Instagram | Log in\". Below the logo, there is a form with two input fields, one for the username and one for the password. There is also a \"Forgot Password?\" link below the password field. The \"Log In\" button is located at the bottom of the form. The overall design of the page is clean and simple, with a focus on the user's profile picture and the login form.",
+        "Url": "https://businessforcopyrightsupport.com/help-team/"
+    },
+    {
+        "Folder Hash": "2f668765889071c402d37caa442e0d10359bb1b9cbdbc8cb40c2ab492deabdaf",
+        "Brand": "Handmade Arcade",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a 404 error page of Handmade Arcade. The brand name is shown at the top of the page. The page is simple, with a search bar and links to the homepage and other pages.",
+        "Url": "https://www.handmadearcade.org/wp-content/plugins/page/sunrise/sunrise"
+    },
+    {
+        "Folder Hash": "3ded60b24f882cb05bf1145bc111a25ebaa90f9bc48642add5d8aae98d8312a1",
+        "Brand": "Tesco Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a Tesco Bank logo at the top left corner, which is a supermarket and banking service provider in the United Kingdom. The page has a login form with fields for username and password, as well as a \"Log in\" button. The \"Sign up\" link is also present on the page.",
+        "Url": "https://deserted-topaz-moss.glitch.me/public/oriba.html"
+    },
+    {
+        "Folder Hash": "3f45e707db1f3780563f784c671cf7cea7ff3d8abb43f277f29e70108ae3e13a",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Create a new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Steam with its distinctive logo. The logo is located at the top left corner of the webpage, just above the main text \"Sign in to your Steam account\". The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://st-gift.ru/gift33096"
+    },
+    {
+        "Folder Hash": "65f7111d70bf88c318910261d3880a0c89ea84a6e37779eb6ee3025267caed59",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page. The Netflix logo is clearly visible at the top of the page. The page has fields for email and password. The \"Get Started\" button is also visible.",
+        "Url": "https://rajkumarthakur88.github.io/NetFlix-Home-Page/"
+    },
+    {
+        "Folder Hash": "ad19fe539994a2ccb72e07f621854609fd400973d77d5d17309c61e23c6aad53",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Username",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the AT&T logo on the top left corner and the image on the right side. The text \"Email or Username\" is a common prompt for a login page, and the \"Next\" button is a common call-to-action on login pages.",
+        "Url": "https://fgdgfdsgsfgfsfg.surveysparrow.com/s/classical-home/tt-pYheASAKywJaDkHTovweQ4"
+    },
+    {
+        "Folder Hash": "c18d18a03e152571f9ec94f741855a2bd6ea1817572607477f8f6fa7d6fda556",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox Series S, Shop Xbox One, Shop Xbox 360, Shop Windows, Shop Surface, Shop Xbox Game Pass, Shop Xbox Live Gold, Shop Xbox Accessories, Shop Xbox Controllers",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the home page of Microsoft's Xbox website. The Xbox logo is prominently displayed in the top left corner of the page. The main menu bar below the logo contains links to various Xbox products and services, including the Xbox Series X, Xbox Series S, Xbox One, Xbox 360, Windows, Surface, Xbox Game Pass, Xbox Live Gold, Xbox Accessories, and Xbox Controllers. The center of the page features a large banner advertising the Xbox Series X. The banner includes a link to pre-order the console. The right side of the page features a smaller banner advertising the Xbox Series S. The banner includes a link to pre-order the console. The bottom of the page features links to Microsoft's social media pages, as well as links to its privacy policy and terms of service.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "d52ce70470b6910fd83b2b3b7bf80f0ad2f18ca8faca12ba37a91b75eae7d3f9",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Email Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a Wells Fargo login page with its distinctive red and yellow logo. The logo is located at the top left corner of the webpage, just above the main text \"Email Verification\". Below the text fields, there is a \"Continue\" button. The page also has a background image of hot air balloons in flight.",
+        "Url": "https://pub-cc09a92ea2d24879b5e0d1bbd3b85fa5.r2.dev/emailerror.htm"
+    },
+    {
+        "Folder Hash": "e029e9f5867cf79dc5f25de8ab0cb9cb5898c87bf01df9346d79bc52299a3e94",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page with its distinctive red and black logo. The logo is located at the top left corner of the webpage, just above the main text \"Unlimited movies, TV shows and more.\" The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://madhurima-das01.github.io/Netflix-clone.github.io/"
+    }
+]

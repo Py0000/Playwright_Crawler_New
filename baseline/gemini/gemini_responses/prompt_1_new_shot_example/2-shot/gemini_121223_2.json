@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "02f8196dac7787e7eabd5b592bce5720a7c26481bd5012ab7d71707b9e9a2096",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open in your browser, Sign up",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the landing page of Discord. The Discord logo is a stylized white and blue speech bubble with a lowercase \"D\" in the center. It is located at the top left corner of the webpage. The background is light blue with a gradient to white at the bottom. The text \"Imagine a place...\" is centered on the screen, with a large blue button below it that says \"Download for Windows\". There is also a smaller grey button that says \"Open in your browser\". At the bottom of the page is a section called \"Ready to start your journey?\" with a green button that says \"Download for Windows\".",
+        "Url": "https://app.dabing888.cn/"
+    },
+    {
+        "Folder Hash": "2cc5baf89c60dbd4efc9eaef5674e6ce116354f9da6b7c4e68f1399f48c4f347",
+        "Brand": "Meta",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Meta logo, which is the parent company of Facebook. The logo is located at the top left corner of the webpage. The webpage has a blue background with white text. The text on the webpage is about Meta and its products. There is a button on the webpage that says \"Continue\".",
+        "Url": "https://www.meta-livechat.email/contact/"
+    },
+    {
+        "Folder Hash": "467992ac6220976e920c39d57f0463f865648d4622c77064f35f6ef4a7362d36",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Learn More, Buy Now, Pre-Order, Get Started, Sign Up, Try Now, Download Now, Get it Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a product landing page for Microsoft's Xbox gaming console. The Xbox logo is prominently displayed in the top-left corner of the page, and the page is full of images and information about the console. The \"Shop Now\" button is clearly visible in the top-right corner of the page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4fd90c40b78a29da6e0a064ad854620106127eb9a7d1832a2d84fe09bd37867c",
+        "Brand": "Facebook Marketplace",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log In, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The image shows a screenshot of the Facebook Marketplace login page. The Facebook logo is visible at the top left corner of the page. The login form has fields for email or phone number and password. There is a \"Log In\" button below the login form. There is also a \"Learn More\" button below the \"Log In\" button.",
+        "Url": "https://www.facebook.com/marketplace/adelaide/?unavailable_product=1"
+    },
+    {
+        "Folder Hash": "57561f2b7090cb241717682bc987754805ccf9fa1b5d8f56034732861e2e6f1e",
+        "Brand": "Meta (Facebook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a Meta (Facebook) login page. The Meta (Facebook) logo is clearly visible at the top of the page. The screenshot also shows two text fields, one for the email address or phone number and one for the password. There is a green button with the text \"Log in\" below the text fields. The overall design and layout of the webpage screenshot is consistent with the Meta (Facebook) login page.",
+        "Url": "https://id-id-facebooks.pages.net.br/"
+    },
+    {
+        "Folder Hash": "94abe3263e9a60f89755913710ba693fdb53cd8033341cdcfd3a4a995f608d74",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0",
+        "Supporting Evidence": "The screenshot is of a webpage that is advertising various gambling websites. There are no logos, trademarks, or other identifying features that would indicate the brand of the webpage.",
+        "Url": "http://www.molihuatea.com/"
+    },
+    {
+        "Folder Hash": "ab17de4f635ba4d04d28644ddb63c3e05f7703e87ff3d75f63d904089dd92c84",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The image shows a screenshot of the Discord website. The Discord logo is clearly visible in the top left corner of the image. The rest of the image is taken up by a large illustration of a group of people using Discord. The text \"Imagine a place...\" is visible in the center of the image. The \"Download for Windows\" button is visible in the bottom left corner of the image. The \"Open Discord in your browser\" button is visible in the bottom center of the image.",
+        "Url": "http://discord.swaychat.cn/"
+    },
+    {
+        "Folder Hash": "d3c57c823a905acc35bb4d62d438d6b38e192b4ec3c7247de868b384bee45350",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct with a red \"N\" and a black \"Flix\", which is well-recognized as the logo for the popular streaming service. The webpage also has a prominent call-to-action button that says \"Get Started\" in the center of the page, inviting users to sign up for the service.",
+        "Url": "https://kuldeepsuthar007.github.io/netflixclone/"
+    },
+    {
+        "Folder Hash": "d42bc4dae1ea48f95a0b197c99c1e950bebb7b74add15a35f6c6435e6212e207",
+        "Brand": "Shopee",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Verification Code",
+        "List of Call-To-Actions": "Login, Sign Up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a prominent logo of Shopee, which is an e-commerce platform. The logo is located at the top center of the page. Below the logo, there is a login form with fields for phone number and verification code. There is also a call-to-action button that says \"Login\".",
+        "Url": "https://vn36722shp.com/"
+    },
+    {
+        "Folder Hash": "e385c7db10a1f91d606366e9ea5df80671c4341ff4189e309826b844c2dcfc97",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of Netflix, a streaming service. The Netflix logo is clearly visible in the top left corner of the page. The page features a large banner with a promotional image for the movie \"The Gray Man\". Below the banner, there are several rows of smaller images of other movies and TV shows that are available on Netflix. The \"Get Started\" button is located in the center of the page, and it is used to sign up for a Netflix account.",
+        "Url": "https://divyanshugupta123.github.io/Netflix/"
+    }
+]

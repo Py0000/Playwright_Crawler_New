@@ -1,0 +1,145 @@
+[
+    {
+        "Folder Hash": "09ee277d2aff9a289052581dc676c064fe9760816ea6e8b1018bc6d7b92f5178",
+        "Brand": "Revoke.cash",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect Wallet, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has \"Revoke.cash\" in the tab title. The Revoke.cash logo is also visible on the top left corner of the webpage. The webpage has a blue button that says \"Connect Wallet\" and a green button that says \"Get Started\".",
+        "Url": "https://datacloudsolutions.org/revoke.cash/web3-connectgpstwhbrwnrxnbfrphhzapwuhmwcesusqxwoeakruplvrvvknmwzlhjjpmiwhnukbuldiwwprdoljeyvwstkuekealyvtugzcstqkrjtpemaoehgeguhzttsgrvjmecjoaiqbblinzwookfqijtsgwplusqioriwusvwb/"
+    },
+    {
+        "Folder Hash": "0bca8942073f3cda1ad34f63177b283e28e211f50e21038730a809c3ea8e933c",
+        "Brand": "La Nacion",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Subscribe button, Log in button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of La Nacion, which is a prominent Argentinian newspaper. The logo is located at the top left corner of the webpage. The webpage also has a login button and a subscribe button, which are both call-to-action elements.",
+        "Url": "https://oilindex360ai.com/BacOilIndexCR/?s2=b1e029cb-1d86-4ce4-8c97-69388d134a94"
+    },
+    {
+        "Folder Hash": "1c98ed6f6ffc07ad9b4f18dc614ea440cd9c094de4c1a7499eeaef11b2c8c0e0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Netflix logo at the top left corner. The logo is distinct and easily recognizable. The webpage also has a large banner with the text \"Unlimited movies, TV shows, and more.\" This text is also associated with the Netflix brand. The webpage also has a section with the text \"Watch on your TV, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.\" This text is also associated with the Netflix brand. The webpage also has a section with the text \"Download your shows to watch offline.\" This text is also associated with the Netflix brand. The webpage also has a section with the text \"Watch everywhere.\" This text is also associated with the Netflix brand. The webpage also has a section with the text \"Create profiles for kids.\" This text is also associated with the Netflix brand. The webpage also has a section with the text \"Frequently Asked Questions.\" This text is also associated with the Netflix brand. The webpage also has a section with the text \"Get Started.\" This text is also associated with the Netflix brand.",
+        "Url": "https://ebrahemsamir.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "266ff503052a52b3ddcca07c61c2b18ee7ff5e63a117888559547c3088d1f6c2",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The screenshot shows a webpage with a prominent logo of Poste Italiane, an Italian postal service company. The logo is located at the top left corner of the page and consists of a red and blue circle with the letters \"P\" and \"I\" in white. The page has two input fields, one labeled \"Username or email\" and the other labeled \"Password\". Below the input fields, there is a blue button that says \"Login\". The page also has a link that says \"Forgot password?\" below the button. The overall design and layout of the page is consistent with other Poste Italiane webpages.",
+        "Url": "https://user.poste-it.45-55-199-16.cprapid.com/"
+    },
+    {
+        "Folder Hash": "360f3c20546a4e3cc006b353e5181f68d77284a31d708f3615739a230733a938",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large MetaMask logo at the top center. The background is white with a blue gradient at the bottom. There is a blue button in the center of the page that says \"Download Now\". The page is likely a landing page for the MetaMask cryptocurrency wallet.",
+        "Url": "https://metamask.itoken.cool/"
+    },
+    {
+        "Folder Hash": "45ff05748d601f8e5f3726eab475a164e68599046622d1d96fc7dd022a73c12d",
+        "Brand": "Topup Provider",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a clear logo of \"Topup Provider\" at the top center. The webpage is selling in-game currencies for various games, and has a clear call-to-action button \"Buy Now\" for each game.",
+        "Url": "https://topupprovider.com/"
+    },
+    {
+        "Folder Hash": "539c8b4a4679fde50a1a7481549ecaf743aada20e0e3e06e8362063c49d1d771",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a login page with the Poste Italiane logo prominently displayed at the bottom left corner of the page. The Poste Italiane logo is a red and blue square with the letters \"P\" and \"I\" in white. The login page has a blue background with a white box in the center. The white box contains two text fields, one for the email address and one for the password. There is also a blue button that says \"Login\". The screenshot also shows a link to the Poste Italiane website.",
+        "Url": "http://www.user.poste-it.45-55-199-16.cprapid.com/"
+    },
+    {
+        "Folder Hash": "78f514de9b20ba8ecf025d84841e56d4d9f40cba61390961314b0c8dee0c88a8",
+        "Brand": "Yoga",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop the Collection, Take a look, See what's new, Shop now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has \"Yoga\" as the title. The logo at the top left corner also says \"Yoga\". The overall layout and design of the webpage is consistent with a yoga theme. The call-to-action buttons are also related to yoga, such as \"Shop the Collection\" and \"Take a look\".",
+        "Url": "https://ftswxdgverifyloiiwcihfg.weebly.com/"
+    },
+    {
+        "Folder Hash": "a6919b4c98619b0a85e2c88eaedb9050f5c681e80944a478fb5841a2d839733e",
+        "Brand": "PancakeSwap",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy CAKE, Connect Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of PancakeSwap, which is a decentralized exchange platform. The logo is in the shape of a rabbit and is located at the top left corner of the webpage. The background color of the webpage is pink and white. The webpage has a number of call-to-action buttons, including \"Buy CAKE\" and \"Connect Wallet\".",
+        "Url": "https://allenanna.com/"
+    },
+    {
+        "Folder Hash": "abf00d88a4aa8a0f574cf0dd49164c77bbced32720fb70477a798f01f318e6ff",
+        "Brand": "PCS Mastercard",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The PCS Mastercard logo is prominently displayed at the top of the page. The words \"Sign In\" are also clearly visible, indicating that this is a login page. The page also has fields for entering an email address and password, which are common credentials required for logging in to an account.",
+        "Url": "http://www.serveurattestation-tabac.com/"
+    },
+    {
+        "Folder Hash": "b06da19f77664c00dfa8f69236dc965d3a6eaa0a91dbadb389fce7256adcdfb1",
+        "Brand": "BV Maao Exports",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Contact No., Country, Company Name, Message",
+        "List of Call-To-Actions": "Submit Query",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The BV Maao Exports logo is displayed prominently at the top of the page. The logo is a stylized image of a globe with the company name below it. The company's contact information is also displayed at the bottom of the page. The webpage has a form where users can submit inquiries. The form asks for the user's name, email address, contact number, country, company name, and message. There is a call-to-action button that says \"Submit Query\".",
+        "Url": "https://bvmaaoexport.com/"
+    },
+    {
+        "Folder Hash": "cdb09796612d3c3d55db6b3f2fa8e10188115d83099022a3882ab91e3b5b96af",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. \"Netflix\" is also written in large text at the top of the page. The page has a large section with information about the benefits of Netflix, including a list of popular shows and movies that are available on the service. There is also a section with information about how to watch Netflix on different devices. At the bottom of the page, there is a section with frequently asked questions. The overall design and layout of the page is consistent with other Netflix webpages.",
+        "Url": "https://frontendeveloperanass.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "f04043bfcf4e97078aca5943d41d324989604c00f1b6b182ed8ef1632a88f43c",
+        "Brand": "Unicredit Bulbank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Unicredit Bulbank prominently displayed at the top left corner. The logo is distinct and is a well-known trademark of the bank. The webpage also has the words \"\u0412\u0445\u043e\u0434\" (meaning \"Login\") and \"\u041f\u0430\u0440\u043e\u043b\u0430\" (meaning \"Password\") displayed on it, which are clear indicators that the user is being asked to enter their credentials. Additionally, the webpage has a blue button with the text \"\u0412\u0425\u041e\u0414\" (meaning \"LOGIN\") on it, which is a clear call-to-action for the user to submit their credentials.",
+        "Url": "https://login-bulbank.firebaseapp.com/login_sessionid#ba2a78ef3eaf0cffe9b76fab86c9183d"
+    }
+]

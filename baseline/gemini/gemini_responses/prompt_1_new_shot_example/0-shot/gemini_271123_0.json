@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "164ad949f9595380059658035fdc02fbaf46e833d5e6a017297391509709b3cb",
+        "Brand": "Tasuri Automotive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Name, Address, City, State, Zip Code, Country, Credit Card Number, CVV, Expiry Date",
+        "List of Call-To-Actions": "Buy Now, Add to Cart, Contact Us, Sign Up, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Tasuri Automotive logo at the top left corner. The logo is a black and red circle with the words \"Tasuri Automotive\" in white. The webpage also has the words \"Tasuri Automotive\" in the title bar. The webpage is selling air horns. The webpage has a form that asks for user credentials. The webpage has a call-to-action button that says \"Buy Now\".",
+        "Url": "https://basurishop.com/"
+    },
+    {
+        "Folder Hash": "19ae88c673d1b61b7e5df50961ab9e6a8b7f0b532558125fd4b81cc9818933cf",
+        "Brand": "Banpro Grupo Promerica",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Banpro Grupo Promerica at the top left corner. In the center, there is a form asking for username and password. The form also has a checkbox to remember the user and a button that says \"Login\". The webpage also has a link to register for an account.",
+        "Url": "https://46c8371e-2ec7-4ab6-8119-797076e037dd.id.repl.co/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Hankook Tech",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "31c40fdd6f2f7007261f3cf59f7d4d1b3f3d3a306a031b3e5fb8ff85ea8c8028",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Microsoft logo and branding prominently displayed at the top left corner of the page. The overall design and layout of the page is consistent with Microsoft's branding guidelines. The page also contains links to other Microsoft products and services, such as the Microsoft Store, Office, and Windows.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8596686c03d764958db74627678de987a7b5b3ed0490ec0b63b32c0d8374a54e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "http://d15a1lvkr18tre.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "a4ad70fbd111247f286b1364997a9099527e0e1348b8a070073b27d79abfbdeb",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://gentmulaj1.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "c0a0edcd380a5c918c884cbd8de521c702eda077dac81d0ec9d92b519ee3d409",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo on the top left corner, and the words \"Microsoft Store\" on the top right corner. The page is selling Microsoft products, such as the Xbox Series X and Surface Laptop. The call-to-action buttons all lead to pages where users can purchase these products.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c40c09de4d38419a8dcef0dc13d33ad07bcf21bacd6df5984b58616b1fee3c8e",
+        "Brand": "Suncoast Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Member Number, Password",
+        "List of Call-To-Actions": "LOGIN, Join Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Suncoast Credit Union at the top left corner. The login form also has the words \"Log In To SunNet\" and \"SunNet Online Banking\" on it.",
+        "Url": "https://suncoastaut.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "e9e9b5de6eda512206beb1f71d65125b14ce947010dcf5def32e0597f091f56e",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Check Rates, Learn More, Apply Now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Wells Fargo logo and branding. It also has fields asking for sensitive user credentials such as username and password, as well as call-to-action elements such as 'Login', 'Check Rates', 'Learn More', and 'Apply Now'.",
+        "Url": "https://intlexperiwellscomms.weebly.com/"
+    },
+    {
+        "Folder Hash": "f52a5a4a2e5c8da13499aaafe8a4df46e38baadac1abb724e8c183a9a47b38ef",
+        "Brand": "Gazprombank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number",
+        "List of Call-To-Actions": "registration",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The screenshot shows a webpage with the Gazprombank logo at the top left corner. The page is titled \"Get access to work from home and earn 100,000 rubles on the Gazprombank platform\" and has a registration form with fields for email and phone number. There is also a call-to-action button that says \"Register\".",
+        "Url": "https://ultimatefinancesedition.com/"
+    }
+]

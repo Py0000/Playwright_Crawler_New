@@ -1,0 +1,134 @@
+[
+    {
+        "Folder Hash": "0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a blue background and a white box in the center. The white box contains the Microsoft logo, the text \"Verify your identity\", and a text field for entering an email address. The \"Next\" button is located below the text field. The overall design and layout of the webpage is consistent with Microsoft's OneDrive service.",
+        "Url": "https://zksfechaduras.com.br/huyeambnaduiyadmbnasiuasmnad798iqenmas87/dcfo/"
+    },
+    {
+        "Folder Hash": "0c6486ca95a691d89464f30f735863d0fe00ba5af44029499381fc515b9e6dd5",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Try 30 days free, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo, which is a well-known streaming service. \"Try 30 days free\" and \"Sign In\" buttons are also present in the screenshot.",
+        "Url": "https://sumitkumar7978.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "0e4deb9aef6b39c28d725a2170d09c3460b8051a59413fbe0b342e9286e8ef6a",
+        "Brand": "DBS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop All Categories",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent DBS logo at the top left corner of the page. The page is selling Apple products and has a clear call-to-action button \"Shop All Categories\".",
+        "Url": "https://dbs.applerewardsstore.com/"
+    },
+    {
+        "Folder Hash": "2f2178a5668fe8312229bca578ef6ffaf6d9adc390834081de9b4206f38b1258",
+        "Brand": "Metamask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download, Learn More, Shop Metamask Swag",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has \"Metamask\" written on the top left corner. The center of the webpage has a big \"Download Metamask\" button. The overall design and color scheme of the webpage is consistent with Metamask's branding.",
+        "Url": "https://metamask.wallet-app.com/"
+    },
+    {
+        "Folder Hash": "443e076c127c0fd9da9f7af758b163da699e704da1155a3890f13e0a6df0154a",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, CPF, Password",
+        "List of Call-To-Actions": "Sign in, Create account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with a white logo of Magazine Luiza at the top center. The logo is a stylized \"M\" with a circle around it. The words \"Magazine Luiza\" are written in white below the logo. Below the logo is a search bar and a list of links to different departments of the store. The page also has a link to the store's credit card. The webpage is in Portuguese, which is the language of Brazil.",
+        "Url": "https://www.magazineluiza.com.br/pagina-nao-encontrada/"
+    },
+    {
+        "Folder Hash": "73b6943837da35b8b1908a7dfc8c3af40138fb24cbe463d72233cbbb51508ec6",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Try 30 Days Free",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with a red background and a large Netflix logo at the top center. The logo is distinct with a red \"N\" and a black \"Flix\" in a lowercase font. The webpage has a form with a field for email address and a button that says \"Try 30 Days Free\". The overall design and layout of the webpage is consistent with the Netflix brand.",
+        "Url": "https://clearlydhruv.github.io/Net_clone/"
+    },
+    {
+        "Folder Hash": "7d46c17bac6ab78a5f27410d683fa572de74e0e624a9c483a518a4b87bbf3a2a",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page with its distinctive red and black logo with the word \"Netflix\" in the center. The logo is located at the top center of the webpage, just above the main text \"Ready to watch? Enter your email to create or restart your membership.\" The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://iambablu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "854f797c119e78aab0e6cffb626e9653050cd1a04a0d1dc5f9fdedc787478c8b",
+        "Brand": "Serasa",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPF, Password",
+        "List of Call-To-Actions": "Login, Create Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Serasa logo on the top left corner. The logo is distinct and is well-known in Brazil. The webpage also has the words \"Serasa\" and \"Score\" on the top of the page. The background of the page is white with blue and green accents, which are the colors associated with Serasa. Additionally, the page has a form where users can enter their CPF and password to login.",
+        "Url": "https://serasascore.net/"
+    },
+    {
+        "Folder Hash": "884c9b8393ca0925b5d31b8db96d5ef48364cdff3ec72dbf9e577a4eb2666173",
+        "Brand": "BT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a login page with the BT logo prominently displayed at the top left corner. The BT logo is distinct with a blue and white circle enclosing white lowercase letters \"bt\". The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://sites.google.com/view/65h7t65ygtdw5f4/bt/"
+    },
+    {
+        "Folder Hash": "a8b433dc6c441e85ca22e5e9cb4c4d78f2700529a3a103160b5cedc1b2b7a677",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook, Twitter",
+        "List of Call-To-Actions": "Login with Facebook, Login with Twitter",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the login page of Battlegrounds Mobile India with its distinctive logo. The logo is located at the top center of the webpage. The credentials and buttons can be seen on the screenshot.",
+        "Url": "http://mail.esports-register.freexsuit.in/"
+    },
+    {
+        "Folder Hash": "d5d7c75ad8f0b2cdfaf7da0f98710f0db81e7129ccd1e82cae0efcbd64e29427",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page. The Netflix logo is clearly visible at the top left corner of the page. The page has fields for entering email address and password, and a button that says \"Get Started\".",
+        "Url": "https://subhrajit2003jeet.github.io/netflix-name/"
+    },
+    {
+        "Folder Hash": "db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3",
+        "Brand": "Dynamic Home Buyers",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact Us, Get a Free Offer, Apply Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the company logo, contact details, and a form to request a free offer. The overall layout and design of the webpage is consistent with the company's branding.",
+        "Url": "https://www.sellmyhomefastohio.com/"
+    }
+]

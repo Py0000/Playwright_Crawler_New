@@ -1,0 +1,156 @@
+[
+    {
+        "Folder Hash": "0f27a656cf08b7bac6c6ac8fdef2ab0a7d4468423c547050fb15e97b7c98bb40",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Collect, Go to Store",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the main lobby of the game Battlegrounds Mobile India. The game's logo is prominently displayed in the top left corner of the screen. The call-to-action buttons are also visible, which are \"Collect\" and \"Go to Store\".",
+        "Url": "https://ilfiore-xsuitt.indianxevent.com/"
+    },
+    {
+        "Folder Hash": "1217b517391a662524c3a5f862358cb1280bb4a1345742fd9281e1606c1b34f2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Microsoft logo prominently displayed. The Microsoft logo is distinct with four colored squares arranged in a specific pattern. The logo is positioned at the top left corner of the login box, which itself is centered on the screen against a white background.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "1a3e6fdb70a68c2a5d064d7ba1c51c39f2139826aa04189804338a1053d63c94",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with a blue background and a white box in the center. The white box contains the Microsoft logo, the text \"Verify your identity\", and a text field for entering an email address. The \"Next\" button is located below the text field. The overall design and layout of the webpage is consistent with other Microsoft products and services.",
+        "Url": "https://jorgeosorio-estructural.com/hkjdsjghdgjdahgahdnvbadtyuadbnad6783112jbad876abja8632/dcfo/"
+    },
+    {
+        "Folder Hash": "39ba9f6a1d3c1d3d6c3ac39725aac5352fa8a6b06ddc5a6491cb59f739ee2396",
+        "Brand": "Cielo",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo that says \"cielo\" with a cloud and an upward arrow. The word \"cielo\" is Spanish for \"sky\". The webpage also has a \"Made with Streamlit\" logo at the bottom, which suggests that the webpage is built using Streamlit, an open-source Python library for building and sharing web apps.",
+        "Url": "https://simulador-cielo-maraberto.datarisk.net/"
+    },
+    {
+        "Folder Hash": "446fd1b08e027c7284e86169913f06be6f65de61503ef3e51e6fc883bdecea73",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook login",
+        "List of Call-To-Actions": "Log in with Facebook",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Meta logo. The page also has a blue button with \"Log in with Facebook\" text, which is a common call-to-action for Meta services.",
+        "Url": "http://meta-support-quality.com/"
+    },
+    {
+        "Folder Hash": "47b34a4488542b321bbb69fca11460b04f129872343a572433f6ac8ccdb21f86",
+        "Brand": "Dropbox",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Username, Password",
+        "List of Call-To-Actions": "Log-in, Forgot password, Log in with a device",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the login page of Dropbox with its distinctive blue logo with white lowercase letters. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text \"Log in to Dropbox\".",
+        "Url": "https://dropbox.koenig.cx/index.php/login"
+    },
+    {
+        "Folder Hash": "824cc7f9ad4c045a1e7a3e0a16236c1dbb5cf38ddc60940043f57c0dbb3d6263",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download the application",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a green and white logo of Credit Agricole, a French bank. The logo is in the top left corner of the page. The page is in French and has a green background. The page has a form with a green button that says \"Download the application\".",
+        "Url": "https://dev-credit-agricole-ca-prevent12.pantheonsite.io/wp-content/entrerdansvotrespace/72743/"
+    },
+    {
+        "Folder Hash": "964a57a02e933a84c8561148851dcac5509a3024ec6a96223e622b523915140c",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Microsoft logo prominently displayed. The Microsoft logo is distinct with four colored squares arranged in a specific pattern, which is well-recognized as part of Microsoft's branding. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b78aad6188c2396882bc78d428b45290c9fc20623d0324de4f3205adbccfe7f7",
+        "Brand": "Midasbuy",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Purchase, Redeem, Shop, Promotions",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows the Midasbuy website, which is an online store for purchasing in-game items for various popular games. The Midasbuy logo is prominently displayed in the top left corner of the webpage, and the main menu bar contains links to the different sections of the website, including \"Home\", \"Card Payment Event\", \"News\", \"Help Center\", and \"Notifications\". The center of the webpage is occupied by a large banner advertising the current sales and promotions, and below that is a list of the different games that Midasbuy supports. The webpage also has a social media section in the footer, with links to Midasbuy's Facebook, Twitter, YouTube, Instagram, and Discord pages.",
+        "Url": "https://proironshine.com/00zeko/11/"
+    },
+    {
+        "Folder Hash": "b94b01fc696062e5aac42606354dce0fd8ed55a6e8858888b496da77f8c2e763",
+        "Brand": "Bitcoin ETF Connect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Open app submission issue on Github to add your app",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a list of cryptocurrency wallets with their logos. The Bitcoin ETF Connect logo is prominent at the top of the page. The page's title is \"Connect Wallet\".",
+        "Url": "https://btcetftoken-i.pages.dev/app/"
+    },
+    {
+        "Folder Hash": "ca3b85a26e375cb834f2094599d2e25abd9a51b51660c375107d7ee76a8466b8",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0",
+        "Supporting Evidence": "The screenshot is a blank white page with a grey strip at the top. There are no logos, trademarks, or other identifying features on the page.",
+        "Url": "http://yuanxiangwenhua123.com/"
+    },
+    {
+        "Folder Hash": "db221096646f2ab6e7ae10e838fa432f316720720f10b2ed8abb31bea10bc0bb",
+        "Brand": "Steam",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "View Page, Install, Play Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of Steam, a popular gaming platform. The Steam logo, a stylized wordmark in white with a blue background, is prominently displayed in the upper left corner of the page. The page is divided into several sections, including a carousel of featured games, a list of popular games, and a section for upcoming releases. The \"View Page\", \"Install\", and \"Play Now\" buttons are all clearly visible on the screenshot, indicating that the user is not required to provide credentials to access the content on the page.",
+        "Url": "https://githubmaster3000.github.io/steamClone/"
+    },
+    {
+        "Folder Hash": "ed90b699d6667ae96addbec8f7f22130efd21d4e03a6c812e2046ca1cce1e0ee",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Netflix with its distinctive red and black logo with a large \"N\" in the center. The credentials and buttons can be seen on the screenshot. The logo is located at the top left of the webpage, just above the main text \"Ready to watch? Enter your email to create or restart your membership.\"",
+        "Url": "https://kartikcod.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "f986efbaf31581071591a436531ed19a403e967b02a3ec708594e3f397f16516",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://n365-admin.securegateway-access.com/landingPage/2/714a33049e0111eeae990242ac19000a"
+    }
+]

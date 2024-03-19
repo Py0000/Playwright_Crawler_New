@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "4180f0df9b65c1bb86dc70331a57c72f42181d0e8da7f8f00545ca51527bbc0e",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://partner-outlook-cn.southerncoloradomedicare.com/.partner./?qs=3mail@b.c"
+    },
+    {
+        "Folder Hash": "5158b698ae70f19b5665758385d41003b4e54eb49e95460dd9a5b3554c32038c",
+        "Brand": "Marketsdate",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Subscribe, Marketsdate App, Contact Us, Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Marketsdate at the top center. The logo is distinct and easily recognizable. The webpage also has a number of other features that are consistent with the Marketsdate brand, such as the color scheme and the overall layout. In addition, the domain name \"marketsdate.com\" is clearly visible in the address bar, which further supports the conclusion that this is a Marketsdate webpage.",
+        "Url": "https://marketsdebate.com/archives/68319"
+    },
+    {
+        "Folder Hash": "612676b8cafc96aa8eaeb56ba596f86a8fc08c68e424ab13a068e7331e46f8d8",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or mobile number",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Orange\" and logo of Orange prominently displayed at the top left corner. The Orange logo is distinct with its stylized lowercase \"o\" in bright orange color. The webpage is in French and has a form asking for user credentials such as email address or mobile number. The form also has a call-to-action button that says \"Continuer\" (Continue).",
+        "Url": "http://www.swahiliaviation.com/wp-admin/sup-mai/Dir/Connexion.html"
+    },
+    {
+        "Folder Hash": "69dd38c87100bf2f6377d0d8925a81307bf4cce7816b012fefd1a74a622c7886",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in, Create an account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Steam login page. The Steam logo is clearly visible in the top left corner of the page. The login form has fields for username and password. The \"Sign in\" button is also clearly visible.",
+        "Url": "http://steam.wx186.cn/"
+    },
+    {
+        "Folder Hash": "c8406e458cafabac3dff558dc4e6963cb82f3fb9c5046e170545c6cb52f81f02",
+        "Brand": "ePanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of ePanel at the bottom center. The logo is distinct and is a registered trademark of ePanel, LLC. The webpage also has a copyright notice at the bottom which says \"Copyright \u00a9 2023 ePanel, L.L.C. Privacy Policy\". The webpage is asking for user credentials such as email address and password. It also has a call-to-action button that says \"Log In\".",
+        "Url": "http://bafybeia3nzj2dz4knmettflujgdkw25xpbuu7k4darbjmiiynwvzgaqv4e.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "cbbeacb335337b72079e5d8d16b2bf3ce724d25199ad54e4202cbae96508cce7",
+        "Brand": "Google (Gmail)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Gmail logo prominently displayed. The Gmail logo is distinct with a red \"M\" and a yellow \"G\" in a sans-serif typeface, which is well-recognized as part of Google's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background.",
+        "Url": "https://amwinzi.com/"
+    },
+    {
+        "Folder Hash": "ce7c7687e91c48348e2271036f56608db65bc980ae374723d0c7d771ae969793",
+        "Brand": "Squarespace",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a Squarespace error page. The Squarespace logo is prominent at the top left corner of the page, and the error message is displayed in a clear and concise manner. The overall design of the page is consistent with Squarespace's branding.",
+        "Url": "https://www.tahunbaru.biz.id.jikulamu.biz.id/cgi-sys/suspendedpage.cgi"
+    },
+    {
+        "Folder Hash": "ed00febd4db1031a3aa9658a6d77cb0c67c062dc1aba201ad438a1f84c755fec",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Download button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a login pop-up window with the Adobe logo. The Adobe logo is prominent and is located at the top left corner of the pop-up window. The login form has fields for email and password, and a \"Download\" button.",
+        "Url": "https://nuevavidacancun.org/wp-case/INV/pdf-viewdocument-RD328/pdf-viewdocument-RD328/index.html"
+    },
+    {
+        "Folder Hash": "f909ff398120bf4e82978474bd06aa1912f934215ea8c704c261dffe1ddea599",
+        "Brand": "Meta (Facebook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Name, Phone, Email, Business Email",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a Meta logo at the top left corner. The screenshot is of a form requesting personal information such as name, phone number, and email address, as well as a business email address. There is a \"Continue\" button at the bottom of the form.",
+        "Url": "http://reply-form-4598389f.surge.sh/"
+    }
+]

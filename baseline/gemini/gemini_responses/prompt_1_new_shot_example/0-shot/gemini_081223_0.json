@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "01638ae0dc7e29a8ede96acc0a53462a9c237337947c92fc6e999874b16f1ed0",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login with Facebook",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Meta logo and branding. It also has a login form that asks for user credentials. The call-to-action button says \"Log in with Facebook\".",
+        "Url": "http://www.meta-verification-account.com/"
+    },
+    {
+        "Folder Hash": "01e3764de51e9bfe02eac08e0553062df40b1d2417946d44b2845ef97b54fa04",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Surface Pro 9, Shop for Surface devices, Shop Xbox games and consoles, Choose your Microsoft 365, Shop for students, Save up to 45%, Give the best value in gaming, Xbox Series X, Elevate your game, Maximise the everyday with Microsoft 365, Save up to 54% for Business, New Surface Hub 3 for Business, Empower teamwork anywhere with Microsoft Teams, Visual Studio 2022, Securely stream your Windows experience from the Microsoft cloud to any device.",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Microsoft logo and branding prominently displayed at the top of the page. The overall design and layout of the page is consistent with other Microsoft webpages. The page also has links to other Microsoft products and services, such as Office 365, Windows, and Xbox.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "107a7fa971d69bec4efe75dea4d4b35154a2eb4ae8ab0c7ad9a4d7c8b60105c1",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "http://ff.member.garenac.vn/6gdv8steci2g9ugktcelh3f2qfei9mdgqltfoargvchfkpzsjovqqf7khxouwwv66vrs8nzdltwozcmbswi4up1vnw7zugxd69jo_index#/"
+    },
+    {
+        "Folder Hash": "197297d6c50230f38b61e92b970c2b266ad9bbf473803c86d7ff428af7dec598",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a list of cryptocurrency wallets. The Coinbase logo is prominently displayed at the top of the page. The page also has a search bar and a list of categories of cryptocurrency wallets.",
+        "Url": "https://eaupourtous.org/.W.con/connect/index.html"
+    },
+    {
+        "Folder Hash": "6b2e4fe7ff3ca135107a74e14fc64718544dd3f620e5f6ec4954b557d41e07f4",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the USPS logo, the words \"United States Postal Service\", and the tracking number. The page also has links to other USPS pages, such as the Informed Delivery page and the FAQs page.",
+        "Url": "http://usps.redelivery-team.com/change/address/"
+    },
+    {
+        "Folder Hash": "6fa375c42beb8e87266b9158811f9bb47cdb02d07811c0c2fb59cf093a035160",
+        "Brand": "Raiffeisen Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo of Raiffeisen Bank is clearly visible at the top left corner of the webpage. The page also contains the contact details of two Raiffeisen Bank employees, including their phone numbers and email addresses.",
+        "Url": "https://www.rsvmgmbh.at/de/unsere-standorte/rb-radstadt---radstadt.html"
+    },
+    {
+        "Folder Hash": "77331e825854d01d14053bbd16f9bf6c1f320e444ebe3fdad11faa83d8ad25a3",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It also has fields asking for user credentials such as tracking number. Additionally, it has a call-to-action button labeled \"Continue\".",
+        "Url": "https://www.chile-correos.net/tracking.php"
+    },
+    {
+        "Folder Hash": "9bdc437a5ce39170b69c447ac568d28bc601366a730914ea0a6388b718dd1ace",
+        "Brand": "Correos",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Iniciar Sesion, Registrarme",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Correos, which is a Spanish postal service company. The webpage also has a login form where users can enter their email address and password. There is also a call-to-action button that says \"Iniciar Sesion\".",
+        "Url": "https://www.correos.es/es/es/particulares"
+    },
+    {
+        "Folder Hash": "b2c2602bf9e95c34de6a217a2b5be8c43117b5fbf560d50645681439b71c2c37",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In, Start Your Free Trial",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Netflix logo and trademark. The page is asking for user credentials such as email and password. It also has call-to-action elements such as \"Sign In\" and \"Start Your Free Trial\".",
+        "Url": "https://utkyfact.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "c37c8a733cd9948c78d6c7360a86a4dabc25d9d8aee58cfe59d32091c8f31140",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of a WhatsApp group chat. The green logo and the name \"WhatsApp\" at the top of the screen are clear indicators of the brand.",
+        "Url": "https://titiai.c505.net/"
+    },
+    {
+        "Folder Hash": "d4d12522a9030821e91898cf86c59b883d33a65721a1cc40921b4f88e5206952",
+        "Brand": "Google",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Google logo and the search bar, which are distinctive features of the Google homepage. Also, the brand name is located at the bottom of the page. There are no fields asking for user credentials or call-to-action buttons.",
+        "Url": "https://verify-2t8fi.web.app/"
+    },
+    {
+        "Folder Hash": "d66e51748c07a20ac4c078bf618e193b9bb7fc17fa1001bfaab31760a9d5c1ae",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "GABUNG KE GROUP",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a WhatsApp group chat. The green color scheme, the logo, and the overall layout are all consistent with the WhatsApp brand. Additionally, the presence of the call-to-action button \"BERGABUNG KE GROUP\" further confirms that this is a WhatsApp group chat.",
+        "Url": "https://dibfi29.nag4.com.tr/"
+    },
+    {
+        "Folder Hash": "e27fd1f5be9fc4e1115c2769f3b5cc040d5a0309adc6d38f1296b387f50ebf53",
+        "Brand": "Shopify",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact customer support",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a minimalist design with a clean white background and a simple message stating that the website is not found. The only other element on the page is a link that says \"Contact customer support.\" The overall design and layout of the page is consistent with Shopify's branding and\u98a8\u683c. Additionally, the error message \"Website not found\" is a common error message that is displayed when a website is not found on Shopify's platform.",
+        "Url": "https://assensionelle-de25a4.ingress-haven.ewp.live/wp-content/plugins/nwdp/pages/region.php"
+    },
+    {
+        "Folder Hash": "ea52f36be08773f32bb15fa48b0c2416dec700f1c2903c4924441496469d40af",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Amazon logo at the top left corner. The overall layout and design of the webpage is similar to the Amazon website.",
+        "Url": "https://amazon.svips.today/home"
+    },
+    {
+        "Folder Hash": "ebea84b66fc7b417e1fc599440983e7a62295bfa738271238cc0f250deeae0b0",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Install Steam, Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Steam\" is displayed on the top left corner of the webpage. The screenshot also contains a form asking for \"Username\" and \"Password\". The green button below the form says \"Login\". These are all strong indicators that the webpage is a login page for a service called \"Steam\".",
+        "Url": "https://alihk.steamproxy.cc/"
+    }
+]

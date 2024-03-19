@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The page is also hosted on telegram.org, which is the official domain for Telegram.",
+        "Url": "https://www.tbxjly.com/"
+    },
+    {
+        "Folder Hash": "1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53",
+        "Brand": "Libero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "phone number, email",
+        "List of Call-To-Actions": "save, cancel",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Libero logo at the top left corner. The page title is \"Recupero credenziali\". The page has fields asking for phone number and email address. The page has two buttons labeled \"Annulla\" and \"Salva\".",
+        "Url": "http://ip170.ip-51-89-105.eu/verifica.php"
+    },
+    {
+        "Folder Hash": "1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a",
+        "Brand": "Videotron",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": "",
+        "Url": "https://videotronmaill.weebly.com/"
+    },
+    {
+        "Folder Hash": "31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b",
+        "Brand": "Trust Wallet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "http://trustwallet.masdubai.com/"
+    },
+    {
+        "Folder Hash": "3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding prominently displayed at the top. The overall design and layout of the webpage is consistent with Telegram's branding guidelines.",
+        "Url": "https://telegram-com-zhcn.pages.dev/"
+    },
+    {
+        "Folder Hash": "4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Webmail\" in the tab of the window, and \"Webmail\" is also written on the upper left corner of the login box. The login box has fields for username and password, and a button that says \"Sign In\".",
+        "Url": "http://bafybeif263mizfzroy53si3dt7jafhzmwf33bx27v4qx7biqfknpfkiuvy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Coinbase Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Coinbase logo and branding. The page also has a call-to-action button that says \"Get Coinbase Wallet\".",
+        "Url": "https://www.coinbasewalletty.com/#/"
+    },
+    {
+        "Folder Hash": "834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5",
+        "Supporting Evidence": "",
+        "Url": "https://mealyfulloptimization.midwaveventure.repl.co/"
+    },
+    {
+        "Folder Hash": "ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2",
+        "Brand": "365bet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, Email, Phone Number",
+        "List of Call-To-Actions": "Register, Login, Download APP",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has the logo of 365bet, which is a well-known online gambling company. The webpage also has fields asking for user credentials, such as username, password, email, and phone number. Additionally, the webpage has call-to-action buttons, such as \"Register\", \"Login\", and \"Download APP\".",
+        "Url": "https://896e365.com/#/"
+    },
+    {
+        "Folder Hash": "fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d",
+        "Brand": "Bank of Ireland",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Date of Birth, Phone Number",
+        "List of Call-To-Actions": "Continue, Forgot User ID, Security Concerns",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Bank of Ireland logo and branding. It also has a form asking for user credentials such as username, date of birth, and phone number. There is a call-to-action button that says \"Continue\". The URL of the webpage is \"boi.com\", which is the domain for Bank of Ireland.",
+        "Url": "https://personal365-transact.com/"
+    }
+]

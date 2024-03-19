@@ -63,12 +63,12 @@ class GeminiProVisionBaseline:
 
     def generate_zero_shot_prompt(self):
         prompt_file_path = os.path.join("baseline", "gemini", "prompts")
-        system_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, "system_prompt_2.txt"))
+        system_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, "system_prompt.txt"))
         chain_of_thought_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, "chain_of_thought_prompt.txt"))
         reponse_format_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, "response_format_prompt.txt"))
 
-        #return f"{system_prompt}\n\n{chain_of_thought_prompt}", f"\n\n{reponse_format_prompt}"
-        return f"{system_prompt}", f"\n\n{reponse_format_prompt}"
+        return f"{system_prompt}\n\n{chain_of_thought_prompt}", f"\n\n{reponse_format_prompt}"
+        #return f"{system_prompt}", f"\n\n{reponse_format_prompt}"
     
     def generate_prompt_example(self, index):
         example_file_path = os.path.join("baseline", "gemini", "prompt_examples")

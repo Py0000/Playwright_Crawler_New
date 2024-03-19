@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "01638ae0dc7e29a8ede96acc0a53462a9c237337947c92fc6e999874b16f1ed0",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login page with the Meta logo prominently displayed. The Meta logo is distinct with a blue lowercase \"m\" symbol, which is well-recognized as part of Meta's suite of professional tools. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background.",
+        "Url": "http://www.meta-verification-account.com/"
+    },
+    {
+        "Folder Hash": "01e3764de51e9bfe02eac08e0553062df40b1d2417946d44b2845ef97b54fa04",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Microsoft logo prominently displayed. The Microsoft logo is distinct with four colored squares arranged in a specific pattern, which is well-recognized as the logo for Microsoft. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "107a7fa971d69bec4efe75dea4d4b35154a2eb4ae8ab0c7ad9a4d7c8b60105c1",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password, Create new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the login page of Facebook with its distinctive blue logo with white lowercase letters. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text \"Facebook helps you connect and share with the people in your life.\"",
+        "Url": "http://ff.member.garenac.vn/6gdv8steci2g9ugktcelh3f2qfei9mdgqltfoargvchfkpzsjovqqf7khxouwwv66vrs8nzdltwozcmbswi4up1vnw7zugxd69jo_index#/"
+    },
+    {
+        "Folder Hash": "197297d6c50230f38b61e92b970c2b266ad9bbf473803c86d7ff428af7dec598",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "View All Wallets",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The image shows a webpage with a list of cryptocurrency wallets. The Coinbase logo is at the top left corner of the image. \"View All Wallets\" button is at the bottom center of the image.",
+        "Url": "https://eaupourtous.org/.W.con/connect/index.html"
+    },
+    {
+        "Folder Hash": "6b2e4fe7ff3ca135107a74e14fc64718544dd3f620e5f6ec4954b557d41e07f4",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Track, Modify shipping address, Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the USPS Informed Delivery page with its distinctive blue logo with white letters. The logo is located at the top left of the webpage, just above the main text \"USPS Tracking\". The tracking number, tracking updates, and other USPS services are clearly visible on the page.",
+        "Url": "http://usps.redelivery-team.com/change/address/"
+    },
+    {
+        "Folder Hash": "6fa375c42beb8e87266b9158811f9bb47cdb02d07811c0c2fb59cf093a035160",
+        "Brand": "Raiffeisenbank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "Login, Create Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Raiffeisenbank logo at the top left corner. The logo is distinct with a red cross and a blue background. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://www.rsvmgmbh.at/de/unsere-standorte/rb-radstadt---radstadt.html"
+    },
+    {
+        "Folder Hash": "77331e825854d01d14053bbd16f9bf6c1f320e444ebe3fdad11faa83d8ad25a3",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the USPS tracking page with its distinctive blue logo with white letters. The tracking number is also visible on the page. The page has a call-to-action button that says \"Continue\".",
+        "Url": "https://www.chile-correos.net/tracking.php"
+    },
+    {
+        "Folder Hash": "9bdc437a5ce39170b69c447ac568d28bc601366a730914ea0a6388b718dd1ace",
+        "Brand": "Correos",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "See shipping rates, Track a shipment, Find a location, Buy stamps",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with white and red accents. The Correos logo is at the top left corner of the page. The logo is in red and blue and has the words \"Correos\" and \"Chile\" in white. The rest of the page is filled with images and text about the company's services.",
+        "Url": "https://www.correos.es/es/es/particulares"
+    },
+    {
+        "Folder Hash": "b2c2602bf9e95c34de6a217a2b5be8c43117b5fbf560d50645681439b71c2c37",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign-up, Get Started, Watch Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct with a large \"N\" in red and the rest of the letters in white. The words \"Sign-up\", \"Get Started\", and \"Watch Now\" are also prominently displayed on the page. These are all clear indicators that the webpage is associated with Netflix.",
+        "Url": "https://utkyfact.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "c37c8a733cd9948c78d6c7360a86a4dabc25d9d8aee58cfe59d32091c8f31140",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://titiai.c505.net/"
+    },
+    {
+        "Folder Hash": "d4d12522a9030821e91898cf86c59b883d33a65721a1cc40921b4f88e5206952",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Next, Forgot Password, Create Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a minimalist design with a Google logo at the center. The logo is distinct with a blue \"G\" and red \"o\", followed by the word \"oogle\" in blue. The logo is placed at the top of the login box, which is centered on the screen. The login box has two text fields, one for email or phone number and the other for password. Below the text fields, there are two buttons, one blue and one white. The blue button says \"Next\" and the white button says \"Forgot Password\".",
+        "Url": "https://verify-2t8fi.web.app/"
+    },
+    {
+        "Folder Hash": "d66e51748c07a20ac4c078bf618e193b9bb7fc17fa1001bfaab31760a9d5c1ae",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://dibfi29.nag4.com.tr/"
+    },
+    {
+        "Folder Hash": "e27fd1f5be9fc4e1115c2769f3b5cc040d5a0309adc6d38f1296b387f50ebf53",
+        "Brand": "N/A",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "N/A",
+        "List of Call-To-Actions": "N/A",
+        "Confidence Score": "0",
+        "Supporting Evidence": "The screenshot does not contain any logos, trademarks, or other identifying features. There are no fields asking for user credentials, and there are no call-to-action buttons or links. The only text on the screen is \"Website not found,\" which does not provide any clues as to the brand of the webpage.",
+        "Url": "https://assensionelle-de25a4.ingress-haven.ewp.live/wp-content/plugins/nwdp/pages/region.php"
+    },
+    {
+        "Folder Hash": "ea52f36be08773f32bb15fa48b0c2416dec700f1c2903c4924441496469d40af",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Home, Order, Service, Mine",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a banner with the Amazon logo at the top. The logo is a stylized \"A\" with an arrow pointing from the A to the Z. The colors used in the logo are orange, black, and white. The webpage also has a search bar, which is a common feature of Amazon's website.",
+        "Url": "https://amazon.svips.today/home"
+    },
+    {
+        "Folder Hash": "ebea84b66fc7b417e1fc599440983e7a62295bfa738271238cc0f250deeae0b0",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Create a Steam account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Steam. The Steam logo is clearly visible in the top left corner of the page. The login form has fields for username and password. The \"Login\" button is also visible.",
+        "Url": "https://alihk.steamproxy.cc/"
+    }
+]

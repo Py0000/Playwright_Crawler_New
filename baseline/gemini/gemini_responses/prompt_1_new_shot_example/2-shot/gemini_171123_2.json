@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Track Another Package, FAQs",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white USPS logo at the top left corner. The logo is an eagle with the letters \"USPS\" below it. The words \"USPS Tracking\" are in the center of the page. Below that, there is a tracking number field and a button that says \"Track Package\". The page also has links to other USPS pages, such as \"FAQs\" and \"Help\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address/Login ID, Password",
+        "List of Call-To-Actions": "Sign In, Forgot your password?",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the login page of DHL with its distinctive yellow and red logo. The credentials and buttons can be seen on the screenshot. The logo is located at the top left corner of the webpage, just above the main text \"DHL\".",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "Members 1st",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "SIGN-IN",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Members 1st at the top left corner. The login form has labels for Username and Password. The submit button says SIGN-IN.",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Verify Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a Facebook-branded page with a padlock icon. The text on the page indicates that the user's account has been restricted and will be locked after 48 hours. The user is prompted to verify their account by clicking the \"Verify Account\" button. The page also includes a link to the Facebook Help Center.",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Orange\" on the top left corner, which is the company's name. The logo is also present on the right corner of the header. The fields asking for credentials are labeled \"Email Address\" and \"Password\". The call-to-action button is labeled \"Sign In\".",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "Metamask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or Email, Password",
+        "List of Call-To-Actions": "Unlock, Sign in with Ledger, Create a Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login page with the Metamask logo prominently displayed. The Metamask logo is distinct with a fox symbol, which is well-recognized as a cryptocurrency wallet. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background. The page also has a QR code which is commonly used for logins on the Metamask mobile application.",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a prominent logo of cPanel at the bottom right corner. The login form consists of fields for email address and password, along with a \"Log In\" button. The \"Reset Password\" link is also present below the login button. The overall design and layout of the webpage is consistent with cPanel's branding and style.",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "b152ab1f314e8508af30123e4907f67ac1657d02dca13a358679d6452c92bf2e",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tracking Number, Full Name, Street Address 1, Street Address 2, City, State, Zip Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the USPS logo at the top left corner of the page. The logo is in blue and has the words \"USPS\" in white. The page also has the words \"USPS Tracking\" in blue at the top center. The page has fields for entering a tracking number, as well as a button that says \"Track Package\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/standard-shipping/"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tracking Number, Full Name, Street Address 1, Street Address 2, City, State, Zip Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the USPS logo at the top left corner, along with the words \"USPS.COM\" next to it. The logo is distinct with its blue and red colors, and the words \"USPS.COM\" are in a dark blue color. The main text on the page says \"USPS Tracking\u00ae\", indicating that this is a page for tracking USPS packages. The page also has fields for entering a tracking number and other information, as well as a button that says \"Continue\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, email, or mobile, Password",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the login page of Yahoo with its distinctive purple logo with the word \"Yahoo!\" in white. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text \"Sign in using your Yahoo account\".",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1dd0c1f7539926d5de978334a85bf888b354fe7562d70e2db225b88b66b95612",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Orange logo at the top left corner. The page also has a title \"Orange\" and \"Messagerie\". The page has fields asking for user credentials like email address and password. It also has a call-to-action button \"Sign In\".",
+        "Url": "https://identifiez-vous08.hubside.fr/"
+    },
+    {
+        "Folder Hash": "295e747dadcb8721180a22558c01ec4070ffa6eb9f17b8ce619b3eb9346addeb",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Hier geht's zur Ihrer Bank",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand logo of Volksbanken Raiffeisenbanken is clearly visible in the top left corner of the screenshot. Additionally, the words \"Volksbanken Raiffeisenbanken\" are also present in the top left corner. The screenshot also contains a login form with fields for a username and password. The call-to-action button is labeled \"Login\".",
+        "Url": "https://prosodix.com/.well-known/17704/Login.html"
+    },
+    {
+        "Folder Hash": "40ecb74ec815c943b3cb17e7f56cc3acbcd52c7981d23c71c047a65d838ab9f4",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://mariomartinezaguilar.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "447ee13c34c2907cf3b9e8a10a97e3c4b17fd2776e21ea2e8e6e683d043a4316",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the bet365 logo and branding prominently displayed at the top. The screenshot also shows a number of fields asking for user credentials, including a username and password. Additionally, there are several call-to-action buttons, including a \"Login\" button and a \"Register\" button.",
+        "Url": "http://nrl688.com/"
+    },
+    {
+        "Folder Hash": "6975b5e5aef785e2c0090af6307fc07857e92f41e2ed43cc3c48e50e9caa85e0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Surface Laptop Studio 2, Shop for Xbox Wireless Controllers, Maximise the everyday with Microsoft 365, Save up to 54%, Get Teams for free, Get the most comprehensive IDE for Windows development, Welcome to your Windows 365 Cloud PC",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot has the Microsoft logo on the top left corner. The Xbox Series X console is displayed prominently on the page, along with other Microsoft products such as the Surface Laptop Studio 2 and the Xbox Wireless Controllers. The \"Shop now\" button is also visible on the page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "6bb2cc568067b517b177e9c705af145a8c6273391f4287fafb1e0dccfc401d08",
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Email, Phone Number",
+        "List of Call-To-Actions": "Buy Now, Chat Together",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the Codashop website, which is a website that allows users to purchase in-game currency for various games. The website has a blue and white color scheme, and the logo is a white circle with the word \"Codashop\" in blue. The screenshot shows that the user is on the page for purchasing in-game currency for the game Mobile Legends: Bang Bang. The page has a form that the user needs to fill out in order to purchase the in-game currency. The form asks for the user's username, email address, and phone number. There is also a button that says \"Buy Now\" that the user needs to click in order to complete the purchase.",
+        "Url": "https://jjoingrupwhastapp.ktt55.my.id/mobile-legends/index.php"
+    },
+    {
+        "Folder Hash": "8a7adf77466cef0fc8dde857892143a066055e9462fe229d11e2a38e6a31d2fa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://waliderprint69.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "94edd0f6e0a96a44e6f967355303b830ad5b467b036415bede9646ad22c4571f",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://page-meta-support-id88594936.pages.mus.br/19"
+    },
+    {
+        "Folder Hash": "a7ff7179ebdc42e3298d3428a58517118b9a41b43897369bfbe2fb86046ce9a8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://prashantkmr389.github.io/netflix_clone/"
+    },
+    {
+        "Folder Hash": "d11faf0e41a2339470a2d495463bdf51e2665f65552e94fdff0f473cee9a2aac",
+        "Brand": "bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://pakket-bpost-be.web.app/"
+    }
+]

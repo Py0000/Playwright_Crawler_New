@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "337a147d29d18b0caa7f287224ab0a390f2cee3998f359e54a3519c6f37167c2",
+        "Brand": "Spotify",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or username, Password",
+        "List of Call-To-Actions": "Log In, Sign Up For Spotify",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a green background with a white Spotify logo at the top center. Below the logo, there is a login form with fields for email address or username and password. There is a green \"Log In\" button below the login form. Below the \"Log In\" button, there is a link that says \"Forgot your password?\". At the bottom of the page, there is a link that says \"Don't have an account? Sign up for Spotify\".",
+        "Url": "https://cpanel17wh.bkk1.cloud.z.com/~cp042619/spoofi/Issued/settings/"
+    },
+    {
+        "Folder Hash": "45f284227bba96cfab6ef3b88c3e197510fc75454f7cd50b58b3abe3cde13bd7",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login screen with the Apple logo prominently displayed. The Apple logo is distinct with a bitten apple symbol, which is well-recognized as the logo of Apple Inc. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background. The words \"Iniciar sesi\u00f3n con ID de Apple\" (\"Sign in with Apple ID\" in English) are displayed above the login box. Below the login box, there is a checkbox labeled \"Mantener sesi\u00f3n abierta\" (\"Keep me signed in\" in English) and a link that says \"\u00bfOlvidaste tu ID de Apple o la contrase\u00f1a?\" (\"Forgot your Apple ID or password?\" in English).",
+        "Url": "https://suscripcion-myldevicelocation.com/isignesp.php"
+    },
+    {
+        "Folder Hash": "50d9a9dd5fb90c7bb7bf9e2d8e6160aec2af9cd32c5738d292994f348a51e776",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. Inside the white box, there is a black \"Steam\" logo with a white outline. Below the logo, there are two text fields, one labeled \"Username\" and the other labeled \"Password\". There is a blue button below the text fields that says \"Sign In\". To the right of the text fields, there is a QR code with the Steam logo in the center. The webpage also has a black header with the words \"Steam\", \"Store\", \"Community\", \"About\", and \"Support\" in white text. The header also has a green button that says \"Install Steam\" and a drop-down menu that says \"language\".",
+        "Url": "https://steamcorumunity.ru/gift/765625724239673548-auth"
+    },
+    {
+        "Folder Hash": "52ab62fa37550e58c5431661bc5b3dfc99232c8ef84a7dd428dcdec994fa88a3",
+        "Brand": "BT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent BT logo at the top right corner, which is a well-known trademark of the British telecommunications company. The page also has a login form with fields for BT ID or email address and password. There is a \"Sign in\" button below the login form. The overall design and layout of the webpage is consistent with other BT webpages.",
+        "Url": "https://btconnectfilesecureinboxbthomelogindropbopsdnebackboxpdf.weebly.com/"
+    },
+    {
+        "Folder Hash": "6a3df72d7a1feb4cc61dbd4a3f8fac326842330ac0607183730d02db2206a3b7",
+        "Brand": "Dropbox",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "View Document",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a login page with the Dropbox logo prominently displayed at the top right corner. The Dropbox logo is distinct with a blue box with an open top, which is well-recognized as a cloud storage and file sharing service. Below the logo is a form with two input fields, one for email address and one for password. There is a blue button below the form that says \"View Document\". The overall design of the page is clean and simple, with a white background and blue accents, which is consistent with Dropbox's branding.",
+        "Url": "https://doc-drop-box.weebly.com/"
+    },
+    {
+        "Folder Hash": "7cc458d21b98539d4a42d271da2e6778e45dc866cba2af10ed1545d801d30445",
+        "Brand": "DANA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone number",
+        "List of Call-To-Actions": "Sign-up button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a DANA logo at the top left corner. The center of the page has a form asking for user credentials such as email or phone number. There is also a call-to-action button that says \"Lanjutkan\" (Continue).",
+        "Url": "https://claim-hadiah-dana.vip-resmi.my.id/"
+    },
+    {
+        "Folder Hash": "83892b58a772494ee0981a624bf9922cc60b4f5f20f3f0c138b04931e8908706",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "H\u00e4mta i butik, Via Post",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage screenshot shows a page from Amazon. The Amazon logo is clearly visible at the top of the page. The page is offering a gift card and has two buttons, one that says \"H\u00e4mta i butik\" and the other that says \"Via Post\".",
+        "Url": "https://seaz2.getthis4free.com/start_225.html"
+    },
+    {
+        "Folder Hash": "c42d928f7e87d5658451bdf8b60447c40dd7059699031b4edcdebd7c1867b1ff",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a yellow banner with the DHL logo on the left and \"Singapore\" on the right. The DHL logo is distinct with red and yellow letters, which is well-recognized as a global logistics company. The banner also has a search bar and a \"Help and support\" link. Below the banner, there are three tabs: \"Home\", \"Ship\", and \"Track\". The \"Register\" and \"Login\" buttons are located on the top right corner of the page.",
+        "Url": "http://socialmediaconsultant.ae/public/pZsPXuMZl74EGYJ7h2WqEQl0DxBrvEyp"
+    },
+    {
+        "Folder Hash": "c492d060c45876a020df1747b7d636958a7c93fd92ed1f1eadb6ef5b8379be68",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows the Intuit logo, which is a stylized \"I\" with a square containing four smaller squares of different colors. The logo is in the upper right corner of the screenshot. The screenshot also has a login form with fields for a username and password. There is a \"Sign In\" button below the login form.",
+        "Url": "https://dev.vanira.co/wp-admin/intu/quickbooks.com-secure-qbo/quickbooks/"
+    },
+    {
+        "Folder Hash": "fd096d15c4f378b726a3bb3b530dc452216ed3d427a5778dc0a63a90a206b86d",
+        "Brand": "Spectrum",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Spectrum logo at the bottom left corner. The Spectrum logo is distinct with a stylized \"S\" in blue and red, which is well-recognized as the logo of the telecommunications company. The logo is positioned at the bottom left corner of the login box, which itself is centered on the screen against a white background. Additionally, the text \"Charter Communications\" is displayed at the bottom of the page, which is the parent company of Spectrum.",
+        "Url": "https://basis.org.ua/sites/all/themes/omega/alpha/chartererror/error.php"
+    }
+]

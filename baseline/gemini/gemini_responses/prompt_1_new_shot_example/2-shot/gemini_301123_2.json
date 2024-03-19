@@ -1,0 +1,123 @@
+[
+    {
+        "Folder Hash": "0c6cdf65f3a54872a8645d6981048dd06f994e84199a219301a73387b6952740",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook Login",
+        "List of Call-To-Actions": "Log in with Facebook",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a Meta logo. The Meta logo is a blue circle with a white lowercase \"m\" in the center. The logo is located at the top center of the webpage, just above the main text \"Log in to access your professional tools.\" The screenshot also shows a \"Log in with Facebook\" button. The button is located in the center of the webpage, just below the main text. The button is blue with white text.",
+        "Url": "https://meta-account-setting.com/"
+    },
+    {
+        "Folder Hash": "11a58351b0b0c1ae68e1675f31ac5531f4e94511384c4ee26b0edede65bef2ae",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo, which is a well-known streaming service. The logo is in the top left corner of the page, and the page has a red background. The page also has a large banner image with the text \"Unlimited movies, TV shows and more. Watch anywhere. Cancel anytime.\" The page also has a text field where users can enter their email address to get started. The page also has a button that says \"Get Started\" which is a call-to-action button.",
+        "Url": "https://crazew.github.io/simply/"
+    },
+    {
+        "Folder Hash": "1e0f39c1715d2002bfbb33bd3895276fec0827a2185710ef756477d9be67d588",
+        "Brand": "Stake",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Username, Password",
+        "List of Call-To-Actions": "Sign In, Forgot Password",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green and black theme with a large banner advertising \"Stake\" as an online casino and sports betting platform. The screenshot shows a registration form with fields for email or username and password, as well as a \"Sign In\" button. The presence of the \"Forgot Password\" link and the \"Sign In with Facebook or Google\" buttons further suggests that this is a login page.",
+        "Url": "https://playstakecom.web.app/"
+    },
+    {
+        "Folder Hash": "2c6d6ea5b4d25c0b56b452c33cae300793881b4de0086ece59ea7a62eaa07eb8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct with a large \"N\" in red and \"etflix\" in white. The webpage also has a large banner image below the logo. The banner image shows a scene from a movie or TV show. The webpage has a menu bar at the top with links to different sections of the website. The menu bar has a search bar in the middle. The webpage also has a footer with links to different sections of the website. The footer has a copyright notice at the bottom.",
+        "Url": "https://09ta.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "3bd85627c716e638b3fae2ef502f2d12379d065d247e19d30dc2764ca1b0e0e2",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Like, Follow, Subscribe, Join",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the home page of PUBG Mobile, a popular battle royale game. The PUBG Mobile logo is displayed prominently at the top of the screen, and the background image is a screenshot from the game. The call-to-action buttons are for liking the game's Facebook page, following the game on Twitter, subscribing to the game's YouTube channel, and joining the game's Discord server.",
+        "Url": "https://bey.help-page-reviev.my.id/"
+    },
+    {
+        "Folder Hash": "49ab6cb01928dfd2e0a8bb6a4ed49d5039c3c67cb1687484305d38a7134b29fe",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Facebook, Twitter, Youtube, Instagram, VK, Discord",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the home page of PUBG Mobile, a popular battle royale game. The PUBG Mobile logo is clearly visible at the top of the screen, and the game's distinctive user interface is also evident. The call-to-action buttons are for social media platforms and Discord, which are all used to connect with other players and share game content.",
+        "Url": "https://ha33.krafton-news.com/"
+    },
+    {
+        "Folder Hash": "51fa830e14d1dc51ccef9415d4f3f0358b0ad7293c262429376c6f84b91d7248",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct and easily recognizable. The page has a prominent call-to-action button that says \"Get Started\" and a \"Sign In\" link, both of which are commonly used on Netflix's website.",
+        "Url": "https://shrestha-tripathi.github.io/netflix-html-clone/"
+    },
+    {
+        "Folder Hash": "593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register, Download App",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green and white color scheme, with the bet365 logo at the top left corner. The logo is a green circle with the word \"bet365\" in white text. The webpage has a number of different sections, including a sportsbook, a casino, and a poker room. The sportsbook section has a list of different sports that can be bet on, as well as a list of upcoming events. The casino section has a list of different casino games that can be played, such as slots, blackjack, and roulette. The poker room section has a list of different poker games that can be played, such as Texas Hold'em and Omaha.",
+        "Url": "http://19960721.com/"
+    },
+    {
+        "Folder Hash": "8292dd540a9633426a81fb85249f8ada78cc34cff3874d7b01b25946cd938349",
+        "Brand": "GBWhatsApp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Download, Sign Up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the words \"GBWhatsApp\" and \"WhatsApp\" on its title bar. The logo of WhatsApp is also visible on the top left corner of the webpage. The webpage is about downloading GBWhatsApp, a modified version of WhatsApp. There is a form on the webpage that asks for the user's email address and password. There is also a button on the webpage that says \"Download\".",
+        "Url": "https://gbwhats.in/"
+    },
+    {
+        "Folder Hash": "8fc80c306751cc61ba1d29b890f14e147914e2cfe4f73919ef2b046571847a68",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The DPD logo is clearly visible at the top left corner of the webpage. The screenshot also shows the company's name, \"DPD\", in the title bar. The overall visual elements such as the color scheme, fonts, and layout are consistent with DPD's branding.",
+        "Url": "https://neu.planen.lieferung.4-235-113-82.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "974e84c16ee32ec67387d7f4a9d965592681486393150f23b299ae0037ce7cb0",
+        "Brand": "Itau Unibanco",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPF, Email, Password",
+        "List of Call-To-Actions": "Acessar, Criar conta",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with the Itau logo at the top left corner. The logo is a stylized blue \"i\" with a green square in the middle. The text \"Itau\" is written in white below the logo. The main content of the webpage is a form with fields for CPF, email, and password. There is a button that says \"Acessar\" (Portuguese for \"Access\") next to the form. The webpage also has a link to create a new account.",
+        "Url": "https://rafael3590.github.io/"
+    }
+]

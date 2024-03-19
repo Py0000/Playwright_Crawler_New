@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login page with the Microsoft 365 logo prominently displayed. The Microsoft 365 logo is distinct and is well-recognized as part of Microsoft's suite of productivity and collaboration tools. The logo is positioned at the top left corner of the login box, which itself is centered on the screen against a white background. The page also includes a banner with the text \"Microsoft 365 for business\", which further supports the identification of the brand.",
+        "Url": "https://sites.google.com/amricalturs.net/download4/microsoft-office-365"
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch the event",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a product landing page for Apple's new MacBook Pro and iMac. The Apple logo is prominently displayed in the top left corner of the page, and the words \"MacBook Pro\" and \"iMac\" are displayed in large font sizes at the top and center of the page, respectively. The page also features a video that showcases the new products, as well as a \"Watch the event\" button that invites users to learn more about the products.",
+        "Url": "https://www.apple.com/uk/"
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start, Facebook, Twitter, Youtube, Instagram, VK, Discord",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the home page of PUBG Mobile. The PUBG Mobile logo is prominently displayed at the top left corner of the screen. The background image is a car. There are several buttons on the screen, including \"Start\", \"Facebook\", \"Twitter\", \"Youtube\", \"Instagram\", \"VK\", and \"Discord\". The \"Start\" button is the most prominent button on the screen. It is located in the center of the screen and is surrounded by a yellow border. The other buttons are located at the bottom of the screen. The \"Facebook\", \"Twitter\", \"Youtube\", \"Instagram\", \"VK\", and \"Discord\" buttons are all social media buttons. They allow users to share their PUBG Mobile experience with their friends and followers. The \"Start\" button is the only call-to-action button on the screen. It is likely that this button will take users to the game's main menu.",
+        "Url": "https://pubgmobilecorporationevents.klikdisini2023.my.id/"
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains a Weebly logo, two input fields, and a blue button. The Weebly logo is prominent and is a registered trademark. The input fields are labeled \"Email\" and \"Password\", indicating that this is a login page. The blue button is labeled \"Sign In\", indicating that this is a call-to-action button.",
+        "Url": "https://mail-102784.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "8367d843344f32ddf9b77e6f2c55b26d1a7c0298d61f1348cc15bef4759e90da",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Business",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Microsoft logo and branding. The page is advertising Microsoft's Surface Laptop Studio 2. There is a prominent call-to-action button labeled \"Pre-order now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Instagram logo at the top center. The Instagram logo is distinct with a camera icon and a wordmark, which is well-recognized as a photo-sharing social media platform. Below the logo, there are two text fields, one labeled \"Email or Phone\" and the other labeled \"Password\". These fields are commonly used to collect user credentials for login purposes. There is also a blue button labeled \"Log In\" which is a common call-to-action for login pages. Additionally, the webpage has a \"Forgot Password?\" link below the login button, which is a common feature on login pages.",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Amazon logo at the top left corner. The logo is distinct with an \"a\" and an arrow symbol, which is well-recognized as the trademark of Amazon. The logo is positioned at the top left corner of the page, which is a common placement for logos on e-commerce websites. The page also has a search bar, which is a common feature on e-commerce websites. The search bar is located at the top of the page, which is a common placement for search bars on e-commerce websites. The page also has a list of products, which is a common feature on e-commerce websites. The products are listed in a grid format, which is a common way to display products on e-commerce websites. The page also has a navigation bar at the top of the page, which is a common feature on e-commerce websites. The navigation bar contains links to different pages on the website, such as the home page, the product pages, and the checkout page. The page also has a footer at the bottom of the page, which is a common feature on e-commerce websites. The footer contains information about the company, such as the contact information and the privacy policy.",
+        "Url": "https://www.amazon258.top/"
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "monday.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains the monday.com logo, two input fields, and a blue button. The logo is a blue \"m\" with a white outline. The input fields are labeled \"Username\" and \"Password\". The button is labeled \"Sign in\". The overall design of the webpage is clean and professional, and it is consistent with the branding of monday.com.",
+        "Url": "http://pub-b2955bd5cc5a447cba7f9017e8915538.r2.dev/webmail.html"
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "Hubstaff",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green background with a white box in the center. The white box contains a Hubstaff logo, a text field for email, a text field for password, and a green button that says \"Login\". The Hubstaff logo is a green circle with a white \"H\" in the center. The email text field has a placeholder text that says \"Email Address\". The password text field has a placeholder text that says \"Password\". The green button has a white \"Login\" text.",
+        "Url": "https://bitbaink.web.app/login"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Claim Instantly",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Axis Bank logo prominently displayed at the bottom left corner. The Axis Bank logo is distinct with a blue and red symbol, which is well-recognized as one of India's largest private banks. The logo is positioned at the bottom left corner of the page, while the main content of the page is about an offer for an Amazon Pay e-gift card worth 500 rupees. The page has two call-to-action buttons: \"Unlock Benefit\" and \"Claim Instantly\".",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    }
+]

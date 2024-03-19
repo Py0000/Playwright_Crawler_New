@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a Microsoft login page with the Microsoft logo and branding. The page has a blue background with a white box in the center where users can enter their credentials. The \"Next\" button is blue and located at the bottom of the box.",
+        "Url": "https://zksfechaduras.com.br/huyeambnaduiyadmbnasiuasmnad798iqenmas87/dcfo/"
+    },
+    {
+        "Folder Hash": "3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Microsoft logo prominently displayed. The Microsoft logo is distinct with four colored squares arranged in a specific pattern. The logo is positioned at the top left corner of the login box, which itself is centered on the screen against a white background. The text \"Sign in\" is displayed below the login box, along with two text fields for entering a username and password.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Track Shipment",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a DHL webpage with its distinctive red and yellow logo. The DHL logo is clearly visible at the top left corner of the webpage. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu"
+    },
+    {
+        "Folder Hash": "8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Sign In, Create an Adobe ID",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with the Adobe logo at the top left corner. The logo is in red and white, with the word \"Adobe\" in a stylized font. The page has a blue background. The center of the page has a form with two fields: \"Email Address\" and \"Password\". Below the form, there is a blue button that says \"Sign In\". To the right of the button, there is a link that says \"Create an Adobe ID\". The overall design of the page is clean and simple. The use of the Adobe logo and the presence of the \"Sign In\" button indicate that this is a webpage associated with Adobe.",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo prominently displayed at the top left corner of the page. The logo is a red and black \"N\" with a tagline that says \"Unlimited movies, TV shows, and more.\" The page also has a large banner image that shows a variety of popular movies and TV shows available on Netflix. The banner image is accompanied by a text that says \"Watch anywhere. Cancel anytime.\" The page also has a section that shows a list of popular movies and TV shows, as well as a section that allows users to create a profile for kids. The page also has a section that answers frequently asked questions about Netflix.",
+        "Url": "https://clement-lotus-mollick.github.io/Netflix-Clone-FC/"
+    },
+    {
+        "Folder Hash": "ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c",
+        "Brand": "Bilibili",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Bilibili. The Bilibili logo is a white rabbit with a red scarf, which is prominently displayed at the top center of the login box. The login box has fields for email and password, and a red button that says \"Sign-in\". The page also has a link to create a new account.",
+        "Url": "https://www.bilibili.com/"
+    },
+    {
+        "Folder Hash": "cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\u0110\u0103ng Nh\u1eadp (Login)",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Garena Free Fire logo at the top center. The logo is distinct with a red background and a white \"Garena Free Fire\" text. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://www.ff.members.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    },
+    {
+        "Folder Hash": "cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in, Help, Start your free month",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct with a large \"N\" in white and a smaller \"netflix\" in red underneath it. Below the logo, there is a form with two input fields, one for email and one for password. There is also a button that says \"Sign in\". The overall design and layout of the webpage is consistent with the Netflix brand.",
+        "Url": "http://www.netflix.ayuda-telefonica.com/"
+    },
+    {
+        "Folder Hash": "daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct with a large \"N\" in white with a red outline. The text \"Netflix\" is in white below the \"N\". The webpage also has a large black button that says \"Get Started\" in the center of the page. The button has a white outline. The webpage also has a link that says \"Sign In\" in the upper right corner of the page.",
+        "Url": "https://sakshishakya.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3",
+        "Brand": "Dynamic Home Buyers",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact Us, Get a Free Offer, Apply Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the company logo, contact details, and a form to request a free offer. The overall layout and design of the webpage is consistent with the company's branding.",
+        "Url": "https://www.sellmyhomefastohio.com/"
+    }
+]

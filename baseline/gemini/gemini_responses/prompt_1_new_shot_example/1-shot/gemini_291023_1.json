@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "039fe99cdabd53ecfa4c892d2b8093bf71cf0fd2ae28cb14f1e973de3ba27e42",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a Microsoft OneDrive login page. The OneDrive logo is displayed at the top left corner of the page. The page has a text field prompting the user to enter their email address. There is a \"Next\" button below the text field. The presence of the OneDrive logo, the email text field, and the \"Next\" button indicate that this is a Microsoft OneDrive login page.",
+        "Url": "https://bafybeifenqc5dv5bp3wibnrukqjx334bouavrzelldan26fl6oittcb2aa.ipfs.w3s.link/officeonedrivehtml.html"
+    },
+    {
+        "Folder Hash": "1cb807ee63a662404e46ea6773adc630950b5689a7f09616e0a5d378959dadb5",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a webmail login form. The \"Webmail\" logo is displayed at the top of the form. The form has fields for entering a username and password. There is a \"Sign in\" button below the form.",
+        "Url": "https://mailwebserveraccessverificationacessmailacessswebsbusiness.pages.dev/"
+    },
+    {
+        "Folder Hash": "42db5c12cf9057611ba542a86d8bbe1b605233dba88906be02f4cfd94d6eb31c",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Microsoft Office 365 logo prominently displayed. The logo is distinct with four squares of different colors and the words \"Microsoft Office 365\" below it. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background. The presence of the \"Sign in with Office 365 to view document\" text further confirms that this is a Microsoft Office 365 login page.",
+        "Url": "https://bafkreicr7z4zdpsydblclljmo3qaqvjgtrgyoltyqxzbanaroapf5fndmu.ipfs.dweb.link/"
+    },
+    {
+        "Folder Hash": "522fd03f71fd385aca3d8aa1a340afafd4659ba221520dd7c221594a53daafe3",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Telegram",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Telegram, which is a messaging app. The logo is in the shape of a blue circle with a white airplane inside. The word \"Telegram\" is written in a stylized font below the logo. The webpage also has a green button that says \"Download Telegram\". The button is located in the center of the page.",
+        "Url": "https://www.zh-telegram.net/"
+    },
+    {
+        "Folder Hash": "5a7ce2c8b28da72760e7f2573991b0fb9995036f458ef058c5d7b46ab770f6a4",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Redeem, OK",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo at the top left corner, which is a battle royale game developed by Tencent Games. The logo is distinct with a white background and a red and black PUBG logo. The screenshot also shows a list of items that can be redeemed using in-game currency. The \"Redeem\" button is the call-to-action button.",
+        "Url": "https://espelhorosa.com/hanon/b/"
+    },
+    {
+        "Folder Hash": "8a551d2519b6ff84103d775267a67c771ec8a899a56c2118303df11b098b8433",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with a large MetaMask logo at the top center. The logo is distinct and easily recognizable. The page also has a blue background, which is consistent with MetaMask's branding. In the middle of the page, there is a button that says \"Connect Wallet\". This button is also consistent with MetaMask's branding.",
+        "Url": "http://maskdex.net/"
+    },
+    {
+        "Folder Hash": "a501574c9ac4e30ab3c7ce28a875132ff141b9b28bed5054fb1dab11edd0e3cf",
+        "Brand": "Canva",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a black background with a centered login box. The Canva logo is displayed at the top center of the login box. The login box has two input fields, one for username and one for password. There is a blue button below the input fields that says \"Sign in\". The overall design and layout of the webpage is consistent with Canva's branding.",
+        "Url": "http://bafkreieoagxmj5ssouxuk7vuolq72npprkvd5vp6s3mnk2f6xztz73dayy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "a9d437c88ade222d1cff3ea572212a1917fec939036ea1a6da8e5f4857999d88",
+        "Brand": "Park National Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More, Continue, Sign Up, Enroll Now, Apply Now, Meet the Team, Careers, Contact Us",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Park National Bank at the top center. The Park National Bank logo is distinct and easily recognizable. The webpage also has the words \"Park National Bank\" written in text at the top left corner. The colors used on the webpage are consistent with the Park National Bank branding. The layout and design of the webpage is also consistent with the Park National Bank website.",
+        "Url": "https://gattaranmis.com/index.html"
+    },
+    {
+        "Folder Hash": "e27377a39368ab6ec8bb1d4e7e5b50fc8caf25919074f3bddef7ce617ef35273",
+        "Brand": "OpenSea",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Claim Airdrop, Connect",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of OpenSea at the center top of the page. The logo is distinct and easily recognizable as it is widely used across the platform. The blue background and the overall layout of the page also match with OpenSea's branding. Additionally, the \"Claim Airdrop\" button and \"Connect\" button are consistent with OpenSea's platform.",
+        "Url": "https://opensea-nft.eu.org/1OTlqMGo3qAIAsAIA.htm"
+    },
+    {
+        "Folder Hash": "e5a9aec7b156e79a429c9596cf78f718ff0e346a555ae6b20a7d98e4994e712b",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://pub-9d425aa9335c4307a502c0721d499bdd.r2.dev/7MSoutlook4.html?/cpsess0355843576/frontend/jupiter/filemanager/editit.htmlfile=send.php&fileop=&dir=/home/fishvoez/public_html&dirop=&charset=&file_charset=utf-8&baseurl=&basedir=&edit=1"
+    }
+]

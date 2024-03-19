@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1bc24aeff90db5aa1a3e53e00ea5d7b1a3ebbe58bc68d7e77008617c16851f69",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Pre-order, Learn More, Get Started, Sign Up, Join Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store. The brand name \"Microsoft\" is displayed prominently at the top left corner of the page, and the page is full of products that can be purchased from the Microsoft Store. The call-to-action buttons are also clear and easy to identify.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "1cd0dbd45cc37ebf6eb2f4fb3dba22ee61b04015e6c0709981976f600d82f0af",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button, Register now link",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of PUBG Mobile. The PUBG Mobile logo is prominently displayed at the top of the screen. The login form has fields for username and password. There is a \"Login\" button below the login form. There is also a \"Register now\" link below the \"Login\" button.",
+        "Url": "https://goodeat12.eventfree.de/"
+    },
+    {
+        "Folder Hash": "2652bcee0aeaf8fb0d8c70e5ee1a4c79b2c884b99d9f64ae19e428e0bee518b0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent red Netflix logo at the top left corner. The logo is widely recognizable and associated with the Netflix brand. The page also has a large section with a title \"Frequently Asked Question\" and a form where users can input their email address to get started. The \"Sign In\" button is also indicative of a login page.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "52a14d8528acc72b4ed6e7793fe341a8aa84711925ee3bf80707b238e7f772d4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Pre-order, Learn More, Get Started, Sign up for free, Download Now, Try it today",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store. The Microsoft Store is an online store owned and operated by Microsoft. The store sells a variety of products, including computers, software, games, and accessories. The screenshot shows the home page of the Microsoft Store. The home page features a carousel of featured products, as well as links to different categories of products. The screenshot also shows the search bar, which can be used to search for specific products.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "79dd2bd59fab3bde710517c9528ac5a279f8d5380d21e55df6bfebac0c44977b",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Hier geht's zur Ihrer Bank",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white header and a blue footer. The header contains the logo of Volksbanken Raiffeisenbanken, which is a German financial services provider. The body of the webpage contains a search bar, a menu, and a carousel of images. The footer contains links to the bank's social media pages and a copyright notice. The webpage is likely to be a landing page for the bank's website.",
+        "Url": "http://puchem-international.com/.well-known/64394/Login.html"
+    },
+    {
+        "Folder Hash": "7b226573de1568a0182cc870e9eefab06d506c979bba734e0b8cf66fe4ee1798",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct and easily recognizable. The page has a form with fields for email. There is a call-to-action button that says \"Get Started\".",
+        "Url": "https://darsandinesh.github.io/Netflix_Clone/"
+    },
+    {
+        "Folder Hash": "b62094a01946c3c1aab9c6300e05f34310d50ecc3b63823db6e890e2d77256a7",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone, Skype",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login page with the Microsoft logo prominently displayed. The Microsoft logo is distinct with four colored squares arranged in a block. Below the logo, there is a text input field that says \"Email, phone, or Skype\". This is a clear indication that the user is being prompted to enter their credentials to sign in to their Microsoft account. The \"Next\" button below the text input field is a call-to-action button that the user needs to click in order to proceed with the login process.",
+        "Url": "https://microsoftsupport.be/en/connect/?email=3mail@b.c&secret=dxhaxuE5KtdQAcReEzKYY0eKJkHpA556Ueeb"
+    },
+    {
+        "Folder Hash": "c62dacc4a2a1f3b5eb142353bee0ecff811e5f43b1234b2775757a3cd8227d73",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Netflix logo at the top center. The logo is distinct and easily recognizable. The page also has a blue background, which is consistent with Netflix's branding. The page has a form where users can enter their email address to get started. The page also has a call-to-action button that says \"Get Started\".",
+        "Url": "https://rajithteja04.github.io/Netflix-Home-Page-Clone/"
+    },
+    {
+        "Folder Hash": "c8123d8101a7c3d9bdd8d0dc730cea4c58025b101613fe7e0db20ad72ab1e4be",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign-up, Sign-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo prominently displayed at the top center of the page. The logo is distinct and easily recognizable. The page also has a blue background, which is consistent with Netflix's branding. The page has fields asking for user credentials, such as email and password. It also has a call-to-action button that says \"Sign-in\".",
+        "Url": "https://atharva5522.github.io/Netflix-project/"
+    },
+    {
+        "Folder Hash": "dc9d05a407242d2a7cae23e50be4e41682fb138bb5a5f7829917f198df2417c1",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box has the cPanel logo at the bottom right corner. The logo is in blue and white and has the words \"cPanel\" written in a stylized font. The center of the white box has two input fields, one for the email address and one for the password, and a blue button that says \"Log In\". Below the button is a link that says \"Reset Password\". The top right corner of the white box has a drop-down menu with several language options.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeidoii6rv43yd4duuure2kdyneon7cu5oughg76cfsb4m3yz4asflq/"
+    }
+]

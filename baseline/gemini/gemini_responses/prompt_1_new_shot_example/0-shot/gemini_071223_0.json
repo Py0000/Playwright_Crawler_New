@@ -1,0 +1,200 @@
+[
+    {
+        "Folder Hash": "443e348efc0dd9a57294017aa719612d4b8bad8cf910de2d65a7fccf46da9978",
+        "Brand": "Autopay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://erick-parkin-g-phrkhraphr240894.codeanyapp.com/v/"
+    },
+    {
+        "Folder Hash": "4ebe79efdd74eb44ac55942655656692be2092b47b0d4f771159ee70bf493827",
+        "Brand": "EE",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Sign up",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has the EE logo at the top left corner, as well as the EE branding and logo at the bottom of the page. The page also has fields asking for user credentials such as email and password, and there is a call-to-action button that says \"Login\".",
+        "Url": "https://ee.co.uk/"
+    },
+    {
+        "Folder Hash": "4ffcd0d3cbbe6da700af99a7bb423b6b685f8521da8f0929433e53a42df56c5e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Surface Pro 9, Shop for Xbox games and consoles, Choose your Microsoft 365, Shop for students, Save up to 45%, Give the best value in gaming, Xbox Series X, Elevate your game, Maximise the everyday with Microsoft 365, Save up to 54% Discover the best deals on select Surface devices for business and enjoy extra benefits like extended warranty., Empower teamwork anywhere with a Surface Hub 3 for Microsoft Teams., Visual Studio 2022, Security stream your Windows environment with a Windows 365 Cloud PC.",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Microsoft 365\" in the top left corner. The page is selling different Microsoft products, including the Surface Pro 9, Xbox Series X, and Microsoft 365. The page also has links to other Microsoft products and services, such as the Microsoft Store, Windows, and Office.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "50af37149df8da3b62036075920cbcb8ab859f8174ec6765c15a0107eaabc825",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://intanmaharanis.github.io/"
+    },
+    {
+        "Folder Hash": "5d5d5bcfeea2f3cd9d88a55fd682a478932471fea6f5309ec74321e64fb8a6e4",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://fjso.c505.net/"
+    },
+    {
+        "Folder Hash": "74dbd4e989c661f940b5b9e27431590b3fe2ce581760834105eee41e22d7ea41",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in, Discover",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Credit Agricole logo and branding. The page also has fields asking for sensitive user credentials such as username and password. Additionally, there is a call-to-action button labeled \"Sign in\".",
+        "Url": "https://dev-decvredagriipaste.pantheonsite.io/coordination-seminarialgricolor/96684/"
+    },
+    {
+        "Folder Hash": "76cc57a5db53d4df8eabec068e5d0cee4f782a1198ef9fb0f807f97379cefe27",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Office 365 webpage. The Microsoft logo and branding are clearly visible at the top of the page. The page is also consistent with the overall look and feel of other Microsoft webpages.",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "88be6a5b95c6236166d7cd8385ed16577b9e6d90399739d36df464cbec565129",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "4",
+        "Supporting Evidence": "",
+        "Url": "https://ebay-gjds.com/home"
+    },
+    {
+        "Folder Hash": "8918a59007b5a6844975e1b04c520c6a092a47f0416b03ad95cdcf90af11889b",
+        "Brand": "Vanilla",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://gabe.vanillademo.com/"
+    },
+    {
+        "Folder Hash": "94fcf79e0cbb96f2a4bffeaf29b071220cccc23ed571ef4f0c69143fcc666967",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed in the header and throughout the page. The page is also hosted on the microsoft.com domain. The overall design and layout of the page is consistent with other Microsoft webpages.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9f99f677a3c41f624405769a8639d5b121a6e62f5076e56c5270494d899aca30",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://news2023yacsanp.gxscv.com/vhsfhqpdhdxih1"
+    },
+    {
+        "Folder Hash": "b01b5f23356ac1c1e93b0d3db4ed6dd922e8e3bcace1eb5c61cd92088a6d66a6",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding prominently displayed at the top. The overall design and layout of the webpage is consistent with Telegram's branding guidelines.",
+        "Url": "https://tg-telegram.club/tg_zh/index.html"
+    },
+    {
+        "Folder Hash": "cc832d45a1f2ca2f216bba2d2507b35e2481aeb17f139d31e3e2b0f795349c5c",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://valonez.com/"
+    },
+    {
+        "Folder Hash": "d7f4f19eaf8bb7f16ff6272c7ada47414be5231d9b08dc6fe9383bdc1495aa5f",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of the Microsoft Office 365 webpage. The Microsoft logo is clearly visible in the top left corner of the page. The page is branded with Microsoft's colors and typography. The page is also consistent with Microsoft's other webpages in terms of layout and design.",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "ddf790ee2e8890b5451ba172487800c8aa3e5344900564de05778ed4f7c2fab0",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://news2023yacsanp.gxscv.com/vhsfhqpdhdxih1/"
+    },
+    {
+        "Folder Hash": "e10ca01e5a3e07c072226ac9b10121ee24df21fcc270a0b8e9013146663128e7",
+        "Brand": "365bet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, Verification Code",
+        "List of Call-To-Actions": "Register, Login, WeChat Login, QQ Login, Customer Service",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of 365bet, which is a well-known online gambling company. The webpage also has fields asking for user credentials, such as username, password, and verification code. Additionally, there are call-to-action buttons, such as \"Register\", \"Login\", \"WeChat Login\", \"QQ Login\", and \"Customer Service\".",
+        "Url": "https://www.bet1267.com/home"
+    },
+    {
+        "Folder Hash": "e148e2e30e5671767f5f33a65ede07e89f2c5d4039f23d33bd8cf3caf98a89ec",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding prominently displayed at the top. The overall design and layout of the webpage is consistent with Telegram's branding guidelines.",
+        "Url": "https://telegram-zh.biz/tg_zh/index.html"
+    },
+    {
+        "Folder Hash": "fa4a9254cab55d5c0471f3a312113c92f5d7a0a3401845dc2925094803ec540a",
+        "Brand": "GoShare",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://h5.shippinghero.vip/index.html#/pages/active/active?inviter=2263326"
+    }
+]

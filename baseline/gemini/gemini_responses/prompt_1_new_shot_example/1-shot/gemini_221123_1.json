@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect Wallet",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a cartoon ghost wearing a hat in the center. The ghost is holding a wrench and there is a text saying \"Please connect your wallet\". Below the text, there is a blue button that says \"Connect Wallet\". The top right corner has a button that says \"Connect Wallet\" as well. The top left corner has the Aave logo.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "1132d513064f9cbd06d4a67e55d71d05de1b057a83e53bf890fbe38cb7d3ee96",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo at the top left corner, which is a well-known streaming service. The page has a prominent \"Sign In\" button in the center, prompting the user to enter their credentials. The page also has a link that says \"Create new account\", which indicates that the user can create a new account if they do not have one.",
+        "Url": "https://kshravyab.github.io/Movies/"
+    },
+    {
+        "Folder Hash": "6a6851eb5446ab402cd5df390b32a4ab9ee1953460ace99c4968db255a548ec8",
+        "Brand": "Creagidem",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Creagidem logo at the top. The login form has the Creagidem logo and the words \"Identifiez-vous\" (which means \"Identify yourself\" in French) above it. The form has fields for the username and password, and a \"Se connecter\" (which means \"Connect\" in French) button.",
+        "Url": "https://tools.creagidem.com/moncrea"
+    },
+    {
+        "Folder Hash": "862efcc8c7ec1760df8267cc7383033998b03b9c29826ae99dd610da799d80ca",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now, See all offers, Learn more, Buy now, Pre-order, Try now, Sign up for free, Start your free trial, Explore AI solutions",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a prominent Microsoft logo at the top left corner. The overall design and layout of the page is consistent with other Microsoft webpages. The page also has several links to other Microsoft products and services. In the center of the page, there is a large banner that says \"Black Friday Sale\" with a link to shop now. Below the banner, there are several other sections of the page, each of which is dedicated to a different product or service. The page also has a footer with links to Microsoft's social media pages and other information.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "97b410d0e17b4bb3f6bafe57b4d5e84b3e4aa44ddfa17bd5a84277fb46e5b6f2",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains the MetaMask logo, a stylized fox, and the words \"MetaMask Sign In\". Below the logo, there are two text fields, one labeled \"Username\" and the other labeled \"Password\". There is also a blue button that says \"Sign In\". The overall design and layout of the webpage, as well as the presence of the MetaMask logo, indicate that this is a MetaMask login page.",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "a5730957b4e0e813dd1209a8ec64d9b6df5c428b3d4488be4387bd59800af9ba",
+        "Brand": "Freehold Properties",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Back to Homepage",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a logo of Freehold Properties at the top left corner. The logo is distinct with a crown symbol and the words \"Freehold Properties\" below it. The webpage also has a navigation bar with the following items: Buy, Rent, Off-Plan, Developers, Communities, Property Management, About us, and Contact us. The call-to-action button is \"Back to Homepage\" in the middle of the page.",
+        "Url": "https://freeholdproperty.ae/wp-admin/x8z9.php?el20=3mail@b.c"
+    },
+    {
+        "Folder Hash": "aa4b884cba268415bc04deb704a5f32e40fbfd5b3631dd89c1cf4540a9c38b4e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, See Price, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store, which is an online retail store owned and operated by Microsoft. The store sells a variety of products, including computers, software, games, and accessories. The screenshot shows the store's home page, which features a carousel of featured products, as well as links to different product categories. The Microsoft logo is prominently displayed in the top left corner of the page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c0fde17683b2fe017214e7a1ab39cbad6538adaa4fe41ab082060ea15c557eb9",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a OneDrive webpage. The OneDrive logo is prominent at the top left corner of the page. The page displays a blue background with a search bar and a \"New\" button at the top. The main section of the page shows a grid of files and folders, with options to sort and filter the files. The \"Shared Libraries\" section on the left side of the page shows a list of shared libraries and the \"Shared Files\" section shows a list of recently shared files. The \"Get the OneDrive apps\" section at the bottom of the page shows links to download the OneDrive apps for various platforms.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmbSH4QTBtodXn7AWC9ajietCHNcLowXxf2JRiSf3Ei4aW"
+    },
+    {
+        "Folder Hash": "c1a2ca3a66d8fc408ad6daf129d1f8b2ddd415f1847c296a703cc6678215e450",
+        "Brand": "Savastano",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of \"Savastano\" at the top center. The login form consists of fields for username and password, with a \"Forgot Password\" link below. There are two buttons below the login form, one says \"Login\" and the other says \"Register Now\". The overall design and layout of the webpage is consistent with the branding of Savastano.",
+        "Url": "https://savasten0.cc/"
+    },
+    {
+        "Folder Hash": "c60ac9f23b634af849beeddc946b34f83f160bfdc16583b49891fe8e05863d36",
+        "Brand": "My Blog",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has \"My Blog\" written on the top left corner. The overall layout of the webpage is also consistent with a blog post.",
+        "Url": "https://leieem.com/"
+    },
+    {
+        "Folder Hash": "d56f0a4a5a40034440ee541393dbd687b94006938378b554e4133abfae523e75",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, See Price, Learn More",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a product landing page with the Microsoft logo prominently displayed at the top left corner. The Microsoft logo is distinct with four colored squares arranged in a specific pattern, which is well-recognized as the logo of Microsoft Corporation. The page features a large banner with the text \"Black Friday Sale\" and a prominent call-to-action button that says \"Shop Now\". The page also has other sections with products such as the Surface Laptop, Surface Pro, and Xbox, each with their own call-to-action buttons.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "dabac25b314a758b2ade58de5be3f6790a2ced935d0f4cfd8fc8cba694f571c9",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white login box in the center. The login box has the word \"Webmail\" at the top, along with an \"@\" symbol. Below the logo, there are two input fields, one for the email address and one for the password. There is also a checkbox that says \"Remember me\" and a blue button that says \"Login\". The overall design of the webpage is simple and straightforward, and it is clear that the purpose of the page is to allow users to log in to their webmail account.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihnecv6xgkb7axyv3tbhulcl7yt5t2gmhs5xgfxxfikqdcoil73d4"
+    },
+    {
+        "Folder Hash": "e330ef7a7761bf403e97ad9d57f54e18bbeb3009f04fa0d13ab42e38abd6a9ff",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Netflix, which is a well-known streaming service. The logo is located at the top-left corner of the page. The page also has a large banner image that features the text \"Watch your favorite shows and movies online\" and a prominent red button that says \"Join now\". Additionally, the page has a section that says \"Create profiles for kids\", which indicates that the service is suitable for families.",
+        "Url": "https://akkpk.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "e88468e8a894aefeb45f8c645e4e0569690eef94fb824a72f7e85084dc1ab0f7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Netflix logo at the top left corner. The logo is distinct and easily recognizable. The webpage also has a large banner with the text \"The biggest Indian hits. Ready to watch here from \u20b9149.\" This suggests that the webpage is related to Netflix India. The webpage also has a section called \"Frequently Asked Questions\" which provides information about Netflix's services. All these factors indicate that the webpage is related to Netflix.",
+        "Url": "https://kadamgp.github.io/Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "f683e0a45ed2b3f48f9faf760b64c4af39f817f18bbdbf994204edacd34952c0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now, Buy now, See price, Learn more, Start your free trial, Sign up for free",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a product landing page with the Microsoft logo prominently displayed at the top left corner. The Microsoft logo is distinct with four colored squares arranged in a specific pattern. The squares are red, green, blue, and yellow, representing the company's diverse range of products and services. The logo is well-recognized and associated with Microsoft. The landing page features a large banner with the words \"Black Friday Sale\" and a prominent \"Shop now\" button, indicating that the page is intended to promote Microsoft's products and services during the Black Friday sales event. The page also features a variety of products, including the Xbox Series X, Surface Laptop Studio, and Microsoft 365. Each product is accompanied by a brief description and a \"Shop now\" button. The overall design and layout of the landing page is consistent with Microsoft's branding and follows the company's design guidelines.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    }
+]

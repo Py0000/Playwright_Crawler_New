@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "0bca8942073f3cda1ad34f63177b283e28e211f50e21038730a809c3ea8e933c",
+        "Brand": "La Nacion",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Subscribe, Newsletter Signup, Change Edition, App Store, Play Store",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the home page of La Nacion, a Costa Rican newspaper. The newspaper's logo is prominently displayed at the top left corner of the page. The screenshot also shows a subscription form on the right side of the page. The form asks for the user's name, email address, and phone number. There are also two call-to-action buttons on the page: one that says \"Subscribe\" and another that says \"Change Edition\".",
+        "Url": "https://oilindex360ai.com/BacOilIndexCR/?s2=b1e029cb-1d86-4ce4-8c97-69388d134a94"
+    },
+    {
+        "Folder Hash": "1e653b57b5b1f62dbaa2f949f87ce51b7b4a8d94dc4fc9c149a262f1b2ee9f3b",
+        "Brand": "QUOTEX",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Password",
+        "List of Call-To-Actions": "Sign up, Log in, Open a demo account, Start trading",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of the QUOTEX trading platform. The QUOTEX logo is clearly visible in the top left corner of the page. The screenshot also shows a number of other features of the platform, including a list of tradable assets, a trading chart, and a number of buttons and links that allow users to trade and manage their accounts.",
+        "Url": "https://qxbroker.com/en?click_id=w80f774kbi5kdjet2v43vjl6&lid=312156"
+    },
+    {
+        "Folder Hash": "226fb4f65f988f02bed4cbfac152cb8e0a19abae7f822b19cf0c4c5982671ee7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "Start your membership, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page. The Netflix logo is clearly visible at the top left corner of the page. The page has fields for email and password, and a \"Sign In\" button. The \"Start your membership\" button is also visible on the page.",
+        "Url": "https://afsalmadathingal.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "2610fbcd3135759cc0a2f27c879c0d5463be8758102081e0a21bfca904ae1c1e",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Install Steam",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Steam. The Steam logo is clearly visible in the top left corner of the page. The login form has fields for username and password. The \"Login\" button is clearly visible and indicates that the user will be able to log in to their Steam account by entering their credentials.",
+        "Url": "https://steam.guesskings.com/profiles/76561199240493541"
+    },
+    {
+        "Folder Hash": "621a990bdb89d4e09b8b7f222c80c1d55c8d703c23a2a4966ae0bba6cac4e8f9",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More, Get Started, Contact Sales",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a Coinbase webpage with a blue background and white text. The Coinbase logo is at the top left corner of the page. The page has three main sections. The first section has the title \"Discover the Digital Assets Potential of your Institution\", the second section is titled \"Our Mission\", and the third section is titled \"Investment Strategies\". The \"Our Mission\" section has three subsections, titled \"Diversified digital strategies\", \"Customized solutions\", and \"Rigorous research & due diligence\". The \"Investment Strategies\" section has five subsections, titled \"Bitcoin & Ethereum Strategies\", \"Digital Credit\", \"Digital Opportunistic\", \"Digital Trend\", and \"Infrastructure Solutions\". The page has a footer with the Coinbase logo, the words \"Coinbase Asset Management\", and the address \"1302 Atlantic Ave, Suite 300, Alameda, CA 94501\".",
+        "Url": "https://www.coinbaseam.com/"
+    },
+    {
+        "Folder Hash": "77305d5087d7405654a611ef67b62743e3372ea8a26f690741daa0fe543c7f4d",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Facebook, Youtube, Instagram, Discord, VK",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of PUBG Mobile, a popular battle royale game. The PUBG Mobile logo is prominently displayed at the top of the screen, and the background image is a screenshot from the game. The page features a number of call-to-action buttons, including links to the game's social media pages and a button to download the game.",
+        "Url": "https://dulliusimoveis.com.br/links/pubg-skin-V6/jj1saghf.php"
+    },
+    {
+        "Folder Hash": "7dac5511e01177dc662ff6960bf72382e2c1002c1e22b6932ac743e2821f439e",
+        "Brand": "Raiffeisenbank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Benutzername, Passwort",
+        "List of Call-To-Actions": "Anmelden, Registrieren",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Raiffeisenbank\" on the top left corner. It also has a logo of a bull on the top left corner. The colors of the webpage are red and white, which are the colors of Raiffeisenbank. The webpage is in German, which is the language of Austria, where Raiffeisenbank is headquartered.",
+        "Url": "https://www.rsvmgmbh.at/de/raiffeisen-salzburg-versicherungsmakler.html"
+    },
+    {
+        "Folder Hash": "a0c8380fb98b0d75f2e9af31b880b63cb9073592996d2c4824d805c5a478e6f4",
+        "Brand": "Azteca Server",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a logo of a person with a feathered headdress, the text \"Azteca Server\" is displayed below the logo. The background image is of a temple. There is a field asking for email and a button that says \"Sign In\".",
+        "Url": "https://azteca-servermx.top/"
+    },
+    {
+        "Folder Hash": "a2e32821a91e0f9ae959169507de1722d6f7b83a40a5f9a60c0a6bfbeb3e94cd",
+        "Brand": "365BET",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign-in, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white logo that says \"365BET\" in the top left corner. Below the logo, there is a login form with fields for a username and password. There is also a green button that says \"Sign-in\". The webpage also has a link that says \"Register\" which is a call-to-action for users to create an account.",
+        "Url": "https://www.bet988b.com/home"
+    },
+    {
+        "Folder Hash": "a6919b4c98619b0a85e2c88eaedb9050f5c681e80944a478fb5841a2d839733e",
+        "Brand": "PancakeSwap",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Buy CAKE, Trade Now, Earn, NFT, Connect Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a screenshot of the PancakeSwap website. The PancakeSwap logo is clearly visible in the top left corner of the image. The website's main features are also visible in the image, including the ability to trade tokens, earn rewards, and participate in lotteries.",
+        "Url": "https://allenanna.com/"
+    },
+    {
+        "Folder Hash": "baa5fa08c4d62a671adeffb024902d9ed6f61bd2144942a029fbe9af34fde1f9",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign In, Start Your Free Trial",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix homepage with the logo clearly visible in the top left corner. The screenshot also shows the \"Sign In\" button in the top right corner, and the \"Start Your Free Trial\" button in the center of the page.",
+        "Url": "https://atifmoin19.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "c01d518f2c145b1834448b5d7443b9c8924804499bb408a1e383912ff40657fb",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Nh\u1eadn Qu\u00e0 (Claim Reward)",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage screenshot shows a Garena Free Fire in-game event page. The Garena Free Fire logo is prominently displayed at the bottom center of the page. The page is mainly in Vietnamese and has a YouTube video embedded at the top. The event page is offering in-game rewards to players who complete certain tasks. The tasks include watching the YouTube video, inviting friends, and playing the game. The event page also has a call-to-action button that says \"Nh\u1eadn Qu\u00e0\" (Claim Reward).",
+        "Url": "https://nhanqua-booyah.garaena.vn/"
+    },
+    {
+        "Folder Hash": "d04b578cdf567d5a446c5c6ca5c717071aba635b15ce0ea0699f8f826b50994d",
+        "Brand": "M4Markets",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Password",
+        "List of Call-To-Actions": "Create Account, Learn More, Invest",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the M4Markets homepage with its distinctive blue and white logo at the top left corner of the page. The logo is accompanied by the company name \"M4Markets\" in blue text. The homepage features a prominent call-to-action button in the center of the page that says \"Create Account\" with a blue background. The page also has other call-to-action buttons such as \"Learn More\" and \"Invest\" in the top right corner. The overall design and layout of the homepage are consistent with the M4Markets brand.",
+        "Url": "https://www.megaxchange.live/"
+    },
+    {
+        "Folder Hash": "d5330ee1b6a26d09d349e4f5f701361acea837b2cacdf772ef485825234ca8f2",
+        "Brand": "GRUB TERBARU VIRAL 2023",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a group chat on WhatsApp. The group name is \"GRUB TERBARU VIRAL 2023\". There are no fields asking for user credentials or call-to-action buttons/links.",
+        "Url": "http://mail.jjoingroupwhtsaps.crazzy.my.id/"
+    },
+    {
+        "Folder Hash": "e6082ec85f2166997ba7ff1f317b2326f3ebeb9eca3787a2ab657ee5632d2350",
+        "Brand": "Gemini",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "Sign-up, Log-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Gemini logo prominently displayed at the top center of the page. The logo is a stylized representation of two interlocking \"G\"s, one in blue and one in green. The words \"Gemini\" are written in a sans-serif font below the logo. The webpage also has a number of other features that are consistent with the Gemini brand, such as the use of blue and green as the primary colors and the use of a sans-serif font.",
+        "Url": "https://1.greatgreat.monster/"
+    },
+    {
+        "Folder Hash": "e912f60fcb528dfeaf20f77cdc8ced31946543a04ab5be8149397488413e6b40",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Buy Now, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Office 365 landing page with its distinctive blue and green logo. The logo is located at the top left corner of the webpage, just above the main text \"Introducing Microsoft 365\". The call-to-action buttons are located in the top right corner of the webpage. The page is advertising Office 365, a productivity suite that includes applications such as Word, Excel, PowerPoint, and Outlook.",
+        "Url": "https://officehomeprodprv.brazilsouth.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "f5e681d2b4fd98b3591ecdd59623b1656d169896e4fce973a288f7f27c91a55a",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Poste Italiane with its logo at the top center of the page. The logo is a red and blue circle with the letters \"P\" and \"I\" in white. The words \"Poste Italiane\" are written in blue below the logo. The login form has fields for email address and password. The \"Accedi\" button is blue and located below the password field. The \"Non hai un account? Registrati\" link is blue and located below the \"Accedi\" button.",
+        "Url": "http://formato-posta.34-94-5-15.cprapid.com/"
+    }
+]

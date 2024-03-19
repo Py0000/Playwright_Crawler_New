@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "0bca8942073f3cda1ad34f63177b283e28e211f50e21038730a809c3ea8e933c",
+        "Brand": "Teletica",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Subscribe to our newsletter, Change your life today, Apply for credit, See plans and prices",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has the Teletica logo at the top left corner. The call-to-action elements are also consistent with the branding of Teletica.",
+        "Url": "https://oilindex360ai.com/BacOilIndexCR/?s2=b1e029cb-1d86-4ce4-8c97-69388d134a94"
+    },
+    {
+        "Folder Hash": "1e653b57b5b1f62dbaa2f949f87ce51b7b4a8d94dc4fc9c149a262f1b2ee9f3b",
+        "Brand": "Quotex",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Password",
+        "List of Call-To-Actions": "Open Real Account, Demo Account, Sign Up, Log In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Quotex logo at the top left corner and \"Quotex - Innovation Platform\" at the bottom of the page. The screenshot also shows fields asking for email, phone number, and password, and there are call-to-action buttons such as \"Open Real Account\", \"Demo Account\", \"Sign Up\", and \"Log In\".",
+        "Url": "https://qxbroker.com/en?click_id=w80f774kbi5kdjet2v43vjl6&lid=312156"
+    },
+    {
+        "Folder Hash": "226fb4f65f988f02bed4cbfac152cb8e0a19abae7f822b19cf0c4c5982671ee7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://afsalmadathingal.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "2610fbcd3135759cc0a2f27c879c0d5463be8758102081e0a21bfca904ae1c1e",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Install Steam, Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Steam logo. The screenshot shows a user logged into their Steam account. The page has fields asking for user credentials such as username and password. It also has call-to-action buttons such as \"Install Steam\" and \"Login\".",
+        "Url": "https://steam.guesskings.com/profiles/76561199240493541"
+    },
+    {
+        "Folder Hash": "621a990bdb89d4e09b8b7f222c80c1d55c8d703c23a2a4966ae0bba6cac4e8f9",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Coinbase logo and branding prominently displayed at the top. The \"Overview\", \"About\" and \"Education\" links in the navigation bar are also indicative of Coinbase's branding.",
+        "Url": "https://www.coinbaseam.com/"
+    },
+    {
+        "Folder Hash": "77305d5087d7405654a611ef67b62743e3372ea8a26f690741daa0fe543c7f4d",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo at the top left corner. The game's name is also written in the title bar. The screenshot also shows various in-game items and events. The call-to-action buttons are also present in the screenshot, which are used to share the game on social media and invite friends.",
+        "Url": "https://dulliusimoveis.com.br/links/pubg-skin-V6/jj1saghf.php"
+    },
+    {
+        "Folder Hash": "7dac5511e01177dc662ff6960bf72382e2c1002c1e22b6932ac743e2821f439e",
+        "Brand": "Raiffeisen Salzburg Versicherung",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number, password",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Raiffeisen Salzburg Versicherung prominently displayed at the top left corner. The page also has the words \"Raiffeisen Salzburg Versicherung\" displayed at the top center. Additionally, the page has a number of security features, such as a lock icon in the address bar and a security certificate. These features indicate that the page is legitimate and that it is safe to enter personal information.",
+        "Url": "https://www.rsvmgmbh.at/de/raiffeisen-salzburg-versicherungsmakler.html"
+    },
+    {
+        "Folder Hash": "a0c8380fb98b0d75f2e9af31b880b63cb9073592996d2c4824d805c5a478e6f4",
+        "Brand": "Azteca Server",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Iniciar Sesi\u00f3n (Login)",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Azteca Server at the top center. The watermark at the bottom also shows the brand name. The page has fields asking for user credentials such as email. There is a call-to-action button labeled \"Iniciar Sesi\u00f3n\" (Login).",
+        "Url": "https://azteca-servermx.top/"
+    },
+    {
+        "Folder Hash": "a2e32821a91e0f9ae959169507de1722d6f7b83a40a5f9a60c0a6bfbeb3e94cd",
+        "Brand": "365Bet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of 365Bet, which is a well-known online betting company. There are also other elements such as the copyright notice and the terms and conditions link that further indicate that this is a 365Bet webpage. The webpage has fields asking for user credentials such as username and password. It also has call-to-action buttons such as \"Register\" and \"Login\".",
+        "Url": "https://www.bet988b.com/home"
+    },
+    {
+        "Folder Hash": "a6919b4c98619b0a85e2c88eaedb9050f5c681e80944a478fb5841a2d839733e",
+        "Brand": "PancakeSwap",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand logo is clearly visible at the top left corner of the webpage. The overall layout and design of the webpage is consistent with the PancakeSwap branding. The call-to-action buttons and links are also consistent with the PancakeSwap platform.",
+        "Url": "https://allenanna.com/"
+    },
+    {
+        "Folder Hash": "baa5fa08c4d62a671adeffb024902d9ed6f61bd2144942a029fbe9af34fde1f9",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://atifmoin19.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "c01d518f2c145b1834448b5d7443b9c8924804499bb408a1e383912ff40657fb",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows the logo of Garena Free Fire, which is a popular mobile game. The screenshot also shows various in-game items that can be purchased using in-game currency. The presence of these items and the game logo indicate that the webpage is related to Garena Free Fire.",
+        "Url": "https://nhanqua-booyah.garaena.vn/"
+    },
+    {
+        "Folder Hash": "d04b578cdf567d5a446c5c6ca5c717071aba635b15ce0ea0699f8f826b50994d",
+        "Brand": "M1 Exchange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password, phone number",
+        "List of Call-To-Actions": "Learn More, Create Account, Invest, Open Live Account",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of M1 Exchange. The screenshot also contains the words \"M1 Exchange\" in the top left corner. The webpage is about investing and trading. It asks for user credentials such as email, username, password, and phone number. It also has call-to-action buttons such as \"Learn More\", \"Create Account\", \"Invest\", and \"Open Live Account\".",
+        "Url": "https://www.megaxchange.live/"
+    },
+    {
+        "Folder Hash": "d5330ee1b6a26d09d349e4f5f701361acea837b2cacdf772ef485825234ca8f2",
+        "Brand": "GRUB TERBARU VIRAL 2023",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows a group chat on WhatsApp. The group name is \"GRUB TERBARU VIRAL 2023\". There are several messages in the chat, some of which contain links. The call-to-action elements are phone numbers that are displayed as clickable links.",
+        "Url": "http://mail.jjoingroupwhtsaps.crazzy.my.id/"
+    },
+    {
+        "Folder Hash": "e6082ec85f2166997ba7ff1f317b2326f3ebeb9eca3787a2ab657ee5632d2350",
+        "Brand": "Gemini",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Gemini at the top and bottom of the page. The title of the page is \"Gemini\". The page has a form asking for user credentials such as email and phone number. The page has a call-to-action button that says \"ZACZNIJ ZARABIA\u0106\".",
+        "Url": "https://1.greatgreat.monster/"
+    },
+    {
+        "Folder Hash": "e912f60fcb528dfeaf20f77cdc8ced31946543a04ab5be8149397488413e6b40",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of the Microsoft 365 webpage. The Microsoft logo is clearly visible in the top left corner of the page. The page is branded with Microsoft's colors and typography. The page is advertising Microsoft 365, and there are call-to-action buttons to sign up for the free version or to get the mobile app.",
+        "Url": "https://officehomeprodprv.brazilsouth.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "f5e681d2b4fd98b3591ecdd59623b1656d169896e4fce973a288f7f27c91a55a",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "login, register",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The screenshot shows the Poste Italiane logo at the top left corner and in the footer. The page has fields asking for email and password, and there are call-to-action buttons for login and registration.",
+        "Url": "http://formato-posta.34-94-5-15.cprapid.com/"
+    }
+]

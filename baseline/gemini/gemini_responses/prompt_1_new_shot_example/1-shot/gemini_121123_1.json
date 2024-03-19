@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0a803bc306dfb97eceec30a382a69bee6174004adf1b76482ad1bdea0d096824",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "http://sugarcommunications.com/js/fgd/app.hellofax.html"
+    },
+    {
+        "Folder Hash": "27716752b897ff63221e9064d11300ec3122455d9efa2a714bb2130e790c8e3a",
+        "Brand": "First Financial Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the First Financial Bank logo at the top center. The page also has a green checkmark with the text \"Verification Successful\" indicating that the user has successfully verified their information and needs to click the \"Continue\" button to proceed. The \"Continue\" button is the only call-to-action element on the page. The page also has links to the bank's location and privacy policy at the bottom.",
+        "Url": "http://crispyux.design/firstfinancial/complete.php"
+    },
+    {
+        "Folder Hash": "406cdf1183eaa1c92c061d5ce7ac6f2744f73069acd847ce91b5f41e7703e3b3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Password",
+        "List of Call-To-Actions": "Sign-up, Log-in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains the Facebook logo, which is a blue square with a white \"f\" in the center. The logo is located in the top left corner of the white box. Below the logo, there are two text fields. The first text field is labeled \"Numer telefonu kom\u00f3rko\" and the second text field is labeled \"Has\u0142o\". The text fields are followed by a blue button that says \"Zaloguj si\u0119\". The button is located in the center of the white box. The webpage also has a link that says \"Utw\u00f3rz nowe konto\". The link is located in the bottom left corner of the white box.",
+        "Url": "https://handel-wszechstronny.pl/authorize.php/"
+    },
+    {
+        "Folder Hash": "69b52bc74d554b4ecc25b853197f39fe32700768875e8975acf01cb3e6b8720d",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Activer button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The Credit Agricole logo is prominently displayed at the top left corner of the webpage. The page has a green button in the middle that says \"Activer\", which is a call-to-action button. The overall design and layout of the page is consistent with other Credit Agricole webpages.",
+        "Url": "https://convention-securitaire-franc.web.app/"
+    },
+    {
+        "Folder Hash": "74ef921a602a3f5c5cd80ae41948e5e17702974060d6cdb1bc769d774b9485dd",
+        "Brand": "CVS Health",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign On",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent CVS Health logo at the top center. The logo is distinct with a red heart symbol and \"CVS Health\" written in a stylized font below it. The login form consists of two input fields, one for email and one for password. The \"Sign On\" button is blue and located below the password field. The overall design and layout of the webpage is consistent with other CVS Health webpages.",
+        "Url": "https://cvshealth.sharepoint.corp.index.organicbitesindia.com/ext.home/Udlaps/index.php"
+    },
+    {
+        "Folder Hash": "79433408fa3d0788dcecb66ef7c23db6c5d532231240a835fbae3565f8fe92e1",
+        "Brand": "MyGov",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or email, Password",
+        "List of Call-To-Actions": "Sign in, Create a myGov account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the words \"Sign in with myGov\" at the top. Below the words are two input fields for username or email and password. There is a \"Sign in\" button below the password field. The \"Sign in\" button is blue and has a white outline. The webpage also has a link to create a myGov account. The link is blue and has a white underline.",
+        "Url": "https://www.apocsulb.org/g/"
+    },
+    {
+        "Folder Hash": "7f7f2a8823c26ef999fa286173c653c4afdc65497ee3d3ded7011a71603c7dfb",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage has a simple design with a white background and a grey header. There is a logo of a person in the header. Below the logo, there are two input fields, one for email and one for password. There is a \"Log In\" button below the input fields. There is a sentence below the button that says \"This is a very important security measure. To protect your email account, your account may be restricted until you verify your identity.\"",
+        "Url": "https://pub-3bc9161e0ceb4c5397b48936ad7e7bd6.r2.dev/index.html#"
+    },
+    {
+        "Folder Hash": "c96f2c6cc04fbdb0a2c2a31ceabb1acb72ba80fe7c2ee8cb36c00f9d3123fbcb",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number, Password",
+        "List of Call-To-Actions": "Log In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains the Meta logo, which is a blue \"M\" inside a circle. Below the logo, there are two text fields, one for the email address or phone number and one for the password. There is also a blue button that says \"Log In\". The overall design of the webpage is consistent with Facebook's branding.",
+        "Url": "https://pages-adsbusiness-hlp-inf-acc.github.io/omega/manager/#confirm-page-container-navigation"
+    },
+    {
+        "Folder Hash": "dec220c28a735ebf48e95ce79dff38a583630d2c0268104851b385912386161d",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Netflix logo at the top left corner. The logo is distinct and easily recognizable. The rest of the page is a search page with a search bar and a search button. There are no other branding elements on the page.",
+        "Url": "https://subscription-netflix-support.codeanyapp.com/heltsa/jonika/account/paymybill.php"
+    },
+    {
+        "Folder Hash": "f2decee51d9eeeb97312e59052df929f8752b80ffbadbcb26705271c57f986b8",
+        "Brand": "Idaho Central Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Log In, Go to mobile site",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has a prominent logo of Idaho Central Credit Union at the top left corner. The logo is distinct and easily recognizable. The webpage also has a login form with fields for email and password. There is a call-to-action button that says \"Log In\". The overall design and layout of the webpage is consistent with the branding of Idaho Central Credit Union.",
+        "Url": "http://womanizervibrator.nl/ICCU/emailpass.html"
+    }
+]

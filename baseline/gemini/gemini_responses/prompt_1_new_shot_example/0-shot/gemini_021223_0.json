@@ -1,0 +1,145 @@
+[
+    {
+        "Folder Hash": "09ee277d2aff9a289052581dc676c064fe9760816ea6e8b1018bc6d7b92f5178",
+        "Brand": "Revoke.cash",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://datacloudsolutions.org/revoke.cash/web3-connectgpstwhbrwnrxnbfrphhzapwuhmwcesusqxwoeakruplvrvvknmwzlhjjpmiwhnukbuldiwwprdoljeyvwstkuekealyvtugzcstqkrjtpemaoehgeguhzttsgrvjmecjoaiqbblinzwookfqijtsgwplusqioriwusvwb/"
+    },
+    {
+        "Folder Hash": "0bca8942073f3cda1ad34f63177b283e28e211f50e21038730a809c3ea8e933c",
+        "Brand": "Teletica",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Suscribete, Cambiar idioma",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Teletica logo at the top left corner. The screenshot is of a news article, the article has the Teletica logo at the top left corner. The URL contains \"teletica\".",
+        "Url": "https://oilindex360ai.com/BacOilIndexCR/?s2=b1e029cb-1d86-4ce4-8c97-69388d134a94"
+    },
+    {
+        "Folder Hash": "1c98ed6f6ffc07ad9b4f18dc614ea440cd9c094de4c1a7499eeaef11b2c8c0e0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://ebrahemsamir.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "266ff503052a52b3ddcca07c61c2b18ee7ff5e63a117888559547c3088d1f6c2",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "login, register, call us",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Poste Italiane. The page also has a form asking for email and password. There is also a call-to-action button that says \"Accedi\".",
+        "Url": "https://user.poste-it.45-55-199-16.cprapid.com/"
+    },
+    {
+        "Folder Hash": "360f3c20546a4e3cc006b353e5181f68d77284a31d708f3615739a230733a938",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Metamask, Learn More, Shop MetaMask Swag, Receive our Newsletter",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the MetaMask logo and branding prominently displayed at the top. The page also has a large banner with the text \"A crypto wallet & gateway to blockchain apps\" and a prominent \"Download\" button. The overall design and layout of the page is consistent with the MetaMask brand.",
+        "Url": "https://metamask.itoken.cool/"
+    },
+    {
+        "Folder Hash": "45ff05748d601f8e5f3726eab475a164e68599046622d1d96fc7dd022a73c12d",
+        "Brand": "Topup Provider",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://topupprovider.com/"
+    },
+    {
+        "Folder Hash": "539c8b4a4679fde50a1a7481549ecaf743aada20e0e3e06e8362063c49d1d771",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "login, register, chiamaci",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Poste Italiane logo. The page also has fields asking for email and password, and a button labeled \"accedi\".",
+        "Url": "http://www.user.poste-it.45-55-199-16.cprapid.com/"
+    },
+    {
+        "Folder Hash": "78f514de9b20ba8ecf025d84841e56d4d9f40cba61390961314b0c8dee0c88a8",
+        "Brand": "Yoga",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Yoga\" in large letters at the top. The background image is of a woman doing yoga. The page also has a number of other images of people doing yoga. The overall design of the page is simple and clean, and it is clear that the focus is on yoga.",
+        "Url": "https://ftswxdgverifyloiiwcihfg.weebly.com/"
+    },
+    {
+        "Folder Hash": "a6919b4c98619b0a85e2c88eaedb9050f5c681e80944a478fb5841a2d839733e",
+        "Brand": "PancakeSwap",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://allenanna.com/"
+    },
+    {
+        "Folder Hash": "abf00d88a4aa8a0f574cf0dd49164c77bbced32720fb70477a798f01f318e6ff",
+        "Brand": "Transcash",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Payer avec Transcash, S'identifier, Je recharge",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the logo of Transcash, which is a French payment service provider. It also has a field asking for user credentials such as email and password. Additionally, there are call-to-action buttons such as \"Payer avec Transcash\", \"S'identifier\", and \"Je recharge\".",
+        "Url": "http://www.serveurattestation-tabac.com/"
+    },
+    {
+        "Folder Hash": "b06da19f77664c00dfa8f69236dc965d3a6eaa0a91dbadb389fce7256adcdfb1",
+        "Brand": "BV MAAO Exports",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Company Name, Contact Person, Country, Address, City, State, Zip Code",
+        "List of Call-To-Actions": "Contact us, Submit Enquiry",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The BV MAAO Exports logo is clearly visible at the top of the page. The screenshot also contains a number of other branding elements, such as the company's name, address, and contact information. Additionally, the overall look and feel of the page is consistent with the BV MAAO Exports brand.",
+        "Url": "https://bvmaaoexport.com/"
+    },
+    {
+        "Folder Hash": "cdb09796612d3c3d55db6b3f2fa8e10188115d83099022a3882ab91e3b5b96af",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://frontendeveloperanass.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "f04043bfcf4e97078aca5943d41d324989604c00f1b6b182ed8ef1632a88f43c",
+        "Brand": "Unicredit Bulbank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Unicredit Bulbank at the top left corner. The text \"\u0423\u043d\u0438\u041a\u0440\u0435\u0434\u0438\u0442 \u0411\u0443\u043b\u0431\u0430\u043d\u043a\" is also visible at the bottom of the page. The page has fields asking for username and password. The page has buttons labeled \"\u0412\u0445\u043e\u0434\" (Login) and \"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f\" (Register).",
+        "Url": "https://login-bulbank.firebaseapp.com/login_sessionid#ba2a78ef3eaf0cffe9b76fab86c9183d"
+    }
+]

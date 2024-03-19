@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "00a7e08be3d265af166a914357277deda1beafb34234a6de432513642336423a",
+        "Brand": "Societe Generale",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with the words \"Societe Generale\" in white text at the top left corner. The main body of the webpage has a login form with fields for a username and password. The login form also has a button that says \"Sign in\". The webpage also has a link to a page where users can reset their passwords.",
+        "Url": "https://custeur.dnsalias.net/oiuiyutfio/SG%2020/"
+    },
+    {
+        "Folder Hash": "00ce838a0d1b58529670450481eb5bea05913087bbedf40ebab591ad885922b2",
+        "Brand": "Correos",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Seguir",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white header and footer. The Correos logo is in the upper left corner of the header. The Correos logo is a stylized image of a dove with a letter in its beak. The main content of the webpage is a form with four steps: Env\u00edos, Resumen, Pago, and Impresi\u00f3n. The \"Seguir\" button is located at the bottom of the form.",
+        "Url": "http://kivaya.com/ESV5612/index.php?FGDD=1#HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG"
+    },
+    {
+        "Folder Hash": "00da8ab5c2906d14b6c7d8399f8f32d7df456e9df9bf0616768899ea6310ce4e",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a gradient background.",
+        "Url": "https://worudi.com/office.com/"
+    },
+    {
+        "Folder Hash": "00e44a5abcfb571f2e0e0044d3d5f169457740d4caa20838cbddceff28f7f3a5",
+        "Brand": "AI Crypto Trading",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join Group",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a prominent logo of AI Crypto Trading at the top center. The Join Group button is also indicative of a call-to-action element.",
+        "Url": "https://tjcks66.xyz/"
+    },
+    {
+        "Folder Hash": "03d4ef743a89692c649478a59201ff13700524390c22111e403b31629df5be59",
+        "Brand": "12 Volt Does It",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Request Appointment, Shop 12 Volt Wire, Documentation, Fusebox, Bulb Chart, Contact Us, Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the words \"12 Volt Does It\" prominently displayed at the top. The logo is distinct and is associated with automotive electrical services. The overall layout and design of the webpage is consistent with the brand's identity.",
+        "Url": "https://www.12voltdoesit.com/"
+    },
+    {
+        "Folder Hash": "05a5fecf66ae9d6264e346cda588877c154abc3cec7f9613d864836155eb07b8",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Buy Now button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a product page of Microsoft 365. The Microsoft logo is clearly visible at the top left corner of the page, and the words \"Microsoft 365\" are prominently displayed at the top center. The page has two input fields, one for the email address and one for the password, and a \"Buy Now\" button.",
+        "Url": "https://www.officesoftcn.com/newbuy.html?onlineid=1669170002311"
+    },
+    {
+        "Folder Hash": "0931bb6b52e34f363d416ff28683245b7f71e792e854f6b10700dbcdfb0feb9b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start, Like, Follow, Subscribe, Join",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the home page of PUBG Mobile, a popular battle royale game. The PUBG Mobile logo is prominently displayed at the top of the screen, and the background image shows a screenshot of the game. The home page also features several buttons that allow users to play the game, join the community, and follow PUBG Mobile on social media.",
+        "Url": "http://she2we.privrendom.com/"
+    },
+    {
+        "Folder Hash": "0a4c5aedc2c9524afed13dea75ed24fed431c0ebf7f6acc9f545199d0a183d01",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login page with the Google logo prominently displayed. The Google logo is distinct and is well-recognized. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background. The page also has the words \"Login To Continue\" displayed at the top. Below the login box, there is a link that says \"Create an account\", which is a call-to-action for users to create a new Google account.",
+        "Url": "http://cynosure-modelling.cloud/login.html"
+    },
+    {
+        "Folder Hash": "4e34f5dbdf9094db6a984687f2d83025273fac431aef32639e51cf0136d94f65",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number",
+        "List of Call-To-Actions": "Sign-up button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Telegram, which is a well-known messaging app. The Telegram logo is a blue circle with a white airplane in the center. The webpage also has a blue background, which is consistent with the Telegram brand. In addition, the webpage has a form that asks for the user's phone number, which is a common way to sign up for a Telegram account.",
+        "Url": "https://www.bzfumru.com/"
+    },
+    {
+        "Folder Hash": "589604309821fcd016707ad181ff53b6d9602096e35a8e6b919595af78fb36ed",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://gruop-wadtudjjw.terbaru-2023.com/vhsfhqpdhdsih6/"
+    },
+    {
+        "Folder Hash": "76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large Apple logo at the center. The page is asking for Apple ID and password, which are sensitive user credentials. The page also has a \"Sign In\" button, which is a call-to-action button.",
+        "Url": "https://skstore.top/"
+    },
+    {
+        "Folder Hash": "8caded051f7acfa723aef31dd99a80304417956f5887b8476688a5e62f546e1e",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with a white Telegram logo at the top center. The logo is distinct with a blue airplane symbol, which is well-recognized as the logo for Telegram, a popular messaging app. The webpage also has a title \"Telegram\" and a subtitle \"Keep in touch with your friends and family.\" The overall design and layout of the webpage is consistent with the Telegram brand.",
+        "Url": "https://www.telegramm.cloud/TG_ZH/index.html"
+    },
+    {
+        "Folder Hash": "d4c215f11ddcac98a8fb088603274f0897f09f5421a0e7b6863bcdcf55600ef7",
+        "Brand": "SHENG HO JIUN",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the company logo, \"SHENG HO JIUN\", located at the top right corner. The logo is distinct and is the main identifier of the brand. The rest of the webpage contains product showcases and descriptions, with no forms or fields asking for user credentials or call-to-action buttons.",
+        "Url": "https://www.shjbottle.com/"
+    },
+    {
+        "Folder Hash": "decb4739984ec2225f8efc4077abd0c53e94eb89e36e3a96f739d102a3bdb10f",
+        "Brand": "Desjardins",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Se connecter",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Desjardins logo at the top left corner. The logo is distinct with a blue and green \"D\" and the word \"Desjardins\" in blue. The logo is well-recognized as the trademark of Desjardins Group, a Canadian financial services cooperative. The page also has other elements such as the menu bar, search bar, and a login button.",
+        "Url": "https://www.fondsdesjardins.com/fnb/prix-rendements/"
+    },
+    {
+        "Folder Hash": "f2beb483ff51c06780b3ab7671262419a4e0a640d84b5c85d7161d88d5c6328d",
+        "Brand": "Arvest Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Apply Today, Get Started, Request Call Back",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with white text. The Arvest Bank logo is at the top left corner. The logo is a blue circle with the words \"Arvest Bank\" in white text. Below the logo is a navigation bar with links to different pages on the website. In the center of the page is a large image of a man and woman smiling. The text on the right side of the image says \"Global Economic Prospects Calls to Slow Through 2023\". Below the image are four boxes with text and icons. The text in the boxes says \"Energy\", \"Climate Change\", \"Education\", and \"Health\". Below the boxes is a section with three buttons that say \"Apply Today\", \"Get Started\", and \"Request Call Back\".",
+        "Url": "http://arvestonlineltd.com/"
+    },
+    {
+        "Folder Hash": "f7380292cf7bfb9a47f21a9cd8aa94360efd80ef35315a1aea11ed7241d7373f",
+        "Brand": "Narodnye Nalitki",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\u041a\u0443\u043f\u0438\u0442\u044c, \u041d\u0430\u0439\u0442\u0438 \u043c\u0430\u0433\u0430\u0437\u0438\u043d",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a clear logo of Narodnye Nalitki at the top center. The overall design and layout of the webpage is consistent with the brand's other marketing materials. The webpage also has a prominent call-to-action button that says \"\u041a\u0443\u043f\u0438\u0442\u044c\" and \"\u041d\u0430\u0439\u0442\u0438 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\".",
+        "Url": "https://pivokom.ru/"
+    }
+]

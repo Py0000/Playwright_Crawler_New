@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo, which is a well-known streaming service. The logo is in the top left corner of the screen, and it is in the same font and color as the Netflix logo that is used on the company's website and other marketing materials. The screenshot also shows a login form, which is consistent with the login form that is used on the Netflix website. The presence of the Netflix logo and the login form indicates that this is a Netflix webpage.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Try Telegram",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with a white star at the top center. The word \"Telegram\" is prominently displayed at the top of the page in a stylized font. The page has a simple and uncluttered design, with a focus on the call-to-action button, which is a blue button that says \"Try Telegram\". The overall design and branding of the page is consistent with the Telegram messaging app.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "BitYard",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone number, Verification code",
+        "List of Call-To-Actions": "Connect Wallet, Sign Up",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the BitYard logo at the top center. The logo is distinct and is consistent with the BitYard branding. The webpage also has a blue background, which is consistent with the BitYard color scheme. The webpage has fields asking for user credentials, such as email, phone number, and verification code. The webpage also has a call-to-action button that says \"Connect Wallet\" and \"Sign Up\".",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Join Now, Deposit, Claim Bonus",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green background with black and yellow texts. The bet365 logo is at the top left corner of the webpage. The webpage has several sections, including a sportsbook, a casino, and a poker room. The sportsbook section has a list of sports that can be bet on, as well as odds for each sport. The casino section has a list of casino games that can be played, as well as information on how to play each game. The poker room section has a list of poker tournaments that are available, as well as information on how to play poker.",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign Up, Free Trial",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a prominent logo of SurveySparrow at the top center. The logo is distinct and easily recognizable. The webpage also has a form with fields for email and a call-to-action button that says \"Sign Up\" and \"Free Trial\". These are common elements of a survey or feedback collection webpage.",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a product page for the Microsoft Surface Laptop Go 3. The Microsoft logo is prominently displayed in the top left corner of the page. The \"Shop now\" button is clearly visible on the page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "Gemini2",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "Create Account button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Gemini2\" prominently displayed at the top center. The webpage also has a Gemini2 logo at the bottom left corner. The webpage has a form that asks for user credentials such as email and phone number. The webpage has a call-to-action button that says \"Create Account\".",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "JEK-MINER",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "Registration, Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the company logo, \"JEK-MINER\", displayed prominently at the top center of the page. The logo is distinct and easily recognizable. The webpage also has a blue background, which is consistent with the company's branding. Additionally, the webpage has several other elements that are consistent with the company's branding, such as the font and the layout.",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f07f931e42211c4d902fed617e89c47324af573df194966b5ac1b21a0f65a2aa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Try 30 days free",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent red banner with the Netflix logo at the top. The logo is distinct and easily recognizable. The webpage also has a large image of a TV show with the Netflix logo in the background. The webpage is advertising a free trial of Netflix.",
+        "Url": "https://sristiverma9.github.io/netfliexclone/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono",
+        "List of Call-To-Actions": "Iniciar sesi\u00f3n, Hazte cliente, Crea tu clave de acceso",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a login page with the BBVA logo prominently displayed at the top center. The BBVA logo is distinct with its blue and white color scheme and is well-recognized as a Spanish multinational financial services company. The login page has a dark blue background with white text fields for entering credentials, which is consistent with BBVA's branding.",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]

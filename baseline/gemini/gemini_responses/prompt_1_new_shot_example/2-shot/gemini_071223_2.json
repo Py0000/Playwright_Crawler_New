@@ -1,0 +1,200 @@
+[
+    {
+        "Folder Hash": "443e348efc0dd9a57294017aa719612d4b8bad8cf910de2d65a7fccf46da9978",
+        "Brand": "Autopay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Autopay logo at the bottom center of the page. The logo is distinct and recognizable. The webpage also has a login form with fields for email address and password. The \"Log in\" button is also present.",
+        "Url": "https://erick-parkin-g-phrkhraphr240894.codeanyapp.com/v/"
+    },
+    {
+        "Folder Hash": "4ebe79efdd74eb44ac55942655656692be2092b47b0d4f771159ee70bf493827",
+        "Brand": "EE",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a black background and a large banner at the top that says \"Black Friday Ends Soon\". The banner has a clock that is counting down the days, hours, minutes, and seconds until Black Friday. Below the banner, there are three sections: \"Latest from EE\", \"Already with us? Get deals just for you\", and \"Broadband built for your life\". The \"Latest from EE\" section has three cards, each with a different product or service. The \"Already with us? Get deals just for you\" section has a carousel of different deals that are available to EE customers. The \"Broadband built for your life\" section has a video that is playing. The screenshot also has a navigation bar at the top with links to different pages on the EE website. The logo of EE is present at the top left corner of the navigation bar.",
+        "Url": "https://ee.co.uk/"
+    },
+    {
+        "Folder Hash": "4ffcd0d3cbbe6da700af99a7bb423b6b685f8521da8f0929433e53a42df56c5e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Surface Pro 9, Shop for Xbox games and consoles, Shop for Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with the Microsoft logo at the top left corner. The logo is a stylized \"M\" with four squares of different colors. The squares are red, green, blue, and yellow. The webpage has a white background and a blue header. The header has the words \"Microsoft\" and \"Surface\" in white text. The main body of the webpage has a large image of a Surface Pro 9 laptop. The image is surrounded by text that describes the features of the laptop. The text is in black and white. The webpage has a footer with links to social media sites and other Microsoft websites.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "50af37149df8da3b62036075920cbcb8ab859f8174ec6765c15a0107eaabc825",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page with its distinctive red and black logo. The logo is located at the top left corner of the webpage, just above the main text \"Unlimited movies, TV shows, and more.\" The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://intanmaharanis.github.io/"
+    },
+    {
+        "Folder Hash": "5d5d5bcfeea2f3cd9d88a55fd682a478932471fea6f5309ec74321e64fb8a6e4",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a group chat on WhatsApp. The WhatsApp logo is visible at the top left corner of the screen, and the group name is displayed at the top center. The chat messages are visible in the center of the screen, and the user's profile picture is visible at the bottom left corner.",
+        "Url": "https://fjso.c505.net/"
+    },
+    {
+        "Folder Hash": "74dbd4e989c661f940b5b9e27431590b3fe2ce581760834105eee41e22d7ea41",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Ouvrir un compte, Nous contacter, Mon espace",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a green banner at the top with the words \"Cr\u00e9dit Agricole\" in white. The logo of the bank is also visible in the top left corner of the banner. The main part of the page is taken up by a large image of a group of young people smiling and laughing. The text \"Acc\u00e9der \u00e0 l'espace d\u00e9di\u00e9 de votre caisse r\u00e9gionale\" is visible in the top right corner of the image. Below the image, there is a section with the heading \"T\u00e9l\u00e9chargez l'application Ma Banque\". The text in this section explains that the app allows users to manage their finances from their mobile devices. There is a button that says \"D\u00e9couvrez les grandes fonctionnalit\u00e9s\" that is likely a call-to-action button.",
+        "Url": "https://dev-decvredagriipaste.pantheonsite.io/coordination-seminarialgricolor/96684/"
+    },
+    {
+        "Folder Hash": "76cc57a5db53d4df8eabec068e5d0cee4f782a1198ef9fb0f807f97379cefe27",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Try for free, Buy now",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the Microsoft 365 landing page. The Microsoft logo is displayed at the top left corner of the page, and the words \"Office 365\" are prominently displayed at the top of the page. The page features a blue background with various images and text describing the features of Microsoft 365. The call-to-action buttons are \"Try for free\" and \"Buy now\", which are commonly used on landing pages to encourage users to sign up for or purchase a product or service.",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "88be6a5b95c6236166d7cd8385ed16577b9e6d90399739d36df464cbec565129",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "View all categories, Subscribe",
+        "Confidence Score": "1",
+        "Supporting Evidence": "The webpage has a lot of advertisements and links, making it difficult to determine the brand. There is no logo or trademark that can be seen on the screenshot.",
+        "Url": "https://ebay-gjds.com/home"
+    },
+    {
+        "Folder Hash": "8918a59007b5a6844975e1b04c520c6a092a47f0416b03ad95cdcf90af11889b",
+        "Brand": "Vanilla",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white logo that says \"Vanilla\" in the top left corner. The logo is a stylized \"V\" with a leaf. Below the logo, there is a search bar and a navigation bar. The navigation bar has the following links: \"Discussions\", \"Categories\", \"Help\" and \"Groups\". The main content of the page is a list of discussions. Each discussion has a title, a description, and a link to the discussion. The page also has a sidebar on the right side. The sidebar contains a list of the most recent discussions, a list of the most popular discussions, and a list of the most active members.",
+        "Url": "https://gabe.vanillademo.com/"
+    },
+    {
+        "Folder Hash": "94fcf79e0cbb96f2a4bffeaf29b071220cccc23ed571ef4f0c69143fcc666967",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop for Surface Pro 9, Shop for Surface devices, Shop Xbox games and consoles, Choose your Microsoft 365, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Microsoft logo prominently displayed in the top left corner. The logo is a stylized \"M\" with four squares of different colors. The squares are red, green, blue, and yellow, and they represent the four different products that Microsoft is known for: Windows, Office, Xbox, and Surface. The webpage is also full of other Microsoft branding, such as the \"Microsoft\" name and logo in the top left corner and the \"Microsoft Store\" logo in the top right corner. The call-to-action buttons are also all branded with the Microsoft logo.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9f99f677a3c41f624405769a8639d5b121a6e62f5076e56c5270494d899aca30",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a group chat on WhatsApp. The green color scheme and logo of a telephone receiver is distinct and easily recognizable. The call icon on the top right corner is also a strong indicator that this is a WhatsApp group chat.",
+        "Url": "https://news2023yacsanp.gxscv.com/vhsfhqpdhdxih1"
+    },
+    {
+        "Folder Hash": "b01b5f23356ac1c1e93b0d3db4ed6dd922e8e3bcace1eb5c61cd92088a6d66a6",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of Telegram. The Telegram logo is clearly visible at the top of the page. The page is divided into two columns. The left column contains a list of features, while the right column contains a description of each feature. The overall design of the page is clean and simple.",
+        "Url": "https://tg-telegram.club/tg_zh/index.html"
+    },
+    {
+        "Folder Hash": "cc832d45a1f2ca2f216bba2d2507b35e2481aeb17f139d31e3e2b0f795349c5c",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://valonez.com/"
+    },
+    {
+        "Folder Hash": "d7f4f19eaf8bb7f16ff6272c7ada47414be5231d9b08dc6fe9383bdc1495aa5f",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign-up for free, Buy now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of Microsoft Office 365. The Office 365 logo is clearly visible in the top left corner of the page. The page is divided into three sections, each highlighting a different feature of Office 365. The first section is titled \"For Home\", the second section is titled \"For Organizations\", and the third section is titled \"For Educators\". The \"For Home\" section features a carousel of images showcasing different ways that Office 365 can be used at home. The \"For Organizations\" section features a list of benefits of using Office 365 for businesses. The \"For Educators\" section features a list of benefits of using Office 365 for schools. The page also includes a call-to-action button in the top right corner of the page that says \"Sign up for free\".",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "ddf790ee2e8890b5451ba172487800c8aa3e5344900564de05778ed4f7c2fab0",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a group chat on WhatsApp. The green logo with a white handset is clearly visible at the top left corner of the screen. The chat includes text messages, image, and audio files. The user interface is consistent with the WhatsApp mobile app.",
+        "Url": "https://news2023yacsanp.gxscv.com/vhsfhqpdhdxih1/"
+    },
+    {
+        "Folder Hash": "e10ca01e5a3e07c072226ac9b10121ee24df21fcc270a0b8e9013146663128e7",
+        "Brand": "Bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green and white color scheme. The Bet365 logo is at the top left corner of the webpage. The login form has fields for username and password. The call-to-action button is green and says \"Login\".",
+        "Url": "https://www.bet1267.com/home"
+    },
+    {
+        "Folder Hash": "e148e2e30e5671767f5f33a65ede07e89f2c5d4039f23d33bd8cf3caf98a89ec",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the official website of Telegram, a popular messaging app. The Telegram logo is clearly visible at the top of the page. The page features a blue background with white text, and the layout is clean and user-friendly. The screenshot does not show any fields asking for user credentials or any call-to-action buttons.",
+        "Url": "https://telegram-zh.biz/tg_zh/index.html"
+    },
+    {
+        "Folder Hash": "fa4a9254cab55d5c0471f3a312113c92f5d7a0a3401845dc2925094803ec540a",
+        "Brand": "GoShare",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Name, Email, Phone Number, Password, Bank Details",
+        "List of Call-To-Actions": "Sign Up, Next, Agree & Next, Start Earning",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a green and white gradient background. The GoShare logo is at the top center of the page. The logo is in white and has a stylized \"G\" with a play symbol inside it. The words \"GoShare\" are in green and are located to the right of the \"G\" symbol. The screenshot also shows a form with fields for entering a name, email address, phone number, and password. There is also a button that says \"Sign Up\". Below the form is a section that says \"Already have an account? Log in here\" with a link to the login page. The presence of the GoShare logo, the sign-up form, and the call-to-action button indicate that this is a webpage for GoShare.",
+        "Url": "https://h5.shippinghero.vip/index.html#/pages/active/active?inviter=2263326"
+    }
+]

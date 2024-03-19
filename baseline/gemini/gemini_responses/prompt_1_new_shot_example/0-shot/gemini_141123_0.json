@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "2a6492b561feeebfb57940be411eef9bfac7905043baa6bc96a6998d1b9b54a7",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://pub-af56fe61ca864658a18b9bce60bcbc6f.r2.dev/zaaa.html"
+    },
+    {
+        "Folder Hash": "571c629dd6777f947e0f64c0ba9e3af3fd1119b30d936695fa40b8863d91a270",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://relief-data-appeal-349805e.surge.sh/"
+    },
+    {
+        "Folder Hash": "64524e2ef45f4644cc2994e2ce15c20f7d0a348f4c8c0aac5066fbb35d6d471b",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://pub-73ee129d9ec943f785408564adcaf985.r2.dev/cryn.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "9e204f718f150aabbaebc0737c36cfec98cfca139a2cb964c353a388098f8ec0",
+        "Brand": "Roundcube",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Roundcube logo at the top left corner and \"Roundcube Webmail\" at the bottom right corner. The presence of fields asking for username and password, and a \"Login\" button are indicative of a login page.",
+        "Url": "https://freightoinx0006.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "a80c294225b3057768f3465e3466226c69a790eb9c7ac88808e19370286e7f8e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://pub-d351cc1193114bc695708e600762f48a.r2.dev/tex.htm"
+    },
+    {
+        "Folder Hash": "b24b5100cfe6dd7c6eec1419abef79fb2b74fb8a52b80747bb91544884bd450a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a login page for Webmail. The Webmail logo is clearly visible at the top of the page. There are two input fields, one for the username and one for the password. There is also a checkbox to save the user's credentials. There is a call-to-action button that says \"Login\".",
+        "Url": "http://gottagopotties.mycustomerconnect.com/app/Email/phpmail/extras/co.ne.jp/webmail.php"
+    },
+    {
+        "Folder Hash": "b7a14dcd66c2d04a2ed97bd5e3cf1b358321d9a61fb6c77ef109dde267e76675",
+        "Brand": "NetEase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the NetEase logo at the bottom. The page requests for username and password, and has a login button.",
+        "Url": "http://pansionat-v-troicke.ru/cn/VerifyCN/"
+    },
+    {
+        "Folder Hash": "b86e24505f6a9fe4c1eb5e26425891551454a20bc715ec5f013a199554ec43d4",
+        "Brand": "MCG",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://mcg1.vip/Login/index.html"
+    },
+    {
+        "Folder Hash": "c074bca11260d1842a201d87dd675a8ae496bd2c86c8f8fbffaf3913e1607936",
+        "Brand": "Naver",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log in, \ud68c\uc6d0\uac00\uc785",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Naver logo at the top center. The login form has the Naver logo in the upper left corner. The page's title is \"\ub124\uc774\ubc84 \ub85c\uadf8\uc778.\" The page has a blue button with the text \"\ub85c\uadf8\uc778\" (Login). The page has a link to \ud68c\uc6d0\uac00\uc785 (Sign up).",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigthv56vhof4ua6vvxzrcftujsvetxxoi2dkofxrhyowxfsgnv63i"
+    },
+    {
+        "Folder Hash": "e4a2a39be2550bf2777ddda45564eafa79aa039c0c4b730782fc1a0c7058f703",
+        "Brand": "Banco Pichincha",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Contrase\u00f1a Email",
+        "List of Call-To-Actions": "Continuar",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Banco Pichincha logo on the top left corner. The page is asking for user credentials like email and password. The page has a call-to-action button that says \"Continuar\".",
+        "Url": "http://26validate5q8.royalwebhosting.net/"
+    }
+]

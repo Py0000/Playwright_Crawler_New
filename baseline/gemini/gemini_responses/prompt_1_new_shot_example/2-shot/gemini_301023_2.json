@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "393f74dcf55e8530f7c1112fab73dad24bd4565f662f9e7e125daa72f042665a",
+        "Brand": "Microsoft (OneDrive)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign-in with Office 365, Sign-in with Outlook, Sign-in with Other Mail",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login page for Microsoft OneDrive, a cloud storage service. The OneDrive logo is prominent in the center of the login box, which is positioned in the middle of the screen. The login box has fields for email and password, and a \"Sign-in\" button. The background is a blurred image of a folder structure, which is a common visual element associated with OneDrive.",
+        "Url": "https://pub-1cd83eaf4a66425d86fb1e8f37610be0.r2.dev/index.html"
+    },
+    {
+        "Folder Hash": "6931dab519ee45f708973ffaead18ed57abdebf4e807bfba6cf413916e835d8f",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows the Poste Italiane logo, which is a stylized eagle with a crown holding a letter in its beak. The logo is located at the top left corner of the webpage, and it is accompanied by the words \"Poste Italiane\" in blue text. The login page has two input fields, one for the email address and one for the password. Below the input fields, there is a green button that says \"Accedi\" (Login).",
+        "Url": "http://in.pt.it.87-120-254-165.cprapid.com/pi23/"
+    },
+    {
+        "Folder Hash": "8954c5dcd26b608986cef321586a7d362b32b59496b0179b0d1d9f72881aedcf",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with a white Telegram logo at the top center. The logo is distinct with an airplane-like symbol within a circle. The webpage also has a Chinese title that says \"Telegram\u4e2d\u6587\u7248\" on the top left corner, and \"Telegram\" in English on the top right corner. The main content of the webpage is a list of recent news and updates about Telegram.",
+        "Url": "https://c-telegram.biz/?user-agent=mozilla/5.0"
+    },
+    {
+        "Folder Hash": "9b6e78f83843a9b61a2d98e2fa4adfbe5d292638f97954a65006ae6c00c6962f",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Track, Get a Quote, Portal Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the DHL website. The DHL logo is clearly visible in the top left corner of the page. The page has a blue background and white text. The main feature of the page is a tracking tool. The page also has links to other DHL services, such as shipping, freight, and logistics.",
+        "Url": "https://xcx3gsz9.dreamwp.com/smon/dhl/home/info.php"
+    },
+    {
+        "Folder Hash": "bccc08f4595fc8871d5378019618fe4c00577f77604992c411e75a56e9e97f86",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Pre-order, Shop for Surface devices, Buy Xbox games and consoles, Choose your Microsoft 365, Shop for business, Sale, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a screenshot of the Microsoft website. The Microsoft logo is displayed in the top left corner of the image. The main content of the image is a list of products and services offered by Microsoft. The products and services are arranged in a grid format. The image is consistent with the design of the Microsoft website.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "cd2adfcdf9e8b704e1b1c860c71470931bfda033e7d70c51aaaf500df7d3d026",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a green and white color scheme. The bet365 logo is at the top left corner of the webpage. The login form is in the center of the webpage. The call-to-action buttons are green and white. The webpage has a lot of security features, such as a secure login and a privacy policy.",
+        "Url": "https://7365009.com/#/"
+    },
+    {
+        "Folder Hash": "d1d3c49edf0bb4b7c9ed62c267aa32de835000bc53114f73859e3860465f1091",
+        "Brand": "Citibank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, Remember my User ID",
+        "List of Call-To-Actions": "Sign On, Forgot Password?, Register for Online Access",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the login page of Citibank with its distinctive blue and white logo. The credentials and buttons can be seen on the screenshot. The logo is located at the top left of the webpage, just above the main text \"Turn Every Purchase Into Something Bigger\".",
+        "Url": "https://citiii.diskstation.org/"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Claim Instantly",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with the Axis Bank logo at the bottom left corner. The page is titled \"Congratulations!\" and it says \"Your Axis Bank MY ZONE Credit Card benefits are waiting to be claimed!\" There is a large image of an Axis Bank credit card on the right side of the page. Below the image, there is a section that says \"Welcome benefit of Amazon Pay E-Gift Card worth \u20b9500\". There is a button that says \"Unlock Benefit\" below this section. The page has a purple background with white text. The overall design of the page is consistent with the Axis Bank branding.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    },
+    {
+        "Folder Hash": "ea4055a35b68abedf1f2879cce61fdf2e61bae4ed7437f14596f7445400eff11",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact us, FAQ, Android, iPhone/iPad, PC/Mac/Linux, Windows Phone",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a blue background with a white Telegram logo at the top center. The logo is a stylized paper plane with a lightning bolt through it. The word \"Telegram\" is written in a sans-serif font below the logo. The page is divided into two sections by a horizontal line. The top section has a large image of a group of people chatting on Telegram. The bottom section has a list of features of Telegram. The overall design of the page is simple and easy to use. The page is likely to be the official website of Telegram.",
+        "Url": "http://teelgarm.top/"
+    },
+    {
+        "Folder Hash": "eb36a40ce49a9fc7d2c4cebb8c47969c8cc65486df5681a0b6bfeddab0a10ae2",
+        "Brand": "GoShare",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Name, Email, Phone Number, Bank Account Number, IFSC Code",
+        "List of Call-To-Actions": "Join Now, Login",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with a green and white gradient background. The GoShare logo is at the top center of the page. The page has a form with fields for  name, email, phone number, bank account number, and IFSC code. There is a green button that says \"Join Now\" and a grey button that says \"Login\".",
+        "Url": "https://h5.shippinghero.vip/index.html#/pages/active/active?inviter=7004336"
+    }
+]

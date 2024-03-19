@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "4aa338f74582fab200185a53f108bb7c8152644530190f33a54fd1d08e02ad25",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Shop Xbox Series X, Shop Xbox games and consoles, Choose your Microsoft 365, Shop for students, Sign up to save, Shop Surface Laptop Studio 2, Shop for Xbox Wireless Controllers, Maximise the everyday with Microsoft 365, Get up to 54% off, Sign up for free, Get it today",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed in the header and throughout the page. The overall design, layout, and typography are consistent with Microsoft's branding guidelines. The products and services featured on the page are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4ce8a0e0ae3b7adfe042c6ec9b5da355ced3b7209b8757b394c28c2996c8dce8",
+        "Brand": "DBS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop All Categories, iPhone, iPad, Watch, Mac, AirPods, Beats, TV & Home, Accessories",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a prominent DBS logo at the top left corner, and the words \"DBS\" and \"Apple Rewards Store\" are also displayed at the top of the page. The page is selling Apple products, and it is likely that DBS is the company that is selling these products.",
+        "Url": "https://dbs.applerewardsstore.com/"
+    },
+    {
+        "Folder Hash": "54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a Facebook login page. The Facebook logo is clearly visible in the center of the page. The page also has the words \"Facebook\" and \"Log In\" on it.",
+        "Url": "http://instagram.bulut.host/"
+    },
+    {
+        "Folder Hash": "593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the bet365 logo at the top left corner and the bet365 branding is visible throughout the page. The page has fields asking for user credentials and has call-to-action buttons.",
+        "Url": "http://19960721.com/"
+    },
+    {
+        "Folder Hash": "6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d",
+        "Brand": "Uphold",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://uslogii-upheld.github.io/"
+    },
+    {
+        "Folder Hash": "789fd6e7081d9c6f60caa614127d16be13ee598f30eb3f049d54c7ed0208324a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed at the top of the page. The overall design and layout of the page is consistent with Microsoft's branding guidelines. The page also features links to other Microsoft products and services, such as Windows, Office, and Xbox.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043",
+        "Brand": "dpd",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"dpd\" is prominently displayed at the top of the webpage. The DPD logo is also present on the top left corner of the page. The overall visual elements of the webpage, such as the color scheme and typography, are consistent with DPD's branding.",
+        "Url": "https://rewards.buchung.info.54-91-1-54.cprapid.com/dpd/paket/update.php"
+    },
+    {
+        "Folder Hash": "b775e39e5156d2f1c18d9dc50868970658e0ce378a542ffbac621213768e9e8a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed in the header and throughout the page. The overall design and layout of the page is consistent with Microsoft's branding guidelines. The page is also hosted on Microsoft's domain, which further confirms that the brand is Microsoft.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed",
+        "Brand": "eBay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows the logo and branding of eBay, an online marketplace. The overall layout and design of the page, including the search bar, navigation menu, and product listings, is consistent with eBay's website. Additionally, the domain name in the address bar is \"ebay.com\", which further confirms that the webpage is associated with eBay.",
+        "Url": "https://global-ebay.net/#/pc"
+    },
+    {
+        "Folder Hash": "ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521",
+        "Brand": "De'Longhi",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://www.delonghishop.store/"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "01ec95975f5383644a19b1947b41d571a985384991ad0281dd2f9f2421faf1b0",
+        "Brand": "Sortex Clothing",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact us, Quick Links",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the company logo, contact details, and social media icons at the bottom of the page. The navigation bar contains \"Home\", \"About Us\", \"Our Products\", \"Gallery\", and \"Contact Us\" pages. The page also contains a prominent call-to-action button that says \"Contact Us\". The overall design and layout of the webpage is consistent with an e-commerce website.",
+        "Url": "https://www.sorttexclothing.com/"
+    },
+    {
+        "Folder Hash": "0fbb4f5dbb6c22a55f0905c429af07927fb6be49c8a470849f010fa797b25039",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo and branding prominently displayed at the top of the page. The page has a blue background with a white text box in the center. The text box contains fields for entering an email address and a password. There is a blue button below the text box that says \"Sign In\". The overall design and layout of the page is consistent with the Netflix brand.",
+        "Url": "https://dhruvrastogi1003.github.io/bharat-intern-netflix-clone/"
+    },
+    {
+        "Folder Hash": "16d2f3a86213d0d8a9848cc911f756354227d9b449a2609e53dc82de3ee2172e",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo and branding prominently displayed at the top of the page. The page features a large banner image with the text \"Watch movies, TV shows and more\" and a prominent red button labeled \"Get Started\" in the center of the page. The overall design and layout of the page, including the use of colors, fonts, and imagery, is consistent with Netflix's branding.",
+        "Url": "https://thilaganiranchan.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "267fd444d1da8ea043956bb57b576e81010ba8eff8e4642152964d86b5ed8294",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Netflix logo at the top left corner. The logo is distinct and easily recognizable. The webpage also has a large banner with the text \"Unlimited movies, TV shows, and more\" and a prominent red button that says \"Get Started\". The webpage also has a section with the text \"Create profiles for kids\", which suggests that the webpage is related to Netflix.",
+        "Url": "https://deli-codex.github.io/NetfilxHomepage.github.io/"
+    },
+    {
+        "Folder Hash": "2d05c4862900292910980eb8a7ead7f0ef6fe56b6a0b6a5c3601a318df8f2bde",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large banner at the top with the Netflix logo. The logo is distinct and easily recognizable. The page also has a form with fields for email address and password. The \"Get Started\" button is also prominent.",
+        "Url": "https://divyashantkumar.github.io/netflixclonereact/"
+    },
+    {
+        "Folder Hash": "44899cfeea4e79c37f0887c31a38f724ff03e303345fdc55f003f9b744c733e4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now, See price, Buy now, Pre-order, Learn more, Get started, Sign up for free, Download now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store. The Microsoft Store logo is prominently displayed in the top left corner of the page. The page is selling different products, including the Xbox Series X, Surface Laptop Studio 2, and Microsoft 365. The page also has a number of call-to-action buttons, including \"Shop now\", \"See price\", \"Buy now\", \"Pre-order\", \"Learn more\", \"Get started\", \"Sign up for free\", and \"Download now\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4f9870675b24fa8b898a5b7b2c71ac7f9f520d968322643b502855e8693f2237",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo and branding prominently displayed at the top of the page. The page includes fields for entering email and password, which are common user credentials. The page also includes a call-to-action button labeled \"Get Started\", which is typically used to prompt users to sign up for a service or start a trial.",
+        "Url": "https://subha603.github.io/netflix.github.io/"
+    },
+    {
+        "Folder Hash": "805c2f9375e60d23c6e3cc5d3e28a5def70c7e8f45b567e05ac89729f8e7c9b6",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch Free For 30 Days",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo and branding prominently displayed at the top of the page. The page also features a large banner with the text \"See what's next\" and a button that says \"Watch Free For 30 Days\". The overall design and layout of the page is consistent with Netflix's branding and user interface.",
+        "Url": "https://otutukingsley.github.io/netflix-clone-page/"
+    },
+    {
+        "Folder Hash": "b5893b4bc7dc10bf45cee4b3bd9f96ad61079e3d287b3fa8fd36a215071c5530",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo prominently displayed at the top left corner of the page. The logo is distinct with a red \"N\" and a black \"F\", which is well-recognized as the logo for the popular streaming service. The page also has a prominent call-to-action button that says \"Get Started\", which is typically used to prompt users to sign up for a subscription. The overall design and layout of the page is consistent with the Netflix brand.",
+        "Url": "https://3omaralaa.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "ba3a7e5a6da27eaa8e44b838f405a4f5fa4f89dec385d4a81a897408ec145319",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now, See price, Buy now, Pre-order, Learn more, Get started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a product landing page with the Microsoft logo prominently displayed at the top left corner. The Microsoft logo is distinct with four colored squares arranged in a specific pattern, which is well-recognized as the logo of Microsoft. The page features a large banner showcasing the Xbox Series X gaming console with a prominent \"Shop now\" button. The navigation bar at the top of the page includes various product categories such as \"Surface\", \"Xbox\", \"Windows\", and \"Office\". These are all well-known product brands associated with Microsoft. Additionally, the page includes links to Microsoft's social media pages, such as Facebook and Twitter, which further supports the identification of the brand.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    }
+]

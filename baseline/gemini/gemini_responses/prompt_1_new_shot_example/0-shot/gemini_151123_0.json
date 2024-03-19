@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "2dbf238d5fc29b9f4f6231779c8763e7b11ec5e86d70f25a01cf5870a5adab6f",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://suport.ie/?r=1eebd962-5d33-4d66-b53e-4a886d93c3ac"
+    },
+    {
+        "Folder Hash": "31438978abbbd0b364a03e0713e9daacebd74f30b31d70f8ee1ce716e0de4cc8",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://pub-391af5f3d76c44fcb953d65711104ee2.r2.dev/Authowaba.htm?/sha"
+    },
+    {
+        "Folder Hash": "321a55a6449593f3738366f854b764b7412bdf1b62dac68c87c530ac4a3722b8",
+        "Brand": "GOV.UK",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Create my account, Return to an existing application",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the GOV.UK logo, which is the brand of the UK government. The page also has a link to the GOV.UK homepage. The page asks for user credentials, such as email and password, and has call-to-action buttons, such as \"Create my account\" and \"Return to an existing application\".",
+        "Url": "https://bankruptcy-form-fn-prod-ods.insolvency-development.co.uk/"
+    },
+    {
+        "Folder Hash": "34a95ea45ccd398070cb0ad4c0ae62c3a79c8f828064eb914f1280e8c7d9d4cd",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. It also has fields asking for user credentials such as email and password. Additionally, it has a call-to-action button that says \"Get Started\".",
+        "Url": "http://page-warring-318358.8799269.com/"
+    },
+    {
+        "Folder Hash": "6a37ba06939bb2395534b3540628296007658f9b86517a4f6bf89ad985377701",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://pub-929b3c4e3df4477c985486552747b9a8.r2.dev/link%20(27).html#thenson@centralconstructiongroup.net"
+    },
+    {
+        "Folder Hash": "a5830f9b2ae483611f8f09a20715f16f1168e20ed8065874573fe4d3738a32e5",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Zimbra, which is a brand of email and collaboration software. The page also has fields for entering a username and password, which are typically used for logging in to an account. Additionally, the page has a button labeled \"Sign In\", which suggests that the page is used to sign in to a Zimbra account.",
+        "Url": "http://zimbraquotarenew.x24hr.com/"
+    },
+    {
+        "Folder Hash": "bc9efafc69c4604bab0987861231229e30a9b3cb49f9cf0760f3d6c577992bd2",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. It also has fields for entering an email address or phone number and a password, which are common credentials required for logging in to a Facebook account. Additionally, there is a call-to-action button labeled \"Log In\" and \"Create New Account\".",
+        "Url": "https://hbirds.com.au/wp-admin/maint/facebook/"
+    },
+    {
+        "Folder Hash": "c1064a35df3f15f6f0fd4e8bbe48ed3abed801d4c9c288391c8bdeddef498745",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the AT&T logo and branding. It also has fields asking for user credentials, such as username and password. Additionally, it has a call-to-action button that says \"Sign in\".",
+        "Url": "https://keepo.io/login_page/"
+    },
+    {
+        "Folder Hash": "d2ab28be4112521aa02087e1c78892ec53c35a3cb142ea27047fd9a46133fb26",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, Email",
+        "List of Call-To-Actions": "Sign In, Create Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Steam logo, which is a registered trademark of Valve Corporation. The page also has links to the Steam Store, Steam Community, and Steam Support. The page is asking for the user's login credentials, which is a strong indicator that it is a login page. Finally, the page has a call to action button that says \"Sign In\", which indicates that the user can sign in to their Steam account.",
+        "Url": "http://stemapoveredi.webservis.ru/"
+    },
+    {
+        "Folder Hash": "f61e9099cc7afaf4778f046c6726165a7486dbdb995d107d55ea939d8305ad0c",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Webmail. The page also has fields asking for username and password. There is a call-to-action button that says \"Sign in\".",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeiggrjvcib3o7azzm3elxosjohozbngmvha4mltzzwvmcc3qgkydye"
+    }
+]

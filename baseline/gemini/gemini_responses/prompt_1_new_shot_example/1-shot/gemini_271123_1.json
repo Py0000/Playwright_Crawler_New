@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "164ad949f9595380059658035fdc02fbaf46e833d5e6a017297391509709b3cb",
+        "Brand": "Tasuri",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop, Contact, My Account",
+        "Confidence Score": "9",
+        "Supporting Evidence": "The webpage has a blue background with a white header and footer. The header contains the Tasuri logo, which is a stylized \"T\" with a circle around it. The logo is located in the top left corner of the header. The navigation bar is located in the center of the header and contains links to the home page, shop, shipping worldwide, contact, and my account pages. The footer contains the Tasuri logo, copyright information, and social media icons. The main content of the webpage is a carousel of images of Tasuri products. The images are accompanied by text that describes the products. The webpage also has a section for customer reviews and a section for frequently asked questions.",
+        "Url": "https://basurishop.com/"
+    },
+    {
+        "Folder Hash": "19ae88c673d1b61b7e5df50961ab9e6a8b7f0b532558125fd4b81cc9818933cf",
+        "Brand": "Banpro Grupo Promerica",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the logo of Banpro Grupo Promerica prominently displayed at the top left corner. The logo is distinct and easily recognizable. The webpage also has a login form with fields for entering a username and password. There is a \"Sign In\" button below the login form. The overall design and layout of the webpage is consistent with the branding of Banpro Grupo Promerica.",
+        "Url": "https://46c8371e-2ec7-4ab6-8119-797076e037dd.id.repl.co/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Hankook Tech",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Hankook Tech logo at the top left corner. The logo is distinct and is a registered trademark of Hankook Tech. The login form has fields for username and password. The call-to-action button is labeled \"Login\".",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "31c40fdd6f2f7007261f3cf59f7d4d1b3f3d3a306a031b3e5fb8ff85ea8c8028",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Buy Now, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a product landing page with the Microsoft logo prominently displayed at the top left corner. The Microsoft logo is distinct with four squares of different colors. The page is selling a product called \"Xbox Series X\". There is a prominent \"Shop Now\" button on the page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8596686c03d764958db74627678de987a7b5b3ed0490ec0b63b32c0d8374a54e",
+        "Brand": "Microsoft (Office 365)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Office 365 logo prominently displayed. The Office 365 logo is distinct with its four squares in blue, red, yellow, and green, which is well-recognized as part of Microsoft's suite of productivity and collaboration tools. The logo is positioned at the top center of the login box, which itself is centered on the screen against a white background. The presence of the \"Sign in\" button and the fields for entering email and password further indicate that this is a login page for Office 365.",
+        "Url": "http://d15a1lvkr18tre.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "a4ad70fbd111247f286b1364997a9099527e0e1348b8a070073b27d79abfbdeb",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started >",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent red Netflix logo at the top left corner. The word \"Netflix\" is also seen in the middle of the page. The page has a red background with a gradient to black at the bottom. The page has a large image of a TV show called \"Stranger Things\" with the words \"Watch on Netflix\" in the middle. The page also has a section called \"Create profiles for kids\" with an image of a child. The page also has a section called \"Frequently Asked Questions\".",
+        "Url": "https://gentmulaj1.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "c0a0edcd380a5c918c884cbd8de521c702eda077dac81d0ec9d92b519ee3d409",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, Buy Now, Choose Your Microsoft 365, Shop for Students, Sign up for free, Get it today, Download Visual Studio 2022, Welcome to your Windows 365 Cloud PC",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot is of the Microsoft Store. The Microsoft logo is clearly visible in the top left corner. The page is selling various Microsoft products, including the Xbox Series X, Surface Laptop Studio, and Microsoft 365. There is also a link to sign up for a free Microsoft account.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c40c09de4d38419a8dcef0dc13d33ad07bcf21bacd6df5984b58616b1fee3c8e",
+        "Brand": "Suncoast Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Member Number, Password",
+        "List of Call-To-Actions": "LOGIN, Join Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the words \"Suncoast Credit Union\" prominently displayed at the top left corner. The logo is also present on the same line. The login form has the words \"Log In To SunNet\" as well as \"Member Number\" and \"Password\" as field labels. The call-to-action button says \"LOGIN\". All these elements are consistent with the branding of Suncoast Credit Union.",
+        "Url": "https://suncoastaut.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "e9e9b5de6eda512206beb1f71d65125b14ce947010dcf5def32e0597f091f56e",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a login page with the Wells Fargo logo prominently displayed at the top center. The Wells Fargo logo is distinct with a stagecoach and the words \"Wells Fargo\" in a stylized font below it. The login page has two input fields, one for the username and one for the password. There is a green button with the text \"LOGIN\" to the right of the input fields. The background of the login page is white with a light blue gradient at the top. The overall design of the login page is consistent with the Wells Fargo branding.",
+        "Url": "https://intlexperiwellscomms.weebly.com/"
+    },
+    {
+        "Folder Hash": "f52a5a4a2e5c8da13499aaafe8a4df46e38baadac1abb724e8c183a9a47b38ef",
+        "Brand": "Gazprombank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Phone Number, Email, Passport Number, Residential Address, Employment Information, Income Information",
+        "List of Call-To-Actions": "Registration Button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a registration form for Gazprombank. The Gazprombank logo is clearly visible in the top left corner of the screenshot. The form asks for a variety of personal information, including full name, phone number, email, passport number, residential address, employment information, and income information. There is a registration button at the bottom of the form.",
+        "Url": "https://ultimatefinancesedition.com/"
+    }
+]

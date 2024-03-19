@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "002d11ef2b0ae2ad18243d649760709de8652dc07481e8112564690cad169e15",
+        "Brand": "Mail Server Authenticator",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://pub-b2f9e0b08962435fb4d4fd47fd9dc138.r2.dev/glki.html"
+    },
+    {
+        "Folder Hash": "4d260a8916fa7bf2d0e3bbc31d6a298e8fae35d211d48bc7680db8d896a4d54f",
+        "Brand": "Correos de Mexico",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "http://midasmap.uaslp.mx/midasmap/vendor/league/flysystem/src/acces/payxm/logmx/mxcor/portal/20232723-50QTR41861547UID_25012021-QTR-id_url.html=db6d89641d148fc10a4465080ff0933d75/"
+    },
+    {
+        "Folder Hash": "529576da61ace61d0b21a5c79b16af9635a5b4516399786999bd55d0e581b1d7",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Facebook login page. The Facebook logo is clearly visible at the top of the page. The page has fields for entering an email address or phone number and a password. There is also a button to log in. The page also has links to create a new account and to reset a forgotten password.",
+        "Url": "https://facebook-ewww.pages.net.br/"
+    },
+    {
+        "Folder Hash": "613ce80e7a9715a041d192008d5316f13917a2221c57ac75b3c61a3457311dc7",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand name \"Facebook\" is clearly visible at the top of the screenshot. The screenshot also contains a login form with fields for email and password. There is a call-to-action button that says \"login\".",
+        "Url": "https://enggg.pages.net.br/mn"
+    },
+    {
+        "Folder Hash": "8ba3e2dd2bcfe19372d8baa4cb436907deff2324ba932b20a33e03e7e834eae3",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5",
+        "Supporting Evidence": "",
+        "Url": "https://bafybeicm43px6o27r5emoydd7gf3xc6wj6ryisdbezzpglg6mqszrpgswa.ipfs.dweb.link/"
+    },
+    {
+        "Folder Hash": "b5a7a6d49a07d61e8a7b5ec298876dee232da785d889da5757e664eab82c9d10",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Telegram logo at the top left corner. The page also has a clear call-to-action button that says \"\u05db\u05df\" (Yes) and \"\u05dc\u05d0\" (No). The overall design and layout of the webpage is consistent with Telegram's branding.",
+        "Url": "https://cropping-felicitations.click/"
+    },
+    {
+        "Folder Hash": "be2af9d85a6464aa6a7add1b0849e35e587251459bb5e68e61793c9856cbed9c",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "http://site9611906.92.webydo.com/"
+    },
+    {
+        "Folder Hash": "c5ec3997918ae64a1bb52a528a435512da567651017a457f7e724a209b7b343a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8",
+        "Supporting Evidence": "",
+        "Url": "https://pub-e9643f0215594ce393fcc20bae6a69b0.r2.dev/index.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "ca01d76f887d9244a7db78b192ea9aa73c8fad66d2bf0afe5022ced99e185810",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "http://sencommune.com/ope/xon0qpjg3iils652ku7c1i1o.php?secure"
+    },
+    {
+        "Folder Hash": "d390545ea6ce0b5fe699bfcd33af0b7b32bfd8c578d7cdf67f552239d17472a3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number or email, Password",
+        "List of Call-To-Actions": "Log In, Create New Account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. It also has fields asking for user credentials such as phone number or email and password. Additionally, it has call-to-action buttons such as Log In and Create New Account.",
+        "Url": "https://auta-konarski.pl/authorize.php"
+    }
+]

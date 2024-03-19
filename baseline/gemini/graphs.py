@@ -96,7 +96,7 @@ if __name__ == '__main__':
 
     excel_paths = []
     for i in range(4):
-        path = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1", f"{i}-shot", f"results_{i}_shot.xlsx")
+        path = os.path.join("baseline", "gemini", "gemini_responses", "prompt_2", f"{i}-shot", f"results_{i}_shot.xlsx")
         excel_paths.append(path)
 
     graph_plotter = Graph()

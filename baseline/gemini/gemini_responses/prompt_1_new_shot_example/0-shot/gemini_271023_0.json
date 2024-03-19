@@ -1,0 +1,200 @@
+[
+    {
+        "Folder Hash": "0300be1c692e2598724d8992ed1687064d772dd4ad2c65bda20f614d0ef4321e",
+        "Brand": "Netshoes",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9",
+        "Supporting Evidence": "",
+        "Url": "https://pegueicupom.com/"
+    },
+    {
+        "Folder Hash": "2144b3b3cd198d7a15855e8b49cf59ec1f0f3961c0e81dfc211513e2234153f7",
+        "Brand": "Sands Macao",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Sands Macao logo at the top left corner. The logo is clearly visible and recognizable. The webpage also has a login form in the middle of the page. The login form has fields for username and password. The webpage also has a call-to-action button that says \"Login\". The button is clearly visible and recognizable.",
+        "Url": "https://www.igootv.com/home.php"
+    },
+    {
+        "Folder Hash": "2dbbc8f4dd74d47745add189f3a00b3e2861fc4ce30c19b902a50ca9603dcf84",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "http://telegczn.club/web"
+    },
+    {
+        "Folder Hash": "4be94d1cf61fe9314b54a30f884ff05ceb85319cf18c005774f79aac34155e14",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://4soclift.online/"
+    },
+    {
+        "Folder Hash": "644b57d030e8483c3c9ba3b7d842c5af03fed79ddce68af297cb1bc3aee48e0c",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The page is about Telegram, and it is hosted on telegram.org.",
+        "Url": "http://teleg1ream.com/"
+    },
+    {
+        "Folder Hash": "8346d4f6a9a0e0f0808c2c1203014b9126725f2467c66470ae0424c75ba8360a",
+        "Brand": "Redtail Technology",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Redtail logo and branding. The page requests for credentials like Username and Password. It has a call-to-action button saying \"Sign In\".",
+        "Url": "https://redtailfriday0004.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "90b0cf47d8679a3290669531272cbc327be8461ab49a11e27d3264438dd719bf",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.wayfair.com/Steelside%C3%A2%C2%84%C2%A2--Eliakim-Industrial-Style-14-Wood-Platform-Bed-X116573538-L12-K~W005462427.html"
+    },
+    {
+        "Folder Hash": "b796fd6776b871b74cabeb494ddb82588dc31df60f07db605d5695901607487f",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the bet365 logo on the top left corner. The login form has fields for username and password. The webpage has a green button that says \"Login\" and a blue button that says \"Register\".",
+        "Url": "https://7365009.com/#/?shareName=7365009.com"
+    },
+    {
+        "Folder Hash": "d9f5e35c9fb5542262bd582d5f636b133af4a90aafff6b67df8b3df58836c459",
+        "Brand": "M&T Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "LOGIN, ENROLL NOW",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the M&T Bank logo on the top left corner. The screenshot shows a login page with fields for Username and Password. There is a call-to-action button that says LOGIN. There is also a link that says ENROLL NOW.",
+        "Url": "http://busanopen.org/new/bbs/data/event/M_T/M&T/"
+    },
+    {
+        "Folder Hash": "da7209afd2979c8329dfa64c2cdd285d318b21fb6ef0d61afc18d53b243af9a7",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "1",
+        "Supporting Evidence": "",
+        "Url": "https://auth-production-4a4bc.firebaseapp.com/login-signup"
+    },
+    {
+        "Folder Hash": "ff6916b22443a2e449946b08e3e7067421ec161ecb39f9547100ebd639db7983",
+        "Brand": "137.132.218.133",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage displays the IP address 137.132.218.133, which is likely the server IP address. The webpage also displays the message \"Forbidden\", which suggests that the user is not authorized to access the webpage.",
+        "Url": "http://3659yy.net/errors/605.html"
+    },
+    {
+        "Folder Hash": "ff6b737751c4090f39e246dbab884d010e14c21797da0407b14cce12c5357d9c",
+        "Brand": "Cloudflare",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows the Cloudflare logo and trademark. The page's title is \"Just a moment...\" and the text below it says \"Please stand by, while we are checking if the site connection is secure.\" This indicates that the page is a security checkpoint by Cloudflare.",
+        "Url": "https://418a5b97.1266b8dd0c622df28d9af103.workers.dev/?qrc=sjackson@louisvillefire.com"
+    },
+    {
+        "Folder Hash": "ff745b855934ce4a847d3b07be14fae4fc8aec4fa405ff5cb8775bcd77e17ce6",
+        "Brand": "Commerzbank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username/Membername, PIN, TAN",
+        "List of Call-To-Actions": "Login, Registration",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Commerzbank logo at the top left corner. The page also has the words \"Commerzbank\" and \"Login\" on it. The fields asking for user credentials are labeled \"Username/Membername\", \"PIN\", and \"TAN\". The call-to-action button is labeled \"Login\".",
+        "Url": "https://blog.dularsharma.com/acces/Anmeldung%20zum%20Digital%20Banking%20-%20Commerzbank.php"
+    },
+    {
+        "Folder Hash": "ff767c6196dbe8c653667151d796452152f74768e2a208ff800c5d7bd774b662",
+        "Brand": "PhotoTAN",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage's title is \"PhotoTAN\" and the logo of the company is clearly visible in the top left corner. Additionally, the page contains several references to the company's name and products, such as \"PhotoTAN\" and \"TAN-Einstellungen\". Furthermore, the page contains several fields asking for user credentials, such as \"Benutzerkennung\" and \"Passwort\". Finally, the page contains several call-to-action elements, such as \"Jetzt einrichten\" and \"Details\".",
+        "Url": "https://blog.dularsharma.com/acces/phototan.php/"
+    },
+    {
+        "Folder Hash": "ff7defb38194d97bb909399e10a77a57bc4e7a8a1fc6cde104121ee2b2769083",
+        "Brand": "N/A",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "N/A",
+        "List of Call-To-Actions": "N/A",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot does not contain any logos or trademarks that can be used to identify the brand. There are no fields asking for user credentials or any call-to-action elements. The screenshot appears to be a generic error page.",
+        "Url": "https://ibmbucket7106.s3.jp-osa.cloud-object-storage.appdomain.cloud/crackpotism/YAHOO.html"
+    },
+    {
+        "Folder Hash": "ffa33109af4b72825f28ac19b14f48ddfb7d3cbd9652896a0c57107a29d32fc5",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://renassilva.github.io/Facebook-Clone/"
+    },
+    {
+        "Folder Hash": "ffbb55989db21c98053b19e4a84e60358232181175610a8f965873dd7b06e76e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed in the header and throughout the page. The overall design and layout of the page is consistent with Microsoft's branding guidelines.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "ffebad27c1c7954600ac1080a3f0cb7e07739fd4cba45813f06e45593c8567a9",
+        "Brand": "N/A",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "N/A",
+        "List of Call-To-Actions": "N/A",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot is a 403 Forbidden error page, which is returned by a web server when the client does not have access to the requested resource. The error page is styled with a light purple background and white text, and the text includes the error code \"403\" and the message \"Forbidden\". The error page also includes a link to the website's home page. The webpage does not appear to have any style information associated with it.",
+        "Url": "https://ibmbucket7106.s3.jp-osa.cloud-object-storage.appdomain.cloud/enterprises/OUT2.html"
+    }
+]

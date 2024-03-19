@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Telegram",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue banner at the top with the Telegram logo, which is a stylized \"paper plane\" icon. The word \"Telegram\" is written in a custom font below the logo. The background of the banner is blue. The rest of the webpage is white with black text. There is a large image of a phone with the Telegram app open. The image shows a conversation between two people. The text in the conversation is in Russian. There is a green button below the image that says \"Download Telegram\".",
+        "Url": "https://www.tbxjly.com/"
+    },
+    {
+        "Folder Hash": "1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53",
+        "Brand": "Libero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, email",
+        "List of Call-To-Actions": "Save button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the word \"Libero\" on the top left corner, which is the brand name. The page also has a section titled \"Dati per recuperare la password\" (Data to recover password), which asks for the user's phone number and email address. These are sensitive user credentials. There is also a button that says \"Salva\" (Save), which is a call-to-action button.",
+        "Url": "http://ip170.ip-51-89-105.eu/verifica.php"
+    },
+    {
+        "Folder Hash": "1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a",
+        "Brand": "Videotron",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Videotron logo at the top left corner. The screenshot is of a login page, with fields for email and password. There is a \"Connexion\" button below the password field. The page has a blue background, with a white box in the center containing the login form. The overall design and layout of the page is consistent with the Videotron brand.",
+        "Url": "https://videotronmaill.weebly.com/"
+    },
+    {
+        "Folder Hash": "31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b",
+        "Brand": "Trust Wallet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Download Now, Get some crypto",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with the Trust Wallet logo prominently displayed at the top center. The logo is distinct with a blue shield and a white \"T\" inside, which is well-recognized as a cryptocurrency wallet. The page has a blue background with white text and features a form with fields for email and password. There are also two call-to-action buttons labeled \"Download Now\" and \"Get some crypto\".",
+        "Url": "http://trustwallet.masdubai.com/"
+    },
+    {
+        "Folder Hash": "3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with a white Telegram logo at the top center. The logo is distinct with a stylized airplane as part of the \"T\" in Telegram. The word \"Telegram\" is written in a custom font below the logo. The rest of the page is filled with text and images describing the features of Telegram. There are no fields asking for user credentials or call-to-action buttons.",
+        "Url": "https://telegram-com-zhcn.pages.dev/"
+    },
+    {
+        "Folder Hash": "4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a webmail login form. The \"Webmail\" logo is displayed at the top of the page. The login form has fields for username and password. There is a \"Sign In\" button below the login form.",
+        "Url": "http://bafybeif263mizfzroy53si3dt7jafhzmwf33bx27v4qx7biqfknpfkiuvy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Coinbase Wallet button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a Coinbase webpage. The Coinbase logo is at the top left corner of the page. The page has a blue background with white text. The text on the page says \"Get Coinbase Wallet\". There is a blue button on the right side of the page that says \"Get Coinbase Wallet\". The button has a white outline. The page has a white background with blue text. The text on the page says \"The easiest and most secure crypto wallet. Store all your crypto and NFTs in one place. Trade 500+ assets on DEXes and earn.\" The page has a blue background with white text. The text on the page says \"Get Coinbase Wallet\". There is a blue button on the right side of the page that says \"Get Coinbase Wallet\". The button has a white outline.",
+        "Url": "https://www.coinbasewalletty.com/#/"
+    },
+    {
+        "Folder Hash": "834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Email password",
+        "List of Call-To-Actions": "Connexion button",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage screenshot shows a login form with fields for email address and email password. There is a green button with the text \"Connexion\" which is typically used as a call-to-action button. However, I cannot identify the brand as there are no logos or trademarks present in the screenshot.",
+        "Url": "https://mealyfulloptimization.midwaveventure.repl.co/"
+    },
+    {
+        "Folder Hash": "ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a green background with a white header and a dark grey footer. The header contains the bet365 logo, which is a green circle with a white \"365\" in the center. The logo is located in the top left corner of the header. The footer contains links to various pages on the bet365 website, including the sportsbook, casino, and poker room. The center of the page is a login form. The form has two fields: a username field and a password field. There is a green button next to the password field that says \"Login\".",
+        "Url": "https://896e365.com/#/"
+    },
+    {
+        "Folder Hash": "fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d",
+        "Brand": "Bank of Ireland",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Date of birth, Phone number",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Bank of Ireland logo at the bottom left corner. The page also has the words \"Bank of Ireland\"  in the title bar. The page is asking for user credentials such as User ID, Date of birth, and Phone number. There is a \"Continue\" button which is a call-to-action button.",
+        "Url": "https://personal365-transact.com/"
+    }
+]
