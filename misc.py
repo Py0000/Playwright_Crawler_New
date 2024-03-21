@@ -17,7 +17,7 @@ with open('exclude.txt', 'r') as file:
         already_verified.append(line.strip())
 
 month = "Dec"
-date = "011223"
+date = "151223"
 dataset_folder_path = os.path.join("datasets", month, f"dataset_{date}", f"dataset_{date}", f"dataset_{date}", "complete_dataset")
 
 target_path = os.path.join("dataset_new_validation", f"dataset_{date}")
@@ -28,7 +28,7 @@ copied_count = 0
 
 added_hash = []
 for folder in os.listdir(dataset_folder_path):
-    if copied_count == 20:
+    if copied_count == 8:
         break
 
     if not folder.endswith(".zip"):
@@ -36,11 +36,10 @@ for folder in os.listdir(dataset_folder_path):
 
     folder_hash = folder.replace(".zip", "")
 
-    if folder_hash not in already_verified:
-        file_path = os.path.join(dataset_folder_path, folder)
-        copy2(file_path, target_path)
-        copied_count += 1
-        added_hash.append(folder_hash)
+    file_path = os.path.join(dataset_folder_path, folder)
+    copy2(file_path, target_path)
+    copied_count += 1
+    added_hash.append(folder_hash)
     
 
 for folder in os.listdir(target_path):
