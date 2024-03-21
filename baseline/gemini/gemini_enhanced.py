@@ -145,7 +145,6 @@ class GeminiProVisionBaseline:
                 hash = zip_file.split(".zip")[0]
                 zip_path = os.path.join(zip_folder_path, zip_file)
 
-                # Extract the zip file
                 with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                     screenshot_file_path = self.get_screenshot_path(zip_ref)
                     if not screenshot_file_path:
@@ -191,8 +190,8 @@ if __name__ == '__main__':
     if args.benign_phishing == "benign":
         folders = utils.benign_folders
     else:
-        #folders = phishing_folders
-        folders = ["011123"]
+        folders = phishing_folders
+        # folders = ["011123"]
     
     use_html = True if "html" in args.use_html else False
     gemini_baseline = GeminiProVisionBaseline(args.benign_phishing, use_html)
