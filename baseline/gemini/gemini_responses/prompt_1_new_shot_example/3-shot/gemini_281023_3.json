@@ -1,0 +1,156 @@
+[
+    {
+        "Folder Hash": "0015774493212635500a50bee649903dbfa75ba50bd10e9d4ad469708fc143dc",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent AT&T logo at the top center. The page also has two text fields, one labeled \"User ID\" and the other labeled \"Password\", indicating that this is a login page. There is also a blue \"Sign In\" button below the text fields.",
+        "Url": "http://site9613638.92.webydo.com/"
+    },
+    {
+        "Folder Hash": "1ebdbd3ba2ec49a9a59303ab1673300c9e367009efe7248bd677b9a61d802627",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a simple design with a white background and blue accents. The cPanel logo is at the top center of the page. The login form has two input fields for email address and password, and a blue button labeled \"Log In\". Below the login form, there is a link to reset the password.",
+        "Url": "http://bafybeiagroeoycb2v6dizowqc7bnsqsgwtzqxgscmygrdch36t5gwrktmu.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "33c5d2e0e7d7f4526d19acbee64c038df5dde2e58c498d2ac309dc56e3757255",
+        "Brand": "Disqus",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Log In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with white text. The word \"Disqus\" is written in large, bold letters at the top of the page. The page is divided into two sections. The left section has a picture of two people talking. The right section has a form with two fields: \"Email Address\" and \"Password\". There is a blue button below the form that says \"Log In\". The page also has a link that says \"Forgot Password?\" below the form. The overall design and layout of the page is consistent with the Disqus branding.",
+        "Url": "https://disqus.com/"
+    },
+    {
+        "Folder Hash": "37de5595c7b65344df099b6ef1ae9b0b186ec5198390c2184df2d10875f768db",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email account, Password",
+        "List of Call-To-Actions": "ACCEDER AL CORREO",
+        "Confidence Score": "5",
+        "Supporting Evidence": "The webpage has a simple design with a white background and a black header. The header contains the text \"Webmail Email Login\" and the logo of the company, which is an envelope with the letter \"W\" on it. Below the header, there are two text fields, one for the email account and one for the password. There is also a button that says \"ACCEDER AL CORREO\". The overall design of the webpage is simple and easy to use. However, there are no other identifying features that would indicate the brand of the webpage.",
+        "Url": "https://scure001.logins.account11.perniktermo.com/aps/"
+    },
+    {
+        "Folder Hash": "6d8bb9e3fca9f90e2a135b6b4ec438d0eff7de0f400605cc436b9365045d5935",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password, Create new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the login page of Facebook with its distinctive blue logo with white lowercase letters. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text \"Facebook helps you connect and share with the people in your life.\"",
+        "Url": "https://dfsdcsfdgf.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6d8cc8eda0c091e69037be6dfb4561826139ba9844df128097561da8a5d384a1",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Phone Number",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Telegram, a messaging app, at the top center. The page has a field asking for phone number. The page does not have any call-to-action buttons.",
+        "Url": "https://tele-gram05.com/"
+    },
+    {
+        "Folder Hash": "6d9ea30a69450d6c17bb93fcec49312608e0dc356faf97639c529b6719ed09c9",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password, Create new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the login page of Facebook with its distinctive blue logo with white lowercase letters. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text \"Facebook helps you connect and share with the people in your life.\"",
+        "Url": "http://www.impideservicios.es/"
+    },
+    {
+        "Folder Hash": "83abb96b18883ce8b580021d21b274a8fbf7bff531067aa7071cfd098ec42890",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://pub-ecfd66fe742646ddbea15f7c9799b3ee.r2.dev/kpass.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "9a1fffb3d56f45733788c317d89784e6feecfc83f37bc3eba59b5a883bf19dc8",
+        "Brand": "Deer Park Progress",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Subscribe, Login, Place an Ad, Contact Us, Obituaries",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the words \"Deer Park Progress\" at the top left corner, indicating it is the logo of the webpage. The navigation bar also contains the same logo. The webpage also has the words \"Since 1948\" below the logo, indicating it is the slogan of the webpage.",
+        "Url": "https://deerparkprogress.com/hsgcvsj/marmerconstruction/bwfydhlabwfybwvyy29uc3rydwn0aw9ulmnvbq=="
+    },
+    {
+        "Folder Hash": "9e1a6849841d59f3773edc88c896b2f41a43b054a4e9f6c37ddc9aa20266a505",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a Microsoft logo at the top left corner. The page requests for a password, and has a \"Sign in\" button.",
+        "Url": "https://pub-2598caa00dcf4c658bf8753f6761f962.r2.dev/compki.html"
+    },
+    {
+        "Folder Hash": "c99bd0bd3d9229ba01bd0a86e65d6f94837ae58ec8db350c29a26b9a14dcfc95",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://ipfs.runfission.com/ipfs/bafybeignwgza547soouu5nbyb35msg3x2yi7o2ezx2szaezb3vc22unacu/fficeo_office74.html"
+    },
+    {
+        "Folder Hash": "d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Coinbase Wallet",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent Coinbase logo at the top left corner. The background is blue with a gradient effect, and the text \"Get Coinbase Wallet\" is displayed in a large, bold font in the center of the page. The page also has a blue button with the text \"Get Coinbase Wallet\" in the bottom right corner.",
+        "Url": "https://www.bakkt-trade.com/#/"
+    },
+    {
+        "Folder Hash": "f48e5116748c257ae48d1055ff462a4d750173ffb934f18cbdbc0a94a1a34cdf",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a logo of an envelope with the text \"Webmail\" next to it. The login page has fields for username and password, and a \"Sign in\" button.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmeFgtyCcgC1dLPwKewSAifcDDjteT9njUGntftNC1qnxb"
+    },
+    {
+        "Folder Hash": "fa60dcca8166fe2201f9c656d3e56cbac26fa414b1c9ea740a9ef84ec31a1c8f",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Telegram logo is clearly visible at the top of the webpage. The webpage is also in Chinese, which is consistent with the fact that Telegram is a Russian messaging app.",
+        "Url": "https://terlergram.com/"
+    }
+]

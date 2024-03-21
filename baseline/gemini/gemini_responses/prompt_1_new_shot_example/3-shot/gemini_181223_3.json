@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "001c4940ddcc0c4dc4aa6ec299a9f25f02973575e071f645aef3cf6ef84a5203",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0",
+        "Supporting Evidence": "The screenshot does not contain any logos or trademarks that can be used to identify the brand. There are no fields asking for user credentials or any call-to-action elements.",
+        "Url": "https://dapp.noderepository.xyz/"
+    },
+    {
+        "Folder Hash": "05c3053688c11ff410afd20bde88486bea076293d638a46f52bb85304b1b484a",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password, Create new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the login page of Facebook with its distinctive blue logo with white lowercase letters. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text \"Facebook helps you connect and share with the people in your life.\"",
+        "Url": "https://shiiivani.github.io/facebook-clone/Signin"
+    },
+    {
+        "Folder Hash": "1a5eb259e3acbd1df71255392e70e0c490dbd83cfac56c955b3188c559307ee5",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Purchase, Redeem, Shop, Events",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large banner at the top with the PUBG Mobile logo. The logo is distinct and easily recognizable. The background image is also related to PUBG Mobile. The webpage also has a navigation bar with various options such as Home, Events, and Shop. These options are all related to PUBG Mobile.",
+        "Url": "https://djs2.krafton-news.com/"
+    },
+    {
+        "Folder Hash": "2941b5ee70e6663efef41c2bc6ba66b3306f66a6170dd18f0a14e77dec7c2931",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a WhatsApp chat. The WhatsApp logo is visible at the top left corner of the screen, and the chat history is visible below. The screenshot does not contain any fields asking for user credentials or any call-to-action buttons.",
+        "Url": "http://grub-whatsapptouugif.website-x.my.id/vhsfhqpdhdsih6/"
+    },
+    {
+        "Folder Hash": "34bfe5f97619f25f1539d4624550042c51ccef178915aca43866ed16b2cbc27a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Learn More",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store, which is an online store owned and operated by Microsoft. The store sells a variety of products, including computers, software, games, and movies. The screenshot shows the home page of the store, which features a carousel of featured products. The products are displayed in a grid format, with each product having a thumbnail image, a title, and a price. The home page also has a number of navigation links, including links to the different product categories, the search bar, and the shopping cart.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "4366a2fd2d515108801071fe22f7e2d93c4ae97ac0464521081cf0c748b692d6",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the home page of Netflix, which is a streaming service. The logo is in the top left corner of the page. The page has a large banner with the text \"The biggest Indian hits. Ready to watch. Ready to start your anytime membership from \u20b91949\". Below the banner, there are several rows of movie and TV show titles. The page also has a search bar and a menu button in the top right corner.",
+        "Url": "https://vigneshsugumaran30.github.io/net/"
+    },
+    {
+        "Folder Hash": "4ef7f475e7dcc3e39cd8b0f6fea79bde51f5ff178334c6efc6d47b8e69283a81",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In, Contact Us",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Orange logo at the top left corner, which is a stylized orange square with the word \"Orange\" written in white. The Orange logo is well-known and is associated with the Orange brand. The webpage also has a login form with fields for email and password, as well as a \"Sign In\" button. The \"Contact Us\" button is also present.",
+        "Url": "https://lemedab246.wixsite.com/my-site/"
+    },
+    {
+        "Folder Hash": "5c1e2ee2058f106e6b32e5551bd271605993196c4e6bbd712d0c953351f1f4e2",
+        "Brand": "Microsoft (Xbox)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See all deals",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store, which is an online store operated by Microsoft. The logo of the Microsoft Store is prominently displayed in the top-left corner of the screenshot. The screenshot also shows a number of products that are available for purchase on the Microsoft Store, including the Xbox Series X and the Xbox Series S. The \"Shop Now\" and \"See all deals\" buttons are also clearly visible on the screenshot.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "6bdb075decab6bc1d6b14cc2939d8e7071325af91f39668d5243713df7fc9d32",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo prominently displayed at the top left corner of the page. The logo is a red rectangle with the word \"Netflix\" written in a stylized white font. The page also features a large banner image with the text \"Unlimited Movies, TV Shows and More\" and a prominent red button labeled \"Get Started\" in the center of the page. The overall design and layout of the page are consistent with the Netflix brand.",
+        "Url": "https://asimnizam1.github.io/net-flix/"
+    },
+    {
+        "Folder Hash": "7a25d13df82e4a7a2a69219cbb67c0239a3962a34ecde119b03900c4985672f8",
+        "Brand": "PayPal",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More, View Online",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with a large PayPal logo at the top center. The logo is distinctive with its blue and white color scheme and is well-recognized as a leading online payment platform. The page has a blue background with white text and features a large image of a smartphone with the PayPal app displayed on the screen. The text on the page is clear and concise, and the overall design of the page is clean and professional.",
+        "Url": "https://e.synchronyfinancial.com/H/2/v70000018c72c74158a784eaf4bbcf6cc0/d119b3a0-025c-41a2-bb54-ea3c4cc4bcc7/HTML/"
+    },
+    {
+        "Folder Hash": "97c3f473a71eab374d6f279ff0b82d0feabb0ecb8611b735ab58210d8e7c0907",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large banner at the top with the Discord logo and the text \"Imagine a Place\". Below the banner, there is a section with the text \"Ready to start your journey?\" and a button that says \"Download for Windows\". The Discord logo is distinctive and easily recognizable, and the overall design of the webpage is consistent with Discord's branding.",
+        "Url": "http://server-discord.ggchat.com.cn/"
+    },
+    {
+        "Folder Hash": "99b66781d5b7edc07bdc48c5056e2ef1f1c51edc7ceaca61cd59666682e594eb",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent logo of Netflix, which is a well-known streaming service. The logo is located at the top left corner of the page. The page also has a large banner image with the text \"Unlimited movies, TV shows, and more\" along with a prominent button labeled \"Get Started\". The page also has a section with the text \"Create profiles for kids\" and a button labeled \"Learn More\".",
+        "Url": "https://arsvzero.github.io/Project-Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "9ab4fa1c959bf3be3169b507f370cfea8b95f4be7e203376e497d1e8b1c5bc37",
+        "Brand": "Timeweb",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Order, Details",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The Timeweb logo is visible at the top left corner of the web page, with a blue and white color scheme. The page has a blue background with white text, and features a large image of a globe in the center. The globe is surrounded by a number of smaller images, each of which represents a different type of hosting service that Timeweb offers.",
+        "Url": "https://premium60.timeweb.ru/blocked/?ref=cu34756.tw1.ru"
+    },
+    {
+        "Folder Hash": "be34b6cca5a7af4be027c7c1de33b2d52c6a6e16deed92d1c06f492e35e1cce5",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Unlock Benefit, Browse Voucher Details, Claim Instantly",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage that is offering a 500 rupees Amazon Pay gift card as a welcome benefit for Axis Bank My Zone Credit Card users. The page has a blue background with white text and features the Axis Bank logo at the top left corner and the Amazon Pay logo in the center. The page also has a section that shows the steps to claim the gift card, including unlocking the benefit, browsing the voucher details, and claiming it instantly.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    },
+    {
+        "Folder Hash": "cb9914adde0ecaf6abafdc49413e594ac80031e387ea1be1a14c32d2d2b737c0",
+        "Brand": "Steam",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Yes, Install Steam",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Steam website, which is a platform for purchasing and playing video games. The Steam logo is visible in the top left corner of the screenshot, and the page is displaying information about a specific game. The call to action button is \"Install Steam\", which is consistent with the purpose of the website.",
+        "Url": "https://steam.work-shop.vip/"
+    },
+    {
+        "Folder Hash": "cbfb588ec267eb657fd1e55e5bbe5fc79ba2a73b2647fc2db76c7bb94948b145",
+        "Brand": "LiveAccess",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo of LiveAccess is visible at the bottom right corner of the web page. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://interpreteri.firebaseapp.com/login"
+    },
+    {
+        "Folder Hash": "f99dc48ed2e46675f05706b63b2178dcfc485d31b47c4fa9821a2ef7cb52269a",
+        "Brand": "LIFENG",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact Supplier",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has \"LIFENG\" and \"SHAOXING LIFENG NAIL INDUSTRY CO.,LTD.\" at the top of the page. The logo is also present at the top left corner of the page.",
+        "Url": "http://lifeng-staples.com/"
+    }
+]

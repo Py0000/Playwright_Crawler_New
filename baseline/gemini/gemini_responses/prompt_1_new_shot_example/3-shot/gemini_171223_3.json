@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1dd0c1f7539926d5de978334a85bf888b354fe7562d70e2db225b88b66b95612",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has the Orange logo at the top left corner. The logo is a square with the word \"Orange\" written in white and has a stylized orange on the left side. The background of the logo is black. The webpage also has a form with two input fields, one for the email address and one for the password. There is also a button that says \"Sign In\".",
+        "Url": "https://identifiez-vous08.hubside.fr/"
+    },
+    {
+        "Folder Hash": "295e747dadcb8721180a22558c01ec4070ffa6eb9f17b8ce619b3eb9346addeb",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Hier geht's zur Ihrer Bank",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is visible at the top left corner of the web page, with a distinctive blue and yellow color scheme. The logo is accompanied by the text \"Volksbanken Raiffeisenbanken\", which is the name of the bank. The page also has call-to-action button that reads \"Hier geht's zur Ihrer Bank\".",
+        "Url": "https://prosodix.com/.well-known/17704/Login.html"
+    },
+    {
+        "Folder Hash": "40ecb74ec815c943b3cb17e7f56cc3acbcd52c7981d23c71c047a65d838ab9f4",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Start your free trial",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. Below the logo is a form with a field for email address and a button that says \"Start your free trial\". The overall design and layout of the webpage is consistent with Netflix's branding.",
+        "Url": "https://mariomartinezaguilar.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "447ee13c34c2907cf3b9e8a10a97e3c4b17fd2776e21ea2e8e6e683d043a4316",
+        "Brand": "Bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Log-in, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The logo Bet365 is visible at the top center of the web page, with a distinctive green and yellow color scheme. The credentials and buttons can be seen on the screenshot.",
+        "Url": "http://nrl688.com/"
+    },
+    {
+        "Folder Hash": "6975b5e5aef785e2c0090af6307fc07857e92f41e2ed43cc3c48e50e9caa85e0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games, Choose your Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The screenshot shows a webpage with the Microsoft logo and branding. The page is advertising the Xbox Series X and has a green call-to-action button that says \"Shop now\". The page also has links to other Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "6bb2cc568067b517b177e9c705af145a8c6273391f4287fafb1e0dccfc401d08",
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Zone ID",
+        "List of Call-To-Actions": "Buy Now",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage screenshot shows the Codashop website, which is a popular website for purchasing in-game currency for various online games. The Codashop logo is clearly visible at the top of the page, and the page is full of information about purchasing in-game currency. The page also has a clear call-to-action button that says \"Buy Now.\"",
+        "Url": "https://jjoingrupwhastapp.ktt55.my.id/mobile-legends/index.php"
+    },
+    {
+        "Folder Hash": "8a7adf77466cef0fc8dde857892143a066055e9462fe229d11e2a38e6a31d2fa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo, which is a well-known streaming service. The logo is in the top left corner of the page, and it is accompanied by the text \"Unlimited movies, TV shows, and more.\" The page also has a large banner image that features a variety of popular movies and TV shows. The text \"Watch anywhere. Cancel anytime.\" is also displayed on the banner image. The screenshot also shows a form that users can use to sign up for a Netflix account. The form includes fields for an email address and a password. There is also a button that says \"Get Started.\" The presence of the Netflix logo, the banner image, the sign-up form, and the call-to-action button all indicate that this is a Netflix webpage.",
+        "Url": "https://waliderprint69.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "94edd0f6e0a96a44e6f967355303b830ad5b467b036415bede9646ad22c4571f",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "Log-in, Forgotten Password, Create new account",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows the login page of Facebook with its distinctive blue logo with white lowercase letters. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the main text \"Facebook helps you connect and share with the people in your life.\"",
+        "Url": "https://page-meta-support-id88594936.pages.mus.br/19"
+    },
+    {
+        "Folder Hash": "a7ff7179ebdc42e3298d3428a58517118b9a41b43897369bfbe2fb86046ce9a8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page with its distinctive red and black color scheme. The Netflix logo is clearly visible at the top of the page. The page has fields for email address and password, and a \"Get Started\" button.",
+        "Url": "https://prashantkmr389.github.io/netflix_clone/"
+    },
+    {
+        "Folder Hash": "d11faf0e41a2339470a2d495463bdf51e2665f65552e94fdff0f473cee9a2aac",
+        "Brand": "Bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cardholder name, Card number, Expiration date, CVV, Phone number",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has a red banner at the top with a white \"bpost\" logo. The logo is also present at the bottom of the page. The page has a form with fields for entering credit card information, including the cardholder name, card number, expiration date, CVV, and phone number. There is a \"Next\" button at the bottom of the form.",
+        "Url": "https://pakket-bpost-be.web.app/"
+    }
+]

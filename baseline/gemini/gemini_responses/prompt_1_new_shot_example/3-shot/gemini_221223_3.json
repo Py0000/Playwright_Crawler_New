@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1bc24aeff90db5aa1a3e53e00ea5d7b1a3ebbe58bc68d7e77008617c16851f69",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games, Choose your Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store webpage. The Microsoft logo is prominently displayed in the top left corner of the page. The page is selling various Microsoft products, including the Xbox Series X, Xbox games, Microsoft 365, and Surface laptops. The \"Shop\" button is clearly visible in the top right corner of the page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "1cd0dbd45cc37ebf6eb2f4fb3dba22ee61b04015e6c0709981976f600d82f0af",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Facebook, Twitter, YouTube, Instagram, VK, Discord, Google Play, Apple ID, Huawei ID",
+        "List of Call-To-Actions": "Log-in, Register",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The PUBG Mobile logo is clearly visible at the top of the page. The screenshot also shows the option to log in with various social media accounts, including Facebook, Twitter, and Google. The presence of these social media logos, along with the PUBG Mobile logo, indicates that this is the official PUBG Mobile webpage.",
+        "Url": "https://goodeat12.eventfree.de/"
+    },
+    {
+        "Folder Hash": "2652bcee0aeaf8fb0d8c70e5ee1a4c79b2c884b99d9f64ae19e428e0bee518b0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "GET STARTED, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. Below the logo is a form with two input fields, one for email address and the other for password. There is a red button with the text \"GET STARTED\" next to the form. The page also has a link to sign in.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "52a14d8528acc72b4ed6e7793fe341a8aa84711925ee3bf80707b238e7f772d4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games, Shop Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store homepage with the Microsoft logo and the search bar at the top of the page. The main content of the page is a carousel of featured products, including the Xbox Series X, Xbox games, Microsoft 365, and Surface laptops. The page also has a number of navigation links at the top, including links to the Xbox Store, Windows Store, and Office Store.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "79dd2bd59fab3bde710517c9528ac5a279f8d5380d21e55df6bfebac0c44977b",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Hier geht's zur Ihrer Bank",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The brand logo is placed at the top left corner of the webpage. It is a combination of two logos, one with blue and red letters reading \"Volksbanken\" and the other with a blue and green swoosh and the words \"Raiffeisenbanken\". The colors and logomark are distinctive and well-known in Germany, where the bank is headquartered. Additionally, the page's URL contains \"volksbanken-raiffeisenbanken\", which further supports the identification.",
+        "Url": "http://puchem-international.com/.well-known/64394/Login.html"
+    },
+    {
+        "Folder Hash": "7b226573de1568a0182cc870e9eefab06d506c979bba734e0b8cf66fe4ee1798",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix login page with its distinctive red and black color scheme and the Netflix logo prominently displayed at the top center of the page. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://darsandinesh.github.io/Netflix_Clone/"
+    },
+    {
+        "Folder Hash": "b62094a01946c3c1aab9c6300e05f34310d50ecc3b63823db6e890e2d77256a7",
+        "Brand": "Microsoft (Outlook)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign-in button",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an \"O\" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.",
+        "Url": "https://microsoftsupport.be/en/connect/?email=3mail@b.c&secret=dxhaxuE5KtdQAcReEzKYY0eKJkHpA556Ueeb"
+    },
+    {
+        "Folder Hash": "c62dacc4a2a1f3b5eb142353bee0ecff811e5f43b1234b2775757a3cd8227d73",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent red Netflix logo at the top center. The word \"Netflix\" is also seen on the left corner of the page. The page has a form where users can enter their email address to get started or sign in. The page also has links to the Netflix app and other information about the service.",
+        "Url": "https://rajithteja04.github.io/Netflix-Home-Page-Clone/"
+    },
+    {
+        "Folder Hash": "c8123d8101a7c3d9bdd8d0dc730cea4c58025b101613fe7e0db20ad72ab1e4be",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign-in, Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo prominently displayed at the top left corner of the page. The logo is a red and black wordmark with a distinctive \"N\" design. The page also features a large banner image with the text \"Unlimited movies, TV shows and more\" and a call-to-action button that says \"Get Started\". The overall design and layout of the page is consistent with the Netflix brand.",
+        "Url": "https://atharva5522.github.io/Netflix-project/"
+    },
+    {
+        "Folder Hash": "dc9d05a407242d2a7cae23e50be4e41682fb138bb5a5f7829917f198df2417c1",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a blue background with a white box in the center. The white box contains the cPanel logo, which is a blue and white circle with the letter \"c\" in the center. The words \"Webmail\" and \"Copyright \u00a9 2023 cPanel, L.L.C.\" are also visible on the webpage.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeidoii6rv43yd4duuure2kdyneon7cu5oughg76cfsb4m3yz4asflq/"
+    }
+]

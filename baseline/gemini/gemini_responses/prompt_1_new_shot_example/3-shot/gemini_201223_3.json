@@ -1,0 +1,167 @@
+[
+    {
+        "Folder Hash": "05af1ebf4057cde3f9b51d4d45e4d7ec9a4d25b4b4c19d17bcc93a43b416bf2e",
+        "Brand": "Volksbanken Raiffeisenbanken",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Hier geht's zur Ihrer Bank",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with a blue background and a white header. The header contains the words \"Volksbanken Raiffeisenbanken\" and a logo with three birds. The main content area of the page contains a large image of a man and a woman standing in a field of flowers. The text \"Endlich geht's los\" is displayed in the center of the image. Below the image, there is a button that says \"Mehr erfahren\". The overall design and layout of the webpage is consistent with the branding of Volksbanken Raiffeisenbanken.",
+        "Url": "https://prosodix.com/.well-known/32044/Login.html"
+    },
+    {
+        "Folder Hash": "1bdb900bfccf4e4e37505e9ce233a21717f58723ceec82391212378c2ff94d1f",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo prominently displayed in the top left corner. The logo is a red \"N\" on a black background, which is well-known and easily recognizable. The page has a large banner image featuring various popular movies and TV shows available on Netflix, along with a prominent \"Join Now\" button in the center of the page. The overall design and layout of the page are consistent with Netflix's branding and user interface.",
+        "Url": "https://amangangwani1101.github.io/Netflix-Clone-Project/"
+    },
+    {
+        "Folder Hash": "262401372fb780e37223f4792f374c89ac64f0b97f97186facd5482a028b6164",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games, Shop Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store homepage with the Microsoft logo clearly visible in the top left corner. The page is divided into different sections, each showcasing different products and services offered by Microsoft. The \"Shop\" button in the top right corner indicates that this is an e-commerce website. The overall design and layout of the page is consistent with other Microsoft webpages.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "27f412f186fb226179e9b6653f2e4ff9909d03d5b4b019b7c5fa54afef755020",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent red Netflix logo at the top center of the page, with a black background. The word \"Netflix\" is written in a stylized font, and the logo is widely recognized. The page also has a large banner image with the text \"Watch TV shows and movies online\" and a prominent red \"Get Started\" button in the center. The overall design and layout of the page are consistent with Netflix's branding.",
+        "Url": "https://akulvarshney.github.io/Netflix-1/"
+    },
+    {
+        "Folder Hash": "2805bb0fa307fa184f85c4d1fa883075bfaab0ef2dd92700a5520c667b9f24f7",
+        "Brand": "Magalu",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large banner at the top with the word \"Magalu\" in large, stylized text. The banner also features a stylized \"M\" logo. The webpage also has a search bar with the Magalu logo on the left side. The overall design and layout of the webpage is consistent with the branding of Magalu, a well-known online retailer in Brazil.",
+        "Url": "https://promosdefimdeanoshop.shop/?shiny"
+    },
+    {
+        "Folder Hash": "3ad331948af8e3746a9d11c6e41a246d37f3118fde28fe5583dbbaa29d2ff693",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch Free for 30 Days",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo and a prominent call-to-action button that says \"Watch Free for 30 Days.\" The overall design and layout of the page are consistent with Netflix's branding.",
+        "Url": "https://atharsh1502.github.io/netflix-landing-page/"
+    },
+    {
+        "Folder Hash": "4a937421713eed06d7e7b0eaea4c01024d04bed07b9813c0f83b09829e99bf0c",
+        "Brand": "Centauro",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Comprar (Buy Now)",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large banner at the top with the Centauro logo and the text \"Marcas em oferta\" (Brands on sale). The logo is a blue centaur with a yellow star on its chest. The webpage also has a search bar, a menu with links to different categories of products, and a shopping cart icon. The overall design of the webpage is consistent with the Centauro brand.",
+        "Url": "https://centaroloja.com/"
+    },
+    {
+        "Folder Hash": "6a3e2d3f7ff390db0469d5ee37b6ea1f467f660997bf7e152b96f90ee2fabef5",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID",
+        "List of Call-To-Actions": "Verify ID",
+        "Confidence Score": "8",
+        "Supporting Evidence": "The webpage has the Garena Free Fire logo at the top. The logo is distinct with a red and white flame symbol, which is well-recognized as part of Garena Free Fire's branding. The logo is positioned at the top center of the webpage. The page also has a text that says \"MASUKKAN ID\" which means \"ENTER ID\" in English, and a button that says \"CEK ID\" which means \"CHECK ID\" in English.",
+        "Url": "https://garena-event-5471.cd-id.com/id/"
+    },
+    {
+        "Folder Hash": "8dfc287dda2dca2bd48500b3e4806eed6c003a4efab2811da26c62efdb056801",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch Free For 30 Days",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Netflix logo, which is a well-known streaming service. The webpage has a red background with a large banner that says \"Watch What's Next\" with a button that says \"Watch Free For 30 Days\".",
+        "Url": "https://baibhavos.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "8f59fb6242ff247a96f95ac2d034be9a3b8578829ea79249face0fa427f012d6",
+        "Brand": "Steam",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get a card",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows a webpage with a large blue background and a white border. The word \"Steam\" is displayed in the top left corner in white text, and the words \"Meet the winter!\" are displayed in the center in white text. Below this, there is a green button that says \"Get a card\". The overall design of the webpage is consistent with the Steam branding, and the logo is clearly visible.",
+        "Url": "https://steamconmuniry.com/giftcard/20576538"
+    },
+    {
+        "Folder Hash": "c4d8bd3ef4f41953861c2fb8edb28c922da6a65a44087b14a044d1f1674ac929",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinctive with a red \"N\" and a black \"Flix\" in a lowercase font. The webpage also has a large black button that says \"Get Started\" in the center. The button is surrounded by a white border. The webpage also has a link that says \"Sign In\" in the top right corner.",
+        "Url": "https://bhagyeshree111.github.io/Netflix-Clone/"
+    },
+    {
+        "Folder Hash": "c7f1171c970e340924eaeb734a1c3bd7c46ca0f35a61e7253b7c18820aba6497",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download, Shop MetaMask Swag",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a large MetaMask logo at the top center. The call-to-action button is also labeled \"Download\".",
+        "Url": "https://metnmask.io/"
+    },
+    {
+        "Folder Hash": "da8e1a142f03d4b37bc677c866615a4c054bbbc0d7d922cbbb2a0ab544b39a8f",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a prominent red Netflix logo at the top center. The page is using Netflix's signature red and black color scheme. The page is also using Netflix's signature font. The page is asking for the user's email address, which is a common way for Netflix to identify its users.",
+        "Url": "https://omkarkankrale.github.io/Netflix_landing_page_clone.github.io/"
+    },
+    {
+        "Folder Hash": "e38bfa27d4fddce87e87435673e2aeb20c1e623a6d0f9b04e0334107d89c25f6",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Vamos l\u00e1",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The webpage has a red background with a large Netflix logo at the top center. The logo is distinct with a large \"N\" in red and a smaller \"netflix\" in black below it. The webpage also has a large image of a TV show or movie in the background. The credentials and buttons can be seen on the screenshot.",
+        "Url": "https://edu78765689.github.io/Projeto_netflix/"
+    },
+    {
+        "Folder Hash": "ebb38e87da96e18d1611162888c93d58ca43176787abf54e184ffe46ef13dfef",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Xbox Series X, Shop Xbox games, Shop Microsoft 365, Sale, Shop for students",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The screenshot shows the Microsoft Store homepage with the Microsoft logo clearly visible in the top left corner. The page is divided into different sections, each showcasing different products and services offered by Microsoft. The \"Shop\" button in the top right corner indicates that this is an e-commerce website. The overall design and layout of the page is consistent with other Microsoft web pages.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    }
+]
