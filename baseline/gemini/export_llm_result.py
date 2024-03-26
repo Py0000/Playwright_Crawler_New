@@ -78,9 +78,10 @@ if __name__ == '__main__':
     parser.add_argument("is_phish", help="Is Phishing Column")
     args = parser.parse_args()
 
-    folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
-    
+    #folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
+    folders = ["USPS"]
     for folder in folders:
-        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_new_shot_example", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
+        #json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "targeted_experiment", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
+        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "targeted_experiment", f"gemini_{folder}_{args.shot}.json")
         export_object = LlmResultExport(args.hash_col, args.brand_col, args.credentials, args.call_to_actions, args.confidence_score, args.sld, args.is_phish)
         export_object.update_sheet_with_responses(json_file_path, args.sheet_path)

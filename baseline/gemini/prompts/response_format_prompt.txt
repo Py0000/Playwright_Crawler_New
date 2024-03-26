@@ -4,5 +4,5 @@ Return your response in the following forma, replace everything in <> with your 
 3. Has_Call_To_Action: <Yes/No>
 4. List_of_credentials: <response if Yes for (2), otherwise NA. Keep within top 10 fields.>
 5. List_of_call_to_action: <response if Yes for (3), otherwise NA. Keep within top 10 fields.>
-6. Confidence_Score: <How confident are you when identifying the brand on scale of 0 to 10, 10 being confident, 0 being not confident>
-7. Supporting_Evidence: <response, keep it within 500 words>
+6. Confidence_Score: <How confident are you when identifying the brand on scale of 0.0 to 10.0 (as precise as possible, give in decimal), 10.0 being confident, 0.0 being not confident>
+7. Supporting_Evidence: <response, keep it within 300 words>
