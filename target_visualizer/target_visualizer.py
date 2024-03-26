@@ -22,13 +22,15 @@ class TargetVisualizer:
 
 
     def set_common_settings_for_plot(self, x_label, y_label):
-        plt.figure(figsize=(20, 12)) # Set the figure size
+        plt.figure(figsize=(50, 25)) # Set the figure size
         plt.xticks(rotation=90) # Rotate the x-axis labels to show them vertically
         plt.xlabel(x_label) # Set the x-axis label
         plt.ylabel(y_label) # Set the y-axis label 
         plt.title(f'Targeted Brands for week {self.start_date} to {self.end_date}') # Set the title of the chart
-        plt.tight_layout() # Adjust the layout to fit everything nicely
-    
+        plt.tight_layout(rect=[0, 0.1, 1, 1]) # Adjust the layout to fit everything nicely
+        plt.subplots_adjust(bottom=0.15)
+        plt.grid(True, which='both', linestyle='--', linewidth=0.5, color='gray', axis='y')
+
 
     def save_plot(self, plot_output_name):
         plt.savefig(plot_output_name)
@@ -47,7 +49,7 @@ class TargetVisualizer:
         mask = (df['Date (of Dataset)'] >= start_date) & (df['Date (of Dataset)'] <= end_date)
         
         # Only include those targets that are deemed as phishing after VirusTotal validation (>4) and manually verified
-        mask &= (df['Final Verdict '] == 'Yes')
+        mask &= (df['Final Verdict'] == 'Yes')
         filtered_df = df.loc[mask]
 
         # Extract targeted Brandfrom the filtered DataFrame
