@@ -148,4 +148,5 @@ Returning to the ssh session:
   * `confidence_score_col`: I
   * `sld_col`: J
   * `is_phish_col`: K
+  * `is_phish_col`: L
 
