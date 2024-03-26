@@ -109,19 +109,19 @@ async def start_crawling(feed, dataset_folder_name):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Supply the folder name.")
-    """
+    
     parser.add_argument("folder_name", help="Name of the folder")
     parser.add_argument("start_index", help="Start range")
     parser.add_argument("end_index", help="End range")
+    args = parser.parse_args()
     """
     parser.add_argument("url", help="url of page")
     parser.add_argument("dataset_folder_name", help="name of folder")
     args = parser.parse_args()
 
     asyncio.run(start_crawling(args.url, args.dataset_folder_name))
-
     """
     benign_crawling_preprocessing(args.start_index, args.end_index, args.folder_name)
     asyncio.run(process_benign_feeds(args.folder_name))
     print("Program ended!!!")
-    """
+    
