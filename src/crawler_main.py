@@ -60,6 +60,7 @@ async def get_server_side_data(browser, ref_flag, folder_path, to_visit_url):
             await route.continue_()
     
     print("Getting server-side data...")
+    status = "Error visiting page"
     try:
         context = await browser.new_context(java_script_enabled=False)
         page = await context.new_page()
