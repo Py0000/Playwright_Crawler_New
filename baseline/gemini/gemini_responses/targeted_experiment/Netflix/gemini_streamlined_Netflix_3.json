@@ -1,0 +1,24 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number, Password",
+        "List of Call-To-Actions": "Sign In, Forgot password?, Sign up now",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The image shows the Netflix login page with its distinctive red and black logo at the top centre. The credentials and buttons can be seen in the centre of the screenshot.",
+        "Url": "https://www.netflix.com/login"
+    },
+    {
+        "Folder Hash": 1,
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Netflix login page with its distinctive red and black logo at the top left corner. The credentials and buttons can be seen in the centre of the screenshot. The background of the page is a collage of various popular movies and TV shows available on Netflix.",
+        "Url": "https://www.netflix.com/sg/"
+    }
+]

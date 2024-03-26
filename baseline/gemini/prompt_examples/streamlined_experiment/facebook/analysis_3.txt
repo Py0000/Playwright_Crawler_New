@@ -1,0 +1,7 @@
+1. Brand: Facebook
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: Email or Phone Number, Password
+5. List_of_call_to_action: Log in, Forgotten password and Create New Account
+6. Confidence_Score: 10.0
+7. Supporting_Evidence: The image shows the Facebook marketplace page with its distinctive blue logo at the top right hand corner. The credentials and buttons can be seen on modal overlay of the screenshot. Moreover, in the modal overlay box, there is a phrase "See more on Facebook", which confirms that the brand is Facebook.

@@ -1,0 +1,13 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Registration",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The screenshot shows a webpage with a login form. The logo of Credit Agricole is clearly visible in the top left corner of the webpage. The words \"Login to Internet banking\" are also visible in the center of the webpage. There are two fields asking for user credentials: \"Login\" and \"Password\". There are also two call-to-action buttons: \"Login\" and \"Registration\".",
+        "Url": "https://online.credit-agricole.ua/en/security/logon"
+    }
+]

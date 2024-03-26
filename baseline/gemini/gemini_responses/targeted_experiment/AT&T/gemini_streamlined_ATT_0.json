@@ -1,0 +1,13 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username/User ID",
+        "List of Call-To-Actions": "Sign in with myAT&T app, Create one, Pay without signing in",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the AT&T logo and branding. It also has fields asking for user credentials such as username/user ID. Additionally, it has call-to-action elements such as \"Sign in with myAT&T app\", \"Create one\", and \"Pay without signing in\".",
+        "Url": "https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=login&appName=m14186&loginSuccessURL=https:%2F%2Foidc.idp.clogin.att.com%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fresponse_type%3Did_token%26client_id%3Dm14186%26redirect_uri%3Dhttps%253A%252F%252Fwww.att.com%252Fmsapi%252Flogin%252Funauth%252Fservice%252Fv1%252Fhaloc%252Foidc%252Fredirect%26state%3Dfrom%253Didp%26scope%3Dopenid%26response_mode%3Dform_post%26nonce%3DyFACtkmM"
+    }
+]

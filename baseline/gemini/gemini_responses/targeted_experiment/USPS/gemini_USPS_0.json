@@ -1,0 +1,145 @@
+[
+    {
+        "Folder Hash": "002f9d485e85f68aceb4f5c1bc965bd9158d960ffbf8c2cd756e99eafeec41ea",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. The URL contains \"usps.com\". The page has fields asking for user credentials such as full name, address, and phone number. There is a call-to-action button labeled \"Continue\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirmation/"
+    },
+    {
+        "Folder Hash": "00d37a7f9078c6266f92a66bb665b087bf60d62bfc38a98d726a2627493d2cb9",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Email Address, Street Address 1, City, State, Zip Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It also has a form asking for user credentials such as name, email address, and phone number. Additionally, there is a call-to-action button that says \"Continue\".",
+        "Url": "https://pzl.wev.mybluehost.me/wp-content/servicess/verification/"
+    },
+    {
+        "Folder Hash": "0b76b3e005e3ca0e9c577edd049376573aab854630d9122315ea217f859f02d5",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full name, Street address 1, Street address 2, City, State, ZIP code, Phone number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It also has a form asking for user credentials such as name, address, and phone number. Additionally, there is a call-to-action button that says \"Continue\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/standard-shipping/"
+    },
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It also has a form asking for user credentials such as name, address, and phone number. Additionally, there is a call-to-action button that says \"Continue\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "20149d4191f6dcf81f847340ab02f72e6af3b85a4597663ba971ba9905a653e1",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number, Email",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It also has a form asking for user credentials such as name, address, and email. There is a call-to-action button that says \"Continue\".",
+        "Url": "https://confirmuspsshippingaddress.didns.ru/"
+    },
+    {
+        "Folder Hash": "22af1ec3b90a104a01b29ee53b56c3e61118ac3cf25ccff03c00bc65b037c050",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone number, Email",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. The page is asking for user credentials such as full name, address, and phone number. It also has a call-to-action button that says \"Continue\".",
+        "Url": "https://confirmshippinguspsaddrestxtid.dynnamn.ru/"
+    },
+    {
+        "Folder Hash": "2b3c1a93bde66a3fff6092a80c390fed1687b0edf0d310d6186cdc25a838398a",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the USPS logo, which is the United States Postal Service logo. The USPS is a government agency that provides postal services in the United States. The screenshot also shows the USPS website address, www.usps.com. The USPS website is a secure website that uses HTTPS. The screenshot also shows a number of links to other USPS pages, such as the USPS tracking page and the USPS stamps page. The USPS website is a valuable resource for anyone who needs to send mail or track a package.",
+        "Url": "https://usspspriority.com/"
+    },
+    {
+        "Folder Hash": "6b2e4fe7ff3ca135107a74e14fc64718544dd3f620e5f6ec4954b557d41e07f4",
+        "Brand": "United States Postal Service",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It also has a USPS tracking number field.",
+        "Url": "http://usps.redelivery-team.com/change/address/"
+    },
+    {
+        "Folder Hash": "77331e825854d01d14053bbd16f9bf6c1f320e444ebe3fdad11faa83d8ad25a3",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It also has a field asking for a tracking number, which is a credential. It has a call-to-action button that says \"Continue\".",
+        "Url": "https://www.chile-correos.net/tracking.php"
+    },
+    {
+        "Folder Hash": "8a1b6cd4242e7958c4603ab9eca41aaa73ba133edda9c2b0420a99a43c723453",
+        "Brand": "United States Postal Service",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo, \"USPS.COM\" in the footer, and \"United States Postal Service\" in the copyright notice. The page also has a form asking for user credentials, including email, street address, city, state, ZIP code, and phone number. There is also a \"Continue\" button that is likely used to submit the form.",
+        "Url": "https://www.j-natural.com/catalog/model/catalog/maint/en/"
+    },
+    {
+        "Folder Hash": "b152ab1f314e8508af30123e4907f67ac1657d02dca13a358679d6452c92bf2e",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It has fields asking for user credentials such as name, address, and phone number. It also has a call-to-action button that says \"Continue\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/standard-shipping/"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo and branding. It is a USPS webpage for tracking packages. The page has fields for entering tracking numbers and other information. There is a call-to-action button labeled \"Continue\".",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "bf311703f6460d29eabe2a42b9bab2583e46ac2eee458f898514d95d59b93b65",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the USPS logo, which is a registered trademark of the United States Postal Service. The page is also hosted on the usps.com domain, which is owned by the USPS. The webpage is used to track USPS shipments.",
+        "Url": "https://zxb.bgd.mybluehost.me/uspshome/"
+    }
+]

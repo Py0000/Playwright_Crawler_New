@@ -1,0 +1,7 @@
+1. Brand: Garena
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: Player ID
+5. List_of_call_to_action: Login
+6. Confidence_Score: 10.0
+7. Supporting_Evidence: The image shows the login page of Garena with its distinctive red logo at the top, just above the banner with the text "SHOP.GARENA.SG". The credentials and buttons can be seen on the screenshot. 

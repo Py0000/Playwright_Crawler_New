@@ -1,0 +1,24 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "Bancolombia",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "ID",
+        "List of Call-To-Actions": "continue",
+        "Confidence Score": "9.9",
+        "Supporting Evidence": "The brand shown in the screenshot is Bancolombia as indicated by the Bancolombia logo (black) at top left corner of the page.",
+        "Url": "https://sucursalpersonas.transaccionesbancolombia.com/mua/USER?scis=BC2WeRRpkMOcaAAVgYHLkgi6%2FfD%2Bj%2BcfP3JunQ3Eb4E%3D#no-back-button"
+    },
+    {
+        "Folder Hash": 1,
+        "Brand": "Bancolombia",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "9.9",
+        "Supporting Evidence": "The brand shown in the screenshot is Bancolombia as indicated by the Bancolombia logo (black) at top left corner of the page.",
+        "Url": "https://blog.bancolombia.com/?_gl=1*j2yx4f*_ga*MTA2MDAxNTgzMC4xNzExMzY3MzE5*_ga_GVYK05G3HJ*MTcxMTM3MzIyNi4yLjEuMTcxMTM3NDAwNi42MC4wLjA.&_ga=2.260094605.1015245789.1711367458-1060015830.1711367319"
+    }
+]

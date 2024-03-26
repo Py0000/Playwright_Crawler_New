@@ -1,0 +1,7 @@
+1. Brand: AT&T
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: User ID
+5. List_of_call_to_action: Continue, Forgot user ID? Don't hvae user ID? Create one now, Pay without signing in. Sign in with myAT&T app
+6. Confidence_Score: 10.0
+7. Supporting_Evidence: The image shows the login page of AT&T with its distinctive at the top of the credential box, just above the text "Sign in to myAT&T". The credential fields and buttons can be seen in the centre of the screenshot.

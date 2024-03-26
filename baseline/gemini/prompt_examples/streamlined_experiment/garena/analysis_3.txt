@@ -1,0 +1,7 @@
+1. Brand: Garena
+2. Has_Credentials: No
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: NA
+5. List_of_call_to_action: Download icon, Login with Facebook
+6. Confidence_Score: 9.8
+7. Supporting_Evidence: The image shows the download page of one of Garena's game with its distinctive red logo at the bottom center of the page, below the text "FREE FIRE BATTLE IN STYLE". The buttons can be seen at the top right and center the screenshot. 

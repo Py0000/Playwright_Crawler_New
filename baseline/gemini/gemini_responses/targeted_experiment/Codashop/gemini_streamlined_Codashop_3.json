@@ -1,0 +1,35 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Join Codashop Now, Sign In",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The image shows the Codashop webpage with its distinctive purple background and white text. The Codashop logo is present at the top left corner of the page. The credentials and buttons can be seen in the centre of the screenshot. The \"Sign In\" link is present at the bottom of the page.",
+        "Url": "https://www.codashop.com/en-sg/sign-up"
+    },
+    {
+        "Folder Hash": 1,
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Zone ID",
+        "List of Call-To-Actions": "Sign up, Secure Payments",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage has the Codashop logo at the top left corner. The screenshot also shows fields asking for User ID and Zone ID, as well as a button labelled \"Sign up\".",
+        "Url": "https://www.codashop.com/en-sg/valorant"
+    },
+    {
+        "Folder Hash": 2,
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Riot ID",
+        "List of Call-To-Actions": "Sign In, Sign Up",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The image shows the Codashop website with its distinctive Codashop logo at the top left corner. The credentials and buttons can be seen on the screenshot. The page also has the words \"Sign In\" and \"Sign Up\" which are common call-to-action elements.",
+        "Url": "https://www.codashop.com/en-sg/mobile-legends"
+    }
+]

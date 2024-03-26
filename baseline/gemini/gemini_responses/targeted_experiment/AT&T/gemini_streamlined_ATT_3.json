@@ -1,0 +1,13 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID",
+        "List of Call-To-Actions": "Continue, Sign in with myAT&T app",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The image shows the AT&T login page with its distinctive blue and white logo at the top centre. The credentials and buttons can be seen in the centre of the screenshot.",
+        "Url": "https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=login&appName=m14186&loginSuccessURL=https:%2F%2Foidc.idp.clogin.att.com%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fresponse_type%3Did_token%26client_id%3Dm14186%26redirect_uri%3Dhttps%253A%252F%252Fwww.att.com%252Fmsapi%252Flogin%252Funauth%252Fservice%252Fv1%252Fhaloc%252Foidc%252Fredirect%26state%3Dfrom%253Didp%26scope%3Dopenid%26response_mode%3Dform_post%26nonce%3DyFACtkmM"
+    }
+]

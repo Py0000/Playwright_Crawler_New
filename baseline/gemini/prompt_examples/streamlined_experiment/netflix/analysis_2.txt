@@ -1,0 +1,7 @@
+1. Brand: Netflix
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: Email
+5. List_of_call_to_action: Sign in, Get Started
+6. Confidence_Score: 10.0
+7. Supporting_Evidence: The image shows the get started page of Netflix with its distinctive red logo at the top (middle of left and centre) of the screenshot, above the text "Unlimited films, TV programmes and more". The credentials and buttons can be seen on the screenshot.

@@ -1,0 +1,13 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The logo of Credit Agricole is clearly visible in the top left corner of the screenshot. The words \"Login to Internet banking\" are also visible, indicating that this is a login page. The presence of a text field for a username and password, as well as a \"Login\" button, further confirms that this is a login page.",
+        "Url": "https://www.dana.id/personal?lng=id"
+    }
+]

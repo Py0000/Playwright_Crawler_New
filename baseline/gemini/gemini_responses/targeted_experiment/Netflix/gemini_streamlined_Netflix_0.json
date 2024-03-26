@@ -1,0 +1,24 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://www.netflix.com/login"
+    },
+    {
+        "Folder Hash": 1,
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" and its logo prominently displayed at the top left corner of the page. The page also has a form asking for user credentials such as email address. Additionally, there is a call-to-action button that says \"Get Started\".",
+        "Url": "https://www.netflix.com/sg/"
+    }
+]

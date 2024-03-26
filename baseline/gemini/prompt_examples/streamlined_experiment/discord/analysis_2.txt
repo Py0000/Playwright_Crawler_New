@@ -1,0 +1,7 @@
+1. Brand: Discord
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: Email or Phone number, password
+5. List_of_call_to_action: Log in, Forget your password?
+6. Confidence_Score: 5.8
+7. Supporting_Evidence: The image did not show any logo, but from my background knowledge, this page has design similar to Discord page. Also there is a text "Discord" in the sentence "Scan this with the Discord mobile app to log in instantly" and also a QR code with a discord logo in it. All these signifies that this is a Discord page. The credentials and buttons can be found to the left of the QR code.

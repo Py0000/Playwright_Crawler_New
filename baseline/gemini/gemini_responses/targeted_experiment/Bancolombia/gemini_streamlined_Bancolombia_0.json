@@ -1,0 +1,24 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "Banco de Bogota",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the logo of Banco de Bogota. It also has fields asking for username and password, which are sensitive user credentials. Additionally, it has call-to-action buttons such as \"Login\" and \"Register\".",
+        "Url": "https://sucursalpersonas.transaccionesbancolombia.com/mua/USER?scis=BC2WeRRpkMOcaAAVgYHLkgi6%2FfD%2Bj%2BcfP3JunQ3Eb4E%3D#no-back-button"
+    },
+    {
+        "Folder Hash": 1,
+        "Brand": "Bancolombia",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's header has the word \"Bancolombia\" and the trademark symbol. The overall layout and design of the webpage is consistent with other official Bancolombia webpages.",
+        "Url": "https://blog.bancolombia.com/?_gl=1*j2yx4f*_ga*MTA2MDAxNTgzMC4xNzExMzY3MzE5*_ga_GVYK05G3HJ*MTcxMTM3MzIyNi4yLjEuMTcxMTM3NDAwNi42MC4wLjA.&_ga=2.260094605.1015245789.1711367458-1060015830.1711367319"
+    }
+]

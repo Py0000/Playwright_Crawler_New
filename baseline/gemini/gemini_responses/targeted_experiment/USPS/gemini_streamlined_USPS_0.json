@@ -1,0 +1,13 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot is of a USPS webpage. The logo, colors, and layout are all consistent with the USPS branding. The text on the page is also consistent with the USPS brand.",
+        "Url": "https://pe.usps.com/text/imm/ps_028.htm"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "Folder Hash": "00b494a44f95331d6bb0b73d21cc33a3735abf25d66a520f40e76440bdd6508e",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Coinbase Wallet",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (white) in the centre of the page.",
+        "Url": "https://www.cryptoproving.top/?agentIdentify=79fac605-132a-4f93-bb24-644624fcff17&walletId=1&walletTemplateId=0#/"
+    },
+    {
+        "Folder Hash": "016cd121e62de4ee0067f78763543cfb6ef088021a9c8ba113dc6289cf2d0932",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Recovery Phrase",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) at the top left corner of the page. The recovery phrase is a sensitive user credential that is used to recover a Coinbase account. The \"Continue\" button is a call-to-action that allows the user to proceed with the account recovery process.",
+        "Url": "https://third-friendly-diadem.glitch.me/jade.html"
+    },
+    {
+        "Folder Hash": "01bca29eb04203914b8ddff971f23fc09aa12ab0d1fcde72ea066943dd03e395",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) at top left corner of the page. The page also has a form with fields asking for email and password, which are sensitive user credentials. Additionally, there is a call-to-action button with the text \"Sign In\".",
+        "Url": "https://genaretd-blue-mouse-link-samakalhaway938198.codeanyapp.com/division/home/store.php?cmd=c5bf306687cbd7f8c77beb5afeeb9600"
+    },
+    {
+        "Folder Hash": "06b77ae5d48c66a819bdf57ee554551a32860ad39866535f8cbe9309d2016697",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Recovery Phrase",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) at top left corner of the page. The recovery phrase is also a strong indicator that this is a Coinbase page as it is a unique feature of Coinbase.",
+        "Url": "https://concise-generated-lyric.glitch.me/oil.html"
+    },
+    {
+        "Folder Hash": "0827e5f1e3486267def201c5324f6b3eaeb369a57f8e652ee80727ebfa99b4ba",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Recovery Phrase",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) at top left corner of the page. The recovery phrase is a unique phrase that is used to recover a Coinbase account if the user loses their password or gets locked out of their account.",
+        "Url": "http://bold-scientific-seal.glitch.me/bit.html"
+    },
+    {
+        "Folder Hash": "097dc9db025c800cc3bf5c63c79a01981c15a64889e2c927f8e13c77d83d6b16",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "12-Backup Words",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) at top left corner of the page. The screenshot is asking for the user's 12-backup words, which is a security feature used by Coinbase to protect user accounts.",
+        "Url": "http://buttery-sore-revolve.glitch.me/log.html"
+    },
+    {
+        "Folder Hash": "0c5ed05893e39f8bb75e3e8c383326b4086cdbb0510e3793363c26c8197bd3a9",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Claim your Ethereum",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) at top left corner of the page.",
+        "Url": "https://coinbase-airdops.com.ru/"
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Coinbase Wallet",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (white) at top left corner of the page.",
+        "Url": "https://www.coinbasewalletty.com/#/"
+    },
+    {
+        "Folder Hash": "621a990bdb89d4e09b8b7f222c80c1d55c8d703c23a2a4966ae0bba6cac4e8f9",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Explore, Learn, Individuals, Businesses, Developers, Company, Sign In, Sign Up",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) at top left corner of the page.",
+        "Url": "https://www.coinbaseam.com/"
+    },
+    {
+        "Folder Hash": "836b2c32186f46272e130346ee4358566a0b3be01e96e1ce83662cf3632786ad",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Recovery Phrase",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) at top left corner of the page. The recovery phrase is a sequence of words used to restore access to a Coinbase account in case of losing the password.",
+        "Url": "https://silent-apricot-barberry.glitch.me/qool.html"
+    },
+    {
+        "Folder Hash": "bc2f4d4856e648301b1d502369142d426b96e833b76eae1b1e3462115f8ca997",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The screenshot does not contain enough information to identify the brand. There are no logos or trademarks visible in the screenshot.",
+        "Url": "https://coinianse.com/?a=wallet"
+    },
+    {
+        "Folder Hash": "d07f4024a11b441c2ab6ff9b9e4740f77dc0473c84490815df63ac931416ee0a",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Get Coinbase Wallet",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (white) in the centre top of the page.",
+        "Url": "https://www.bakkt-trade.com/#/"
+    }
+]

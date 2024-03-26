@@ -1,0 +1,7 @@
+1. Brand: Discord
+2. Has_Credentials: No
+3. Has_Call_To_Action: No
+4. List_of_credentials: NA
+5. List_of_call_to_action: NA
+6. Confidence_Score: 9.2
+7. Supporting_Evidence: The image shows the Discord page, as the Discord icon (in white) can be found at the top left corner of the page inside the purple square. Also the word Discord can be found at the top left corner on top of the purple square.

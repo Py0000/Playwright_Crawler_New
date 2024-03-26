@@ -1,0 +1,7 @@
+1. Brand: Facebook
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: Email or Phone Number, Password, DOB, Name
+5. List_of_call_to_action: Sign Up, Already have an account
+6. Confidence_Score: 10.0
+7. Supporting_Evidence: The image shows the create a new account of Facebook with its distinctive blue logo. The credentials and buttons can be seen on the screenshot. The logo is located at the top center of the webpage, just above the box for users to enter their credentials. Moreover, at the bottom centre (footer position) of the screenshot, there is a copyright symbol that states "Meta" which is the parent company of Facebook.

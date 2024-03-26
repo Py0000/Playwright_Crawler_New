@@ -1,0 +1,7 @@
+1. Brand: CodaShop
+2. Has_Credentials: No
+3. Has_Call_To_Action: No
+4. List_of_credentials: NA
+5. List_of_call_to_action: NA
+6. Confidence_Score: 8.0
+7. Supporting_Evidence: The image shows the page of CodaShop, as the logo of can be seen at the top left corner of the page, even though there are other logos from games like Genshin, Maple Rush, but it seems like its due to the page functionality as a game credit top up provider, hence the larger number of games appearing on its webpage.

@@ -1,0 +1,7 @@
+1. Brand: PUBG
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: Mobile or email, password
+5. List_of_call_to_action: Log in, Forgotten password?
+6. Confidence_Score: 8.8
+7. Supporting_Evidence: The image shows the brand PUBG because its logo can be seen in the image, at the center, just above the text "Log in to your Facebook account to connect to PUBG MOBILE". The Facebook logo is also present, but after analyzing the image, it seems like PUBG is the main brand associated with the page, and it is using Facebook as a way for users to login to its content. 

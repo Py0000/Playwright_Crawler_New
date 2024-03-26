@@ -1,0 +1,7 @@
+1. Brand: Credit Agricole
+2. Has_Credentials: No
+3. Has_Call_To_Action: No
+4. List_of_credentials: NA
+5. List_of_call_to_action: NA
+6. Confidence_Score: 9.7
+7. Supporting_Evidence: The image shows the page of Credit Agricole, as the logo (in grey and green with the words CA Credit Agricole, Corporate & Investment Bank) can be seen at the top left corner of the page. 

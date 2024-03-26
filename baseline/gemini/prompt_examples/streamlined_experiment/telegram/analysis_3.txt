@@ -1,0 +1,7 @@
+1. Brand: Telegram
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: Phone number, verification code, password
+5. List_of_call_to_action: Login
+6. Confidence_Score: 9.9
+7. Supporting_Evidence: The image shows the login page of Telegram with a logo that is above the text "使用Telegram账号登陆绑定". There are boxes to enter country and phone number below it as well.

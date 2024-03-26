@@ -1,0 +1,7 @@
+1. Brand: PUBG
+2. Has_Credentials: No
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: NA
+5. List_of_call_to_action: Log-in
+6. Confidence_Score: 10.0
+7. Supporting_Evidence: The image shows the brand PUBG because its logo (Yellow) can be seen at the top center of the page.

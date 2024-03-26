@@ -1,0 +1,13 @@
+[
+    {
+        "Folder Hash": 0,
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, username, email, password",
+        "List of Call-To-Actions": "Log in, Sign up, forgot password?",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The image shows the login page of Instagram, which can be determined as there is the word \"Instagram\" in the center of the page, as well as the copyright symbol \"Instagram from Meta\" at the bottom of the page. The credentials and buttons can be seen in the centre of the page as well.",
+        "Url": "https://www.instagram.com/accounts/login/"
+    }
+]

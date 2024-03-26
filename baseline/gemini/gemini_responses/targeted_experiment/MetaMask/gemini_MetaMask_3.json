@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "00d2b23f812dedd6baca4311ac6336ccf31594cdb8c161cf3f0d0dbdeba99b61",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Verify Phrase",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The screenshot shows the MetaMask login page. The MetaMask logo is visible at the top of the page. The page has fields for email and password. There is a button that says \"Verify Phrase\".",
+        "Url": "https://metamask-verification.ddnss.eu/0x789DQSD7Q9SDUQSUIY/kjlfhqsdhmfjhqkdhqsd/c5888/"
+    },
+    {
+        "Folder Hash": "0268063589ad4ed7dc1cc582927dbc4a55f51d034f46283b2f276bad9acb6652",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download MetaMask",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Also, the \"Download MetaMask\" button is a call-to-action button.",
+        "Url": "https://matemska.com/"
+    },
+    {
+        "Folder Hash": "030b253ba6ba80d2d33f414fb8532079a469486660a0383490a182e8ab65eb06",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "",
+        "Url": "https://coirnmarketcap.com/wallet/?id=metamask"
+    },
+    {
+        "Folder Hash": "0394f2025c33926485c6d90128c53a47a348696092b2aa5f9478ddd7f89dcca3",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the MetaMask logo on the top left corner. The page also has a MetaMask-branded header and footer. The page is asking for the user's secret recovery phrase, which is a strong indicator that this is a MetaMask page.",
+        "Url": "https://sites.google.com/l0gin-microsoftwebonlne.app/by5hu75?usp=sharing"
+    },
+    {
+        "Folder Hash": "03e8fa3008fff4e140e8f8d4a91affaae8bb92d6cc96a13e1861f5af61e3f2d4",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password, secret recovery phrase",
+        "List of Call-To-Actions": "Verify Phrase, Install MetaMask for Chrome",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Additionally, the page has fields asking for user credentials such as email, password, and secret recovery phrase. There is also a call-to-action button that says \"Verify Phrase\" and \"Install MetaMask for Chrome\".",
+        "Url": "https://metamaskwallet-extension.ddnss.eu/FMfcgzGwHftwbwTCZZfrcHKbNNPtZzMM/bMmNwhmlgsV/7ed3b/"
+    },
+    {
+        "Folder Hash": "03f32d0bef1c696adc50a43fb6c08e57634b0018c5fa9e7c8dedd62e263161c1",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download, Login",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the webpage of MetaMask. The MetaMask logo is clearly visible at the top left corner of the page. The page also has two call-to-action buttons: \"Download\" and \"Login\".",
+        "Url": "https://metamskwalltt.github.io/"
+    },
+    {
+        "Folder Hash": "043167fd4252337a1673e9d3420f5fead69369a7453fb86482d6f61c861a080c",
+        "Brand": "DenizBank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "TC Kimlik No / Kullan\u0131c\u0131 Ad\u0131, Parola",
+        "List of Call-To-Actions": "G\u0130R\u0130\u015e YAP",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The brand logo of DenizBank is clearly visible at the top left corner of the webpage. The page is asking for TC Kimlik No / Kullan\u0131c\u0131 Ad\u0131 and Parola, which are sensitive user credentials. There is a button that says G\u0130R\u0130\u015e YAP, which is a call-to-action element.",
+        "Url": "http://acikdenizv2-sube.buzz/"
+    },
+    {
+        "Folder Hash": "059ccb3d7deed5338ba88068862119d66ce163eabe5d9186dc437b143310daa0",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Create a new wallet, Import an existing wallet",
+        "Confidence Score": "8.8",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Additionally, the page has two call-to-action buttons, \"Create a new wallet\" and \"Import an existing wallet\".",
+        "Url": "https://mitanassk.azurewebsites.net/"
+    },
+    {
+        "Folder Hash": "06342900ac8b1443bc15ddfafc5c588ea9475494184896c74fdb12790ba81b0d",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password, secret recovery phrase",
+        "List of Call-To-Actions": "Verify Phrase, Download for Chrome",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The screenshot shows a page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. The page is asking for user credentials, such as email, password, and secret recovery phrase. There are also call-to-action buttons, such as Verify Phrase and Download for Chrome.",
+        "Url": "https://moz-extension-kyc.ddnss.eu/fbeogaeaoehlefnkodbefgpgknndsqdqs/aeaoehlefnko/befgpgknn/4b7c4/"
+    },
+    {
+        "Folder Hash": "09343b9597a1fd989346f13ecfad9ecf1bf4b77d1e1c1893488a9cae71072a1c",
+        "Brand": "Love 520",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The Love 520 logo is at the top left corner of the page. The page has fields asking for username and password. It also has buttons that say \"Login\" and \"Register\".",
+        "Url": "http://www.meta0096.com/mobile/#/"
+    },
+    {
+        "Folder Hash": "0eaa6171ac98c9cb8ad08c969bb358140acf00da71065be242e9690f340c1882",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password, secret recovery phrase",
+        "List of Call-To-Actions": "Verify Phrase, Install MetaMask for Chrome",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page and the bottom left corner of the page, even though there are multiple other logos from other brands like Google, but it seems like they are just some browsers that MetaMask supports. Additionally, the page is asking for user credentials, such as email, password, and secret recovery phrase, and has a call-to-action button that says \"Verify Phrase\" and \"Install MetaMask for Chrome\".",
+        "Url": "https://log-metamaskwallet.ddnss.eu/FMfcgzGwJRvfgmsmlrdXBnsmFtKFnsCXHFHkLKlW/FMfcgzGwJRvfqF/aa0a3/"
+    },
+    {
+        "Folder Hash": "155611808d65629f6d3ebc9c990a31b40dc54f5458e8e089ec1c651fa4809765",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Additionally, the page has fields asking for user credentials, such as the secret recovery phrase. There is also a call-to-action button labeled \"Submit\".",
+        "Url": "https://sites.google.com/l0gin-microsoftwebonlne.app/745g756?usp=sharing"
+    },
+    {
+        "Folder Hash": "1b481b2d71f1a9f73c9528393df17a4c6ebe55ac6344b0c644812d351584a8f8",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Additionally, the page is asking for the user's Secret Recovery Phrase, which is a sensitive user credential. Furthermore, the page has a button that says \"Submit\", which is a call-to-action button.",
+        "Url": "https://sites.google.com/l0gin-microsoftwebonlne.app/bfhdjyu?usp=sharing"
+    },
+    {
+        "Folder Hash": "2f2178a5668fe8312229bca578ef6ffaf6d9adc390834081de9b4206f38b1258",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download",
+        "Confidence Score": "8.8",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Additionally, the page has a call-to-action button that says \"Download\".",
+        "Url": "https://metamask.wallet-app.com/"
+    },
+    {
+        "Folder Hash": "360f3c20546a4e3cc006b353e5181f68d77284a31d708f3615739a230733a938",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download MetaMask",
+        "Confidence Score": "8.8",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Also, the overall visual elements and layout of the page is consistent with the branding of MetaMask.",
+        "Url": "https://metamask.itoken.cool/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download",
+        "Confidence Score": "8.8",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page, even though there are multiple other logos from other brands like OpenSea, but it seems like they are just collaborators with MetaMask. Additionally, there is a call-to-action button that says \"Download\".",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "83fb715fa9718b026c68caaa47c0f498fa2fae37414ee166fd3fc21e25dd49f9",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for <browser name>",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Additionally, the page has a call-to-action button that says \"Download for <browser name>\".",
+        "Url": "https://metazmskloign.github.io/"
+    },
+    {
+        "Folder Hash": "85152f0c34ee42acb322c66e2096035e6b5ad73dd7f0148276d0e0f2daae91d7",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign In | Create Account",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name is shown in the top left corner of the page. The page also contains a call-to-action button that says \"Sign In\" and \"Create Account\".",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "8a551d2519b6ff84103d775267a67c771ec8a899a56c2118303df11b098b8433",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page. Also, the overall visual elements of the webpage resembles that of MetaMask.",
+        "Url": "http://maskdex.net/"
+    },
+    {
+        "Folder Hash": "97b410d0e17b4bb3f6bafe57b4d5e84b3e4aa44ddfa17bd5a84277fb46e5b6f2",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Login, Create Account",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the login page of MetaMask. The MetaMask logo is clearly visible at the top left corner of the page. The page has fields for email and password, and a call-to-action button that says \"Login\". There is also a link that says \"Create Account\".",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "c7f1171c970e340924eaeb734a1c3bd7c46ca0f35a61e7253b7c18820aba6497",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"MetaMask\" is clearly visible at the top-left corner of the webpage. Additionally, the \"Download\" button is a clear call-to-action, indicating that the webpage is attempting to prompt the user to take action.",
+        "Url": "https://metnmask.io/"
+    }
+]

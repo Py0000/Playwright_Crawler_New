@@ -1,0 +1,156 @@
+[
+    {
+        "Folder Hash": "018942efa16ee39476eabde8c3db30d7c53374cb602a2b33aa92b105dc077cb1",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Join Steam",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has a blue background with a white logo that says \"Steam\" in the top left corner. The center of the page has a large image of a video game controller with two text fields below it, one labeled \"Username\" and the other labeled \"Password\". There is a blue button below these text fields that says \"Sign In\". The bottom right corner of the page has two buttons, one that says \"Join Steam\" and the other that says \"Learn More\".",
+        "Url": "https://steamcorumunity.ru/gift"
+    },
+    {
+        "Folder Hash": "06069185845b494e3503bacdec5e2634b75b4918997aa28ba560d21142ed15b1",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "create an account, learn more about steam",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Steam logo, which is a registered trademark of Valve Corporation. The page also has links to the Steam Store, Community, About, and Support pages. The page also has a login button.",
+        "Url": "https://steam.guesskings.com/login/?redir=explore&redir_ssl=1"
+    },
+    {
+        "Folder Hash": "06a605cee96bc633239c324a80f46133f8b6e499b8f172f6f0530522c7cd1bd0",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "http://store.thesteampowered.help/"
+    },
+    {
+        "Folder Hash": "1f89a2c18c2527c088aee9588ce2cab82b5eafea367ca19429bb0d6532b4398c",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in, Install Steam",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Steam logo and branding. The page also has fields for entering login credentials and a call-to-action button that says \"Sign in\".",
+        "Url": "https://steamcomnunithy.ru/gift/57922976493796"
+    },
+    {
+        "Folder Hash": "2610fbcd3135759cc0a2f27c879c0d5463be8758102081e0a21bfca904ae1c1e",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Install Steam, Login",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Steam logo, which is a trademark of Valve Corporation. The page also has a login form that asks for the user's username and password. Additionally, there is a green button that says \"Install Steam\" and a blue button that says \"Login\", both of which are call-to-action elements.",
+        "Url": "https://steam.guesskings.com/profiles/76561199240493541"
+    },
+    {
+        "Folder Hash": "3f45e707db1f3780563f784c671cf7cea7ff3d8abb43f277f29e70108ae3e13a",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in, Install Steam",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Steam logo, which is a trademark of Valve Corporation. The page also has a login form with fields for username and password. Additionally, there is a call-to-action button that says \"Sign in\".",
+        "Url": "https://st-gift.ru/gift33096"
+    },
+    {
+        "Folder Hash": "50d9a9dd5fb90c7bb7bf9e2d8e6160aec2af9cd32c5738d292994f348a51e776",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In, Create Account",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Steam\" and the logo of Steam on the top left corner. The page also has two fields asking for user credentials, namely \"Username\" and \"Password\". There is also a call-to-action button that says \"Sign In\".",
+        "Url": "https://steamcorumunity.ru/gift/765625724239673548-auth"
+    },
+    {
+        "Folder Hash": "69dd38c87100bf2f6377d0d8925a81307bf4cce7816b012fefd1a74a622c7886",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in, Join Steam for free",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Steam logo at the top left corner, which is a clear indication of the brand. Additionally, the \"Sign in\" and \"Join Steam for free\" buttons are also indicative of the brand.",
+        "Url": "http://steam.wx186.cn/"
+    },
+    {
+        "Folder Hash": "8445aadb3b43d73bc7c5cf94b5741ab15ed49247a0d7ced29a3c50ec5e6a1202",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Steam\" and the logo of Steam on the top left corner. The page also has two fields asking for user credentials, which are \"Username\" and \"Password\". There is also a button that says \"Sign in\".",
+        "Url": "https://steamcomnunitc.ru/gift/26482976493733"
+    },
+    {
+        "Folder Hash": "8f59fb6242ff247a96f95ac2d034be9a3b8578829ea79249face0fa427f012d6",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Get a card",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Steam\" is prominently displayed in the top-left corner of the webpage. The page is offering a gift card, and asking for user credentials to log in. The call-to-action button says \"Get a card\".",
+        "Url": "https://steamconmuniry.com/giftcard/20576538"
+    },
+    {
+        "Folder Hash": "cb9914adde0ecaf6abafdc49413e594ac80031e387ea1be1a14c32d2d2b737c0",
+        "Brand": "Steam",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Steam logo and branding, including the distinctive blue and white color scheme. The page's URL contains \"steamcommunity.com\", which is the domain for Steam's community pages. The page is also consistent with Steam's overall visual style and layout.",
+        "Url": "https://steam.work-shop.vip/"
+    },
+    {
+        "Folder Hash": "d2ab28be4112521aa02087e1c78892ec53c35a3cb142ea27047fd9a46133fb26",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, Email",
+        "List of Call-To-Actions": "Sign In, Create Account",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Steam logo, which is a registered trademark of Valve Corporation. The page also has links to other Steam pages, such as the store, the community, and the help center. The page also has a form that allows users to sign in to their Steam accounts.",
+        "Url": "http://stemapoveredi.webservis.ru/"
+    },
+    {
+        "Folder Hash": "db221096646f2ab6e7ae10e838fa432f316720720f10b2ed8abb31bea10bc0bb",
+        "Brand": "Steam",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Steam logo and branding prominently displayed at the top. The games listed on the page are all available on Steam. The overall look and feel of the page is consistent with other Steam pages.",
+        "Url": "https://githubmaster3000.github.io/steamClone/"
+    },
+    {
+        "Folder Hash": "ebea84b66fc7b417e1fc599440983e7a62295bfa738271238cc0f250deeae0b0",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Create an account",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name is displayed at the top left of the webpage. The logo is also present on the same spot. Additionally, the overall layout and design of the webpage is consistent with other Steam webpages.",
+        "Url": "https://alihk.steamproxy.cc/"
+    }
+]

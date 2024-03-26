@@ -1,0 +1,7 @@
+1. Brand: Microsoft
+2. Has_Credentials: Yes
+3. Has_Call_To_Action: Yes
+4. List_of_credentials: Email, Phone or Skype
+5. List_of_call_to_action: Create One!, Can't access your account, Next
+6. Confidence_Score: 10.0
+7. Supporting_Evidence: The image shows the login page of Microsoft Outlook with its distinctive logo with the word "Microsoft" just above the text "Sign in". The credentials and buttons can be seen on the screenshot.
