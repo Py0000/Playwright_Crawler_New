@@ -115,7 +115,7 @@ class GeminiProVisionBaseline:
         #return f"{system_prompt}", f"\n\n{reponse_format_prompt}"
     
     def generate_prompt_example(self, index):
-        example_file_path = os.path.join("baseline", "gemini", "prompt_examples", "pubg")
+        example_file_path = os.path.join("baseline", "gemini", "prompt_examples")
         image = PIL.Image.open(os.path.join(example_file_path, f"ss_{index}.png"))
         desc = FileUtils.read_from_txt_file(os.path.join(example_file_path, f"analysis_{index}.txt"))
     
@@ -189,12 +189,11 @@ if __name__ == '__main__':
     if args.benign_phishing == "benign":
         folders = utils.benign_folders
     else:
-        # folders = phishing_folders
-        folders = ["061223", "071223", "081223", "091223", "101223", "111223", "121223", "131223", "141223", "151223", "161223", "171223", "181223", "191223", "201223", "211223", "221223", "231223", "241223", "251223"]
+        folders = phishing_folders
     
     use_html = True if "html" in args.use_html else False
     gemini_baseline = GeminiProVisionBaseline(args.benign_phishing, use_html)
-    for few_shot_count in ["0"]:    
+    for few_shot_count in ["0", "3"]:    
         for folder in folders:
             print(f"\n[{few_shot_count}-shot] Processing folder: {folder}")
             folder_path = os.path.join("baseline", "datasets", f"original_dataset_{folder}")

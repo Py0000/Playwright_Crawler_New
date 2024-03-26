@@ -53,7 +53,6 @@ class HtmlExtractor:
         else:
             brand_info['footer_text'] = 'Not Found'
         
-        """
         # Extracting header elements (h1, h2, header)
         headers_text = []
         for header in soup.find_all(['h1', 'h2', 'header']):
@@ -69,7 +68,6 @@ class HtmlExtractor:
             brand_info['nav_bar_content'] = nav_content.text.strip()
         else:
             brand_info['nav_bar_content'] = 'Not Found'
-        """
 
         brand_info_str = "\n".join(f"{key}: {value}" for key, value in brand_info.items())
         

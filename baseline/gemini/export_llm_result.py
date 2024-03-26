@@ -2,11 +2,13 @@ import argparse
 import openpyxl
 import os
 import tldextract
+
+from baseline.gemini.gemini_domain_comparison import GeminiDomainComparator
 from baseline.utils import utils
 from utils.file_utils import FileUtils
 
 class LlmResultExport:
-    def __init__(self, file_hash_column, predicted_brand_column, has_credentials_column, has_call_to_action_column, confidence_score_column, sld_column, is_phish_column):
+    def __init__(self, file_hash_column, predicted_brand_column, has_credentials_column, has_call_to_action_column, confidence_score_column, sld_column, is_phish_column, is_phish_llm_column):
         self.file_hash_column = file_hash_column
         self.predicted_brand_column = predicted_brand_column
         self.has_credentials_column = has_credentials_column
@@ -14,12 +16,13 @@ class LlmResultExport:
         self.confidence_score_column = confidence_score_column
         self.sld_column = sld_column
         self.is_phish_column = is_phish_column
+        self.is_phish_llm_column = is_phish_llm_column
 
     def extract_second_level_domain(self, url):
         extracted = tldextract.extract(url)
         return extracted.domain
 
-    def update_sheet(self, sheet, file_hash, brand, has_credentials, has_call_to_action, confidence_score, sld):
+    def update_sheet(self, sheet, file_hash, brand, has_credentials, has_call_to_action, confidence_score, sld, llm_domain_check):
         print(f"\nProcessing file: {file_hash}...")
         hash_found = False
         is_phishing = "No" if brand.lower() == sld.lower() else "Yes"
@@ -33,6 +36,7 @@ class LlmResultExport:
                 sheet[self.confidence_score_column + str(row)] = confidence_score
                 sheet[self.sld_column + str(row)] = sld
                 sheet[self.is_phish_column + str(row)] = is_phishing
+                sheet[self.is_phish_llm_column + str(row)] = llm_domain_check
                 hash_found = True
                 break
         
@@ -50,7 +54,10 @@ class LlmResultExport:
         url = entry["Url"]
         second_level_domain = self.extract_second_level_domain(url)
 
-        self.update_sheet(sheet, file_hash, brand, has_credentials, has_call_to_action, confidence_score, second_level_domain)
+        gemini_domain_comparator = GeminiDomainComparator()
+        llm_domain_check = gemini_domain_comparator.determine_url_brand_match(url, brand)
+
+        self.update_sheet(sheet, file_hash, brand, has_credentials, has_call_to_action, confidence_score, second_level_domain, llm_domain_check)
 
 
     def update_sheet_with_responses(self, json_file_path, excel_file_path):
@@ -76,12 +83,14 @@ if __name__ == '__main__':
     parser.add_argument("confidence_score", help="Confidence Score Column")
     parser.add_argument("sld", help="Second Level Domain Column")
     parser.add_argument("is_phish", help="Is Phishing Column")
+    parser.add_argument("is_phish_llm", help="Is Phishing LLM Column")
     args = parser.parse_args()
 
-    #folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
-    folders = ["USPS"]
+    folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
+    #folders = ["USPS"]
+    
     for folder in folders:
-        #json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "targeted_experiment", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
-        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "targeted_experiment", f"gemini_{folder}_{args.shot}.json")
-        export_object = LlmResultExport(args.hash_col, args.brand_col, args.credentials, args.call_to_actions, args.confidence_score, args.sld, args.is_phish)
+        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "targeted_experiment", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
+        #json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "targeted_experiment", f"gemini_{folder}_{args.shot}.json")
+        export_object = LlmResultExport(args.hash_col, args.brand_col, args.credentials, args.call_to_actions, args.confidence_score, args.sld, args.is_phish, args.is_phish_llm)
         export_object.update_sheet_with_responses(json_file_path, args.sheet_path)
