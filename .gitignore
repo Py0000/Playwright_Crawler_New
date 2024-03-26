@@ -16,3 +16,7 @@ src/__pycache__/
 feeds/
 Crawler_Dataset/
 utils/__pycache__/
+
+benign_dataset_30500/
+confirmed_useless_dataset.txt
+dataset_benign_att/
