@@ -1,7 +1,7 @@
-1. Brand: Microsoft (Outlook)
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: Email, Password
-5. List_of_call_to_action: Sign-in button
-6. Confidence_Score: 10
-7. Supporting_Evidence: The image shows a login screen with the Outlook logo prominently displayed. The Outlook logo is distinct with an "O" and an envelope symbol, which is well-recognized as part of Microsoft's suite of email and calendar services. The logo is positioned at the top center of the login box, which itself is centered on the screen against a blue background.
+Brand: Mircorsoft
+Has_Credentials: Yes
+Has_Call_To_Action: Yes
+List_of_credentials: Email, Password
+List_of_call_to_action: "sign in" link/button
+Confidence_Score: 10.0
+Supporting_Evidence: The screenshot prominently displays the Outlook logo, consisting of an "O" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word "Outlook" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to "Email" and "Password", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a "sign in" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page. 
