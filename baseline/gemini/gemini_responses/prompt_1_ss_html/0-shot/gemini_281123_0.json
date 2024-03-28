@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0e4582d1db1403de859a5b4265acb69e80016bb02a1a932c2580000801932fec",
+        "Brand": "Ponto Frio",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Receba Cupons no seu E-mail, Pegar Cupom, Cupom, Pegar Cupons",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Ponto Frio. The title of the webpage is \"Cupom de Desconto de Ponto Frio\". The webpage has a lot of content about Ponto Frio.",
+        "Url": "https://www.cupom-de-desconto.com/ponto-frio/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Hanil Seal",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "372e6116960e55286a120894035b699ce5a184bc1bcc1d4c3ac20a68f3ec4b55",
+        "Brand": "SFR Business",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot is of the SFR Business website. The SFR logo is clearly visible in the top left corner of the page. The page is titled \"Politique de protection des donn\u00e9es \u00e0 caract\u00e8re personnel | SFR Business\". The page contains a form that asks for user credentials, including email address, company name, first name, last name, phone number, mobile phone number, fax number, address, VAT number, and intra-community VAT number. The page also contains a number of call-to-action buttons, including \"Subscribe to newsletter\", \"Contact us\", and \"Request a call back\".",
+        "Url": "https://www.sfrbusiness.fr/sfr-politique-de-protection-des-donnees-personnelles.html?eff_cpt=22931728&eff_pr1=**id_bat**"
+    },
+    {
+        "Folder Hash": "6012d0196d437b61def2e0d4b09b14d95c7c2ccd0b0a2651638de9249a3ec780",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Surface, Shop Xbox, Shop for students, Shop for business, Sign up for free, Get it today, Download Visual Studio 2022, Get Windows 365 Cloud PC",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Microsoft\" and \"Xbox\" prominently displayed. The page is also full of links to other Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8265aae7b50ade829d3ac265f082cbe64ce1aa752aa7cad3f3ebe8e87caf69b9",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Netflix logo and the words \"Netflix\" and \"Sign In\" on the top right corner. The page also has a form with fields for email and password. The call-to-action button says \"Get Started\".",
+        "Url": "https://beyon-d-yadhu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "a26025419c72baf42631231b435e27ec7438f50d1d6ba41dcc918cdcc9782d23",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the DHL logo and branding. It also has the words \"DHL Express\" in the title bar.",
+        "Url": "https://www.dhleoyssa.com/"
+    },
+    {
+        "Folder Hash": "aa92152333593704107b819af91676431cbdb5c445e4a9312396eaa60ee230d8",
+        "Brand": "Envaselia",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contactanos, Ir al cat\u00e1logo de productos",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Envaselia logo at the top left corner. The logo is a stylized image of a leaf with the text \"Envaselia\" below it. The webpage also has the Envaselia name and logo in the footer.",
+        "Url": "https://todosonsantos.com/?gclid=EAIaIQobChMI9LK_-cjiggMVBqFaBR3h8gAXEAAYAiAAEgL7z_D_BwE"
+    },
+    {
+        "Folder Hash": "ab17de4f635ba4d04d28644ddb63c3e05f7703e87ff3d75f63d904089dd92c84",
+        "Brand": "Discord",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Discord\" is prominently displayed in the webpage's header. The page features the tagline \"Your Place to Talk and Hang Out,\" which is consistent with Discord's branding. The page also features Discord's logo, which is a stylized \"D\" with a speech bubble. The overall design and layout of the page is consistent with Discord's branding.",
+        "Url": "http://discord.swaychat.cn/"
+    },
+    {
+        "Folder Hash": "d8f30a1d70e75a4ed32fc20171e4ae06441aa98d077b3d82b697aba57a4beff7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://shubhamsharma20061998.github.io/"
+    },
+    {
+        "Folder Hash": "d980baaf9e0647a9529eeba4cbca9738c6558edd5389f4400a70cfc1e11d903b",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" in the logo and in the page title. The page also has a form asking for an email address, which is a common way to collect user credentials. Additionally, the page has a button that says \"Get Started\", which is a common call-to-action.",
+        "Url": "https://shreeompatil.github.io/netflixmobileclone/"
+    }
+]

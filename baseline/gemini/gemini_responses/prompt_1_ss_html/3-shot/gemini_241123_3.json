@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "001286e0de268da6f43c0c4b6a2a9d05fd57a40e6bb8e345ab0e4647a56b6a10",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://socialmediaconsultant.ae/public/BcLhGPsZs8l4WqLGT1a41XksuKh8zrjS"
+    },
+    {
+        "Folder Hash": "00769766e55ba283eb9f8abb741c158c9df528b1193b2ac2dc8688c16637d315",
+        "Brand": "Orange",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"R\u00e9gler ma facture\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Orange logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of Orange, a large telecommunications company. The page's design and color scheme are consistent with Orange's branding. The presence of the \"R\u00e9gler ma facture\" button, which translates to \"Pay my bill\" in English, serves as a call-to-action for users to pay their bills online. The confidence score is given as 9.5 due to the clear visual representation of the Orange brand through the logo and the typical elements associated with many of its webpages.",
+        "Url": "https://sites.google.com/view/stilmafosido09"
+    },
+    {
+        "Folder Hash": "007b1d5575ec1fc8f753529950ed22348b62593321aee5335c3222747140da5d",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the text \"Microsoft\" in the title bar. The page also has a field for entering an email address, which is a common credential field. The \"Next\" button is a call-to-action element that suggests that the user will be able to proceed to the next step of a process after entering their email address. The overall design and layout of the page are consistent with Microsoft's branding and style guidelines.",
+        "Url": "https://www.businessintegral.com/Microsoft/Pdf/pdf.htm"
+    },
+    {
+        "Folder Hash": "00e8c015bd38f9f8977fc60b27787c56855b7a9b5f0885dece761a27566b2cfb",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://www.socialmediaconsultant.ae/public/st0v0n8vFgkUtIUNY6lMnshyToz9omQc"
+    },
+    {
+        "Folder Hash": "0153b05f0a495843ff1a0ca2ed1e1579da4f21f9e4dcbc62821f89b7e2d45f01",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, username, or email, Password",
+        "List of Call-To-Actions": "Log in, Sign Up",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Instagram logo, which is a well-known symbol for the social media platform Instagram. The logo is prominent and centered at the top of the page. Below the logo, there is a sign-in form with fields for \"Phone number, username, or email\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"Log in\" button, functions as a call-to-action for users to submit their credentials to access their Instagram account. Additionally, the \"Forgot password?\" link and the \"Don't have an account? Sign up\" link are also present, which are typical elements of a login page. The overall design and layout of the page are consistent with Instagram's official login page. There is no evidence of other brands being primary on this page.",
+        "Url": "https://login-instagram.glitch.me/"
+    },
+    {
+        "Folder Hash": "01eb66d75786faa56381f840389115c31e55be402bd4837fb99bbc7becad4966",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage screenshot displays the Microsoft logo prominently, which is a well-known trademark of Microsoft Corporation. The logo is accompanied by the text \"Microsoft\" in the title bar, further confirming the brand identity. Below the logo, there is a sign-in form with a field labeled \"Email\", indicating that the page is asking for user credentials. Just below the credential field is a \"Next\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their Microsoft account. The confidence in identifying the brand is absolute due to the unmistakable Microsoft logo and clear branding elements that match Microsoft's design language for its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://pub-783142150b6146fda36673e880e8d058.r2.dev/passwordreset.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "0343509c92d5b3edcd97a96d2e561d7adbdcba3173ee1d9d5b31ff912426f2a9",
+        "Brand": "Meta",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Chat with agent\", \"Contact support\", \"Connect now\"",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Meta logo at the top center. The \"Meta Business Help Center\" text right below the logo further confirms the brand identity. The presence of the \"Chat with agent\", \"Contact support\", and \"Connect now\" buttons indicates that the page is designed to provide customer support and allow users to connect with Meta. The overall design and layout of the page are consistent with Meta's branding guidelines.",
+        "Url": "https://contact-support-id-7142058396.start.page/facebook.com"
+    },
+    {
+        "Folder Hash": "03491f79f3bd3d714427f2892865367181d8c75619ce9b1e3556621e1f750d16",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has a blue background with a white dialog box in the center. The dialog box has a blue header with the word \"Mayo\" and a blue circle with a white \"M\" logo. The text in the dialog box says \"Taking you to your organization's sign-in page\" with a \"cancel\" button below it. At the bottom of the page, there is a link that says \"Sign-in options\". The overall design and layout of the webpage, as well as the presence of the Mayo logo, indicate that this is a Microsoft login page.",
+        "Url": "https://pub-783142150b6146fda36673e880e8d058.r2.dev/passwordreset.html#studybaker.kristen@mayo.edu"
+    },
+    {
+        "Folder Hash": "0360c9171650b13252f74c85e9380f18d64dc1ed0be3fc1ee1768cdd366b3b31",
+        "Brand": "Ministere de l'Economie, des Finances et de la Relance",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "First name, Last name, Date of birth, Postal code",
+        "List of Call-To-Actions": "SEARCH button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the logo of the French Ministry of Economy, Finance and Recovery at the top left corner. The logo is a blue circle with the letters \"MINEFI\" in white in the center, surrounded by the words \"Minist\u00e8re de l'Economie, des Finances et de la Relance\" in blue. The page also has the words \"Service de paiement en ligne des amendes\" (Online payment service for fines) at the top of the page. The page has a form with fields for first name, last name, date of birth, and postal code. The form also has a button that says \"Rechercher\" (Search).",
+        "Url": "https://track-delivery.eu/antai/search.php?session=ea1432a28db7c1c58021845ec748a339"
+    },
+    {
+        "Folder Hash": "039a5c6bb048f5f67d48870f8d22e955152657284a4a88ce04abab2d88865f3e",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://web12105.cweb06.gamingcontrol.de/"
+    },
+    {
+        "Folder Hash": "045fc0468bbf1a93e71d4e543d29da438d5c930342e92a1db8f081f817c75b37",
+        "Brand": "PayPal",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Sign Up for Free\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the PayPal logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of PayPal, a large online payments company. Below the logo, there is a clear call-to-action element, a \"Sign Up for Free\" button, which prompts the user to create a PayPal account. The overall design of the page, including the color scheme and typography, is consistent with PayPal's branding. There are no other logos or branding elements that would suggest a different brand is represented on this page.",
+        "Url": "http://haroldhazard1-wixsite-com.filesusr.com/html/3ff7c4_39f5e951394368f9e49c63fbf3166add.html"
+    },
+    {
+        "Folder Hash": "071970528ecbea8bf393d644c803563cfc663af1107d9e5ec2d2ffab305c66a8",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"LOGIN\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the word \"Webmail\" displayed prominently at the top, indicating it is a web-based email service. Below this, there is a form with fields for \"Email\" and \"Password,\" which are standard credentials used for logging into an email account. There is also a \"LOGIN\" button, which is a clear call-to-action for users to proceed with logging in. The overall design and layout of the page are consistent with a webmail login page. There are no obvious signs of other brands or services on the page, suggesting that Webmail is the primary brand being represented. However, the confidence score is not 10.0 because the visual elements are generic and could potentially be used by other webmail services.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihsef3pq3bpqawvkhspixapw2iejwrnsuiw3aq4r7fuwrhmur6age"
+    },
+    {
+        "Folder Hash": "1aee5d2661551cd8af9159ff0bcfe8a7f682fce3d5231069a7ea5a5d71f4efbf",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Watch free for 30 days\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Netflix logo, a well-known trademark of the streaming service. The word \"Netflix\" is also prominently displayed. The page's main focus is on promoting the service, with a large banner showcasing various popular movies and TV shows available on the platform. The call-to-action button invites users to \"Watch free for 30 days,\" indicating that the primary purpose of the page is to attract new subscribers. The overall design, layout, and branding elements are consistent with Netflix's official website. There is no evidence of other brands being represented on this page.",
+        "Url": "https://radhikakakkar.github.io/page-clone/"
+    },
+    {
+        "Folder Hash": "539e5117f9dba194cbffe6f54f9b1eb80e63ef4fef7ef81159cbacb13758704b",
+        "Brand": "Raiffeisen Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "First name, Last name, Date of birth, Country, City, Postal code, Phone number",
+        "List of Call-To-Actions": "\"WEITER\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Raiffeisen Bank logo, which is a red cross on a white background, prominently displayed at the top center. The logo is a trademark of Raiffeisen Bank, a well-known Austrian banking group. The page also has a form with fields for entering personal information such as first name, last name, date of birth, country, city, postal code, and phone number. These are typical fields that are required for identity verification. The presence of a \"WEITER\" button suggests that the user will be taken to the next step of the process after submitting the information. The overall design and layout of the page are consistent with the branding of Raiffeisen Bank.",
+        "Url": "https://web12104.cweb06.gamingcontrol.de/personal.php"
+    },
+    {
+        "Folder Hash": "6b20936058c6e0d9c4fe89fa7d80898ff11ac787ca2d0b1b56e59addc67d4d67",
+        "Brand": "NetZero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the NetZero logo at the top of the page. The logo is a stylized \"NZ\" in orange and blue, with the word \"NetZero\" in blue underneath. The logo is a registered trademark of NetZero, Inc. Below the logo, there is a login form with fields for \"Email Address\" and \"Password.\" These are the standard credential fields for logging into an email account. There is also a \"Sign In\" button, which is the call-to-action element. It prompts the user to proceed with the action of signing into their account. The presence of the NetZero logo, the login form, and the \"Sign In\" button strongly suggest that the webpage is a login page for NetZero's webmail service.",
+        "Url": "https://netzero-webmail-107432.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "6c7bb398eed5bf999ab68d9756dd9c3f0eb99ccd0f1e92bf5a6a503729491b23",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now, See Price, Learn More, Buy Now",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot is of the Microsoft website. The Microsoft logo is prominently displayed in the top left corner. The page is selling different products. There is a clear call to action to either buy now, learn more, or see the price of the products.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "73b6943837da35b8b1908a7dfc8c3af40138fb24cbe463d72233cbbb51508ec6",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://clearlydhruv.github.io/Net_clone/"
+    },
+    {
+        "Folder Hash": "b64ef9ef4778bf022bf1f80323fbfe10bd9338a226b169093cd61ffbd715571c",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Submit\" button",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The webpage screenshot displays the Outlook logo prominently, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled \"E-mail\" and \"Mot de passe\", which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"Submit\" button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is high due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://wkq.fr/f/X47lJ/HJgKD1Ji/"
+    },
+    {
+        "Folder Hash": "b8ffbd64dfa99d3e37956e203094c742345d6452375bbdcc465cf00499a87970",
+        "Brand": "BNP PARIBAS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"VALIDER\", \"ANNULER\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has a clear BNP Paribas logo at the top, which is a well-known trademark of the French multinational bank and financial services company. The presence of fields labeled \"Username\" and \"Password\" indicates that the page is designed for users to enter their login credentials. The presence of the \"VALIDER\" and \"ANNULER\" buttons, which translate to \"SUBMIT\" and \"CANCEL\" in English, respectively, serve as clear call-to-action elements for users to proceed with the login process or cancel it. The overall design and layout of the page are consistent with the branding and style of BNP Paribas's official website. There are no other visible logos or branding elements that would suggest a different brand is represented on this page.",
+        "Url": "https://www.taka.com.mx/pv/dist/js/pages/chartist/groupbnpparibasnc/app/user.php"
+    },
+    {
+        "Folder Hash": "cb8de0eb3aa49fb382799d2d4457e838b4bd036dfbf8b9c4ed64147fecbe952e",
+        "Brand": "bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cardholder name, Card number, Expiration date, CVC, Phone number",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The webpage has the bpost logo at the top left corner. The page is about paying with a credit card, and it has fields for entering credit card information, as well as a \"Next\" button to proceed with the payment. The overall design and layout of the page is consistent with the bpost brand.",
+        "Url": "https://pakket-bpost-be.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "da9b8f6bdc3e88e6e63acd994af58d87a965a27d92931bd273a8d9a3c4ec0447",
+        "Brand": "Garena Free Fire Membership",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd T\u00ean, Ng\u00e0y Sinh, \u0110\u1ecba Ch\u1ec9",
+        "List of Call-To-Actions": "NH\u1eacN QU\u00c0",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the Garena Free Fire logo at the top. The page is in Vietnamese and has fields for H\u1ecd T\u00ean (Name), Ng\u00e0y Sinh (Date of Birth), and \u0110\u1ecba Ch\u1ec9 (Address). These are all personal information that can be used to identify a person. The page also has a button that says \"NH\u1eacN QU\u00c0\" (RECEIVE GIFT), which indicates that the user will receive something after providing their information.",
+        "Url": "http://ff.memberrs.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    }
+]

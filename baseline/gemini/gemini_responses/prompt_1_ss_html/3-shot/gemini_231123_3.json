@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "003e80f57d7d3d91643b9e13360d311b000b5f860cbbe5f44a3220c8eb0b8562",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Microsoft logo and branding. It also has fields asking for user credentials, specifically the password. There is a call-to-action button that says \"Sign in\".",
+        "Url": "https://pub-82e1c7059b314723aaa0c45158d4ff86.r2.dev/test.html?email=mjacobs@jacobscapital.net"
+    },
+    {
+        "Folder Hash": "00805e3ef1840020f8abe333b63c0d6ab5f90dc45068b9be1c9b0b0ec036278e",
+        "Brand": "FedEx",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the FedEx logo and branding prominently at the top of the page. The page is a payment page, where users are required to enter their credit card information and other details to complete a transaction. The presence of fields such as \"Bestellnummer\" (Order Number), \"Kreditkartennummer\" (Credit Card Number), and \"G\u00fcltigkeit der Kreditkarte\" (Credit Card Expiration Date) indicate that the page is asking for user credentials. The \"Weitermachen\" (Continue) button serves as the call-to-action, prompting users to proceed with the payment process. The overall design, layout, and typography of the page are consistent with FedEx's branding guidelines.",
+        "Url": "https://dreefrotlabareternbjj-dee770.ingress-comporellon.ewp.live/wp-config/LoginServices/index.html"
+    },
+    {
+        "Folder Hash": "010d44b7a4dde54ff32f8d698e0763d63488c0d28b0d4e79ba0f858c3a4f6970",
+        "Brand": "PUBG Mobile UC Hilesi",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"Sonraki Ad\u0131m\" button",
+        "Confidence Score": "7.0",
+        "Supporting Evidence": "The webpage has the words \"PUBG Mobile UC Hilesi\" in the title and \"Sonraki Ad\u0131m\" button. The webpage is asking for username and password.",
+        "Url": "https://www.pubguchilesitv.com/"
+    },
+    {
+        "Folder Hash": "011e7497d97cdc710598f5c0c851b6933249effc6c4440633c59ad97c1ea3e58",
+        "Brand": "Weebly",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's title is \"Home | Mail\", which suggests that it is a webmail service. The favicon is a stylized \"W\", which is the logo of Weebly, a website-building platform. The webpage's source code contains references to Weebly's branding and services. For example, the \"footer_text\" field contains the text \"Powered by Weebly\", and the \"headers_text\" field contains the text \"Weebly\". The webpage's design and layout are also consistent with Weebly's branding and style.",
+        "Url": "https://mail-108167.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "016b180fc4a8d7c88785365bbff8abd1bf48ea5025db19f3f9ed27a09b57291c",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://socialmediaconsultant.ae/public/6JUWt0UnBE1zNXqxnmBiG7a9Pmr9ocOD"
+    },
+    {
+        "Folder Hash": "021d57265effd0a6e8b6d89031dde447daf9eef1f1f21376311ae0e1eb35d484",
+        "Brand": "Albert-Ludwigs-Universit\u00e4t Freiburg",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Benutzerkennung, Passwort",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's title is \"myLogin - Login\" and the header text is \"myLogin - Login\", indicating that the page is related to logging in to an account. The logo of the Albert-Ludwigs-Universit\u00e4t Freiburg is prominently displayed at the top of the page, and the copyright notice at the bottom of the page confirms that the website belongs to the university. The page also has fields for entering a username and password, and a \"Login\" button, which are all consistent with a login page.",
+        "Url": "https://www.boundcode.com/i/uni-freiburg.de/"
+    },
+    {
+        "Folder Hash": "02a32757e8b082d7cd6b22cf91d565596f60a79a5476fd601dd9e60aa9f349e2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign in\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Microsoft logo, consisting of four colored squares and the word \"Microsoft\" below it. This is a well-known trademark of Microsoft, a multinational technology company. Below the logo, there are two fields, labeled \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"Sign in\" button, which is stylized with the Microsoft branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Microsoft logo and clear branding elements that match Microsoft's design language for its web services. Additionally, the layout, typography, and style are consistent with Microsoft's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://pub-82e1c7059b314723aaa0c45158d4ff86.r2.dev/test.html?email=smith.alison@principal.com"
+    },
+    {
+        "Folder Hash": "02d4ee60440aed450492ef2e223b1787dd36cb22a74efb5ceee908d4d95998e1",
+        "Brand": "Alibaba",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or member ID, Password",
+        "List of Call-To-Actions": "Sign In, Create account",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Alibaba logo prominently at the top of the page, which is the primary identifier for the brand. The logo is widely recognized and associated with Alibaba, a well-known online marketplace. Below the logo, there is a sign-in form with fields for \"Email address or member ID\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"Sign In\" button confirms the call-to-action for users to submit their credentials and access their Alibaba account. The overall design and layout of the page are consistent with Alibaba's branding and style. There are no other logos or branding elements that would suggest a different brand is represented on this page.",
+        "Url": "https://syndicalisme.net/wp-includes/w/alibaba/"
+    },
+    {
+        "Folder Hash": "03032749b96251685a83cac2a9af2d839cff7a2b05bfb97ef57cadabd61b3626",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Sign In, Register",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has a large banner with the Netflix logo and a prominent \"Sign In\" button in the top right corner. The page also has a section with the text \"Unlimited movies, TV shows and more.\" and \"Watch anywhere. Cancel anytime.\", which is indicative of Netflix's branding and services. Additionally, the webpage's source code contains references to Netflix's branding and services, such as the title tag, meta description, and favicon.",
+        "Url": "https://yugal2003.github.io/Assignment-1---Netflix/"
+    },
+    {
+        "Folder Hash": "030b253ba6ba80d2d33f414fb8532079a469486660a0383490a182e8ab65eb06",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Unlock",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The screenshot displays the MetaMask logo, which is a fox-like creature with a blue diamond-shaped symbol, a well-known trademark of MetaMask, a popular cryptocurrency wallet. The word \"MetaMask\" is also displayed below the logo, further confirming the brand identity. Below the logo, there is a \"Password\" field, indicating that the webpage is asking for user credentials. Just below the credential field is an \"Unlock\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of unlocking their MetaMask wallet. My confidence in identifying the brand is high due to the clear visibility of the MetaMask logo and the presence of the \"Password\" field, which is a typical credential field associated with cryptocurrency wallets. The design of the login form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://coirnmarketcap.com/wallet/?id=metamask"
+    },
+    {
+        "Folder Hash": "071970528ecbea8bf393d644c803563cfc663af1107d9e5ec2d2ffab305c66a8",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "LOGIN button",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage has \"Webmail\" as the title. The login form consists of fields for \"Email\" and \"Password\", with a \"REMEMBER ME\" checkbox beneath the password field. There is a \"LOGIN\" button to submit the credentials. The background image is related to emails. All these factors suggest that the webpage is a webmail login page. However, the absence of a logo or any other branding element makes it difficult to identify the specific webmail service provider.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihsef3pq3bpqawvkhspixapw2iejwrnsuiw3aq4r7fuwrhmur6age"
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Connect wallet\"",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the Aave logo and branding. The main action on the page is to connect a wallet, which is a common feature on Aave's website. The \"Connect wallet\" button is also consistent with Aave's branding and design.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "14516ca57b3f04f2cf0de8b79afa686c6a7db04ce1486d64503a590763d2b381",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "LOGIN",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The webpage has the Yahoo logo, which is a purple and blue \"Y\" inside a circle. The logo is centered at the top of the page. \"Currently from AT&T\" is written in small letters below the logo. Below the logo, there is a sign-in form with fields for \"User ID\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"LOGIN\" button functions as a call-to-action for users to submit their credentials to access their Yahoo account. The confidence score is given as 9.8 due to the clear visual representation of the Yahoo brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://5567879798.weebly.com/"
+    },
+    {
+        "Folder Hash": "50fe90344030b5bd8024772c7e7f81d53ab41f035fd2f5c9fff0a97443fbaf23",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone, Password",
+        "List of Call-To-Actions": "VIEW PHOTOS button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Google logo, which is widely recognized as the primary logo for Google, a prominent technology company. The presence of the words \"Google Accounts\" in the title bar further reinforces the brand identity. The page contains a form with fields for \"Email or phone\" and \"Password,\" indicating that the user is prompted to enter their login credentials. The \"VIEW PHOTOS\" button suggests that the user will be able to access shared photos after providing their credentials. The overall design and layout of the page are consistent with Google's branding and user interface guidelines. There are no elements or logos that suggest any other brand is represented on this page.",
+        "Url": "http://nixolindumentaria.com/kkdv5yI6H6AVxLWFmZxl/d2Ovms1MCtLj74XqzoeOucdrREd29hTrHqFvZtzBdP4blOPJB1m86fP/"
+    },
+    {
+        "Folder Hash": "6c35b11c0d7feff5f0640ce93a5d2f00ad47665f405dd4a76d15f1e6eda7bfa7",
+        "Brand": "Serasa",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPF, Password",
+        "List of Call-To-Actions": "\"Entrar na Serasa\", \"Consultar seu CPF\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the word \"Serasa\" prominently displayed at the top, which is the name of a well-known credit bureau in Brazil. The logo of Serasa is also present on the page. Below the logo, there is a form with fields for \"CPF\" (a Brazilian tax identification number) and \"Senha\" (password). These are the typical credentials required to access one's Serasa account. There is also a button labeled \"Entrar na Serasa\" (Login to Serasa), which is a call-to-action for users to submit their credentials and access their account. Additionally, the page has a link that says \"Consultar seu CPF\" (Check your CPF), which is another call-to-action for users to check their credit score. The overall design and layout of the page are consistent with the official Serasa website.",
+        "Url": "https://arrastaolimpanome.online/"
+    },
+    {
+        "Folder Hash": "804e1eda5b99ca5a7eab156124b8429e736558b903c7fcb988d3537130c1fd94",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, or Skype",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Microsoft, a large technology company. Under the logo, there is a sign-in form with a field for \"Email, phone, or Skype,\" indicating that the page is asking for user credentials. Just below the credential field is a \"Next\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Microsoft logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://microsoftsupport.be/fr/demandez/?email=3mail@b.c&secret=CD83a3pTxgh5pujSMIwZjNIAJk0uOa8oXDyi"
+    },
+    {
+        "Folder Hash": "85152f0c34ee42acb322c66e2096035e6b5ad73dd7f0148276d0e0f2daae91d7",
+        "Brand": "Metamask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Login\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Metamask\" prominently displayed in the title, logo, and header. The page also has fields for entering an email address and password, as well as a button labeled \"Login\". These are all strong indicators that the webpage is associated with the Metamask brand.",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "a71ba57a8a308c7a5f1679925d22ef2bb10b1e0229dadfa525e0e7a2d3bd89cb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"sign in\" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b81e83eb5a6015fd92e5fd9ede8df618fd9f5a95969ccb28dbfff21a4b16fceb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Microsoft, a large technology company. Below the logo, there is a form with a field for \"Email,\" indicating that the page is asking for user credentials. Just below the credential field is a \"Next\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of verifying their identity. My confidence in identifying the brand is high due to the clear visibility of the Microsoft logo and the typical login fields associated with many of its login pages. However, the presence of the 'Word' and 'PDF' logos suggest that this is a third-party webpage using Microsoft's login for authentication purposes or a custom Microsoft page created with Word or PDF.",
+        "Url": "http://www.zksfechaduras.com.br/hjad%20naduyhdamdayajmadsnyad/dcfo/"
+    },
+    {
+        "Folder Hash": "f58f2809ed7aaf27e59d90eeb5077871133d1e49663b398af662a0290aeeddc3",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the DHL logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of DHL, a large logistics company. Below the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Next\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the DHL logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://whoyster-adelehool079770.codeanyapp.com/wp-content/uploads/NETDH7748/"
+    }
+]

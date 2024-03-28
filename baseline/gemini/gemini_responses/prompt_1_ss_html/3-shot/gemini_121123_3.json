@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "000b0df78edcac38fedb9be51172525cf51cc8f7fe73bc363a56cf03f9bba81b",
+        "Brand": "PayPal",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"CHECK NOW\" button",
+        "Confidence Score": "7.0",
+        "Supporting Evidence": "The webpage has \"PAYPAL VALID EMAIL CHECKER\" as its title. The logo of PayPal is also present on the page. However, the webpage does not have any fields asking for user credentials. Instead, it has a \"CHECK NOW\" button, which suggests that the webpage is a tool to check the validity of email addresses. The overall design and layout of the webpage are also consistent with PayPal's branding.",
+        "Url": "https://checker.anodaz.uk/"
+    },
+    {
+        "Folder Hash": "00805670979fe1b44778eb96f9c9ffbbe8058371d270bc63952f638c5322cb0d",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"\u7acb\u5373\u5b9f\u884c\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage screenshot displays the Microsoft logo prominently at the top of the page, which is a well-known trademark of Microsoft. The page also includes the Microsoft Defender logo, which is a security product offered by Microsoft. Additionally, the page includes a link to the Microsoft support website. The presence of these elements indicates that the webpage is associated with Microsoft. The webpage is asking for user credentials, such as email address and password, in order to sign in to their Microsoft account. The webpage also includes a call-to-action button that says \"\u7acb\u5373\u5b9f\u884c\", which translates to \"execute immediately\" in English. This button is likely used to submit the user's credentials and sign them in to their account.",
+        "Url": "https://mrx9u1sjf03fbm.azureedge.net/7572/"
+    },
+    {
+        "Folder Hash": "010f5d917380738405014abdd3e197261af1e6f3195599368f45aa0badd21bcf",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "\"CONTINUE\" button",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The screenshot displays the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there are fields labeled \"Email address or phone number\" and \"Password,\" which clearly indicate that the page is designed for users to enter their login credentials. The presence of the \"CONTINUE\" button functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.0 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages. However, the absence of the Facebook name or any other branding elements on the page introduces a slight uncertainty, as it is not a typical Facebook login page.",
+        "Url": "https://jianshan.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "0195bf7176c9b53fcc59758fcaee641f0732a9236fd5b6bc5dadcaf712f8537e",
+        "Brand": "DenizBank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Ad ve Soyad, Telefon Numaras\u0131, Tc Kimlik Numaras\u0131",
+        "List of Call-To-Actions": "\u015eimdi Ba\u015fvur",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the DenizBank logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of DenizBank, a large bank in Turkey. The logo is accompanied by the bank's name in Turkish, \"DenizBank.\" Below the logo, there is a form with fields for \"Ad ve Soyad\" (Name and Surname), \"Telefon Numaras\u0131\" (Phone Number), and \"Tc Kimlik Numaras\u0131\" (Turkish Identity Number), indicating that the page is designed for users to enter their personal information. The presence of the \"\u015eimdi Ba\u015fvur\" button, which translates to \"Apply Now\" in English, functions as a call-to-action for users to submit their information to the bank. The confidence score is given as 9.5 due to the clear visual representation of the DenizBank brand through the logo and the typical fields associated with many of its application pages.",
+        "Url": "https://kredim.online/"
+    },
+    {
+        "Folder Hash": "01b5753e8df34121e3c70064d15a366cbb4a49948de7a3e8392b630d04b1eb9f",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "\"CONTINUE\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Facebook logo, a prominent trademark of Facebook, Inc. The logo is accompanied by the text \"Community Standards,\" indicating that the page is related to Facebook's community guidelines. The presence of fields labeled \"Email address or phone number\" and \"Password\" indicates that the page is asking for user credentials. The \"CONTINUE\" button suggests that the user will be able to proceed to the next step of the account verification process by providing their credentials. The overall design and layout of the page are consistent with Facebook's branding and user interface.",
+        "Url": "https://rizhao.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "020a836cba7096308eb9332d8f7ff5a40404015d020dc16feda19978f3a9db18",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there are fields labeled \"Email address or phone number\" and \"Password,\" which clearly indicate that the page is designed for users to enter their login credentials. The presence of the \"Continue\" button functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://photos.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "02d070e2516b721d7b186f07afd90ac95e94b5cc0f218b9f7ccc237c7cc6159c",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "\"CONTINUE\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there are fields labeled \"Email address or phone number\" and \"Password,\" which clearly indicate that the page is designed for users to enter their login credentials. The presence of the \"CONTINUE\" button functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "043e30b9af6ed0d0c38310701758e7867a35eb103cb92cafca59e5ba0193cdc0",
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Email",
+        "List of Call-To-Actions": "\"Beli!\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage's title is \"Free Fire (Indonesia) - Codashop\", which indicates that the brand is Codashop. The webpage also has a Codashop logo at the top left corner and a \"Beli!\" button with the Codashop logo on it. The webpage is about topping up diamonds for the game Free Fire, and it asks for the user's User ID and Email to do so. These are all strong indicators that the brand is Codashop.",
+        "Url": "http://codashop49119.terbaru-vip.my.id/vhsfhqpdhdsih6/"
+    },
+    {
+        "Folder Hash": "047bed6387e7820ff2ff504930c17e73ad242d04e9bea95c0424ef6725cd74dd",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number or email, Password",
+        "List of Call-To-Actions": "\"Zaloguj si\u0119\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage screenshot displays the Facebook logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Facebook, a large social media company. Under the logo, there is a sign-in form with fields for \"Numer telefonu kom\u00f3rkowego lub adres\" (Phone number or email) and \"Has\u0142o\" (Password),\" indicating that the page is asking for user credentials. Just below the credential fields is a \"Zaloguj si\u0119\" button, which translates to \"LOG IN\" in English, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Facebook logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for Facebook services created by a different company). There is no evidence of other brands being primary on this page.",
+        "Url": "https://dealer-motoryzacyjny.pl/authorize.php?zfTdMYvohkjkJAcDot4kVez9hd5SwZXVYKIXQZnZ30J1goyvBy4eJ5LZYIUpNTbPkqBdyaDu4RYtFENVICtu2FgA1QuLJOsxGp7KdNItzMHBiH7oj7b2BLuN3MGyQ62hmGmxMvfn6p4qjBQVLWdVATop3S46AcRz7sC1vehR8z0xJSZwEBIWsWG94DJro8JX34GAkyGJdXWDcApdl7corhwjYSfRPkrOcm8Na7oRVfD01Qqy5vBLZpQW2AIOVSjE"
+    },
+    {
+        "Folder Hash": "049a7ca0b3fa9c1a6b01e9195b8cb310ab43c3718a0350edca0cb1604fdef1de",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "\"CONTINUE\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage screenshot displays the Facebook logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Facebook, a large social media company. Under the logo, there is a message stating that the account will be deactivated soon due to unusual activity. Below this message, there is a form with fields for \"Email address or phone number\" and \"Password,\" indicating that the page is asking for user credentials to verify the account. Just below the credential fields is a \"CONTINUE\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of verifying their account and avoiding deactivation. My confidence in identifying the brand is high due to the clear visibility of the Facebook logo and the typical login fields associated with many of its login pages. Additionally, the overall design and layout of the page are consistent with Facebook's branding and style guidelines.",
+        "Url": "https://nian.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "052fb6231817f412864dfd613258d57260ed22a4e70eaf66456baee33a14d1b2",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Numero de department, Choisir une caisse regionale",
+        "List of Call-To-Actions": "VALIDER",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Credit Agricole logo, which is a well-known trademark of the French banking group. The page also has fields for entering a department number and choosing a regional caisse, which are likely used for accessing online banking services. The presence of the \"VALIDER\" button indicates that the page is designed to collect user input and perform an action, suggesting that it is a login or authentication page. The overall design and layout of the page are consistent with the branding and style of Credit Agricole's website.",
+        "Url": "https://ozd6483.webmo.fr/Web/Fr/creditagricole/CA/79fc8ce668502c7/rgn.php?particulier"
+    },
+    {
+        "Folder Hash": "0a803bc306dfb97eceec30a382a69bee6174004adf1b76482ad1bdea0d096824",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"sign in\" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "http://sugarcommunications.com/js/fgd/app.hellofax.html"
+    },
+    {
+        "Folder Hash": "27716752b897ff63221e9064d11300ec3122455d9efa2a714bb2130e790c8e3a",
+        "Brand": "First Financial Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the First Financial Bank logo at the top. The page also has a green checkmark with the message \"Your account information has been successfully verified. Please click on the sign in button below to login.\" below it. There is a \"Continue\" button below this message. The presence of the First Financial Bank logo and the verification message strongly suggests that this is a webpage associated with First Financial Bank.",
+        "Url": "http://crispyux.design/firstfinancial/complete.php"
+    },
+    {
+        "Folder Hash": "406cdf1183eaa1c92c061d5ce7ac6f2744f73069acd847ce91b5f41e7703e3b3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number or email, password",
+        "List of Call-To-Actions": "\"Zaloguj si\u0119\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there are fields labeled \"Numer telefonu kom\u00f3rko\" (Mobile phone number) and \"Has\u0142o\" (Password), which clearly indicate that the page is designed for users to enter their login credentials. The presence of the \"Zaloguj si\u0119\" button, which translates to \"LOG IN\" in English, functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://handel-wszechstronny.pl/authorize.php/"
+    },
+    {
+        "Folder Hash": "69b52bc74d554b4ecc25b853197f39fe32700768875e8975acf01cb3e6b8720d",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"ACTIVER\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Credit Agricole logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Credit Agricole, a large banking group in France. The page's title is \"Activation SecuPass\", indicating that the purpose of the page is to activate the SecuPass security service. The presence of the \"ACTIVER\" button, which translates to \"ACTIVATE\" in English, functions as a call-to-action for users to proceed with activating the service. The confidence score is given as 9.5 due to the clear visual representation of the Credit Agricole brand through the logo and the typical elements associated with its online services.",
+        "Url": "https://convention-securitaire-franc.web.app/"
+    },
+    {
+        "Folder Hash": "74ef921a602a3f5c5cd80ae41948e5e17702974060d6cdb1bc769d774b9485dd",
+        "Brand": "CVS Health",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign On\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage prominently displays the CVS Health logo, which is a red heart with the words \"CVS Health\" in white text. This logo is a well-known trademark of CVS Health, a large pharmacy and healthcare company. Below the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign On\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the CVS Health logo, the typical login fields associated with many of its login pages, and the presence of the \"Sign On\" button.",
+        "Url": "https://cvshealth.sharepoint.corp.index.organicbitesindia.com/ext.home/Udlaps/index.php"
+    },
+    {
+        "Folder Hash": "79433408fa3d0788dcecb66ef7c23db6c5d532231240a835fbae3565f8fe92e1",
+        "Brand": "Australian Government",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Australian Government logo at the top center. The page also has the words \"Sign in with myGov\" on the top left corner and \"Using your myGov sign in details\" on the top right corner. Below that, there are two input fields, one labeled \"Username or email\" and the other labeled \"Password\". There is also a \"Sign in\" button below the input fields. The page also has links to \"Forgot username\", \"Forgot password\" and \"Create a myGov account\". All these elements indicate that the webpage is an Australian Government login page.",
+        "Url": "https://www.apocsulb.org/g/"
+    },
+    {
+        "Folder Hash": "7f7f2a8823c26ef999fa286173c653c4afdc65497ee3d3ded7011a71603c7dfb",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Log in\" button",
+        "Confidence Score": "1.0",
+        "Supporting Evidence": "The webpage has a simple design with a white background and a grey login box in the center. The login box has two input fields, one for the email address and one for the password. There is a \"Log in\" button below the password field. The webpage does not have any branding or logos, so it is not possible to identify the brand. However, the presence of the login form indicates that the webpage is likely a login page for a webmail service.",
+        "Url": "https://pub-3bc9161e0ceb4c5397b48936ad7e7bd6.r2.dev/index.html#"
+    },
+    {
+        "Folder Hash": "c96f2c6cc04fbdb0a2c2a31ceabb1acb72ba80fe7c2ee8cb36c00f9d3123fbcb",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Meta logo and branding. The login form asks for email address or phone number and password, which are typical credentials required for logging into a Meta account. The \"Log In\" button is a clear call-to-action for users to proceed with logging in. The presence of \"Meta \u00a9 2023\" at the bottom further confirms the brand identity.",
+        "Url": "https://pages-adsbusiness-hlp-inf-acc.github.io/omega/manager/#confirm-page-container-navigation"
+    },
+    {
+        "Folder Hash": "dec220c28a735ebf48e95ce79dff38a583630d2c0268104851b385912386161d",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the word \"Netflix\" prominently displayed at the top of the page, which is the logo and trademark of the well-known streaming service. The overall design and layout of the page, including the typography and color scheme, is consistent with Netflix's branding. The presence of the search bar and the \"Recent Posts\" and \"Recent Comments\" sections further suggests that this is an official Netflix webpage, as these features are commonly found on WordPress-based websites. There are no visible elements or branding cues that indicate the presence of any other brand on this page.",
+        "Url": "https://subscription-netflix-support.codeanyapp.com/heltsa/jonika/account/paymybill.php"
+    },
+    {
+        "Folder Hash": "f2decee51d9eeeb97312e59052df929f8752b80ffbadbcb26705271c57f986b8",
+        "Brand": "Idaho Central Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Log In\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Idaho Central Credit Union logo prominently displayed at the top. The logo is a stylized \"ICCU\" in a blue circle, with \"Idaho Central Credit Union\" written out below it. The login form consists of two fields: \"Email\" and \"Password,\" which are standard credential fields for logging into an account. The \"Log In\" button is green and has a white outline, and it is located below the login form. The webpage also has a footer with links to the credit union's contact information, locations, disclosures, browser support, and mobile site. The presence of the Idaho Central Credit Union logo, the login form, and the footer all indicate that this is a webpage for Idaho Central Credit Union.",
+        "Url": "http://womanizervibrator.nl/ICCU/emailpass.html"
+    }
+]

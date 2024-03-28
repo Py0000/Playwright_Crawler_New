@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "00d8245cdb3cf11560a75398f7f320aabc1fc72ae56dfc0f4a6c481eca4307a3",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://pub-8ff9f2b7d39f44c18425eca0f23a98b9.r2.dev/owa.html#security%40ethz.ch"
+    },
+    {
+        "Folder Hash": "0219010803323bd27d11aeff2290b47079f50718931e904dcb37c4254438d4d5",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Telegram, which is a messaging app. The page is about downloading Telegram for different devices. The page has buttons that say \"Download Telegram\" and \"Open\", which are calls to action.",
+        "Url": "https://waw502.com/"
+    },
+    {
+        "Folder Hash": "03f38d64b313328c71c77b1e5bbd5dca0c6e5a18f8c5d0a1abbf36d5e62e42b1",
+        "Brand": "O2",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Login, register",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of O2, which is a telecommunications company. The page also has fields asking for user credentials such as email and password, as well as call-to-action buttons such as \"Login\" and \"Register\".",
+        "Url": "https://login.o2online.de/sso/UI/Login?cookieenabled_test=1&service=unified-web"
+    },
+    {
+        "Folder Hash": "05f3f0a9a004505a1d0214d4ccfc07c93c66f8bb2b34bfe59efe54cf4ef5de7c",
+        "Brand": "myGov",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Australian Government logo and the myGov logo. The page has fields asking for sensitive user credentials such as username or email and password. There is also a call-to-action button that says \"Sign in\". All these evidence indicate that the webpage is related to myGov.",
+        "Url": "https://www.homeaccountau.com/las/mygov-login/"
+    },
+    {
+        "Folder Hash": "065db6158190513f168076463c6a38bb64b1a1fc669964b918c8280dbf7d44ef",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://package.dittugarments.com/public/mjOfBj69BBa3Tk4AvbQreARG4ImFnQE6"
+    },
+    {
+        "Folder Hash": "08dbd1fe32c1808e7b8634d36c3bc248a9549b994328ccade7ec7580f6d28a06",
+        "Brand": "Digital Federal Credit Union (DCU)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the DCU logo and the words \"DCU Online - Login\" in the title bar. The page also has fields for entering a username and password, as well as a button that says \"Sign In\". These are all indicators that the webpage is a login page for DCU's online banking service.",
+        "Url": "http://dcu-auth.bup.net/dcu/"
+    },
+    {
+        "Folder Hash": "097dc9db025c800cc3bf5c63c79a01981c15a64889e2c927f8e13c77d83d6b16",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "http://buttery-sore-revolve.glitch.me/log.html"
+    },
+    {
+        "Folder Hash": "0afa2a8eb4ca3a3aa2982212463bef9181cf6658b53b70efe9cb4c65d6524ca4",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Install Update",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the WhatsApp logo and branding. The title of the page is \"WhatsApp\". The content of the page is about WhatsApp. The call-to-action button says \"Install Update\".",
+        "Url": "https://polert.xyz/52Lp/whatsapp.html"
+    },
+    {
+        "Folder Hash": "0b737c7e8f92273f5ad7c9ba132c4bc9463e7c6894fa5659122ac28fd1f5dec8",
+        "Brand": "Societe Generale",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://sgsecunet.com/691445964a4d606df52621f811811b56baef1da6689490be3c4c25a86af99f4e84c67ddff90c46b84436a69894e2f799/"
+    },
+    {
+        "Folder Hash": "0b886f8ff0be94ae4de4084fd164835dfe62b164ede278e7dff011104fe2deef",
+        "Brand": "Travis Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register with Online Banking",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Travis Credit Union. The login form asks for username and password. There are two call-to-action buttons: \"Login\" and \"Register with Online Banking\".",
+        "Url": "https://qatarpharmaonline.com/traviscu/error.php?cmd=_account-details&session=92b20e6759d333f5d6f30d85490ea6a3&dispatch=3e065c2d52e475a1454804aa2fab881a628e2d65"
+    },
+    {
+        "Folder Hash": "0c6cdf65f3a54872a8645d6981048dd06f994e84199a219301a73387b6952740",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Log in with Facebook",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Meta logo and branding. It also has a login form that asks for email and password. Additionally, there is a call-to-action button that says \"Log in with Facebook\".",
+        "Url": "https://meta-account-setting.com/"
+    },
+    {
+        "Folder Hash": "11a58351b0b0c1ae68e1675f31ac5531f4e94511384c4ee26b0edede65bef2ae",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" and the Netflix logo prominently displayed at the top. The page also has a form where users can enter their email address to create an account or sign in. The call-to-action button on the page says \"Get Started\".",
+        "Url": "https://crazew.github.io/simply/"
+    },
+    {
+        "Folder Hash": "1e0f39c1715d2002bfbb33bd3895276fec0827a2185710ef756477d9be67d588",
+        "Brand": "Stake.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Username, Password",
+        "List of Call-To-Actions": "Sign In, Register",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Stake.com logo on the top left corner. The webpage has fields asking for email or username and password. The webpage has call-to-action buttons \"Sign In\" and \"Register\".",
+        "Url": "https://playstakecom.web.app/"
+    },
+    {
+        "Folder Hash": "2c6d6ea5b4d25c0b56b452c33cae300793881b4de0086ece59ea7a62eaa07eb8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://09ta.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "3bd85627c716e638b3fae2ef502f2d12379d065d247e19d30dc2764ca1b0e0e2",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the PUBG Mobile logo and branding. The background image is also related to PUBG Mobile. The page has social media icons for the game, as well as a call-to-action button to download the game.",
+        "Url": "https://bey.help-page-reviev.my.id/"
+    },
+    {
+        "Folder Hash": "49ab6cb01928dfd2e0a8bb6a4ed49d5039c3c67cb1687484305d38a7134b29fe",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo at the top left corner. The background image is also related to PUBG Mobile. The page is about an event called \"Boxerbolt Packs a Punch\" where users can collect rewards. There are no fields asking for user credentials, but there are call-to-action buttons for social media platforms such as Facebook, Twitter, YouTube, Instagram, VK, and Discord.",
+        "Url": "https://ha33.krafton-news.com/"
+    },
+    {
+        "Folder Hash": "51fa830e14d1dc51ccef9415d4f3f0358b0ad7293c262429376c6f84b91d7248",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" displayed prominently at the top center. The webpage also has the Netflix logo, which is a red \"N\" on a black background. The webpage is also consistent with the overall branding of Netflix, such as the use of red and black colors and the overall layout of the page.",
+        "Url": "https://shrestha-tripathi.github.io/netflix-html-clone/"
+    },
+    {
+        "Folder Hash": "593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "Sign Up, Log In",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the bet365 logo, trademark, and branding prominently displayed. The screenshot also shows fields asking for user credentials such as email, username, and password. Additionally, there are call-to-action buttons such as Sign Up and Log In.",
+        "Url": "http://19960721.com/"
+    },
+    {
+        "Folder Hash": "8292dd540a9633426a81fb85249f8ada78cc34cff3874d7b01b25946cd938349",
+        "Brand": "GBWhatsApp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the words \"GBWhatsApp\" and \"Download\" in the title. The logo of GBWhatsApp is also present on the webpage. The webpage is asking for user credentials such as username, password, email, phone number, and two-factor authentication code. The webpage also has call-to-action buttons such as \"Download GBWhatsApp\", \"Scan QR Code\", \"Restore Chats\", \"Verify Number\", and \"Agree and Continue\".",
+        "Url": "https://gbwhats.in/"
+    },
+    {
+        "Folder Hash": "8fc80c306751cc61ba1d29b890f14e147914e2cfe4f73919ef2b046571847a68",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand logo is clearly visible at the top of the page. The screenshot is of a tracking page, which is a common feature of DPD's website. The tracking number is also visible, which is a unique identifier for DPD packages.",
+        "Url": "https://neu.planen.lieferung.4-235-113-82.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "974e84c16ee32ec67387d7f4a9d965592681486393150f23b299ae0037ce7cb0",
+        "Brand": "Banco Ita\u00fa",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo and trademark of Banco Ita\u00fa. The footer also has the copyright information of Banco Ita\u00fa. The call-to-action buttons are also consistent with the branding of Banco Ita\u00fa.",
+        "Url": "https://rafael3590.github.io/"
+    }
+]

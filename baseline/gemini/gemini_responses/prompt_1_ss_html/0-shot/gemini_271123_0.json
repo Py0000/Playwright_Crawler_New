@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "01308d40961130f61c8a2f9c9f92aca5e87e1b1b388caadb78c0d84191ec5322",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://package.dittugarments.com/public/uvKhzB6nB9AksS436lrCwOvPcv7L9Br4"
+    },
+    {
+        "Folder Hash": "017beab429d03806acd371a85186a003b4f798d589f8e397ce64ffbbd9adb8b4",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Turn on Facebook Protect",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Facebook logo and the words \"Facebook Protect\" in the title bar. The page also has a blue button that says \"Turn on Facebook Protect\".",
+        "Url": "http://agency-support.abraham-personal.de/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "018cef3464440cd63d5c628b47d06257799f8ea68af49c86983f55e1716d2005",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://package.dittugarments.com/public/8WJz2fTND6IqcNBZPQCe4I9Lb24lRZ1F"
+    },
+    {
+        "Folder Hash": "019f08fbab0a21a90395daeab0c53d91374965e7124e10036b5023e43e3f88d7",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://package.dittugarments.com/public/9sBhKlGHlUt104V2uY4vifQ1tEcvDUEx"
+    },
+    {
+        "Folder Hash": "01bf7b99942e8ea129c4a86a457087aa48a74bdbdaa7ce38519c5f7dd1ffdb76",
+        "Brand": "WeTransfer",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the WeTransfer logo and branding. The page also has fields asking for user credentials such as email and password. Additionally, there are call-to-action buttons such as \"DOWNLOAD\" and \"Get WeTransfer Plus\".",
+        "Url": "https://pr0d-agreement-0rder.glitch.me/js/we-transfer_54nbbf53luc641_spec.html?is=3mail@b.c"
+    },
+    {
+        "Folder Hash": "020dfdef4afa510d43b3f8805cfd682c0c8f8e02d8a93c3f58ffb8e4d775dd37",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook, email",
+        "List of Call-To-Actions": "Login, Register, Download",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Garena Free Fire logo at the bottom of the page. The page also has fields asking for user credentials such as Facebook and email. Additionally, there are call-to-action buttons such as Login, Register, and Download.",
+        "Url": "https://sukien.livestream.ff.garenei.com/"
+    },
+    {
+        "Folder Hash": "02bb85dabd0710d94b8962bacf774df0f163f0d645d6a4aa7b216a85c3693557",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Turn on Facebook Protect",
+        "Confidence Score": "9.9",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. The text on the page says \"Facebook\" and \"Turn on Facebook Protect\".",
+        "Url": "http://supportagency-8798744.lineacasalistenozze.com/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "038be99957c44dbf5f442b3476f6f6dd66ad02d7d2b4b99ed669e4e1b872af7c",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. It also has fields for entering login credentials, such as email address or phone number and password. Additionally, it has call-to-action buttons such as \"Log In\" and \"Create New Account\".",
+        "Url": "https://sdfsdfsdfewfesdgdfsgs.blogspot.com/"
+    },
+    {
+        "Folder Hash": "0443e086c2790a774cc68d7b496734e636cf8d05c6c787e88751faf29e9c435c",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Facebook logo and the words \"Facebook\" on it. The page also has a blue button that says \"Start\". The screenshot is consistent with the Facebook login page.",
+        "Url": "https://support-adsmanager.com/b511nWz51Bik1C7qtovwwhNOQUPICLbDzE3olwS2HOfz1ygCWSvHNWboJdmApzDyhc1Y4iB5IOudLa1BTrangdau.html"
+    },
+    {
+        "Folder Hash": "04479ddd8ec78b3c2a7e9bc6c04b1b5c524081dd267ff0015946e25fdd70440c",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The webpage has the Microsoft logo and the OneDrive logo. The page also has a form asking for user credentials, including email and password. There are also call-to-action buttons, such as \"Sign in with Outlook\" and \"Sign in with Office 365\".",
+        "Url": "blob:http://cassdrakeford.com/2b38c416-5ee4-4bab-b5a2-7266aac7941a"
+    },
+    {
+        "Folder Hash": "164ad949f9595380059658035fdc02fbaf46e833d5e6a017297391509709b3cb",
+        "Brand": "Basuri Shop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number, shipping address, billing address, card number, card expiration date, card CVV",
+        "List of Call-To-Actions": "Buy Now, Add to Cart, Proceed to Checkout, Create an Account, Sign In",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Basuri Shop at the top left corner. The footer of the webpage also has the copyright information of Basuri Shop. The \"Contact Us\" page has a form that asks for the user's name, email address, phone number, and message. The \"My Account\" page has a form that asks for the user's email address and password.",
+        "Url": "https://basurishop.com/"
+    },
+    {
+        "Folder Hash": "19ae88c673d1b61b7e5df50961ab9e6a8b7f0b532558125fd4b81cc9818933cf",
+        "Brand": "Banpro Grupo Promerica",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Banpro Grupo Promerica at the top left corner. The login form has fields for username and password. There is a call-to-action button that says \"Login\". The footer of the webpage has the copyright information of Banpro Grupo Promerica.",
+        "Url": "https://46c8371e-2ec7-4ab6-8119-797076e037dd.id.repl.co/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Han'gook Tech",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "31c40fdd6f2f7007261f3cf59f7d4d1b3f3d3a306a031b3e5fb8ff85ea8c8028",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Surface, Shop Xbox, Shop for Surface devices, Buy Xbox games and consoles, Choose your Microsoft 365, Shop for students, Sign up for free, Get it today, Download Visual Studio 2022, Get Windows 365 Cloud PC",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot is of the Microsoft website. The Microsoft logo is clearly visible in the top left corner of the page. The page is selling Microsoft products, such as the Surface Laptop, Xbox, and Microsoft 365. The page also has links to other Microsoft websites, such as the Microsoft Store and the Microsoft Support page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8596686c03d764958db74627678de987a7b5b3ed0490ec0b63b32c0d8374a54e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "http://d15a1lvkr18tre.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "a4ad70fbd111247f286b1364997a9099527e0e1348b8a070073b27d79abfbdeb",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://gentmulaj1.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "c0a0edcd380a5c918c884cbd8de521c702eda077dac81d0ec9d92b519ee3d409",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Surface, Shop Xbox, Shop for students, Buy Xbox games, Sign up for free, Get it today",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot is of the Microsoft homepage. The Microsoft logo is clearly visible in the top left corner of the page. The page is selling various Microsoft products.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c40c09de4d38419a8dcef0dc13d33ad07bcf21bacd6df5984b58616b1fee3c8e",
+        "Brand": "Suncoast Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Member Number, Password",
+        "List of Call-To-Actions": "Log In, Join Now",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Suncoast Credit Union. The page also has SunNet Online Banking, which is a product offered by Suncoast Credit Union. The page also has fields asking for sensitive user credentials such as member number and password. The page also has call-to-action buttons such as Log In and Join Now.",
+        "Url": "https://suncoastaut.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "e9e9b5de6eda512206beb1f71d65125b14ce947010dcf5def32e0597f091f56e",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Learn More",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Wells Fargo logo and branding. The page has fields asking for sensitive user credentials such as username and password. There are also call-to-action buttons such as \"Login\" and \"Learn More\".",
+        "Url": "https://intlexperiwellscomms.weebly.com/"
+    },
+    {
+        "Folder Hash": "f52a5a4a2e5c8da13499aaafe8a4df46e38baadac1abb724e8c183a9a47b38ef",
+        "Brand": "Gazprombank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number",
+        "List of Call-To-Actions": "Sign Up",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Gazprombank. The page also has a form asking for user credentials such as email and phone number. Additionally, there is a call-to-action button that says \"Sign Up\".",
+        "Url": "https://ultimatefinancesedition.com/"
+    }
+]

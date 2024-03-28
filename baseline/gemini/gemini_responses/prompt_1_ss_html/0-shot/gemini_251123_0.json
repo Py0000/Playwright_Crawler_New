@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "00456ceeb05233ad13847800e135177fee3ba3b9aa8b3abad2897d5bb098c0ef",
+        "Brand": "SaskTel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the SaskTel logo and branding. It also has fields asking for user credentials such as email address and password. It has a call-to-action button that says \"Log In\".",
+        "Url": "https://mwebsasktelnetwebmail.weebly.com/"
+    },
+    {
+        "Folder Hash": "02543a8275720f148177a6725d130795ca1ce37b23115e37220ec8120e329b7d",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://pub-bab316f8fb154fc2990bdef6c0c5a545.r2.dev/micros.html?email=ym9ilnhpbmdaemltdmlllmnvbq=="
+    },
+    {
+        "Folder Hash": "02678ed74f0374f8f550d4cb157ab6f977ca02d97a01c3bf78e9e40bfcd50a31",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the logo of Magazine Luiza at the top left corner. The page also has a form asking for user credentials such as email and password. There is also a call-to-action button that says \"Login\" and \"Crie sua conta\".",
+        "Url": "https://amigalu.com.br/"
+    },
+    {
+        "Folder Hash": "03b1434f9932da25c5349db7b2784f0059054dbe051acc9d3b90f5b71f497b4a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage is the login page of Microsoft 365. The Microsoft logo is clearly visible on the top left corner of the page. The page has fields asking for user credentials such as email, username, password, and phone number. It also has call-to-action buttons such as \"Sign in\", \"Buy now\", \"Get started\", \"Learn more\", \"See plans\", and \"Contact sales\".",
+        "Url": "https://officehomeprodprv.japaneast.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "03cf34723cc38f2d411fa121d18768e4ada578f2e892a0d9a42f2eb695a44a90",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Verify Account",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows a Facebook-branded pop-up message stating that the user's account has been restricted. The presence of the Facebook logo, the Facebook-style design, and the Facebook-specific terminology (e.g., \"Your account has been restricted\") all indicate that this is a Facebook webpage. There are no fields asking for user credentials, but there is a call-to-action button that says \"Verify Account\".",
+        "Url": "http://rafiamarketingagency.com/"
+    },
+    {
+        "Folder Hash": "04497415ef2e89fd65d797de4945569c1809696c591b36ede34f2e3c710abe94",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "pubg mobile account, email, phone number",
+        "List of Call-To-Actions": "Agree, Facebook, Twitter, Youtube, Instagram, VK, Discord",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo and branding. The page is asking for user credentials such as pubg mobile account, email, and phone number. It also has call-to-action buttons such as Agree, Facebook, Twitter, Youtube, Instagram, VK, and Discord.",
+        "Url": "https://smaer-df097f.ingress-comporellon.ewp.live/wp-content/plugins/a/spin/5717563228/"
+    },
+    {
+        "Folder Hash": "04e0385261aa7d5362e0934d64b20aa0eb77d796252e653706d9c486723d4974",
+        "Brand": "NAVER",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "",
+        "Url": "http://bafybeihayb4vlkcffkyuowz6p2z63a7mpb57udpfjkbd5r74l2pzweriqu.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "058942529bb11c7d607ff20b5e783b83f84ab4cc6dccf94662829fd006a08f4a",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Track My Package",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the DHL logo and branding. It also has fields asking for email and password, which are sensitive user credentials. Additionally, there is a call-to-action button that says \"Track My Package\".",
+        "Url": "https://siteoficialstory.com.br/vvu/dhl/source/index.php?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "05b262500b504efc2e3ed40fb1f0f42b7e8b1325b073b43d9ced4e83cbaaf0af",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmSruaeizQEqj1cxGFJyFhC4FQ5CYcb8ffhrSBDJoe8CUU"
+    },
+    {
+        "Folder Hash": "060f0086bb80b1f09eaff080ab80aa0a10add88217a9b9be21cfa0177093a558",
+        "Brand": "DANA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the DANA logo and branding. The page also has fields asking for user credentials such as email, username, password, and phone number. Additionally, there are call-to-action buttons such as \"Daftar akun DANA\", \"Upgrade akun premium\", \"Daftar bisnis\", and \"Buat Qris DANA\".",
+        "Url": "http://pusatt-bantuans.dana-ids.my.id/"
+    },
+    {
+        "Folder Hash": "0abe09e0b740f695506fe21c4ff02b53529aff004f975d330d70d5bcf6171c27",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot shows a webpage with a Microsoft logo and a Microsoft copyright notice at the bottom. The page also has a form asking for the user's email address. The call-to-action button says \"Next\".",
+        "Url": "https://zksfechaduras.com.br/huyeambnaduiyadmbnasiuasmnad798iqenmas87/dcfo/"
+    },
+    {
+        "Folder Hash": "3a987dc6dda2eb0e371b20eebacf9b53225aea5f13b204793f91a0f5e06eb8c2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot is of the Microsoft website. The Microsoft logo is clearly visible in the top left corner of the page. The page is selling Microsoft products, such as the Xbox Series X, Surface devices, and Microsoft 365. The page also has links to other Microsoft websites, such as the Microsoft Store and the Xbox website.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Track Shipment",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the DHL logo and branding. It also has fields asking for user credentials such as email address and password. Additionally, there is a call-to-action button that says \"Track Shipment\".",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu"
+    },
+    {
+        "Folder Hash": "8598c346cc8a8c9086feae43b0eab20acc7a4a627877b28b8ce98a7c87377918",
+        "Brand": "Adobe",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Adobe logo and branding. The page is about Adobe Acrobat and has a link to Adobe's website.",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://clement-lotus-mollick.github.io/Netflix-Clone-FC/"
+    },
+    {
+        "Folder Hash": "ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c",
+        "Brand": "Bilibili",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone number, Username, Password",
+        "List of Call-To-Actions": "\"Sign in\", \"Join now\"",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Bilibili, which is a Chinese video-sharing website. The webpage also has fields asking for user credentials such as email, phone number, username, and password. Additionally, there are call-to-action buttons such as \"Sign in\" and \"Join now\".",
+        "Url": "https://www.bilibili.com/"
+    },
+    {
+        "Folder Hash": "cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Date of Birth, Address",
+        "List of Call-To-Actions": "Login with Facebook, Get birthday gifts",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the logo of Garena Free Fire, which is a popular mobile game. The page also has fields asking for user credentials such as full name, date of birth, and address. There is also a call-to-action button that says \"Get birthday gifts\".",
+        "Url": "https://www.ff.members.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    },
+    {
+        "Folder Hash": "cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "LLAMAR, Iniciar sesi\u00f3n, Crear cuenta",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" on the top left corner, which is the logo of Netflix. The webpage also has the words \"Iniciar sesi\u00f3n\" and \"Crear cuenta\", which are both calls-to-action for users to create an account or log in. The webpage also has fields for users to enter their email and password, which are both credentials.",
+        "Url": "http://www.netflix.ayuda-telefonica.com/"
+    },
+    {
+        "Folder Hash": "daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://sakshishakya.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "db217492c538a774c02e99cc5099333bd836b46821ffc48f08979a2858b00eb3",
+        "Brand": "Dynamic Home Buyers",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The webpage has the company logo, contact details, and a form to request more information. The form asks for the user's name, email address, and phone number. The webpage also has a call to action button that says \"Contact Us\".",
+        "Url": "https://www.sellmyhomefastohio.com/"
+    },
+    {
+        "Folder Hash": "05a4b964aa6504f83ea7706deba92de2f4f6cdd3b880c1bff3d16eeacfe4a0ab",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigqzioyjmtofqagqiguvcagjlcvu5v744rnookfura23fznd56ary"
+    }
+]

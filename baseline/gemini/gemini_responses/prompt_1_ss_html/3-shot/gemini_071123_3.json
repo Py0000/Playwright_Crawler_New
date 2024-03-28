@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "059f3a7145a116c7b3739037f55aaba024e23055d1cb700fa3eabcdbe711beaf",
+        "Brand": "Mail Center",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows a login page with the \"Mail Center\" logo at the top. The page has fields for email address and password, and a \"Sign in\" button. These elements indicate that the page is a login page for an email service, and the logo indicates that the service is provided by Mail Center.",
+        "Url": "https://adsincoinciousin.web.app/?err=363-cc04b44-ib4co5-D6i4obcii44ib46bi4-4bbi-Xb5ii-D5-400-2A-74a66cc669A0e4b03a-b43DD0ec6eeD65ibe542406c4o958ae5e-4bbc54-67o03b6i-ai57c-3i0c52bc52664iXi2o5i65c4-&dispatch=3A76A3640BaA8b9CA283Bb2cB8944b7b4&id=CCC6cBaC5100C72266b1946C051534"
+    },
+    {
+        "Folder Hash": "66076adce603f73ff4a40125d2a02251b918a296fcd288464c64197bcc11962f",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Telegram logo, which is a blue circle with a white airplane. The logo is in the center of the page, and the word \"Telegram\" is written in a stylized font below it. The page also has a blue background, which is the same color as the Telegram logo. The overall design of the page is simple and clean, which is consistent with Telegram's branding.",
+        "Url": "https://telegraawm.com/"
+    },
+    {
+        "Folder Hash": "774d3f49e4ca5e646c4e35c51ad71526685bc15ace2739860a613a01c1d7e556",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Microsoft logo, consisting of four colored squares and the word \"Microsoft\" below it. This logo is widely recognized as the trademark of Microsoft Corporation. Below the logo, there are two fields labeled \"Email\" and \"Password,\" which are standard credential fields for logging into an account. Additionally, there is a \"sign in\" link/button, which is a call-to-action for users to proceed with the login process. The overall design and layout of the page are consistent with Microsoft's branding and user interface guidelines. There are no other logos or branding elements that would suggest a different brand is being represented on this page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "7d92f155796cdef849b1ebd3db2fc89712e47ab80ff68ee9f661b0c21a7550d1",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"\u514d\u8d39\u6ce8\u518c\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has a prominent bet365 logo at the top center. The logo is widely recognized and is associated with the bet365 brand. The background of the page is also branded with a light green color scheme, which is consistent with bet365's branding. The page has two input fields, one labeled \"Username\" and the other labeled \"Password\". These are standard credential fields for logging into an account. There is also a green button with the text \"\u514d\u8d39\u6ce8\u518c\", which is a call-to-action for users to create an account.",
+        "Url": "https://993777.vip/#/"
+    },
+    {
+        "Folder Hash": "9175d3239ab45b50c732abd9ea5ddfc503bf948d468eb07da8b10a0d99a85346",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Telegram logo, which is a blue circle with a white airplane. The logo is in the center of the page, and \"Telegram\" is written in blue text beneath it. The page also has the text \"Telegram Messenger\" in the title bar. The webpage is advertising the Telegram app, and there are no fields asking for user credentials or call-to-action buttons/links.",
+        "Url": "https://www.telp5gram.com/"
+    },
+    {
+        "Folder Hash": "987ac4f51b98e55557d9c32375cdad841002975ad115944ffc6c3b8d75b0d7f2",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the WalletConnect logo, which is a stylized \"W\" with a circle around it. The logo is placed prominently at the top of the page, and it is the main identifier for the brand. The page also includes the words \"WalletConnect\" and \"Open protocol for connecting Wallets to Dapps\" which further indicates that the page is related to the WalletConnect brand. There are no fields asking for user credentials, and there are no call-to-action buttons or links.",
+        "Url": "https://walletanalogy.com/"
+    },
+    {
+        "Folder Hash": "b0f012a4a3c2ee9f4fb53dc21c3939e79d165a4ce4c8477375d7052619553860",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"S'identifier\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Orange logo, which is a stylized orange square with the word \"Orange\" written in white. The logo is in the top right corner of the page. The page also has a form with fields for email and password. The form is in the center of the page. The \"S'identifier\" button is below the form. The presence of the Orange logo, the form with email and password fields, and the \"S'identifier\" button indicate that this is an Orange webpage.",
+        "Url": "https://succesreussite522.wixsite.com/my-site"
+    },
+    {
+        "Folder Hash": "bc2f4d4856e648301b1d502369142d426b96e833b76eae1b1e3462115f8ca997",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot is of a webpage that appears to be a landing page for a cryptocurrency wallet called WalletConnect. The page has a simple design, with a blue and white color scheme, and features a prominent logo of WalletConnect. The page also includes a brief description of the service, which states that it is the best way to manage all of your wallets from a single app. Additionally, the page includes links to the WalletConnect website and social media pages.",
+        "Url": "https://coinianse.com/?a=wallet"
+    },
+    {
+        "Folder Hash": "bd3f90eac256d91838b69d4a08c149cdbacde2999429eedf550b11d4a539ab9f",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"LOGIN\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the Weebly logo at the bottom, indicating it is likely created using the Weebly platform. The presence of \"Please sign in with your Wemail. Other Email to download payment file\" suggests that the page is asking for user credentials, specifically an email address and password. The \"LOGIN\" button prompts the user to proceed with the action of signing in. The overall design and layout of the page are consistent with Weebly's website builder templates. However, the presence of a \"Webmail\" logo and a green success message stating \"You have logged out\" introduce some uncertainty, as these elements are not typically associated with Weebly's standard login page.",
+        "Url": "https://napcooilgasdubaillc.weebly.com/"
+    },
+    {
+        "Folder Hash": "eeffbebb79ee6891f7b0735876c3bc3decddfaff446d220e55570292eb0bb997",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u4e0b\u8f7d\u7535\u62a5\", \"\u7acb\u5373\u6ce8\u518c\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the word \"Telegram\" in the title and in the logo. The logo is the official Telegram logo. The webpage also has links to download the Telegram app and to sign up for a Telegram account.",
+        "Url": "http://wtelegram.com/home"
+    }
+]

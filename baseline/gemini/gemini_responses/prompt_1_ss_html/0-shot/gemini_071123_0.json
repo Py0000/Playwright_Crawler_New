@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "059f3a7145a116c7b3739037f55aaba024e23055d1cb700fa3eabcdbe711beaf",
+        "Brand": "Mail.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the login page of Mail.com. The logo, the text \"Mail.com\", and the presence of email and password fields confirm that this is a Mail.com login page.",
+        "Url": "https://adsincoinciousin.web.app/?err=363-cc04b44-ib4co5-D6i4obcii44ib46bi4-4bbi-Xb5ii-D5-400-2A-74a66cc669A0e4b03a-b43DD0ec6eeD65ibe542406c4o958ae5e-4bbc54-67o03b6i-ai57c-3i0c52bc52664iXi2o5i65c4-&dispatch=3A76A3640BaA8b9CA283Bb2cB8944b7b4&id=CCC6cBaC5100C72266b1946C051534"
+    },
+    {
+        "Folder Hash": "66076adce603f73ff4a40125d2a02251b918a296fcd288464c64197bcc11962f",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The page is about Telegram, a messaging app. There are no fields asking for user credentials or call-to-action buttons.",
+        "Url": "https://telegraawm.com/"
+    },
+    {
+        "Folder Hash": "774d3f49e4ca5e646c4e35c51ad71526685bc15ace2739860a613a01c1d7e556",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop now, Pre-order now, Start your free trial, Explore AI solutions",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Microsoft\" and \"Surface\" in the top left corner. The page is selling Microsoft products, such as the Surface Laptop Studio 2, Surface Laptop Go 3, Surface Pro 9, Xbox Series X, and Microsoft 365. The page also has links to other Microsoft products and services, such as Windows, Office, and Azure. The overall design and layout of the page is consistent with other Microsoft webpages.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "7d92f155796cdef849b1ebd3db2fc89712e47ab80ff68ee9f661b0c21a7550d1",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "sign up, log in",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the bet365 logo and the words \"bet365\" in the top left corner. The webpage also has fields asking for user credentials, such as email, username, and password. Additionally, the webpage has call-to-action buttons, such as \"sign up\" and \"log in\".",
+        "Url": "https://993777.vip/#/"
+    },
+    {
+        "Folder Hash": "9175d3239ab45b50c732abd9ea5ddfc503bf948d468eb07da8b10a0d99a85346",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The page is about Telegram and its features. The page also has links to Telegram's social media pages.",
+        "Url": "https://www.telp5gram.com/"
+    },
+    {
+        "Folder Hash": "987ac4f51b98e55557d9c32375cdad841002975ad115944ffc6c3b8d75b0d7f2",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the WalletConnect logo and branding. The page has \"WalletConnect\" in the title. The content of the page is about the WalletConnect.",
+        "Url": "https://walletanalogy.com/"
+    },
+    {
+        "Folder Hash": "b0f012a4a3c2ee9f4fb53dc21c3939e79d165a4ce4c8477375d7052619553860",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the logo of Orange, a French telecommunications company. The page is asking for user credentials such as email address or phone number and password. The page also has call-to-action buttons such as \"Sign In\", \"Create an Account\", and \"Get Help\".",
+        "Url": "https://succesreussite522.wixsite.com/my-site"
+    },
+    {
+        "Folder Hash": "bc2f4d4856e648301b1d502369142d426b96e833b76eae1b1e3462115f8ca997",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The screenshot does not contain enough information to identify the brand or any call-to-action elements.",
+        "Url": "https://coinianse.com/?a=wallet"
+    },
+    {
+        "Folder Hash": "bd3f90eac256d91838b69d4a08c149cdbacde2999429eedf550b11d4a539ab9f",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "",
+        "Url": "https://napcooilgasdubaillc.weebly.com/"
+    },
+    {
+        "Folder Hash": "eeffbebb79ee6891f7b0735876c3bc3decddfaff446d220e55570292eb0bb997",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download Telegram, Discover Telegram, Telegram for Android, Telegram for iPhone/iPad, Telegram Desktop, Telegram Web, Telegram for Linux, Telegram for macOS, Get the app, Sign up",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Telegram\" and \"Telegram\u4e2d\u6587\u7248\u5b98\u7f51\" in Chinese characters at the top of the page. The center of the page has the Telegram logo. The page also has links to download the Telegram app for various platforms.",
+        "Url": "http://wtelegram.com/home"
+    }
+]

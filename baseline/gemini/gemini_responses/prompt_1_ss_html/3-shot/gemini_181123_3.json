@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "009f5e1568dfb13f745a610bda3574c1a0cb33852f4571eb5847f5015f9231a1",
+        "Brand": "GMX",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "GMX E-Mail-Adresse, Passwort",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage's title is \"GMX Login\", which is the primary indicator of the brand. The GMX logo is also present at the top left corner of the page. The login form consists of two fields, one for the GMX email address and the other for the password. The call-to-action button is labeled \"Login\". The overall design and layout of the page are consistent with GMX's branding.",
+        "Url": "http://www.bigbauer.com/index2.html"
+    },
+    {
+        "Folder Hash": "014bc5a9afe4c5a7d505695b42e2156b791245bf04fd0cc6a782947eee2c6ca1",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"SIGN IN\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the AT&T logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of AT&T, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"SIGN IN\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the AT&T logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for AT&T services created by a different company). There is no evidence of other brands being primary on this page. The presence of the 'weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://mailview.weebly.com/"
+    },
+    {
+        "Folder Hash": "01bca29eb04203914b8ddff971f23fc09aa12ab0d1fcde72ea066943dd03e395",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"SIGN IN\" button",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The screenshot displays the Coinbase logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of Coinbase, a large cryptocurrency exchange platform. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"SIGN IN\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Coinbase logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for Coinbase services created by a different company). There is no evidence of other brands being primary on this page.",
+        "Url": "https://genaretd-blue-mouse-link-samakalhaway938198.codeanyapp.com/division/home/store.php?cmd=c5bf306687cbd7f8c77beb5afeeb9600"
+    },
+    {
+        "Folder Hash": "01cbc8817b884d2d8d326fd0b7888e566be8efee567428fda54eec70d3796dd0",
+        "Brand": "Shark Team",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Iniciar Sesion\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage screenshot displays the \"Shark Team\" logo, which is a stylized image of a shark, as the primary visual element. The logo is accompanied by the text \"SHARK\" in stylized font, further reinforcing the brand identity. Below the logo, there is a login form consisting of two input fields labeled \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. The presence of a call-to-action button labeled \"Iniciar Sesion\" (Spanish for \"Start Session\") further supports the purpose of the webpage as a login page. The overall design and layout of the page are consistent with a login page, and there are no obvious elements that would suggest a different brand or service. The confidence score is given as 8.5 due to the clear visual representation of the Shark Team logo and the typical login fields associated with many login pages.",
+        "Url": "http://shark-team.us/"
+    },
+    {
+        "Folder Hash": "03cb17e8f1960b27800ff5dcee17e3217c41800b5bab0f87ad4ff445bf9c0403",
+        "Brand": "Briggs Auto",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "NEXT",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Briggs Auto logo on the top left corner and \"Briggs Auto.com\" on the bottom right corner. The webpage is asking for a password, which is a sensitive user credential. There is a \"NEXT\" button, which is a call-to-action. The webpage is likely a login page for Briggs Auto's customer portal.",
+        "Url": "http://bafybeihfwda45vhbhsfj5k72x57ip6cezhmwxpxe2rhjz3sxbicqwnmnca.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "041e76160c869ea6a9e9d2b903ae00ae5e7cda0164b12f49b861f9fc0c5b30c5",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://socialmediaconsultant.ae/public/eoyzCbxfJNCAwwu5gEdLGdLEbhMRXlCq"
+    },
+    {
+        "Folder Hash": "0486e707e8fd485542d01a98c6859cfa0320d260fe9c0cf904b5c498d367d576",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage screenshot displays the WhatsApp logo prominently at the top, which is the widely recognized symbol for the WhatsApp messaging app. The word \"WhatsApp\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there is a chat window with a message from \"WhatsApp Bot\" which is a feature of the WhatsApp Business app. There are no fields asking for user credentials, and no call-to-action buttons or links are present. The confidence in brand identification is absolute due to the unmistakable WhatsApp logo and clear branding elements that match WhatsApp's design language for its web app. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "http://1.marcukesh.top/"
+    },
+    {
+        "Folder Hash": "04b5ddbab88173c31bfa85822bce0fbcc9a008b9ecaf54661563a93417b7f7b3",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Se connecter\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Orange logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Orange, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Se connecter\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Orange logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for Orange services created by a different company). There is no evidence of other brands being primary on this page.",
+        "Url": "https://messagerieorange325.yolasite.com/"
+    },
+    {
+        "Folder Hash": "06635dbf8ef41e0d35265ffc61622c6e13ff3bc7470af8a82968f99af20f9921",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Turn on Facebook Protect\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title is \"Security | Facebook Help Center\". The page has a Facebook logo and a favicon with the letter \"f\" inside a blue square, which are trademarks of Facebook. The page also has a header that says \"Facebook | Turn on Facebook Protect to unlock your account\". The page has a call-to-action button that says \"Turn on Facebook Protect\". The page has a footer that says \"Facebook\". All these elements indicate that the brand of the webpage is Facebook.",
+        "Url": "http://andi-hofmann.de/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "073c2d12f0442249d0d6ef0cb2f812ac5db817333da48c8d276f88a833e4064d",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Watch Free For 30 Days\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Netflix, a large streaming service provider. Under the logo, there is a prominent call-to-action button with the text \"Watch Free For 30 Days,\" which is a clear indication that the page is designed to attract new users to sign up for the service. The overall design and layout of the page, including the imagery and typography, are consistent with Netflix's branding and marketing materials. There is no evidence of other brands being primary on this page.",
+        "Url": "https://borbabeats.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "07a4d8439a1998dcb9976890e39c00e00ca3f6c17a27418ee64e115b7e10bdd7",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top of the page, which is a well-known trademark of Netflix, a popular streaming service. The word \"Netflix\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there is a call-to-action button that says \"Get Started,\" which is typically used to prompt users to sign up for or start using a service. The overall design and layout of the page, including the typography and color scheme, are consistent with Netflix's branding and user interface. There is no evidence of other brands being primary on this page.",
+        "Url": "https://prabanchcv.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "337a147d29d18b0caa7f287224ab0a390f2cee3998f359e54a3519c6f37167c2",
+        "Brand": "Spotify",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or username, Password",
+        "List of Call-To-Actions": "LOG IN",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Spotify logo, which is a well-known symbol for the music streaming service. The login form includes fields for email address or username and password, which are standard credentials used for logging into an account. The \"LOG IN\" button is a clear call-to-action for users to proceed with the login process. The overall design and layout of the page are consistent with Spotify's branding and user interface.",
+        "Url": "https://cpanel17wh.bkk1.cloud.z.com/~cp042619/spoofi/Issued/settings/"
+    },
+    {
+        "Folder Hash": "45f284227bba96cfab6ef3b88c3e197510fc75454f7cd50b58b3abe3cde13bd7",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID, Password",
+        "List of Call-To-Actions": "\"Iniciar sesi\u00f3n con ID de Apple\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Apple logo, which is a widely recognized symbol for Apple Inc. The text \"Iniciar sesi\u00f3n con ID de Apple\" (Sign in with Apple ID) is also prominently displayed, indicating that the page is related to Apple's authentication service. Below this text field, there is a text field labeled \"Apple ID\" and a \"Mantener sesi\u00f3n abierta\" checkbox, which translates to \"Keep me signed in\". These elements are consistent with Apple's login page design. The presence of the \"Iniciar sesi\u00f3n con ID de Apple\" button as the call-to-action further confirms that this is an Apple webpage. The overall design and layout of the page also match Apple's minimalist and user-friendly design language. There are no other logos or branding elements that would suggest any other brand is represented on this page.",
+        "Url": "https://suscripcion-myldevicelocation.com/isignesp.php"
+    },
+    {
+        "Folder Hash": "50d9a9dd5fb90c7bb7bf9e2d8e6160aec2af9cd32c5738d292994f348a51e776",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"Sign in\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Steam logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Steam, a popular gaming platform. Under the logo, there is a sign-in form with fields for \"Username\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign in\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Steam logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://steamcorumunity.ru/gift/765625724239673548-auth"
+    },
+    {
+        "Folder Hash": "52ab62fa37550e58c5431661bc5b3dfc99232c8ef84a7dd428dcdec994fa88a3",
+        "Brand": "BT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "BT ID or Email address, Password",
+        "List of Call-To-Actions": "\"SIGN IN\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the BT logo prominently at the top right corner, which is the main factor in identifying the brand. This logo is a well-known trademark of BT, a large telecommunications company in the United Kingdom. Under the logo, there is a sign-in form with fields for \"BT ID or Email address\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"SIGN IN\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the BT logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://btconnectfilesecureinboxbthomelogindropbopsdnebackboxpdf.weebly.com/"
+    },
+    {
+        "Folder Hash": "6a3df72d7a1feb4cc61dbd4a3f8fac326842330ac0607183730d02db2206a3b7",
+        "Brand": "Dropbox",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"VIEW DOCUMENT\" button",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The screenshot displays the Dropbox logo prominently at the top right corner, which is the main factor in identifying the brand. This logo is a well-known trademark of Dropbox, a popular file hosting and sharing service. Below the logo, there is a sign-in form with fields for \"E-mail\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"VIEW DOCUMENT\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of viewing a document. My confidence in identifying the brand is high due to the clear visibility of the Dropbox logo and the typical login fields associated with many of its login pages. However, the presence of the 'POWERED BY weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://doc-drop-box.weebly.com/"
+    },
+    {
+        "Folder Hash": "7cc458d21b98539d4a42d271da2e6778e45dc866cba2af10ed1545d801d30445",
+        "Brand": "DANA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone number",
+        "List of Call-To-Actions": "\"Lanjutkan\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot prominently displays the DANA logo, which is a green and blue stylized representation of the word \"DANA\" in a speech bubble. This logo is widely recognized in Indonesia as the symbol for DANA, a popular mobile payment platform. The screenshot also includes a form with fields for \"Email\" and \"Phone number\", indicating that the page is asking for user credentials. Additionally, there is a \"Lanjutkan\" button, which translates to \"Continue\" in English, that serves as the call-to-action for users to proceed with the login process. The confidence in brand identification is high due to the clear visibility of the DANA logo and the presence of typical login fields associated with many login pages. However, the presence of the \"Powered by Weebly\" logo at the bottom of the page introduces a slight uncertainty because Weebly is a website creation platform and not typically associated with DANA's official login pages, which might indicate this is a third-party webpage using DANA's login for authentication purposes or a custom DANA page created with Weebly.",
+        "Url": "https://claim-hadiah-dana.vip-resmi.my.id/"
+    },
+    {
+        "Folder Hash": "83892b58a772494ee0981a624bf9922cc60b4f5f20f3f0c138b04931e8908706",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "H\u00e4mta i butik, Via post",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has a prominent Amazon logo, which is a well-known trademark of Amazon. The overall visual design and layout of the page is consistent with Amazon's branding. The presence of the \"H\u00e4mta i butik\" and \"Via post\" buttons, which are calls-to-action for users to choose their preferred method of receiving the prize, further suggests that this is an Amazon webpage.",
+        "Url": "https://seaz2.getthis4free.com/start_225.html"
+    },
+    {
+        "Folder Hash": "c42d928f7e87d5658451bdf8b60447c40dd7059699031b4edcdebd7c1867b1ff",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://socialmediaconsultant.ae/public/pZsPXuMZl74EGYJ7h2WqEQl0DxBrvEyp"
+    },
+    {
+        "Folder Hash": "c492d060c45876a020df1747b7d636958a7c93fd92ed1f1eadb6ef5b8379be68",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Intuit logo prominently at the top of the page, which is the primary indicator of the brand. The logo consists of the stylized wordmark \"Intuit\" in blue, accompanied by a blue square featuring a white checkmark, a well-known trademark of the company. Below the logo, there is a clear distinction between the sign-in options. The first option is \"Sign in with Google,\" which utilizes Google's authentication service, and the second option is a traditional login form with fields for \"User ID\" and \"Password.\" The presence of these credential fields indicates that the page is asking for user credentials. The call-to-action element is the \"Sign In\" button, which is blue and located at the bottom of the login form. The button prompts the user to proceed with the action of signing into their account. The overall design of the page is clean and professional, with a focus on simplicity and ease of use. There are no conflicting branding elements or distractions that would suggest a different brand is represented on this page.",
+        "Url": "https://dev.vanira.co/wp-admin/intu/quickbooks.com-secure-qbo/quickbooks/"
+    },
+    {
+        "Folder Hash": "fd096d15c4f378b726a3bb3b530dc452216ed3d427a5778dc0a63a90a206b86d",
+        "Brand": "Spectrum",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Spectrum logo at the top left corner, which is a well-known trademark of Charter Communications, a major telecommunications company. The page also has a sign-in form with fields for \"Username\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. However, there is no clear call-to-action button or link on the page. The confidence score is given as 9.5 due to the clear visual representation of the Spectrum brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://basis.org.ua/sites/all/themes/omega/alpha/chartererror/error.php"
+    }
+]

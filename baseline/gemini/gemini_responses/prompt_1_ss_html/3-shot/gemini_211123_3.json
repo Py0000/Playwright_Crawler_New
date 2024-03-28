@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "00a3ba349a28bcde9b275ae3fc88e3664348a7d42ea9c117b81a84702477d518",
+        "Brand": "OnPoint Community Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login ID, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the logo of OnPoint Community Credit Union prominently displayed at the top center. The login form consists of fields for Login ID and Password, which are standard credentials used for logging into an account. The \"Log In\" button is the call-to-action element that prompts the user to submit their credentials. The overall design and layout of the webpage are consistent with the branding of OnPoint Community Credit Union, with the use of their logo, colors, and typography. There are no conflicting brands or elements that would suggest any other brand is represented on this page.",
+        "Url": "http://netcosecurity.com/on/online/l1.php/index.html/index.html/index.html/index.html/index.html/index.html/index.html/index.html/Genny/index.html/index.html/index.html"
+    },
+    {
+        "Folder Hash": "00d53af26a171113d0a536a4bb214d69a89e71beae2db3b1cec648ed68d6f365",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Join now\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the LinkedIn logo, which is a stylized \"in\" with a blue background. The logo is located in the top left corner of the page, and it is the most prominent element on the page. The rest of the page is taken up by a form that users can use to sign up for a LinkedIn account. The form includes fields for the user's name, email address, and password. There is also a call-to-action button that says \"Join now.\" The presence of the LinkedIn logo, the sign-up form, and the call-to-action button all indicate that this is a LinkedIn webpage.",
+        "Url": "https://www.linkedin-hiring.cc/"
+    },
+    {
+        "Folder Hash": "01bab3a0a26aa032126e394e3a1aa81c33a8d778572068cbdb0b0c3af31c8277",
+        "Brand": "Ministere de l'Economie, des Finances et de la Relance",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "CONSULTER MA FACTURE FOURNISSEUR",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the logo of the Ministere de l'Economie, des Finances et de la Relance at the top right corner. The logo is a blue, white, and red circle with the words \"Ministere de l'Economie, des Finances et de la Relance\" written in white inside. The page also has a \"CONSULTER MA FACTURE FOURNISSEUR\" button at the bottom center. The button is blue and says \"CONSULTER MA FACTURE FOURNISSEUR\" in white. The background of the button is white. The webpage also has a \"Chorus Pro\" logo at the top left corner. The logo is a blue and green circle with the words \"Chorus Pro\" written in white inside.",
+        "Url": "https://chrorusprofact.ukit.me/"
+    },
+    {
+        "Folder Hash": "03e8fa3008fff4e140e8f8d4a91affaae8bb92d6cc96a13e1861f5af61e3f2d4",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Secret Recovery Phrase",
+        "List of Call-To-Actions": "Verify Phrase",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the MetaMask logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of MetaMask, a popular cryptocurrency wallet. The page's title is \"Confirm Secret Recovery Phrase,\" indicating that the user is in the process of recovering their MetaMask wallet. The page also includes fields for the user to enter their secret recovery phrase, which is a critical piece of information for accessing their wallet. The presence of a \"Verify Phrase\" button indicates that the user is required to submit their secret recovery phrase to continue the process. The overall design and layout of the page are consistent with MetaMask's branding and user interface. There is no evidence of other brands being represented on this page.",
+        "Url": "https://metamaskwallet-extension.ddnss.eu/FMfcgzGwHftwbwTCZZfrcHKbNNPtZzMM/bMmNwhmlgsV/7ed3b/"
+    },
+    {
+        "Folder Hash": "0437c0d70c997cc8b00d5e648d97c198d6ec858fe57a2529f0266909fc489221",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign in\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the LinkedIn logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of LinkedIn, a large professional networking platform. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign in\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the LinkedIn logo and the typical login fields associated with many of its login pages. However, the presence of \"POWERED BY weebly\" at the bottom introduces a slight uncertainty because Weebly is a website creation platform and not typically associated with LinkedIn's official login pages, which might indicate this is a third-party webpage using LinkedIn's login for authentication purposes or a custom LinkedIn page created with Weebly.",
+        "Url": "http://www.smartcaretrack.gogreencloth.com/core/linkedin/index.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "043b2acf520e2a49fd646e5f243431b277540dde2b7ad530f294a3c4c54af2af",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Start\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Facebook logo, which is a clear indication of the brand. The presence of the \"Start\" button suggests that the user needs to take an action, but there are no fields to enter credentials. The overall design and layout of the page are consistent with Facebook's branding and style.",
+        "Url": "https://verification-page-ads.com/hrEdX9ovD45Uh1RI4hqknuV4kxNBmPiJe77eIoBsgddj61TCRyDOdN4bpopnOBH3yyhGQQKuTshVKon7Trangdau.html"
+    },
+    {
+        "Folder Hash": "05c5b660d1fb4c3f2b0c25b15e5a2bd936d44271b6976bdc14049843afca1e91",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. The logo is located in the top left corner of the page and is the main identifier for the brand. The rest of the page is taken up by a newsfeed of posts from friends and pages that the user follows. There are no fields asking for user credentials or call-to-action buttons/links on this page.",
+        "Url": "https://facebook-clone-c0j.pages.dev/"
+    },
+    {
+        "Folder Hash": "0645de78ba6dd8e84fe462785095a383cc6ed2782f9b61ba9f29827ebb1ee13f",
+        "Brand": "Banco BPM",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Codice utente, Identificativo utente, Password",
+        "List of Call-To-Actions": "ACCEDI",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Banco BPM logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Banco BPM, a large Italian banking group. Under the logo, there is a sign-in form with fields for \"Codice utente\" (User code), \"Identificativo utente\" (User identifier), and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is an \"ACCEDI\" button, which translates to \"LOGIN\" in English, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Banco BPM logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://youbusinessweb-bancobpm.web.app/sessionid#ba2a78ef3eaf0cffe9b76fab86c9183d"
+    },
+    {
+        "Folder Hash": "06ce081ff698c6cce724138b8cbf97adf34780f731b09e30f3d1f8c4023805e3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Nama Facebook, Email atau Nomor Telepon, Kata Sandi, Tanggal Lahir - Bulan - Tahun",
+        "List of Call-To-Actions": "Masuk",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Facebook logo and the text \"Facebook\" on the top left corner. It also has the text \"Peringatan Facebook\" (Facebook Warning) on the top right corner. The main content of the page is a form asking for user credentials such as Nama Facebook (Facebook Name), Email atau Nomor Telepon (Email or Phone Number), Kata Sandi (Password), and Tanggal Lahir - Bulan - Tahun (Date of Birth - Month - Year). There is a \"Masuk\" (Log In) button at the bottom of the form. The page also has the \"Weebly\" logo and the text \"eCommerce by Square\" at the bottom right corner. The presence of the Facebook logo, the Facebook-related text, and the login form indicate that the brand is Facebook.",
+        "Url": "https://pihak-resmi-id-105551.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "0704fbad1073d25d693587687b5a3a05f1dae8b26076216fc7d8527925bb3de2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Iniciar sesi\u00f3n\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Microsoft logo, consisting of four colored squares and the word \"Microsoft\" below it. This is a well-known trademark of Microsoft Corporation. Below the logo, there are two fields, labeled \"Correo electr\u00f3nico\" (Email) and \"Contrase\u00f1a\" (Password), which are standard credential fields for logging into an account. There is also a call-to-action present, in the form of an \"Iniciar sesi\u00f3n\" (Sign in) button, which is consistent with Microsoft's branding and is used to proceed with the login process. The confidence in brand identification is absolute due to the unmistakable Microsoft logo and clear branding elements that match Microsoft's design language for its login pages. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "http://mexicovierificarsuspencionvalidar.royalwebhosting.net/"
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Connect Wallet\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Aave logo, which is a blue square with the letter \"A\" in a lighter shade of blue. The logo is placed in the top-left corner of the page. The word \"Aave\" is also written in a stylized font below the logo. The page has a dark background with a gradient of blue and purple. The main content of the page is a message stating, \"Please, connect your wallet,\" indicating that the user needs to connect their cryptocurrency wallet to use the Aave platform. There is a \"Connect Wallet\" button below this message, which is the call-to-action element. The overall design and layout of the page are consistent with Aave's branding and user interface.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "113b3081a0a4758ab03479b7df048baa59019ddd410cf06b414513f878763482",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, email or user ID, Password",
+        "List of Call-To-Actions": "\"Sign In\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Intuit logo, which is a stylized \"I\" with a checkmark, a well-known symbol for the financial software company Intuit. The word \"Intuit\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are fields labeled \"Phone number, email or user ID\" and \"Password\", which are the standard credential fields for logging into an account. There is also a call-to-action present, in the form of a \"Sign In\" button, which is stylized with the Intuit branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Intuit logo and clear branding elements that match Intuit's design language for its login page. Additionally, the layout, typography, and style are consistent with Intuit's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "140e7476ee0343f602e53a3149797c4df4621c10b964f6342a34533781adf290",
+        "Brand": "Nike",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has a large banner at the top with the Nike logo, which is a well-known trademark of Nike, Inc. The logo is accompanied by the text \"Nike\", which further confirms the brand identity. The rest of the webpage is filled with product listings, each of which displays the Nike logo and the name of the product. The overall design and layout of the webpage is consistent with Nike's official website. There is no evidence of other brands being represented on this page.",
+        "Url": "https://unitensloja.site/"
+    },
+    {
+        "Folder Hash": "1609c8ef7f93c3cc34b5f6679bf8943be89d2dcb0607ea94cf3a4ff99b56ec4c",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Login\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"OneDrive\" and \"Microsoft\" prominently displayed. The page also has fields for entering an email address and password, as well as a \"Login\" button. These are all strong indicators that the page is associated with Microsoft's OneDrive service.",
+        "Url": "https://onedrivelseeattachfile.web.app/"
+    },
+    {
+        "Folder Hash": "33932ac057385308009b54178640b8eb5fb848749a1642de0fabdcf16cc68646",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"SE CONNECTER\" button",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The screenshot displays the Adobe logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of Adobe, a large software company. Beneath the logo, there are fields labeled in French, \"Num\u00e9ro mobile ou e-mail\" (Mobile number or email) and \"Mot de passe\" (Password), which clearly indicate that the page is designed for users to enter their login credentials. The presence of the \"SE CONNECTER\" button, which translates to \"LOG IN\" in English, functions as a call-to-action for users to submit their credentials to access their Adobe account. The confidence score is given as 9.0 due to the clear visual representation of the Adobe brand through the logo and the typical login fields associated with many of its login pages. However, the presence of \"POWERED BY weebly\" at the bottom introduces a slight uncertainty because Weebly is a website creation platform and not typically associated with Adobe's official login pages, which might indicate this is a third-party webpage using Adobe's login for authentication purposes or a custom Adobe page created with Weebly.",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "5e1a287812762ebd7e044d6c7a61644c4b3dc26669d9a5bf0b6de2fb92e927a2",
+        "Brand": "BullPhish ID",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the BullPhish ID logo prominently at the top of the page. The logo is a stylized bull's head with the text \"BullPhish ID\" below it. The colors used in the logo are blue and white. The logo is a registered trademark of BullPhish ID, a company that provides cybersecurity training and phishing simulations. The screenshot also includes a statement that the domain is owned and operated by BullPhish ID as part of the BullPhish ID Phishing Simulation/Training & Awareness Tool. Additionally, the screenshot includes a statement that email campaigns, links, and landing pages have been contracted and generated by request of the user's IT or IT Managed Services Provider.",
+        "Url": "https://secured.cloudsurveillance.net/0b22b244-593f-428f-883a-f0c6eccd7cc0"
+    },
+    {
+        "Folder Hash": "721a476d024a0dfd32057c312a00b60d6d2f3f751a1bb09548dcd11e9ba634aa",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Telephone Number, Credit Card Number, Security Code",
+        "List of Call-To-Actions": "\"SICHERE ZAHLUNG\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the DHL logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of DHL, a large logistics company. Below the logo, there is a form with fields for \"Vollst\u00e4ndiger Name\" (Full Name), \"Telefonnummer\" (Telephone Number), \"Kartennummer\" (Credit Card Number), and \"Sicherheitscode\" (Security Code), indicating that the page is designed for users to enter their payment credentials. Just below the credential fields is a \"SICHERE ZAHLUNG\" button, which translates to \"SECURE PAYMENT\" in English, which functions as a call-to-action for users to submit their credentials to complete the payment process. My confidence in identifying the brand is high due to the clear visibility of the DHL logo and the typical payment fields associated with many of its payment pages. However, the presence of \"POWERED BY weebly\" at the bottom introduces a slight uncertainty because Weebly is a website creation platform and not typically associated with DHL's official payment pages, which might indicate this is a third-party webpage using DHL's payment gateway for processing payments or a custom DHL page created with Weebly.",
+        "Url": "https://wsx.vvo.mybluehost.me/wp-admin/AGJ/LoginServices/"
+    },
+    {
+        "Folder Hash": "8ca024cdc6d763e242452e3fd44805aa1c00c159c982e8d68e9e7ceaaf1586e0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign in\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the OneDrive logo, consisting of a cloud with a square root symbol, which is the widely recognized symbol for Microsoft's OneDrive cloud storage service. The word \"OneDrive\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into a cloud storage account. There is also a call-to-action present, in the form of a \"Sign in\" button, which is stylized with the OneDrive branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable OneDrive logo and clear branding elements that match Microsoft's design language for its OneDrive service. Additionally, the layout, typography, and style are consistent with OneDrive's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://support.microsoft.com/en-us/office/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2"
+    },
+    {
+        "Folder Hash": "a7130332f01e2cbcfa13cec93ea1d2b256c59188e3ccdb1df21ff3aacc7e958d",
+        "Brand": "WalletConnect Pay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Connect\", \"Demo\"",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage has a logo that says \"WalletConnect Pay\" at the top center. Below the logo, there are two boxes, one on the left and one on the right. The left box has a title that says \"Business Login\" and a blue button that says \"Connect\". The right box has a title that says \"Order Menu\" and a black button that says \"Demo\". The overall design of the webpage is simple and clean, and the branding is consistent throughout. The presence of the \"WalletConnect Pay\" logo, the \"Connect\" button, and the \"Demo\" button all indicate that this is a webpage for WalletConnect Pay, a payment system.",
+        "Url": "https://walletconnectpay.com/"
+    },
+    {
+        "Folder Hash": "d66c28b7d332cbcc89c9c66c1b425043f3e007ef35ee2c7285ecfe9eaa0d57ee",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the logo of Battlegrounds Mobile India, which is a popular mobile game. The logo is in the center of the screen and is surrounded by various images related to the game. The game's title is also displayed at the top of the screen. There are no fields asking for user credentials or call-to-action buttons on the screenshot.",
+        "Url": "https://gunk8tsbvpz.penguasa.de/"
+    }
+]

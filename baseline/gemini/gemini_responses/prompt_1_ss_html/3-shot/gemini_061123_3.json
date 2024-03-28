@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's title contains \"Telegram\", and the logo is the official Telegram logo. The page also has the Telegram copyright at the bottom.",
+        "Url": "https://www.tbxjly.com/"
+    },
+    {
+        "Folder Hash": "1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53",
+        "Brand": "Libero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Email",
+        "List of Call-To-Actions": "\"SALVA\" button, \"ANNULLA\" button",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The screenshot shows the word \"Libero\" prominently displayed at the top of the page, which is the primary identifier for the brand. This is the login page for the email service \"Libero Mail\", which is a well-known service in Italy. The page has fields for \"Cellulare\" (mobile phone number) and \"Mail secondaria\" (secondary email), which are both common credentials requested for account recovery. The presence of the \"SALVA\" (save) button indicates that the user is expected to save the entered information, suggesting that this is a credentials submission page. The overall design and layout of the page are consistent with the known Libero login page.",
+        "Url": "http://ip170.ip-51-89-105.eu/verifica.php"
+    },
+    {
+        "Folder Hash": "1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a",
+        "Brand": "Videotron",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Mot de passe",
+        "List of Call-To-Actions": "CONNEXION",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Videotron logo at the top of the page, which is a well-known Canadian telecommunications company. Below the logo, there is a login form with fields for \"Votre adresse courriel\" (Your email address) and \"Mot de passe\" (Password), indicating that the page is designed for users to enter their login credentials. The presence of the \"CONNEXION\" button, which translates to \"LOGIN\" in English, functions as a call-to-action for users to submit their credentials to access their Videotron account. The confidence score is given as 9.5 due to the clear visual representation of the Videotron brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://videotronmaill.weebly.com/"
+    },
+    {
+        "Folder Hash": "31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b",
+        "Brand": "Trust Wallet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Download Now\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Trust Wallet logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Trust Wallet, a popular cryptocurrency wallet. Under the logo, there is a sign-up form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Download Now\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of creating an account and downloading the Trust Wallet app. My confidence in identifying the brand is high due to the clear visibility of the Trust Wallet logo and the typical sign-up fields associated with many cryptocurrency wallet apps. The presence of the 'POWERED BY weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-up form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "http://trustwallet.masdubai.com/"
+    },
+    {
+        "Folder Hash": "3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's title is \"Telegram Messenger\", and the logo is a blue and white airplane. The page also has links to the Telegram apps for various platforms.",
+        "Url": "https://telegram-com-zhcn.pages.dev/"
+    },
+    {
+        "Folder Hash": "4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage has a clear and prominent \"Webmail\" logo at the top, indicating the brand. Below the logo, there are two input fields labeled \"Username\" and \"Password,\" which are common credentials requested for logging in to an account. The presence of a blue \"Sign in\" button suggests that this is a call-to-action for users to proceed with the login process. The overall design and layout of the page are consistent with a typical webmail login page.",
+        "Url": "http://bafybeif263mizfzroy53si3dt7jafhzmwf33bx27v4qx7biqfknpfkiuvy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Get Coinbase Wallet\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot prominently displays the Coinbase logo, which is a well-known symbol for the Coinbase cryptocurrency exchange. The word \"Coinbase\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there is a clear call-to-action button with the text \"Get Coinbase Wallet\", which is consistent with the brand's focus on cryptocurrency and digital assets. The overall design and layout of the screenshot are also consistent with Coinbase's branding and marketing materials. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://www.coinbasewalletty.com/#/"
+    },
+    {
+        "Folder Hash": "834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce",
+        "Brand": "Outlook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"sign in\" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://mealyfulloptimization.midwaveventure.repl.co/"
+    },
+    {
+        "Folder Hash": "ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"\u7acb\u5373\u6ce8\u518c\", \"\u767b\u5165\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has a clear bet365 logo at the top, along with other branding elements such as the color scheme and typography. The presence of fields labeled \"Username\" and \"Password\" indicates that the page is asking for user credentials. The \"\u7acb\u5373\u6ce8\u518c\" and \"\u767b\u5165\" buttons are clear calls-to-action for users to sign up or log in to their accounts.",
+        "Url": "https://896e365.com/#/"
+    },
+    {
+        "Folder Hash": "fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d",
+        "Brand": "Bank of Ireland",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Date of birth, Phone Number",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Bank of Ireland logo, a well-known trademark of the Bank of Ireland, a large financial institution. The presence of the Bank of Ireland logo is the main factor in identifying the brand. The webpage also has a form with fields for User ID, Date of birth, and Phone Number, which are typical credentials requested by banks for authentication purposes. The presence of a \"Continue\" button indicates that the webpage is designed for users to submit their credentials to access their Bank of Ireland account. The overall design and layout of the webpage are consistent with the Bank of Ireland's branding and online presence.",
+        "Url": "https://personal365-transact.com/"
+    }
+]

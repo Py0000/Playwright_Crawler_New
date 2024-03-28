@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "00345c36760e78342d4f56bf76ca3b94e3ed170a98139f9d60d0f089639bdb88",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Username",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of Microsoft, a large technology company. Below the logo, there is a sign-in form with fields for \"Email\" and \"Username,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Next\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Microsoft logo and the typical login fields associated with many of its login pages. However, the presence of the \"Support code\" link at the bottom right corner suggests that this may be a third-party webpage using Microsoft's login for authentication purposes or a custom Microsoft page created with a third-party tool.",
+        "Url": "https://passwordreset.businesschase.eu/"
+    },
+    {
+        "Folder Hash": "00ac01d3be451f5a22259a513325d33a71dcc88b177783c95b5f2fbda669b734",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Email Password",
+        "List of Call-To-Actions": "View & Edit Document",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the DHL logo prominently at the top of the page, which is a well-known trademark of DHL, a well-known logistics company. Under the logo, there is a sign-in form with fields for \"Email address\" and \"Email Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"View & Edit Document\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of viewing and editing a document. My confidence in identifying the brand is high due to the clear visibility of the DHL logo and the typical login fields associated with many of its login pages. However, the presence of other company logos at the bottom of the page suggests that this may be a third-party webpage that uses DHL's services or a DHL webpage that has been customized for a specific purpose.",
+        "Url": "https://www.bjk.gen.tr/DHL/track.php?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "01061315010930c7030523a82d49448b0393f3ece1e35c5dd9b9ba1f5ac7849e",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Mobile number or Email, Password, Birthday",
+        "List of Call-To-Actions": "\"Continuar\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there are fields labeled in Spanish, \"N\u00famero de m\u00f3vil o correo electr\u00f3nico\" (Mobile number or email), \"Contrase\u00f1a\" (Password), and \"Cumplea\u00f1os\" (Birthday), which clearly indicate that the page is designed for users to enter their login credentials and date of birth. The presence of the \"Continuar\" button, which translates to \"Continue\" in English, functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "http://pagereivew-facoebooke19872.io.vn/?lang=es"
+    },
+    {
+        "Folder Hash": "011bdd22d9b04e856cf750d47231c6fbe713f2200c02300dfc3094a35ee5934f",
+        "Brand": "Orange",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage screenshot displays the Orange logo prominently at the top of the page, which is a well-known trademark of Orange, a large telecommunications company. The logo is accompanied by the company's name, \"Orange,\" displayed in a stylized font. The background of the logo is orange, which is the company's signature color. The overall design of the webpage is clean and professional, with a focus on usability. The navigation bar is located at the top of the page and provides easy access to the various sections of the website. The content area is located below the navigation bar and features a carousel of images that highlight the company's products and services. The footer section is located at the bottom of the page and provides information about the company's contact details and social media pages. Based on the presence of the Orange logo, the company's name, and the overall design of the webpage, I am confident that the brand represented on this page is Orange.",
+        "Url": "https://sites.google.com/view/soosota3"
+    },
+    {
+        "Folder Hash": "01d11fac6902a3c54d8ae4270448ed91efaa8902f5716b9999df5ce41329fd0f",
+        "Brand": "WeTransfer",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Get Plus\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the WeTransfer logo prominently at the top center, which is the main factor in identifying the brand. This logo is a well-known trademark of WeTransfer, a large file-sharing service. Below the logo, there is a blue button that says \"Get Plus\", which is a call-to-action for users to upgrade to the premium version of the service. The presence of the \"Get Plus\" button, which is a call-to-action for users to upgrade to the premium version of the service. The presence of the \"Get Plus\" button, which is a call-to-action for users to upgrade to the premium version of the service.",
+        "Url": "http://bafybeibiyalzwvmlisgut224jjcwotnkuezs7sdyzvishg43lzsx5l3gtm.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "025443f77f5dafe8a74b0733e8f7fa1bf8d9e54b416fd07badad3ba94dd3ee8f",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Start\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Facebook logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Facebook, a large social media company. Below the logo, there is a message stating that the account has been locked due to unexpected activity. There is a \"Start\" button that is the call-to-action element. It prompts the user to proceed with the action of starting the process of unlocking their account. My confidence in identifying the brand is absolute because the Facebook logo is clearly visible, and the overall design and layout of the page are consistent with Facebook's branding and security-related pages. There is no evidence of other brands being primary on this page.",
+        "Url": "http://kleinadministraties.nl/V4hJ8lTysXaUcdVtvVWg7ZnpN1KeI4hhvzJm3fvyxVVchK0mnn1FCjlcULZwNQaCwOnIssYjM8Vlnp8CTrangdau.html"
+    },
+    {
+        "Folder Hash": "0306ea6f9e698b2641bbf32d7c1fb15a5d66c7a35ba0b927aa5f30294a6217e6",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://socialmediaconsultant.ae/public/TFha0o9P1z3xm06aIJPmszcWJnCKTAxg"
+    },
+    {
+        "Folder Hash": "033329b16f10db8796d671499b9cc6a72b61634baed9a22a02f5ed2ad9ffb7b1",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"PODNJETI\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Croatian characters, which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"PODNJETI\" button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is high due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://officerijekahr.weebly.com/"
+    },
+    {
+        "Folder Hash": "03bc0120785fd994ee67fd408f9589c044304f0ff71e58932f56cd99d60043b9",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, username or email, Password",
+        "List of Call-To-Actions": "\"Log In\", \"Sign Up\"",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The screenshot displays the Instagram logo prominently at the top, which is the primary identifier for the brand. This logo is a widely recognized symbol for the social media platform Instagram. Beneath the logo, there are fields labeled \"Phone number, username or email\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"Log In\" button functions as a call-to-action for users to submit their credentials to access their Instagram account. Additionally, the \"Sign Up\" button is present, providing a clear call-to-action for new users to create an account. The confidence score is given as 9.8 due to the clear visual representation of the Instagram brand through the logo and the typical login fields associated with its official login page. The presence of the Meta logo at the bottom further reinforces the connection to Instagram, as Meta is the parent company of Instagram.",
+        "Url": "http://lensmedia.com.tr/"
+    },
+    {
+        "Folder Hash": "040273354f1852c93c2595672908efa8d068033217645d40194a7f09bc75f202",
+        "Brand": "KuCoin",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Claim Rewards\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage prominently displays the KuCoin logo, which is a green and white stylized \"K\" inside a circle, a well-known symbol for the cryptocurrency exchange KuCoin. The word \"KuCoin\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there is a clear call-to-action button that reads \"Claim Rewards,\" which is consistent with the platform's focus on cryptocurrency trading and rewards. The overall design, typography, and style are consistent with KuCoin's official branding guidelines. There are no conflicting branding elements or logos that would suggest any other brand is represented on this page.",
+        "Url": "https://www.kuclaims.com/"
+    },
+    {
+        "Folder Hash": "1dc1bb775e8c63d4cef12eea2235fef6b9f49a31793806a72f4c6f6f750d848c",
+        "Brand": "Garena Free Fire Membership",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd T\u00ean, Ng\u00e0y Sinh, \u0110\u1ecba Ch\u1ec9",
+        "List of Call-To-Actions": "\u0110\u0103ng Nh\u1eadp, Nh\u1eadn Qu\u00e0",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the Garena Free Fire logo at the top. The logo is a red circle with a white \"G\" in the middle. The words \"Garena Free Fire\" are written in white below the logo. The webpage also has a form that asks for the user's name, birthday, and address. There is a button that says \"\u0110\u0103ng Nh\u1eadp\" (Login) below the form. This button is likely used to submit the user's credentials to Garena Free Fire. The webpage also has a link that says \"Nh\u1eadn Qu\u00e0\" (Get Reward). This link is likely used to take the user to a page where they can receive a reward.",
+        "Url": "https://www.memberrship.gaerna.io.vn/qONQ9vVyadBsHJEbr3MUafgi4UhsV9x4zKZMQPSz7c#/"
+    },
+    {
+        "Folder Hash": "2dd2a34fb22f03c7f705340cb1157a1b5305c919150e1fbbe97fc34daef822a4",
+        "Brand": "Garena Free Fire Membership",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd T\u00ean, Ng\u00e0y Sinh, \u0110\u1ecba Ch\u1ec9",
+        "List of Call-To-Actions": "\"NH\u1eacN QU\u00c0\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Garena Free Fire logo, which is a well-known trademark of Garena Free Fire, a popular mobile game. The logo is prominently displayed at the top of the page, and it is the main factor in identifying the brand. Below the logo, there is a sign-in form with fields for \"H\u1ecd T\u00ean\" (Full Name), \"Ng\u00e0y Sinh\" (Birthday), and \"\u0110\u1ecba Ch\u1ec9\" (Address), indicating that the page is asking for user credentials. Just below the credential fields is a \"NH\u1eacN QU\u00c0\" button, which translates to \"RECEIVE GIFT\" in English, which serves as the call-to-action element. It prompts the user to proceed with the action of submitting their credentials to receive a gift. The presence of the Garena Free Fire logo and the typical login fields associated with many of its login pages gives a high confidence score. However, the webpage's design is not consistent with Garena Free Fire's official website, which introduces some uncertainty.",
+        "Url": "http://ff.member.gareza.vn/ggugLaf5MgAMRDoNEU8DTx8mrBfJ4tbkj0EDrF58z7YHDvT5lisx0DAzDLy8NTdmlkrbFIMdwsnD1nCpVT7lFD04j8zYo0eIBUyD_index#/"
+    },
+    {
+        "Folder Hash": "33cdd45e38532ef0384e1ba8ae8dc07e7b59c56f1be74d3295ae49382a47a224",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd T\u00ean (Full Name), Ng\u00e0y Sinh (Birthday), \u0110\u1ecba Ch\u1ec9 (Address)",
+        "List of Call-To-Actions": "NH\u1eacN QU\u00c0 (Claim Reward)",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the Garena Free Fire logo at the top. The center of the page has a Facebook login button. Below that, there is a form asking for personal information, including full name, birthday, and address. At the bottom of the form, there is a button that says \"NH\u1eacN QU\u00c0\" (Claim Reward). The overall design and layout of the page are consistent with the Garena Free Fire brand and website.",
+        "Url": "http://www.ff.member.gaerna.vn/qONQ9vVyadBsHJEbr3MUafgi4UhsV9x4zKZMQPSz7cRCV8H082bqQyp#/"
+    },
+    {
+        "Folder Hash": "4200983fdd9e51423816cdbf1a7cd7cf2faff6993c29ee07206863fd9c2dea42",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Start\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there is a message stating that the account has been locked due to unexpected activity. It also shows the date and time of the account lockout. The presence of the \"Start\" button, which is typically used to initiate an action, functions as a call-to-action for users to begin the process of unlocking their account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical messaging associated with locked accounts on Facebook.",
+        "Url": "https://verification-page-ads.com/J626aoXqqfHq9BQ9ujwHqXENDW7ZfIq26Ichw7kEhbfk44PGKXUH7deRR1KgFGRLoQunNAfEiwZyrdCyTrangdau.html"
+    },
+    {
+        "Folder Hash": "5d0eedd2210a005c5671a7f1e42233c0683b2ee88c0ccd4afed46042201604c2",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd t\u00ean (Full name), Ng\u00e0y sinh (Birthday), \u0110\u1ecba ch\u1ec9 (Address)",
+        "List of Call-To-Actions": "\"NH\u1eacN QU\u00c0\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Garena Free Fire logo, which is a prominent trademark of Garena Free Fire, a popular mobile game. The logo is accompanied by the text \"B\u1ea2NG \u0110I\u1ec0U KHI\u1ec2N \u0110\u0102NG NH\u1eacP\" (Login Control Panel), indicating that the page is related to logging into a Garena Free Fire account. Below the logo, there is a form with fields for \"H\u1ecd t\u00ean\" (Full name), \"Ng\u00e0y sinh\" (Birthday), and \"\u0110\u1ecba ch\u1ec9\" (Address), which are typical fields for user registration or account creation. There is also a \"NH\u1eacN QU\u00c0\" (Receive Gift) button, which suggests that the user will receive a reward upon completing the form. The overall design and layout of the page are consistent with the Garena Free Fire brand and its official website.",
+        "Url": "https://ff.memberr.garenei.com/user#/"
+    },
+    {
+        "Folder Hash": "5d1406b1de70fd63ab7408648c35621d70a1e6c02f58c7e9c7dc7890664614da",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"S'IDENTIFIER\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the Orange logo, which is a stylized orange square with the word \"Orange\" written in white. This logo is widely recognized and is associated with the French telecommunications company, Orange. The webpage also has a form with fields for \"Adresse Email Orange\" and \"Saisissez votre mot de passe\", which are standard credential fields for logging into an account. There is also a \"S'IDENTIFIER\" button, which is a call-to-action for users to submit their credentials. The presence of these elements indicates that the webpage is likely to be associated with Orange.",
+        "Url": "https://avenirelevage5.wixsite.com/identifiez-vous"
+    },
+    {
+        "Folder Hash": "6b7b23ac58c82a8b2df841d14fb45d90cdee20c843595b381ecdbef3bc16ba60",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Start\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Facebook logo, which is a clear indication of the brand. The presence of the \"Start\" button suggests that the user needs to take action, although it is not clear what the action is. The overall design and layout of the page are consistent with Facebook's branding.",
+        "Url": "http://kleinadministraties.nl/qf7ZFzKufsgsTWgfyUKyyFn9wGL1FkMvWZ6dkDKmoN0BnUXRXA8evotJfNjxjcbv2bEnlGKX4Ee4PQUtTrangdau.html"
+    },
+    {
+        "Folder Hash": "80b3b1e7eedb924f4157de332c593a3c88b461092a67ac98c2041647fd020cf0",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has a prominent Telegram logo, which is a white airplane inside a blue circle, a widely recognized symbol for the Telegram messaging app. The page also has a sign-in form with a field for \"Phone number,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"Next\" button, which is consistent with Telegram's design language, functions as a call-to-action for users to proceed to the next step in the login process. The confidence score is given as 9.5 due to the clear visual representation of the Telegram brand through the logo and the typical login field associated with its login pages.",
+        "Url": "https://bhtlgr.github.io/#/login"
+    },
+    {
+        "Folder Hash": "816598986f7f1cc717ed3c196b7391fe609a9ec87c1ab2d8377a019c432061a2",
+        "Brand": "Fastmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has a logo that says \"Webmail\" with an envelope icon. Below the logo, there is a sign-in form with fields for \"Email Address\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"Continue\" button functions as a call-to-action for users to submit their credentials to access their Fastmail account. The overall design and layout of the page are consistent with Fastmail's branding and login page.",
+        "Url": "https://bafybeicklrtwpkv3mb35ksagawbnn43jcvfp7xmrbarqfw5gs2sg7guxxi.ipfs.dweb.link/"
+    },
+    {
+        "Folder Hash": "9f132a473608f9540fb43c59f88fc40ad28ca5fadfefa19b2ad910639be645ca",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://pub-76761043d7714c019b0d5b4a6d6779ff.r2.dev/newcontractsigning2023.html#3mail@b.c"
+    }
+]

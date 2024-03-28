@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"GET STARTED >\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot features the Netflix logo prominently at the top of the page, which is a well-known trademark of the streaming service. Below the logo is a section labeled \"Frequently Asked Question\", which provides answers to common questions about Netflix. The page also includes a \"GET STARTED >\" button, which is a clear call-to-action for users to sign up for a Netflix account. Additionally, the overall design and layout of the page is consistent with Netflix's branding and user interface.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Try Premium for free\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Telegram logo, which is a blue circle with a white airplane icon in the center. The word \"Telegram\" is written in a stylized font below the logo. The background is white, and there is a blue button that says \"Try Premium for free\" in the center of the page. The overall design of the page is simple and clean, and it is consistent with the Telegram brand.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "Not Found",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The webpage does not contain any clear indications of a specific brand. There are no logos, trademarks, or other visual elements that would suggest the identity of the brand. Additionally, there are no fields asking for user credentials or any call-to-action elements. The webpage is a generic landing page that does not provide any information about the brand or its services.",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage screenshot displays the bet365 logo prominently at the top of the page, which is a well-known trademark of bet365, a large online gambling company. The logo is accompanied by the text \"2022\u4e16\u754c\u676f\u6bd4\u5206\u7f51_\u4e16\u754c\u676f\u7ebf\u4e0a\u4e70\u7403\", which further indicates that the page is related to bet365's online gambling services. Below the logo, there is a login form with fields for \"Username\" and \"Password,\" indicating that the page is asking for user credentials. Just below the credential fields is a \"\u7acb\u5373\u52a0\u5165\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the bet365 logo and the typical login fields associated with many of its login pages.",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Free Trial\", \"Sign Up\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot features the SurveySparrow logo prominently at the top of the page, establishing the brand identity. Below the logo, there is a clear call-to-action button labeled \"Free Trial,\" inviting users to start their free trial. Additionally, there is a \"Sign Up\" button, prompting users to create an account. The overall design and layout of the page are consistent with SurveySparrow's branding and align with the purpose of lead generation for a free trial. The presence of the \"Powered by SurveySparrow\" text at the bottom further reinforces the brand's presence.",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"sign in\" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "Gemini2",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "\"UTWORZ DARMOWE KONTO\" button",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage has the words \"GEMINI2\" prominently displayed at the top. The overall design and layout of the webpage are consistent with the branding of Gemini2, a company that offers financial services. The webpage also has a form that asks for user credentials, such as email and phone number, and a call-to-action button that says \"UTWORZ DARMOWE KONTO\", which translates to \"CREATE FREE ACCOUNT\" in English.",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "JEK-MINER",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u0432\u043e\u0439\u0442\u0438\" button, \"\u0420\u0415\u0413\u0418\u0421\u0422\u0420\u0410\u0426\u0418\u042f\" button",
+        "Confidence Score": "7.0",
+        "Supporting Evidence": "The screenshot has the words \"JEK-MINER\" and \"\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439 \u043d\u0430 \u043c\u0430\u0439\u043d\u0438\u043d\u0433\u0435 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\" prominently displayed at the top. The overall design and layout of the page, including the font and color scheme, is consistent with the JEK-MINER brand. The page also features a call-to-action button labeled \"\u0432\u043e\u0439\u0442\u0438\" and \"\u0420\u0415\u0413\u0418\u0421\u0422\u0420\u0410\u0426\u0418\u042f\", which is a common feature of login pages.",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f07f931e42211c4d902fed617e89c47324af573df194966b5ac1b21a0f65a2aa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"TRY 30 DAYS FREE\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Netflix, a large streaming service provider. Under the logo, there is a sign-up form with fields for \"Email\", indicating that the page is asking for user credentials. Just below the credential fields is a \"TRY 30 DAYS FREE\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing up for a free trial of Netflix. My confidence in identifying the brand is high due to the clear visibility of the Netflix logo, the typical sign-up fields associated with many of its sign-up pages, and the presence of the \"TRY 30 DAYS FREE\" button, which is a well-known call-to-action used by Netflix. There is no evidence of other brands being primary on this page.",
+        "Url": "https://sristiverma9.github.io/netfliexclone/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono",
+        "List of Call-To-Actions": "Iniciar sesi\u00f3n, Hazte cliente, Crea tu clave de acceso",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the BBVA logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of BBVA, a large Spanish bank. Under the logo, there is a sign-in form with fields for \"NIF, NIE, Tarjeta o Pasaporte\" (Tax Identification Number, Foreigner Identification Number, Card or Passport), \"Clave de acceso\" (Access Key), and \"N\u00famero de tel\u00e9fono\" (Phone Number), indicating that the page is asking for user credentials. Just below the credential fields are two call-to-action elements: \"Iniciar sesi\u00f3n\" (Log In) and \"Hazte cliente\" (Become a Customer). The \"Crea tu clave de acceso\" (Create your Access Key) link is also present, which provides an additional option for users who do not have an existing access key. My confidence in identifying the brand is absolute due to the clear visibility of the BBVA logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]
