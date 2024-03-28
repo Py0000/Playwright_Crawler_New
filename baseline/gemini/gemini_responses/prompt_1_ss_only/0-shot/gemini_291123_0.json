@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0029ddf50757663f869ea57fa6b35bb742950a007641478851bf8fea7133872e",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://accounts-google-com.google.research.skyfencenet.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&followup=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&ifkv=ASKXGp35mtwoMZTYq_EQh00TDcURsTqYlJCXhLv51FgyiEwBpd_bSIdnTUQe919CFtE8t2MXUeVA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1106871291%3A1701237264171240&theme=glif"
+    },
+    {
+        "Folder Hash": "00d320e13a4afd5c13cd57d8e6930967708ab4d93d7583d7b9e52e97e507ccb5",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has a DHL logo at the top left corner and \"DHL Express\" text beside it. The page also has a globe icon with a box, which is a DHL trademark.",
+        "Url": "http://socialmediaconsultant.ae/public/cKcAHeRtw8tgyrOIdKqopukWqegyBl6X"
+    },
+    {
+        "Folder Hash": "0268063589ad4ed7dc1cc582927dbc4a55f51d034f46283b2f276bad9acb6652",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://matemska.com/"
+    },
+    {
+        "Folder Hash": "03613ee8f7807376093f334ce4a3f269c601fe5a3a39cb6942beffed71755968",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has a DHL logo on the top left corner. The Register and Login buttons are also present on the top right corner.",
+        "Url": "https://package.dittugarments.com/public/xXmKbIKplnyr3mWGvbjBXmGyAmEgHDal"
+    },
+    {
+        "Folder Hash": "04076986695e1224101bc06b34e8537784bd3b937c4a9c7536a9e92fc1335e6e",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Poste Italiane. The page is asking for username and password. The page has a button that says \"Login\".",
+        "Url": "http://bestknitters.com/"
+    },
+    {
+        "Folder Hash": "04847856708f0e6d56d41a5e6a370241a9ba719b377bf4f3a54b19b23344d824",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Log In, Create New Account, Create a Page for a celebrity, band or business.",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Facebook login page. The Facebook logo is clearly visible at the top of the page. The page also has fields for entering an email address or phone number and a password. There are also buttons for logging in and creating a new account.",
+        "Url": "https://ikechukwu647.github.io/rubliss4/"
+    },
+    {
+        "Folder Hash": "05e2621aa56ff714ca7f8e6143182091f735a157100463c72d0221c92adaba7b",
+        "Brand": "Dafiti",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, CPF, Password",
+        "List of Call-To-Actions": "Buy Now, Add to Cart",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's header has a logo of Dafiti, which is a Brazilian online fashion retailer. The page is selling a product called \"Jogo de Panelas Brinox Smart Plus Cer\u00e2mica Life 8 Pe\u00e7as - Vanilla\", and there are fields asking for user credentials such as email, CPF, and password. There are also call-to-action buttons such as \"Buy Now\" and \"Add to Cart\".",
+        "Url": "https://blackfridayamericanas.net/081f8fcf-5316-4f90-88a6-6119c5943e6d/checkout/produto/6543d98a6ca11/jogo-de-panelas-brinox-smart-plus-ceramic-life-8-pecas-vanilla"
+    },
+    {
+        "Folder Hash": "062d94cb0608d431400dee0a185a1ba94a4db663f5e6d2eec887a45839acf3af",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the logo of Garena Free Fire, which is a popular mobile game. The webpage also has fields asking for user credentials such as email and password, and call-to-action buttons such as \"Login\" and \"Register\".",
+        "Url": "http://test1.garenav.vn/"
+    },
+    {
+        "Folder Hash": "06e6a4b7f630f17850cf2b216c3f81bb70d18a51ed616c7b941b4e48b8679389",
+        "Brand": "Vivobarefoot",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Vivobarefoot\" is prominently displayed at the top of the page. The overall design and layout of the page is consistent with the brand's other web pages. The products displayed on the page are all from the Vivobarefoot brand.",
+        "Url": "https://www.vivobarefootssaudiarabia.com/"
+    },
+    {
+        "Folder Hash": "070d8f9be03c6be321a10dcfb879820fbcd0c6b05a9afe392ac2da9b8f5dd2ae",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Instagram logo, which is a well-known social media platform. The page also has fields asking for user credentials, such as phone number, username, or email, and password. Additionally, there are call-to-action buttons, such as \"Log in\", \"Sign up\", and \"Get the app\".",
+        "Url": "https://lnstagramlite.blogspot.com/"
+    },
+    {
+        "Folder Hash": "1eb972f52ea2543db68297c7116fed44b83692406dfd745bdb5d3553b6ca52dc",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and branding prominently displayed in the header of the webpage. The overall design and layout of the webpage is consistent with Microsoft's branding guidelines. The products and services featured on the webpage are all Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "524d69e099ce2cf898dbd3614e175228b3b3624e8f5496f3252b5136c9fc55f2",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the bet365 logo and branding prominently displayed at the top. The page also has fields asking for user credentials such as username and password, as well as call-to-action buttons such as \"Login\" and \"Register\".",
+        "Url": "http://19730510.com/"
+    },
+    {
+        "Folder Hash": "57ef3530895093d5a4cab5f34f7d34f127015946c19e5b0ae90f7f934d2e020d",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login with Facebook",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Meta logo and branding. The page also has a login form with fields for email and password. There is also a call-to-action button that says \"Log in with Facebook\".",
+        "Url": "https://www.meta-support-page.com/"
+    },
+    {
+        "Folder Hash": "5b079aaddbb1fcd8f92f31136a6235e8f7c77b4a69cb2b4bd72997a4d6bfb288",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://netflix-december21.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6adcc77d36f1c22526469ab12f1758bf1eda7f96d66e01c7fe3bc71e4050900e",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook login, Username, Email, Phone number, Birth date, Address",
+        "List of Call-To-Actions": "Login with Facebook, Get rewards",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the logo of Garena Free Fire, which is a popular mobile game. The page also has fields asking for user credentials such as Facebook login, Username, Email, Phone number, Birth date, Address, which are commonly used to create an account or log in to an existing account. Additionally, there is a call-to-action button that says \"Get rewards\", which suggests that users will be able to receive some kind of reward if they provide their information.",
+        "Url": "http://ff.member.gareza.vn/cre96aCBExqeaXVpAUtesGytOkoIi0b316MEngRB6GduITgIXVrolFEk2af8IFjZOoSP3KYbglKd4dNBCztIqgAYAV650Z5ySGNc_index/#/"
+    },
+    {
+        "Folder Hash": "a97b31d3ecdfe1d824afe2dbe6b31f2198346e40697fc3b2269f601ad0bc99d7",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Join Now, Login",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the bet365 logo at the top left corner. The logo is a green circle with a white \"365\" in the middle. The background of the webpage is white with green accents. The webpage has two main sections. The left section has a large image of a soccer player. The right section has two sections. The top section has a form with two fields: Username and Password. The bottom section has a button that says \"Join Now\". The webpage is about bet365, which is an online gambling company.",
+        "Url": "https://www.bet3659.tv/home"
+    },
+    {
+        "Folder Hash": "aa4a498386e1135bb11171167c2833f459c01d92f2f806af12e2a178174bb608",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://imshivamnair.github.io/Netflix-and-Chill/"
+    },
+    {
+        "Folder Hash": "d00adfb26aca6d440945911e196167c79020355e213d72da41ba54eca09f7d62",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://dubeyprashant1.github.io/Netflix-Clone.github.io/"
+    },
+    {
+        "Folder Hash": "dcd93ffe7cc0ce8d070abaa399e5e36738aa5c3bc7f7cd3b92cce094ff77cd6d",
+        "Brand": "",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of dsk clearly visible in the top left corner. The page also has a section in the right side asking for credentials. The call to action button says \"Login\".",
+        "Url": "https://directonline-bg.com/login/"
+    },
+    {
+        "Folder Hash": "f34bd4c756f9c0ad38e85f51cdf9c3ff9a52ed1bc924d6ad1ae31948173e2903",
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "Sign Up, Beli Sekarang",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Codashop\" is prominently displayed on the webpage. The webpage has fields asking for user credentials such as email and phone number. It also has call-to-action elements such as \"Sign Up\" and \"Beli Sekarang\".",
+        "Url": "https://diamond-gratis-9736.real4.biz.id/id/"
+    }
+]

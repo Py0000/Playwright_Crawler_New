@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In, Get Started",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" on the top left corner, which is the logo of the streaming service. The page also has a login form with fields for email address and password, as well as a call-to-action button that says \"Sign In\". The page also has a link that says \"Get Started\", which is likely a call-to-action for users to sign up for an account.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The page is about Telegram Premium, a paid subscription service offered by Telegram. The page has call-to-action buttons to join Telegram, use Telegram web, and download Telegram for various platforms.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "BitYard",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Username, Password",
+        "List of Call-To-Actions": "Connect Wallet, Registration",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the words \"BitYard\" and \"Connect Wallet\" on it. The \"Connect Wallet\" button is a call-to-action element, and the fields asking for user credentials are email, username, and password.",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Join Now, Try Now, Deposit, Sign Up",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the bet365 logo and branding. It is a betting website and asks for sensitive user credentials such as username and password. It also has call-to-action buttons such as Join Now, Try Now, Deposit, Sign Up.",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Free Trial, Book a Demo, Sign Up",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The brand name \"SurveySparrow\" is prominently displayed on the top left corner of the webpage. Additionally, the logo of SurveySparrow is also present on the same spot. The screenshot also contains a number of other elements that are consistent with the branding of SurveySparrow, such as the color scheme and the typography. There are fields asking for user credentials, namely email and password. There are also call-to-action elements such as 'Free Trial', 'Book a Demo', and 'Sign Up'.",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot has the Microsoft logo, trademark, and branding prominently displayed at the top of the page. The overall design, layout, and typography of the webpage are consistent with Microsoft's branding guidelines. The call-to-action buttons and links also have the same design and style as Microsoft's official website.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "Gemini",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of Gemini, which is a cryptocurrency exchange. The page also has a form that asks for user credentials such as email, phone number, and name. Additionally, there is a call-to-action button that says \"Create account\".",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "JEK-MINER",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Password",
+        "List of Call-To-Actions": "Registration, Login",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the logo of JEK-MINER at the top left corner. The \"Registration\" button leads to a form asking for user credentials such as email, phone number, and password. The \"Login\" button is also present on the page.",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f07f931e42211c4d902fed617e89c47324af573df194966b5ac1b21a0f65a2aa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://sristiverma9.github.io/netfliexclone/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono",
+        "List of Call-To-Actions": "Iniciar sesi\u00f3n, Hazte cliente, Crea tu clave de acceso",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the BBVA logo at the top left corner. The page also has the BBVA trademark at the bottom right corner. The fields asking for user credentials are labeled as NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono. The call-to-action buttons are labeled as Iniciar sesi\u00f3n, Hazte cliente, Crea tu clave de acceso.",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]
