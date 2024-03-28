@@ -190,6 +190,7 @@ if __name__ == '__main__':
         folders = utils.benign_folders
     else:
         folders = phishing_folders
+       
     
     use_html = True if "html" in args.use_html else False
     gemini_baseline = GeminiProVisionBaseline(args.benign_phishing, use_html)

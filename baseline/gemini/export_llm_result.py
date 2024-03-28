@@ -2,6 +2,7 @@ import argparse
 import openpyxl
 import os
 import tldextract
+import time
 
 from baseline.gemini.gemini_domain_comparison import GeminiDomainComparator
 from baseline.utils import utils
@@ -54,10 +55,11 @@ class LlmResultExport:
         url = entry["Url"]
         second_level_domain = self.extract_second_level_domain(url)
 
+        """
         gemini_domain_comparator = GeminiDomainComparator()
         llm_domain_check = gemini_domain_comparator.determine_url_brand_match(url, brand)
-
-        self.update_sheet(sheet, file_hash, brand, has_credentials, has_call_to_action, confidence_score, second_level_domain, llm_domain_check)
+        """
+        self.update_sheet(sheet, file_hash, brand, has_credentials, has_call_to_action, confidence_score, second_level_domain, llm_domain_check="")
 
 
     def update_sheet_with_responses(self, json_file_path, excel_file_path):
@@ -65,8 +67,15 @@ class LlmResultExport:
         wb = openpyxl.load_workbook(excel_file_path)
         sheet = wb.active
         
+        # count = 0
         for entry in entries:
+            """
+            if count == 60:
+                time.sleep(30)
+                count = 0
+            """
             self.process_individual_entry(sheet, entry)
+            # count += 1
         wb.save(excel_file_path)
         
 
@@ -86,11 +95,11 @@ if __name__ == '__main__':
     parser.add_argument("is_phish_llm", help="Is Phishing LLM Column")
     args = parser.parse_args()
 
-    folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
-    #folders = ["USPS"]
+    #folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec 
+    folders = utils.benign_folders
     
     for folder in folders:
-        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "targeted_experiment", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
+        json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_ss_html", f"{args.shot}-shot", f"gemini_{folder}_{args.shot}.json")
         #json_file_path = os.path.join("baseline", "gemini", "gemini_responses", "targeted_experiment", f"gemini_{folder}_{args.shot}.json")
         export_object = LlmResultExport(args.hash_col, args.brand_col, args.credentials, args.call_to_actions, args.confidence_score, args.sld, args.is_phish, args.is_phish_llm)
         export_object.update_sheet_with_responses(json_file_path, args.sheet_path)
