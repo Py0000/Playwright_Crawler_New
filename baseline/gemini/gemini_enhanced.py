@@ -14,15 +14,19 @@ from baseline.utils import utils
 from utils.file_utils import FileUtils
 
 class GeminiProVisionBaseline:
-    def __init__(self, phishing_mode, use_html):
+    def __init__(self, phishing_mode, mode):
         self.phishing_mode = phishing_mode
-        self.use_html = use_html
+        self.mode = mode
         self.html_extractor = HtmlExtractor()
         self.model = self.setup_model()
         
     def setup_model(self):
         genai.configure(api_key=utils.get_api_key("baseline/gemini/api_key_new.txt"))
-        model = genai.GenerativeModel('gemini-pro-vision')
+        if self.mode == "ss" or self.mode == "both":
+            model = genai.GenerativeModel('gemini-pro-vision')
+        elif self.mode == "html":
+            model = genai.GenerativeModel('gemini-pro')
+            
         return model
     
     def get_screenshot_path(self, zip_ref):
@@ -48,24 +52,6 @@ class GeminiProVisionBaseline:
         if html_exists:
             html_file_path = next((zipinfo.filename for zipinfo in zip_ref.infolist() if html_relative_path in zipinfo.filename), None)
         return html_file_path
-    
-    def generate_full_model_prompt(self, few_shot_count, image, html_content):
-        current_prediction_prompt = "Here is the webpage screenshot:"
-        zero_shot_prompt, response_format_prompt = self.generate_zero_shot_prompt()
-        few_shot_prompts = []
-        for i in range(few_shot_count):
-            example_prompt, example_image = self.generate_prompt_example(i + 1)
-            few_shot_prompts.append(example_prompt)
-            few_shot_prompts.append(example_image)
-        
-        if self.use_html:
-            html_prompt = "\nHere are the info from the webpage html script:\n"
-            model_prompt = [zero_shot_prompt] + few_shot_prompts + [current_prediction_prompt, image, html_prompt, html_content, response_format_prompt]
-
-        else:
-            model_prompt = [zero_shot_prompt] + few_shot_prompts + [current_prediction_prompt, image, response_format_prompt]
-
-        return model_prompt
 
     def obtain_page_url(self, log_file):
         log_data = FileUtils.read_from_json_zipped_file(log_file)
@@ -107,20 +93,71 @@ class GeminiProVisionBaseline:
 
     def generate_zero_shot_prompt(self):
         prompt_file_path = os.path.join("baseline", "gemini", "prompts")
-        system_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, "system_prompt.txt"))
+        if self.mode == "ss":
+            system_prompt_txt_file = "system_prompt_ss.txt"
+            reponse_format_txt_file = "response_format_prompt.txt"
+        elif self.mode == "html":
+            system_prompt_txt_file = "system_prompt_html.txt"
+            reponse_format_txt_file = "response_format_prompt_html.txt"
+        elif self.mode == "both":
+            system_prompt_txt_file = "system_prompt_both.txt"
+            reponse_format_txt_file = "response_format_prompt.txt"
+
+        system_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, system_prompt_txt_file))
         chain_of_thought_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, "chain_of_thought_prompt.txt"))
-        reponse_format_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, "response_format_prompt.txt"))
+        reponse_format_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, reponse_format_txt_file))
 
         return f"{system_prompt}\n\n{chain_of_thought_prompt}", f"\n\n{reponse_format_prompt}"
         #return f"{system_prompt}", f"\n\n{reponse_format_prompt}"
     
     def generate_prompt_example(self, index):
+        img_1_desc = "The screenshot prominently displays the Outlook logo, consisting of an O and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word Outlook is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to Email and Password, respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a sign in link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page."
+        img_2_desc = "The screenshot displays the AT&T logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of AT&T, a large telecommunications company. Under the logo, there is a sign-in form with fields for Email and Password, indicating that the webpage is asking for user credentials. Just below the credential fields is a SIGN IN button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the AT&T logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for AT&T services created by a different company). There is no evidence of other brands being primary on this page. The presence of the 'weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service."
+        img_3_desc = "The screenshot showcases the Meta logo, which is the parent company of Facebook. The logo is located at the top left corner of the page. Although there are other logos from Twitter, Instagram and Linkedin, but the brand associated with this page is Facebook."
+
+        html_1_desc = "The HTML title states that it is Outlook."
+        html_2_desc = "The HTML title states that it is the login page of AT&T. Although the favicon is from weebly, this highly suggest that this AT&T page is built using Weebly website builder."
+        html_3_desc = "The HTML title states that it is Meta, the footer confirms that this is Meta, the parent company of Facebook."
+
+        img_descs = [img_1_desc, img_2_desc, img_3_desc]
+        html_descs = [html_1_desc, html_2_desc, html_3_desc]
+
         example_file_path = os.path.join("baseline", "gemini", "prompt_examples")
         image = PIL.Image.open(os.path.join(example_file_path, f"ss_{index}.png"))
-        desc = FileUtils.read_from_txt_file(os.path.join(example_file_path, f"analysis_{index}.txt"))
+        desc = FileUtils.read_from_txt_file(os.path.join(example_file_path, f"analysis_{index}.txt")) 
+
+        if self.mode == "ss":
+            desc = desc + img_descs[index-1]
+        elif self.mode == "html":
+            desc = desc + html_descs[index-1]
+        elif self.mode == "both":
+            desc = desc + img_descs[index-1] + " " + html_descs[index-1]
     
-        full_prompt = f"Below is an example analysis based on the provided image.\n{desc}"
+        full_prompt = f"Below is an example analysis.\n{desc}"
         return full_prompt, image
+    
+    def generate_full_model_prompt(self, few_shot_count, image, html_content):
+        current_prediction_prompt = "Here is the webpage screenshot:"
+        zero_shot_prompt, response_format_prompt = self.generate_zero_shot_prompt()
+        few_shot_prompts = []
+        for i in range(few_shot_count):
+            example_prompt, example_image = self.generate_prompt_example(i + 1)
+            few_shot_prompts.append(example_prompt)
+            
+            if self.mode == "ss" or self.mode == "both":
+                few_shot_prompts.append(example_image)
+        
+        html_prompt = "\nHere are the info from the webpage html script:\n"
+        if self.mode == "both":
+            model_prompt = [zero_shot_prompt] + few_shot_prompts + [current_prediction_prompt, image, html_prompt, html_content, response_format_prompt]
+
+        elif self.mode == "ss":
+            model_prompt = [zero_shot_prompt] + few_shot_prompts + [current_prediction_prompt, image, response_format_prompt]
+
+        elif self.mode == "html":
+            model_prompt = [zero_shot_prompt] + few_shot_prompts + [current_prediction_prompt, html_prompt, html_content, response_format_prompt]
+        
+        return model_prompt
 
     def analyse_individual_data(self, model, image, few_shot_count, folder_hash, html_content):
         try: 
@@ -152,7 +189,7 @@ class GeminiProVisionBaseline:
 
                     with zip_ref.open(screenshot_file_path) as screenshot_file:
                         html_content = None
-                        if self.use_html:
+                        if self.mode == "html" or self.mode == "both":
                             html_file_path = self.get_html_path(zip_ref)
                             with zip_ref.open(html_file_path) as html_file:
                                 html_content = html_file.read().decode('utf-8')
@@ -182,7 +219,7 @@ if __name__ == '__main__':
     #parser.add_argument("folder_path", help="Folder name")
     #parser.add_argument("date", help="Date")
     parser.add_argument("benign_phishing", help="benign or phishing")
-    parser.add_argument("use_html", help="include html script in prompt?")
+    parser.add_argument("mode", help="ss only, html only or both?")
     args = parser.parse_args()
 
     phishing_folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec
@@ -191,10 +228,8 @@ if __name__ == '__main__':
     else:
         folders = phishing_folders
        
-    
-    use_html = True if "html" in args.use_html else False
-    gemini_baseline = GeminiProVisionBaseline(args.benign_phishing, use_html)
-    for few_shot_count in ["0", "3"]:    
+    gemini_baseline = GeminiProVisionBaseline(args.benign_phishing, args.mode)
+    for few_shot_count in ["3"]:    
         for folder in folders:
             print(f"\n[{few_shot_count}-shot] Processing folder: {folder}")
             folder_path = os.path.join("baseline", "datasets", f"original_dataset_{folder}")
