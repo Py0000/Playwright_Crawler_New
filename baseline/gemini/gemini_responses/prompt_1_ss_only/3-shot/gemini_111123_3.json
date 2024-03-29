@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "01f62a6f90bf926aca8612e88b6c6c058eeae374ff553ded0e6f65b5d05a81f8",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "5.0",
+        "Supporting Evidence": "The webpage has a dark background with a large rock in the center. The rock is partially submerged in water, with a large wave crashing against it. The webpage has a login form with two input fields, one labeled \"Login\" and the other labeled \"Password\". There is also a checkbox labeled \"Save session till closing the browser\" and a button labeled \"Sign in\". The webpage's design is simple and straightforward, with no other branding or logos present. The presence of the login form and the \"Sign in\" button indicate that the webpage is likely a login page for a private website or online service. However, I cannot confidently identify the specific brand or service associated with this login page without additional information.",
+        "Url": "https://my-odin.com/auth/login/258?ddosprotected=1"
+    },
+    {
+        "Folder Hash": "0300b2a1e5683987e733afd8d4305b235854fc4a90abdf839fbc09b97b3da12a",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://thuonghao.com/app-mobil-segure-personailsucursalpersonal/mua/VALIDATECARD/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "049b4850c4e9aebc9e29f8ac43f50f06e25c3c7154a716a08ae597e38eb8f9f6",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone, Password",
+        "List of Call-To-Actions": "\"Sign in\" button, \"Continue with Google\" button, \"Sign in with Apple\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the LinkedIn logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of LinkedIn, a large professional networking platform. Under the logo, there is a sign-in form with fields for \"Email or Phone\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign in\" button, which serves as the primary call-to-action element. It prompts the user to proceed with the action of signing into their account. Additionally, there are \"Continue with Google\" and \"Sign in with Apple\" buttons, which are alternative sign-in options. The presence of these buttons indicates that the webpage is designed to allow users to sign in using their Google or Apple accounts. The overall design and layout of the page are consistent with LinkedIn's official login page.",
+        "Url": "https://swamyarts.com/wp-content/updates/linkedln/index.php"
+    },
+    {
+        "Folder Hash": "05f2c6334509ddb5cea0d00935602de3b5cebf9e4f86bfb7a8f94df07d4b80be",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://186.64.113.60/"
+    },
+    {
+        "Folder Hash": "0616047c17b64259dcfae6be6fcf5017f5bd58f0af19b115724a301d52ff8d38",
+        "Brand": "FabFilter",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Leave your review\" button, \"Buy now\" button, \"Download trial version\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the FabFilter logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of FabFilter, a well-known audio software company. Below the logo, there is a set of navigation links, including \"Products\", \"Support\", \"Buy\", and \"Blog\", which are typical sections found on a company's official website. The presence of the \"Leave your review\" button, \"Buy now\" button, and \"Download trial version\" button are all clear calls-to-action for users to interact with the website and potentially make a purchase. The overall design and layout of the page are consistent with FabFilter's branding and user interface style. There is no evidence of other brands being primary on this page.",
+        "Url": "https://fakinthefunk.net/en/"
+    },
+    {
+        "Folder Hash": "06577e85ba18ef4cff7bd9a369b710a5dc8b2030992cd8903b0e81cd740ec17f",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://dymdlxd0.dreamwp.com/skat/"
+    },
+    {
+        "Folder Hash": "06731e5c35cd2a6a6756371281d67046a96917a927162af03fa41fd483df0ffc",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays a simple login form with a prominent Microsoft logo. The centered alignment of the form and the clean design are consistent with Microsoft's branding. The presence of the \"Next\" button indicates that this is the initial step in a multi-step login process. The overall confidence in identifying the brand is high due to the clear visual representation of the Microsoft logo and the familiar design elements associated with Microsoft's login pages.",
+        "Url": "http://pickup.socialsmp.com/6c20a4/d4cb05f2-2f0a-4809-99d6-f8ceb74fc8c3"
+    },
+    {
+        "Folder Hash": "0674746372d4892e07fedfff01995f903c0731a77ef48d7a687ba3eeeea00ef5",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign in\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo, which is a well-known trademark of Microsoft Corporation. The logo is accompanied by the text \"Microsoft\", further confirming the brand identity. Below the logo, there is a message stating \"Because you're accessing sensitive info, you need to verify your password\", followed by a field labeled \"Password\", indicating that the page is asking for user credentials. The presence of the \"Sign in\" button below the credential field serves as a call-to-action for users to proceed with the login process. The confidence in brand identification is absolute due to the unmistakable Microsoft logo and clear branding elements that match Microsoft's design language for its login pages. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://pub-f8d80b6d04ca412db7362da34f726f2c.r2.dev/themd.html?email=tamer@genero.ae"
+    },
+    {
+        "Folder Hash": "06aaa6bfb9c44593ec01d0e2b6ecfb47a2c081499eb544017f6a6de2a724a460",
+        "Brand": "Orange",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Orange logo, which is a stylized orange square with the word \"Orange\" written in white. The logo is located in the upper left corner of the screenshot. The background is white with a light orange gradient at the bottom. There is a title that says \"Concours Orange\" which translates to \"Orange Contest\". There are 10 gift boxes with the Orange logo on them. Below the boxes, there is a list of comments from people who have won the contest. The comments are all in French. The presence of the Orange logo, the title \"Concours Orange\", and the list of winners' comments in French strongly suggest that the webpage is related to Orange, a French telecommunications company.",
+        "Url": "https://www.dailyprizehub.com/africa/ci/orange-box-1/orange-fr-1.php"
+    },
+    {
+        "Folder Hash": "07c235723b12f49ecb0e0768251e0458c5ffccfec4ba897217927566341af22a",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"SIGN IN\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the AT&T logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of AT&T, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"SIGN IN\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the AT&T logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for AT&T services created by a different company). There is no evidence of other brands being primary on this page. The presence of the 'weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://lnetioghsljhfdgfhgjhksdgfhsjfgqwa.weebly.com/"
+    },
+    {
+        "Folder Hash": "080400a34c76a858cf97e3c35aea56725e03abc5ccf35abf3bad157966d69cd8",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.sdafsdafsadfsa.com/"
+    },
+    {
+        "Folder Hash": "08781a691dc282328ab9521595a98f035b216c20e274f142720308510fc8c620",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Google logo, which is a widely recognized symbol for the Google brand. The presence of the \"Email or phone\" field indicates that the page is asking for user credentials. The \"Next\" button serves as a call-to-action for users to proceed with the login process. The overall design and layout of the page are consistent with Google's branding and login page. There are no conflicting branding elements or indications of any other brand being represented on the page.",
+        "Url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fsaberrbai&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fsaberrbai&ifkv=AVQVeyzuDGIiGNIUN5yykXcEFpQQKz2r3DlTni2-BKJitVeIDu_F-eLdcDcsa24UzdNVmE5pezGtJg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1242046031%3A1699655620535054&theme=glif"
+    },
+    {
+        "Folder Hash": "19063c2a9c8014dab7fb571c3bb74948fd42a6eeb9faa9eae4c48a766aabddf0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password, Confirm Password",
+        "List of Call-To-Actions": "\"submit\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are three fields, labeled \"Email Address\", \"Password\", and \"Confirm Password\", respectively. These are the standard credential fields for creating an Outlook account. There is also a call-to-action present, in the form of a \"submit\" button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official sign-up page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://lamarinatalca.cl/owa/webapp.html"
+    },
+    {
+        "Folder Hash": "1c2b996e5f4670be1c3afd40f3f60030c082f688a7771123fcaffaa1bfd5d232",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "5.0",
+        "Supporting Evidence": "The webpage has a simple design with a white background and a blue header. The header contains a dark blue bar with the text \"Please sign in with your email\" in white. Below the header, there is a form with two input fields, one labeled \"Email\" and the other labeled \"Password\". The \"Email\" field has a person icon, and the \"Password\" field has a lock icon. Below the input fields, there is a blue button that says \"Continue\". The webpage does not have any logos or other branding elements that would indicate what brand it belongs to. However, the presence of the \"Email\" and \"Password\" fields and the \"Continue\" button suggests that it is a login page for a website or app.",
+        "Url": "https://779425.selcdn.ru/mail-management/kerma-index4.html"
+    },
+    {
+        "Folder Hash": "5252961c958214b41129b9e152aa622926b14d4ab8c41b817a393de71435739f",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "5.0",
+        "Supporting Evidence": "The webpage has a dark-themed modal window with a title \"Sign in to continue\". Inside the modal, there is a form asking for \"Username\", \"Email\" and \"Password\". Below the form, there is a checkbox labeled \"Remember me\" and a blue button that says \"Sign in\". The overall design of the modal window is simple and straightforward, with no other branding elements or logos present. The only indication of the brand is the email field, which suggests that this is a login page for an email service. However, since the logo and other branding elements are missing, I cannot confidently identify the brand behind this webpage.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeialf2tdeo2jb3u3ltluqzn4pcqxhv2xvwfnr5hq5vocvhlwjynkca/svr2-mr1.html"
+    },
+    {
+        "Folder Hash": "5de65c58800342fe00346912a98d262bb3d5396cbc5d016a9f1f66d193009bf5",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"CONTINUE\" button",
+        "Confidence Score": "5.0",
+        "Supporting Evidence": "The webpage has a simple design with a white background and a blue header. The header contains a globe icon and the text \"Please sign in with your email\". Below the header, there is a form with two input fields, one for the email address and one for the password. The \"CONTINUE\" button is located below the form. There are no other branding elements or logos on the page. The page appears to be a login page for an email service or a web portal. However, since there are no clear indications or branding elements that would suggest a specific brand, the confidence score is moderate.",
+        "Url": "http://oasis-alabaster-exception.glitch.me/"
+    },
+    {
+        "Folder Hash": "79d7c3abdfc66bd28bfb36f3a0c69f4ba5600207dc62693f8196929543da2540",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Login\" button",
+        "Confidence Score": "5.0",
+        "Supporting Evidence": "The webpage has fields asking for email and password, which are common user credentials. There is also a \"Login\" button, which is a common call-to-action for logging in to a system. However, there are no clear indications of the brand or company associated with this login page. The design is generic and lacks any distinctive branding elements. Therefore, I cannot confidently identify the brand based on the screenshot alone.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeigarvbzkhzzbljgreisft7r4mw3tdhakobwkzdlliwdblrgxx3ciq/index1.html"
+    },
+    {
+        "Folder Hash": "8c340d59563cfab5558c149dff976b8839cc36bf9ea65f54104ed635cd1965eb",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the \"Webmail\" logo at the top, indicating the brand. Below the logo, there is a login form with fields for \"Email address\" and \"Password,\" which are standard credentials used for logging into an email account. The presence of a \"Sign in\" button suggests that this is a call-to-action for users to submit their credentials and access their email. The overall design and layout of the page are consistent with a webmail login page. The confidence score is given as 8.5 due to the clear presence of the Webmail logo and the typical login fields associated with email services. However, the lack of additional branding elements or a more distinctive logo design slightly reduces the confidence in the identification.",
+        "Url": "https://pub-9e11a359d213455e8ad57f733583373b.r2.dev/aask.html"
+    },
+    {
+        "Folder Hash": "94384aebc536f4fdaa4e01806dc2549f23dc1f806d7c659600aefc39b423ea78",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Meta logo, which is a blue \"M\" inside a circle, a widely recognized symbol for the tech company formerly known as Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there are fields labeled \"Email address\" and \"Password,\" which clearly indicate that the page is designed for users to enter their login credentials. The presence of the \"Log In\" button functions as a call-to-action for users to submit their credentials to access their Meta account. The confidence score is given as 9.5 due to the clear visual representation of the Meta brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://appsecure-adsbusiness-pages-en.github.io/cinora/import/"
+    },
+    {
+        "Folder Hash": "9ff57ffe4d1de67efdad1507613d0dfea4ad0b8067bb495a8a1ea3743a884d9f",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"Sign In\" button",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The screenshot displays the Zimbra logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Zimbra, a collaboration suite by Synacor. Below the logo, there is a sign-in form with fields for \"Username\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign In\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Zimbra logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context. There is no evidence of other brands being primary on this page.",
+        "Url": "https://pub-ccb2162674f0423993958b6739a1fc20.r2.dev/34324ummi.html"
+    },
+    {
+        "Folder Hash": "d3f3142a2631e578a8d523243f0daabedb8a898028658c5eba80f7dd54629dcb",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://bemestar.globoplaynews.com/"
+    }
+]

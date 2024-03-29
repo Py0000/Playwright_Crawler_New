@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0ce809619a352bbbb3017df602856ecec7a30bd18bb209bdff07283959ae02bb",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://dtv-ar.com.es/home.php"
+    },
+    {
+        "Folder Hash": "165fc268d6180931118405d7c487b93351dd23b9cb1899e4b01b095b5628d49a",
+        "Brand": "RED SILVER",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"ENTRAR EM CONTATO\" button",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage displays the RED SILVER logo prominently at the top center. The logo is a stylized wordmark with a unique design, and it is the primary identifier for the brand. Below the logo, there is a prominent call-to-action button with the text \"ENTRAR EM CONTATO\", which translates to \"GET IN TOUCH\" in English. The button is designed with a contrasting color scheme, making it stand out and draw attention. The overall design and layout of the webpage are consistent with the branding and aesthetics of RED SILVER. There are no other visible logos or branding elements that would suggest a different brand is represented on this page.",
+        "Url": "https://www.redsilveroficiall.com.br/"
+    },
+    {
+        "Folder Hash": "46eb9a95352f49cb2c7e836a3a37cedf6d29cbcb7a2cd1448a71123ba4853620",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.ff.membes.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c5972f617f3c3dff4464ed7e8a77f4b9f285dcb1ad66dafee8b2e2594e08d2c",
+        "Brand": "WebClient",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage has a logo of an \"@\" symbol with \"WebClient\" text below it, indicating the brand name. The presence of a password field and a \"Sign In\" button suggests that the webpage is asking for user credentials and has a call-to-action for users to sign in. The overall design and layout of the webpage are consistent with a login page. However, the presence of the \"Powered by \u00a9 2023\" text at the bottom of the page indicates that the webpage may be hosted on a third-party platform, which introduces some uncertainty in the brand identification.",
+        "Url": "https://eirz7.sa.com/.xl/alldoman/genWeb/genWeb/webmail/?client_id=tPWxE3ynQb4qhed6lFzHuV&redirect_uri=https%3A%2F%2Fwww.%2F&protectedtoken=false&id=&Country=NL&x=&i=others"
+    },
+    {
+        "Folder Hash": "703fe3dcac2231cdd9de7b2f0fb1d7c86d32edcb5fa159ba2d3853fed1e71696",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://ecard.com.eg/de_dpd7859/"
+    },
+    {
+        "Folder Hash": "75da1e9b363b48a69f858b885d2a9dcb610fe67fd7a9ac9c6a98be294e5cd921",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, email or user ID",
+        "List of Call-To-Actions": "\"Sign In\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Intuit logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of Intuit, a large financial software company. Below the logo, there is a sign-in form with fields for \"Phone number, email or user ID\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign In\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Intuit logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "89891a51098ad4bb158df18ac41be398d76bdc7c7a1e6b6a25aa0402ab8137d6",
+        "Brand": "Mail Center",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The webpage has the words \"Mail Center\" at the top, which indicates that it is related to email. There are also two input fields, one labeled \"Email Address\" and the other labeled \"Password\", which suggests that the user needs to enter their email address and password to log in. There is also a button labeled \"Sign In\", which indicates that the user can log in by clicking on it. The overall design of the webpage is simple and straightforward, which is consistent with the design of many email login pages.",
+        "Url": "http://ls360.org/function/uploadfile/20220412/20220412000328_60888.html?err=MPVL0DGO4CXHVYHFL5L&err=MPVL0DGO4CXHVYHFL5L&dispatch=1Ab&id=9ab8BA6464964b06c71BA97B586c03"
+    },
+    {
+        "Folder Hash": "b9480bcd0115c6462abe990004bfaed41ad25401e19b9a421928604de6481533",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Netflix, a large streaming service provider. Under the logo, there is a form with a field for \"Email address,\" indicating that the page is asking for user credentials. Just below the credential field is a \"Get Started\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of creating an account or starting their membership. My confidence in identifying the brand is absolute because of the clear visibility of the Netflix logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://adithyan12789.github.io/Netflix.github.io/"
+    },
+    {
+        "Folder Hash": "fa8f2a9abf0de550ded33072654f57b597cd63df79da7ff0585c3db339151ec0",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://contoh-btn11.resmi-id.art/"
+    },
+    {
+        "Folder Hash": "ff9f690d6ed31ac6b0d3fcb379ab4a1ad10ddbb57b0a19a351cb02b1231c6dd0",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Turn on Facebook Protect\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there are fields labeled \"Email\" and \"Password,\" which clearly indicate that the page is designed for users to enter their login credentials. The presence of the \"Turn on Facebook Protect\" button functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "http://support.768684333.kamnya.net/help/contact/9417940251527349"
+    }
+]

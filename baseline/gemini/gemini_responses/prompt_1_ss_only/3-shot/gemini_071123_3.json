@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "059f3a7145a116c7b3739037f55aaba024e23055d1cb700fa3eabcdbe711beaf",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign in\" button",
+        "Confidence Score": "5.0",
+        "Supporting Evidence": "The webpage has a simple design with a blue background and a white form in the center. The form has two fields: \"Email\" and \"Password\". There is a \"Sign in\" button below the form. The webpage's title is \"Mail Center\". The overall design and layout of the webpage is similar to many other webmail login pages. However, there is no logo or other branding element that would indicate which company or service the webpage belongs to. Therefore, I cannot confidently identify the brand of the webpage.",
+        "Url": "https://adsincoinciousin.web.app/?err=363-cc04b44-ib4co5-D6i4obcii44ib46bi4-4bbi-Xb5ii-D5-400-2A-74a66cc669A0e4b03a-b43DD0ec6eeD65ibe542406c4o958ae5e-4bbc54-67o03b6i-ai57c-3i0c52bc52664iXi2o5i65c4-&dispatch=3A76A3640BaA8b9CA283Bb2cB8944b7b4&id=CCC6cBaC5100C72266b1946C051534"
+    },
+    {
+        "Folder Hash": "66076adce603f73ff4a40125d2a02251b918a296fcd288464c64197bcc11962f",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The prominent display of the Telegram logo, which is a blue circle with a white airplane-like symbol, is the primary indicator of the brand. The presence of the \"Telegram\" wordmark in both Chinese and English further solidifies the brand identity. The screenshot showcases the app's features and provides download links for various platforms, reinforcing that this is an official Telegram webpage. There are no visible fields asking for user credentials or call-to-action elements requesting users to sign up or log in.",
+        "Url": "https://telegraawm.com/"
+    },
+    {
+        "Folder Hash": "774d3f49e4ca5e646c4e35c51ad71526685bc15ace2739860a613a01c1d7e556",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"sign in\" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "7d92f155796cdef849b1ebd3db2fc89712e47ab80ff68ee9f661b0c21a7550d1",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://993777.vip/#/"
+    },
+    {
+        "Folder Hash": "9175d3239ab45b50c732abd9ea5ddfc503bf948d468eb07da8b10a0d99a85346",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Telegram logo, which is a blue circle with a white airplane, prominently displayed at the top of the page. The word \"Telegram\" is also written in blue next to the logo. The page's background is white, and there is a blue bar at the top with links to various pages. The overall design of the page is simple and clean, and it is consistent with the Telegram brand.",
+        "Url": "https://www.telp5gram.com/"
+    },
+    {
+        "Folder Hash": "987ac4f51b98e55557d9c32375cdad841002975ad115944ffc6c3b8d75b0d7f2",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the WalletConnect logo, which is a stylized \"W\" with a blue circle surrounding it. The logo is placed prominently at the top of the page, indicating that it is the primary brand being represented. The page also includes the words \"WalletConnect\" and \"Open protocol for connecting Wallets to Dapps\" further confirming the brand identity. The overall design and layout of the page are consistent with the WalletConnect branding guidelines. There are no visible elements or branding cues that suggest the presence of any other brand on this page.",
+        "Url": "https://walletanalogy.com/"
+    },
+    {
+        "Folder Hash": "b0f012a4a3c2ee9f4fb53dc21c3939e79d165a4ce4c8477375d7052619553860",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"S'identifier\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Orange logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Orange, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Adresse e-mail ou n\u00b0 de mobile Orange\" (Email address or Orange mobile number) and \"Mot de passe\" (Password), indicating that the webpage is asking for user credentials. Just below the credential fields is a \"S'identifier\" button, which translates to \"LOG IN\" in English, which serves as the call-to-action element, prompting the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Orange logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for Orange services created by a different company). There is no evidence of other brands being primary on this page. The presence of the 'wix.com' at the top suggests that the webpage may have been created using the Wix website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://succesreussite522.wixsite.com/my-site"
+    },
+    {
+        "Folder Hash": "bc2f4d4856e648301b1d502369142d426b96e833b76eae1b1e3462115f8ca997",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://coinianse.com/?a=wallet"
+    },
+    {
+        "Folder Hash": "bd3f90eac256d91838b69d4a08c149cdbacde2999429eedf550b11d4a539ab9f",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"LOGIN\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Weebly logo at the bottom, which is the primary indicator of the brand. The presence of the \"Webmail\" text above the logo suggests that this is a webmail login page. Below the logo, there is a form with fields labeled \"Email\" and \"Password,\" indicating that the page is asking for user credentials. The \"LOGIN\" button below the form serves as the call-to-action for users to submit their credentials. The confidence in brand identification is high due to the clear presence of the Weebly logo and the typical login fields associated with webmail services. However, the overall design of the page is relatively simple and lacks additional branding elements that would further confirm the brand identity.",
+        "Url": "https://napcooilgasdubaillc.weebly.com/"
+    },
+    {
+        "Folder Hash": "eeffbebb79ee6891f7b0735876c3bc3decddfaff446d220e55570292eb0bb997",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u4e0b\u8f7d\u7535\u62a5\", \"\u7acb\u5373\u89c2\u770b\"",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot features the Telegram logo prominently at the top center, which is a stylized blue and white \"paper plane\" icon. The word \"Telegram\" is also displayed next to the logo in a custom wordmark. These are the primary visual elements used to identify the Telegram brand. Below the logo, there are two call-to-action buttons. The first button is labeled \"\u4e0b\u8f7d\u7535\u62a5\" and the second button is labeled \"\u7acb\u5373\u89c2\u770b\". The first button translates to \"Download Telegram\" and the second button translates to \"Watch Now\". These buttons are consistent with the Telegram brand and are used to encourage users to download the Telegram app or watch a promotional video, respectively. The overall design and layout of the screenshot are consistent with the official Telegram website and there are no other visible branding elements that would suggest a different brand is being represented.",
+        "Url": "http://wtelegram.com/home"
+    }
+]

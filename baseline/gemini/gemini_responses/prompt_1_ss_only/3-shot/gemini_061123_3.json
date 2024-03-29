@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Download Telegram\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Telegram logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Telegram, a popular messaging app. The page's title also includes \"Telegram\" and \"Telegram \u5b89\u5353\u7248\", which further confirms the brand identity. Below the logo, there is a prominent call-to-action button with the text \"Download Telegram\", indicating that the page is intended to promote the installation of the Telegram app. There is no evidence of other brands being primary on this page.",
+        "Url": "https://www.tbxjly.com/"
+    },
+    {
+        "Folder Hash": "1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53",
+        "Brand": "Libero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Email",
+        "List of Call-To-Actions": "\"SALVA\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the \"Libero\" logo, which is a stylized bird with the word \"Libero\" below it, indicating the brand. The page also includes a form with fields for a phone number and email address, labeled as \"Cellulare\" and \"Mail secondaria,\" respectively. These are common credential fields used for account recovery. The presence of the \"SALVA\" button suggests that the user is prompted to save the information entered in the form. The overall design and layout of the page are consistent with the branding and style of Libero, an Italian web portal and email service provider. The confidence level is high due to the clear presence of Libero's branding elements and the logical flow of a password recovery process.",
+        "Url": "http://ip170.ip-51-89-105.eu/verifica.php"
+    },
+    {
+        "Folder Hash": "1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a",
+        "Brand": "Videotron",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"CONNEXION\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Videotron logo prominently at the top of the page, which is a well-known trademark of Videotron, a Canadian telecommunications company. Below the logo, there is a sign-in form with fields for \"Votre adresse courriel\" (Email) and \"Mot de passe\" (Password), indicating that the page is asking for user credentials. Just below the credential fields is a \"CONNEXION\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Videotron logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://videotronmaill.weebly.com/"
+    },
+    {
+        "Folder Hash": "31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b",
+        "Brand": "Trust Wallet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Download Now\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Trust Wallet logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Trust Wallet, a cryptocurrency wallet. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Download Now\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of downloading the Trust Wallet app. My confidence in identifying the brand is high due to the clear visibility of the Trust Wallet logo and the typical login fields associated with many login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "http://trustwallet.masdubai.com/"
+    },
+    {
+        "Folder Hash": "3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Telegram logo, which is a blue square with a white airplane icon, prominently displayed at the top of the page. The word \"Telegram\" is written in a stylized font below the logo. The background of the page is white, and there is a menu bar at the top of the page with options such as \"Features,\" \"FAQ,\" and \"Apps.\" The page is divided into two sections. The left section has a list of features, while the right section has a description of each feature. The overall design of the page is clean and simple, and it is clear that the purpose of the page is to promote Telegram.",
+        "Url": "https://telegram-com-zhcn.pages.dev/"
+    },
+    {
+        "Folder Hash": "4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the word \"Webmail\" on the top left corner, which is a common name for web-based email services. Below that, there is a sign-in form with fields for \"Username\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"Sign In\" button suggests that this is a login page. The overall design of the page is simple and straightforward, with no other branding elements or distractions. This leads to a high confidence in identifying the brand as a webmail service.",
+        "Url": "http://bafybeif263mizfzroy53si3dt7jafhzmwf33bx27v4qx7biqfknpfkiuvy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Get Coinbase Wallet\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Coinbase logo, which is a blue square with the word \"coinbase\" written in white inside it. This logo is centrally placed at the top of the page and is the primary identifier for the brand. Below the logo, there is a prominent call-to-action button with the text \"Get Coinbase Wallet\" that encourages users to take action. The overall design and layout of the page, including the use of Coinbase's signature blue color, further reinforces the brand identity. The confidence score is given as 8.5 due to the clear visual representation of the Coinbase brand and the presence of a strong call-to-action button. However, there are no fields asking for sensitive user credentials, which is typical of Coinbase's login pages, hence a slight reduction in the confidence score.",
+        "Url": "https://www.coinbasewalletty.com/#/"
+    },
+    {
+        "Folder Hash": "834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://mealyfulloptimization.midwaveventure.repl.co/"
+    },
+    {
+        "Folder Hash": "ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://896e365.com/#/"
+    },
+    {
+        "Folder Hash": "fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://personal365-transact.com/"
+    }
+]

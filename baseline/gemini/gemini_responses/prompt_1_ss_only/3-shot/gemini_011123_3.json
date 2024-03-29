@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "000416073a49c0e2ba9c4d33d87bf3e1aad80d800c95c775adfd49c022a9708b",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"GET STARTED\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows the Netflix logo, a well-known trademark of the popular streaming service. The word \"Netflix\" is also prominently displayed at the top of the page. The page has a prominent call-to-action button with the text \"GET STARTED\", prompting users to sign up for the service. The presence of a field labeled \"Email address\" indicates that the page is asking for user credentials. The overall design and layout of the page are consistent with Netflix's branding and user interface. There are no other logos or branding elements that would suggest any other brand is represented on this page.",
+        "Url": "https://manturana.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "008351a9aed91cdc577c3ae7b444cba461aedc2931d8b381e1128940492da496",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "\"L\u00f6sen\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Netflix, a large streaming service provider. Under the logo, there is a sign-in form with fields for \"E-Mail-Adresse\" (Email Address), indicating that the page is asking for user credentials. Just below the credential fields is a \"L\u00f6sen\" button, which translates to \"Redeem\" in English, which serves as the call-to-action element. It prompts the user to proceed with redeeming an offer. My confidence in identifying the brand is high due to the clear visibility of the Netflix logo and the typical login fields associated with many of its login pages. However, the presence of \"POWERED BY weebly\" at the bottom introduces a slight uncertainty because Weebly is a website creation platform and not typically associated with Netflix's official login pages, which might indicate this is a third-party webpage using Netflix's login for authentication purposes or a custom Netflix page created with Weebly.",
+        "Url": "https://femal3bk.com/"
+    },
+    {
+        "Folder Hash": "010661dc19641ac4cce409890aa68b132e0b94b30c8156e5deed7ab7ac6fd3ba",
+        "Brand": "eBay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Shop Now\" buttons",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the eBay logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of eBay, a large online marketplace. Below the logo, there is a search bar and a variety of product categories, which are typical of eBay's website. The \"Shop Now\" buttons are also consistent with eBay's branding and serve as a call-to-action for users to start shopping. The overall design and layout of the page are also consistent with eBay's official website.",
+        "Url": "https://wholesaleall.net/#/pc"
+    },
+    {
+        "Folder Hash": "0124b097f7e892906cb61dda40ec44d311fd7ad17a99df0fa99844ff90ae80a4",
+        "Brand": "Shopify",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage has \"Essa loja utiliza Shopify\" (This store uses Shopify) at the bottom. Although the logo is not present, the footer text is a strong indicator of the brand behind the webpage. The page also has \"Voc\u00ea \u00e9 o dono da loja? Entre aqui\" (Are you the owner of this store? Enter here) with a link, which suggests this is a login page for a store owner rather than a customer login.",
+        "Url": "https://realizeofertas.com.br/password"
+    },
+    {
+        "Folder Hash": "01282ac37a774f11e907ddac60da724d99f455778ca6c4c8da033e855173a853",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo, which is a registered trademark of Microsoft Corporation. The page's title, \"Configure Microsoft Authenticator app,\" further supports the brand identification. The presence of a QR code and instructions to scan it indicates that the purpose of the page is to configure the Microsoft Authenticator app. The overall design and layout of the page are consistent with Microsoft's branding guidelines.",
+        "Url": "https://lt-supp0rt.com/i/a76ccde30a5c14c43843fae4a451a14ce"
+    },
+    {
+        "Folder Hash": "01535595dd8d43eb9bc656050a0c526fd040bc2d70b50a031cc5e2fd0573d422",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Microsoft, a large technology company. Below the logo, there is a heading that reads \"Configure Microsoft Authenticator app\", indicating that the webpage is related to the Microsoft Authenticator app. The rest of the page consists of instructional text and a QR code, which are commonly used for configuring the Microsoft Authenticator app. There are no fields asking for user credentials or call-to-action buttons/links.",
+        "Url": "https://lt-supp0rt.com/i/abb4bf39c649847f7b3a62ed005041822"
+    },
+    {
+        "Folder Hash": "015d90790baebbe8c3d96a6991cd34bf5f03c050cc23df9c9eb2823ae6337f4a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top of the page. The page's title, \"Configure Microsoft Authenticator app,\" and the presence of a QR code are clear indicators that this is a Microsoft-related page. The instructions below the QR code further support this, as they guide the user through the process of setting up the Microsoft Authenticator app. There are no visible fields asking for user credentials or call-to-action elements on this page.",
+        "Url": "https://lt-supp0rt.com/i/a48dbc07a8a9047f3838683238e16ea20"
+    },
+    {
+        "Folder Hash": "01f1160642f50b1d01ba15166a722bcd2ef35d2dcba866fe5eb3aac59e5a3d70",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top of the page, which is the primary indicator of the brand. The page's title, \"Configure Microsoft Authenticator app,\" further reinforces the association with Microsoft. The central focus of the page is a large QR code with instructions to scan it using a mobile device to configure the Microsoft Authenticator app. The presence of the QR code suggests that the page is part of a multi-factor authentication process commonly used by Microsoft accounts. The overall design and layout of the page are consistent with Microsoft's branding and user interface guidelines. There are no visible elements or branding cues that suggest the presence of any other brand on this page.",
+        "Url": "https://lt-supp0rt.com/i/aff60850ca2b941bc9673686bc2c2b7bb"
+    },
+    {
+        "Folder Hash": "027190093808a4d751359f5e8e7360f96191d70756034d95adde6ea500c63d65",
+        "Brand": "Wechat",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The screenshot shows a green background with a large QR code in the center. The QR code is surrounded by Chinese characters that translate to \"Use WhatsApp on your phone.\" Below the QR code, there is a green button that says \"Need help?\" in Chinese. The presence of the QR code and the \"Need help?\" button suggest that this is a login page for the WhatsApp messaging app. However, it is not possible to be absolutely certain that this is a legitimate WhatsApp login page as there are no other clear indicators of the brand or any other elements that would confirm the identity of the webpage.",
+        "Url": "http://36996.tiojsf.cn/"
+    },
+    {
+        "Folder Hash": "02e1c097051138b6c5da08dbd6e31e7d78a53585453a8ef40e11d5f3efd36791",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://verification-page-ads.com/N3V2JBxEYpdyUuyn45Z1xSzJcmZqEoetW7ZOLO8m6KomhlNT4K9kyCmZot2o8rYB74ruTBvWInPTAUJlTrangdau.html"
+    },
+    {
+        "Folder Hash": "318cd96aa99863e47744fe2a14e6e1923b15c15ecfcca741ff85fc9350650ae6",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Telegram logo, which is a blue circle with a white airplane-like symbol in the center. The word \"Telegram\" is written in a custom font below the logo. The background is white, and there is a blue bar at the top of the page with links to the Telegram home page, FAQ, API, and protocol documentation. The page is in English, and the Twitter icon on the top right corner links to Telegram's official Twitter account. There are no fields asking for user credentials or call-to-action buttons on the page.",
+        "Url": "https://tg-telegram.club/"
+    },
+    {
+        "Folder Hash": "5ed6bc379e46f1a6d48070277c68e577a49fb7d8332a33d224124e4ccdf94428",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Facebook(like), Twitter(follow), YouTube(follow), Instagram(subscribe), VK(join), Discord(join)",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo at the top left corner of the page. The logo is unmistakable and is the primary identifier for the game. The background image is also a scene from the game, further confirming the brand identity. There are no fields asking for user credentials, but there are call-to-action buttons for various social media platforms. The buttons are designed with the respective social media platforms' logos and colors, making them easily recognizable. The call-to-action text is also clear and concise, encouraging users to interact with the brand on social media.",
+        "Url": "http://u2297956.plsk.regruhosting.ru/j/"
+    },
+    {
+        "Folder Hash": "795cbfea27e52f9014ee76650f13a5cb89648d2f5dcd89d0f3f638fdd0e84997",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"sign in\" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8ebb62e318e8c7165ae24fe9f8b44fef3a1d67a8bbbfa94c687760263bd618c9",
+        "Brand": "Shopee",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number/ Username/ Email, Password",
+        "List of Call-To-Actions": "\"Log In\" button, \"Sign Up\" link",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Shopee logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of Shopee, a large e-commerce platform in Southeast Asia and Taiwan. Below the logo, there is a sign-in form with fields for \"Phone number, Username, or Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Log In\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. To the right of the \"Log In\" button is an option to \"Sign Up,\" which is another call-to-action element, prompting users to create a new account if they do not already have one. The presence of the 'Download on the App Store' and 'Get it on Google Play' logos at the bottom further supports the brand identification as they are official app download links provided by Apple and Google for the Shopee app.",
+        "Url": "https://shopee.sg/buyer/login?next=https%3A%2F%2Fshopee.sg%2Fshop%2F445275287%3Futm_campaign%3D-%26utm_content%3D17048272-2dfb0e4cf1a8d2d11e1d66e0fdd7e7b1-direct--%26utm_medium%3Daffiliates%26utm_source%3Dan_14228600000%26utm_term%3Da4u4d9i8oxmu"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"CONNEXION\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The Instagram logo is prominently displayed at the top of the page, which is the primary identifier for the brand. The word \"Instagram\" is also present next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in French, \"USATEUR OU EMAIL\" (USERNAME OR EMAIL) and \"MOT DE PASSE\" (PASSWORD), respectively. These are the standard credential fields for logging into an Instagram account. There is also a call-to-action present, in the form of a \"CONNEXION\" button (CONNECTION), which is stylized with the Instagram branding colors and an accompanying icon. The confidence in brand identification is high due to the unmistakable Instagram logo and clear branding elements that match Instagram's design language for its login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page. The presence of the 'weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "af430ef89e0d3c0ed9762591c97acef6e187bde52da3a38edd4f36115b73bbb8",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://aprovarapido.online/"
+    },
+    {
+        "Folder Hash": "bf7f1b582945e4ef1f842b97d83f2913ca38948fdb7cb837b5b910c7a26e158e",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"SIGN IN\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the AT&T logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of AT&T, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"SIGN IN\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the AT&T logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for AT&T services created by a different company). There is no evidence of other brands being primary on this page. The presence of the 'weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://att-102882.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "c23d392e973b20179f7e7ab5775a39c1222becf06d71e370e7b3aa4bce8856c2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number, Skype",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the SharePoint logo prominently in the header, which is the widely recognized symbol for Microsoft's SharePoint collaboration platform. Below the logo, there is a sign-in form with fields for \"Email, phone, or Skype\", \"Password\", and a checkbox for \"Keep me signed in\", indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Next\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the SharePoint logo and the typical login fields associated with many of its login pages. However, the presence of the 'Word' tab on the top-left corner and the 'SharePoint' tab on the top-right corner suggest that this might be a SharePoint page embedded in a Microsoft Word document.",
+        "Url": "http://bafybeigcgdalpgb3fdz3mkfsyp2pjmaswaungl56teg777lzbxjo23asua.ipfs.cf-ipfs.com/pup09.html"
+    },
+    {
+        "Folder Hash": "d3995faa33bac11bd44ddc9fe904fe0366266197c86fcc47736c51806863b112",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"sign in\" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "ee2a45354b1ff2bb8eba1e92e38b17752144166d7b350ded1170e717a990e873",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f\", \"\u0412\u043e\u0439\u0442\u0438\"",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the PUBG Mobile logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of PUBG Mobile, a popular battle royale game. The background image is also related to the game's theme. There are two buttons, \"\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f\" (Register) and \"\u0412\u043e\u0439\u0442\u0438\" (Login), which are typical call-to-action elements found on login pages. However, there are no visible fields asking for user credentials, suggesting that this may be a promotional page rather than a login page. The presence of the \"\u00a9 2020 PUBG Arena\" and \"Privacy\", \"Terms of Service\", \"User Agreement\", \"VISA\", and \"Mastercard\" logos at the bottom further support the brand identification.",
+        "Url": "https://pubg-arena.top/"
+    }
+]

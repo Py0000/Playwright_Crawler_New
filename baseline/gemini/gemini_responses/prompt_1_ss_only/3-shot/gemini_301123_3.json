@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "00d8245cdb3cf11560a75398f7f320aabc1fc72ae56dfc0f4a6c481eca4307a3",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Outlook logo, consisting of an \"O\" and an envelope, which is the widely recognized symbol for Microsoft's Outlook email service. The word \"Outlook\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there are two fields, labeled in Chinese characters, which translate to \"Email\" and \"Password\", respectively. These are the standard credential fields for logging into an email service. There is also a call-to-action present, in the form of a \"sign in\" link/button, which is stylized with the Outlook branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Outlook logo and clear branding elements that match Microsoft's design language for its email service. Additionally, the layout, typography, and style are consistent with Outlook's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://pub-8ff9f2b7d39f44c18425eca0f23a98b9.r2.dev/owa.html#security%40ethz.ch"
+    },
+    {
+        "Folder Hash": "0219010803323bd27d11aeff2290b47079f50718931e904dcb37c4254438d4d5",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://waw502.com/"
+    },
+    {
+        "Folder Hash": "03f38d64b313328c71c77b1e5bbd5dca0c6e5a18f8c5d0a1abbf36d5e62e42b1",
+        "Brand": "O2",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Jetzt registrieren\", \"Mein O2 App\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the O2 logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of O2, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Jetzt registrieren\" button, which translates to \"Register now\" in English, which serves as the call-to-action element. It prompts the user to proceed with the action of creating an account. There is also a \"Mein O2 App\" button, which translates to \"My O2 App\" in English, which serves as a call-to-action element. It prompts the user to download the O2 app. My confidence in identifying the brand is high due to the clear visibility of the O2 logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for O2 services created by a different company). There is no evidence of other brands being primary on this page.",
+        "Url": "https://login.o2online.de/sso/UI/Login?cookieenabled_test=1&service=unified-web"
+    },
+    {
+        "Folder Hash": "05f3f0a9a004505a1d0214d4ccfc07c93c66f8bb2b34bfe59efe54cf4ef5de7c",
+        "Brand": "myGov",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or email, Password",
+        "List of Call-To-Actions": "Sign in, Continue with Digital Identity",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage screenshot displays the myGov logo prominently at the top, which is the primary indicator of the brand. The myGov logo is a well-known trademark of the Australian Government, and it is widely recognized as the official symbol for accessing Australian government online services. Beneath the logo, there is a sign-in form with fields for \"Username or email\" and \"Password,\" clearly indicating that the page is designed for users to enter their login credentials. The presence of the \"Sign in\" button serves as a call-to-action for users to submit their credentials and access their myGov account. Additionally, the presence of the \"Continue with Digital Identity\" button indicates that users can also use their Digital Identity to sign in, which is a feature specific to the myGov platform. The overall design and layout of the webpage are consistent with the official myGov website, and there are no conflicting branding elements that would suggest any other brand is represented on this page.",
+        "Url": "https://www.homeaccountau.com/las/mygov-login/"
+    },
+    {
+        "Folder Hash": "065db6158190513f168076463c6a38bb64b1a1fc669964b918c8280dbf7d44ef",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the DHL logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of DHL, a large logistics company. The DHL branding is further emphasized by the use of their signature yellow color. The page also features a globe icon with a package on it, which is a clear reference to DHL's delivery services. Additionally, the presence of the \"Ship\" and \"Track\" buttons in the navigation bar indicates that this is a webpage related to DHL's shipping services. There is no evidence of other brands being primary on this page.",
+        "Url": "https://package.dittugarments.com/public/mjOfBj69BBa3Tk4AvbQreARG4ImFnQE6"
+    },
+    {
+        "Folder Hash": "08dbd1fe32c1808e7b8634d36c3bc248a9549b994328ccade7ec7580f6d28a06",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://dcu-auth.bup.net/dcu/"
+    },
+    {
+        "Folder Hash": "097dc9db025c800cc3bf5c63c79a01981c15a64889e2c927f8e13c77d83d6b16",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "12-Backup Words",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The screenshot displays the Coinbase logo, a well-known cryptocurrency exchange platform. The logo is accompanied by the Coinbase wordmark, further solidifying the brand identity. The page requests users to enter their 12-backup words, which are a crucial part of the Coinbase security process. The \"Continue\" button below the input field acts as a call-to-action, prompting users to proceed with the account recovery or verification process. The overall design and layout of the page are consistent with Coinbase's branding and security practices. The confidence level is high due to the clear presence of Coinbase branding elements and the consistency with the platform's known security measures.",
+        "Url": "http://buttery-sore-revolve.glitch.me/log.html"
+    },
+    {
+        "Folder Hash": "0afa2a8eb4ca3a3aa2982212463bef9181cf6658b53b70efe9cb4c65d6524ca4",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"INSTALL UPDATE\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows a pop-up message with the WhatsApp logo, which is a green speech bubble with a white telephone receiver inside. The logo is widely recognized and associated with the WhatsApp messaging app. The text in the message indicates that a security update is available and prompts the user to install it. The \"INSTALL UPDATE\" button is the only interactive element in the screenshot, making it clear that this is the intended call-to-action for the user. The overall design and layout of the message are consistent with WhatsApp's branding and user interface. There are no other logos or branding elements that would suggest a different brand is represented in the screenshot.",
+        "Url": "https://polert.xyz/52Lp/whatsapp.html"
+    },
+    {
+        "Folder Hash": "0b737c7e8f92273f5ad7c9ba132c4bc9463e7c6894fa5659122ac28fd1f5dec8",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://sgsecunet.com/691445964a4d606df52621f811811b56baef1da6689490be3c4c25a86af99f4e84c67ddff90c46b84436a69894e2f799/"
+    },
+    {
+        "Folder Hash": "0b886f8ff0be94ae4de4084fd164835dfe62b164ede278e7dff011104fe2deef",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://qatarpharmaonline.com/traviscu/error.php?cmd=_account-details&session=92b20e6759d333f5d6f30d85490ea6a3&dispatch=3e065c2d52e475a1454804aa2fab881a628e2d65"
+    },
+    {
+        "Folder Hash": "0c6cdf65f3a54872a8645d6981048dd06f994e84199a219301a73387b6952740",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Log in with Facebook\" button",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The screenshot displays the Meta logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Meta, a large technology company. Under the logo, there is a sign-in form with fields for \"Email\", indicating that the page is asking for user credentials. Just below the credential fields is a \"Log in with Facebook\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Meta logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for Meta services created by a different company). There is no evidence of other brands being primary on this page.",
+        "Url": "https://meta-account-setting.com/"
+    },
+    {
+        "Folder Hash": "11a58351b0b0c1ae68e1675f31ac5531f4e94511384c4ee26b0edede65bef2ae",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top of the page, which is the primary identifier for the brand. The logo is a well-known trademark of Netflix, a popular streaming service. Below the logo, there is a form with a field labeled \"Email address,\" indicating that the page is asking for user credentials. Just below the credential field is a \"Get Started\" button, which serves as the call-to-action element, prompting the user to proceed with creating an account or starting their membership. The confidence in identifying the brand is absolute due to the clear visibility of the Netflix logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://crazew.github.io/simply/"
+    },
+    {
+        "Folder Hash": "1e0f39c1715d2002bfbb33bd3895276fec0827a2185710ef756477d9be67d588",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://playstakecom.web.app/"
+    },
+    {
+        "Folder Hash": "2c6d6ea5b4d25c0b56b452c33cae300793881b4de0086ece59ea7a62eaa07eb8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Netflix, a large streaming service provider. Under the logo, there is a form with a field for \"Email address,\" indicating that the webpage is asking for user credentials. Just below the credential field is a \"Get Started\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of creating an account or starting their membership. My confidence in identifying the brand is high due to the clear visibility of the Netflix logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://09ta.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "3bd85627c716e638b3fae2ef502f2d12379d065d247e19d30dc2764ca1b0e0e2",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"LIKE\", \"FOLLOW\", \"SUBSCRIBE\", \"JOIN\"",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the PUBG Mobile logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of PUBG Mobile, a popular battle royale game. Below the logo, there are 5 social media icons with text that indicates users can follow PUBG Mobile on those platforms. The presence of these social media icons with the \"LIKE\", \"FOLLOW\", \"SUBSCRIBE\", and \"JOIN\" text serves as the call-to-action elements. It prompts the user to follow PUBG Mobile on their preferred social media platform. My confidence in identifying the brand is high due to the clear visibility of the PUBG Mobile logo and the social media icons. There is no evidence of other brands being primary on this page.",
+        "Url": "https://bey.help-page-reviev.my.id/"
+    },
+    {
+        "Folder Hash": "49ab6cb01928dfd2e0a8bb6a4ed49d5039c3c67cb1687484305d38a7134b29fe",
+        "Brand": "PlayerUnknown's Battlegrounds (PUBG)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Facebook, Twitter, YouTube, Instagram, VK, Discord",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot features the PUBG logo prominently at the top center, which is a well-known trademark of PUBG, a popular battle royale game. The page showcases various in-game items and rewards, along with their respective images. There is a section titled \"JOIN THE COMMUNITY\" that displays social media icons for Facebook, Twitter, YouTube, Instagram, VK, and Discord, each with a respective \"Like,\" \"Follow,\" \"Subscribe,\" \"Follow,\" \"Join,\" and \"Join\" call-to-action buttons. The overall design, layout, and imagery are consistent with PUBG's official branding and aesthetics. There are no other visible logos or branding elements that would indicate a different brand.",
+        "Url": "https://ha33.krafton-news.com/"
+    },
+    {
+        "Folder Hash": "51fa830e14d1dc51ccef9415d4f3f0358b0ad7293c262429376c6f84b91d7248",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Netflix, a large streaming service provider. Under the logo, there is a form with a field for \"Email Address,\" indicating that the webpage is asking for user credentials. Just below the credential field is a \"Get Started\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of creating an account or starting their membership. My confidence in identifying the brand is high due to the clear visibility of the Netflix logo and the typical sign-up fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://shrestha-tripathi.github.io/netflix-html-clone/"
+    },
+    {
+        "Folder Hash": "593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"\u7acb\u5373\u6ce8\u518c\", \"\u767b\u5165\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot features the bet365 logo prominently at the top of the page, along with other branding elements such as the company name and slogan. The presence of fields labeled \"Username\" and \"Password\" indicates that the page is asking for user credentials. The \"\u7acb\u5373\u6ce8\u518c\" button suggests that new users can create an account, while the \"\u767b\u5165\" button is for existing users to log in. The overall design and layout of the page are consistent with bet365's branding and user interface.",
+        "Url": "http://19960721.com/"
+    },
+    {
+        "Folder Hash": "8292dd540a9633426a81fb85249f8ada78cc34cff3874d7b01b25946cd938349",
+        "Brand": "GBWhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Download\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the text \"GBWhatsApp\" prominently at the top of the page, indicating the brand name. The page also features a green button with the text \"Download\" within the same area, suggesting that the primary call-to-action is to download the GBWhatsApp application. The overall design and layout of the page, including the use of colors and typography, is consistent with the branding of GBWhatsApp. However, there are no visible fields requesting user credentials, such as email or password, on this particular screenshot.",
+        "Url": "https://gbwhats.in/"
+    },
+    {
+        "Folder Hash": "8fc80c306751cc61ba1d29b890f14e147914e2cfe4f73919ef2b046571847a68",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot features the DPD logo prominently at the top, with the full company name \"DPDgroup\" displayed beneath it. The DPD logo is widely recognized as the trademark of the DPD group, a leading international parcel delivery company. The presence of the DPD logo and company name establishes the brand identity of the webpage. Additionally, the overall design, layout, and color scheme of the webpage are consistent with DPD's branding guidelines. The page displays a shipment tracking form with fields for entering a tracking number and a \"Send\" button, which are standard elements for a parcel tracking page. The presence of DPD's branding elements, combined with the consistent design and functionality, provides strong evidence that this is an official DPD webpage.",
+        "Url": "https://neu.planen.lieferung.4-235-113-82.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "974e84c16ee32ec67387d7f4a9d965592681486393150f23b299ae0037ce7cb0",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://rafael3590.github.io/"
+    }
+]

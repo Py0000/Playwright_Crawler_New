@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "005754c0833f9e2df05ee5bc2536badacfb51fae9fa8c889fecc9da07b778a1a",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"SIGN IN\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the AT&T logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of AT&T, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"SIGN IN\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the AT&T logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for AT&T services created by a different company). There is no evidence of other brands being primary on this page. The presence of the 'weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://taplink.cc/gfgh"
+    },
+    {
+        "Folder Hash": "008ea2a6d870ac228f073021449d2ac98f285e00715713e304a076ecb04e0d0c",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://reappealeation-support-1238943.vercel.app/#index.html?$@#"
+    },
+    {
+        "Folder Hash": "01c70c141ecaf072442e71f26eb8bc36aaf6fc45a734a3f864a6582a4a1dc2e8",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "\"CONTINUE\" button",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The screenshot displays the Facebook logo prominently at the top, which is the main factor in identifying the brand. This logo is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. Beneath the logo, there are fields labeled \"Email address or phone number\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"CONTINUE\" button functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.0 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://citrix.minnukka.net/"
+    },
+    {
+        "Folder Hash": "03d309f67afe0987f5e603011e7f6ecf538dfd017b80dba9233a026f7e596c18",
+        "Brand": "Trust Making Money Plan",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Invite friends to join\" button",
+        "Confidence Score": "5.0",
+        "Supporting Evidence": "The screenshot displays the text \"Trust Making Money Plan\" at the top, which suggests that this is the brand name. However, there is no logo or other visual element that provides further clues about the brand. The webpage has a \"Invite friends to join\" button, but there are no fields asking for user credentials. The overall design and layout of the webpage is simple and lacks distinct branding elements. The confidence in identifying the brand is moderate due to the presence of the brand name but the absence of other supporting visual cues.",
+        "Url": "https://metamask-jp.com/#/"
+    },
+    {
+        "Folder Hash": "047cc2a43cd96ca7198877474bcaeca95e29e261854a7af1c7b4c3b33d74adc8",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"JOIN CHANNEL\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Telegram logo, which is a white airplane inside a blue circle, a widely recognized symbol for the Telegram messaging app. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there is a profile picture, a username, and a green checkmark indicating the authenticity of the account. The text below the username is in Uzbek and translates to \"Do you want to join the channel?\". The presence of the \"JOIN CHANNEL\" button functions as a call-to-action for users to join the channel. The confidence score is given as 9.5 due to the clear visual representation of the Telegram brand through the logo, the presence of the green checkmark, and the Uzbek language, which is commonly used in Uzbekistan, where Telegram is widely popular.",
+        "Url": "https://uzbekkrut.kz/"
+    },
+    {
+        "Folder Hash": "06a605cee96bc633239c324a80f46133f8b6e499b8f172f6f0530522c7cd1bd0",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://store.thesteampowered.help/"
+    },
+    {
+        "Folder Hash": "06a75aaee5de3388a8e4941f783852cb3a849a6041192cfe97f2be7bec228ff4",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://supportsteam.net/1470241/6563738/lsesion.php?150e17fa353f3228707cd1982347c7af="
+    },
+    {
+        "Folder Hash": "0704a6852910544011a52e06d2baab02c57df62882d98e6c2bf260ca5e8b5c58",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, phone number, Skype",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo, which is a well-known trademark of Microsoft Corporation. The presence of the \"Sign in\" text and the fields for entering an email address, phone number, or Skype ID clearly indicates that the page is designed for users to enter their login credentials. The \"Next\" button serves as a call-to-action for users to proceed with the login process. The overall design and layout of the page are consistent with Microsoft's branding and login page conventions. There are no conflicting branding elements or indications of any other brand being represented on the page.",
+        "Url": "https://viseca-mfa.ch/select-mfa/?rid=DNq5jEf"
+    },
+    {
+        "Folder Hash": "079a8ce303596412dcf03fa7d2f59a59f118d53add67678987c14ebc42fcb3a6",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://dev-amigoruralinform.pantheonsite.io/"
+    },
+    {
+        "Folder Hash": "07e1a4b166221eb66ffd923977d8be46b2c409babb92f32a3c18cce48abe59b5",
+        "Brand": "An Post",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the An Post logo at the top left corner. The logo is a harp inside a circle and is a well-known symbol of An Post, the Irish postal service. The page also has the words \"An Post\" in the top left corner and \"About An Post\" in the footer, further confirming the brand identity. The webpage has a green background, which is a prominent color associated with An Post. The call-to-action button is green and says \"Continue,\" which is consistent with the An Post branding. The page also has links to An Post's social media pages in the footer, including Facebook, LinkedIn, Twitter, and Instagram.",
+        "Url": "http://www.service-customs-anpost.com/tracking"
+    },
+    {
+        "Folder Hash": "0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone number, Skype",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently, which is a well-known trademark of Microsoft Corporation. The logo is accompanied by the text \"Sign in to Outlook,\" indicating that the webpage is related to Microsoft's Outlook service. Below the logo, there is a form with fields for \"Email, phone, or Skype,\" which are all valid credentials for signing in to a Microsoft account. There is also a \"Next\" button, which serves as the call-to-action for users to proceed with the sign-in process. The overall design and layout of the webpage are consistent with Microsoft's branding and user interface guidelines. There are no other logos or branding elements that would suggest any other brand is represented on this page.",
+        "Url": "https://pub-c2f2baab9f5a4d918b039eeac3697522.r2.dev/servicerequest.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d",
+        "Brand": "Shaw",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign In\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage has the word \"Shaw\" prominently displayed in the header, along with its logo. The page has two input fields, labeled \"Shaw ID\" and \"Password,\" indicating that it is asking for user credentials. There is a \"Sign In\" button below these fields, which is a call-to-action for users to submit their credentials. The overall design and layout of the page are consistent with Shaw's branding. The presence of \"Webmail\" and \"Contact\" links in the header further supports the identification of the brand as Shaw.",
+        "Url": "https://ffhshaw.com/"
+    },
+    {
+        "Folder Hash": "2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Google logo, which is a widely recognized symbol of Google, a prominent tech company. The page also has fields for entering an email address or phone number, as well as a \"Next\" button, which are typical elements of a login page. The overall design and layout of the page are consistent with Google's branding and style.",
+        "Url": "http://129.226.210.78/v3/signin/identifier?ifkv=AVQVeywUhZmfG2H3QmNQtJ6V899SIC35sKBtL3MTsjeHalzUUSQCMqXVmq67mSjKfuClGeBvRhKOzQ&xrealip=137.132.218.133&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1560507024%3A1700130821555200&theme=glif"
+    },
+    {
+        "Folder Hash": "38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "\"CONTINUE\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo prominently at the top center, which is the main factor in identifying the brand. This logo is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. Beneath the logo, there are fields labeled \"Email address or phone number\" and \"Password,\" indicating that the page is designed for users to enter their login credentials. The presence of the \"CONTINUE\" button functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://apps.minnukka.net/"
+    },
+    {
+        "Folder Hash": "3c58d7b1cc8e6dd7a11efa16443c79e9f94cc52adaccf70e65f04b1d14180daa",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone number",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Google logo, which is a widely recognized trademark of Google LLC. The logo is accompanied by the text \"Google\" in the header, further confirming the brand identity. Below the logo, there is a prominent sign-in form with a field labeled \"Email or phone\", indicating that the webpage is asking for user credentials. The presence of a \"Next\" button suggests that this is a login page, and the user will proceed to the next step of the authentication process by clicking it. The overall design, typography, and layout of the page are consistent with Google's branding and login page conventions. There are no conflicting branding elements or indications of any other brand on the page.",
+        "Url": "http://43.156.0.130/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2F&followup=https%3A%2F%2Faccounts.google.com&ifkv=AVQVeywrmbXmUP-6OmPTegLF0sx6WQUqACcH9AVmeSIvlWwYfPlT79L_Nnu7TKpxE-Z5gcshlMQB&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1324598053%3A1700111955166175&theme=glif"
+    },
+    {
+        "Folder Hash": "3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://fileprotectedsharelinedd453.weebly.com/"
+    },
+    {
+        "Folder Hash": "50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Sign in\" link/button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot prominently displays the Microsoft logo, consisting of four colored squares arranged in a specific pattern, which is the widely recognized symbol for Microsoft. The word \"Microsoft\" is also displayed next to the logo, further confirming the brand identity. Below the logo, there is a field, labeled \"Email\", which is the standard credential field for logging into an email service. There is also a call-to-action present, in the form of a \"Sign in\" link/button, which is stylized with the Microsoft branding colors and an accompanying icon. The confidence in brand identification is absolute due to the unmistakable Microsoft logo and clear branding elements that match Microsoft's design language for its login page. Additionally, the layout, typography, and style are consistent with Microsoft's official login page. There is no conflicting branding or elements that would suggest any other brand is represented on this page.",
+        "Url": "https://pub-02c7a38666214a48b43a1c1fc544e582.r2.dev/link%20(27).html#chriss@thejackfruitcompany.com"
+    },
+    {
+        "Folder Hash": "596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3",
+        "Brand": "NTT Docomo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "d\u30a2\u30ab\u30a6\u30f3\u30c8ID, \u30d1\u30b9\u30ef\u30fc\u30c9",
+        "List of Call-To-Actions": "\u6b21\u3078, d\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u767a\u884c\u3059\u308b",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the NTT Docomo logo, which is a stylized \"docomo\" in orange and black. The logo is prominently displayed at the top of the page. The page also has two input fields, one labeled \"d\u30a2\u30ab\u30a6\u30f3\u30c8ID\" and the other labeled \"\u30d1\u30b9\u30ef\u30fc\u30c9\" These are the standard credential fields for logging into an account. There is also a call-to-action present, in the form of an orange button labeled \"\u6b21\u3078\" and a link below the credential fields labeled \"d\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u767a\u884c\u3059\u308b\". The presence of the NTT Docomo logo, the credential fields, and the call-to-action button all indicate that this is a login page for a service provided by NTT Docomo.",
+        "Url": "https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/auth/cgi/%20dcmpx.remotevs.com%22,%22155.248.176.223"
+    },
+    {
+        "Folder Hash": "61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, Skype",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo, which is a well-known trademark of Microsoft Corporation. The presence of the \"Sign in\" text and the fields for \"Email, phone, or Skype\" and \"Password\" indicate that the webpage is asking for user credentials. The \"Next\" button below these fields is a clear call-to-action for users to proceed with the login process. The overall design and layout of the page are consistent with Microsoft's branding and login page conventions. There are no other logos or branding elements that would suggest a different brand is represented on this page.",
+        "Url": "https://sp79750.sitebeat.crazydomains.com/"
+    },
+    {
+        "Folder Hash": "a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.tv.activate-uk.com/index.app.html?/cs/update/multiple-changes/index.app=ARLbbYAGkOByITSyDOgHxuoZPFDePozfynfbOvuCjTMudoyEXRZiSMjhb"
+    }
+]

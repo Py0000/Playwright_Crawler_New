@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "002d11ef2b0ae2ad18243d649760709de8652dc07481e8112564690cad169e15",
+        "Brand": "Mail Server Authenticator",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Authenticate",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the title \"Mail Server Validation\" and \"Mail Server Authenticator 2023\" at the bottom, indicating the purpose of the page is to validate a mail server. It asks for \"Email Address\" and \"Password\", and has a \"Remember me\" checkbox along with an \"Authenticate\" button. These are typical elements found on login pages. The design is simple and straightforward, with no other branding elements or logos that might suggest a different brand.",
+        "Url": "https://pub-b2f9e0b08962435fb4d4fd47fd9dc138.r2.dev/glki.html"
+    },
+    {
+        "Folder Hash": "00b494a44f95331d6bb0b73d21cc33a3735abf25d66a520f40e76440bdd6508e",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Get Coinbase Wallet\" button",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The screenshot displays the Coinbase logo, which is a blue circle with interlocking \"C\" and \"B\" letters in white, a well-known symbol for the Coinbase cryptocurrency exchange and wallet service. The Coinbase wordmark is also present beneath the logo. The page's primary call-to-action is the \"Get Coinbase Wallet\" button, which is a clear indication of the brand's intention to promote its cryptocurrency wallet. The confidence score is 8.0 due to the clear presence of Coinbase branding elements and the straightforward call-to-action button. However, it is not 100% certain as the screenshot only shows a small portion of the webpage, and there could be other elements or branding present on the full page that might affect the identification.",
+        "Url": "https://www.cryptoproving.top/?agentIdentify=79fac605-132a-4f93-bb24-644624fcff17&walletId=1&walletTemplateId=0#/"
+    },
+    {
+        "Folder Hash": "00d2b23f812dedd6baca4311ac6336ccf31594cdb8c161cf3f0d0dbdeba99b61",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Secret Recovery Phrase",
+        "List of Call-To-Actions": "Verify Phrase",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the MetaMask logo prominently at the top center, which is the main factor in identifying the brand. This logo is a well-known trademark of MetaMask, a popular cryptocurrency wallet. Below the logo, there is a clear instruction \"Confirm Secret Recovery Phrase\" and a set of 12 input fields for the user to enter their secret recovery phrase, which is a crucial piece of information for accessing their MetaMask wallet. The \"Verify Phrase\" button below the input fields serves as the call-to-action, prompting the user to confirm their secret recovery phrase and proceed. The presence of the \"MetaMask\" wordmark and logo, along with the specific terminology and design elements related to cryptocurrency wallets, strongly suggests that this is an official MetaMask webpage.",
+        "Url": "https://metamask-verification.ddnss.eu/0x789DQSD7Q9SDUQSUIY/kjlfhqsdhmfjhqkdhqsd/c5888/"
+    },
+    {
+        "Folder Hash": "012610cde3f14525a56b93993bcbfd3d13ff8825a89becf4867a66ee67362999",
+        "Brand": "Hiworks",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\uc544\uc774\ub514(ID), \ube44\ubc00\ubc88\ud638(Password)",
+        "List of Call-To-Actions": "\ub85c\uadf8\uc778(Log in)",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot shows the logo of Hiworks, a South Korean company that provides cloud-based business management software. The logo is accompanied by the company name in Korean characters. Below the logo, there are two input fields, one labeled \"\uc544\uc774\ub514\" (ID) and the other labeled \"\ube44\ubc00\ubc88\ud638\" (Password). These are the standard credential fields for logging into an account. There is also a blue button with the text \"\ub85c\uadf8\uc778\" (Log in), which is the call-to-action element prompting the user to submit their credentials. The overall design and layout of the page are consistent with Hiworks' official login page. There are no other logos or branding elements that would suggest any other brand is represented on this page.",
+        "Url": "https://meeny.com/spic/a.htm"
+    },
+    {
+        "Folder Hash": "0163e27f46dc40feaae6d5915d74440a05668658686e5e20235d9743c363c108",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone, Skype ID",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Microsoft, a large technology company. Under the logo, there is a sign-in form with fields for \"Email, phone, or Skype ID\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Next\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is absolute due to the clear visibility of the Microsoft logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://itsuppports.com/?sc=63c6a5be-18e0-448c-b3a9-f91803bf9bf4&t=0f03966b-ef5b-476e-8495-b2c862123844"
+    },
+    {
+        "Folder Hash": "01e3da66041e077edfd50fd368f90ad4cea27460c07c87bb7efe718a4fe10655",
+        "Brand": "Kakao",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign Up\", \"Log In\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage displays the wordmark logo of Kakao, a South Korean internet company, prominently at the top of the page. The logo is widely recognized and associated with Kakao's various services. Below the logo, there is a section labeled \"Enter Account Information,\" which includes fields for \"KakaoMail ID, email, phone number,\" and \"Password.\" These are standard credential fields for logging into an account. Additionally, there is a checkbox labeled \"Stay Logged In\" and a \"Sign Up\" button, which are common elements on login pages. The presence of these elements indicates that the webpage is designed for users to enter their login credentials and create new accounts. The overall design and layout of the page are consistent with Kakao's branding and user interface guidelines. There are no conflicting branding elements or indications of other brands on the page.",
+        "Url": "https://kakao-signin.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "021a749f0dded2e26d637f20d0e5e7d3c828f322aebb7418cd043f43fa5d4b3c",
+        "Brand": "WeTransfer",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Download\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the WeTransfer logo prominently at the top left corner, which is the main factor in identifying the brand. This logo is a well-known trademark of WeTransfer, a large file-sharing service. Below the logo, there is a prominent \"Download\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of downloading the files. Just above the button, there is a section that requests the user to enter their email address. The presence of the email field indicates that the page is asking for user credentials. My confidence in identifying the brand is high due to the clear visibility of the WeTransfer logo and the typical email field associated with file-sharing services. There is no evidence of other brands being primary on this page.",
+        "Url": "https://bafybeidwaf674yr5lzvlej54on2q3hh25xss5yrkit4a5i55bhwwzfxegm.ipfs.cf-ipfs.com/newfile.html"
+    },
+    {
+        "Folder Hash": "02b6b7f02e63ca0dd074f4dbe1c9c73797dc83da5b05bd8f7ca240b910ce7644",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "\"Login To View File\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot shows \"Adobe PDF Online\" at the top of the page, indicating the brand. Below that, there is a pop-up window titled \"Secured Adobe File Verification,\" which requests a user's \"Email Address\" and \"Password\" to view a secured PDF file. The \"Login To View File\" button is the call-to-action for users to proceed. The overall design and layout of the page, including the font and color scheme, are consistent with Adobe's branding. The presence of the Adobe logo further reinforces the brand identity.",
+        "Url": "http://bafybeibe5v6ozaod4og5zu6o7kuxd7h7kflzlevtqbkagdx7hopcpwhcha.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "03f91b21193a69afb00e9ba21cc8c641530c197ec3c268a90f826bbd53e172c4",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://it-support.care/render-template/?csu=ntHHnaGn&status_id=n"
+    },
+    {
+        "Folder Hash": "04625c972498b038bdf78caa57295b064181342ddc3a7294eb85c49456cc94ae",
+        "Brand": "Juno",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "GO",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Juno logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Juno, an internet service provider. Under the logo, there is a sign-in form with fields for \"Email Address\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"GO\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Juno logo and the typical login fields associated with many of its login pages. The presence of the 'Need Help? Call 1-800-654-5866' at the top right corner is also a strong indicator that this is an official Juno webpage.",
+        "Url": "https://juniurno.weebly.com/"
+    },
+    {
+        "Folder Hash": "047f37389b12ad02c3088b183e9125d9281d2fb4446149e5106f416ae2a46f4b",
+        "Brand": "Banca Widiba",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, Phone number",
+        "List of Call-To-Actions": "\"ENTRA\" button",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The screenshot displays the Banca Widiba logo prominently at the top of the page. The logo is a stylized \"W\" with the words \"Banca Widiba\" beneath it. The word \"Login\" is displayed in the center of the page, indicating that this is a login page. Below the word \"Login,\" there are three fields: \"Username,\" \"Password,\" and \"Phone number.\" These are the standard credential fields for logging into an account. There is also a call-to-action present, in the form of an \"ENTRA\" button, which is stylized with the Banca Widiba branding colors and an accompanying icon. The confidence in brand identification is high due to the clear visibility of the Banca Widiba logo and the presence of the Banca Widiba branding on the page.",
+        "Url": "http://dmiagrp.com/wi/"
+    },
+    {
+        "Folder Hash": "04a3f87dffb3198c568b02ff416ab8c5377827b0d633725c67d43d5870cd4cc2",
+        "Brand": "BT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the BT logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of BT, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Email address\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign in\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the BT logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for BT services created by a different company). There is no evidence of other brands being primary on this page. The presence of the 'weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://home-105741.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "4d260a8916fa7bf2d0e3bbc31d6a298e8fae35d211d48bc7680db8d896a4d54f",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://midasmap.uaslp.mx/midasmap/vendor/league/flysystem/src/acces/payxm/logmx/mxcor/portal/20232723-50QTR41861547UID_25012021-QTR-id_url.html=db6d89641d148fc10a4465080ff0933d75/"
+    },
+    {
+        "Folder Hash": "529576da61ace61d0b21a5c79b16af9635a5b4516399786999bd55d0e581b1d7",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone Number, Password",
+        "List of Call-To-Actions": "\"Iniciar sesi\u00f3n\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo prominently at the top, which is the main factor in identifying the brand. This logo is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. Beneath the logo, there are fields labeled in Spanish, \"Correo electr\u00f3nico o n\u00famero de tel\u00e9fono\" (Email or Phone Number) and \"Contrase\u00f1a\" (Password), which clearly indicate that the page is designed for users to enter their login credentials. The presence of the \"Iniciar sesi\u00f3n\" button, which translates to \"Log In\" in English, functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://facebook-ewww.pages.net.br/"
+    },
+    {
+        "Folder Hash": "613ce80e7a9715a041d192008d5316f13917a2221c57ac75b3c61a3457311dc7",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo, which is a white lowercase \"f\" inside a blue square, a widely recognized symbol for the social media platform Facebook. This logo is central on the page and is the main identifier for the brand. Beneath the logo, there is a \"\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644\" button, which translates to \"LOG IN\" in English, functions as a call-to-action for users to submit their credentials to access their Facebook account. The confidence score is given as 9.5 due to the clear visual representation of the Facebook brand through the logo and the typical login button associated with many of its login pages.",
+        "Url": "https://enggg.pages.net.br/mn"
+    },
+    {
+        "Folder Hash": "8ba3e2dd2bcfe19372d8baa4cb436907deff2324ba932b20a33e03e7e834eae3",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "5.0",
+        "Supporting Evidence": "The webpage screenshot shows a simple login form with fields for \"Email\" and \"Password\", along with a \"Continue\" button. The design is clean and straightforward, with no branding elements or logos that would indicate the brand associated with the login page. The presence of the \"Continue\" button suggests that the user will be taken to another page or section of the website after submitting their credentials. However, since there is no clear indication of the brand or service associated with this login page, the confidence score is moderate.",
+        "Url": "https://bafybeicm43px6o27r5emoydd7gf3xc6wj6ryisdbezzpglg6mqszrpgswa.ipfs.dweb.link/"
+    },
+    {
+        "Folder Hash": "b5a7a6d49a07d61e8a7b5ec298876dee232da785d889da5757e664eab82c9d10",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u05db\u05df\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The prominent display of the Telegram logo, a stylized blue and white airplane, in the top left corner of the screenshot establishes the brand identity. The page's title, \"Telegram,\" further reinforces this identification. The presence of a single call-to-action button with the text \"\u05db\u05df,\" which translates to \"Yes\" in English, indicates that the user is being prompted to take an action, although the context of the action is not entirely clear without additional information. The overall design and layout of the page are consistent with Telegram's branding and user interface elements. There are no visible elements or logos suggesting the presence of other brands on this page.",
+        "Url": "https://cropping-felicitations.click/"
+    },
+    {
+        "Folder Hash": "be2af9d85a6464aa6a7add1b0849e35e587251459bb5e68e61793c9856cbed9c",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"S'identifier\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Orange logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Orange, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Indiquez votre compte Orange\" (Indicate your Orange account) and \"Saisissez votre mot de passe\" (Enter your password), indicating that the webpage is asking for user credentials. Just below the credential fields is a \"S'identifier\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Orange logo and the typical login fields associated with many of its login pages.",
+        "Url": "http://site9611906.92.webydo.com/"
+    },
+    {
+        "Folder Hash": "c5ec3997918ae64a1bb52a528a435512da567651017a457f7e724a209b7b343a",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log in",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The webpage has the word \"Webmail\" as its title. The logo of Webmail is placed in the middle of the page. The page has fields for entering email address and password. The page has a button with the text \"Log in\". The overall design of the page is consistent with the official Webmail login page.",
+        "Url": "https://pub-e9643f0215594ce393fcc20bae6a69b0.r2.dev/index.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "ca01d76f887d9244a7db78b192ea9aa73c8fad66d2bf0afe5022ced99e185810",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top of the page, indicating the brand. The presence of a field labeled \"Enter your email\" and a \"Next\" button suggests that the page is asking for user credentials and has a call-to-action for users to proceed. The overall design and layout of the page are consistent with Microsoft's branding and the OneDrive service. The confidence score is given as 9.5 due to the clear visual representation of the Microsoft brand and the typical login fields associated with many of its login pages.",
+        "Url": "http://sencommune.com/ope/xon0qpjg3iils652ku7c1i1o.php?secure"
+    },
+    {
+        "Folder Hash": "d390545ea6ce0b5fe699bfcd33af0b7b32bfd8c578d7cdf67f552239d17472a3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number or email, Password",
+        "List of Call-To-Actions": "\"Zaloguj si\u0119\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Facebook, a large social media company. Under the logo, there is a sign-in form with fields for \"Numer telefonu kom\u00f3rkowego lub adres\" (Phone number or email) and \"Has\u0142o\" (Password),\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Zaloguj si\u0119\" button, which translates to \"LOG IN\" in English, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Facebook logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for Facebook services created by a different company). There is no evidence of other brands being primary on this page.",
+        "Url": "https://auta-konarski.pl/authorize.php"
+    }
+]

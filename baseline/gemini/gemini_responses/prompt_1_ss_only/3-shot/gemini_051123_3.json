@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "10ae1de08e1b3b633e38c6b7bd0c5073f5557a00b5c5c61c58db7b6fb10426a6",
+        "Brand": "Baltic Pipe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "\"Zarejestruj si\u0119\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Baltic Pipe logo prominently at the top. The logo is a stylized image of a blue and green pipeline, with the words \"Baltic Pipe\" written in a modern font. The colors and design of the logo are consistent with the branding of the Baltic Pipe project. The screenshot also includes a form with fields for \"Email\" and \"Phone Number,\" indicating that the user is being asked to provide their contact information. The presence of these fields suggests that the webpage is associated with an organization or service that requires users to create an account or register in some way. The \"Zarejestruj si\u0119\" button, which translates to \"Register\" in English, is a clear call-to-action for users to complete the registration process. The overall design and layout of the webpage are clean and professional, with a focus on user experience. The use of high-quality images and graphics, as well as the clear and concise text, contribute to the credibility of the webpage.",
+        "Url": "https://www.makeprrofit.site/"
+    },
+    {
+        "Folder Hash": "14fc2efc96604b37269dc3e18a02d057f972c47580876d6d4653578e3171df10",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Download\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Adobe Reader logo, which is a red \"A\" with the word \"Adobe\" written in a stylized font below it. This logo is centrally located at the top of the page and is the primary identifier for the brand. Beneath the logo, there is a pop-up window with a title bar that reads \"Confirm email address to download,\" indicating that the page is designed for users to enter their email address and password to access a download. The presence of the \"Download\" button, which is located at the bottom of the pop-up window, functions as a call-to-action for users to submit their credentials to initiate the download process. The confidence score is given as 9.5 due to the clear visual representation of the Adobe brand through the logo and the typical login fields associated with many of its software downloads.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeieuck7midptnnddf36kxotthabk5oeqdixn6zc5mnwkfh23mtsiea"
+    },
+    {
+        "Folder Hash": "2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a",
+        "Brand": "Kios Pulsa",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone Number, Email, Password",
+        "List of Call-To-Actions": "\"Login\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Kios Pulsa logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Kios Pulsa, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Nomor Telepon\", \"Email\", and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Login\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Kios Pulsa logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for Kios Pulsa services created by a different company). There is no evidence of other brands being primary on this page.",
+        "Url": "http://pengikut-gratis.com/"
+    },
+    {
+        "Folder Hash": "3f4469aae21448f192aecb21ed0fa3f194f5c026662891b346e8843dd07120ac",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot shows the Telegram logo, which is a blue and white airplane-like icon, prominently displayed at the top center of the page. The word \"Telegram\" is also written in a stylized font below the logo. The page's background is white, and there is a blue bar at the top with links to various sections of the website. The overall design of the page is simple and clean, and it is clear that the Telegram brand is being emphasized.",
+        "Url": "https://telegram-com-zhcn.pages.dev/"
+    },
+    {
+        "Folder Hash": "4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd t\u00ean (Full name), Ng\u00e0y sinh (Birthday), \u0110\u1ecba ch\u1ec9 (Address)",
+        "List of Call-To-Actions": "NH\u1eacN QU\u00c0 (Claim reward)",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot shows the Garena Free Fire logo, which is a well-known mobile game. The logo is in the center of the page and is surrounded by other branding elements, such as the game's characters and weapons. The page also has a form that asks for the user's name, birthday, and address. This information is likely used to create an account or to verify the user's identity. There is also a call-to-action button that says \"NH\u1eacN QU\u00c0\" (Claim reward), which indicates that the user will receive a reward if they enter their information. Overall, the screenshot provides strong evidence that the brand is Garena Free Fire.",
+        "Url": "http://www.freefire.member.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c9daa0070c0f57a16a0f9f0859f756c56ad094c09473ae461a2fb2814923450",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, Skype",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo, which is a well-known trademark of Microsoft Corporation. The presence of the \"Sign In\" text and the fields for \"Email, phone, or Skype\" indicate that the webpage is asking for user credentials. The \"Next\" button suggests that this is a login page and that the user will be taken to the next step of the authentication process upon clicking it. The overall design and layout of the page are consistent with Microsoft's branding and login page style. There are no elements or logos of other brands that would indicate otherwise.",
+        "Url": "http://bafybeihc74glgbx6mfibmqolz253ajpbhbrjhlalpe4uzmsejhy6qox5ni.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The prominent display of the Telegram logo, a blue and white stylized paper plane, in the center of the page is a clear indication of the brand. The presence of the Telegram name in both Chinese and English characters further solidifies the brand identity. The page showcases various screenshots of the Telegram app on different devices, showcasing its features and capabilities. There are no visible fields requesting user credentials or any call-to-action elements on the page. The overall design, color scheme, and typography are consistent with Telegram's official branding guidelines. The confidence level is high due to the unmistakable presence of the Telegram logo, the consistent branding elements, and the absence of conflicting brand indicators.",
+        "Url": "https://telegraimu.com/"
+    },
+    {
+        "Folder Hash": "832ab50628ca227eb01e9e8695ec04a8b4d51b28e7b1ad6cf0333f88dbd1ae85",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Shop now\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot features the Microsoft logo prominently at the top of the page, along with a search bar and other navigational elements. The main body of the page showcases a range of Microsoft products, including the Surface Laptop Go 3, Surface Pro 9, Xbox Series X, and others. Each product has a brief description and a \"Shop now\" button, which serves as a call-to-action for users to make a purchase. The overall design, layout, and branding elements are consistent with Microsoft's official website.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "c9123c75952563cb603dcfc8bac45446095c5f2c082b043f4b28730a7c8c4473",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://070124460033066.graficaaoquadrado.com.br/"
+    },
+    {
+        "Folder Hash": "e394d02c472a064c58540bba26f9a02695735f7b1bffecda5810e0698084f2a5",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://www.imobiliariacasacapixaba.com.br/firm.php"
+    }
+]

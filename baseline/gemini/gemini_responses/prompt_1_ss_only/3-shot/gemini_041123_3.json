@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "\"GET STARTED\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Netflix, a popular streaming service. Under the logo, there is a clear call-to-action to \"GET STARTED\" with a button, prompting users to initiate the sign-up process. Below this, there is a section where users can enter their email address to start the account creation process. The overall design and layout of the page, including the typography and color scheme, are consistent with Netflix's branding guidelines. There is no evidence of other brands being represented on this page, and the visual elements are sufficient to confidently identify the brand as Netflix.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Try Telegram\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Telegram logo prominently at the top center, which is the main factor in identifying the brand. This logo is a well-known trademark of Telegram, a popular messaging app. Below the logo, there is a brief explanation of the benefits of using Telegram, followed by a \"Try Telegram\" button, which serves as the call-to-action element, prompting the user to download and install the app. The design of the page is straightforward, with the Telegram branding colors and a clear focus on the call-to-action button. There is no evidence of other brands being represented on this page.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "N/A",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "N/A",
+        "List of Call-To-Actions": "\"Connect Wallet\" button",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The screenshot does not contain any logos or trademarks that would indicate the brand of the webpage. There are no fields asking for user credentials, but there is a \"Connect Wallet\" button, which suggests that the webpage may be related to cryptocurrency or blockchain technology. However, without further information, it is not possible to identify the brand of the webpage with certainty.",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"sign up\", \"Book a Demo\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot features the SurveySparrow logo prominently at the top of the page. The logo is a stylized bird with the text \"SurveySparrow\" below it. The overall design and layout of the page are consistent with SurveySparrow's branding guidelines. The presence of a \"sign up\" and \"Book a demo\" button, along with fields for entering an email address and password, indicates that the page is intended for users to create an account or schedule a demonstration of the SurveySparrow platform.",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Shop now\", \"Learn more\", \"See all offers\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Microsoft, a large technology company. Below the logo, there is a set of navigation links for different Microsoft products and services. In the center of the page is a large banner advertising the new Surface Laptop Go 3, with a prominent \"Shop now\" button. There is also a \"Learn more\" button below the banner, which provides more information about the product. Additionally, there is a \"See all offers\" button in the top-right corner of the page. The presence of these call-to-action elements indicates that the webpage is designed to encourage users to purchase the Surface Laptop Go 3 or explore other Microsoft products and services. The design of the webpage is clean and professional, with a clear focus on promoting Microsoft's products and services. There is no evidence of other brands being represented on this page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "Jek-miner",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone Number",
+        "List of Call-To-Actions": "\"Registration\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Jek-miner logo prominently at the top center, which is the main factor in identifying the brand. This logo is a stylized representation of the letter \"J\" and is accompanied by the full company name \"Jek-miner\" in stylized text. The presence of the \"Registration\" button, which is the call-to-action element, prompts the user to proceed with the action of creating an account. The webpage also includes a section labeled \"Statistics of the project\", which showcases various metrics related to the company's operations, further indicating that this is the official webpage of Jek-miner. The overall design and layout of the webpage are consistent with the branding and visual style typically associated with Jek-miner.",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f07f931e42211c4d902fed617e89c47324af573df194966b5ac1b21a0f65a2aa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"TRY 30 DAYS FREE\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Netflix logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Netflix, a large streaming service provider. Under the logo, there is a prominent section with a large image showcasing various popular TV shows and movies available on the platform, which is a typical design element of Netflix's landing page. Below this section, there is a clear call-to-action to \"TRY 30 DAYS FREE\", which is a common marketing strategy used by Netflix to attract new subscribers. Additionally, the page includes a section highlighting the benefits of using Netflix, such as watching on multiple devices and downloading shows for offline viewing, which are all key features of the service. The presence of the \"FAQ\" and \"Help Center\" links at the bottom of the page further supports the identification of the brand as Netflix.",
+        "Url": "https://sristiverma9.github.io/netfliexclone/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]

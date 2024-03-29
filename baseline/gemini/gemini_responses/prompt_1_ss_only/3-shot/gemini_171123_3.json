@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "00362691ad515c38328b22f5b071cbb3dfd5920413bce502de94bf53a4fe3d57",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"SIGN IN\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the AT&T logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of AT&T, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"SIGN IN\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the AT&T logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for AT&T services created by a different company). There is no evidence of other brands being primary on this page. The presence of the 'weebly.' at the bottom suggests that the webpage may have been created using the Weebly website-building platform, which does not necessarily affect the identification of the primary brand represented in the screenshot. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "https://att-mail-info.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "00ab91553863586ba9bcb92b132a42835c8f458387c8ed82e12997a06b2b623b",
+        "Brand": "DocuSign",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign In\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the DocuSign logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of DocuSign, a widely used e-signature platform. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign In\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the DocuSign logo and the typical login fields associated with many of its login pages. Additionally, the presence of the copyright symbol and the year 2023 along with the mention of Microsoft and DocuSign Inc. at the bottom of the page further supports the authenticity of the brand. There is no evidence of other brands being primary on this page.",
+        "Url": "https://docusign16112023docu0sign01839.s3.nl-ams.scw.cloud/docu.html"
+    },
+    {
+        "Folder Hash": "00d52b36782e8bd2e08b4acb1f9d210868e74ba616065c52a057a85ecd1131fd",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the DPD logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of DPD, a large shipping company. Below the logo, there is a tracking number field with a \"Schedule a New Delivery\" button. The page also shows a list of tracking updates, indicating that the page is designed for users to track their packages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://tracktrace.dpd.parcel.details.20-251-144-24.cprapid.com/info/update.php"
+    },
+    {
+        "Folder Hash": "018942efa16ee39476eabde8c3db30d7c53374cb602a2b33aa92b105dc077cb1",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"Sign In\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Steam logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Steam, a popular gaming platform. Under the logo, there is a sign-in form with fields for \"Username\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign In\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Steam logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://steamcorumunity.ru/gift"
+    },
+    {
+        "Folder Hash": "021bffc44c3b2ce2138f4f9a01d4061b1c5b71d13d521d737df23b3d2fb6b638",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the DPD logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of DPD, a well known logistics company. The DPD logo is accompanied by the company's full name, \"DPDgroup,\" which further confirms the brand identity. The page's main content area features a headline that reads, \"Folgen Sie meinem Paket\" (\"Track my parcel\"), which is a clear indication of the purpose of the page. Below the headline, there is a form that allows users to enter a tracking number to track their parcels. The presence of the DPD logo, company name, and the \"Folgen Sie meinem Paket\" headline, all contribute to a high level of confidence in identifying the brand.",
+        "Url": "https://verfolgen.sie.dpd.com.paketdetails.20-215-40-188.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "0335530af7d10cbdd52298135851077757a579585684c217a599be111b9a8b4d",
+        "Brand": "eBay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Register\", \"Log in\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the eBay logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of eBay, a large e-commerce platform. Below the logo, there is a text that reads \"Help merchants complete product exposure and earn commissions!\", indicating the purpose of the page is related to eBay's business. There is a \"Register\" button and a \"Log in\" button, which are calls-to-action for users to create an account or access their existing account. The presence of the United Kingdom flag icon suggests that the page is tailored for users in the United Kingdom. Additionally, the overall design and layout of the page is consistent with eBay's branding and follows the company's design guidelines.",
+        "Url": "https://ebayvips.com/index/user/login"
+    },
+    {
+        "Folder Hash": "05316322b44afe9280b5ff5d757ae51e3147804d70467e8f97da0b5b5fbaf1b8",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATOTP/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "056ba70ddf3a5f6758c9c5d7ff273a1a6cce36eef155eba0aa72c6791efe54fe",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATMAIL/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "0596e728718562ea71cc13a39ab29fd030b4eb393857c01f70ebd9e372316464",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://viralwomanmelayu.st-me.id/"
+    },
+    {
+        "Folder Hash": "05e01b51ab1ad1f60317613efe29ace689aefb237438637e91416e90827c59bc",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Mobile number or email, Password",
+        "List of Call-To-Actions": "\"Log In\" button, \"Create New Account\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Facebook logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Facebook, a large social media company. Under the logo, there is a sign-in form with fields for \"Mobile number or email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Log In\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. There is also a \"Create New Account\" button, which is a secondary call-to-action, encouraging users to create a new Facebook account if they do not already have one. The presence of the \"Forgot Password?\" link below the \"Log In\" button indicates that this is a login page, and it provides a way for users to recover their account if they have forgotten their password. The overall design and layout of the page are consistent with Facebook's official login page, with the use of Facebook's signature blue color and the familiar Facebook logo. There is no evidence of other brands being primary on this page.",
+        "Url": "https://tanjant.com/vds/cvd/beaxa/xca/?3243565453="
+    },
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the USPS logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of the United States Postal Service. Below the logo, there is a tracking number field and a \"Continue\" button. The presence of the \"Continue\" button, which is stylized with the USPS branding colors, serves as the call-to-action element. It prompts the user to proceed with the action of tracking their package. My confidence in identifying the brand is high due to the clear visibility of the USPS logo and the typical elements associated with its tracking page. There is no evidence of other brands being primary on this page.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "Members 1st",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "SIGN-IN",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Members 1st logo prominently at the top, which is the main factor in identifying the brand. This logo is a trademark of Members 1st, a financial institution. Under the logo, there is a sign-in form with fields for \"Username\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"SIGN-IN\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Members 1st logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Se connecter\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Orange logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Orange, a large telecommunications company. Under the logo, there is a sign-in form with fields for \"Adresse e-mail Orange\" and \"Mot de passe,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Se connecter\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Orange logo, but not absolute because there's always a possibility of webpage spoofing or use of the logo in a third-party context (e.g., a service portal for Orange services created by a different company). There is no evidence of other brands being primary on this page.",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "Metamask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Download\", \"Learn More\"",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Metamask logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Metamask, a popular cryptocurrency wallet. Under the logo, there is a sign-in form with fields for \"Email\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Download\" button, which serves as the primary call-to-action element, prompting the user to download the Metamask wallet. Additionally, there is a \"Learn More\" link that directs users to a page with more information about the product. The presence of the Metamask logo, the sign-in form, and the \"Download\" button strongly suggest that this is an official Metamask webpage.",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the cPanel logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of cPanel, a popular web hosting control panel. Under the logo, there is a sign-in form with fields for \"Email Address\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Log In\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the cPanel logo and the typical login fields associated with many of its login pages.",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "b152ab1f314e8508af30123e4907f67ac1657d02dca13a358679d6452c92bf2e",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tracking Number, Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the USPS logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of the United States Postal Service (USPS), a government agency responsible for postal services in the United States. Below the logo, there is a section labeled \"USPS Tracking,\" which includes fields for entering a tracking number and a \"Continue\" button. The presence of these elements indicates that the webpage is designed for users to track their packages. The overall design and layout of the webpage are consistent with the USPS website, and there is no evidence of other brands being represented on the page.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/standard-shipping/"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tracking Number, Full Name, Street Address 1, Street Address 2, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "\"Continue\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the USPS logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of the United States Postal Service (USPS), a government agency responsible for postal services in the United States. Below the logo, there is a section labeled \"USPS Tracking,\" indicating that the webpage is related to tracking USPS packages. There is a form with fields for entering the tracking number, full name, street address 1, street address 2, city, state, ZIP code, and phone number. These fields are necessary to track a package and are standard for USPS tracking. The presence of the \"Continue\" button indicates that the user can proceed with the tracking process by submitting the information. The overall design and layout of the webpage are consistent with the official USPS website, and there are no elements that suggest a different brand or service.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, email, or mobile, Password",
+        "List of Call-To-Actions": "NEXT button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Yahoo logo prominently at the top of the page, which is the main factor in identifying the brand. This logo is a well-known trademark of Yahoo, a large internet company. Below the logo, there is a sign-in form with fields for \"Username, email, or mobile\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"NEXT\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. My confidence in identifying the brand is high due to the clear visibility of the Yahoo logo and the typical login fields associated with many of its login pages. There is no evidence of other brands being primary on this page.",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

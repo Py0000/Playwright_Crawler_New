@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign in\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top of the page, which is the primary indicator of the brand. The page's title, \"Sign in,\" further reinforces the notion that this is a Microsoft login page. Beneath the title, there are fields for \"Email\" and \"Password,\" which are standard credentials required for signing into a Microsoft account. The presence of a \"Sign in\" button below these fields indicates that this is a call-to-action for users to proceed with the login process. The overall design and layout of the page are consistent with Microsoft's branding and login page conventions. There are no other logos or branding elements that suggest a different brand is represented on this page.",
+        "Url": "https://sites.google.com/amricalturs.net/download4/microsoft-office-365"
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Watch the event\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot is of the Apple website, which is a well-known brand. The page is advertising the new MacBook Pro and iMac, and there is a \"Watch the event\" button to learn more.",
+        "Url": "https://www.apple.com/uk/"
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"LIKE\", \"FOLLOW\", \"SUBSCRIBE\", \"JOIN\"",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot features the PUBG Mobile logo prominently at the top center, which is a well-known trademark of the popular battle royale game. The page showcases various in-game items and rewards, along with a prominent call-to-action encouraging users to \"JOIN THE COMMUNITY\" through social media platforms such as Facebook, Twitter, YouTube, Instagram, VK, and Discord. The overall design, imagery, and branding elements are consistent with PUBG Mobile's official marketing materials. There are no obvious signs or logos of other brands present on the screenshot.",
+        "Url": "https://pubgmobilecorporationevents.klikdisini2023.my.id/"
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "Weebly",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has the Weebly logo at the bottom, which is the main factor in identifying the brand. Weebly is a website-building platform, and this webpage appears to be a login page for a website created using Weebly. There are no fields asking for user credentials or call-to-action buttons/links.",
+        "Url": "https://mail-102784.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "8367d843344f32ddf9b77e6f2c55b26d1a7c0298d61f1348cc15bef4759e90da",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Pre-order now\" button",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top-left corner, which is the main factor in identifying the brand. This logo is a well-known trademark of Microsoft, a large technology company. Below the logo, there is a prominent \"Pre-order now\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of pre-ordering the Surface Laptop Studio. The design of the webpage is clean and professional, with a clear focus on the product being advertised. There is no evidence of other brands being primary on this page.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or Email, Password",
+        "List of Call-To-Actions": "\"CONNEXION\" button",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The screenshot displays the Instagram logo prominently at the top, which is the main factor in identifying the brand. This logo is a widely recognized trademark of Instagram, a popular photo-sharing social media platform owned by Meta. Below the logo, there is a login form with fields for \"USATEUR OU EMAIL\" (Username or Email) and \"MOT DE PASSE\" (Password), indicating that the page is asking for user credentials. Just below the credential fields is a \"CONNEXION\" button, which translates to \"LOGIN\" in English, serving as the call-to-action element prompting the user to proceed with signing into their account. The presence of the \"POWERED BY WEEBLY\" text at the bottom suggests that the webpage may have been created using the Weebly website-building platform, but this does not significantly affect the identification of Instagram as the primary brand represented in the screenshot. The overall design and layout of the login page are consistent with Instagram's official login pages.",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Buy Now\", \"Add to Cart\", \"See Details\"",
+        "Confidence Score": "9.9",
+        "Supporting Evidence": "The screenshot displays the Amazon logo prominently at the top, which is the main factor in identifying the brand. This logo is a well-known trademark of Amazon, a large e-commerce company. Below the logo, there is a search bar and a variety of products displayed in a grid format. These products have \"Buy Now\", \"Add to Cart\", and \"See Details\" buttons, which are all typical call-to-action elements on Amazon's product pages. The overall layout, typography, and style are consistent with Amazon's official website. There is no evidence of other brands being primary on this page.",
+        "Url": "https://www.amazon258.top/"
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "Mail.ru",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\"Sign in\" button",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The screenshot displays the Mail.ru logo, which is a stylized \"M\" in blue and white, prominently at the top of the login form. This logo is a well-known trademark of Mail.ru, a Russian email and internet service provider. Below the logo, there is a sign-in form with fields for \"Username\" and \"Password,\" indicating that the webpage is asking for user credentials. Just below the credential fields is a \"Sign in\" button, which serves as the call-to-action element. It prompts the user to proceed with the action of signing into their account. The design of the sign-in form is straightforward, with no additional elements that might suggest a different brand or service.",
+        "Url": "http://pub-b2955bd5cc5a447cba7f9017e8915538.r2.dev/webmail.html"
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://bitbaink.web.app/login"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    }
+]
