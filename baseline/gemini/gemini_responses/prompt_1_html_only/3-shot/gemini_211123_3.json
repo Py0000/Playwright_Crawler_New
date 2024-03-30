@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "00a3ba349a28bcde9b275ae3fc88e3664348a7d42ea9c117b81a84702477d518",
+        "Brand": "OnPoint Community Credit Union",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is explicitly identified in the title, footer, span elements, and headings of the webpage.",
+        "Url": "http://netcosecurity.com/on/online/l1.php/index.html/index.html/index.html/index.html/index.html/index.html/index.html/index.html/Genny/index.html/index.html/index.html"
+    },
+    {
+        "Folder Hash": "00d53af26a171113d0a536a4bb214d69a89e71beae2db3b1cec648ed68d6f365",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The webpage title, meta_description, favicon, footer_text, header text, and nav_bar_content all include the word \"LinkedIn\". This provides strong evidence that the brand associated with this webpage is LinkedIn.",
+        "Url": "https://www.linkedin-hiring.cc/"
+    },
+    {
+        "Folder Hash": "01bab3a0a26aa032126e394e3a1aa81c33a8d778572068cbdb0b0c3af31c8277",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided HTML script does not contain any brand-identifying information in the title, meta description, favicon, logo alt text, footer text, header text, or navigation bar content. Therefore, I cannot identify the brand of the webpage.",
+        "Url": "https://chrorusprofact.ukit.me/"
+    },
+    {
+        "Folder Hash": "03e8fa3008fff4e140e8f8d4a91affaae8bb92d6cc96a13e1861f5af61e3f2d4",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title, the logo icon, copyright text, and the navigation menu all contain the brand name \"MetaMask.\"",
+        "Url": "https://metamaskwallet-extension.ddnss.eu/FMfcgzGwHftwbwTCZZfrcHKbNNPtZzMM/bMmNwhmlgsV/7ed3b/"
+    },
+    {
+        "Folder Hash": "0437c0d70c997cc8b00d5e648d97c198d6ec858fe57a2529f0266909fc489221",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"LinkedIn\" appears multiple times in the html script. LinkedIn is the social networking site for professionals. The keywords \"LinkedIn Login, Sign in | LinkedIn\" in the title also indicate this.",
+        "Url": "http://www.smartcaretrack.gogreencloth.com/core/linkedin/index.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "043b2acf520e2a49fd646e5f243431b277540dde2b7ad530f294a3c4c54af2af",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The domain name of the URL is not provided in the HTML script, however, the favicon of the webpage is linked to a Facebook CDN (Content Delivery Network) and the logo of the webpage has \"Facebook\" in its alt text. Therefore, it is highly likely that the webpage belongs to Facebook.",
+        "Url": "https://verification-page-ads.com/hrEdX9ovD45Uh1RI4hqknuV4kxNBmPiJe77eIoBsgddj61TCRyDOdN4bpopnOBH3yyhGQQKuTshVKon7Trangdau.html"
+    },
+    {
+        "Folder Hash": "05c5b660d1fb4c3f2b0c25b15e5a2bd936d44271b6976bdc14049843afca1e91",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"Facebook\". The favicon also contains the Facebook logo, which is a blue square with a white \"f\" in the middle. The header text contains the user's name, \"Dipanjan Mukherjee\", which indicates that the user is logged into Facebook. The paragraph text also contains references to Facebook features such as \"Friends\", \"Marketplace\", and \"Groups\".",
+        "Url": "https://facebook-clone-c0j.pages.dev/"
+    },
+    {
+        "Folder Hash": "0645de78ba6dd8e84fe462785095a383cc6ed2782f9b61ba9f29827ebb1ee13f",
+        "Brand": "Banco BPM",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The title of the webpage contains the brand name \"Banco BPM\". Additionally, the footer text includes the name \"BANCO BPM GRUPPO BANCARIO\", which further supports the identification of the brand as Banco BPM.",
+        "Url": "https://youbusinessweb-bancobpm.web.app/sessionid#ba2a78ef3eaf0cffe9b76fab86c9183d"
+    },
+    {
+        "Folder Hash": "06ce081ff698c6cce724138b8cbf97adf34780f731b09e30f3d1f8c4023805e3",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's title, \"Facebook | pihak-resmi-id\", contains the brand name \"Facebook\". Additionally, the footer includes the text \"Continue Shopping\", which is commonly used on e-commerce platforms and aligns with Facebook's marketplace offerings.",
+        "Url": "https://pihak-resmi-id-105551.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "0704fbad1073d25d693587687b5a3a05f1dae8b26076216fc7d8527925bb3de2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The webpage contains the following information:",
+        "Url": "http://mexicovierificarsuspencionvalidar.royalwebhosting.net/"
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Aave\" is mentioned multiple times throughout the HTML script, including in the title, meta description, and header text. The meta description also highlights Aave's role as an open source protocol for creating liquidity markets. Furthermore, the presence of the Aave logo with alt text \"Aave\" in the HTML code further corroborates the brand identification.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "113b3081a0a4758ab03479b7df048baa59019ddd410cf06b414513f878763482",
+        "Brand": "Intuit",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The favicon, footer text, and header text all explicitly mention the brand name \"Intuit\". The footer text also includes a copyright notice for \"Intuit, Inc.\" and lists various registered trademarks owned by Intuit, including \"QuickBooks\", \"QB\", \"TurboTax\", \"ProConnect\", \"Mint\", \"Credit Karma\", and \"Mailchimp\". These pieces of evidence collectively provide strong support for the identification of the brand as Intuit.",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "140e7476ee0343f602e53a3149797c4df4621c10b964f6342a34533781adf290",
+        "Brand": "Unitens",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The title of the webpage is \"Unitens\". This is a strong indication that the brand of the webpage is Unitens. Additionally, the meta description and the favicon both include the word \"Unitens\".",
+        "Url": "https://unitensloja.site/"
+    },
+    {
+        "Folder Hash": "1609c8ef7f93c3cc34b5f6679bf8943be89d2dcb0607ea94cf3a4ff99b56ec4c",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand \"Microsoft\" is mentioned in both the title and meta description of the webpage, making the identification highly confident. Additionally, the provided favicon \"/favicon.ico\" is also commonly associated with Microsoft products and services.",
+        "Url": "https://onedrivelseeattachfile.web.app/"
+    },
+    {
+        "Folder Hash": "33932ac057385308009b54178640b8eb5fb848749a1642de0fabdcf16cc68646",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "There is no mention of any brands within the provided html script, so the brand cannot be identified",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "5e1a287812762ebd7e044d6c7a61644c4b3dc26669d9a5bf0b6de2fb92e927a2",
+        "Brand": "ID Agent",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "",
+        "Url": "https://secured.cloudsurveillance.net/0b22b244-593f-428f-883a-f0c6eccd7cc0"
+    },
+    {
+        "Folder Hash": "721a476d024a0dfd32057c312a00b60d6d2f3f751a1bb09548dcd11e9ba634aa",
+        "Brand": "Post AG",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.2",
+        "Supporting Evidence": "The brand name \"Post AG\" appears in the title of the webpage. Additionally, the favicon and logo of Post AG are included in the html script. The footer text also includes the company's hotline number, which is consistent with the information found on the Post AG website.",
+        "Url": "https://wsx.vvo.mybluehost.me/wp-admin/AGJ/LoginServices/"
+    },
+    {
+        "Folder Hash": "8ca024cdc6d763e242452e3fd44805aa1c00c159c982e8d68e9e7ceaaf1586e0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand name \"Microsoft\" appears multiple times throughout the HTML script, including in the title, header, and footer text. Additionally, the meta description mentions \"Microsoft OneDrive,\" further confirming the brand identity.",
+        "Url": "https://support.microsoft.com/en-us/office/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2"
+    },
+    {
+        "Folder Hash": "a7130332f01e2cbcfa13cec93ea1d2b256c59188e3ccdb1df21ff3aacc7e958d",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "Due to the lack of any brand-related information in the provided HTML script, I am unable to identify the brand of the webpage.",
+        "Url": "https://walletconnectpay.com/"
+    },
+    {
+        "Folder Hash": "d66c28b7d332cbcc89c9c66c1b425043f3e007ef35ee2c7285ecfe9eaa0d57ee",
+        "Brand": "BATTLEGROUNDS MOBILE INDIA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is explicitly stated in the title, meta_description, footer_text, and favicon.",
+        "Url": "https://gunk8tsbvpz.penguasa.de/"
+    }
+]

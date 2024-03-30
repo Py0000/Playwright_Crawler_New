@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "001452e821721ad748f84dba47ca746844a90fee8b096d6e9885fce51ce357ca",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is clearly identifiable from the title \"Home | AT&T Mail\". Additionally, the page's favicon is the AT&T logo.",
+        "Url": "https://att-mail-102779.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "004df95778a37661d7bacc2fff0aa386eb7a85ab66ec93fd295261dab0a20726",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand \"Microsoft\" is mentioned multiple times throughout the html script, specifically in the title, footer, and several spans. Additionally, the favicon is also the Microsoft logo.",
+        "Url": "https://pub-1ed1b230e028427395d33c685e39383e.r2.dev/passwordexpire.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "0196fd8ce2c63ec2397b14e43570be25fb7f57bab8a64fe4f360fc40f60a9e2d",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided HTML script does not contain any information that can be used to identify the brand.",
+        "Url": "https://symphonious-valkyrie-bd1391.netlify.app/"
+    },
+    {
+        "Folder Hash": "01e32770ac8443e47a10eaed58d14acd990076b65bcc9b60df53dda1f0688649",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand can be identified from the title of the webpage \"Telegram Web\".",
+        "Url": "http://www.web.tlgr.org/#/login"
+    },
+    {
+        "Folder Hash": "02d7bb888477f2fcd60ec65cc224c737656db3f05cf6a9019c0214f196d8109e",
+        "Brand": "Microsoft Office365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The brand is identified based on the title of the webpage, which clearly states \"Sign in to your Office365 account\". Additionally, the favicon also features the Microsoft logo, which further supports the identification.",
+        "Url": "https://pub-9ee42db8121548b18dd215b5524c7cba.r2.dev/drix.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "02de404bd7c2bb310cee621d9432d70167b13d7ca76caeacc31f357d4b3fc331",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand \"Telegram\" is identified from the title of the webpage which is \"Telegram Web\". Telegram is known for its messaging app service.",
+        "Url": "https://web.vwvw-telegram.com/"
+    },
+    {
+        "Folder Hash": "03d392e080e89e02e4cdb7673109e92eaf934c1ff02b607e167768889a1502de",
+        "Brand": "Meta",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand name \"Meta\" is mentioned in the webpage title, which strongly indicates the brand of the webpage. The favicon, also known as the small icon displayed in the browser tab, contains the \"Meta\" logo, further supporting the identification.",
+        "Url": "https://meta-community.link/meta-community-standard"
+    },
+    {
+        "Folder Hash": "044306bdb2b485c919c5c9db8faf6254e6e886893d47fed5d6b0cd528e3bcec4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Microsoft\" appears in the title, header, footer, logo alt text, and span text, which provides strong evidence that the webpage is related to Microsoft.",
+        "Url": "https://xlmconferences.co.za/websadmis/websadins/index.html"
+    },
+    {
+        "Folder Hash": "04fbb0dba9f4d0341ac961f66033f2623c128ad2e9f8c435b178058d3c50e5d4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "1.0",
+        "Supporting Evidence": "The brand, Microsoft, is found in the logo_alt_text, which reads \"Microsoft\". This is a strong indicator of the brand behind the webpage.",
+        "Url": "https://pub-35903f67835b403880a9b0f712822085.r2.dev/thursd.html"
+    },
+    {
+        "Folder Hash": "0522d9984f9121dabdf40dce7e6b6aa6fb8105f8f9c0d33d70843e6db09027b2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand can be identified from the `<title>` element, which includes the word \"OneDrive\" and the copyright notice in the footer, which states \"\u00a9 2017 Microsoft\". OneDrive is a file hosting and synchronization service operated by Microsoft. The favicon also points to Microsoft's server, which is a small icon associated with a webpage.",
+        "Url": "https://sriintl-my.sharepoint.us/personal/erin_rivard_sri_com/_layouts/15/guestaccess.aspx?e=5:uBJqv1&share=Ep4hK9UlHBNJm3JQEx3y5l4BfRDkJsEizYHiWNL2H8VNXw"
+    },
+    {
+        "Folder Hash": "059cafdf56fb56d6e5ae60278e19d2fee87b003e15c42864b6496ec48a09bef2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand \"Microsoft\" is stated in the logo's alt text attribute. This is a strong indication of the brand of the webpage, as the logo is a prominent visual element that typically represents the brand of the website or company. Additionally, the title of the webpage is \"Iniciar sesi\u00f3n en tu cuenta Microsoft\", which further suggests that the webpage is related to the Microsoft brand.",
+        "Url": "http://completar.3655.outlook.zya.me/login.live.com_login_verify_credentials_outlook.html?i=1"
+    },
+    {
+        "Folder Hash": "059ccb3d7deed5338ba88068862119d66ce163eabe5d9186dc437b143310daa0",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is prominently displayed in the webpage's title with \"MetaMask\" in capital letters, making it very evident.",
+        "Url": "https://mitanassk.azurewebsites.net/"
+    },
+    {
+        "Folder Hash": "1992e1de0502bdc3bcd230ee8821ff8c73c58a452234ba76f37b889055c1a7cf",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "There is no brand information found in the provided html script. The title, meta description, footer text, and header text do not contain any brand-related information. The favicon does not provide any useful information in this case as it is not a branded image. The navigation bar and paragraphs also do not provide any brand-related information.",
+        "Url": "https://mail-107095.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "1e1f183cea2f34afd55ad72514aa6792c3a2f69730571fe2482458fa73a4ca3e",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage's title clearly states \"login | AT&T\". This strongly suggests that the brand of the webpage is AT&T. Additionally, the \"Sign in\" option in the header and the presence of \"AT&T Mail\" in the paragraph further support this identification.",
+        "Url": "https://att-104300.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "2476d4fb0fe5142fa2542a61dd5c2f5c26b9ce0bede0b3c24d4e5acf5633515a",
+        "Brand": "Instagram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The provided html script contains the title of the webpage as \"Instagram\". This is a clear indication of the brand associated with the webpage. The title is one of the most prominent and important pieces of information in the html script, and it often contains the brand name or website name. In addition, the meta_description also mentions \"Instagram\", providing further confirmation of the brand identity.",
+        "Url": "https://www-instagram-com.app2.sup2.skyfencenet.com/"
+    },
+    {
+        "Folder Hash": "411145294a15999152c4aa2def8f377501ac83864034b0a2e723f6ddfa82c2f9",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://telegram.awqdui.top/"
+    },
+    {
+        "Folder Hash": "53253947b718f1871205a248af19ee1099f14944e62296d69fb0c501a7bea4d1",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The title of the webpage is \"Sign in to Outlook\". The footer text includes \"Terms & Conditions Cookie Privacy\". The paragraph contains the text \"Because you're accessing sensitive info, you need to verify your password\". All of these pieces of evidence collectively suggest that the webpage is related to Microsoft Outlook.",
+        "Url": "https://pub-f842ee8b79264a61ab09cbed614c77e6.r2.dev/link%20(4).html#"
+    },
+    {
+        "Folder Hash": "985bc75d0a8373aecca35f9e99e7ab5b59d9050da7f5faae8150e0602f7bc9f2",
+        "Brand": "BT",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The webpage's title clearly states \"BT HOME\", indicating the brand is BT.",
+        "Url": "https://bt-102768.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b19c92ddf0a58eb0af2bcdcf1ddc1ab251fee8ac674f2b75e231e21a468c81ff",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided HTML script does not contain any brand-identifying information such as a title, footer, or logo. Therefore, I cannot identify the brand associated with this webpage.",
+        "Url": "https://sign-in-att-100076.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "bf311703f6460d29eabe2a42b9bab2583e46ac2eee458f898514d95d59b93b65",
+        "Brand": "USPS",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"Edit Shipping Address | USPS\", which clearly indicates the brand name. Additionally, the favicon, logo, footer, and header texts all contain the USPS logo and branding. The webpage is also structured around USPS services and tools, further confirming the brand identity.",
+        "Url": "https://zxb.bgd.mybluehost.me/uspshome/"
+    },
+    {
+        "Folder Hash": "ed70e8e50c1b5d17b349d1b662c8e7b938a275ed9be41f15b5798762bf25b022",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is found in the title and logo.",
+        "Url": "https://tgadminuser.awqdui.top/"
+    }
+]

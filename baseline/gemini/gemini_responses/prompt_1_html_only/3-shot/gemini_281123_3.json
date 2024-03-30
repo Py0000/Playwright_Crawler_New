@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0e4582d1db1403de859a5b4265acb69e80016bb02a1a932c2580000801932fec",
+        "Brand": "Cupom-de-Desconto.com",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The brand is mentioned in the title, footer, and header text of the webpage. The favicon also includes the brand's logo. The webpage is about providing coupons and discounts for Ponto Frio, a Brazilian retailer. The webpage is not owned or operated by Ponto Frio, as indicated by the footer text, which states that the copyright belongs to Cupom-de-Desconto.com.",
+        "Url": "https://www.cupom-de-desconto.com/ponto-frio/"
+    },
+    {
+        "Folder Hash": "235172029b3d3d0e501a558bcf2cf3f782d46229dc19afca7f9ef05bc0f49a77",
+        "Brand": "Google",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The favicon associated with the webpage is from Google. This is a strong indicator that the webpage is owned by Google. Additionally, the page title imply that this is the sign in page for Google.",
+        "Url": "http://revista.unisierra.edu.mx/wp-content/themes/EB/nnhhhhhr11/nnhhhhhr1.php?main_domain=http://mail.sealhs.com"
+    },
+    {
+        "Folder Hash": "372e6116960e55286a120894035b699ce5a184bc1bcc1d4c3ac20a68f3ec4b55",
+        "Brand": "SFR Business",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.1",
+        "Supporting Evidence": "The following pieces of evidence in the HTML suggest that the brand is SFR Business:",
+        "Url": "https://www.sfrbusiness.fr/sfr-politique-de-protection-des-donnees-personnelles.html?eff_cpt=22931728&eff_pr1=**id_bat**"
+    },
+    {
+        "Folder Hash": "6012d0196d437b61def2e0d4b09b14d95c7c2ccd0b0a2651638de9249a3ec780",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The website's title, \"Microsoft \u2013 Cloud, Computers, Apps & Gaming\", clearly indicates that the brand is Microsoft. Additionally, the favicon, logo, footer text, and navigation bar all feature the Microsoft brand name or logo. The paragraphs and span text also reinforce the brand identity by mentioning Microsoft products and services.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8265aae7b50ade829d3ac265f082cbe64ce1aa752aa7cad3f3ebe8e87caf69b9",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title, logo, footer and paragraph text all contain the brand name \"Netflix\". The title of the webpage is \"Netflix\", the logo is a red and white \"N\" which is strongly associated with Netflix, the footer has the brand name in the copyright notice and the header has the brand name as well.",
+        "Url": "https://beyon-d-yadhu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "a26025419c72baf42631231b435e27ec7438f50d1d6ba41dcc918cdcc9782d23",
+        "Brand": "DHL Express",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is evident in several places within the webpage html script, including the title, footer text, favicon, logo, header text, and other text within the page. The title of the page is \"DHL EXPRESS SSA EMPLOYEE OF THE YEAR\". The footer text reads \"\u00a9 2023 DHL Express. All rights reserved.\". The favicon is a DHL logo. The logo has the DHL logo with the text \"DHL Express\" below it. The header text includes \"DHL EXPRESS SSA EMPLOYEE OF THE YEAR\". Other text within the page also mentions DHL Express, such as \"EOY 2021 WINNERS\" and \"EOY 2020 WINNERS\".",
+        "Url": "https://www.dhleoyssa.com/"
+    },
+    {
+        "Folder Hash": "aa92152333593704107b819af91676431cbdb5c445e4a9312396eaa60ee230d8",
+        "Brand": "Envaselia",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage brand can be identified as Envaselia based on several clues from the provided html script:",
+        "Url": "https://todosonsantos.com/?gclid=EAIaIQobChMI9LK_-cjiggMVBqFaBR3h8gAXEAAYAiAAEgL7z_D_BwE"
+    },
+    {
+        "Folder Hash": "ab17de4f635ba4d04d28644ddb63c3e05f7703e87ff3d75f63d904089dd92c84",
+        "Brand": "Discord",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title \"Discord | Your Place to Talk and Hang Out\" clearly indicates the brand as \"Discord\". Additionally, the meta description, favicon, and navbar content all contain the word \"Discord\". The header text also includes \"Login | Download\", which is consistent with Discord's login and download options.",
+        "Url": "http://discord.swaychat.cn/"
+    },
+    {
+        "Folder Hash": "d8f30a1d70e75a4ed32fc20171e4ae06441aa98d077b3d82b697aba57a4beff7",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Netflix\" appears multiple times in the html script, including in the title, headers, paragraphs, and nav_bar_content. Additionally, the logo_alt_text is \"Not Found\", which suggests that the logo is likely an image of the Netflix logo. This provides strong evidence that the brand associated with this webpage is Netflix.",
+        "Url": "https://shubhamsharma20061998.github.io/"
+    },
+    {
+        "Folder Hash": "d980baaf9e0647a9529eeba4cbca9738c6558edd5389f4400a70cfc1e11d903b",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Netflix\" appears multiple times throughout the HTML script, specifically in the title, footer, nav bar, and paragraphs. The favicon is also the Netflix logo, further confirming the brand identity.",
+        "Url": "https://shreeompatil.github.io/netflixmobileclone/"
+    }
+]

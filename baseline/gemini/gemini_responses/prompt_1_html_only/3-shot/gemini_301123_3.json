@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "00d8245cdb3cf11560a75398f7f320aabc1fc72ae56dfc0f4a6c481eca4307a3",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The brand is identifiable from the favicon which bears the logo of Microsoft Outlook. The favicon is a small icon associated with a particular website, and they usually contain the logo or brand mark of the website, making them an important indicator of the brand identity. In this case, the favicon clearly shows the Outlook logo, which is a registered trademark of Microsoft. Additionally, the title of the webpage is \"Outlook\", which further strengthens the association with Microsoft Outlook.",
+        "Url": "https://pub-8ff9f2b7d39f44c18425eca0f23a98b9.r2.dev/owa.html#security%40ethz.ch"
+    },
+    {
+        "Folder Hash": "0219010803323bd27d11aeff2290b47079f50718931e904dcb37c4254438d4d5",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Telegram\" is mentioned in several key locations of the webpage, including the title, header, and paragraph text. The header text is especially prominent, featuring the full name \"Telegram\u4e2d\u6587\u7248 | \u7b80\u5355 | \u79c1\u5bc6 | \u540c\u6b65 | \u5feb\u901f | \u5f3a\u5927 | \u5f00\u653e | \u5b89\u5168 | \u793e\u4ea4 | \u4e2a\u6027\u5316 | Telegram\". Furthermore, the paragraph text also includes the phrase \"Telegram\u4e2d\u6587\u6700\u65b0\u7248 | Telegram \u4e2d\u6587\u7248\", reinforcing the brand identification.",
+        "Url": "https://waw502.com/"
+    },
+    {
+        "Folder Hash": "03f38d64b313328c71c77b1e5bbd5dca0c6e5a18f8c5d0a1abbf36d5e62e42b1",
+        "Brand": "O2",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "6.0",
+        "Supporting Evidence": "",
+        "Url": "https://login.o2online.de/sso/UI/Login?cookieenabled_test=1&service=unified-web"
+    },
+    {
+        "Folder Hash": "05f3f0a9a004505a1d0214d4ccfc07c93c66f8bb2b34bfe59efe54cf4ef5de7c",
+        "Brand": "myGov",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage title, 'Sign in with myGov - myGov', clearly indicates that the brand is myGov. Additionally, the footer text, 'We acknowledge the Traditional Custodians of the lands we live on. We pay our respects to all Elders, past and present, of all Aboriginal and Torres Strait Islander nations.', is consistent with the Australian Government's myGov branding.",
+        "Url": "https://www.homeaccountau.com/las/mygov-login/"
+    },
+    {
+        "Folder Hash": "065db6158190513f168076463c6a38bb64b1a1fc669964b918c8280dbf7d44ef",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The favicon of the webpage is the logo of DHL. Additionally, DHL is the only brand mentioned in the html script. The paragraph text also contains the string \"Your tracking number\", which is commonly used by logistics companies like DHL. Lastly, the copyright information at the bottom of the footer contains \"@ 2022 Deutsche Post AG - All rights reserved\". Deutsche Post AG is the parent company of DHL.",
+        "Url": "https://package.dittugarments.com/public/mjOfBj69BBa3Tk4AvbQreARG4ImFnQE6"
+    },
+    {
+        "Folder Hash": "08dbd1fe32c1808e7b8634d36c3bc248a9549b994328ccade7ec7580f6d28a06",
+        "Brand": "DCU",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The brand is identified from the title of the webpage, which is \"DCU Online - Login\". DCU stands for Digital Federal Credit Union, which is further confirmed by the footer text \"\u00a9 2022 Digital Federal Credit Union \u00a0 | \u00a0 v1.114.14\".",
+        "Url": "http://dcu-auth.bup.net/dcu/"
+    },
+    {
+        "Folder Hash": "097dc9db025c800cc3bf5c63c79a01981c15a64889e2c927f8e13c77d83d6b16",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "No brand information was found within the provided HTML script.",
+        "Url": "http://buttery-sore-revolve.glitch.me/log.html"
+    },
+    {
+        "Folder Hash": "0afa2a8eb4ca3a3aa2982212463bef9181cf6658b53b70efe9cb4c65d6524ca4",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title, meta description, header text all clearly states \"WhatsApp\". This strongly indicates that the brand of the webpage is WhatsApp.",
+        "Url": "https://polert.xyz/52Lp/whatsapp.html"
+    },
+    {
+        "Folder Hash": "0b737c7e8f92273f5ad7c9ba132c4bc9463e7c6894fa5659122ac28fd1f5dec8",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided HTML script does not contain any brand-identifying information in the title, meta description, favicon, logo alt text, footer text, header text, or navigation bar content. Therefore, the brand of the webpage cannot be identified.",
+        "Url": "https://sgsecunet.com/691445964a4d606df52621f811811b56baef1da6689490be3c4c25a86af99f4e84c67ddff90c46b84436a69894e2f799/"
+    },
+    {
+        "Folder Hash": "0b886f8ff0be94ae4de4084fd164835dfe62b164ede278e7dff011104fe2deef",
+        "Brand": "Travis Credit Union",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand information is found in the footer section. It states \"Travis Credit Union is federally insured by the National Credit Union Administration.\" Additionally, the favicon is also branded with \"Traviscu\".",
+        "Url": "https://qatarpharmaonline.com/traviscu/error.php?cmd=_account-details&session=92b20e6759d333f5d6f30d85490ea6a3&dispatch=3e065c2d52e475a1454804aa2fab881a628e2d65"
+    },
+    {
+        "Folder Hash": "0c6cdf65f3a54872a8645d6981048dd06f994e84199a219301a73387b6952740",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is \"Facebook\" because the title of the webpage is \"Facebook\". The favicon of the webpage is also from \"Facebook\"(https://static.xx.fbcdn.net/rsrc.php/yW/r/sSd2lSvsUM4.ico).",
+        "Url": "https://meta-account-setting.com/"
+    },
+    {
+        "Folder Hash": "11a58351b0b0c1ae68e1675f31ac5531f4e94511384c4ee26b0edede65bef2ae",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title, header, and footer all contain the brand name \"Netflix\". The favicon is also the Netflix logo.",
+        "Url": "https://crazew.github.io/simply/"
+    },
+    {
+        "Folder Hash": "1e0f39c1715d2002bfbb33bd3895276fec0827a2185710ef756477d9be67d588",
+        "Brand": "Stake",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "",
+        "Url": "https://playstakecom.web.app/"
+    },
+    {
+        "Folder Hash": "2c6d6ea5b4d25c0b56b452c33cae300793881b4de0086ece59ea7a62eaa07eb8",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"Netflix India\" and the favicon is the Netflix logo, these are very strong indicators of the brand. Additionally, the footer text includes the Netflix logo and the copyright notice states that the copyright is held by Netflix.",
+        "Url": "https://09ta.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "3bd85627c716e638b3fae2ef502f2d12379d065d247e19d30dc2764ca1b0e0e2",
+        "Brand": "PUBG MOBILE",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name is found in the webpage title, favicon, and footer text. The footer text also includes the copyright information for Krafton and Proxima Beta.",
+        "Url": "https://bey.help-page-reviev.my.id/"
+    },
+    {
+        "Folder Hash": "49ab6cb01928dfd2e0a8bb6a4ed49d5039c3c67cb1687484305d38a7134b29fe",
+        "Brand": "PUBG MOBILE",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is easily identifiable from the webpage's title, which clearly states \"PUBG MOBILE EVENT\". Additionally, the provided favicon is the logo of PUBG MOBILE, which further confirms the brand identity.",
+        "Url": "https://ha33.krafton-news.com/"
+    },
+    {
+        "Folder Hash": "51fa830e14d1dc51ccef9415d4f3f0358b0ad7293c262429376c6f84b91d7248",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The brand name \"Netflix\" is prominently mentioned in various sections of the HTML script, including the title, footer text, and header text. Additionally, the favicon is also associated with the Netflix brand and is commonly used to represent the company. The appearance of the Netflix logo and branding throughout the script strongly suggests that the webpage is associated with Netflix.",
+        "Url": "https://shrestha-tripathi.github.io/netflix-html-clone/"
+    },
+    {
+        "Folder Hash": "593f990c7292a4fc2915f5fc05ac50c2f97a4d7ae96efd4b022bfbd48412e105",
+        "Brand": "Bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The brand is identifiable from the title, which clearly says \"Bet365\". The title is usually a good indicator of the brand, and in this case, it is the only piece of information available that provides a clear indication of the brand.",
+        "Url": "http://19960721.com/"
+    },
+    {
+        "Folder Hash": "8292dd540a9633426a81fb85249f8ada78cc34cff3874d7b01b25946cd938349",
+        "Brand": "GBWhatsApp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is mentioned numerous times in the html script. Specifically, it is found in the title, meta description, header text, footer text, nav bar content, paragraphs text, and span text. The title of the webpage is \"GB WhatsApp Download | GBWhatsApp Apk Update 2023\". The meta description reads \"Stay updated with GB WhatsApp download & updates. Personalize your experience with download GBWhatsApp Apk for an enhanced messaging.\" The header text includes \"GBWhatsApp \u2013 GB WhatsApp apk download update\" and \"GB WhatsApp\". The footer text simply says \"All rights reserved to GBWhatsApp \u00a9 2023\". The nav bar content includes \"GB WhatsApp Website Pages\". The paragraphs text mentions \"GB WhatsApp\" multiple times. The span text also includes \"GBWhatsApp\" several times.",
+        "Url": "https://gbwhats.in/"
+    },
+    {
+        "Folder Hash": "8fc80c306751cc61ba1d29b890f14e147914e2cfe4f73919ef2b046571847a68",
+        "Brand": "DPD",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand name is mentioned in the title, footer, and logo. The favicon also contains the brand's logo. The website's content is also related to the brand's services, such as shipping and tracking packages.",
+        "Url": "https://neu.planen.lieferung.4-235-113-82.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "974e84c16ee32ec67387d7f4a9d965592681486393150f23b299ae0037ce7cb0",
+        "Brand": "Banco Ita\u00fa",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The title of the webpage is \"Banco Ita\u00fa | Feito para voc\u00ea\", which clearly indicates that the brand is Banco Ita\u00fa. Additionally, the footer text \"Qual a ag\u00eancia Ita\u00fa mais pr\u00f3xima?\" and the logo of Banco Ita\u00fa further support this identification.",
+        "Url": "https://rafael3590.github.io/"
+    }
+]

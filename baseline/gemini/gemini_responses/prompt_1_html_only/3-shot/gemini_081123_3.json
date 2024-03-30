@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0ce809619a352bbbb3017df602856ecec7a30bd18bb209bdff07283959ae02bb",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "No branding information can be found from the given information.",
+        "Url": "https://dtv-ar.com.es/home.php"
+    },
+    {
+        "Folder Hash": "165fc268d6180931118405d7c487b93351dd23b9cb1899e4b01b095b5628d49a",
+        "Brand": "RedSilver",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The brand name is mentioned in several places in the HTML script, including the title (\"RedSilver\"), the footer text (\"Panelas RedSilver \u00ae\"), and the logo alt text (\"RedSilver\"). Additionally, the nav bar content includes \"RedSilver\" in the brand name.",
+        "Url": "https://www.redsilveroficiall.com.br/"
+    },
+    {
+        "Folder Hash": "46eb9a95352f49cb2c7e836a3a37cedf6d29cbcb7a2cd1448a71123ba4853620",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"Garena Free Fire Membership\", and the favicon is the logo of Garena Free Fire. The footer text is also missing, which is common for Garena Free Fire webpages.",
+        "Url": "https://www.ff.membes.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c5972f617f3c3dff4464ed7e8a77f4b9f285dcb1ad66dafee8b2e2594e08d2c",
+        "Brand": "WebClient",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The brand name \"WebClient\" is explicitly mentioned in both the page title (\"WebClient\") and the header (\"WebClient\"). \"WebClient\" is also visible in the text of the page (\"Powered by  \u00a9\\n      \\n       2023\"), providing further confirmation. The lack of other potentially conflicting branding elements lends further support to this identification.",
+        "Url": "https://eirz7.sa.com/.xl/alldoman/genWeb/genWeb/webmail/?client_id=tPWxE3ynQb4qhed6lFzHuV&redirect_uri=https%3A%2F%2Fwww.%2F&protectedtoken=false&id=&Country=NL&x=&i=others"
+    },
+    {
+        "Folder Hash": "703fe3dcac2231cdd9de7b2f0fb1d7c86d32edcb5fa159ba2d3853fed1e71696",
+        "Brand": "DPD",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"DPD\" is found multiple times: in the title, meta_description, favicon, footer_text, headers_text, span_text. The confidence score is 10.0 because the brand name is found in various places of the html script.",
+        "Url": "https://ecard.com.eg/de_dpd7859/"
+    },
+    {
+        "Folder Hash": "75da1e9b363b48a69f858b885d2a9dcb610fe67fd7a9ac9c6a98be294e5cd921",
+        "Brand": "Intuit",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The webpage's title includes \"Intuit Accounts - Sign In\". The favicon is \"https://plugin.intuitcdn.net/shell-service/intuit_favicon.ico\". The footer text includes \"\u00a9 2023 Intuit, Inc.\". The header text includes \"Use your Intuit Account to sign in.\" These pieces of evidence suggest that the brand of the webpage is Intuit.",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "89891a51098ad4bb158df18ac41be398d76bdc7c7a1e6b6a25aa0402ab8137d6",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided HTML script does not contain any information that can be used to identify the brand. There is no brand name in the title, meta description, favicon, logo, footer, header, nav bar content, paragraphs, or span text.",
+        "Url": "http://ls360.org/function/uploadfile/20220412/20220412000328_60888.html?err=MPVL0DGO4CXHVYHFL5L&err=MPVL0DGO4CXHVYHFL5L&dispatch=1Ab&id=9ab8BA6464964b06c71BA97B586c03"
+    },
+    {
+        "Folder Hash": "b9480bcd0115c6462abe990004bfaed41ad25401e19b9a421928604de6481533",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.3",
+        "Supporting Evidence": "The brand name is mentioned in the webpage's title, footer, header, and navigation bar. Additionally, the favicon is the Netflix logo.",
+        "Url": "https://adithyan12789.github.io/Netflix.github.io/"
+    },
+    {
+        "Folder Hash": "fa8f2a9abf0de550ded33072654f57b597cd63df79da7ff0585c3db339151ec0",
+        "Brand": "BTN Mobile Banking",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The website's title, \"Login | BTN Mobile Banking,\" indicates that it is a login page for a mobile banking service. The meta description also mentions \"BTN Mobile Banking,\" and the footer text includes \"PT Bank Tabungan Negara (Persero) Tbk,\" which is the full name of BTN Mobile Banking. Additionally, the favicon image is the BTN Mobile Banking logo.",
+        "Url": "https://contoh-btn11.resmi-id.art/"
+    },
+    {
+        "Folder Hash": "ff9f690d6ed31ac6b0d3fcb379ab4a1ad10ddbb57b0a19a351cb02b1231c6dd0",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is mentioned in the title, header, and logo. Additionally, the footer does not contain any other branding which further increases the confidence score.",
+        "Url": "http://support.768684333.kamnya.net/help/contact/9417940251527349"
+    }
+]

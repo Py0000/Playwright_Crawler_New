@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title is \"Microsoft office 365\" which is a product of Microsoft. Additionally, the favicon is the logo of Microsoft.",
+        "Url": "https://sites.google.com/amricalturs.net/download4/microsoft-office-365"
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand can be found in multiple key areas of the webpage. The brand name \"Apple\" is present in the title and nav-bar as well as footer text. The Apple logo with the company name \"Apple\" is also present.",
+        "Url": "https://www.apple.com/uk/"
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The favicon (https://www.pubgmobile.com/images/event/home/pubg_icon.png) of the webpage is the logo of PUBG. The footer text also includes \"\u00a9 2022 KRAFTON, Inc. All rights reserved.\" which is the developer of PUBG.",
+        "Url": "https://pubgmobilecorporationevents.klikdisini2023.my.id/"
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The brand Weebly can be identified  from the information provided. The webpage has a favicon from Weebly which is \"https://www.weebly.com/favicon.ico\".",
+        "Url": "https://mail-102784.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "8367d843344f32ddf9b77e6f2c55b26d1a7c0298d61f1348cc15bef4759e90da",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's title, favicon, logo, footer, and header all prominently feature the Microsoft brand name. The metadata description also mentions \"Explore Microsoft products and services for your home or business.\" Additionally, the footer includes a copyright notice for \"\u00a9 Microsoft 2023.\"",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "There is no clear indication of a brand from the provided HTML script. The title, meta_description, favicon, logo_alt_text, footer_text, headers_text, nav_bar_content, paragraphs_text, and span_text do not contain any identifiable brand information.",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"Amazon\". The webpage is about luxury goods trading. The favicon is the logo of Amazon. The footer text is not found, but the header text includes the company name \"Amazon\". The nav bar content includes links to \"Home\", \"Cayegory\", \"Cart\", \"My\", \"Orders\", and \"Home\". The paragraphs text includes the name \"Amazon\". Overall, the evidence strongly suggests that the webpage brand is Amazon.",
+        "Url": "https://www.amazon258.top/"
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "There is no evidence available in the provided HTML script that can be used to identify the brand of the webpage. All the key information (title, meta_description, favicon, logo_alt_text, footer_text, headers_text, nav_bar_content, paragraphs_text, and span_text) are reported as \"Not Found\". Therefore, it is not possible to determine the brand of the webpage based on the provided information.",
+        "Url": "http://pub-b2955bd5cc5a447cba7f9017e8915538.r2.dev/webmail.html"
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "bitbank",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The brand name \"bitbank\" is found in the title of the webpage, which is the most prominent and reliable indicator of a brand's identity. Additionally, the favicon, which represents the brand's visual identity, also contains the \"bitbank\" logo. Together, these elements provide strong evidence that the webpage belongs to the brand \"bitbank.\"",
+        "Url": "https://bitbaink.web.app/login"
+    },
+    {
+        "Folder Hash": "df89e9acbfef632e31d1b67165fc84a14f01ee4a6f6dc8aaaa1d4cb28746b9a3",
+        "Brand": "Axis Bank",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is clearly identified in multiple places within the HTML script. The title of the webpage is \"MY ZONE Axis Bank Credit Card\" and the footer text includes \"\u00a9 Axis Bank 2023 | Powered by PoshVine\". Additionally, the favicon is the Axis Bank logo and the logo_alt_text is \"Not Found\", which is also the name of the Axis Bank logo.",
+        "Url": "https://www.axisbankbenefits.com/myzone/"
+    }
+]

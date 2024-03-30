@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "002d11ef2b0ae2ad18243d649760709de8652dc07481e8112564690cad169e15",
+        "Brand": "Mail Server Authenticator",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The brand name is found in the copyright text in the footer of the webpage. The footer text reads `\u00a9 2023 Mail Server Authenticator`. The paragraph texts also mention \"Mail Server Validation\" and \"Secure Document Sharing\", which are related to the services offered by Mail Server Authenticator.",
+        "Url": "https://pub-b2f9e0b08962435fb4d4fd47fd9dc138.r2.dev/glki.html"
+    },
+    {
+        "Folder Hash": "00b494a44f95331d6bb0b73d21cc33a3735abf25d66a520f40e76440bdd6508e",
+        "Brand": "Coinbase",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Coinbase\" is explicitly mentioned in the provided HTML script within the `span` element's text content:  \"Coinbase\u00a0wallet | Get Coinbase Wallet | Store all your crypto and NFTs in one place | Trade 500+ assets on DEXes and earn interest | No Coinbase account required\".",
+        "Url": "https://www.cryptoproving.top/?agentIdentify=79fac605-132a-4f93-bb24-644624fcff17&walletId=1&walletTemplateId=0#/"
+    },
+    {
+        "Folder Hash": "00d2b23f812dedd6baca4311ac6336ccf31594cdb8c161cf3f0d0dbdeba99b61",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title is \"\u041c\u0415\u0422\u0410\u041c\u0410SK\". The favicon is an image with the text \"MetaMask\" on it. The footer text and nav_bar_content also include the brand name \"MetaMask\".",
+        "Url": "https://metamask-verification.ddnss.eu/0x789DQSD7Q9SDUQSUIY/kjlfhqsdhmfjhqkdhqsd/c5888/"
+    },
+    {
+        "Folder Hash": "012610cde3f14525a56b93993bcbfd3d13ff8825a89becf4867a66ee67362999",
+        "Brand": "\ud558\uc774\uc6cd\uc2a4 \uc624\ud53c\uc2a4",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"\ud558\uc774\uc6cd\uc2a4 \uc624\ud53c\uc2a4\", which clearly indicates the brand of the webpage. No other brand information can be found in the provided html script, but the title alone is sufficient to identify the brand with high confidence.",
+        "Url": "https://meeny.com/spic/a.htm"
+    },
+    {
+        "Folder Hash": "0163e27f46dc40feaae6d5915d74440a05668658686e5e20235d9743c363c108",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided information from the html script does not contain any clear indication of the webpage's brand. The title, meta description, favicon, logo, footer, headers, nav bar contents, and paragraphs do not mention any specific brand. Therefore, I am unable to identify the brand of the webpage and must respond with NA.",
+        "Url": "https://itsuppports.com/?sc=63c6a5be-18e0-448c-b3a9-f91803bf9bf4&t=0f03966b-ef5b-476e-8495-b2c862123844"
+    },
+    {
+        "Folder Hash": "01e3da66041e077edfd50fd368f90ad4cea27460c07c87bb7efe718a4fe10655",
+        "Brand": "Kakao",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is identified from the title, footer and span text. The title of the webpage is \"Kakao Account\", the footer copyright belongs to \"Kakao Corp\" and the span text also contains the brand name \"Kakao\". All these evidence from different parts of the html script strongly suggest that the brand of the webpage is Kakao.",
+        "Url": "https://kakao-signin.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "021a749f0dded2e26d637f20d0e5e7d3c828f322aebb7418cd043f43fa5d4b3c",
+        "Brand": "WeTransfer",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"WeTransfer\" is explicitly mentioned in the title, meta description, and logo alt text of the webpage. These are the most prominent and reliable indicators of the brand's identity.",
+        "Url": "https://bafybeidwaf674yr5lzvlej54on2q3hh25xss5yrkit4a5i55bhwwzfxegm.ipfs.cf-ipfs.com/newfile.html"
+    },
+    {
+        "Folder Hash": "02b6b7f02e63ca0dd074f4dbe1c9c73797dc83da5b05bd8f7ca240b910ce7644",
+        "Brand": "Adobe",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "6.0",
+        "Supporting Evidence": "The webpage's title, \"Adobe-PDF Online\", indicates that it is related to Adobe. Additionally, the span text mentions \"Secured Adobe File Verification\" and \"Adobe PDF Online\", further supporting the connection to Adobe. However, there is limited information available in the provided script, such as a favicon or logo, to conclusively confirm the brand.",
+        "Url": "http://bafybeibe5v6ozaod4og5zu6o7kuxd7h7kflzlevtqbkagdx7hopcpwhcha.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "03f91b21193a69afb00e9ba21cc8c641530c197ec3c268a90f826bbd53e172c4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The title of the webpage is \"Microsoft | Login\", which strongly suggests that the brand is Microsoft. Additionally, the favicon, which is a small icon associated with a website, is the Microsoft logo. These two pieces of evidence together provide strong support for the conclusion that the brand is Microsoft.",
+        "Url": "https://it-support.care/render-template/?csu=ntHHnaGn&status_id=n"
+    },
+    {
+        "Folder Hash": "04625c972498b038bdf78caa57295b064181342ddc3a7294eb85c49456cc94ae",
+        "Brand": "Juno",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand of the webpage is Juno as the title of the webpage is \"Juno\". This is a strong indication of the brand as the title of a webpage often reflects the brand name.",
+        "Url": "https://juniurno.weebly.com/"
+    },
+    {
+        "Folder Hash": "047f37389b12ad02c3088b183e9125d9281d2fb4446149e5106f416ae2a46f4b",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided HTML script doesn't contain any brand-identifiable information. The title, meta description, favicon, logo, footer, header, and navigation bar content are all missing or empty. Without any specific brand indicators, it's not possible to determine the brand associated with this webpage.",
+        "Url": "http://dmiagrp.com/wi/"
+    },
+    {
+        "Folder Hash": "04a3f87dffb3198c568b02ff416ab8c5377827b0d633725c67d43d5870cd4cc2",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.5",
+        "Supporting Evidence": "The brand \"Weebly\" can be identified from the favicon URL, which includes \"www.weebly.com\". This indicates that the webpage is likely associated with Weebly, a website builder and hosting platform.",
+        "Url": "https://home-105741.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "4d260a8916fa7bf2d0e3bbc31d6a298e8fae35d211d48bc7680db8d896a4d54f",
+        "Brand": "Correos de M\u00e9xico",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand is clearly identified in the title of the webpage which is \"Correos de M\u00e9xico\". The favicon is also a logo of Correos de M\u00e9xico. The headers text also contains \"Correos de M\u00e9xico\".",
+        "Url": "http://midasmap.uaslp.mx/midasmap/vendor/league/flysystem/src/acces/payxm/logmx/mxcor/portal/20232723-50QTR41861547UID_25012021-QTR-id_url.html=db6d89641d148fc10a4465080ff0933d75/"
+    },
+    {
+        "Folder Hash": "529576da61ace61d0b21a5c79b16af9635a5b4516399786999bd55d0e581b1d7",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The title of the webpage is \"facebook\". This strongly suggests that the brand is Facebook. Additionally, the favicon is the Facebook logo. This further supports the conclusion that the brand is Facebook.",
+        "Url": "https://facebook-ewww.pages.net.br/"
+    },
+    {
+        "Folder Hash": "613ce80e7a9715a041d192008d5316f13917a2221c57ac75b3c61a3457311dc7",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"Facebook\". This is a strong indicator that the brand of the webpage is Facebook. Additionally, the favicon of the webpage is the Facebook logo. This is another strong indicator that the brand of the webpage is Facebook. The footer text also includes \"Meta \u00a9 2023\", which is the parent company of Facebook. This further confirms that the brand of the webpage is Facebook.",
+        "Url": "https://enggg.pages.net.br/mn"
+    },
+    {
+        "Folder Hash": "8ba3e2dd2bcfe19372d8baa4cb436907deff2324ba932b20a33e03e7e834eae3",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided HTML script contains insufficient or non-descriptive information that could be used to identify the brand of the webpage. The title, meta description, headers, footer, and navigation bar sections are all empty or missing, and there are no visible logos or branding elements present in the script. Therefore, I am unable to determine the brand of the webpage.",
+        "Url": "https://bafybeicm43px6o27r5emoydd7gf3xc6wj6ryisdbezzpglg6mqszrpgswa.ipfs.dweb.link/"
+    },
+    {
+        "Folder Hash": "b5a7a6d49a07d61e8a7b5ec298876dee232da785d889da5757e664eab82c9d10",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "I am unable to identify the brand based on the provided information. The webpage lacks identifying information such as a title, meta description, favicon, logo, footer text, header text, navigation bar content, paragraphs, and span text. This lack of information prevents me from confidently identifying the brand associated with the webpage.",
+        "Url": "https://cropping-felicitations.click/"
+    },
+    {
+        "Folder Hash": "be2af9d85a6464aa6a7add1b0849e35e587251459bb5e68e61793c9856cbed9c",
+        "Brand": "Orange",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.5",
+        "Supporting Evidence": "The footer text contains \"Indiquez votre compte Orange\" (Indicate your Orange account), which clearly indicates that the webpage is related to the Orange brand.",
+        "Url": "http://site9611906.92.webydo.com/"
+    },
+    {
+        "Folder Hash": "c5ec3997918ae64a1bb52a528a435512da567651017a457f7e724a209b7b343a",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "No brand information is available on this webpage.",
+        "Url": "https://pub-e9643f0215594ce393fcc20bae6a69b0.r2.dev/index.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "ca01d76f887d9244a7db78b192ea9aa73c8fad66d2bf0afe5022ced99e185810",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is identified from the following information:",
+        "Url": "http://sencommune.com/ope/xon0qpjg3iils652ku7c1i1o.php?secure"
+    },
+    {
+        "Folder Hash": "d390545ea6ce0b5fe699bfcd33af0b7b32bfd8c578d7cdf67f552239d17472a3",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://auta-konarski.pl/authorize.php"
+    }
+]

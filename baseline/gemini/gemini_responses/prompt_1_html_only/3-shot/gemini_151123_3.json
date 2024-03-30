@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0024f4f820986baf09640fdb8c6eb7fa7ffed3d672f17ea9151c2fcb1d0ea97d",
+        "Brand": "Premier Catering AZ",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is clearly named in the title, logo alt text, header, footer and throughout the webpage.",
+        "Url": "http://www.premiercateringaz.com/"
+    },
+    {
+        "Folder Hash": "0041e447da8abe1b0df35718352e1a70fbd5bfe6ba82191af06aae819c0c641a",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title, the header text and the footer text all contain the word \"Netflix\". The footer also provides a customer service phone number for Netflix (000-800-040-1843).",
+        "Url": "https://harshityadav19.github.io/task1/"
+    },
+    {
+        "Folder Hash": "0085110afdb1ee98c47ce323723b178b877dbe37f5a2e135725d56b553137caa",
+        "Brand": "eBay",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand name \"eBay\" is explicitly mentioned in the title of the webpage, and even appears multiple times throughout other parts of the html script, such as the paragraph section. This strongly suggests that the webpage is related to the eBay brand.",
+        "Url": "https://shopmarket.vip/"
+    },
+    {
+        "Folder Hash": "0189b82283393a7895458ab5f9a964aed91b980e51fb3b345a5695b226fcca33",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand, Microsoft, is prominently mentioned in multiple places on the webpage, including the footer text, nav bar content, and paragraphs. The footer text also includes the copyright symbol, indicating Microsoft's ownership of the page. The absence of other logos, icons, or branding elements further corroborates the conclusion that the webpage belongs to Microsoft.",
+        "Url": "https://lawyerzouyang-1322273052.cos.sa-saopaulo.myqcloud.com/lawyerzouyang.html?e=peter@braunlinen.com"
+    },
+    {
+        "Folder Hash": "01c3a0196436a50bca79b0f22e742c9554aae4cdb0d440d9062abbd66ee99599",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "None of the provided HTML elements contain any information that can be used to identify the brand. The title, meta description, favicon, logo alt text, footer text, headers text, nav bar content, paragraphs text, and span text are all either empty or not provided in the given information.",
+        "Url": "https://regional-revitalization-film.tw/wp-content/plugins/TOPXOH/tt/tls/xd/zd/clients/index.php"
+    },
+    {
+        "Folder Hash": "028132cd6749d76182099b624f7df3ef9f43caf6b1c1389cec02d23a8a520e49",
+        "Brand": "Instagram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title is \"Instagram\", which is a major clue to the brand that own this webpage. The footer text also includes \"Instagram from Meta\". All these information clearly shows that this webpage belongs to the \"Instagram\" brand.",
+        "Url": "https://instagramreset.pages.dev/"
+    },
+    {
+        "Folder Hash": "02f8920c2f3d6da28a385ac3dcc23343df18fbfcad85ce274de01a102c2e6ca5",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage brand can be identified based on several indicators. Primarily, the title \"Garena Free Fire. Best survival Battle Royale on mobile!\" explicitly mentions the brand name. Furthermore, the meta description reads, \"Free Fire is a multiplayer battle royale mobile game, developed and published by Garena for Android and iOS.\" The copyright notice in the footer also states, \"Copyright \u00a9 Garena Online,\" clearly identifying the brand. Additionally, the favicon includes the \"Free Fire\" logo, reinforcing the brand's presence.",
+        "Url": "https://garena-event-9364.real5.biz.id/id/"
+    },
+    {
+        "Folder Hash": "0338089e6e1b4ca184c743b23f921749fb9b42bf826bb912a423ef81c73f28cb",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The favicon of the webpage is the Telegram logo with the image file URL containing the domain \"telegram.org\". This strongly indicates that the brand of the webpage is Telegram.",
+        "Url": "https://viral-cambodia02.lopaking.my.id/"
+    },
+    {
+        "Folder Hash": "05cc6d1ac09d9d56e138b7eba7cb4b2fa190505ab262b39ff8321e190b9a857f",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"WhatsApp\", which is the name of a popular messaging app. The title of a webpage often indicates the brand of the page. In this case, the title of the page is \"WhatsApp\", which indicates that the brand of the page is WhatsApp.",
+        "Url": "http://wh9.whaiofi.com/"
+    },
+    {
+        "Folder Hash": "0660dbfb3344d0993a95db9444da6aa9ec77a5ad200d89031dffd65166c438b2",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "1.0",
+        "Supporting Evidence": "There is no brand related information found in the html script.",
+        "Url": "https://tenkeyoho.site/index.html"
+    },
+    {
+        "Folder Hash": "2dbf238d5fc29b9f4f6231779c8763e7b11ec5e86d70f25a01cf5870a5adab6f",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "I cannot identify the page from the given meta, title, logo or any other characteristics in the context.",
+        "Url": "https://suport.ie/?r=1eebd962-5d33-4d66-b53e-4a886d93c3ac"
+    },
+    {
+        "Folder Hash": "31438978abbbd0b364a03e0713e9daacebd74f30b31d70f8ee1ce716e0de4cc8",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.5",
+        "Supporting Evidence": "The favicon of the page is of Microsoft Office Outlook, which is a well-known email service provided by Microsoft. The page also contains text that mentions \"Outlook\" and \"Microsoft\", further confirming the brand.",
+        "Url": "https://pub-391af5f3d76c44fcb953d65711104ee2.r2.dev/Authowaba.htm?/sha"
+    },
+    {
+        "Folder Hash": "321a55a6449593f3738366f854b764b7412bdf1b62dac68c87c530ac4a3722b8",
+        "Brand": "GOV.UK Insolvency Service",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "",
+        "Url": "https://bankruptcy-form-fn-prod-ods.insolvency-development.co.uk/"
+    },
+    {
+        "Folder Hash": "34a95ea45ccd398070cb0ad4c0ae62c3a79c8f828064eb914f1280e8c7d9d4cd",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The favicon's URL belongs to Facebook's CDN and the favicon itself is Facebook's logo. The page title is \"Request Review\" which aligns with Facebook's process for reviewing user accounts.",
+        "Url": "http://page-warring-318358.8799269.com/"
+    },
+    {
+        "Folder Hash": "6a37ba06939bb2395534b3540628296007658f9b86517a4f6bf89ad985377701",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"Sign in to Outlook\", the favicon is the Outlook logo, and the footer text includes \"Terms & Conditions\" and \"Cookie Privacy\", which are both associated with Microsoft Outlook. The nav bar contains links to \"Use another account\", \"Check at https://aka.ms/mfasetup\", and \"Request wasn't sent\", which are all related to Microsoft Outlook. Additionally, the text \"You didn't enter the expected verification code. Please try again.\" suggests that the user is attempting to sign in to their Outlook account.",
+        "Url": "https://pub-929b3c4e3df4477c985486552747b9a8.r2.dev/link%20(27).html#thenson@centralconstructiongroup.net"
+    },
+    {
+        "Folder Hash": "a5830f9b2ae483611f8f09a20715f16f1168e20ed8065874573fe4d3738a32e5",
+        "Brand": "Zimbra",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.85",
+        "Supporting Evidence": "The brand name, \"Zimbra\", is present in both the title and the meta description of the webpage. Additionally, the meta description mentions the company's website, \"https://www.zimbra.com\", which further supports the identification of Zimbra as the brand of the webpage.",
+        "Url": "http://zimbraquotarenew.x24hr.com/"
+    },
+    {
+        "Folder Hash": "bc9efafc69c4604bab0987861231229e30a9b3cb49f9cf0760f3d6c577992bd2",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage is \"Bei Facebook anmelden | Facebook\". The favicon is the Facebook logo. The headers_text is \"Facebook\". These are all strong indicators that the brand of the webpage is Facebook.",
+        "Url": "https://hbirds.com.au/wp-admin/maint/facebook/"
+    },
+    {
+        "Folder Hash": "c1064a35df3f15f6f0fd4e8bbe48ed3abed801d4c9c288391c8bdeddef498745",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is clearly identified in multiple areas of the HTML script, including the title, meta description, headers, and logo alt text. The footer and nav bar content are not provided, but the other information is sufficient to confidently identify the brand as AT&T.",
+        "Url": "https://keepo.io/login_page/"
+    },
+    {
+        "Folder Hash": "d2ab28be4112521aa02087e1c78892ec53c35a3cb142ea27047fd9a46133fb26",
+        "Brand": "Steam",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10",
+        "Supporting Evidence": "The brand is clearly indicated in the title of the webpage, which is \"\u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e Steam\". Additionally, the logo_alt_text, nav_bar_content, and paragraph text all further support the identification of the brand as Steam.",
+        "Url": "http://stemapoveredi.webservis.ru/"
+    },
+    {
+        "Folder Hash": "f61e9099cc7afaf4778f046c6726165a7486dbdb995d107d55ea939d8305ad0c",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "None of the provided information contains any reference to a brand name or logo.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeiggrjvcib3o7azzm3elxosjohozbngmvha4mltzzwvmcc3qgkydye"
+    }
+]

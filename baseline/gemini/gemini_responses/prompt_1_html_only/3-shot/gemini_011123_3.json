@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "000416073a49c0e2ba9c4d33d87bf3e1aad80d800c95c775adfd49c022a9708b",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.0",
+        "Supporting Evidence": "The provided html script contains several pieces of information that allow me to identify the brand as Netflix. Firstly, the page title is \"Netflix\", which is a clear indication of the brand. Secondly, the logo is not found in the provided script, but the logo alt text is \"Netflix\". Furthermore, the footer text includes the text \"Netflix Originals\", which is a trademark of Netflix. Finally, the nav bar content is not found in the provided script, but it contains the text \"Netflix\" and shows the logo of Netflix.",
+        "Url": "https://manturana.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "008351a9aed91cdc577c3ae7b444cba461aedc2931d8b381e1128940492da496",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "",
+        "Url": "https://femal3bk.com/"
+    },
+    {
+        "Folder Hash": "010661dc19641ac4cce409890aa68b132e0b94b30c8156e5deed7ab7ac6fd3ba",
+        "Brand": "eBay",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage title includes the text \"Ebay\", which strongly suggests that the webpage is related to the eBay brand. Additionally, the footer text includes the copyright text \"\u00a9 1995-2023 eBay Inc.\", further confirming the brand identity.",
+        "Url": "https://wholesaleall.net/#/pc"
+    },
+    {
+        "Folder Hash": "0124b097f7e892906cb61dda40ec44d311fd7ad17a99df0fa99844ff90ae80a4",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided information does not include any brand-identifying details. The title, footer, header, and navigation bar content do not provide any clues about the brand. There is no logo or favicon to help identify the brand either. Due to the absence of any brand-related information, I cannot identify the brand of the webpage.",
+        "Url": "https://realizeofertas.com.br/password"
+    },
+    {
+        "Folder Hash": "01282ac37a774f11e907ddac60da724d99f455778ca6c4c8da033e855173a853",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is identified confidently from the webpage's HTML script. The title of the webpage is \"Microsoft\". The footer text also includes \"\u00a9 Microsoft all rights reserved\". Additionally, the logo and favicon are missing from the script, but the logo alt text is \"Microsoft.\" All of these pieces of evidence strongly suggest that the brand of the webpage is Microsoft.",
+        "Url": "https://lt-supp0rt.com/i/a76ccde30a5c14c43843fae4a451a14ce"
+    },
+    {
+        "Folder Hash": "01535595dd8d43eb9bc656050a0c526fd040bc2d70b50a031cc5e2fd0573d422",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The provided html information clearly indicates the brand name of \"Microsoft\" in multiple places such as the title, footer text, and headers text. The footer text also mentions \"\u00a9 Microsoft all rights reseved,\" which further confirms the brand identity. Based on these pieces of evidence, it is highly confident to identify the brand as Microsoft.",
+        "Url": "https://lt-supp0rt.com/i/abb4bf39c649847f7b3a62ed005041822"
+    },
+    {
+        "Folder Hash": "015d90790baebbe8c3d96a6991cd34bf5f03c050cc23df9c9eb2823ae6337f4a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage has \"Microsoft\" in the title, \"\u00a9 Microsoft all rights reseved\" in both footer and paragraph texts, and \"Configure Microsoft Authenticator app\" in the headers. These are all strong indicators of the webpage being associated with Microsoft, especially when the brand's name is in the webpage's title.",
+        "Url": "https://lt-supp0rt.com/i/a48dbc07a8a9047f3838683238e16ea20"
+    },
+    {
+        "Folder Hash": "01f1160642f50b1d01ba15166a722bcd2ef35d2dcba866fe5eb3aac59e5a3d70",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The brand can be identified in the title and footer of the html script, where \"Microsoft\" appears both occasions. Furthermore, \"Set up manually\" refers to the Microsoft Authenticator app, a product of Microsoft.",
+        "Url": "https://lt-supp0rt.com/i/aff60850ca2b941bc9673686bc2c2b7bb"
+    },
+    {
+        "Folder Hash": "027190093808a4d751359f5e8e7360f96191d70756034d95adde6ea500c63d65",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The title of the webpage \"WhatsApp\" is a dead giveaway.",
+        "Url": "http://36996.tiojsf.cn/"
+    },
+    {
+        "Folder Hash": "02e1c097051138b6c5da08dbd6e31e7d78a53585453a8ef40e11d5f3efd36791",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The provided HTML data includes the favicon of Facebook. The favicon has the Facebook logo which clearly indicates the brand. Facebook is also a well-known brand, so it is highly likely that the webpage belongs to Facebook.",
+        "Url": "https://verification-page-ads.com/N3V2JBxEYpdyUuyn45Z1xSzJcmZqEoetW7ZOLO8m6KomhlNT4K9kyCmZot2o8rYB74ruTBvWInPTAUJlTrangdau.html"
+    },
+    {
+        "Folder Hash": "318cd96aa99863e47744fe2a14e6e1923b15c15ecfcca741ff85fc9350650ae6",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Telegram Messenger\" is explicitly mentioned in the title of the webpage.",
+        "Url": "https://tg-telegram.club/"
+    },
+    {
+        "Folder Hash": "5ed6bc379e46f1a6d48070277c68e577a49fb7d8332a33d224124e4ccdf94428",
+        "Brand": "Tencent",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The footer text contains \"\u24d2 2018-Tencent. All rights reserved.\" which clearly indicates that the brand of the webpage is Tencent.",
+        "Url": "http://u2297956.plsk.regruhosting.ru/j/"
+    },
+    {
+        "Folder Hash": "795cbfea27e52f9014ee76650f13a5cb89648d2f5dcd89d0f3f638fdd0e84997",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's title, header, footer, logo, and navigation bar all prominently feature the brand name \"Microsoft.\" Additionally, the meta description and paragraph text include references to Microsoft products and services such as Surface, Microsoft 365, Xbox, Windows, Azure, and more. It is clear that Microsoft is the brand associated with this webpage.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "8ebb62e318e8c7165ae24fe9f8b44fef3a1d67a8bbbfa94c687760263bd618c9",
+        "Brand": "Shopee",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is found in various areas of the provided information, including the title \"Login now to start shopping! | Shopee Singapore\", the footer text \"\u00a9 2023 Shopee. All Rights Reserved.\", the nav bar content \"Log In\" and the span text \"About Us | Shopee Careers | Shopee Policies | Privacy Policy | Shopee Blog | Shopee Mall | Seller Centre | Shopee Seller Mentors | Flash Deals | Media Contact | Shopee Ambassador Programme | Facebook | Instagram | LinkedIn\".",
+        "Url": "https://shopee.sg/buyer/login?next=https%3A%2F%2Fshopee.sg%2Fshop%2F445275287%3Futm_campaign%3D-%26utm_content%3D17048272-2dfb0e4cf1a8d2d11e1d66e0fdd7e7b1-direct--%26utm_medium%3Daffiliates%26utm_source%3Dan_14228600000%26utm_term%3Da4u4d9i8oxmu"
+    },
+    {
+        "Folder Hash": "9de31725fbabd3af4d70da51cb9327a0fc1d78b4065d837bd88364ac12a763de",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "There is no information in the html script that can be used to identify the brand of the webpage.",
+        "Url": "https://inss007.weebly.com/"
+    },
+    {
+        "Folder Hash": "af430ef89e0d3c0ed9762591c97acef6e187bde52da3a38edd4f36115b73bbb8",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "There is no brand information within the title, meta description, favicon, footer, header or paragraph text.",
+        "Url": "https://aprovarapido.online/"
+    },
+    {
+        "Folder Hash": "bf7f1b582945e4ef1f842b97d83f2913ca38948fdb7cb837b5b910c7a26e158e",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The title of the webpage is \"Home | AT&T\". This indicates that the webpage is likely associated with AT&T. Additionally, the header text includes \"to access AT&T Mail\", which further supports the conclusion that the brand associated with the webpage is AT&T.",
+        "Url": "https://att-102882.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "c23d392e973b20179f7e7ab5775a39c1222becf06d71e370e7b3aa4bce8856c2",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "The provided HTML script does not contain any brand-identifying information. None of the fields contain any text that can be associated with a specific brand. Therefore, it is not possible to determine the webpage brand from the provided HTML script.",
+        "Url": "http://bafybeigcgdalpgb3fdz3mkfsyp2pjmaswaungl56teg777lzbxjo23asua.ipfs.cf-ipfs.com/pup09.html"
+    },
+    {
+        "Folder Hash": "d3995faa33bac11bd44ddc9fe904fe0366266197c86fcc47736c51806863b112",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is evident in multiple locations within the HTML script: the title, header, footer, favicon, and navigation bar all display the brand name \"Microsoft\".",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "ee2a45354b1ff2bb8eba1e92e38b17752144166d7b350ded1170e717a990e873",
+        "Brand": "PUBG ARENA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.0",
+        "Supporting Evidence": "The title of the webpage is \"\u0421\u0430\u043c\u044b\u0435 \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u0435 \u0442\u0443\u0440\u043d\u0438\u0440\u044b Pubg Mobile\". The meta description mentions \"\u0422\u0443\u0440\u043d\u0438\u0440\u044b Pubg Mobile\". The footer text contains \"\u041f\u043e\u043c\u043e\u0449\u044c 24/7\" and \"2020 \u00a9 PUBG ARENA\". The span text includes \"\u0442\u0443\u0440\u043d\u0438\u0440\u0430\u0445 Pubg Mobile\". All these pieces of evidence point to the brand being PUBG ARENA.",
+        "Url": "https://pubg-arena.top/"
+    }
+]

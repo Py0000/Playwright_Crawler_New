@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"Netflix\" is explicitly mentioned in the title of the webpage, which is a strong indicator of the brand identity. Additionally, the footer text includes the phrase \"Questions? Call 000-800-919-1694,\" which is a phone number associated with Netflix customer support. These combined pieces of evidence strongly suggest that the webpage is related to Netflix.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.5",
+        "Supporting Evidence": "The brand name \"Telegram\" is mentioned in the title, favicon, footer, and header. The footer also includes the text \"telegram premium\", which is a feature offered by the Telegram app.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "No brand-related information was directly revealed from the provided HTML script.",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.0",
+        "Supporting Evidence": "None of the key information in the html script, such as the title, meta descriptions, favicon, logo, footer, header and navigation bar, contains any brandable information. Hence the brand cannot be identified.",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"SurveySparrow\" appears prominently in key areas like the title, favicon logo, footer text, and nav bar content. The meta description makes it clear that the website relates to the creation of experiences for customers and employees. Additionally, the footer section contains several links related to SurveySparrow, such as the company, resources, free tools, sales, and support, reinforcing the brand's identity",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "aa8089d19aab3f380851504a86707a1da89fe5c174501985b238e747dd186a00",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The webpage's title contains \"Microsoft\". The meta description also mentions \"Microsoft products and services\". Additionally, the favicon, logo, footer, header, and nav bar all contain the \"Microsoft\" branding.",
+        "Url": "https://www.microsoft.com/en-sg/"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "GEMINI2",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.8",
+        "Supporting Evidence": "The webpage brand can be found from the html script which includes the logo attribute and footer information. The logo includes the alt text as \"gimini\" and footer text includes \"GEMINI2 Wszelkie\". The title and homepage link contains \"GEMINI2\" as well. These information clearly indicates the brand as \"GEMINI2\".",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "JEK-MINER",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand name \"JEK-MINER\" is prevalent throughout the webpage's script. It appears in the title, favicon's alt text, header, navigation bar, and footer. Additionally, the URL of the webpage likely belongs to JEK-MINER as it contains \"jek-miner.pro\".",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f07f931e42211c4d902fed617e89c47324af573df194966b5ac1b21a0f65a2aa",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.0",
+        "Supporting Evidence": "The brand is easy to identify from the <title> element of the webpage, which is \"Netflix\". Moreover, the logo of Netflix is included as favicon icon in the html script, and the <footer_text> also includes information about Netflix, like it's contact number.",
+        "Url": "https://sristiverma9.github.io/netfliexclone/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]
