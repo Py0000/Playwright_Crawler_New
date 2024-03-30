@@ -60,11 +60,11 @@ class GeminiPromptGenerator:
         desc = FileUtils.read_from_txt_file(os.path.join(self.shot_example_path, f"analysis_{index}.txt"))
 
         if self.mode == GeminiProBaseline.MODE_BOTH:
-            desc += f"{img_descs[index]} {html_descs[index]}"
+            desc += f"{img_descs[index-1]} {html_descs[index-1]}"
         elif self.mode == GeminiProBaseline.MODE_SCREENSHOT:
-            desc += img_descs[index]
+            desc += img_descs[index-1]
         elif self.mode == GeminiProBaseline.MODE_HTML:
-            desc += html_descs[index]
+            desc += html_descs[index-1]
         
         full_prompt = f"Below is an example analysis.\n{desc}"
         return full_prompt
@@ -75,24 +75,24 @@ class GeminiPromptGenerator:
             if self.mode == GeminiProBaseline.MODE_BOTH:
                 example_image = self.generate_prompt_example_image(i + 1)
                 example_html = self.generate_prompt_example_html_info(i + 1)
-                example_prompt = self.generate_prompt_example(i + 1)
-                few_shot_prompts.append(example_prompt, example_image, f"HTML info: {example_html}")
+                example_prompt = self.generate_prompt_example_desc(i + 1)
+                few_shot_prompts + [example_prompt, example_image, f"HTML info: {example_html}"]
             
             elif self.mode == GeminiProBaseline.MODE_SCREENSHOT:
                 example_image = self.generate_prompt_example_image(i + 1)
-                example_prompt = self.generate_prompt_example(i + 1)
-                few_shot_prompts.append(example_prompt, example_image)
+                example_prompt = self.generate_prompt_example_desc(i + 1)
+                few_shot_prompts + [example_prompt, example_image]
             
             elif self.mode == GeminiProBaseline.MODE_HTML:
                 example_html = self.generate_prompt_example_html_info(i + 1)
-                example_prompt = self.generate_prompt_example(i + 1)
-                few_shot_prompts.append(example_prompt, example_image, f"HTML info: {example_html}")
+                example_prompt = self.generate_prompt_example_desc(i + 1)
+                few_shot_prompts + [example_prompt, f"HTML info: {example_html}"]
 
         return few_shot_prompts
 
     def generate_full_model_prompt(self, few_shot_count, image, html_content):
         zero_shot_prompt, response_format_prompt = self.generate_zero_shot_prompt()
-        few_shot_prompts = self.generate_few_shot_prompts(few_shot_count)
+        few_shot_prompts = self.generate_few_shot_prompt(few_shot_count)
         
         current_prediction_prompt = "Here are the provided resources: "
         model_prompt = [zero_shot_prompt] + few_shot_prompts
@@ -103,16 +103,19 @@ class GeminiPromptGenerator:
         elif self.mode == GeminiProBaseline.MODE_HTML:
             model_prompt += [current_prediction_prompt, html_content]
 
-        return model_prompt.append(response_format_prompt)
+        model_prompt.append(response_format_prompt)
+        return model_prompt
 
 class GeminiResponseParser:
+    def __init__(self):
+        pass
+
     def search_for_response(self, pattern, response_text):
         try: 
             return re.search(pattern, response_text).group(1).strip()
         except:
             return ""
     
-    @staticmethod
     def format_model_response(self, folder_hash, response_text, is_error):
         if is_error:
             brand = has_credentials = has_call_to_actions = list_of_credentials = list_of_call_to_action = confidence_score = supporting_evidence = "Error Occurred"
@@ -151,19 +154,24 @@ class GeminiProBaseline:
         self.mode = mode
         self.html_extractor = HtmlExtractor()
         self.prompt_generator = GeminiPromptGenerator(mode)
-        self.model = GeminiModelConfigurator.configure_model(mode)
+        self.response_parser = GeminiResponseParser()
+        self.model = GeminiModelConfigurator.configure_gemini_model(mode)
 
     def extract_file_path(self, zip_file, file_object):
         relative_path = os.path.join('self_ref', file_object)
-        file_path = next((info.filename for info in zip_file.infolist() if relative_path in info.filename), None)
+        is_exist = any(relative_path in zipinfo.filename for zipinfo in zip_file.infolist())
+        file_path = None
+        if is_exist:
+            file_path = next((zipinfo.filename for zipinfo in zip_file.infolist() if relative_path in zipinfo.filename), None)
         return file_path
     
     def obtain_page_url(self, zip_file):
         log_path = self.extract_file_path(zip_file, "log.json")
         url = "Not found"
         if log_path:
-            log_data = FileUtils.read_from_json_zipped_file(log_path)
-            url = log_data["Url visited"]
+            with zip_file.open(log_path) as log_file:
+                log_data = FileUtils.read_from_json_zipped_file(log_file)
+                url = log_data["Url visited"]
         return url
 
     def analyse_zip_file(self, image, few_shot_count, hash, html_content):
@@ -171,25 +179,25 @@ class GeminiProBaseline:
             model_prompt = self.prompt_generator.generate_full_model_prompt(few_shot_count, image, html_content)
             response = self.model.generate_content(model_prompt)
             response.resolve()
-            data = GeminiResponseParser.format_model_response(hash, response.text, is_error=False)
+            data = self.response_parser.format_model_response(hash, response.text, is_error=False)
             return data
         except Exception as e:
-            data = GeminiResponseParser.format_model_response(hash, str(e), is_error=True)
+            data = self.response_parser.format_model_response(hash, str(e), is_error=True)
             print(e)
             return data
 
     def process_zip_file(self, zip_path, hash, few_shot_count):
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             screenshot_path, html_path = None, None
-
+            image = None
             if self.mode in [self.MODE_BOTH, self.MODE_SCREENSHOT]:
                 screenshot_path = self.extract_file_path(zip_ref, 'screenshot_aft.png')
                 if not screenshot_path:
                     return None
+                image = PIL.Image.open(zip_ref.open(screenshot_path))
             if self.mode in [self.MODE_BOTH, self.MODE_HTML]:
                 html_path = self.extract_file_path(zip_ref, 'html_script_aft.html')
             
-            image = PIL.Image.open(zip_ref.open(screenshot_path))
             if not html_path:
                 html_content = None
             else:
@@ -197,7 +205,7 @@ class GeminiProBaseline:
                     html = html_file.read().decode('utf-8')
                     html_content = self.html_extractor.extract_relevant_info_from_html(html)
             
-            response = self.analyse_individual_data(self.model, image, few_shot_count, hash, html_content)
+            response = self.analyse_zip_file(image, few_shot_count, hash, html_content)
             response.update({"Url": self.obtain_page_url(zip_ref)})
             return response
 
@@ -237,7 +245,7 @@ if __name__ == '__main__':
 
     mode = mode_types.get(args.mode, None)
     gemini_baseline = GeminiProBaseline(args.benign_phishing, mode)
-    for few_shot_count in ["0", "3"]:    
+    for few_shot_count in ["3"]:    
         for folder in folders:
             print(f"\n[{few_shot_count}-shot] Processing folder: {folder}")
             folder_path = os.path.join("baseline", "datasets", f"original_dataset_{folder}")

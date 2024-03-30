@@ -96,15 +96,18 @@ class GeminiProVisionBaseline:
         if self.mode == "ss":
             system_prompt_txt_file = "system_prompt_ss.txt"
             reponse_format_txt_file = "response_format_prompt.txt"
+            chain_of_thought_txt_file = "chain_of_thought_prompt.txt"
         elif self.mode == "html":
             system_prompt_txt_file = "system_prompt_html.txt"
             reponse_format_txt_file = "response_format_prompt_html.txt"
+            chain_of_thought_txt_file = "chain_of_thought_prompt_html.txt"
         elif self.mode == "both":
             system_prompt_txt_file = "system_prompt_both.txt"
             reponse_format_txt_file = "response_format_prompt.txt"
+            chain_of_thought_txt_file = "chain_of_thought_prompt.txt"
 
         system_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, system_prompt_txt_file))
-        chain_of_thought_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, "chain_of_thought_prompt.txt"))
+        chain_of_thought_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, chain_of_thought_txt_file))
         reponse_format_prompt = FileUtils.read_from_txt_file(os.path.join(prompt_file_path, reponse_format_txt_file))
 
         return f"{system_prompt}\n\n{chain_of_thought_prompt}", f"\n\n{reponse_format_prompt}"
@@ -229,7 +232,7 @@ if __name__ == '__main__':
         folders = phishing_folders
        
     gemini_baseline = GeminiProVisionBaseline(args.benign_phishing, args.mode)
-    for few_shot_count in ["3"]:    
+    for few_shot_count in ["0", "3"]:    
         for folder in folders:
             print(f"\n[{few_shot_count}-shot] Processing folder: {folder}")
             folder_path = os.path.join("baseline", "datasets", f"original_dataset_{folder}")
