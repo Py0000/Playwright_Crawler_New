@@ -46,10 +46,10 @@ class HtmlExtractor:
             'favicon': self.extract_favicon(soup),
             'logo_alt_text': self.extract_logo_alt_text(soup),
             'footer_text': self.extract_footer_text(soup),
-            'headers_text': self.extract_headers_text(soup),
+            'headers_text': self.extract_header_text(soup),
             'nav_bar_content': self.extract_nav_bar_content(soup),
-            'paragraphs_text': self._extract_tag_text(soup, 'p'),
-            'span_text': self._extract_tag_text(soup, 'span')
+            'paragraphs_text': self.extract_textual_info(soup, 'p'),
+            'span_text': self.extract_textual_info(soup, 'span')
         }
         
         brand_info_str = "\n".join(f"{key}: {value}" for key, value in brand_info.items())
