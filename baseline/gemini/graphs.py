@@ -11,6 +11,13 @@ class Graph:
         self.markers = ['o', 's', '^', 'D']
         pass
 
+    def get_recall_for_fixed_precision(self, precision, recall, fixed_precision):
+        index = np.abs(precision - fixed_precision).argmin()
+        nearest_precision = precision[index]
+        recall_value = recall[index]
+        
+        return recall_value, nearest_precision
+
     def format_title(self, string):
         split_output = string.split('_')
         title = " ".join([split_output[0].capitalize(), split_output[1].capitalize()]) 
@@ -18,7 +25,8 @@ class Graph:
     
     def read_excel(self, path):
         df = pd.read_excel(path)
-        df = df.iloc[:1633]
+        df = df.drop(df.index[0])
+        df.dropna(how='all', inplace=True)
         df = df.iloc[:, :df.columns.get_loc('Is Brand Same?') + 1]
 
         df['(Gemini) Confidence Score'] = df['(Gemini) Confidence Score'].astype(str)
@@ -29,11 +37,13 @@ class Graph:
         if mode == "brand":
             col_label = 'Is Brand Same?'
         else:
-            col_label = 'Is Phishing?'
-            
-        df['Conclusion Binary'] = df[col_label].map({'Yes': 1, 'No': 0, 'Indeterminate': 0}).astype(int)
+            #col_label = 'Is Phishing?'
+            col_label = "Is Phishing?"
+        
+        #df['Conclusion Binary'] = df[col_label].map({'Yes': 1, 'No': 0, 'Indeterminate': 0}).astype(int)
+        df['Conclusion Binary'] = df[col_label]
         df['(Gemini) Confidence Score'] = pd.to_numeric(df['(Gemini) Confidence Score'], errors='coerce')
-        df['Normalized Confidence Score'] = df['(Gemini) Confidence Score'] / 10
+        df['Normalized Confidence Score'] = df['(Gemini) Confidence Score'] 
         df = df.dropna(subset=[col_label, '(Gemini) Confidence Score'])
 
         true_labels = df['Conclusion Binary']
@@ -49,6 +59,9 @@ class Graph:
             df = self.read_excel(excel)
             true_labels, confidence_scores = self.get_data_required(df, mode)
             precision, recall, thresholds_pr = precision_recall_curve(true_labels, confidence_scores)
+            precision_recall_df = pd.DataFrame({'Precision': precision, 'Recall': recall})
+            #precision_recall_df.to_csv(f'pr_gemini_{mode}_html.csv', index=False)
+            print(self.get_recall_for_fixed_precision(precision, recall, 0.962))
 
             if "ss_html" in excel:
                 color = "red"
@@ -145,12 +158,12 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     ss_html_0_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_ss_html", "results_0_shot.xlsx")
-    ss_html_3_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_ss_html", "results_3_shot.xlsx")
+    #ss_html_3_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_ss_html", "results_3_shot.xlsx")
     ss_0_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_ss_only", "results_0_shot.xlsx")
-    ss_3_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_ss_only", "results_3_shot.xlsx")
+    #ss_3_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_ss_only", "results_3_shot.xlsx")
     html_0_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_html_only", "results_0_shot.xlsx")
-    html_3_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_html_only", "results_3_shot.xlsx")
-    excel_paths = [ss_html_0_shot, ss_html_3_shot, ss_0_shot, ss_3_shot, html_0_shot, html_3_shot]
+    #html_3_shot = os.path.join("baseline", "gemini", "gemini_responses", "prompt_1_html_only", "results_3_shot.xlsx")
+    excel_paths = [html_0_shot]
     """
     for i in range(4):
         path = os.path.join("baseline", "gemini", "gemini_responses", "prompt_2", f"{i}-shot", f"results_{i}_shot.xlsx")

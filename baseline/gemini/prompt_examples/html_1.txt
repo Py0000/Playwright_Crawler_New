@@ -1,7 +1,0 @@
-title: Outlook
-meta_description: Not Found
-favicon: https://www.freepngimg.com/download/microsoft/70674-outlook-office-outlook.com-email-logo-365-microsoft.png
-logo_alt_text: Not Found
-footer_text: Not Found
-headers_text: Not Found
-nav_bar_content: Not Found

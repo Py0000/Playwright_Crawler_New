@@ -1,7 +1,0 @@
-1. Brand: Telegram
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: Phone number
-5. List_of_call_to_action: Log in by QR Code
-6. Confidence_Score: 10.0
-7. Supporting_Evidence: The image shows the login page of Telegram with its distinctive logo in the center of the screenshot, just above the word "Telegram". There are boxes to enter country and phone number below it as well.

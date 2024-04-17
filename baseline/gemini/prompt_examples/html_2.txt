@@ -1,7 +1,0 @@
-title: login | AT&T
-meta_description:
-favicon: https://www.weebly.com/favicon.ico
-logo_alt_text: Not Found
-footer_text: Not Found
-headers_text: Not Found
-nav_bar_content: Not Found

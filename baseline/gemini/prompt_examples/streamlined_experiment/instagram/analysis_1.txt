@@ -1,7 +1,0 @@
-1. Brand: Instagram
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: Phone number, username, email, password
-5. List_of_call_to_action: Log in, Sign up, forgot password?
-6. Confidence_Score: 10.0
-7. Supporting_Evidence: The image shows the login page of Instagram, which can be determined as there is the word "Instagram" in the center of the page, as well as the copyright symbol "Instagram from Meta" at the bottom of the page. The credentials and buttons can be seen in the centre of the page as well.

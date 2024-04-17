@@ -1,7 +1,0 @@
-1. Brand: DHL
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: Password
-5. List_of_call_to_action: Log in
-6. Confidence_Score: 10.0
-7. Supporting_Evidence: The image shows the login page of DHL with its logo located at the top left hand corner of the webpage. The credentials can be found in the white box toward the right side of the page.

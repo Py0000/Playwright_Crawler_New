@@ -1,7 +1,0 @@
-1. Brand: Adobe
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: Email Address
-5. List_of_call_to_action: Continue
-6. Confidence_Score: 9.0
-7. Supporting_Evidence: The brand shown in the screenshot is Adobe as indicated by the Adobe logo (white) in the middle of the page just above the text "Sign in or create an account". The brand here is Adobe and not Google, Facebook or Apple even though their logo is on the screenshot as well, because these are just third party sign in options provided by Adobe.

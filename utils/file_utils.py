@@ -1,4 +1,5 @@
 import json
+import os
 
 class FileUtils:
 
@@ -30,5 +31,13 @@ class FileUtils:
     def save_as_json_output(output_path, data):
         with open(output_path, 'w') as f:
             json.dump(data, f, indent=4)
+    
+
+    @staticmethod
+    def extract_file_path_from_zipped(zip_file, ref_type, file_object):
+        relative_path = os.path.join(ref_type, file_object)
+        file_path = next((zipinfo.filename for zipinfo in zip_file.infolist() if relative_path in zipinfo.filename), None)
+        return file_path
+
     
     

@@ -1,7 +1,0 @@
-Brand: Mircorsoft
-Has_Credentials: Yes
-Has_Call_To_Action: Yes
-List_of_credentials: Email, Password
-List_of_call_to_action: "sign in" link/button
-Confidence_Score: 10.0
-Supporting_Evidence:  

@@ -1,7 +1,0 @@
-1. Brand: DANA
-2. Has_Credentials: No
-3. Has_Call_To_Action: No
-4. List_of_credentials: NA
-5. List_of_call_to_action: NA
-6. Confidence_Score: 9.4
-7. Supporting_Evidence: The image shows the page of DANA, as the logo (in white) can be seen at the top left corner of the page, even though there are other logos like Google, Apple and Bank Indonesia, those seems to be its collaborators or platforms to get the mobile app. 

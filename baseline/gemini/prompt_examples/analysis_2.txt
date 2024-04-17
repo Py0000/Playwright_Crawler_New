@@ -1,7 +1,0 @@
-Brand: AT&T
-Has_Credentials: Yes
-Has_Call_To_Action: Yes
-List_of_credentials: Email, Password
-List_of_call_to_action: "SIGN IN" button
-Confidence_Score: 9.5
-Supporting_Evidence: 

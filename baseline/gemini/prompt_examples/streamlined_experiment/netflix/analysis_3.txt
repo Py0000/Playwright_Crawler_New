@@ -1,7 +1,0 @@
-1. Brand: Netflix
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: Email, Password
-5. List_of_call_to_action: Sign in, Next
-6. Confidence_Score: 10.0
-7. Supporting_Evidence: The image shows the get membership page of Netflix with its distinctive red logo at the top left corner of the screenshot. The credentials and buttons can be seen on the screenshot.

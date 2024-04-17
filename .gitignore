@@ -1,22 +1,5 @@
-baseline/gemini/api_key_new.txt
-baseline/llm_llava/api_token.txt
-validation/virus_total_api_key.txt
-datasets/
+datasets
 
-analyzer/__pycache__/
-analyzer/blank_page/__pycache__/
-analyzer/blocked_page/__pycache__/
-analyzer/duplicate/__pycache__/
-analyzer/utils/__pycache__/
-baseline/utils/__pycache__/
 baseline/gemini/__pycache__/
-baseline/__pycache__/
-filter/__pycache__/
-src/__pycache__/
-feeds/
-Crawler_Dataset/
+baseline/gemini/api_key_new.txt
 utils/__pycache__/
-
-benign_dataset_30500/
-confirmed_useless_dataset.txt
-dataset_benign_att/

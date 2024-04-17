@@ -1,7 +1,16 @@
 import argparse
+import tldextract
 import google.generativeai as genai
 
 from baseline.utils import utils
+
+class DomainExtractor:
+    def __init__(self):
+        pass
+
+    def extract_second_level_domain(self, url):
+        extracted = tldextract.extract(url)
+        return extracted.domain
 
 class GeminiDomainComparator:
     def __init__(self) -> None:
@@ -14,7 +23,7 @@ class GeminiDomainComparator:
     
     def determine_url_brand_match(self, url, brand):
         system_prompt = "You are an expert at identifying domains. I will provide you with the url of the webpage and an identified brand. Your task is to determine whether the url given belongs to the brand identified."
-        response_prompt = "Return your analysis and results either as a 'Yes' if the url belongs to the brand identified or 'No' if the url does not belong to the brand identified."
+        response_prompt = "Return your analysis and results either as a 'Yes' if the url belongs to the brand identified (Or its parent/child organization) or 'No' if the url does not belong to the brand identified."
 
         prompt = f"{system_prompt}\n{response_prompt}\nHere is the url: {url} and the brand identified: {brand}"
         try:

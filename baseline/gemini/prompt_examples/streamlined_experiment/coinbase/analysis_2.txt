@@ -1,7 +1,0 @@
-1. Brand: Coinbase
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: Email
-5. List_of_call_to_action: Continue
-6. Confidence_Score: 9.5
-7. Supporting_Evidence: The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (blue) just above the text "Sign in to Coinbase". Although there are other logos present (such as Google, Apple, Passkey), those seems like they are third-party sign in options provided by Coinbase, hence they are not the actual brand associated with this page.

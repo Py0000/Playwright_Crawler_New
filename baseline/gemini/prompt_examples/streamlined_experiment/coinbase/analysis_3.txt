@@ -1,7 +1,0 @@
-1. Brand: Coinbase
-2. Has_Credentials: No
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: NA
-5. List_of_call_to_action: View Accounts
-6. Confidence_Score: 10.0
-7. Supporting_Evidence: The brand shown in the screenshot is Coinbase as indicated by the Coinbase logo (white) in the centre top of the page above the box with the text "Your account has been locked".

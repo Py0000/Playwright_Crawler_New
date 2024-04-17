@@ -1,7 +1,0 @@
-1. Brand: CodaShop
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: User ID
-5. List_of_call_to_action: Sign Up
-6. Confidence_Score: 9.1
-7. Supporting_Evidence: The image shows the page of CodaShop, as the logo of can be seen at the top left corner of the page, even though there are other logos like StarRail, but it seems like its due the functionality of the webpage as a game credit top up provider, hence incorporating other brands from games in its webpage.

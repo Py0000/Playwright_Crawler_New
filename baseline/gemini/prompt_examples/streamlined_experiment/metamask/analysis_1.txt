@@ -1,7 +1,0 @@
-1. Brand: MetaMask
-2. Has_Credentials: No
-3. Has_Call_To_Action: No
-4. List_of_credentials: NA
-5. List_of_call_to_action: NA
-6. Confidence_Score: 8.8
-7. Supporting_Evidence: The image shows the page of MetaMask, as the logo of MetaMask can be seen at the top left corner of the page, even though there are multiple other logos from other brands like OpenSea, but it seems like they are just collaborators with MetaMask.

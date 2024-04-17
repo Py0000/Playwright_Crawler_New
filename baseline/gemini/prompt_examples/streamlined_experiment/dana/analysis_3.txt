@@ -1,7 +1,0 @@
-1. Brand: DANA
-2. Has_Credentials: No
-3. Has_Call_To_Action: No
-4. List_of_credentials: NA
-5. List_of_call_to_action: NA
-6. Confidence_Score: 9.0
-7. Supporting_Evidence: The image shows the page of DANA, as the logo (in white) can be seen on the top left corner of the page, even though there are other logos like Google, Apple, Bank Indonesia, those seesm to be its partners.

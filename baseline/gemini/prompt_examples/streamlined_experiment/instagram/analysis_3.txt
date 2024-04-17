@@ -1,7 +1,0 @@
-1. Brand: Instagram
-2. Has_Credentials: Yes
-3. Has_Call_To_Action: Yes
-4. List_of_credentials: username, password
-5. List_of_call_to_action: Log in, forgot password?
-6. Confidence_Score: 9.5
-7. Supporting_Evidence: The image shows the login page of Instagram, which can be determined as there is an Instagram logo at the top left corner of the page. The crendentials and buttons can be found at the right side of the page.

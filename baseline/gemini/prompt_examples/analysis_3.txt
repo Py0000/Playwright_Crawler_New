@@ -1,7 +1,0 @@
-Brand: Facebook
-Has_Credentials: No
-Has_Call_To_Action: Yes
-List_of_credentials: NA
-List_of_call_to_action: Appeal
-Confidence_Score: 9.0
-Supporting_Evidence: 
