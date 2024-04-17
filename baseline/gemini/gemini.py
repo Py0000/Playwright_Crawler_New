@@ -150,8 +150,7 @@ class GeminiProBaseline:
     MODE_HTML = "html"
     MODE_BOTH = "both"
 
-    def __init__(self, phishing_mode, mode):
-        self.phishing_mode = phishing_mode
+    def __init__(self, mode):
         self.mode = mode
         self.html_extractor = HtmlExtractor()
         self.prompt_generator = GeminiPromptGenerator(mode)
@@ -185,12 +184,12 @@ class GeminiProBaseline:
             screenshot_path, html_path = None, None
             image = None
             if self.mode in [self.MODE_BOTH, self.MODE_SCREENSHOT]:
-                screenshot_path = self.extract_file_path(zip_ref, 'screenshot_aft.png')
+                screenshot_path = FileUtils.extract_file_path_from_zipped(zip_ref, 'self_ref', 'screenshot_aft.png')
                 if not screenshot_path:
                     return None
                 image = PIL.Image.open(zip_ref.open(screenshot_path))
             if self.mode in [self.MODE_BOTH, self.MODE_HTML]:
-                html_path = self.extract_file_path(zip_ref, 'html_script_aft.html')
+                html_path = FileUtils.extract_file_path_from_zipped(zip_ref, 'self_ref', 'html_script_aft.html')
             
             if not html_path:
                 html_content = None
@@ -221,10 +220,12 @@ class GeminiProBaseline:
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Identify the brand of the webpage. You can specify the type of analysis and the data mode.")
     parser.add_argument("mode", choices=["ss", "html", "both"], default="both", help="Choose the analysis mode.")
-    parser.add_argument("type", choices=["benign", "phishing"], default="phishing", help="Choose type of dataset")
-    parser.add_argument("folder", help="Input the folder that contains the dataset", required=True)
-    parser.add_argument("result_path", help="Input the folder tto store the results", required=True)
+    parser.add_argument("folder", help="Input the folder that contains the dataset")
+    parser.add_argument("result_path", help="Input the folder tto store the results")
     args = parser.parse_args()
+
+    if not os.path.exists(args.result_path):
+        os.makedirs(args.result_path)
     
     mode_types = {
             "both": GeminiProBaseline.MODE_BOTH,
@@ -233,14 +234,11 @@ if __name__ == '__main__':
         }
 
     mode = mode_types.get(args.mode, None)
-    folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec
-    if args.type == "benign":
-        folders = utils.benign_folders
+    folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
 
     gemini_baseline = GeminiProBaseline(mode)
     for few_shot_count in ["0"]:    
-        for folder in tqdm(folders, desc=f"Processing {args.type} folders"):
-            print(f"\n[{args.type} {few_shot_count}-shot] Processing folder: {folder}")
+        for folder in tqdm(folders, desc=f"Processing {args.mode} folders"):
             folder_path = os.path.join(args.folder, f"original_dataset_{folder}")
             date = folder
             gemini_baseline.analyse_directory(folder_path, date, int(few_shot_count), args.result_path)

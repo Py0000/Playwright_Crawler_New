@@ -3,10 +3,11 @@
 ## Gemini Related
 ### Getting responses from Gemini 
 * Pre-cond: Running the script from `Root` directory
-* Cmd: `python3 -m baseline.gemini.gemini [mode] [type] [folder_path]`
-  * **Required** `folder_path`: (Example) baseline/datasets 
+* Cmd: `python3 -m baseline.gemini.gemini [mode] [type] [folder_path] [result_path]`
+  * **Required** `folder_path`: (Example) datasets/validated 
   * *Optional* `mode`: ss, html or both
   * *Optional* `type`: benign or phishing
+  * **Required** `folder_path`: (Example) baseline/gemini/responses
 
 
 ### Summarizing responses from Gemini
