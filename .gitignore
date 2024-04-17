@@ -2,4 +2,5 @@ datasets
 
 baseline/gemini/__pycache__/
 baseline/gemini/api_key_new.txt
+crawler/__pycache__/
 utils/__pycache__/
