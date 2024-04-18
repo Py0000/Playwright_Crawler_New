@@ -38,6 +38,24 @@ class FileUtils:
         relative_path = os.path.join(ref_type, file_object)
         file_path = next((zipinfo.filename for zipinfo in zip_file.infolist() if relative_path in zipinfo.filename), None)
         return file_path
-
     
+    @staticmethod
+    def check_and_create_folder(folder_path):
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
+
+    @staticmethod
+    def get_api_key(api_key_file):
+        with open(api_key_file, 'r') as file:
+            api_key = file.readline().strip()
+        
+        return api_key
+
+    @staticmethod
+    def get_complete_phishing_dataset_parent_path(main_folder, month, date):
+        return os.path.join(main_folder, month, f"dataset_{date}", f"dataset_{date}", f"dataset_{date}", "complete_dataset")
+
+    @staticmethod
+    def get_complete_benign_dataset_parent_path(main_folder, folder):
+        return os.path.join(main_folder, folder, "complete_dataset")
     

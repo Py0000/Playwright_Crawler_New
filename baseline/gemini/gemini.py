@@ -8,15 +8,14 @@ import zipfile
 import google.generativeai as genai
 from tqdm import tqdm
 
-from utils.file_utils import FileUtils
 from baseline.gemini.gemini_html_extractor import HtmlExtractor
-from baseline.utils import utils
-
+import utils.constants as Constants
+from utils.file_utils import FileUtils
 
 class GeminiModelConfigurator:
     @staticmethod
     def configure_gemini_model(mode):
-        genai.configure(api_key=utils.get_api_key("baseline/gemini/api_key_new.txt"))
+        genai.configure(api_key=FileUtils.get_api_key("baseline/gemini/api_key_new.txt"))
         if mode in [GeminiProBaseline.MODE_SCREENSHOT, GeminiProBaseline.MODE_BOTH]:
             return genai.GenerativeModel('gemini-pro-vision')
         elif mode == GeminiProBaseline.MODE_HTML:
@@ -220,8 +219,9 @@ class GeminiProBaseline:
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Identify the brand of the webpage. You can specify the type of analysis and the data mode.")
     parser.add_argument("mode", choices=["ss", "html", "both"], default="both", help="Choose the analysis mode.")
+    parser.add_argument("phishing_mode", choices=["phishing", "benign"], default="phishing", help="Choose the dataset type.")
     parser.add_argument("folder", help="Input the folder that contains the dataset")
-    parser.add_argument("result_path", help="Input the folder tto store the results")
+    parser.add_argument("result_path", help="Input the folder to store the results")
     args = parser.parse_args()
 
     if not os.path.exists(args.result_path):
@@ -234,15 +234,18 @@ if __name__ == '__main__':
         }
 
     mode = mode_types.get(args.mode, None)
-    folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
+    folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC
+    if args.phishing_mode == "benign":
+        folders = Constants.BENIGN_FOLDERS_VALIDATED
 
     gemini_baseline = GeminiProBaseline(mode)
     for few_shot_count in ["0"]:    
-        for folder in tqdm(folders, desc=f"Processing {args.mode} folders"):
+        for folder in folders:
+            print(f"[{mode}] Processing {folder}")
             folder_path = os.path.join(args.folder, f"original_dataset_{folder}")
             date = folder
             gemini_baseline.analyse_directory(folder_path, date, int(few_shot_count), args.result_path)
-            time.sleep(random.randint(5, 15))
+            time.sleep(random.randint(30, 60))
     
     '''
     Example folder path: datasets/validated/

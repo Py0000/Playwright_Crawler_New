@@ -4,8 +4,8 @@ import os
 import time
 
 from baseline.gemini.gemini_domain_comparison import GeminiDomainComparator, DomainExtractor
-from baseline.utils import utils
 from utils.file_utils import FileUtils
+import utils.constants as Constants
 
 class LlmResultExport:
     def __init__(self, file_hash_column, predicted_brand_column, has_credentials_column, has_call_to_action_column, confidence_score_column, sld_column, is_phish_column, is_phish_llm_column):
@@ -93,7 +93,7 @@ if __name__ == '__main__':
     parser.add_argument("is_phish_llm", default="L", help="Is Phishing LLM Column")
     args = parser.parse_args()
 
-    folders = utils.phishing_folders_oct + utils.phishing_folders_nov + utils.phishing_folders_dec + utils.benign_folders
+    folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC + Constants.BENIGN_FOLDERS_VALIDATED
     
     for folder in folders:
         # Sample args.folder = baseline/gemini/gemini_responses/prompt_1_html_only/0-shot

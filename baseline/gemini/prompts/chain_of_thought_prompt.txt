@@ -2,4 +2,6 @@ Analyse the webpage screenshot by following these steps:
 1. Identify the webpage brand based on logos and trademarks available on the screenshot.
 2. Check for fields asking for user credentials. Keep track of what these fields are asking for.
 3. Check for any call-to-action elements. Keep track of what these fields are. 
-4. Provide comprehensive evaluation of the screenshot. Include a detailed explanation for your analysis.
+4. If you cannot find or identify the brand, return NA for 'brand' in your response.
+5. Provide comprehensive evaluation of the html script. Include a detailed explanation for your analysis.
+6. Take note of how confident your are in identifying the brand.
