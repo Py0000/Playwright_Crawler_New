@@ -43,3 +43,23 @@
     * **Required** `fn`: (Phishing predicted Benign)
 
 
+
+## Comparative Analysis Related
+### Extracting Javascript info from HTML files
+  * Pre-cond: Running the script from `Root` directory
+  * Cmd: `python3 -m analyzer.html_js_extractor {folder} {result_path} {phishing_mode} {ref_type} {csr_status}` 
+    * **Required** `folder`: (Example) datasets/all
+    * **Required** `result_path`: (Example) analyzer/js_info
+    * **Required** `phishing_mode`: phishing or benign
+    * *Optional* `ref_type`: self_ref or no_ref
+    * *Optional* `csr_status`: after or before
+
+
+### Analysing Javascript in HTML Files
+  * Pre-cond: Running the script from `Root` directory
+  * Cmd: `python3 -m analyzer.html_js_analyzer {js_info_path} {fp_result_path} {obf_result_path} {domain_category}`
+    * **Required** `js_info_path`: (Example) analyzer/js_info/no_ref_Oct or analyzer/js_info/self_ref_top10k
+    * **Required** `fp_result_path`: (Example) analyzer/fingerprint_info
+    * **Required** `obf_result_path`: (Example) analyzer/obfuscation_info
+    * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000
+  

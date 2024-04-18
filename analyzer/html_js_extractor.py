@@ -118,7 +118,7 @@ if __name__ == '__main__':
                 except Exception as e:
                     print(e)
     
-    if args.mode == "benign":
+    elif args.phishing_mode == "benign":
         for type in Constants.BENIGN_TYPES:
             if type == "top10k":
                 folder = Constants.BENIGN_FOLDER_ALL_TOP10K
@@ -137,7 +137,7 @@ if __name__ == '__main__':
                     print(e)
     
     '''
-    Example folder path: datasets
+    Example folder path: datasets/all
     Example result path: analyzer/js_info
     '''
 
