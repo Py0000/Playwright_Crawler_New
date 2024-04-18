@@ -1,3 +1,5 @@
+DOMAIN_CATEGORIES = ["Oct", "Nov", "Dec", "top10k", "100000_105000"]
+
 MONTHS = ["Oct", "Nov", "Dec"]
 BENIGN_TYPES = ["top10k", "100000_105000"]
 

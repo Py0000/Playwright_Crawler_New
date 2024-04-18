@@ -121,9 +121,9 @@ if __name__ == '__main__':
     elif args.phishing_mode == "benign":
         for type in Constants.BENIGN_TYPES:
             if type == "top10k":
-                folder = Constants.BENIGN_FOLDER_ALL_TOP10K
+                folder = [Constants.BENIGN_FOLDER_ALL_TOP10K]
             if type == "100000_105000":
-                folder = Constants.BENIGN_FOLDER_ALL_100000_105000
+                folder = [Constants.BENIGN_FOLDER_ALL_100000_105000]
             
             result_path_tag = f"{args.ref_type}_{type}"
             try:
