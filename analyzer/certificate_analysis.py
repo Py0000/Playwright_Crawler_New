@@ -1,14 +1,11 @@
 import argparse
-import os 
-import json
-import zipfile
 import pandas as pd 
-from tqdm import tqdm
 
+from analyzer.resource_analyzer import ResourceAnalyzer
 from utils.file_utils import FileUtils
 import utils.constants as Constants
 
-class CertificateAnalyzer:
+class CertificateAnalyzer(ResourceAnalyzer):
     def __init__(self):
         pass
 
@@ -40,49 +37,7 @@ class CertificateAnalyzer:
 
         return pd.DataFrame([data])
 
-    def analyse_date_specific_folder(self, date_folder_path, ref_type):
-        df = pd.DataFrame()
-        for zip_file in tqdm(os.listdir(date_folder_path)):
-            if not zip_file.endswith(".zip"):
-                continue
-
-            zip_path = os.path.join(date_folder_path, zip_file)
-            with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-                try:
-                    cert_path = FileUtils.extract_file_path_from_zipped(zip_ref, ref_type, 'cert.json')
-                    if cert_path:
-                        with zip_ref.open(cert_path) as cert_file:
-                            cert_json_data = json.load(cert_file)
-                        
-                        current_df = self.extract_data_from_json(cert_json_data)
-                        df = pd.concat([df, current_df], ignore_index=True)
-                except Exception as e:
-                    print(e)
-        
-        return df
     
-    def analyse_phishing(self, phishing_folder_path, ref_type):
-        consolidated_df = pd.DataFrame()
-        for month in Constants.MONTHS:
-            if month == "Oct":
-                folders = Constants.PHISHING_FOLDERS_ALL_OCT
-            if month == "Nov":
-                folders = Constants.PHISHING_FOLDERS_ALL_NOV
-            if month == "Dec":
-                folders = Constants.PHISHING_FOLDERS_ALL_DEC
-            
-            for folder in tqdm(folders):
-                dataset_folder = FileUtils.get_complete_phishing_dataset_parent_path(phishing_folder_path, month, folder)
-                current_df = self.analyse_date_specific_folder(dataset_folder, ref_type)
-                consolidated_df = pd.concat([consolidated_df, current_df], ignore_index=True)
-        
-        return consolidated_df
-
-    def export_data_to_excel(self, df, output_path, domain_category):
-        output_file_path = os.path.join(output_path, f"Cert_info_summary_{domain_category}.xlsx")
-        df.to_excel(output_file_path, index=False)
-
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Extraction of certifcate info")
     parser.add_argument("folder", help="Input the folder that the dataset")
@@ -95,16 +50,17 @@ if __name__ == '__main__':
     certificate_analyzer = CertificateAnalyzer()
 
     if args.phishing_mode == "phishing":
-        df = certificate_analyzer.analyse_phishing(args.folder, args.ref_type)
+        df = certificate_analyzer.analyze_phishing(args.folder, args.ref_type, "cert.json")
     elif args.phishing_mode == "benign":
         folder_name_map = {
             "top10k": Constants.BENIGN_FOLDER_ALL_TOP10K,
             "100000_105000": Constants.BENIGN_FOLDER_ALL_100000_105000
         } 
         dataset_folder = FileUtils.get_complete_benign_dataset_parent_path(args.folder, folder_name_map.get(args.domain_category))
-        df = certificate_analyzer.analyse_date_specific_folder(dataset_folder, args.ref_type)
+        df = certificate_analyzer.analyze_date_specific_folder(dataset_folder, args.ref_type, "cert.json")
     
-    certificate_analyzer.export_data_to_excel(df, args.result_path, args.domain_category)
+    output_file_name = f"Cert_summary_{args.domain_category}.xlsx"
+    certificate_analyzer.export_data_to_excel(df, args.result_path, output_file_name)
 
     '''
     Example folder: datasets/all

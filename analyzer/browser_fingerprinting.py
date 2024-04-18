@@ -5,10 +5,11 @@ import re
 from tqdm import tqdm
 import pandas as pd
 
+from analyzer.js_content_analyzer import JsContentAnalyzer
 import analyzer_utils
 from utils.file_utils import FileUtils
 
-class BrowserFingerprintAnalyzer:
+class BrowserFingerprintAnalyzer(JsContentAnalyzer):
     def __init__(self):
         pass
 
@@ -79,12 +80,24 @@ class BrowserFingerprintAnalyzer:
 
                     data.append(current_data)
         return data
-    
-    def export_consolidated_to_excel(self, data, output_folder, domain_category):
-        header = ["Date", "File Hash", "Total Num"] + analyzer_utils.top_basic_fingerprinting + analyzer_utils.top_advance_fingerprinting
-        df = pd.DataFrame(data)
-        df = df[header]
-        output_path = os.path.join(output_folder, f"browser_fp_{domain_category}_summary.xlsx")
-        df.to_excel(output_path, index=False)
+       
 
 
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description="Analysis of browser fingerprinting information")
+    parser.add_argument("js_info_path", help="Input the folder that contains the javascript information")
+    parser.add_argument("result_path", help="Input the folder to store the fingerprint results")
+    parser.add_argument("domain_category", help="Phishing (state the month), Benign (Top 10k), Benign (less popular)?")
+    args = parser.parse_args() 
+
+    browser_fingerprint_analyzer = BrowserFingerprintAnalyzer()
+    browser_fingerprint_analyzer.analyse_js_by_domain_category(args.js_info_path, args.result_path)
+    consolidated_data = browser_fingerprint_analyzer.consolidate_fingerprint_results(args.result_folder)
+    output_file_name = f"browser_fingerprint_summary_{args.domain_category}.xlsx"
+    header = ["Date", "File Hash", "Total Num"] + analyzer_utils.top_basic_fingerprinting + analyzer_utils.top_advance_fingerprinting
+    browser_fingerprint_analyzer.export_consolidated_to_excel(consolidated_data, args.result_path, output_file_name, header)
+
+    '''
+    Example js_info_path: analyzer/js_info
+    Example result_path: analyzer/fingerprint_info
+    '''

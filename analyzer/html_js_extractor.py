@@ -132,7 +132,7 @@ if __name__ == '__main__':
                 result_folder = os.path.join(args.result_path, result_path_tag)
                 if not os.path.exists(result_folder):
                     os.makedirs(result_folder)
-                extractor.analyse_date_specific_directory(folder_path, date, args.ref_type, args.csr_status, result_folder)
+                extractor.analyse_date_specific_directory(folder_path, type, args.ref_type, args.csr_status, result_folder)
             except Exception as e:
                     print(e)
     

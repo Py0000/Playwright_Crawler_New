@@ -1,3 +1,4 @@
+import argparse
 import json
 import re
 from math import log2 
@@ -114,15 +115,27 @@ class ObfuscationDetector:
                     data.append(current_data)
         
         return data
-    
+        
 
-    def export_consolidated_to_excel(self, data, output_folder, domain_category):
-        header = ["Date", "File Hash", "Final Verdict", "Entropy", "String Obfuscation", "Has Win/Doc Usage", "Has complex func", "Has encrypted code", "Dead Code", "No alnum segments", "Simple minification", "Advance minification"]
-        df = pd.DataFrame(data)
-        df = df[header]
-        output_path = os.path.join(output_folder, f"obfuscation_{domain_category}_summary.xlsx")
-        df.to_csv(output_path, index=False)
 
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description="Analysis of browser fingerprinting information")
+    parser.add_argument("js_info_path", help="Input the folder that contains the javascript information")
+    parser.add_argument("result_path", help="Input the folder to store the obfuscation results")
+    parser.add_argument("domain_category", help="Phishing (state the month), Benign (Top 10k), Benign (less popular)?")
+    args = parser.parse_args() 
+
+    obfuscation_detector = ObfuscationDetector()
+    obfuscation_detector.analyse_js_by_domain_category(args.js_info_path, args.result_path)
+    consolidated_data = obfuscation_detector.consolidate_obfuscation_results(args.result_folder)
+    output_file_name = f"obfuscation_summary_{args.domain_category}.xlsx"
+    header = ["Date", "File Hash", "Final Verdict", "Entropy", "String Obfuscation", "Has Win/Doc Usage", "Has complex func", "Has encrypted code", "Dead Code", "No alnum segments", "Simple minification", "Advance minification"]
+    obfuscation_detector.export_consolidated_to_excel(consolidated_data, args.result_path, output_file_name, header)
+
+    '''
+    Example js_info_path: analyzer/js_info
+    Example result_path: analyzer/obfuscation_info
+    '''
 
 
     
