@@ -55,11 +55,37 @@
     * *Optional* `csr_status`: after or before
 
 
-### Analysing Javascript in HTML Files
+### Analysing Browser Fingerprints
   * Pre-cond: Running the script from `Root` directory
-  * Cmd: `python3 -m analyzer.html_js_analyzer {js_info_path} {fp_result_path} {obf_result_path} {domain_category}`
+  * Cmd: `python3 -m analyzer.browser_fingerprinting {js_info_path} {result_path} {domain_category}`
     * **Required** `js_info_path`: (Example) analyzer/js_info/no_ref_Oct or analyzer/js_info/self_ref_top10k
     * **Required** `fp_result_path`: (Example) analyzer/fingerprint_info
-    * **Required** `obf_result_path`: (Example) analyzer/obfuscation_info
     * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000
+
+
+### Analysing Obfuscation
+  * Pre-cond: Running the script from `Root` directory
+  * Cmd: `python3 -m analyzer.obfuscation {js_info_path} {result_path} {domain_category}`
+    * **Required** `js_info_path`: (Example) analyzer/js_info/no_ref_Oct or analyzer/js_info/self_ref_top10k
+    * **Required** `fp_result_path`: (Example) analyzer/obfuscation_info
+    * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000  
+
+
+### Analysing Certificate
+  * Pre-cond: Running the script from `Root` directory
+  * Cmd: `python3 -m analyzer.certificate_analysis {folder} {result_path} {phishing_mode} {ref_type} {domain_category}`
+    * **Required** `js_info_path`: (Example) analyzer/js_info/no_ref_Oct or analyzer/js_info/self_ref_top10k
+    * **Required** `result_path`: (Example) analyzer/obfuscation_info
+    * **Required** `phishing_mode`: phishing or benign
+    * *Optional* `ref_type`: self_ref or no_ref
+    * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000  
   
+
+### Analysing DNS Records
+  * Pre-cond: Running the script from `Root` directory
+  * Cmd: `python3 -m analyzer.dns_analysis {folder} {result_path} {phishing_mode} {ref_type} {domain_category}`
+    * **Required** `js_info_path`: (Example) analyzer/js_info/no_ref_Oct or analyzer/js_info/self_ref_top10k
+    * **Required** `result_path`: (Example) analyzer/obfuscation_info
+    * **Required** `phishing_mode`: phishing or benign
+    * *Optional* `ref_type`: self_ref or no_ref
+    * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000  
