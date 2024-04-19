@@ -90,6 +90,8 @@ if __name__ == '__main__':
     parser.add_argument("domain_category", help="Phishing (state the month), Benign (Top 10k), Benign (less popular)?")
     args = parser.parse_args() 
 
+    FileUtils.check_and_create_folder(args.result_path)
+
     browser_fingerprint_analyzer = BrowserFingerprintAnalyzer()
     browser_fingerprint_analyzer.analyse_js_by_domain_category(args.js_info_path, args.result_path)
     consolidated_data = browser_fingerprint_analyzer.consolidate_fingerprint_results(args.result_folder)

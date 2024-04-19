@@ -48,15 +48,12 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     certificate_analyzer = CertificateAnalyzer()
+    FileUtils.check_and_create_folder(args.result_path)
 
     if args.phishing_mode == "phishing":
         df = certificate_analyzer.analyze_phishing(args.folder, args.ref_type, "cert.json")
     elif args.phishing_mode == "benign":
-        folder_name_map = {
-            "top10k": Constants.BENIGN_FOLDER_ALL_TOP10K,
-            "100000_105000": Constants.BENIGN_FOLDER_ALL_100000_105000
-        } 
-        dataset_folder = FileUtils.get_complete_benign_dataset_parent_path(args.folder, folder_name_map.get(args.domain_category))
+        dataset_folder = FileUtils.get_complete_benign_dataset_parent_path(args.folder, Constants.BENIGN_DOMAIN_FOLDER_MAP.get(args.domain_category))
         df = certificate_analyzer.analyze_date_specific_folder(dataset_folder, args.ref_type, "cert.json")
     
     output_file_name = f"Cert_summary_{args.domain_category}.xlsx"

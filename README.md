@@ -74,8 +74,8 @@
 ### Analysing Certificate
   * Pre-cond: Running the script from `Root` directory
   * Cmd: `python3 -m analyzer.certificate_analysis {folder} {result_path} {phishing_mode} {ref_type} {domain_category}`
-    * **Required** `js_info_path`: (Example) analyzer/js_info/no_ref_Oct or analyzer/js_info/self_ref_top10k
-    * **Required** `result_path`: (Example) analyzer/obfuscation_info
+    * **Required** `folder`: (Example) datasets/all
+    * **Required** `result_path`: (Example) analyzer/certificate_info
     * **Required** `phishing_mode`: phishing or benign
     * *Optional* `ref_type`: self_ref or no_ref
     * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000  
@@ -84,8 +84,19 @@
 ### Analysing DNS Records
   * Pre-cond: Running the script from `Root` directory
   * Cmd: `python3 -m analyzer.dns_analysis {folder} {result_path} {phishing_mode} {ref_type} {domain_category}`
-    * **Required** `js_info_path`: (Example) analyzer/js_info/no_ref_Oct or analyzer/js_info/self_ref_top10k
-    * **Required** `result_path`: (Example) analyzer/obfuscation_info
+    * **Required** `folder`: (Example) datasets/all
+    * **Required** `result_path`: (Example) analyzer/dns_info
     * **Required** `phishing_mode`: phishing or benign
+    * *Optional* `ref_type`: self_ref or no_ref
+    * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000  
+  
+
+### Analysing Network Payloads
+  * Pre-cond: Running the script from `Root` directory
+  * Cmd: `python3 -m analyzer.network_analysis {folder} {result_path} {phishing_mode} {network_payload_folder} {ref_type} {domain_category}`
+    * **Required** `folder`: (Example) datasets/all
+    * **Required** `result_path`: (Example) analyzer/network_info
+    * **Required** `phishing_mode`: phishing or benign
+    * **Required** `network_payload_folder`: network_response_files or network_data
     * *Optional* `ref_type`: self_ref or no_ref
     * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000  

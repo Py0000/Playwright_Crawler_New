@@ -7,6 +7,8 @@ from tqdm import tqdm
 import os
 import pandas as pd
 
+from utils.file_utils import FileUtils
+
 class ObfuscationDetector:
     def __init__(self):
         pass
@@ -124,6 +126,8 @@ if __name__ == '__main__':
     parser.add_argument("result_path", help="Input the folder to store the obfuscation results")
     parser.add_argument("domain_category", help="Phishing (state the month), Benign (Top 10k), Benign (less popular)?")
     args = parser.parse_args() 
+
+    FileUtils.check_and_create_folder(args.result_path)
 
     obfuscation_detector = ObfuscationDetector()
     obfuscation_detector.analyse_js_by_domain_category(args.js_info_path, args.result_path)
