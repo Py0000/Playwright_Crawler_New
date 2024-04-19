@@ -7,3 +7,5 @@ baseline/gemini/responses
 baseline/utils/__pycache__/
 crawler/__pycache__/
 utils/__pycache__/
+validation/virus_total_api_key.txt 
+validation/__pycache__
