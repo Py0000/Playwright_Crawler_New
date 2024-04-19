@@ -1,5 +1,14 @@
 # Playwright_Crawler_FYP
 
+## Dataset Validation Related 
+### Using VirusTotal
+* Pre-cond: Running the script from `Root` directory
+* Cmd: `python3 -m validation.validator [original_dataset_folder_path] [date] --is_revalidate [is_revalidate] --url_txt [url_txt]` 
+  * **Required** `original_dataset_folder_path`: (Example) datasets/validated/original_dataset_251023
+  * **Required** `date`: (Example) 251023
+  * *Optional* `is_revalidate` yes or no
+  * *Optional* `url_txt` (Example) validation/url.txt
+
 ## Gemini Related
 ### Getting responses from Gemini 
 * Pre-cond: Running the script from `Root` directory
@@ -47,7 +56,7 @@
 ## Comparative Analysis Related
 ### Extracting Javascript info from HTML files
   * Pre-cond: Running the script from `Root` directory
-  * Cmd: `python3 -m analyzer.html_js_extractor {folder} {result_path} {phishing_mode} {ref_type} {csr_status}` 
+  * Cmd: `python3 -m analyzer.html_js_extractor {folder} {result_path} {phishing_mode} --ref_type {ref_type} --csr_status {csr_status}` 
     * **Required** `folder`: (Example) datasets/all
     * **Required** `result_path`: (Example) analyzer/js_info
     * **Required** `phishing_mode`: phishing or benign
@@ -73,7 +82,7 @@
 
 ### Analysing Certificate
   * Pre-cond: Running the script from `Root` directory
-  * Cmd: `python3 -m analyzer.certificate_analysis {folder} {result_path} {phishing_mode} {ref_type} {domain_category}`
+  * Cmd: `python3 -m analyzer.certificate_analysis {folder} {result_path} {phishing_mode} --ref_type {ref_type} {domain_category}`
     * **Required** `folder`: (Example) datasets/all
     * **Required** `result_path`: (Example) analyzer/certificate_info
     * **Required** `phishing_mode`: phishing or benign
@@ -83,7 +92,7 @@
 
 ### Analysing DNS Records
   * Pre-cond: Running the script from `Root` directory
-  * Cmd: `python3 -m analyzer.dns_analysis {folder} {result_path} {phishing_mode} {ref_type} {domain_category}`
+  * Cmd: `python3 -m analyzer.dns_analysis {folder} {result_path} {phishing_mode} --ref_type {ref_type} {domain_category}`
     * **Required** `folder`: (Example) datasets/all
     * **Required** `result_path`: (Example) analyzer/dns_info
     * **Required** `phishing_mode`: phishing or benign
@@ -93,7 +102,7 @@
 
 ### Analysing Network Payloads
   * Pre-cond: Running the script from `Root` directory
-  * Cmd: `python3 -m analyzer.network_analysis {folder} {result_path} {phishing_mode} {network_payload_folder} {ref_type} {domain_category}`
+  * Cmd: `python3 -m analyzer.network_analysis {folder} {result_path} {phishing_mode} {network_payload_folder} --ref_type {ref_type} {domain_category}`
     * **Required** `folder`: (Example) datasets/all
     * **Required** `result_path`: (Example) analyzer/network_info
     * **Required** `phishing_mode`: phishing or benign
@@ -104,7 +113,7 @@
 
 ### Analysing HTML Payloads
   * Pre-cond: Running the script from `Root` directory
-  * Cmd: `python3 -m analyzer.html_feature_analysis {folder} {result_path} {phishing_mode} {ref_type} {csr_status}{domain_category}`
+  * Cmd: `python3 -m analyzer.html_feature_analysis {folder} {result_path} {phishing_mode} --ref_type {ref_type} --csr_status {csr_status} {domain_category}`
     * **Required** `folder`: (Example) datasets/all
     * **Required** `result_path`: (Example) analyzer/network_info
     * **Required** `phishing_mode`: phishing or benign

@@ -9,7 +9,7 @@ class HtmlScanner:
         pass
 
     def scan_html_file(self, html_data_list, api_key):
-        consolidate_data = {}
+        consolidate_data = []
         headers = {'x-apikey': api_key}
 
         count = 1
@@ -32,10 +32,14 @@ class HtmlScanner:
                     "Direct HTML Script Analysis by VirusTotal": vendors_flagged_red
                 }
 
-                consolidate_data[hash] = current_data
+                consolidate_data.append(current_data)
             
             else:
                 print(f"Error: {response.text}")
+                consolidate_data.append({
+                    "File Hash": hash,
+                    "Direct HTML Script Analysis by VirusTotal": response.text
+                })
             
             count += 1
 

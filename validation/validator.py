@@ -11,11 +11,16 @@ from utils.file_utils import FileUtils
 from validation.utils import ValidationUtils
 
 class Validator:
-    def __init__(self, api_key):
+    def __init__(self, api_key, is_revalidate):
         self.api_key = api_key
+        self.is_revalidate = is_revalidate
         self.url_scanner = UrlScanner()
         self.html_scanner = HtmlScanner()
-        
+    
+    def read_url_from_previously_validated_list(self, url_list_txt):
+        with open(url_list_txt, 'r') as file:
+            url_list = [line.strip() for line in file if line.strip()]
+        return dict.fromkeys(url_list)
 
     def extract_url_for_scanning(self, original_dataset_path):
         url_to_file_hash_dict = {}
@@ -54,8 +59,12 @@ class Validator:
         return html_data
             
 
-    def validate_url(self, original_dataset_path, date):
-        url_to_file_hash_dict = self.extract_url_for_scanning(original_dataset_path)
+    def validate_url(self, original_dataset_path, date, url_text):
+        if self.is_revalidate:
+            url_to_file_hash_dict = self.read_url_from_previously_validated_list(url_text)
+        else:
+            url_to_file_hash_dict = self.extract_url_for_scanning(original_dataset_path)
+
         self.url_scanner.get_url_validation_result(url_to_file_hash_dict, date, self.api_key)
     
     def validate_html(self, original_dateset_path, date):
@@ -71,13 +80,16 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Validate selected samples using VirusTotal")
     parser.add_argument("original_dataset_folder_path", help="Name of the original dataset folder path")
     parser.add_argument("date", help="Date of dataset")
+    parser.add_argument("--is_revalidate", choices=["yes", "no"], default="no", help='Input yes if doing revalidation')
+    parser.add_argument("--url_txt", default=None, help='Input txt file if doing revalidation')
     args = parser.parse_args()
 
     api_key_file = os.path.join('validation', 'virus_total_api_key.txt')
     api_key = ValidationUtils.read_virus_total_api_key(api_key_file)
 
-    validator = Validator(api_key)
-    validator.validate_url(args.original_dataset_folder_path, args.date)
+    is_revalidate = True if args.is_revalidate == "yes" else False
+    validator = Validator(api_key, is_revalidate)
+    validator.validate_url(args.original_dataset_folder_path, args.date, args.url_txt)
     validator.validate_html(args.original_dataset_folder_path, args.date)
 
 

@@ -27,7 +27,7 @@ class UrlScanner:
         return current_data
 
     def scan_url(self, url_to_file_hash_dict, api_key):
-        consolidate_data = {}
+        consolidate_data = []
 
         # VirusTotal API key (required to use the VirusTotal API)
         headers = {'x-apikey': api_key}
@@ -50,9 +50,13 @@ class UrlScanner:
                     "Website URL": url,
                     **self.generate_data_from_report(vendors_flagged_red, vendor_of_interest_status)
                 }
-                consolidate_data[hash] = current_data
+                consolidate_data.append(current_data)
             else:
-                consolidate_data[hash] = f"Error: {response.text}"
+                consolidate_data.append({
+                    "File Hash": hash,
+                    "Website URL": url,
+                    "Error": response.text
+                })
 
         return consolidate_data
 

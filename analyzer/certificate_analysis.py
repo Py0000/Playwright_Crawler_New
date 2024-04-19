@@ -43,7 +43,7 @@ if __name__ == '__main__':
     parser.add_argument("folder", help="Input the folder that the dataset")
     parser.add_argument("result_path", help="Input the folder to store the results")
     parser.add_argument("phishing_mode", choices=["phishing", "benign"], help="Choose between phishing or benign")
-    parser.add_argument("ref_type", choices=["self_ref", "no_ref"], default="self_ref", help="Choose between self_ref or no_ref")
+    parser.add_argument("--ref_type", choices=["self_ref", "no_ref"], default="self_ref", help="Choose between self_ref or no_ref")
     parser.add_argument("domain_category", choices=Constants.DOMAIN_CATEGORIES, help="Phishing (state the month), Benign (Top 10k), Benign (less popular)?")
     args = parser.parse_args()
 

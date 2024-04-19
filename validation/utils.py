@@ -11,13 +11,12 @@ class ValidationUtils:
         return api_key
 
     @staticmethod
-    def generate_csv_report(validation_data_dict, file_name):
+    def generate_csv_report(validation_data_list, file_name):
         print("Generating CSV Report....")
-        data_list = [v for _, v in validation_data_dict.items()]
-        headers = data_list[0].keys()
+        headers = validation_data_list[0].keys()
 
         with open(file_name, mode='w', newline='', encoding='utf-8') as file:
             writer = csv.DictWriter(file, fieldnames=headers)
             writer.writeheader()
-            writer.writerows(data_list)
+            writer.writerows(validation_data_list)
 
