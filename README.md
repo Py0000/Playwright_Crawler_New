@@ -100,3 +100,14 @@
     * **Required** `network_payload_folder`: network_response_files or network_data
     * *Optional* `ref_type`: self_ref or no_ref
     * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000  
+
+
+### Analysing HTML Payloads
+  * Pre-cond: Running the script from `Root` directory
+  * Cmd: `python3 -m analyzer.html_feature_analysis {folder} {result_path} {phishing_mode} {ref_type} {csr_status}{domain_category}`
+    * **Required** `folder`: (Example) datasets/all
+    * **Required** `result_path`: (Example) analyzer/network_info
+    * **Required** `phishing_mode`: phishing or benign
+    * *Optional* `ref_type`: self_ref or no_ref
+    * *Optional* `csr_status`: after or before
+    * **Required** `domain_category`: (Example) Oct, Nov, Dec, top10k or 100000_105000  
