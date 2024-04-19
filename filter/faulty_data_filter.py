@@ -1,4 +1,5 @@
 
+import argparse
 import os
 import shutil
 import zipfile
@@ -104,3 +105,30 @@ class FaultyDataFilterer:
             count += 1
         return count
 
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description="Supply the folder names")
+    parser.add_argument("folder", help="Name of dataset folder path")
+    parser.add_argument("folder", help="Month of dataset")
+    parser.add_argument("date", help="Date of dataset")
+    args = parser.parse_args()
+
+    date_specific_dataset_folder = os.path.join(args.folder, args.month, args.date)
+
+    faulty_data_filter = FaultyDataFilterer()
+    total_dataset_count = faulty_data_filter.filter_faulty_dataset(date_specific_dataset_folder, args.date)
+    num_of_both_faulty = faulty_data_filter.categorize_faulty_data(args.date, date_specific_dataset_folder, os.path.join('filter', f"{args.date}_dual_faulty_dataset.txt"), "faulty_both")
+    num_of_self_ref_faulty = faulty_data_filter.categorize_faulty_data(args.date, date_specific_dataset_folder, os.path.join('filter', f"{args.date}_self_ref_only_faulty_dataset.txt"), "faulty_self_ref")
+    num_of_no_ref_faulty = faulty_data_filter.categorize_faulty_data(args.date, date_specific_dataset_folder, os.path.join('filter', f"{args.date}_no_ref_only_faulty_dataset.txt"), "faulty_no_ref")
+    num_of_complete = faulty_data_filter.clean_up_complete_data(date_specific_dataset_folder)
+    
+    count_num = {
+        "Total number of dataset": total_dataset_count,
+        "Number of complete dataset": num_of_complete,
+        "Number of both (self ref & no ref) faulty dataset": num_of_both_faulty,
+        "Number of self ref only faulty dataset": num_of_self_ref_faulty,
+        "Number of no ref only faulty dataset": num_of_no_ref_faulty,
+    }
+
+    output_path = os.path.join('filter', f"{args.date}_statistics.json")
+    FileUtils.save_as_json_output(output_path, count_num)

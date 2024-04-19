@@ -12,12 +12,38 @@
 
 
 ## Filtering Related
-### Filtering based on incomplete samples and response status
+### Filtering based on incomplete samples 
 * Pre-cond: Running the script from `Root` directory
-* Cmd: `python3 -m filter.filter_main [dataset] [date]`
-  * **Required** `dataset`: (Example) datasets/all/Oct/dataset_251023
+* Cmd: `python3 -m filter.faulty_data_filter [folder] [month] [date] `
+  * **Required** `folder`: (Example) datasets/all
+  * **Required** `month`: (Example) Oct
   * **Required** `date`: (Example) 251023
 
+
+### Filtering based on response status (blocked)
+* Pre-cond: Running the script from `Root` directory
+* Cmd: `python3 -m filter.response_status_filter [folder] [month] [date] [phishing_mode]`
+  * **Required** `folder`: (Example) datasets/all
+  * **Required** `month`: (Example) Oct
+  * **Required** `date`: (Example) 251023
+  * **Required** `phishing_mode`: phishing or benign
+
+
+### Filtering based on blank html pages 
+* Pre-cond: Running the script from `Root` directory
+* Cmd: `python3 -m filter.blank_page [folder] [month] [date] [phishing_mode]`
+  * **Required** `folder`: (Example) datasets/all
+  * **Required** `month`: (Example) Oct
+  * **Required** `date`: (Example) 251023
+  * **Required** `phishing_mode`: phishing or benign
+
+
+### Filtering based on duplicates 
+* Pre-cond: Running the script from `Root` directory
+* Cmd: `python3 -m filter.duplicates [dataset_path] --phishing_mode [phishing_mode] [file_type]`
+  * **Required** `folder`: (Example) datasets/all
+  * *Optional* `phishing_mode`: phishing or benign
+  * **Required** `file_type`: url or html
 
 
 ## Gemini Related
