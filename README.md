@@ -9,6 +9,17 @@
   * *Optional* `is_revalidate` yes or no
   * *Optional* `url_txt` (Example) validation/url.txt
 
+
+
+## Filtering Related
+### Filtering based on incomplete samples and response status
+* Pre-cond: Running the script from `Root` directory
+* Cmd: `python3 -m filter.filter_main [dataset] [date]`
+  * **Required** `dataset`: (Example) datasets/all/Oct/dataset_251023
+  * **Required** `date`: (Example) 251023
+
+
+
 ## Gemini Related
 ### Getting responses from Gemini 
 * Pre-cond: Running the script from `Root` directory
