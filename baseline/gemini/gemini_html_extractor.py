@@ -8,7 +8,10 @@ class HtmlExtractor:
     
     def extract_title(self, soup):
         title_tag = soup.title
-        return title_tag.string.strip() if title_tag else 'Not Found'
+        if title_tag and title_tag.string:
+            return title_tag.string.strip()
+        else:
+            return 'Not Found'
 
     def extract_meta_description(self, soup):
         meta_description = soup.find('meta', attrs={'name': 'description'})

@@ -12,3 +12,6 @@ validation/virus_total_api_key.txt
 validation/__pycache__/
 validation/verified.txt
 validation/exclude.txt
+plots/__pycache__/
+plots/data_sheets/
+plots/figures/
