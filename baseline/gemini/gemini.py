@@ -25,7 +25,7 @@ class GeminiPromptGenerator:
     def __init__(self, mode, prompt_version):
         self.mode = mode
         self.prompt_version = prompt_version
-        self.shot_example_path = os.path.join("baseline", "gemini", "prompt_examples")
+        #self.shot_example_path = os.path.join("baseline", "gemini", "prompt_examples")
 
     def load_prompt_example_descriptions(self, desc_file_path):
         with open(desc_file_path, 'r') as file:
@@ -47,6 +47,7 @@ class GeminiPromptGenerator:
 
         return f"{system_prompt}\n\n{chain_of_thought_prompt}", f"\n\n{response_format_prompt}"
     
+    '''
     def generate_prompt_example_image(self, index):
         image = PIL.Image.open(os.path.join(self.shot_example_path, f"ss_{index}.png"))
         return image
@@ -90,7 +91,7 @@ class GeminiPromptGenerator:
                 few_shot_prompts + [example_prompt, f"HTML info: {example_html}"]
 
         return few_shot_prompts
-
+    '''
     def generate_full_model_prompt(self, few_shot_count, image, html_content):
         zero_shot_prompt, response_format_prompt = self.generate_zero_shot_prompt()
         few_shot_prompts = self.generate_few_shot_prompt(few_shot_count)

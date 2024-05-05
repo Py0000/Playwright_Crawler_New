@@ -146,6 +146,28 @@ class GeminiResponseParser:
             "Supporting Evidence": supporting_evidence
         }
 
+
+class GeminiVerifier:
+    def __init__(self):
+        self.model = GeminiModelConfigurator.configure_gemini_model(GeminiProBaseline.MODE_HTML)
+
+
+    def verify_input_given(self, input_content):
+        verification_prompt = f"Below is the input I am going to give you:\n{input_content}.\nTell me what have you received? Return it as what i have given you, you can ignore brackets/braces."
+        response = self.model.generate_content(verification_prompt)
+        response.resolve()
+
+        return response.text
+    
+    def generate_verification_report(self, hash, html_content):
+        output_file_path = os.path.join('baseline', 'gemini', 'responses', f'prompt_verification_{hash}.txt')
+        html_received = self.verify_input_given(html_content)
+
+        with open(output_file_path, 'w') as f:
+            f.write('HTML Info Received:\n')
+            f.write(html_received)
+
+
 class GeminiProBaseline:
 
     MODE_SCREENSHOT = "ss"
@@ -161,15 +183,15 @@ class GeminiProBaseline:
     
 
     def analyse_zip_file(self, image, few_shot_count, hash, html_content):
+        """ 
+        ## Uncomment if needed
+        # Checks if model receive input
+        verify = GeminiVerifier()
+        verify.generate_verification_report(hash, html_content, self.mode)
+        """
+        
         try: 
             model_prompt = self.prompt_generator.generate_full_model_prompt(few_shot_count, image, html_content)
-            """
-            input_response = self.model.generate_content(f'This is the input I am going to give you: {html_content}' + 'Tell me what have you received?')
-            input_response.resolve()
-            input_check_file = os.path.join('baseline', 'gemini', 'responses', f'{hash}_input.txt')
-            with open(input_check_file, 'w') as f:
-                f.write(input_response.text)
-            """
             response = self.model.generate_content(model_prompt)
             response.resolve()
             if not response.parts:
