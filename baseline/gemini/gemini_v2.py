@@ -4,7 +4,7 @@ import random
 import re
 import time
 import PIL.Image
-import zipfile
+
 import google.generativeai as genai
 from tqdm import tqdm
 
@@ -20,18 +20,18 @@ class GeminiModelConfigurator:
             return genai.GenerativeModel('gemini-pro-vision')
         elif mode == GeminiProBaseline.MODE_HTML:
             return genai.GenerativeModel('gemini-pro')
-    
+
 class GeminiPromptGenerator:
     def __init__(self, mode, prompt_version):
         self.mode = mode
         self.prompt_version = prompt_version
-        self.shot_example_path = os.path.join("baseline", "gemini", "prompt_examples")
-
+        #self.shot_example_path = os.path.join("baseline", "gemini", "prompt_examples")
+    
     def load_prompt_example_descriptions(self, desc_file_path):
         with open(desc_file_path, 'r') as file:
             descriptions = file.readlines()
         return [desc.strip() for desc in descriptions]
-    
+
     def generate_zero_shot_prompt(self):
         prompt_file_path = os.path.join("baseline", "gemini", "prompts", self.prompt_version)
         mode_files = {
@@ -47,6 +47,7 @@ class GeminiPromptGenerator:
 
         return f"{system_prompt}\n\n{chain_of_thought_prompt}", f"\n\n{response_format_prompt}"
     
+    '''
     def generate_prompt_example_image(self, index):
         image = PIL.Image.open(os.path.join(self.shot_example_path, f"ss_{index}.png"))
         return image
@@ -54,7 +55,7 @@ class GeminiPromptGenerator:
     def generate_prompt_example_html_info(self, index):
         html_info = FileUtils.read_from_txt_file(os.path.join(self.shot_example_path, f"html_{index}.txt"))
         return html_info
-
+    
     def generate_prompt_example_desc(self, index):
         img_descs = self.load_prompt_example_descriptions(os.path.join(self.shot_example_path, "img_descs.txt"))
         html_descs = self.load_prompt_example_descriptions(os.path.join(self.shot_example_path, "html_descs.txt"))
@@ -69,7 +70,7 @@ class GeminiPromptGenerator:
         
         full_prompt = f"Below is an example analysis.\n{desc}"
         return full_prompt
-    
+
     def generate_few_shot_prompt(self, few_shot_count):
         few_shot_prompts = []
         for i in range(few_shot_count):
@@ -90,6 +91,7 @@ class GeminiPromptGenerator:
                 few_shot_prompts + [example_prompt, f"HTML info: {example_html}"]
 
         return few_shot_prompts
+    '''
 
     def generate_full_model_prompt(self, few_shot_count, image, html_content):
         zero_shot_prompt, response_format_prompt = self.generate_zero_shot_prompt()
@@ -106,7 +108,7 @@ class GeminiPromptGenerator:
 
         model_prompt.append(response_format_prompt)
         return model_prompt
-
+    
 class GeminiResponseParser:
     def __init__(self):
         pass
@@ -144,28 +146,6 @@ class GeminiResponseParser:
             "Supporting Evidence": supporting_evidence
         }
 
-class GeminiVerifier:
-    def __init__(self):
-        self.model = GeminiModelConfigurator.configure_gemini_model(GeminiProBaseline.MODE_HTML)
-
-
-    def verify_input_given(self, input_content):
-        verification_prompt = f"Below is the input I am going to give you:\n{input_content}.\nTell me what have you received? Return it as what i have given you, you can ignore brackets/braces."
-        response = self.model.generate_content(verification_prompt)
-        response.resolve()
-
-        return response.text
-    
-    def generate_verification_report(self, hash, html_content):
-        output_file_path = os.path.join('baseline', 'gemini', 'responses', f'prompt_verification_{hash}.txt')
-        html_received = self.verify_input_given(html_content)
-
-        with open(output_file_path, 'w') as f:
-            f.write('HTML Info Received:\n')
-            f.write(html_received)
-
-
-
 class GeminiProBaseline:
 
     MODE_SCREENSHOT = "ss"
@@ -178,27 +158,18 @@ class GeminiProBaseline:
         self.prompt_generator = GeminiPromptGenerator(mode, prompt_version)
         self.response_parser = GeminiResponseParser()
         self.model = GeminiModelConfigurator.configure_gemini_model(mode)
-
     
-    def obtain_page_url(self, zip_file):
-        log_path = FileUtils.extract_file_path_from_zipped(zip_file, "self_ref", "log.json")
-        url = "Not found"
-        if log_path:
-            with zip_file.open(log_path) as log_file:
-                log_data = FileUtils.read_from_json_zipped_file(log_file)
-                url = log_data["Url visited"]
-        return url
 
-    
     def analyse_zip_file(self, image, few_shot_count, hash, html_content):
-        """ 
-        ## Uncomment if needed
-        # Checks if model receive input
-        verify = GeminiVerifier()
-        verify.generate_verification_report(hash, html_content, self.mode)
-        """
-        try:
+        try: 
             model_prompt = self.prompt_generator.generate_full_model_prompt(few_shot_count, image, html_content)
+            """
+            input_response = self.model.generate_content(f'This is the input I am going to give you: {html_content}' + 'Tell me what have you received?')
+            input_response.resolve()
+            input_check_file = os.path.join('baseline', 'gemini', 'responses', f'{hash}_input.txt')
+            with open(input_check_file, 'w') as f:
+                f.write(input_response.text)
+            """
             response = self.model.generate_content(model_prompt)
             response.resolve()
             if not response.parts:
@@ -207,49 +178,44 @@ class GeminiProBaseline:
                 data = self.response_parser.format_model_response(hash, response.text, is_error=False)
             return data
         except Exception as e:
-            print(response.prompt_feedback)
             data = self.response_parser.format_model_response(hash, str(e), is_error=True)
             print(e)
             return data
-
-    def process_zip_file(self, zip_path, hash, few_shot_count):
-        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-            screenshot_path, html_path = None, None
-            image = None
-            if self.mode in [self.MODE_BOTH, self.MODE_SCREENSHOT]:
-                screenshot_path = FileUtils.extract_file_path_from_zipped(zip_ref, 'self_ref', 'screenshot_aft.png')
-                if not screenshot_path:
-                    return None
-                image = PIL.Image.open(zip_ref.open(screenshot_path))
+    
+    def process_zip_file(self, folder_path, hash, few_shot_count):
+        screenshot_path, html_path = None, None
+        image, html_content, url = None, None, None
+        if self.mode in [self.MODE_BOTH, self.MODE_SCREENSHOT]:
+            screenshot_path = os.path.join(folder_path, 'screenshot_aft.png')
+            if not os.path.exists(screenshot_path):
+                return None
+            image = PIL.Image.open(screenshot_path)
+        
+        html_path = os.path.join(folder_path, 'add_info.json')
+        if os.path.exists(html_path):
+            add_info = FileUtils.read_from_json_file(html_path)
             if self.mode in [self.MODE_BOTH, self.MODE_HTML]:
-                html_path = FileUtils.extract_file_path_from_zipped(zip_ref, 'self_ref', 'html_script_aft.html')
-            
-            if not html_path:
-                html_content = None
-            else:
-                with zip_ref.open(html_path) as html_file:
-                    html = html_file.read().decode('utf-8')
-                    html_content = self.html_extractor.extract_relevant_info_from_html_to_string(html)
-            
-            response = self.analyse_zip_file(image, few_shot_count, hash, html_content)
-            response.update({"Url": self.obtain_page_url(zip_ref)})
-            return response
+                html_content = add_info['html_brand_info']
+            url = add_info['Url']
 
-    def analyse_directory(self, zip_folder_path, date, few_shot_count, result_path):
+        response = self.analyse_zip_file(image, few_shot_count, hash, html_content)
+        response.update({"Url": url})
+        return response
+
+    def analyse_directory(self, dataset_folder_path, date, few_shot_count, result_path):
         responses = []
 
-        for zip_file in tqdm(os.listdir(zip_folder_path)):
-            if zip_file.endswith(".zip"):
-                hash = zip_file.split(".zip")[0]
-                zip_path = os.path.join(zip_folder_path, zip_file)
-                response = self.process_zip_file(zip_path, hash, few_shot_count)
-                responses.append(response)
-                time.sleep(random.randint(1, 3))
+        for folder in tqdm(os.listdir(dataset_folder_path)):
+            hash = folder
+            folder_path = os.path.join(dataset_folder_path, folder)
+                
+            response = self.process_zip_file(folder_path, hash, few_shot_count)
+            responses.append(response)
+            time.sleep(random.randint(1, 3))
         
         output_file = os.path.join(result_path, f"{self.mode}_{date}_{few_shot_count}.json")
         FileUtils.save_as_json_output(output_file, responses)
-
-
+    
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Identify the brand of the webpage. You can specify the type of analysis and the data mode.")
     parser.add_argument("mode", choices=["ss", "html", "both"], default="both", help="Choose the analysis mode.")
@@ -274,18 +240,16 @@ if __name__ == '__main__':
         folders = Constants.BENIGN_FOLDERS_VALIDATED
     
     gemini_baseline = GeminiProBaseline(mode, args.prompt_version)
-    for few_shot_count in ["0"]:  
-        for folder in folders:    
+    for few_shot_count in ["0"]:
+        for folder in folders:
             print(f"[{mode}] Processing {folder}")
-            folder_path = os.path.join(args.folder, f"original_dataset_{folder}")
+            folder_path = os.path.join(args.folder, f"{folder}")
             date = folder
-            #folder_path = args.folder # Delete this afterwards  
-            #date = 'input_check' # Delete this afterwards  
             gemini_baseline.analyse_directory(folder_path, date, int(few_shot_count), args.result_path)
             time.sleep(random.randint(10, 20))
-    
+
+
     '''
-    Example folder path: datasets/validated/
+    Example folder path: datasets/llm/
     Example result path: baseline/gemini/gemini_responses/
     '''
-

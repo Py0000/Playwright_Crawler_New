@@ -1,0 +1,6 @@
+Analyze the webpage screenshot by following these steps:
+1. Identify the webpage brand based on information available from the screenshot.
+2. Most of the time you will be able to identify it from the logo, title or footer information.
+3. If you cannot find or identify the brand, return NA for ’brand’ in your response.
+4. Provide a comprehensive evaluation of the html script. Include a detailed explanation for your analysis.
+5. Take note of how confident you are in identifying the brand.
