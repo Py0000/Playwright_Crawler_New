@@ -47,12 +47,23 @@
 
 
 ## Gemini Related
-### Getting responses from Gemini 
+### Getting responses from Gemini (From original zip files)
 * Pre-cond: Running the script from `Root` directory
-* Cmd: `python3 -m baseline.gemini.gemini [mode] [folder_path] [result_path]`
-  * **Required** `folder_path`: (Example) datasets/validated 
+* Cmd: `python3 -m baseline.gemini.gemini [mode] [phishing_mode] [folder_path] [result_path] [prompt_version]`
   * *Optional* `mode`: ss, html or both
-  * **Required** `folder_path`: (Example) baseline/gemini/responses
+  * *Optional* `phishing_mode`: phishing or benign
+  * **Required** `folder_path`: (Example) datasets/validated 
+  * **Required** `result_path`: (Example) baseline/gemini/responses
+  * *Optional* `prompt_version`: prompt sub-folder name (default is the original prompt used)
+
+### Getting responses from Gemini (From processed normal files)
+* Pre-cond: Running the script from `Root` directory
+* Cmd: `python3 -m baseline.gemini.gemini [mode] [phishing_mode] [folder_path] [result_path] [prompt_version]`
+  * *Optional* `mode`: ss, html or both
+  * *Optional* `phishing_mode`: phishing or benign
+  * **Required** `folder_path`: (Example) datasets/llm
+  * **Required** `result_path`: (Example) baseline/gemini/responses
+  * *Optional* `prompt_version`: prompt sub-folder name (default is the original prompt used)
 
 
 ### Summarizing responses from Gemini

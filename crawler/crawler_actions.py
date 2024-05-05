@@ -51,6 +51,7 @@ async def move_mouse_smoothly_bottom_right_top_left(page):
 
 async def move_mouse_smoothly(page):
     repeat_num = random.randint(2, 3)
+    status = ""
     try:
         for i in range(repeat_num):
             await move_mouse_smoothly_top_left_bottom_right(page)

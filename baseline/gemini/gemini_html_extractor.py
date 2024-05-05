@@ -41,6 +41,7 @@ class HtmlExtractor:
         texts = [tag.text.strip() for tag in soup.find_all(tag_name)]
         return ' | '.join(texts) if texts else 'Not Found'
     
+    
     def extract_relevant_info_from_html(self, html_content):
         soup = BeautifulSoup(html_content, 'lxml')
         brand_info = {
@@ -54,6 +55,11 @@ class HtmlExtractor:
             'paragraphs_text': self.extract_textual_info(soup, 'p'),
             'span_text': self.extract_textual_info(soup, 'span')
         }
-        
+
+        return brand_info
+    
+
+    def extract_relevant_info_from_html_to_string(self, html_content):
+        brand_info = self.extract_relevant_info_from_html(html_content)
         brand_info_str = "\n".join(f"{key}: {value}" for key, value in brand_info.items())
         return brand_info_str

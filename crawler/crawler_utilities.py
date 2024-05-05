@@ -35,6 +35,7 @@ def save_html_script(folder_path, file_name, content):
 
 async def extract_links(folder_path, soup, page, base_url):
     file_path = os.path.join(os.getcwd(), folder_path, util_def.FILE_EMBEDDED_URL)
+    print(file_path)
     await get_link_in_iframe(file_path, soup, page, set(), base_url)
 
     return file_path
