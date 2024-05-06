@@ -152,7 +152,7 @@ if __name__ == '__main__':
         for folder in folders:
             print(f"[{mode}] Processing {folder}")
             folder_path = os.path.join(args.folder, f"{folder}")
-            date = 'new_v2'
+            date = 'new_v3'
             gemini_baseline.analyse_directory(folder_path, date, int(few_shot_count), args.result_path)
             time.sleep(random.randint(10, 20))
 

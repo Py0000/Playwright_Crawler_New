@@ -8,5 +8,5 @@ Please adhere strictly to the following rules for your analysis:
 3. Your analysis should be grounded solely on the information from the html script and screenshot.
 4. No additional resources or external validations should be used.
 
-Take note that some pages may include information/logos of other brands, especially pages that use single sign-on features or pages created by website builder.
+Take note that some pages may include information/logos of other brands, especially pages that use single sign-on features, created by website builder or e-commerce.
 Also, take note that some fields from the HTML info may contain the value "Not Found", in those cases, do not use those fields in your analysis.
