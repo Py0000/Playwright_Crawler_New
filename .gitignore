@@ -1,6 +1,7 @@
 datasets
 
-analyzer/__pycache__
+analyzer/__pycache__/
+baseline/__pycache__/
 baseline/gemini/__pycache__/
 baseline/gemini/api_key_new.txt
 baseline/gemini/responses
@@ -8,7 +9,7 @@ baseline/utils/__pycache__/
 crawler/__pycache__/
 filter/__pycache__/
 baseline/gpt/api_key.txt
-baseline/gpt/__pycache__
+baseline/gpt/__pycache__/
 utils/__pycache__/
 validation/virus_total_api_key.txt 
 validation/__pycache__/
