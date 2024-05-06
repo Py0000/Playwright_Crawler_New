@@ -146,15 +146,15 @@ if __name__ == '__main__':
     folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC
     if args.phishing_mode == "benign":
         folders = Constants.BENIGN_FOLDERS_VALIDATED
-    folders = ["samples"]
+
     gemini_baseline = GeminiProBaseline(mode, args.prompt_version)
     for few_shot_count in ["0"]:
         for folder in folders:
             print(f"[{mode}] Processing {folder}")
             folder_path = os.path.join(args.folder, f"{folder}")
-            date = 'new_v3'
+            date = folder
             gemini_baseline.analyse_directory(folder_path, date, int(few_shot_count), args.result_path)
-            time.sleep(random.randint(10, 20))
+            time.sleep(random.randint(5, 15))
 
 
     '''
