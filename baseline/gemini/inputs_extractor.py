@@ -6,7 +6,7 @@ import zipfile
 
 from tqdm import tqdm
 
-from baseline.gemini.gemini_html_extractor import HtmlExtractor
+from baseline.html_extractor import HtmlExtractor
 from utils.file_utils import FileUtils
 
 '''
