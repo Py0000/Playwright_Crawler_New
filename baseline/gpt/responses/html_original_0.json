@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "00125bd79ce6b957c883f5cf7e64a9d607201cee7275690fc9b039f885488109",
+        "Brand": "Procter & Gamble",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Procter & Gamble is based on multiple, consistent pieces of evidence throughout the provided HTML content. The title of the webpage is explicitly \"Procter & Gamble,\" which directly indicates the brand. Additionally, the copyright line in the footer text categorically states \"\u00a9 2024 Procter & Gamble,\" reinforcing the brand ownership of the webpage content. Similar references are found in multiple sections of the HTML script including the headers and nav bar content, which mention navigating through different areas of the \"P&G\" site and explicitly indicate its association by mentioning \"2023 Annual Report\" and \"2022 Citizenship Report\" of P&G. Furthermore, the extended list of product brands mentioned in the paragraphs text (such as Tide, Gillette, Oral-B) are well-known as brands under the Procter & Gamble company, confirming the focus of the webpage content. The consistent appearance of the company\u2019s name across crucial sections like title, footer, and detailed context throughout the text makes the identification unequivocally clear. Combined, these factors provide a high level of confidence in identifying Procter & Gamble as the brand of this webpage.",
+        "Url": "https://us.pg.com/"
+    },
+    {
+        "Folder Hash": "0085fd95920c6ee381af2ff4802e70893afbe1359ecec81cb680dc6ba3cfa34f",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The analysis of the provided HTML script is quite limited due to the sparse information available. The title \"\u767b\u5f55\" translates to \"Login\" in English, which is a very generic term used on a multitude of webpages across various brands and industries, providing no specific clues towards any particular brand. Additionally, key elements that usually help identify the brand, such as the meta_description, favicon, logo_alt_text, footer_text, headers_text, and nav_bar_content are all marked as \"Not Found\". The only other piece of text provided is in the span_text which mentions \u201c\u7528\u6237\u534f\u8bae\u201d and \u201c\u9690\u79c1\u653f\u7b56\u201d, translating to \"User Agreement\" and \"Privacy Policy\" respectively. These terms are also generic and standard across numerous websites, offering no unique identifiers pointing to a specific brand. Thus, with the absence of distinctive or branded information, it is not possible to conclude the identity of the brand from the given HTML script components.",
+        "Url": "https://www.wanniucms.com/addons/wn_cjdianc/h5/410/#/wn_cjdianc/pages/auth/login"
+    },
+    {
+        "Folder Hash": "009d1f456bd895d0b52a864f69b5954ae56ee610bbb829e306e8d0c3a8fdfbad",
+        "Brand": "MyKasih",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand primarily comes from the title of the webpage, \"MyKasih Recipient Portal,\" which suggests that the webpage is linked to the MyKasih foundation or a related entity. This title serves as the major clue because it is usually intended to reflect the main purpose or affiliation of the webpage, contributing significantly to the identification of the brand. The absence of other conflicting brand information in the other elements such as the meta description, favicon, and logo alt text, which are either 'Not Found' or generic (like favicon.png), focuses the identification process on the available clear text data. The footer text which includes \"2023 All Rights Reserved\" is generic and doesn\u2019t necessarily point to a specific brand, but its repetition in the span text also referring to the \u201cMyKasih\u201d system (inferred from title correlation) supports the notion that all the content is under one proprietary brand. The headers and paragraphs are consistent with the functionality one might expect from a portal associated with this name, discussing status checks and lists (Senarai Kedai), which align with certain service offerings that MyKasih could plausibly provide in the context of a recipient portal. Therefore, the alignment of these elements enhances the confidence in identifying \"MyKasih\" as the brand of the webpage.",
+        "Url": "https://apps-mykasih.org/sumbangan-asas-rahmah/abr/"
+    },
+    {
+        "Folder Hash": "027d4c145989cff0d736769697bb9a7c87e214e923fa8ff8f314d2fc82f16003",
+        "Brand": "WORKS MOBILE Corp.",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The brand identification for this webpage mainly relies on the paragraph text, which prominently mentions \"\u00a9 WORKS MOBILE Corp.\" This inclusion strongly suggests that the webpage is affiliated with or owned by WORKS MOBILE Corp., especially as copyright statements are typically used to declare ownership and rights related to the webpage's content. The headers on the page use Korean language, indicating that the webpage might serve a Korean-speaking user base, which aligns with the brand's operational regions. While the exact nature of the webpage's services isn't clear from the HTML data provided, the mention of session expiration and login in multiple text sections (headers_text and span_text) suggests functionality associated with a webmail or user portal, areas likely to be under the administration of a communications or IT services firm like WORKS MOBILE Corp.",
+        "Url": "https://pub-79a8a379e20848e29b85f9c24e1a51fb.r2.dev/index2.html"
+    },
+    {
+        "Folder Hash": "1b01e3a5cda8eb732be1ce2f21a546a717c5de18800f9ba46cb58d01eed3f0e5",
+        "Brand": "\u73af\u7403\u7f51 (Huanqiu.com)",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.85",
+        "Supporting Evidence": "The brand for this webpage can be confidently identified as \"\u73af\u7403\u7f51\" (Huanqiu.com), primarily based on distinct clues in the HTML information provided. Primarily, the webpage title explicitly states \"\u73af\u7403\u7f51_\u5168\u7403\u751f\u6d3b\u65b0\u95e8\u6237_\u73af\u7403\u65f6\u62a5\u65d7\u4e0b\u7f51\u7ad9,\" where \"\u73af\u7403\u7f51\" translates to \"Huanqiu.com\" and the mention of \"\u73af\u7403\u65f6\u62a5\u65d7\u4e0b\u7f51\u7ad9\" indicating an affiliation with Global Times, suggesting that the website is a part of the same media group. Furthermore, the meta_description solidifies this identity by describing Huanqiu.com as a leading global news portal in China, emphasizing its comprehensive news coverage with an international perspective. The confirmation of the brand is corroborated using the email provided in the span_text which is \"jubao@huanqiu.com,\" linking directly back to Huanqiu.com and indicating that the webpage handles internal content reporting through a dedicated email associated with the Huanqiu brand. Lastly, the favicon link containing 'huanqiucdn.cn' hints towards the domain related to Huanqiu, adding an extra layer of brand consistency and recognition across web properties connected to Huanqiu.com.",
+        "Url": "https://huanqiu.com/"
+    },
+    {
+        "Folder Hash": "443e8c2eb48f88b59b7a3a2c72c9a402c6f1bc2699527a8d4dfea571ea08194f",
+        "Brand": "Shopee",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identification for this webpage is derived primarily from the title and footer text provided in the HTML script. The title, \"\u7acb\u5373\u767b\u5165\u76e1\u4eab\u5b89\u5168\u4fbf\u5229\u7684\u7db2\u8cfc\u6a02\u8da3 | \u8766\u76ae\u8cfc\u7269,\" translates to \"Login now to enjoy safe and convenient online shopping fun | Shopee Shopping.\" This directly indicates \"Shopee\" as part of the title, which is a significant indicator of webpage branding. Additionally, the footer contains multiple mentions of specific services related to \"\u8766\u76ae\" (Shopee), including \"\u8766\u76ae\u5546\u57ce\" (Shopee Mall), \"\u8766\u76ae\u9322\u5305\" (Shopee Wallet), and \"\u8766\u76ae\u76f4\u9001\u5305\u88dd\u6e1b\u91cf\u6a19\u7ae0\" (Shopee Direct Delivery Packaging Reduction Label). The footer also contains a copyright line, \"\u00a9 2024 Shopee. \u7248\u6b0a\u6240\u6709,\" further affirming \"Shopee\" as the brand. Furthermore, the company details specified as \"\u65b0\u52a0\u5761\u5546\u8766\u76ae\u5a1b\u6a02\u96fb\u5546\u6709\u9650\u516c\u53f8\u53f0\u7063\u5206\u516c\u53f8\" translate to \"Singapore Shopee Entertainment E-commerce Co., Ltd. Taiwan Branch,\" reinforcing the conclusion that the website is related to the Shopee brand. This comprehensive analysis of the visible brand identifiers in the provided HTML information supports a confident identification of Shopee as the brand of the webpage.",
+        "Url": "https://shopee.tw/buyer/login?next=https%3A%2F%2Fshopee.tw%2F"
+    },
+    {
+        "Folder Hash": "4474cc587adf209d48ea0e04f68096be62ee7468858d3f3634a8f9fa975e0003",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The evidence pointing to \"Microsoft\" as the brand is overwhelming and appears consistently across the HTML script's diverse sections. The webpage title explicitly mentions \"Microsoft Defender for Cloud Apps | Microsoft Security,\" clearly indicating the brand and its specific security product. Additionally, the header includes multiple mentions of \"Microsoft Security,\" reinforcing the brand's identity associated with this security service. The footer text also lists various Microsoft products and services, such as Surface devices and Microsoft 365, aligning with Microsoft's product range. Furthermore, the navigation bar and the extensive text within the paragraphs continue to reference an assortment of Microsoft products and technologies\u2014e.g., Microsoft Defender, Microsoft Intune, Microsoft Purview\u2014all of which are proprietary Microsoft offerings. The metadata description and other text snippets throughout the HTML script continually reference and promote Microsoft's security solutions, such as Microsoft Defender for Cloud Apps, which is a specific tool in their wider security ecosystem, thereby confirming the brand identity as Microsoft with high certainty.",
+        "Url": "https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-cloud-apps"
+    },
+    {
+        "Folder Hash": "5a7ce2c8b28da72760e7f2573991b0fb9995036f458ef058c5d7b46ab770f6a4",
+        "Brand": "PUBG MOBILE",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The brand \"PUBG MOBILE\" can be confidently identified from the given HTML information. The primary evidence comes from the title of the webpage, \"PUBG MOBILE: Royale Pass Month 22,\" which explicitly mentions \"PUBG MOBILE.\" Additionally, the URL of the favicon provided (https://www.pubgmobile.com/common/images/icon_logo.jpg) contains the domain \"pubgmobile.com,\" which directly links to the PUBG Mobile website, serving as a strong supporting evidence of the brand. The footer text also strongly supports this identification, as it mentions \"COPYRIGHT \u00a9 PUBG CORPORATION. ALL RIGHTS RESERVED.\" - PUBG Corporation is known for PUBG Mobile, further tying the webpage to this brand. The overall integration of these elements \u2014 title, favicon URL, and footer copyright notice \u2014 paints a consistent picture aimed specifically at PUBG Mobile's branding and offerings, thus confirming it as the brand of the webpage.",
+        "Url": "https://espelhorosa.com/hanon/b/"
+    },
+    {
+        "Folder Hash": "76583191998afc31073ac670d9362c891be53f446baf4cfb54642f848600fe6d",
+        "Brand": "Apple",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's brand is clearly identified as Apple based on multiple pieces of information provided in the HTML script. The most definite pieces of evidence come from the \"footer_text\" and \"headers_text\", both of which contain the phrase \"Apple Footer\". This not only mentions 'Apple' explicitly, but the use of 'Footer' in a consistent manner suggests it is standard templating applied across Apple's webpages. Furthermore, the \"nav_bar_content\" contains extensive references to Apple\u2019s product lines such as \"Mac,\" \"iPad,\" \"iPhone,\" \"Watch,\" \"AirPods,\" and \"TV \ubc0f \ud648,\" which are all well-known Apple products, further confirming the brand identity. Additionally, the \"footer_text\" provides legal and corporate details, explicitly ending with \"Copyright \u00a9 2023 Apple Inc. \ubaa8\ub4e0 \uad8c\ub9ac \ubcf4\uc720.\" which translates to \"All rights reserved by Apple Inc.\" Lastly, the presence of an Apple-specific contact number and mention of sales and privacy policies typical for Apple\u2019s customer engagement further support the claim. All these elements solidly point to Apple as the brand of the webpage.",
+        "Url": "https://skstore.top/"
+    },
+    {
+        "Folder Hash": "bb1cec5bb0bdf5285f4e281e05573339ae7c67a3e914d4be20e7e6c17ee23e28",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.99",
+        "Supporting Evidence": "The identification of the brand as Facebook is primarily grounded on multiple prominent references in the HTML information provided. The title of the webpage clearly reads \u201cFacebook,\u201d which is a direct indication of the brand. The favicon, named \"2021_Facebook_icon.svg.png,\" specifically references Facebook both by name and with a likely representation of its logo icon style from the year 2021. Furthermore, the navigation bar content includes the phrase \"Create a Page,\" which is a known feature specific to Facebook, used for creating pages for businesses, brands, or public figures on its platform. Lastly, the span text includes phrases like \"Log in | Create a Page,\" typical of Facebook\u2019s webpage layout, providing further evidence that the webpage is associated with Facebook. All these elements are consistent with the branding and functionality generally known for Facebook, leading to a high confidence in this identification.",
+        "Url": "https://anmoljaiswal291.github.io/facebook2/"
+    }
+]

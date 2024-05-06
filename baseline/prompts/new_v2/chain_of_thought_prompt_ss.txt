@@ -1,0 +1,9 @@
+Analyze the webpage screenshot by following these steps:
+1. Identify the webpage brand based on information available from the screenshot.
+2. Most of the time you will be able to identify it from the logo, title or footer information.
+3. Sometimes, no brand information could be found, try to determine based on analysis of the design of the webpage screenshot.
+4. Take note that some pages may include information/logos of other brands, especially pages that use single sign-on features or pages created by website builder. Some famous single sign-on operators include: Facebook, Google, Microsoft. Some famous website builders include: Wix, Weebly, GoDaddy, Shopify, Squarespace, Hostinger. When examining screenshots or HTML information from website builders, the logos of these builders might appear. Some common websites that might include brands of other brands are e-commerce websites. It's important to look beyond these logos to accurately identify the brand or website the user intends to create.
+5. If you cannot find or identify the brand, return NA for ’brand’ in your response.
+6. Additionally, also note whether there are fields asking for sensitive user credentials as well as any call-to-action buttons/links. Examples of sensitive user credentials: email, username, password, phone number, etc. Examples of call-to-action elements: buttons or links that lead to asking for user credentials.
+7. Provide a comprehensive evaluation of the screenshot. Include a detailed explanation for your analysis.
+8. Be precise about how confident you are in identifying the brand.
