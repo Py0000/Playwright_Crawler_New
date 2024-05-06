@@ -110,7 +110,7 @@ async def crawl(browser, url, url_hash, folder_path, timeout_multiplier, ref_fla
         html_content = await page.content()
         soup = BeautifulSoup(html_content, "lxml")
         
-        '''
+        
         urls = []
         urls.append(url)
         links = soup.find_all('a')
@@ -123,7 +123,7 @@ async def crawl(browser, url, url_hash, folder_path, timeout_multiplier, ref_fla
                 if current_url not in urls:
                     urls.append(current_url)
         print("\nUrls:\n", urls)
-        '''
+        
         print("[Client-Side] Saving HTML script...")
         content = soup.prettify()
         if content is not None:
