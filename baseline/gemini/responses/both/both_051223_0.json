@@ -1,0 +1,212 @@
+[
+    {
+        "Folder Hash": "016cd121e62de4ee0067f78763543cfb6ef088021a9c8ba113dc6289cf2d0932",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Coinbase logo, and the HTML script contains the text \"Coinbase\". The webpage is asking for the user's recovery phrase, which is a sensitive user credential. The webpage also has a call-to-action button that says \"Continue\".",
+        "Url": "https://third-friendly-diadem.glitch.me/jade.html"
+    },
+    {
+        "Folder Hash": "02af6327250b9e12424c2dcb37e0a558d503af1aa75e2cbbd7e52235af0b5651",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Username, Password",
+        "List of Call-To-Actions": "Sign in, Back to Cart",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the logo of Yahoo and the words \"Let's get started\" on the page. The HTML script contains the words \"Sign in to your account\", \"Email or Username\", and \"Password\". These are all strong indicators that the brand is Yahoo.",
+        "Url": "https://sky-102647.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "03412d8accfcc1a53471c78a46e9fbacaf8c274e6977deddcfa4b28c4f929399",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://nationwide-online.net/"
+    },
+    {
+        "Folder Hash": "064f22dcda675c4108a7c77a957450faf5d1c2ad24ea2774d44cdcff122e4f11",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Continue, LOGIN, Checkout, Back to Cart",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot. Additionally, the title of the page is \"Home | Mail\", which suggests that this is a Microsoft login page. The HTML information also contains the text \"Continue\" and \"LOGIN\", which are both commonly used call-to-action phrases.",
+        "Url": "https://mail-105934.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "06a867da9e9f012e77681b23f89fb20b7c0fdbeee1a447cae22d2291e205673d",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Verif - Pemulihan Akun\", which indicates that the brand is related to account verification or recovery. The logo on the top left corner of the screenshot also shows the Meta logo, which further confirms that the brand is Meta. Additionally, the footer text includes the text \"Create your own unique website with customizable templates. Get Started\", which suggests that the webpage is built using a website builder platform. The \"Powered by Weebly\" text at the bottom right corner of the screenshot also indicates that the webpage is powered by Weebly, a website builder platform owned by Meta.",
+        "Url": "https://pulihkan-fb2023.weebly.com/verif.html"
+    },
+    {
+        "Folder Hash": "0771b311818476f1401c4c874c92aad5f3ac420daf43afd853a869f4e1b1a9af",
+        "Brand": "eBay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Register, Log in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Home\", and the logo is eBay's. The footer text contains \"eBay\". The page has two call-to-action buttons: \"Register\" and \"Log in\". The page also has two fields asking for sensitive user credentials: \"email\" and \"password\".",
+        "Url": "https://ebaymg.com/index/user/login"
+    },
+    {
+        "Folder Hash": "07994fdc46c0900efa4814964924ba7b8029d1684cb2244da7bb2d295356e716",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://the-real-life-company-singapore.real-www.com/"
+    },
+    {
+        "Folder Hash": "081c65126aa5a2b56b4a4f92eedb0015cce1d0715658a487e7babbe3ff97d013",
+        "Brand": "EE",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Superfast 5G & 4G Phones, Tablets and Fibre Broadband | EE\", which indicates that the brand is EE. The logo in the screenshot is also that of EE. The footer text includes \"Help\", \"Contact us\", \"Find a store\", \"Coverage checker\", \"EE Community\", \"Orders and returns\", \"Trade In\", \"Our websites\", \"Small business\", \"Large business\", \"BT Group\", \"Digital Society\", \"Digital inclusion and sustainability\", \"Digital accessibility\", \"EE Gender pay gap\", \"Modern slavery statement\", \"Our company\", \"About us\", \"Students and key workers\", \"Newsroom\", \"Careers\", \"Legal and privacy\", \"Terms and conditions\", \"Privacy centre\", \"Cookie settings\", and \"Codes of practice\", which are all consistent with the branding of EE.",
+        "Url": "https://ee.co.uk/"
+    },
+    {
+        "Folder Hash": "09a7e39cde421652c13fc156c85cb35795054795ec5fb67543592de8a74af019",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Next, Continue Shopping, Checkout",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Sign in to continue to Outlook\". The HTML script contains the following information:",
+        "Url": "https://outlook-100237.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "0c0608968fc943052de38332b504e7ff00debaba5e1cb2c314a535342e8a7649",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly visible in the screenshot, and the HTML information also contains the word \"Facebook\". The page has fields asking for sensitive user credentials such as email address or phone number and password. It also has call-to-action elements such as \"Log In\", \"Create New Account\", and \"Create a page\".",
+        "Url": "https://harjai16.github.io/Facebook-login-page/"
+    },
+    null,
+    {
+        "Folder Hash": "5567e926418568c90a1a3ebc6c5aba94d81b4b7b19f6cf255cf54d39fc5a01a0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"www.Netflix.com\", and the logo in the screenshot is that of Netflix. The screenshot also shows a header that says \"Enjoy big movies, hit series and more from just \u20b9 149.\", which is a clear indication that the webpage is for Netflix. Additionally, the HTML script contains the text \"Ready to watch? Enter your email to create or restart your membership.\", which confirms that the webpage is asking for user credentials.",
+        "Url": "https://shivanshu-mall.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "64bd0f8100a8087eec7f6cd924dbeaf5c94ba21ccd475180c4c45226950a9d0c",
+        "Brand": "bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo, page title, and footer text all contain \"bet365\". The navigation bar content also contains \"bet365\". Therefore, I am confident that the brand is bet365.",
+        "Url": "https://www.7365win.com/#/home"
+    },
+    {
+        "Folder Hash": "6ecf057eab4cdf1d0f1dd653432b638534f66727ee1bb85c66b721a770c62766",
+        "Brand": "GNDI",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Plano de sa\u00fade GNDI\". The logo, footer text, and multiple texts throughout the page also mention \"GNDI\".",
+        "Url": "https://www.gndisa.com.br/"
+    },
+    {
+        "Folder Hash": "7b2496e3855dbf20d62f039b8e6a40e3e00fe70cd76616833d894a6e2e70fa9e",
+        "Brand": "Discord",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Login, Create an invite-only place where you belong, Download for Windows, Open Discord in your browser, Ready to start your journey?, Download for Windows, Sign up",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Discord | Your Place to Talk and Hang Out\", and the logo is Discord's. The screenshot also shows Discord's mascot. The HTML information contains the text \"Download Discord\", \"Open Discord in your browser\", \"Create an invite-only place where you belong\", \"From few to a fandom\", \"Reliable tech for staying close\", \"Ready to start your journey?\", \"Login\", \"Sign up\", \"Nitro\", \"Status\", \"App Directory\", \"About\", \"Jobs\", \"Brand\", \"Newsroom\", \"Fall Release\", \"College\", \"Support\", \"Safety\", \"Blog\", \"Feedback\", \"StreamKit\", \"Creators\", \"Community\", \"Developers\", \"Gaming\", \"Official 3rd Party Merch\", \"Terms\", \"Privacy\", \"Cookie Settings\", \"Guidelines\", \"Acknowledgements\", \"Licenses\", and \"Company Information\". These are all strong indicators that the brand is Discord.",
+        "Url": "https://discordapi.aiparty.art/"
+    },
+    {
+        "Folder Hash": "7f5b2d71e5c2f6efc21837e3fd354d88a6062315eb174fc992ee8c30bf1c6318",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Watch Free For 30 Days",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" in the title and in the logo. The footer also has the text \"Questions? Call 1-866-579-7172\", which is the customer service number for Netflix.",
+        "Url": "https://jamesya28.github.io/Netflix_Landing/"
+    },
+    {
+        "Folder Hash": "95fd3cc601baaa4dac2bd92065bcaad8ffbdf0bcd5e9cfbd8fbd7c2058784a21",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign up for the free version of Microsoft 365, Buy now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Login | Microsoft 365\", and the footer contains the text \"Microsoft 365\". The screenshot shows the Microsoft logo and the words \"Microsoft 365\" in the top left corner. The page also has a call-to-action button that says \"Sign up for the free version of Microsoft 365\". All these pieces of evidence indicate that the brand of this webpage is Microsoft.",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "a56175fd70509eab7e00a834452ec9fc469408b7c43e9592ea14a3c845b93a36",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" in the title, logo, and footer. The screenshot also shows the Netflix logo, which is a red \"N\" on a black background. The webpage is about Netflix, and it asks for the user's email and password to sign in. The webpage also has a call-to-action button that says \"Get Started.\"",
+        "Url": "https://ayush979876.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "ceb43c6f039ec7c362e6f60162dd54e222569a2fdc9a0e60ca5db8edd3092006",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "GET STARTED",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix\", and the logo is also that of Netflix. The page also has a section for creating profiles for kids, and it mentions that Netflix is available on a variety of devices. The page also has a section for frequently asked questions, and it provides a phone number for customer service. All these pieces of evidence indicate that the brand of this webpage is Netflix.",
+        "Url": "https://nisha-kashyap742.github.io/netflix.github.io/"
+    },
+    {
+        "Folder Hash": "daa641388c63caed2ad541cb1e646952ab56661c5d6f75fec13dfe673aea542c",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "Since the webpage is a screenshot of a WhatsApp group chat, it is not possible to identify the brand. However, there are fields asking for sensitive user credentials such as phone number and password. Additionally, there are call-to-action buttons such as \"Cari akun Anda\" and \"Apakah Anda melupakan kata sandi Anda?\".",
+        "Url": "http://chat-whatsapp.garstfa.my.id/"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0023d5ce7e7eb84572b4f6fe9d4883a841023bd836b7781cfc713b1e72ac8a5a",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the brand logo, page title, and copyright information of bet365. The HTML script contains the brand name, contact details, and links to the bet365 website. The source code also contains references to the bet365 API.",
+        "Url": "https://bet988s.com/home"
+    },
+    {
+        "Folder Hash": "003d297f628fb38c0eb0fad53c163febab6fc878feaccf2e62ad749965d24149",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo, page title, and the words \"Sign in\" are all strong indicators that this is a Microsoft login page.",
+        "Url": "https://pub-718c8309d9b14a8084b53d0a2ba966ec.r2.dev/owam-out.html"
+    },
+    {
+        "Folder Hash": "02121e9c2b17a6f9ec15c2a33a3f0bf53c45715b191135a956eff5e67c71760e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is Outlook, which is a product of Microsoft. The screenshot shows the Outlook logo and the login page. The HTML script contains the words \"Outlook Web App\" and \"Iniciar Sesi\u00f3n\". The page also has fields for email address and password, and a \"Sign In\" button. The footer contains the words \"Powered by Weebly\".",
+        "Url": "https://outlookkupdateteam.weebly.com/"
+    },
+    {
+        "Folder Hash": "02702b7bb2ffe7f048827fd282a4b0ccd5cc509572e9c400ed4ae06e78215ad8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Sign In | Register",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, logo, and footer all contain the word \"Netflix.\" Additionally, the screenshot shows a form that asks for the user's email address. This information strongly suggests that the webpage is associated with Netflix.",
+        "Url": "https://muzammilx07.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "029332bdffafd7fb20351d37cc249016aec88052f780e63c312bdd9272c54728",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Verify Your Identity\". The HTML script contains the text \"To receive and download this PDF file, please enter specific professional email credentials that this document was sent to\", which indicates that the user needs to enter their email address to access the file. The page also contains the button \"Next\", which is a call-to-action for the user to continue.",
+        "Url": "blob:https://cloudflare-ipfs.com/4876b9aa-4a54-4bda-bf4a-f18dca171c84"
+    },
+    {
+        "Folder Hash": "02e057e662009be6cb25874ef8c00a4c1139241905f35ca6e6a86ff83354c0cf",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://blog.s.id/post/2022/05/19/oops-you-accessing-forbidden-link-what-is-that-9m00gu9i3?utm_source=home_sid&utm_medium=redirect"
+    },
+    {
+        "Folder Hash": "04dbaf92ef0ca1fed2f2eb85bac36e693abdb609b77ae6eb50096805b648a954",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Account Locked\", which is a strong indication that the brand is Facebook. Additionally, the page's favicon is the Facebook logo, and the page's source code contains references to Facebook's servers. Furthermore, the screenshot shows a Facebook-branded padlock icon and the text \"Your account has been locked\".",
+        "Url": "https://verification-page-ads.com/lDnxYCc3TxKSgVVslCHAiXjcXv1eSif6k0YAo2vrf8gNJO119rBpXuhvMCvy13uA48Yow8xBXFczNxhfTrangdau.html"
+    },
+    {
+        "Folder Hash": "05163733c2cf79688a519d349974d5e2460ee4080f53868a9431f00c8cdb0474",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Pass",
+        "List of Call-To-Actions": "Next, Continue Shopping, Checkout",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Home | AT&T\", and the logo is AT&T's logo. The footer also contains the text \"\u00a9 2023 AT&T\". Additionally, the webpage's source code contains the text \"AT&T\" in multiple places.",
+        "Url": "https://att-103108.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "06da2b349d8391aed062b2ac23ed538011cd1fc24a85805a7223173dd125a3aa",
+        "Brand": "Gemini",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Gemini - Sign In\". The logo in the screenshot matches the Gemini logo. The footer text includes \"\u00a9 Copyright 2023 Gemini Trust Company, LLC.\". The HTML script contains fields for email address and password. There are also call-to-action buttons for \"Sign In\", \"Create new account\", and \"Forgot password?\".",
+        "Url": "https://renablegemini-signin.web.app/cb0ea6f2d1c9d246f7529c1317e227ac1aa38"
+    },
+    {
+        "Folder Hash": "06dcb99194d692e1b64a50577befe70a1baadadace9dabcb1e1888f52726322f",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "NEXT",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"AT&T\", and the logo matches AT&T's branding. The page also has fields asking for email address and password, which are sensitive user credentials. Additionally, there is a call-to-action button that says \"NEXT\".",
+        "Url": "https://att-107333.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "1132d513064f9cbd06d4a67e55d71d05de1b057a83e53bf890fbe38cb7d3ee96",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Get Started, Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix India \u2013 Watch TV Shows Online, Watch Movies Online\", and the logo is also of Netflix. The footer contains the text \"Questions? Call 000-800-919-1694\", which is Netflix's customer service number. The webpage also has a section called \"Frequently Asked Questions\", which is a common feature on Netflix's website.",
+        "Url": "https://kshravyab.github.io/Movies/"
+    },
+    {
+        "Folder Hash": "6a6851eb5446ab402cd5df390b32a4ab9ee1953460ace99c4968db255a548ec8",
+        "Brand": "CREAGIDEM",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"CREAGIDEM\" is prominently displayed in the logo, page title, and footer. The page also includes a login form with fields for the user's login, customer number, and password. This is a clear indication that the brand is CREAGIDEM.",
+        "Url": "https://tools.creagidem.com/moncrea"
+    },
+    {
+        "Folder Hash": "97b410d0e17b4bb3f6bafe57b4d5e84b3e4aa44ddfa17bd5a84277fb46e5b6f2",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password, phone number",
+        "List of Call-To-Actions": "Login, Sign Up",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"MetaMask Login | Metamask Sign In\", which strongly suggests that the brand is MetaMask. Additionally, the logo in the screenshot matches the MetaMask logo. Furthermore, the HTML information contains the following fields: \"email\", \"username\", \"password\", and \"phone number\", which are all sensitive user credentials. Finally, the HTML information contains the following fields: \"Login\" and \"Sign Up\", which are both call-to-action elements.",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "a5730957b4e0e813dd1209a8ec64d9b6df5c428b3d4488be4387bd59800af9ba",
+        "Brand": "Free Hold Properties",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "SELL YOUR PROPERTY",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Free Hold Properties at the top left corner. The footer also contains the company's name and contact information. The title of the page is \"Page not found \u2013 Free Hold Properties\", which indicates that the page is part of the Free Hold Properties website.",
+        "Url": "https://freeholdproperty.ae/wp-admin/x8z9.php?el20=3mail@b.c"
+    },
+    {
+        "Folder Hash": "c0fde17683b2fe017214e7a1ab39cbad6538adaa4fe41ab082060ea15c557eb9",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmbSH4QTBtodXn7AWC9ajietCHNcLowXxf2JRiSf3Ei4aW"
+    },
+    {
+        "Folder Hash": "c1a2ca3a66d8fc408ad6daf129d1f8b2ddd415f1847c296a703cc6678215e450",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "",
+        "Url": "https://savasten0.cc/"
+    },
+    {
+        "Folder Hash": "c60ac9f23b634af849beeddc946b34f83f160bfdc16583b49891fe8e05863d36",
+        "Brand": "Etudes",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join 900+ subscribers",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"My Blog - My WordPress Blog\". The logo is \"My Blog\". The footer text is \"My Blog. My WordPress Blog\". The navigation bar content is \"Sample Page\". The paragraph text includes \"My Blog\", \"\u00c9tudes\", \"\u00c9tudes is a pioneering firm that seamlessly merges creativity and functionality to redefine architectural excellence\", \"Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers\", \"Experience the fusion of imagination and expertise with \u00c9tudes Architectural Solutions\", \"Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers\", and \"\u00c9tudes has saved us thousands of hours of work and has unlocked insights we never thought possible\". The span text includes \"in\", \"Team\", \"History\", \"Careers\", \"Privacy Policy\", \"Terms and Conditions\", \"Contact Us\", \"Facebook\", \"Instagram\", and \"Twitter/X\".",
+        "Url": "https://leieem.com/"
+    },
+    {
+        "Folder Hash": "dabac25b314a758b2ade58de5be3f6790a2ced935d0f4cfd8fc8cba694f571c9",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "LOGIN",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot shows a login page for an email service. The HTML information contains the text \"WEBMAIL\" and \"sign in using your email and password to retrieve pending emails\". However, there is no logo or other identifying information that would indicate the brand of the email service.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihnecv6xgkb7axyv3tbhulcl7yt5t2gmhs5xgfxxfikqdcoil73d4"
+    },
+    {
+        "Folder Hash": "e330ef7a7761bf403e97ad9d57f54e18bbeb3009f04fa0d13ab42e38abd6a9ff",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix India - Watch TV Shows Online, Watch Movies Online\", and the logo is also that of Netflix. The webpage also has a section for creating profiles for kids, which is a feature of Netflix. Additionally, the webpage has a section for frequently asked questions, which is also a feature of Netflix.",
+        "Url": "https://akkpk.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "e88468e8a894aefeb45f8c645e4e0569690eef94fb824a72f7e85084dc1ab0f7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix India - Watch TV Shows Online, Watch Movies Online\", and the logo is also that of Netflix. The page has a clear call-to-action button that says \"Get Started\", and it asks for the user's email address. The page also has a section called \"Frequently Asked Questions\", which is common for websites that provide streaming services.",
+        "Url": "https://kadamgp.github.io/Netflix-Clone/"
+    }
+]

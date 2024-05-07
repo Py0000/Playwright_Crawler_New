@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "00362691ad515c38328b22f5b071cbb3dfd5920413bce502de94bf53a4fe3d57",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"AT&T Mail info\", and the logo is AT&T's logo. The page also has fields asking for sensitive user credentials, such as User ID and Password. Additionally, there is a call-to-action button that says \"Continue\".",
+        "Url": "https://att-mail-info.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "00ab91553863586ba9bcb92b132a42835c8f458387c8ed82e12997a06b2b623b",
+        "Brand": "DocuSign",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The screenshot shows the DocuSign logo and the words \"DocuSign Portal\". The HTML script contains the text \"DocuSign Portal\" and \"To continue, first verify it's you\". This evidence suggests that the brand is DocuSign.",
+        "Url": "https://docusign16112023docu0sign01839.s3.nl-ams.scw.cloud/docu.html"
+    },
+    {
+        "Folder Hash": "00d52b36782e8bd2e08b4acb1f9d210868e74ba616065c52a057a85ecd1131fd",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"DPD (EN) -\", and the logo in the screenshot matches DPD's logo. The footer text also includes \"\u00a9 2023 DPD\". Additionally, the screenshot shows a tracking number and a section for scheduling a new delivery. These details strongly suggest that the brand is DPD.",
+        "Url": "https://tracktrace.dpd.parcel.details.20-251-144-24.cprapid.com/info/update.php"
+    },
+    {
+        "Folder Hash": "018942efa16ee39476eabde8c3db30d7c53374cb602a2b33aa92b105dc077cb1",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign In, Join Steam",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Sign In,\" and the logo in the screenshot is that of Steam. The footer text includes the text \"Valve Corporation,\" which is the company that owns Steam. The HTML script includes fields for email and password, which are commonly used as credentials for logging in to accounts. The HTML script also includes a button with the text \"Sign In,\" which is a common call-to-action for logging in to accounts.",
+        "Url": "https://steamcorumunity.ru/gift"
+    },
+    {
+        "Folder Hash": "021bffc44c3b2ce2138f4f9a01d4061b1c5b71d13d521d737df23b3d2fb6b638",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The DPD logo is clearly visible in the screenshot. The title of the page is \"DPD (DE) - Singapore\". The footer text reads \"\u00a9 2023 DPD\". The favicon is also the DPD logo.",
+        "Url": "https://verfolgen.sie.dpd.com.paketdetails.20-215-40-188.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "0335530af7d10cbdd52298135851077757a579585684c217a599be111b9a8b4d",
+        "Brand": "eBay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Register, Log in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Home\" and the logo is eBay's logo. The footer text contains \"eBay\". The webpage has two buttons, one says \"Register\" and the other says \"Log in\". The HTML code contains fields for email and password.",
+        "Url": "https://ebayvips.com/index/user/login"
+    },
+    {
+        "Folder Hash": "05316322b44afe9280b5ff5d757ae51e3147804d70467e8f97da0b5b5fbaf1b8",
+        "Brand": "Banco de Bogota",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Clave dinamica",
+        "List of Call-To-Actions": "Ingrese su Clave Dinamica, Iniciar sesion",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The brand is Banco de Bogota because the logo in the screenshot matches the logo of Banco de Bogota. Additionally, the title of the page is \"Sucursal Virtual Personas - Banco de Bogota\", which further confirms that the brand is Banco de Bogota. The page also has a footer with the text \"Copyright \u00a9 2023 Banco de Bogota\", which further confirms the brand.",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATOTP/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "056ba70ddf3a5f6758c9c5d7ff273a1a6cce36eef155eba0aa72c6791efe54fe",
+        "Brand": "Banco de Bogot\u00e1",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Sucursal virtual solicitud de creditos libre inversion\", which indicates that it is related to a virtual branch for requesting loans. The logo in the screenshot and the favicon both display the Banco de Bogot\u00e1 logo. Additionally, the footer text includes the bank's copyright information. The presence of fields requesting sensitive user credentials such as email, N\u00famero de Identificaci\u00f3n, and Celular, further supports the identification of the brand as Banco de Bogot\u00e1.",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATMAIL/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "0596e728718562ea71cc13a39ab29fd030b4eb393857c01f70ebd9e372316464",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://viralwomanmelayu.st-me.id/"
+    },
+    {
+        "Folder Hash": "05e01b51ab1ad1f60317613efe29ace689aefb237438637e91416e90827c59bc",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://tanjant.com/vds/cvd/beaxa/xca/?3243565453="
+    },
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"USPS.com\u00ae - USPS Tracking\u00ae Results\", and the logo in the screenshot is that of USPS. The footer contains links to USPS's social media pages, and the copyright notice at the bottom of the page also confirms that the website is owned by USPS.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address/Login ID, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"DHL\", and the logo is also of DHL. The footer text also contains \"Copyright 2023. Powered by Webauthor \u00ae. Privacy Policy. All Rights Reserved. LX-135-200 (Execution Time: 0.03 seconds)\". The webpage is likely to be a DHL login page since it asks for credentials and has a \"Sign In\" button.",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "Members 1st FCU",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "SIGN-IN, Click here to register",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the logo of Members 1st FCU in the top left corner. The footer of the webpage also contains the copyright information for Members 1st FCU. Additionally, the HTML information contains the text \"Members 1st FCU\" in the title and meta description tags.",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "VERIFY ACCOUNT",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The words \"Facebook\", \"account\", \"password\", and \"VERIFY ACCOUNT\" are present in the screenshot.",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Orange, a French telecommunications company. The title of the webpage is \"messagerieorange\", which suggests that the webpage is related to Orange's messaging service. The footer of the webpage also contains the copyright information of Orange. In addition, the HTML script contains references to Orange's website and branding.",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Webmail Login\" and the logo is that of cPanel. The footer text reads \"Copyright \u00a9 2022 cPanel, Inc.\" and the page includes fields for email address and password.",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "United States Postal Service",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage's title is \"USPS.com\u00ae - USPS Tracking\u00ae Results\", and the logo is of the United States Postal Service. The footer contains the text \"Copyright \u00a9 2023 USPS. All Rights Reserved.\" The screenshot shows the USPS logo and the words \"United States Postal Service\" in the header. The page also has a USPS tracking number field.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, email, mobile, password",
+        "List of Call-To-Actions": "NEXT",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Yahoo logo, and the title of the page is \"Home\". The page also has a form that asks for the user's username, email, mobile, and password. The form also has a button that says \"NEXT\".",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

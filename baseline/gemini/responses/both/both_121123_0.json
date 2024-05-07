@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "000b0df78edcac38fedb9be51172525cf51cc8f7fe73bc363a56cf03f9bba81b",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "CHECK NOW",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage has the text \"PayPal Checker By Hatab Aodaz\" in the title. However, I cannot identify the brand based on the screenshot and HTML information provided.",
+        "Url": "https://checker.anodaz.uk/"
+    },
+    {
+        "Folder Hash": "00805670979fe1b44778eb96f9c9ffbbe8058371d270bc63952f638c5322cb0d",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Officials_Windows\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30bb\u30f3\u30bf\u30fc\" and the logo is that of Microsoft. The footer text contains the contact number (0101) 20541-77572. The screenshot also shows a pop-up window with the Microsoft logo and branding. The webpage also contains the text \"Microsoft Support\".",
+        "Url": "https://mrx9u1sjf03fbm.azureedge.net/7572/"
+    },
+    {
+        "Folder Hash": "010f5d917380738405014abdd3e197261af1e6f3195599368f45aa0badd21bcf",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words \"Facebook\" and \"Community Standards\" in its title and meta description, respectively. Additionally, the logo of Facebook is displayed on the webpage. The page requests the user to enter their email address or phone number and password, which are sensitive user credentials. The page also has a \"Continue\" button, which is a call-to-action element.",
+        "Url": "https://jianshan.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "0195bf7176c9b53fcc59758fcaee641f0732a9236fd5b6bc5dadcaf712f8537e",
+        "Brand": "DenizBank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Ad ve Soyad, Telefon Numaras\u0131, Tc Kimlik Numaras\u0131",
+        "List of Call-To-Actions": "\u015eimdi Ba\u015fvur",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"DenizBank\", and the logo in the screenshot matches DenizBank's logo. Additionally, the HTML information includes fields asking for sensitive user credentials such as \"Ad ve Soyad\", \"Telefon Numaras\u0131\", and \"Tc Kimlik Numaras\u0131\", and a call-to-action button with the text \"\u015eimdi Ba\u015fvur\". Therefore, I am confident that the brand of this webpage is DenizBank.",
+        "Url": "https://kredim.online/"
+    },
+    {
+        "Folder Hash": "01b5753e8df34121e3c70064d15a366cbb4a49948de7a3e8392b630d04b1eb9f",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address or phone number, password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows a Facebook login page. The title of the page is \"Community Standards\". The HTML information contains the text \"We detected unusual activity in your account today. This can result in your account being permanently disabled for not complying with the Community Standards. We have reviewed this decision and it cannot be changed.\" This text is consistent with the Facebook login page. Additionally, the HTML information contains the text \"To avoid deactivating your account, please verify your account.\" This text is also consistent with the Facebook login page. Therefore, I am confident that the brand of the webpage is Facebook.",
+        "Url": "https://rizhao.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "020a836cba7096308eb9332d8f7ff5a40404015d020dc16feda19978f3a9db18",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words \"Facebook\" and \"Community Standards\" in the title and meta description, respectively. The logo is also that of Facebook. The page asks for the user's email address or phone number and password, which are sensitive user credentials. It also has a call-to-action button that says \"Continue\".",
+        "Url": "https://photos.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "02d070e2516b721d7b186f07afd90ac95e94b5cc0f218b9f7ccc237c7cc6159c",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words \"Facebook\" and \"Community Standards\" in the title and meta description, respectively. Additionally, the logo of Facebook is displayed on the top left corner of the webpage. The page also asks for the user's email address or phone number and password, which are sensitive user credentials. The presence of a \"Continue\" button indicates that the webpage is asking the user to take an action.",
+        "Url": "https://missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "043e30b9af6ed0d0c38310701758e7867a35eb103cb92cafca59e5ba0193cdc0",
+        "Brand": "Codashop",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Beli sekarang",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, meta description, logo, and footer all contain the brand name \"Codashop\". The webpage is about how to top up Free Fire diamonds using Codashop. The webpage has a call-to-action button that says \"Beli sekarang\" (Indonesian for \"Buy now\").",
+        "Url": "http://codashop49119.terbaru-vip.my.id/vhsfhqpdhdsih6/"
+    },
+    {
+        "Folder Hash": "047bed6387e7820ff2ff504930c17e73ad242d04e9bea95c0424ef6725cd74dd",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"Facebook\" is prominently displayed at the top of the page. The page also has a blue button that says \"Log In\", which is a common call-to-action for Facebook login pages. The page also has a link that says \"Create New Account\", which is another common call-to-action for Facebook login pages. The page also has a link that says \"Forgot Password\", which is another common call-to-action for Facebook login pages.",
+        "Url": "https://dealer-motoryzacyjny.pl/authorize.php?zfTdMYvohkjkJAcDot4kVez9hd5SwZXVYKIXQZnZ30J1goyvBy4eJ5LZYIUpNTbPkqBdyaDu4RYtFENVICtu2FgA1QuLJOsxGp7KdNItzMHBiH7oj7b2BLuN3MGyQ62hmGmxMvfn6p4qjBQVLWdVATop3S46AcRz7sC1vehR8z0xJSZwEBIWsWG94DJro8JX34GAkyGJdXWDcApdl7corhwjYSfRPkrOcm8Na7oRVfD01Qqy5vBLZpQW2AIOVSjE"
+    },
+    {
+        "Folder Hash": "049a7ca0b3fa9c1a6b01e9195b8cb310ab43c3718a0350edca0cb1604fdef1de",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows a Facebook login page. The HTML information contains the words \"Facebook\", \"Continue\", and \"Password\", which are all associated with Facebook.",
+        "Url": "https://nian.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "052fb6231817f412864dfd613258d57260ed22a4e70eaf66456baee33a14d1b2",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the words \"Cr\u00e9dit Agricole\" in the top left corner. The page title is \"Acc\u00e8s CR - Cr\u00e9dit Agricole\". The page also has a footer with the words \"Cr\u00e9dit Agricole\". The logo is also a strong indicator that this is a page associated with the Credit Agricole brand.",
+        "Url": "https://ozd6483.webmo.fr/Web/Fr/creditagricole/CA/79fc8ce668502c7/rgn.php?particulier"
+    },
+    {
+        "Folder Hash": "0a803bc306dfb97eceec30a382a69bee6174004adf1b76482ad1bdea0d096824",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Outlook Web App\", which is a webmail service provided by Microsoft. The logo in the screenshot is also that of Microsoft Outlook. The HTML script contains fields for entering a domain username and password, which are required to sign in to the service. The \"Sign in\" button is also a call-to-action button.",
+        "Url": "http://sugarcommunications.com/js/fgd/app.hellofax.html"
+    },
+    {
+        "Folder Hash": "27716752b897ff63221e9064d11300ec3122455d9efa2a714bb2130e790c8e3a",
+        "Brand": "First Financial Bank",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, \"First Financial Bank - Recover\", and the logo with the text \"First Financial Bank\" clearly indicate the brand. Additionally, the footer text includes the phrase \"Member FDIC\", which is a clear indication that the webpage is related to a financial institution. The call-to-action button says \"Continue\", which is also consistent with the brand.",
+        "Url": "http://crispyux.design/firstfinancial/complete.php"
+    },
+    {
+        "Folder Hash": "406cdf1183eaa1c92c061d5ce7ac6f2744f73069acd847ce91b5f41e7703e3b3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, email, password",
+        "List of Call-To-Actions": "Sign up, Log in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Facebook logo, and the HTML script contains the words \"Facebook\", \"Log in\", and \"Sign up\". Also, the title of the page is \"Facebook - zaloguj si\u0119 lub zarejestruj\", which indicates that this is the Facebook login page.",
+        "Url": "https://handel-wszechstronny.pl/authorize.php/"
+    },
+    {
+        "Folder Hash": "69b52bc74d554b4ecc25b853197f39fe32700768875e8975acf01cb3e6b8720d",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Activer",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the top left corner of the screenshot. Additionally, the title of the page is \"Activation Secupass\", which is the name of a security service offered by Credit Agricole. The footer of the page also contains the text \"Copyright 2023 Credit Agricole\", which confirms that the page is owned by Credit Agricole.",
+        "Url": "https://convention-securitaire-franc.web.app/"
+    },
+    {
+        "Folder Hash": "79433408fa3d0788dcecb66ef7c23db6c5d532231240a835fbae3565f8fe92e1",
+        "Brand": "myGov",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or email, Password",
+        "List of Call-To-Actions": "Sign in, Create a myGov account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words \"myGov\" in the title, logo, and footer. The page also has fields asking for sensitive user credentials such as username or email and password. Additionally, there are call-to-action buttons such as \"Sign in\" and \"Create a myGov account\".",
+        "Url": "https://www.apocsulb.org/g/"
+    },
+    {
+        "Folder Hash": "7f7f2a8823c26ef999fa286173c653c4afdc65497ee3d3ded7011a71603c7dfb",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage requests for credentials such as email and password. It also has a call-to-action button saying 'Log In'. However, there are no clear indications of the brand.",
+        "Url": "https://pub-3bc9161e0ceb4c5397b48936ad7e7bd6.r2.dev/index.html#"
+    },
+    {
+        "Folder Hash": "c96f2c6cc04fbdb0a2c2a31ceabb1acb72ba80fe7c2ee8cb36c00f9d3123fbcb",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Log in to Facebook\", which strongly suggests that the brand is Facebook. Additionally, the footer text reads \"Meta \u00a9 2023\", which further supports the conclusion that the brand is Facebook, as Meta is the parent company of Facebook. Furthermore, the screenshot shows the Facebook logo, which is a unique identifier of the brand.",
+        "Url": "https://pages-adsbusiness-hlp-inf-acc.github.io/omega/manager/#confirm-page-container-navigation"
+    },
+    {
+        "Folder Hash": "dec220c28a735ebf48e95ce79dff38a583630d2c0268104851b385912386161d",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"Netflix\", and the logo alt text is also \"Netflix\". The footer text contains \"Netflix\" as well.",
+        "Url": "https://subscription-netflix-support.codeanyapp.com/heltsa/jonika/account/paymybill.php"
+    },
+    {
+        "Folder Hash": "f2decee51d9eeeb97312e59052df929f8752b80ffbadbcb26705271c57f986b8",
+        "Brand": "Idaho Central Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Log In, Go to mobile site",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is prominently displayed in the logo, page title, and footer. The login form requests email and password, which are sensitive user credentials. The page also has call-to-action buttons such as \"Log In\" and \"Go to mobile site\".",
+        "Url": "http://womanizervibrator.nl/ICCU/emailpass.html"
+    }
+]

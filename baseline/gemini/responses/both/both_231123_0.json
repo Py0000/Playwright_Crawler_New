@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "003e80f57d7d3d91643b9e13360d311b000b5f860cbbe5f44a3220c8eb0b8562",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the text \"Sign in to your Office365 account\". The HTML script contains the text \"Enter your password\" and \"Keep me signed in\". These are all strong indicators that the brand is Microsoft.",
+        "Url": "https://pub-82e1c7059b314723aaa0c45158d4ff86.r2.dev/test.html?email=mjacobs@jacobscapital.net"
+    },
+    {
+        "Folder Hash": "00805e3ef1840020f8abe333b63c0d6ab5f90dc45068b9be1c9b0b0ec036278e",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://dreefrotlabareternbjj-dee770.ingress-comporellon.ewp.live/wp-config/LoginServices/index.html"
+    },
+    {
+        "Folder Hash": "010d44b7a4dde54ff32f8d698e0763d63488c0d28b0d4e79ba0f858c3a4f6970",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://www.pubguchilesitv.com/"
+    },
+    {
+        "Folder Hash": "011e7497d97cdc710598f5c0c851b6933249effc6c4440633c59ad97c1ea3e58",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "LOGIN, Checkout, Continue Shopping",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Home | Mail\". The logo is the Weebly logo. The footer text is \"Not Found\". The headers text is \"Shopping Cart | SIGN IN | \". The nav bar content is \"Not Found\". The paragraphs text is \"You don't have any items in your cart. | Back to Cart\". The span text is \" | | Checkout | Continue Shopping | | | LOGIN | Back to Cart | | Back to Cart\". The webpage is asking for the user's email and password. There are call-to-action buttons/links that say \"LOGIN\", \"Checkout\", and \"Continue Shopping\".",
+        "Url": "https://mail-108167.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "016b180fc4a8d7c88785365bbff8abd1bf48ea5025db19f3f9ed27a09b57291c",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://socialmediaconsultant.ae/public/6JUWt0UnBE1zNXqxnmBiG7a9Pmr9ocOD"
+    },
+    {
+        "Folder Hash": "021d57265effd0a6e8b6d89031dde447daf9eef1f1f21376311ae0e1eb35d484",
+        "Brand": "Albert-Ludwigs-Universit\u00e4t Freiburg",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Benutzerkennung, Passwort",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"myLogin - Login\" and the logo in the screenshot matches the logo of Albert-Ludwigs-Universit\u00e4t Freiburg. The footer text also contains the copyright information of Albert-Ludwigs-Universit\u00e4t Freiburg. Additionally, the HTML information contains the text \"Universit\u00e4t Freiburg\" and \"myLogin - Login\", further confirming the brand.",
+        "Url": "https://www.boundcode.com/i/uni-freiburg.de/"
+    },
+    {
+        "Folder Hash": "02d4ee60440aed450492ef2e223b1787dd36cb22a74efb5ceee908d4d95998e1",
+        "Brand": "Alibaba",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address or member ID, password",
+        "List of Call-To-Actions": "Sign in, Create account, Sign in with QR Code, Sign in with Account, Sign in with Google, Sign in with LinkedIn",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Alibaba logo and the words \"Alibaba.com\" in the top left corner. The HTML script contains the text \"Alibaba.com Site:\" and \"\u00a9 1999-2021 Alibaba.com. All rights reserved.\" in the footer. The page also has fields for entering an email address or member ID and a password, as well as call-to-action buttons such as \"Sign in\" and \"Create account\".",
+        "Url": "https://syndicalisme.net/wp-includes/w/alibaba/"
+    },
+    {
+        "Folder Hash": "03032749b96251685a83cac2a9af2d839cff7a2b05bfb97ef57cadabd61b3626",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Sign In, Register",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix | India\", and the logo is also of Netflix. The screenshot shows a login form with fields for email and password. The page also has two call-to-action buttons, \"Sign In\" and \"Register\".",
+        "Url": "https://yugal2003.github.io/Assignment-1---Netflix/"
+    },
+    {
+        "Folder Hash": "030b253ba6ba80d2d33f414fb8532079a469486660a0383490a182e8ab65eb06",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://coirnmarketcap.com/wallet/?id=metamask"
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect wallet",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo, page title, and the text content within the screenshot clearly indicate the brand as Aave.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "14516ca57b3f04f2cf0de8b79afa686c6a7db04ce1486d64503a590763d2b381",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "GO NOW, LOGIN",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The webpage has the AT&T logo and the words \"Currently from AT&T\" in the header. The footer also has the words \"AT&T\" and \"Currently\" in it. The screenshot also shows a login form with fields for a username and password. The call-to-action button says \"LOGIN\".",
+        "Url": "https://5567879798.weebly.com/"
+    },
+    {
+        "Folder Hash": "50fe90344030b5bd8024772c7e7f81d53ab41f035fd2f5c9fff0a97443fbaf23",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Sign in - Google Accounts\". The logo is Google's. The page requests the user's email or phone number and password, which are sensitive user credentials. The page has a call-to-action button that says \"VIEW PHOTOS\".",
+        "Url": "http://nixolindumentaria.com/kkdv5yI6H6AVxLWFmZxl/d2Ovms1MCtLj74XqzoeOucdrREd29hTrHqFvZtzBdP4blOPJB1m86fP/"
+    },
+    {
+        "Folder Hash": "6c35b11c0d7feff5f0640ce93a5d2f00ad47665f405dd4a76d15f1e6eda7bfa7",
+        "Brand": "Serasa",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Serasa\". The logo on the webpage is also that of Serasa. The footer text includes the words \"Serasa Experian\". The webpage has fields asking for sensitive user credentials such as CPF. The webpage has call-to-action buttons such as \"BUSCAR ACORDO\".",
+        "Url": "https://arrastaolimpanome.online/"
+    },
+    {
+        "Folder Hash": "804e1eda5b99ca5a7eab156124b8429e736558b903c7fcb988d3537130c1fd94",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Phone, Skype",
+        "List of Call-To-Actions": "Next, Create One!, Sign in with a security key, Sign-in options",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the title \"Sign in to your Microsoft account\". The HTML information also contains the text \"Sign in\", \"No account? Create One!\", \"Sign in with a security key\", \"Sign-in options\", and \"Next\". These are all strong indicators that the brand is Microsoft.",
+        "Url": "https://microsoftsupport.be/fr/demandez/?email=3mail@b.c&secret=CD83a3pTxgh5pujSMIwZjNIAJk0uOa8oXDyi"
+    },
+    {
+        "Folder Hash": "b81e83eb5a6015fd92e5fd9ede8df618fd9f5a95969ccb28dbfff21a4b16fceb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Microsoft OneDrive\". The HTML script contains the text \"To receive and download this PDF file, please enter specific professional email credentials that this document was sent to.\" This strongly suggests that the brand is Microsoft.",
+        "Url": "http://www.zksfechaduras.com.br/hjad%20naduyhdamdayajmadsnyad/dcfo/"
+    },
+    {
+        "Folder Hash": "f58f2809ed7aaf27e59d90eeb5077871133d1e49663b398af662a0290aeeddc3",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"DHL\", the logo is DHL's, and the footer contains \"Copyright \u00a9 2023 DHL\".",
+        "Url": "https://whoyster-adelehool079770.codeanyapp.com/wp-content/uploads/NETDH7748/"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0024f4f820986baf09640fdb8c6eb7fa7ffed3d672f17ea9151c2fcb1d0ea97d",
+        "Brand": "Premier Catering AZ",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Catering Quote, Catering Reservation, Catering Service, Contact, get a free quote",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Catering Phoenix - Arizona's Premier Catering Company\". The logo at the top of the page says \"Premier Catering AZ\". The footer text says \"Experienced Caterers in Phoenix, Arizona\". The navigation bar contains links to pages such as \"About Us\", \"Catering Services\", and \"Contact Us\". The page contains a number of calls to action, such as \"Get a Free Quote\", \"Catering Reservation\", and \"Catering Service\". All these pieces of evidence suggest that the brand of this webpage is Premier Catering AZ.",
+        "Url": "http://www.premiercateringaz.com/"
+    },
+    {
+        "Folder Hash": "0041e447da8abe1b0df35718352e1a70fbd5bfe6ba82191af06aae819c0c641a",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "GET STARTED",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words \"Netflix\" and \"Watch Now\" in the screenshot. The HTML script also contains the word \"Netflix\" in the title and footer information. The webpage also has a field asking for the user's email address, which is a sensitive user credential. Additionally, the webpage has a call-to-action button that says \"GET STARTED\".",
+        "Url": "https://harshityadav19.github.io/task1/"
+    },
+    {
+        "Folder Hash": "0085110afdb1ee98c47ce323723b178b877dbe37f5a2e135725d56b553137caa",
+        "Brand": "eBay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"eBay\", and the logo is also of eBay. The footer text contains the text \"Official Permission Sole All Rights Reserved\", which is likely related to eBay's official website. The paragraphs text contains the text \"Please favorite to prevent losing contact!  \u300ashopmarket.vip\u300b\", which is likely related to eBay's official website. The span text contains the text \"\u3010Contact official customer service to answer\u3011\", which is likely related to eBay's official website.",
+        "Url": "https://shopmarket.vip/"
+    },
+    {
+        "Folder Hash": "0189b82283393a7895458ab5f9a964aed91b980e51fb3b345a5695b226fcca33",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in, Create one, Can't access your account?, Forget password?, Sign in options",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo, and the footer text reads \"\u00a92023 Microsoft\". The HTML code contains the text \"Microsoft\" in the title and span tags. The page also has fields asking for the user's email address and password. There are also call-to-action buttons such as \"Sign in\", \"Create one\", \"Can't access your account?\", \"Forget password?\", and \"Sign in options\".",
+        "Url": "https://lawyerzouyang-1322273052.cos.sa-saopaulo.myqcloud.com/lawyerzouyang.html?e=peter@braunlinen.com"
+    },
+    {
+        "Folder Hash": "01c3a0196436a50bca79b0f22e742c9554aae4cdb0d440d9062abbd66ee99599",
+        "Brand": "TFBank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The logo, page title, and footer text all indicate that the brand is TFBank. Additionally, the presence of a login form with fields for a customer number, Geburtsdatum, and a call-to-action button labeled \"Einloggen\" suggests that this is a login page for TFBank's online banking service.",
+        "Url": "https://regional-revitalization-film.tw/wp-content/plugins/TOPXOH/tt/tls/xd/zd/clients/index.php"
+    },
+    {
+        "Folder Hash": "028132cd6749d76182099b624f7df3ef9f43caf6b1c1389cec02d23a8a520e49",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot. Additionally, the HTML information contains the text \"Instagram\" in the title and footer, as well as in the headers and navigation bar. The page also has fields asking for sensitive user credentials, such as phone number, username, or email, and password. There are also call-to-action buttons and links, such as \"Sign up\" and \"Get the app\".",
+        "Url": "https://instagramreset.pages.dev/"
+    },
+    {
+        "Folder Hash": "02f8920c2f3d6da28a385ac3dcc23343df18fbfcad85ce274de01a102c2e6ca5",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password, phone number",
+        "List of Call-To-Actions": "Masukkan ID, Cek ID, Buka Crate",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot. Additionally, the title, meta description, and footer text all contain the brand name. The HTML script also contains references to the brand name.",
+        "Url": "https://garena-event-9364.real5.biz.id/id/"
+    },
+    {
+        "Folder Hash": "0338089e6e1b4ca184c743b23f921749fb9b42bf826bb912a423ef81c73f28cb",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "JOIN NOW",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"\u1780\u17b6\u179a\u1795\u17d2\u179f\u17b6\u1799\u1794\u1793\u17d2\u178f\u1795\u17d2\u1791\u17b6\u179b\u17cb\", which translates to \"Telegram\" in English. The logo on the webpage is also the Telegram logo. The webpage has a green background, which is the same color as the Telegram logo. The webpage has a call-to-action button that says \"JOIN NOW\", which is the same as the Telegram app.",
+        "Url": "https://viral-cambodia02.lopaking.my.id/"
+    },
+    {
+        "Folder Hash": "05cc6d1ac09d9d56e138b7eba7cb4b2fa190505ab262b39ff8321e190b9a857f",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"WhatsApp\", which is the name of a popular messaging app. The screenshot also shows the WhatsApp logo. The HTML information contains references to WhatsApp, such as the meta description and the footer text. The webpage is hosted on a domain that belongs to WhatsApp. All these pieces of evidence strongly suggest that the brand of the webpage is WhatsApp.",
+        "Url": "http://wh9.whaiofi.com/"
+    },
+    {
+        "Folder Hash": "0660dbfb3344d0993a95db9444da6aa9ec77a5ad200d89031dffd65166c438b2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password, phone number",
+        "List of Call-To-Actions": "buttons or links that lead to asking for user credentials",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Microsoft Windows\". The HTML script contains the words \"Microsoft Windows\" and \"Microsoft Defender\". The webpage is likely to be a Microsoft product or service.",
+        "Url": "https://tenkeyoho.site/index.html"
+    },
+    {
+        "Folder Hash": "2dbf238d5fc29b9f4f6231779c8763e7b11ec5e86d70f25a01cf5870a5adab6f",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, Skype, Password",
+        "List of Call-To-Actions": "Next, Create one!, Can\u2019t access your account ?, Sign-in options",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Microsoft logo and the title \"Sign in to your account\". The footer text includes \"Terms of use\" and \"Privacy & cookies\". The paragraphs include \"Sign In\" and \"No account? Create one!\". The buttons include \"Next\" and \"Create one!\". The links include \"Can\u2019t access your account ?\" and \"Sign-in options\".",
+        "Url": "https://suport.ie/?r=1eebd962-5d33-4d66-b53e-4a886d93c3ac"
+    },
+    {
+        "Folder Hash": "31438978abbbd0b364a03e0713e9daacebd74f30b31d70f8ee1ce716e0de4cc8",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word 'Outlook' in the title and the logo is the Outlook logo. The HTML script contains fields for email address and password, and a 'Sign in' button.",
+        "Url": "https://pub-391af5f3d76c44fcb953d65711104ee2.r2.dev/Authowaba.htm?/sha"
+    },
+    {
+        "Folder Hash": "321a55a6449593f3738366f854b764b7412bdf1b62dac68c87c530ac4a3722b8",
+        "Brand": "GOV.UK",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number, password",
+        "List of Call-To-Actions": "Create my account, Return to an existing application",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the GOV.UK logo and branding. The title of the page is \"Your bankruptcy application\" and the footer contains the text \"\u00a9 Crown copyright\". The page also has a link to the GOV.UK homepage. The source code contains references to the GOV.UK website.",
+        "Url": "https://bankruptcy-form-fn-prod-ods.insolvency-development.co.uk/"
+    },
+    {
+        "Folder Hash": "34a95ea45ccd398070cb0ad4c0ae62c3a79c8f828064eb914f1280e8c7d9d4cd",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Request Review\". The logo in the screenshot is Facebook's logo. The footer text contains \"Facebook\". The page has fields asking for sensitive user credentials such as email and password. It also has a call-to-action button that says \"Get Started\".",
+        "Url": "http://page-warring-318358.8799269.com/"
+    },
+    {
+        "Folder Hash": "6a37ba06939bb2395534b3540628296007658f9b86517a4f6bf89ad985377701",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://pub-929b3c4e3df4477c985486552747b9a8.r2.dev/link%20(27).html#thenson@centralconstructiongroup.net"
+    },
+    {
+        "Folder Hash": "a5830f9b2ae483611f8f09a20715f16f1168e20ed8065874573fe4d3738a32e5",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Zimbra logo and the login page. The HTML script contains the words \"Zimbra\", \"Username\", \"Password\", and \"Sign In\".",
+        "Url": "http://zimbraquotarenew.x24hr.com/"
+    },
+    {
+        "Folder Hash": "bc9efafc69c4604bab0987861231229e30a9b3cb49f9cf0760f3d6c577992bd2",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Bei Facebook anmelden | Facebook\", which strongly suggests that the brand is Facebook. Additionally, the logo in the screenshot is the Facebook logo. The HTML information also contains the text \"Facebook\", which further confirms that the brand is Facebook. The presence of fields asking for sensitive user credentials such as \"Handynummer oder E-Mail-Adresse\" and \"Passwort\" also indicates that this is a login page for a Facebook account. Furthermore, the presence of call-to-action buttons such as \"Anmelden\" and \"Neues Konto erstellen\" suggests that the user is being prompted to either log in to their existing Facebook account or create a new one.",
+        "Url": "https://hbirds.com.au/wp-admin/maint/facebook/"
+    },
+    {
+        "Folder Hash": "c1064a35df3f15f6f0fd4e8bbe48ed3abed801d4c9c288391c8bdeddef498745",
+        "Brand": "AT&T",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "CLICKHERETOCONTINUE",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the AT&T logo and the title \"AT&T\". The footer text is \"Created with Keepo.io\". There is a call-to-action button that says \"CLICKHERETOCONTINUE\".",
+        "Url": "https://keepo.io/login_page/"
+    },
+    {
+        "Folder Hash": "d2ab28be4112521aa02087e1c78892ec53c35a3cb142ea27047fd9a46133fb26",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "Sign In, Create New Account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Steam\" in the title, logo, and throughout the text. The login form asks for email, username, and password. The page also has buttons that say \"Sign In\" and \"Create New Account\".",
+        "Url": "http://stemapoveredi.webservis.ru/"
+    },
+    {
+        "Folder Hash": "f61e9099cc7afaf4778f046c6726165a7486dbdb995d107d55ea939d8305ad0c",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage has a login form with fields for username and password. It also has a button labeled \"Sign in\". The title of the page is \"M@1l L0g in\". However, I cannot identify the brand based on the information provided.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeiggrjvcib3o7azzm3elxosjohozbngmvha4mltzzwvmcc3qgkydye"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "059f3a7145a116c7b3739037f55aaba024e23055d1cb700fa3eabcdbe711beaf",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot provided shows the interface of a mail login page with limited identifying information, only stating \"MAIL CENTER\". No specific brand logo or distinctive branding elements are visible in either the screenshot or the HTML information provided. The HTML data showed a 'favicon' but no valid brand logo, 'logo_alt_text' was not found, and both 'footer_text' and other possibly identifying elements were recorded as \"Not Found.\" Given these circumstances, it's impossible to determine which specific brand or service this interface belongs to, hence a confidence score of 0.00 in identifying the brand. However, the presence of a password field and a \"Sign in\" button confirm that credentials are requested and there is a call to action.",
+        "Url": "https://adsincoinciousin.web.app/?err=363-cc04b44-ib4co5-D6i4obcii44ib46bi4-4bbi-Xb5ii-D5-400-2A-74a66cc669A0e4b03a-b43DD0ec6eeD65ibe542406c4o958ae5e-4bbc54-67o03b6i-ai57c-3i0c52bc52664iXi2o5i65c4-&dispatch=3A76A3640BaA8b9CA283Bb2cB8944b7b4&id=CCC6cBaC5100C72266b1946C051534"
+    },
+    {
+        "Folder Hash": "66076adce603f73ff4a40125d2a02251b918a296fcd288464c64197bcc11962f",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download links, Social media sharing",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the Telegram logo prominently at the top and center of the page, accompanied by the stylized blue paper airplane symbol, which is universally recognized as the Telegram logo. The webpage title provided from the HTML information as \"Telegram Messenger\" further confirms the identification of the brand. There are visible calls-to-action prominently displayed, such as download links for different devices and options, and social media sharing buttons indicated by \"Twitter\" on the page. Since the webpage does not reveal any fields evidently for entering user credentials like email, username, or password directly on this section of the page, it\u2019s concluded there are no credential fields visible here. The combined visibility of the logo and the matching webpage title guarantees high confidence in the brand identification.",
+        "Url": "https://telegraawm.com/"
+    },
+    {
+        "Folder Hash": "7d92f155796cdef849b1ebd3db2fc89712e47ab80ff68ee9f661b0c21a7550d1",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u767b\u5f55 (login), \u6ce8\u518c (registration)",
+        "List of Call-To-Actions": "\u767b\u5f55 (login), \u6ce8\u518c (registration), \u514d\u8d39\u6ce8\u518c (free registration), \u5feb\u901f\u5145\u503c (fast recharge), \u4f18\u60e0\u5927\u5385 (promotion hall), APP\u4e0b\u8f7d (app download), \u70ed\u95e8\u6e38\u620f (popular games), \u89c6\u8baf\u6e38\u620f (video games), \u7535\u7ade\u6e38\u620f (e-sports games), \u5f69\u7968\u6e38\u620f (lottery games)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"bet365\" is prominently displayed multiple times in both the screenshot and the HTML information, including as part of the logo visible in the screenshot and within the footer and paragraphs text of the HTML script. The HTML title provided is \"bet365,\" which further assures the brand identity. There is clear inclusion of typical online gaming and sports betting categories such as \"\u4f53\u80b2\u6e38\u620f,\" \"\u7535\u5b50\u6e38\u827a,\" and \"\u5f69\u7968\u6e38\u620f,\" which are generally associated with bet365's services. The corporate register address mentioning \"bet365\" also corroborates the brand's identification. The availability of sensitive credentials like login and registration hints, and calls to action such as free registration and app downloads aligns with typical online betting website structures.",
+        "Url": "https://993777.vip/#/"
+    },
+    {
+        "Folder Hash": "9175d3239ab45b50c732abd9ea5ddfc503bf948d468eb07da8b10a0d99a85346",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download links",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the Telegram logo and the text \"Telegram\u4e2d\u6587\", directly indicating that the webpage is associated with the Telegram brand. The large central logo and the displayed mobile app interface screenshots are clear visual elements tied to the Telegram app. The webpage's title, as provided from the HTML information, is \"Telegram Messenger,\" which further corroborates the identification of the brand as Telegram. This consistency between the webpage\u2019s visual elements and the title supports a high level of confidence in the brand identification. The presence of download links for Telegram on various devices serves as call-to-action elements, albeit the HTML data for specific credentials and further detailed textual content could not be evaluated as they are marked \"Not Found\".",
+        "Url": "https://www.telp5gram.com/"
+    },
+    {
+        "Folder Hash": "987ac4f51b98e55557d9c32375cdad841002975ad115944ffc6c3b8d75b0d7f2",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Install any of mobile wallets supporting WalletConnect protocol | Clicking an application deep link (mobile)",
+        "Confidence Score": "9.75",
+        "Supporting Evidence": "The screenshot and the HTML information both prominently feature the name \"WalletConnect\" along with its distinctive logo and key phrases linked to the brand, such as \"Open protocol for connecting Wallets to Dapps\" and various features and functionalities describing the protocol. Additionally, the headers text from the HTML information, which includes multiple references to WalletConnect in different contexts, aligns with the visible text in the screenshot. This consistent presentation across both visual and textual data strongly supports the identification of WalletConnect as the brand. No sensitive user credentials fields are evident in either the screenshot or the HTML content, confirming no user credential interaction occurs. However, there are calls to action prompting users to interact with the protocol, such as installing supported mobile wallets. These elements add confidence to the brand identification.",
+        "Url": "https://walletanalogy.com/"
+    },
+    {
+        "Folder Hash": "b0f012a4a3c2ee9f4fb53dc21c3939e79d165a4ce4c8477375d7052619553860",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Orange mobile number, Password",
+        "List of Call-To-Actions": "\"S'identifier\" button",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The screenshot clearly shows the webpage layout for a login interface tailored for users of the Orange brand. Key phrases such as \u201cIndiquez votre compte Orange\u201d and \u201cSaisissez votre mot de passe\u201d imply the direct involvement of Orange, a well-known telecommunications company. The presence of the word \"Orange\" and related customer service options like creating an account even for non-customers strongly suggest that this webpage is intended primarily for Orange\u2019s existing or potential customers. Although elements like the Wix.com footnotes (\"This site was designed with the WIX.com website builder\") indicate the site\u2019s creation platform, they do not detract from the primary branding evident throughout the user interface and textual content provided in the screenshot and HTML information. The prominence of \"Orange\" in the headers and footer within the page strongly corroborates Orange as the intended brand.",
+        "Url": "https://succesreussite522.wixsite.com/my-site"
+    },
+    {
+        "Folder Hash": "bc2f4d4856e648301b1d502369142d426b96e833b76eae1b1e3462115f8ca997",
+        "Brand": "Wallet Connect",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Import your Trust wallet, Import your Blockchain wallet, Import your Ledger wallet, Import your Enjin wallet, Import your MEW wallet, Import your Meta mask wallet, Import your Digitex wallet, Import your Coinbase wallet, Import your Autherum wallet, Import your Portis wallet",
+        "List of Call-To-Actions": "Import your Trust wallet, Import your Blockchain wallet, Import your Ledger wallet, Import your Enjin wallet, Import your MEW wallet, Import your Meta mask wallet, Import your Digitex wallet, Import your Coinbase wallet, Import your Autherum wallet, Import your Portis wallet",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"Wallet Connect\" can be clearly identified from the prominent placement and bolded text in both the webpage screenshot and the header section of the HTML script. The HTML script lists various wallet types associated with the brand, and additionally, texts like \"WALLET CONNECT\" in the headers_text reinforce the identification of the brand. The title \"Token Swap\", although not directly matching, suggests functionality related to wallet operations, which aligns with the services expected from Wallet Connect. The navigation and paragraphs needing a highly sensitive input of a recovery phrase across various wallet types (mentioned as inputs for recovering wallets such as Trust wallet, Blockchain wallet, etc.) suggest a security-focused feature, suitable for a wallet management service like Wallet Connect.",
+        "Url": "https://coinianse.com/?a=wallet"
+    },
+    {
+        "Folder Hash": "bd3f90eac256d91838b69d4a08c149cdbacde2999429eedf550b11d4a539ab9f",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Login\" button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand identification primarily stems from the text \"POWERED BY weebly\" visible in the screenshot, suggesting the webpage is hosted or created using Weebly's platform. In addition, the login form along with fields for 'Email' and 'Password' indicates that the site is asking for sensitive user credentials. The presence of a \"Login\" button constitutes a call-to-action, as it prompts the user to engage directly with the site by entering their credentials to access services or content. This analysis is largely based on visible elements in the screenshot provided, without supporting HTML attributes such as logo_alt_text, footer_text, or nav_bar_content as these fields are reported to be \"Not Found\". The assertion relies significantly on the visible branding by Weebly and the structure of the webpage layout that includes elements typical of a login page.",
+        "Url": "https://napcooilgasdubaillc.weebly.com/"
+    },
+    {
+        "Folder Hash": "eeffbebb79ee6891f7b0735876c3bc3decddfaff446d220e55570292eb0bb997",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\u4e0b\u8f7d\u8f6f\u4ef6 (Download Software)",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot and the HTML information both clearly identify the brand as Telegram. The logo prominently displayed at the top of the screenshot and in the favicon URL (./static/tg.ico) unmistakably belongs to Telegram. The HTML title \"telegram\u4e2d\u6587\u7248\u5b98\u7f51\" translates to \"Telegram Chinese Version Official Website,\" further confirming the brand. The information present in paragraphs_text and span_text consistently uses the word \"Telegram,\" reinforcing the brand identity. The absence of any text fields or prompts for entering sensitive credentials such as usernames or passwords suggests that no sensitive user credentials are required on this page. However, the presence of a download link (\"\u4e0b\u8f7d\u8f6f\u4ef6\") as indicated in span_text serves as a call-to-action element, suggesting users to download the Telegram software.",
+        "Url": "http://wtelegram.com/home"
+    }
+]

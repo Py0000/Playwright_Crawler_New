@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "005754c0833f9e2df05ee5bc2536badacfb51fae9fa8c889fecc9da07b778a1a",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Sign in to access AT&T Mail and Currently.com\", which strongly suggests that the brand is AT&T. Additionally, the logo on the webpage is the AT&T logo. The webpage also has a form with fields for a username and password, which are sensitive user credentials. Finally, the webpage has a button that says \"Sign In\", which is a call-to-action.",
+        "Url": "https://taplink.cc/gfgh"
+    },
+    {
+        "Folder Hash": "008ea2a6d870ac228f073021449d2ac98f285e00715713e304a076ecb04e0d0c",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot, and the title of the page is \"Appeal Request\". The footer text contains the company name, \"Meta\". Additionally, the HTML information contains the following information:",
+        "Url": "https://reappealeation-support-1238943.vercel.app/#index.html?$@#"
+    },
+    {
+        "Folder Hash": "01c70c141ecaf072442e71f26eb8bc36aaf6fc45a734a3f864a6582a4a1dc2e8",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows a Facebook login page. The title of the page is \"Community Standards\". The HTML information contains the text \"We detected unusual activity in your account today. This can result in your account being permanently disabled for not complying with the Community Standards. We have reviewed this decision and it cannot be changed.\" This text is consistent with the Facebook login page. Therefore, I am confident that the brand is Facebook.",
+        "Url": "https://citrix.minnukka.net/"
+    },
+    {
+        "Folder Hash": "03d309f67afe0987f5e603011e7f6ecf538dfd017b80dba9233a026f7e596c18",
+        "Brand": "Trust Trading",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Invite friends",
+        "Confidence Score": "0.80",
+        "Supporting Evidence": "The brand is mentioned in the title and logo of the webpage.",
+        "Url": "https://metamask-jp.com/#/"
+    },
+    {
+        "Folder Hash": "047cc2a43cd96ca7198877474bcaeca95e29e261854a7af1c7b4c3b33d74adc8",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join Channel",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Telegram logo and branding. The title of the page is \"Telegram: Join Group Chat\". The page has a green button with the text \"Join Channel\".",
+        "Url": "https://uzbekkrut.kz/"
+    },
+    {
+        "Folder Hash": "06a605cee96bc633239c324a80f46133f8b6e499b8f172f6f0530522c7cd1bd0",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Download, View Page, Cancel",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Grand Theft Auto V on Steam\". The logo of Steam is clearly visible in the upper left corner of the screenshot. The footer text includes the words \"Valve\" and \"Steam\". The navigation bar includes links to \"Store\", \"Community\", \"About\", and \"Support\". The page is asking for the user's login credentials, including email and password. All these pieces of evidence strongly suggest that the brand of this webpage is Steam.",
+        "Url": "http://store.thesteampowered.help/"
+    },
+    {
+        "Folder Hash": "06a75aaee5de3388a8e4941f783852cb3a849a6041192cfe97f2be7bec228ff4",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID, Password",
+        "List of Call-To-Actions": "Forgot Apple ID or Password",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Apple logo, the title \"Apple ID\", and a footer with \"Copyright \u00a9 2022 Apple Inc. All rights reserved.\". The HTML script also contains the text \"Manage your Apple account\", \"Apple ID\", and \"Forgot Apple ID or Password\". All these pieces of evidence strongly suggest that the brand is Apple.",
+        "Url": "https://supportsteam.net/1470241/6563738/lsesion.php?150e17fa353f3228707cd1982347c7af="
+    },
+    {
+        "Folder Hash": "0704a6852910544011a52e06d2baab02c57df62882d98e6c2bf260ca5e8b5c58",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Phone Number, Skype",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Microsoft logo, and the title of the page is \"Sign in\". The HTML script also contains the text \"Email, address, phone number or Skype\". This strongly suggests that the webpage is a Microsoft login page.",
+        "Url": "https://viseca-mfa.ch/select-mfa/?rid=DNq5jEf"
+    },
+    {
+        "Folder Hash": "079a8ce303596412dcf03fa7d2f59a59f118d53add67678987c14ebc42fcb3a6",
+        "Brand": "Banrural",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Username",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Bamrural\", which is the name of a bank in Guatemala. The logo on the webpage is also that of Banrural. Additionally, the HTML script contains the text \"Derechos reservados 2022 Banco de Desarrollo Rural, S.A.\", which confirms that the webpage is owned by Banrural.",
+        "Url": "https://dev-amigoruralinform.pantheonsite.io/"
+    },
+    {
+        "Folder Hash": "07e1a4b166221eb66ffd923977d8be46b2c409babb92f32a3c18cce48abe59b5",
+        "Brand": "An Post",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Pay Customs Charge | Customs Online | An Post\", and the footer contains the text \"About An Post\". The screenshot also shows the An Post logo.",
+        "Url": "http://www.service-customs-anpost.com/tracking"
+    },
+    {
+        "Folder Hash": "0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://pub-c2f2baab9f5a4d918b039eeac3697522.r2.dev/servicerequest.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d",
+        "Brand": "Shaw",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign In, Create a Shaw ID",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Sign On - Shaw\", and the logo is of the Shaw brand. The screenshot also shows a login form with fields for email and password. The page also has a link to create a Shaw ID, which is a type of user account.",
+        "Url": "https://ffhshaw.com/"
+    },
+    {
+        "Folder Hash": "2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone",
+        "List of Call-To-Actions": "Next, Create account",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot shows the Google logo and the words \"Sign in\". The HTML title is \"Sign in - Google Accounts\". The page contains a form with fields for email or phone number and password. There is a button that says \"Next\" and a link that says \"Create account\". All these pieces of evidence suggest that the brand is Google.",
+        "Url": "http://129.226.210.78/v3/signin/identifier?ifkv=AVQVeywUhZmfG2H3QmNQtJ6V899SIC35sKBtL3MTsjeHalzUUSQCMqXVmq67mSjKfuClGeBvRhKOzQ&xrealip=137.132.218.133&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1560507024%3A1700130821555200&theme=glif"
+    },
+    {
+        "Folder Hash": "38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows a Facebook login page. The HTML information contains the text \"Facebook\", \"Continue\", and \"Password\". The title of the page is \"Community Standards\". The meta description contains the text \"We saw unusual activity and locked your account\". The footer text contains the text \"Facebook\". The logo alt text is \"Not Found\". The nav bar content is \"Not Found\". The paragraphs text contains the text \"Continue\", \"To avoid deactivating your account, please verify your account\". The span text contains the text \"today\", \"Community Standards\", \"To avoid deactivating your account, please verify your account\".",
+        "Url": "https://apps.minnukka.net/"
+    },
+    {
+        "Folder Hash": "3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae",
+        "Brand": "DocuSign",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://fileprotectedsharelinedd453.weebly.com/"
+    },
+    {
+        "Folder Hash": "50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://pub-02c7a38666214a48b43a1c1fc544e582.r2.dev/link%20(27).html#chriss@thejackfruitcompany.com"
+    },
+    {
+        "Folder Hash": "596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3",
+        "Brand": "NTT Docomo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the login page of NTT Docomo's dAccount. The HTML information also contains the text \"dAccount\" and \"NTT Docomo\".",
+        "Url": "https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/auth/cgi/%20dcmpx.remotevs.com%22,%22155.248.176.223"
+    },
+    {
+        "Folder Hash": "61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, Skype",
+        "List of Call-To-Actions": "Next, Sign-in options",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and a sign-in form with fields for email, phone, or Skype, and password. The page also has a \"Next\" button and a \"Sign-in options\" link.",
+        "Url": "https://sp79750.sitebeat.crazydomains.com/"
+    },
+    {
+        "Folder Hash": "a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa",
+        "Brand": "TV Licensing",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password, phone number",
+        "List of Call-To-Actions": "Update Direct Debit Now, Pay for your TV License, Update your details, Check if you need one",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"TV Licensing\", and the logo in the screenshot also says \"TV Licensing\". The footer text includes the copyright symbol and the year \"2023 TV Licensing\". The page also has a link to the TV Licensing website. All these pieces of evidence suggest that the brand of the webpage is TV Licensing.",
+        "Url": "https://www.tv.activate-uk.com/index.app.html?/cs/update/multiple-changes/index.app=ARLbbYAGkOByITSyDOgHxuoZPFDePozfynfbOvuCjTMudoyEXRZiSMjhb"
+    }
+]

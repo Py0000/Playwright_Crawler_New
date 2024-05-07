@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "GET STARTED >",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix\", which is the same as the brand name. Additionally, the logo on the webpage is the Netflix logo. The footer contains the text \"Questions? Call 000-800-919-1694\", which is the customer service number for Netflix. The webpage also contains a form that asks for the user's email address, which is a credential. Finally, the webpage contains a button that says \"GET STARTED >\", which is a call-to-action.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Telegram Premium\", and the logo is of the Telegram app. The header also contains the text \"Telegram\". The footer contains the text \"Telegram\" and \"Telegram Messenger\". The paragraphs contain text about Telegram's features.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "Connect Wallet, Registration",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot shows a webpage with a blue background and a white header. The header contains the words \"Reliable sale and purchase of cryptocurrencies\". The center of the page contains a form with fields for entering an email address, username, and password. There is also a button that says \"Connect Wallet\". The footer of the page contains the words \"For experienced traders\".",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "\u7acb\u5373\u52a0\u5165, APP\u4e0b\u8f7d",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The webpage has the logo of bet365, which is a well-known online gambling company. The webpage also has a lot of information about sports betting, which is consistent with bet365's business. In addition, the webpage has a lot of fields asking for sensitive user credentials, such as email, username, and password. This is also consistent with bet365's business, as they need to collect this information in order to allow users to place bets. Finally, the webpage has a lot of call-to-action buttons, such as \u7acb\u5373\u52a0\u5165 and APP\u4e0b\u8f7d. This is also consistent with bet365's business, as they want to encourage users to sign up and start betting.",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started, Try SurveySparrow for FREE, Claim a 14-day free trial",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Refine Experience, The Better Way | SurveySparrow\", and the logo in the top-left corner of the page also says \"SurveySparrow\". The footer of the page contains the company's name, address, and contact information. The webpage's HTML script also contains references to \"SurveySparrow\".",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "Gemini2",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.95",
+        "Supporting Evidence": "The screenshot shows a webpage with the logo of Gemini2, and the title \"Do\u0142\u0105cz do Projektu GEMINI2\". The HTML title is \"Analytics Unit\". The footer text is \"Copyright \u00a9 2021  GEMINI2 Wszelkie prawa zastrze\u017cone.\". The paragraphs text contains \"GEMINI 2\" and \"GEMINI 2\". The span text contains \"SWOJ\u0104 KOPI\u0118 \"GEMINI 2\"\". The headers text contains \"Do\u0142\u0105cz do Projektu \"GEMINI2\"\". The nav bar content is \"Not Found\". The meta description is \"Not Found\". The favicon is \"favicon.ico\". The logo alt text is \"gimini\".",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "JEK-MINER",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "registration, login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, logo, and footer all contain the brand name \"JEK-MINER\". The screenshot also shows a registration form with fields for email and password. The call-to-action buttons are \"registration\" and \"login\".",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f07f931e42211c4d902fed617e89c47324af573df194966b5ac1b21a0f65a2aa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Try 30 days free",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix,\" and the logo in the screenshot matches Netflix's branding. Additionally, the footer text includes the company's contact information.",
+        "Url": "https://sristiverma9.github.io/netfliexclone/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF, NIE, Tarjeta o Pasaporte, Clave de acceso, N\u00famero de tel\u00e9fono",
+        "List of Call-To-Actions": "Iniciar sesi\u00f3n, Hazte cliente, Crea tu clave de acceso",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"BBVA\", which is the short name for Banco Bilbao Vizcaya Argentaria, a Spanish multinational financial services company. The logo in the screenshot also matches the BBVA logo. Additionally, the HTML information contains the text \"Banca online para Particulares BBVA\", which further confirms that the webpage is related to BBVA.",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]

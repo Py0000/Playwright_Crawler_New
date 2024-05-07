@@ -1,0 +1,79 @@
+[
+    {
+        "Folder Hash": "0e4582d1db1403de859a5b4265acb69e80016bb02a1a932c2580000801932fec",
+        "Brand": "Ponto Frio",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Receba Cupons no seu E-mail | Cupom de Desconto Ponto Frio de at\u00e9 15% | Cupom de 10% de Desconto | Cupom de 5% no Ponto Frio",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, logo, and footer all contain the brand name \"Ponto Frio\". Additionally, the screenshot of the webpage shows a banner with the text \"Cupom de Desconto Ponto Frio\".",
+        "Url": "https://www.cupom-de-desconto.com/ponto-frio/"
+    },
+    {
+        "Folder Hash": "372e6116960e55286a120894035b699ce5a184bc1bcc1d4c3ac20a68f3ec4b55",
+        "Brand": "SFR Business",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "En indiquant votre adresse mail ci-contre, vous acceptez de recevoir les communications de SFR Business par voie \u00e9lectronique. Vous pourrez vous d\u00e9sinscrire \u00e0 tout moment au travers des liens de d\u00e9sinscription. Pour en savoir plus sur la gestion de vos donn\u00e9es et de vos droits,",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Politique de protection des donn\u00e9es \u00e0 caract\u00e8re personnel de SFR Business\", which strongly suggests that the brand is SFR Business. Additionally, the footer contains the text \"SFR BUSINESS\", which further supports this conclusion.",
+        "Url": "https://www.sfrbusiness.fr/sfr-politique-de-protection-des-donnees-personnelles.html?eff_cpt=22931728&eff_pr1=**id_bat**"
+    },
+    {
+        "Folder Hash": "8265aae7b50ade829d3ac265f082cbe64ce1aa752aa7cad3f3ebe8e87caf69b9",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Get Started >, Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix\", the logo is also of Netflix, and the footer contains the text \"Netflix India\". Additionally, the screenshot shows the user is on the Netflix homepage, which is further confirmed by the elements present in the HTML script.",
+        "Url": "https://beyon-d-yadhu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "a26025419c72baf42631231b435e27ec7438f50d1d6ba41dcc918cdcc9782d23",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage is for the DHL Express SSA Employee of the Year event. The logo, event name, and footer all confirm this.",
+        "Url": "https://www.dhleoyssa.com/"
+    },
+    {
+        "Folder Hash": "aa92152333593704107b819af91676431cbdb5c445e4a9312396eaa60ee230d8",
+        "Brand": "Envaselia",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contactanos, Blog",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Empresa de Envases - Envaselia\", and the logo in the screenshot matches the logo of Envaselia. The footer text also contains the company name, address, and contact information. Additionally, the screenshot shows a call-to-action button that says \"Contactanos\" and a link to the company's blog.",
+        "Url": "https://todosonsantos.com/?gclid=EAIaIQobChMI9LK_-cjiggMVBqFaBR3h8gAXEAAYAiAAEgL7z_D_BwE"
+    },
+    {
+        "Folder Hash": "d8f30a1d70e75a4ed32fc20171e4ae06441aa98d077b3d82b697aba57a4beff7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "Get started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" in the logo, the title, and the footer. The screenshot also shows the Netflix logo. The webpage also has a form that asks for the user's email address. The webpage also has a button that says \"Get started\".",
+        "Url": "https://shubhamsharma20061998.github.io/"
+    },
+    {
+        "Folder Hash": "d980baaf9e0647a9529eeba4cbca9738c6558edd5389f4400a70cfc1e11d903b",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "Get started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Netflix, which is a well-known streaming service. The title of the webpage is \"Netflix Landing Page\", which further confirms that this is the official webpage of Netflix. The webpage also has a form that asks for the user's email address, which is a common way for streaming services to collect user credentials. Finally, the webpage has a call-to-action button that says \"Get started\", which is typically used to encourage users to sign up for a subscription.",
+        "Url": "https://shreeompatil.github.io/netflixmobileclone/"
+    }
+]

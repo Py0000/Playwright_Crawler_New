@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "0029ddf50757663f869ea57fa6b35bb742950a007641478851bf8fea7133872e",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email or phone",
+        "List of Call-To-Actions": "Next, Create account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Google logo, and the title of the page is \"Sign in - Google Accounts\". The HTML script contains the text \"Email or phone\" and \"Next\", which are commonly used in Google sign-in pages.",
+        "Url": "https://accounts-google-com.google.research.skyfencenet.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&followup=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&ifkv=ASKXGp35mtwoMZTYq_EQh00TDcURsTqYlJCXhLv51FgyiEwBpd_bSIdnTUQe919CFtE8t2MXUeVA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1106871291%3A1701237264171240&theme=glif"
+    },
+    {
+        "Folder Hash": "00d320e13a4afd5c13cd57d8e6930967708ab4d93d7583d7b9e52e97e507ccb5",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://socialmediaconsultant.ae/public/cKcAHeRtw8tgyrOIdKqopukWqegyBl6X"
+    },
+    {
+        "Folder Hash": "0268063589ad4ed7dc1cc582927dbc4a55f51d034f46283b2f276bad9acb6652",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download MetaMask Today, Shop MetaMask Swag, Sign up to receive updates and announcements",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot. Additionally, the title, meta description, and footer text all contain the brand name \"MetaMask\". The webpage is about a cryptocurrency wallet and gateway to blockchain apps.",
+        "Url": "https://matemska.com/"
+    },
+    {
+        "Folder Hash": "03613ee8f7807376093f334ce4a3f269c601fe5a3a39cb6942beffed71755968",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://package.dittugarments.com/public/xXmKbIKplnyr3mWGvbjBXmGyAmEgHDal"
+    },
+    {
+        "Folder Hash": "04076986695e1224101bc06b34e8537784bd3b937c4a9c7536a9e92fc1335e6e",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Accedi o Registrati\", which suggests that the brand is Poste Italiane. The logo in the screenshot is also that of Poste Italiane. Additionally, the footer text includes the text \"Poste Italiane 2023 - Partita iva: 01114601006\", which further confirms that the brand is Poste Italiane.",
+        "Url": "http://bestknitters.com/"
+    },
+    {
+        "Folder Hash": "04847856708f0e6d56d41a5e6a370241a9ba719b377bf4f3a54b19b23344d824",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Facebook logo, and the title of the page is \"Facebook - log in or sign up\". The footer text says \"Facebook \u00a9 2023\". The screenshot also shows the user interface of Facebook.",
+        "Url": "https://ikechukwu647.github.io/rubliss4/"
+    },
+    {
+        "Folder Hash": "05e2621aa56ff714ca7f8e6143182091f735a157100463c72d0221c92adaba7b",
+        "Brand": "VK Store",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"VK Store\" is prominently displayed in the header and footer of the webpage. The logo is also clearly visible in the header. The webpage has a consistent design and layout, which suggests that it is a legitimate website. The presence of a call-to-action button \"COMPRAR AGORA\" further indicates that this is an e-commerce website.",
+        "Url": "https://blackfridayamericanas.net/081f8fcf-5316-4f90-88a6-6119c5943e6d/checkout/produto/6543d98a6ca11/jogo-de-panelas-brinox-smart-plus-ceramic-life-8-pecas-vanilla"
+    },
+    {
+        "Folder Hash": "062d94cb0608d431400dee0a185a1ba94a4db663f5e6d2eec887a45839acf3af",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number",
+        "List of Call-To-Actions": "\u0110\u0103ng nh\u1eadp, T\u00ecm ki\u1ebfm t\u00e0i kho\u1ea3n c\u1ee7a b\u1ea1n",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot. Additionally, the title and footer information also contain the brand name. The HTML information further confirms the brand name.",
+        "Url": "http://test1.garenav.vn/"
+    },
+    {
+        "Folder Hash": "06e6a4b7f630f17850cf2b216c3f81bb70d18a51ed616c7b941b4e48b8679389",
+        "Brand": "Vivobarefoot",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://www.vivobarefootssaudiarabia.com/"
+    },
+    {
+        "Folder Hash": "070d8f9be03c6be321a10dcfb879820fbcd0c6b05a9afe392ac2da9b8f5dd2ae",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Instagram logo, and the title is \"Instagram\". The footer text includes \"\u00a9 2018 Instagram\". The page also has fields asking for sensitive user credentials, such as phone number, username, or email, and password. Additionally, there are call-to-action buttons and links, such as \"Log in\", \"Sign up\", and \"Get the app\".",
+        "Url": "https://lnstagramlite.blogspot.com/"
+    },
+    {
+        "Folder Hash": "524d69e099ce2cf898dbd3614e175228b3b3624e8f5496f3252b5136c9fc55f2",
+        "Brand": "bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"bet365\", and the logo is also of bet365. The footer text contains \"Copyright \u00a9 2001-2023 bet365\". Therefore, I am confident that the brand is bet365.",
+        "Url": "http://19730510.com/"
+    },
+    {
+        "Folder Hash": "57ef3530895093d5a4cab5f34f7d34f127015946c19e5b0ae90f7f934d2e020d",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Log in with Facebook",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Meta, which is the parent company of Facebook. The title of the webpage is \"Meta\". The footer text includes the copyright symbol and the year \"2023 Meta\". The HTML script contains the text \"Log in to access your professional tools\" and \"Log in with Facebook\". All these pieces of evidence indicate that the brand of the webpage is Meta.",
+        "Url": "https://www.meta-support-page.com/"
+    },
+    {
+        "Folder Hash": "5b079aaddbb1fcd8f92f31136a6235e8f7c77b4a69cb2b4bd72997a4d6bfb288",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number, Password",
+        "List of Call-To-Actions": "Sign In, Login with Facebook, Sign Up",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix\", and the logo is also that of Netflix. The page also has fields for entering an email address or phone number and a password, which are typical credentials required for logging in to an account. Additionally, there is a call-to-action button that says \"Sign In\". All these pieces of evidence strongly suggest that the brand of this webpage is Netflix.",
+        "Url": "https://netflix-december21.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6adcc77d36f1c22526469ab12f1758bf1eda7f96d66e01c7fe3bc71e4050900e",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password, phone number",
+        "List of Call-To-Actions": "Facebook, \u0111\u0103ng nh\u1eadp, n\u1ea1p th\u1ebb, \u0111\u1ed5i th\u01b0\u1edfng",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Garena Free Fire Membership\". The logo in the screenshot is also that of Garena Free Fire. The webpage is asking for sensitive user credentials such as email, username, password, and phone number. It also has call-to-action buttons such as Facebook, \u0111\u0103ng nh\u1eadp, n\u1ea1p th\u1ebb, \u0111\u1ed5i th\u01b0\u1edfng. Therefore, I am confident that the brand of this webpage is Garena Free Fire.",
+        "Url": "http://ff.member.gareza.vn/cre96aCBExqeaXVpAUtesGytOkoIi0b316MEngRB6GduITgIXVrolFEk2af8IFjZOoSP3KYbglKd4dNBCztIqgAYAV650Z5ySGNc_index/#/"
+    },
+    {
+        "Folder Hash": "a97b31d3ecdfe1d824afe2dbe6b31f2198346e40697fc3b2269f601ad0bc99d7",
+        "Brand": "bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\u7acb\u5373\u52a0\u5165",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"bet365\" is clearly visible in the screenshot and in the HTML information. Additionally, the footer text includes the copyright information of bet365.",
+        "Url": "https://www.bet3659.tv/home"
+    },
+    {
+        "Folder Hash": "aa4a498386e1135bb11171167c2833f459c01d92f2f806af12e2a178174bb608",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Netflix logo and the words \"Watch anywhere. Cancel anytime.\" The HTML information includes the text \"Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries and more \u2013 on thousands of internet-connected devices.\" This evidence strongly supports the conclusion that the brand is Netflix.",
+        "Url": "https://imshivamnair.github.io/Netflix-and-Chill/"
+    },
+    {
+        "Folder Hash": "d00adfb26aca6d440945911e196167c79020355e213d72da41ba54eca09f7d62",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Netflix. The title of the webpage is \"Netflix India - Watch TV Shows Online, Watch Movies Online\". The footer text includes \"Netflix India\". The webpage also has a form that asks for the user's email address. The webpage has a button that says \"Get Started\".",
+        "Url": "https://dubeyprashant1.github.io/Netflix-Clone.github.io/"
+    },
+    {
+        "Folder Hash": "dcd93ffe7cc0ce8d070abaa399e5e36738aa5c3bc7f7cd3b92cce094ff77cd6d",
+        "Brand": "DSK Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"DSK Bank\", and the logo in the top left corner also displays \"DSK Bank\". Additionally, the footer contains the words \"DSK Bank\" and \"2023 DSK Bank\". The webpage is about DSK Bank's online banking service, and it asks for credentials such as username, password, email, phone number, company name, and passport number. The webpage also has call-to-action buttons such as \"Log in\", \"Register\", \"Apply for a loan\", \"Open an account\", and \"Contact us\".",
+        "Url": "https://directonline-bg.com/login/"
+    },
+    {
+        "Folder Hash": "f34bd4c756f9c0ad38e85f51cdf9c3ff9a52ed1bc924d6ad1ae31948173e2903",
+        "Brand": "Codashop",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Beli sekarang",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Top Up Diamond Free Fire (FF) | Codashop\", and the logo in the screenshot is also of Codashop. The webpage is about topping up diamonds in the game Free Fire, and Codashop is a website that allows users to top up diamonds in Free Fire. Therefore, it is confident to conclude that the brand of the webpage is Codashop.",
+        "Url": "https://diamond-gratis-9736.real4.biz.id/id/"
+    }
+]

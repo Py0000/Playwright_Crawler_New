@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "00362691ad515c38328b22f5b071cbb3dfd5920413bce502de94bf53a4fe3d57",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis of the screenshot and HTMl information together support the identification of the brand as AT&T. The screenshot prominently features the AT&T logo at the top along with the text \"Sign in to access AT&T Mail and Currently.com,\" which clearly aligns with the brand AT&T. Additionally, the HTML title \"Home | AT&T Mail info\" directly mentions AT&T, and the headers include a reference to signing in to access AT&T Mail, further reinforcing the brand identity. The webpage does include a favicon link to Weebly which introduces a potential builder/platform branding element, but the primary brand represented and functioning on the page is undeniably AT&T. The presence of sensitive user credential fields for 'User ID' and 'Password', and a call-to-action button labeled 'Continue', were confirmed in the webpage screenshot and HTML content, ensuring user interaction related to account access.",
+        "Url": "https://att-mail-info.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "00ab91553863586ba9bcb92b132a42835c8f458387c8ed82e12997a06b2b623b",
+        "Brand": "DocuSign",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot displays a login portal prominently featuring the \"DocuSign\" logo at the top. The text on the screen includes references to a \"DocuSign Portal,\" and the webpage footer noted in the HTML information includes the text \"\u00a92023 Powered by Microsoft & DocuSign, Inc.\" indicating a joint entity or partnership, but the primary brand remains DocuSign. Additionally, the login screen directly asks for user credentials (email and password) and includes a \"Sign In\" button, serving as a call-to-action. The presence of both brand language and the DocuSign logo aligns closely with DocuSign\u2019s digital signature service platform, further supporting the brand identification.",
+        "Url": "https://docusign16112023docu0sign01839.s3.nl-ams.scw.cloud/docu.html"
+    },
+    {
+        "Folder Hash": "00d52b36782e8bd2e08b4acb1f9d210868e74ba616065c52a057a85ecd1131fd",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Schedule a New Delivery\"",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as DPD is strongly supported by multiple instances in both the screenshot and the HTML information. The screenshot prominently displays the DPD logo on the vans and features the DPD name explicitly. Additionally, the footer text mentions \"\u00a9 2023 DPD,\" reassuring the association with DPD. The HTML title \"DPD (EN)\" also confirms the brand identity as DPD, aligning perfectly with the visual evidence from the screenshot. Moreover, navigational elements in the headers consistently include terms associated with DPD's service offerings such as shipping and customer service, which further supports the identification of the brand.",
+        "Url": "https://tracktrace.dpd.parcel.details.20-251-144-24.cprapid.com/info/update.php"
+    },
+    {
+        "Folder Hash": "018942efa16ee39476eabde8c3db30d7c53374cb602a2b33aa92b105dc077cb1",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password, phone number",
+        "List of Call-To-Actions": "Sign In button, Install Steam, Language selection, Join Steam, \"Learn More\" link",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The analysis and identification of the webpage as belonging to the brand Steam is based on several pieces of clear and direct evidence. The logo at the top left of the screenshot features Steam\u2019s distinct logo. The favicon linked from the HTML info is from \"steamcommunity.com,\" reinforcing association with the Steam brand. Moreover, the HTML paragraphs contain multiple references to Steam-specific features like \"Steam Guard Mobile Authenticator\" and \"Steam account,\" which are unique to the Steam platform. The Call to Action buttons like 'Sign In' and 'Join Steam' oriented towards user interaction and commitment to the platform are present. Furthermore, the footer references to \"Valve Corporation\" and the usage of geonames.org, often used by Steam, align with brand characteristics. The inclusion of credentials fields such as email and password for login purposes, alongside the fact that Steam uses phone numbers for account recovery and security (evident from paragraphs discussing sending codes to phone numbers), confirm the presence of sensitive user credential fields within the webpage.",
+        "Url": "https://steamcorumunity.ru/gift"
+    },
+    {
+        "Folder Hash": "021bffc44c3b2ce2138f4f9a01d4061b1c5b71d13d521d737df23b3d2fb6b638",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Planen Sie eine neue Lieferung\"",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The webpage makes repeated references to \"DPD\" in multiple contexts, including the logo on the delivery trucks in the image, the footer text, and the headers text. The image confirms it with the visible DPD branding, aligning with the service offerings detailed on the webpage, primarily focused on delivery and tracking services. The favicon showing a different domain might cause slight uncertainty. However, this discrepancy can happen due to different web configuration setups or errors, so the primary visual and textual evidence overwhelmingly supports the identification as the DPD brand website. The presence of operational details like \"Planen Sie eine neue Lieferung\" suggests customer interaction points, but no sensitive credentials are requested directly on the visible part of the page.",
+        "Url": "https://verfolgen.sie.dpd.com.paketdetails.20-215-40-188.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "0335530af7d10cbdd52298135851077757a579585684c217a599be111b9a8b4d",
+        "Brand": "eBay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Register, Log in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the eBay logo in the center, which is unmistakable with its unique color and typography format associated with the eBay brand. This logo is the primary indicator of the webpage\u2019s brand identity. Furthermore, the text on the page \"Help merchants complete product exposure and earn commissions!\" is congruent with the type of language eBay might use, considering its multiple user base involving buyers and sellers. Both the registration and login options are standard features on websites which require user credentials, with highlighted buttons for \"Register\" and \"Log in,\" serving as call-to-action elements. The presence of these elements clearly indicates the webpage's interaction model focused on user account management and activities related to buying or selling on the platform, aligning it closely with eBay\u2019s business model.",
+        "Url": "https://ebayvips.com/index/user/login"
+    },
+    {
+        "Folder Hash": "05316322b44afe9280b5ff5d757ae51e3147804d70467e8f97da0b5b5fbaf1b8",
+        "Brand": "Bancolombia",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Clave Dinamica",
+        "List of Call-To-Actions": "Verifica Button",
+        "Confidence Score": "9.85",
+        "Supporting Evidence": "The screenshot explicitly displays \"Bancolombia\" at both the top of the webpage and within the smartphone illustration, indicating the brand. In addition, the HTML span text references \"Sucursal Virtual Personas,\" which aligns with the top text in the screenshot \"Sucursal Virtual Personas,\" thereby supporting the identification. The page shows a field for entering a \"Clave Dinamica\" which is a sensitive user credential, and there is a button labeled \"Verifica\" which serves as a call to action for the user to submit their credential. The appearance of the Bancolombia logo in the favicon path also corroborates the brand identity. The high confidence score reflects the consistency of the brand\u2019s depiction in both the screenshot and HTML data.",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATOTP/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "056ba70ddf3a5f6758c9c5d7ff273a1a6cce36eef155eba0aa72c6791efe54fe",
+        "Brand": "Bancolombia",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, identification number, phone number",
+        "List of Call-To-Actions": "\"Verificar\" button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand of the webpage can be definitively identified as \"Bancolombia\" based on the clearly visible logo in the top left corner of the screenshot provided. The logo includes the name \"Bancolombia\" itself, which is a major indicator. Additionally, the tagline \"Sucursal Virtual Personas\" supports the idea that this is an online service platform belonging to Bancolombia, typically used for personal banking services. The presence of sensitive user credential fields, such as for the email address, identification number, and phone number, corroborated with HTML information indicating fields for entering such details, and the presence of a \"Verificar\" button as a call-to-action also matches the expected functionality of a bank's personal account handling webpage. The HTML information, although limited, aligns with what's visually represented in the screenshot, strengthening the identification of the brand.",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATMAIL/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "0596e728718562ea71cc13a39ab29fd030b4eb393857c01f70ebd9e372316464",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Massage Now button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the webpage as belonging to the brand \"Telegram\" is highly supported by the recognizable logo in the top left corner, which matches Telegram's official logo, and the favicon URL indicates it sources from telegram.org, supporting this identification. There is no visible field explicitly asking for user credentials such as email, username, or password in the provided screenshot and html information. The presence of a call-to-action is evident with the \"Massage Now\" button, which is designed to engage users to interact further, potentially leading to communication or other actions within the Telegram platform. The confident identification is slightly less than absolute due to the lack of detailed html information such as headers, nav bar content, and footer text, which could further confirm the webpage composition and associated features.",
+        "Url": "https://viralwomanmelayu.st-me.id/"
+    },
+    {
+        "Folder Hash": "05e01b51ab1ad1f60317613efe29ace689aefb237438637e91416e90827c59bc",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Mobile number or email, Password",
+        "List of Call-To-Actions": "Log In, Create New Account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand can be confidently identified as Facebook based on several observable elements in the screenshot and html information provided. The logo visibly reads \"facebook\" at the top center of the screenshot which matches with the span text extracted from the html that includes \"facebook.\" Also, the screenshot clearly displays typical Facebook login fields for \"Mobile number or email\" and \"Password.\" Moreover, the calls to action \"Log In\" and \"Create New Account\" are prominent on-screen. The footer information in the screenshot matches with the span text, stating \u201cAbout - Help - More | Facebook Inc.,\u201d adding to the reliability of the brand identification. These details collectively make the identification of the Facebook brand very confident.",
+        "Url": "https://tanjant.com/vds/cvd/beaxa/xca/?3243565453="
+    },
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full name, Street Address 1, City, State, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the USPS logo at the top left, matching the brand style and color scheme typically used by the United States Postal Service. It features a tracking number prefixed with 'US', typical in USPS tracking formats. The HTML data provides the title \"USPS.com\u00ae - USPS Tracking\u00ae Results\", which also confirms the brand identity. Additionally, both the logo_alt_text and footer text are not explicitly found as 'USPS,' yet other key identifiers such as \"USPS Service Updates\" and \"About USPS Home\" indicated in other HTML elements firmly support USPS as the brand. Moreover, the copyright notice \"Copyright \u00a9 2023 USPS. All Rights Reserved.\" further validates the identification as USPS. The webpage is designed for user interaction with a form requesting address verification, which commonly appears on postal service sites to ensure delivery accuracy.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address/Login ID, Password, Employee ID, Last 4 Digits of SSN",
+        "List of Call-To-Actions": "Company Single Sign-On, Sign In, Forgot your password?",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The brand \"DHL\" is clearly identified through the logo present in the screenshot and confirmed by the favicon directory which contains \"favicon_dhl.ico\", indicative of the DHL brand. The HTML title tag also includes \"DHL\" which further supports the identification. The page contains input fields for the email address or login ID and password, which are typical sensitive user credentials, and it includes a clear call to action with buttons for signing in and an option for single sign-on, especially directed at company email holders. Moreover, the presence of headers and navigation bar content that encourages login actions strengthens this assessment. The overall design and elements align with those typically used by DHL for their web login interfaces.",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "Members 1st FCU",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand as Members 1st FCU stems primarily from the prominent display of the \"M 1st Members 1st\" logo at the top of the screenshot. This logo is a critical visual element that clearly signifies the membership or user association with Members 1st Federal Credit Union. Additional corroborative evidence includes the copyright statement at the bottom of the screenshot, which indicates \"\u00a9 2023 Members 1st FCU. All Rights Reserved,\" directly associating the webpage with Members 1st FCU. There are fields for entering 'Username' and 'Password', which are standard credentials for user login, and a 'Sign In' button as a direct call-to-action for users to log into their accounts. Despite other information not found in the HTML details, the visual components within the screenshot are sufficient for a high level of confidence in the brand identity.",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, password",
+        "List of Call-To-Actions": "VERIFY ACCOUNT, Log Into Facebook, Confirm ID and request review, Request review of advertising restrictions, Upload a Photo of your ID, Request review",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly shows an interface relating to account restriction, mentioning the violation of community standards, and includes a call to action button labeled \"VERIFY ACCOUNT\". Additionally, there is a Facebook icon visible. The HTML information further supports identification as the headers text includes phrases commonly associated with Facebook login and account recovery processes such as \"Log Into Facebook\" and \"Reviewing\". Moreover, the paragraph text specifically refers to \"If your Facebook account was restricted,\" explicitly naming Facebook and mentions procedures and guidelines consistent with Facebook\u2019s known practices regarding account verification and ID requirements.",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Adresse e-mail Orange, Mot de passe",
+        "List of Call-To-Actions": "Connnecter button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the Orange logo at the top, indicating the brand. The page's primary function seems to be a login portal where users enter their \"Adresse e-mail Orange\" and \"Mot de passe,\" as indicated in the screenshots and supported by the HTML \"paragraphs_text\" section. Including the reCAPTCHA verification suggests a user interaction for security reasons. Furthermore, there is a 'Connecter' (login) button present, which acts as a call to action for users to submit their credentials to access their accounts. Additionally, various themes related to Orange's services and branding, such as \"la Fibre d'Orange\" noted in the page footer, reinforce the identification of the brand. The entire presentation and content, including the webpage elements indicate that this is an Orange branded page.",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "password, 12-word seed expression",
+        "List of Call-To-Actions": "Download now, \"Get\" on the MetaMask user interface, \"Send out\" for public address entry",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The analysis is heavily supported by the presence of the MetaMask logo prominently displayed at the top of the webpage in the provided screenshot. The HTML information contains consistent mentions of \"MetaMask,\" including in the title, meta description, favicon path, headers_text, and repeatedly throughout paragraphs_text. The content of the webpage and the HTML script both emphasize functions and instructions associated with the use and setup of the MetaMask wallet, such as setting up a new wallet, creating a password, obtaining and using a 12-word seed expression, and buying or sending tokens.",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log in, Reset Password",
+        "Confidence Score": "9.75",
+        "Supporting Evidence": "The identification of the brand as \"cPanel\" comes primarily from the prominent cPanel logo at the bottom of the screenshot. This logo, which includes the trademarked \"cP,\" is specific to cPanel, Inc., a web hosting control panel software company. The screenshot also features a classic login interface commonly used in webmail systems managed through cPanel, indicating that the service relates to email management. The presence of credential fields where users can enter their 'Email Address' and 'Password', along with call-to-action buttons for 'Log in' and 'Reset Password', supports the functionality typical of a cPanel-managed webmail service. The web page\u2019s title \"Webmail Login\", as provided in the HTML meta description, aligns well with cPanel\u2019s services, which often include webmail features in their hosting solutions.",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full name, Street Address 1, Street Address 2 (Optional), City, State, ZIP Code (Optional), Phone Number",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot visibly displays the USPS logo at the top and on the footer, and the webpage is structured around USPS functions such as tracking and managing deliveries. This is further confirmed by the HTML title and footer texts that refer to various USPS services and links. The header texts and navigation bar content elaborate on typical postal service operations and resources linked with USPS, such as tracking packages, informed delivery, postal schedules, and service updates. The address verification section in the screenshot directly demands user input for addressing details, suggesting credential fields to be filled by users. The 'Continue' button serves as a direct call to action, prompting users to proceed with the address validation and related services.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Yahoo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, email, mobile, Password",
+        "List of Call-To-Actions": "NEXT button, Sign in using your Yahoo account",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the Yahoo logo at the top, and the page is styled as a login page for Yahoo, with fields for \"Username, email, or mobile\" and \"Password\". Additionally, the paragraph text in the HTML information mentions \"Sign in using your Yahoo account,\" linking the page directly to Yahoo's identity. This combination of visual and text evidence strongly supports that the webpage is branded as Yahoo, despite other text mentioning it is powered by Boxmode. The presence of fields for entering a username, email, or mobile and a password confirms the presence of credentials collection, and the \"NEXT\" button is an explicit call to action for the user to proceed, thereby also confirming the second part of the analysis.",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

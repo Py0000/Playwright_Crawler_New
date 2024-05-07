@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "00456ceeb05233ad13847800e135177fee3ba3b9aa8b3abad2897d5bb098c0ef",
+        "Brand": "SaskTel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Sasktel Email\", and the logo is also of SaskTel. The footer text also contains the copyright information of SaskTel. Therefore, we can conclude that the brand of this webpage is SaskTel.",
+        "Url": "https://mwebsasktelnetwebmail.weebly.com/"
+    },
+    {
+        "Folder Hash": "02543a8275720f148177a6725d130795ca1ce37b23115e37220ec8120e329b7d",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo, and the title of the page is \"Sign in to your Office365 account\". The HTML code also contains the text \"Enter your password\", which indicates that the user is being asked to enter their credentials. The page also contains a \"Sign in\" button, which is a call-to-action.",
+        "Url": "https://pub-bab316f8fb154fc2990bdef6c0c5a545.r2.dev/micros.html?email=ym9ilnhpbmdaemltdmlllmnvbq=="
+    },
+    {
+        "Folder Hash": "02678ed74f0374f8f550d4cb157ab6f977ca02d97a01c3bf78e9e40bfcd50a31",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number",
+        "List of Call-To-Actions": "Acessar, Comprar, Ver todos, Rastrear pedido, Entrar em contato",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"amigalu\", which is the same as the brand name. The footer contains the company's contact information, including its physical address and phone number. The webpage also has a link to the company's privacy policy.",
+        "Url": "https://amigalu.com.br/"
+    },
+    {
+        "Folder Hash": "03b1434f9932da25c5349db7b2784f0059054dbe051acc9d3b90f5b71f497b4a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Login | Microsoft 365\", and the logo in the screenshot is that of Microsoft. The footer contains links to Microsoft products and services, such as Office, Windows, and Xbox. The page also has a link to sign up for a free trial of Microsoft 365. All these pieces of evidence indicate that the brand of this webpage is Microsoft.",
+        "Url": "https://officehomeprodprv.japaneast.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "03cf34723cc38f2d411fa121d18768e4ada578f2e892a0d9a42f2eb695a44a90",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "VERIFY ACCOUNT",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The words \"Facebook\", \"account\", \"password\", and \"VERIFY ACCOUNT\" are present in the screenshot.",
+        "Url": "http://rafiamarketingagency.com/"
+    },
+    {
+        "Folder Hash": "04497415ef2e89fd65d797de4945569c1809696c591b36ede34f2e3c710abe94",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, phone number, password",
+        "List of Call-To-Actions": "Sign up for an account, Forgotten password?",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the PUBG Mobile logo and the words \"Terms and Conditions\". The HTML script contains the words \"PUBG Mobile\", \"Krafton Inc.\", and \"Tencent Games\". The footer contains the words \"Join the Community\" and links to Facebook, Twitter, YouTube, Instagram, VK, and Discord.",
+        "Url": "https://smaer-df097f.ingress-comporellon.ewp.live/wp-content/plugins/a/spin/5717563228/"
+    },
+    {
+        "Folder Hash": "04e0385261aa7d5362e0934d64b20aa0eb77d796252e653706d9c486723d4974",
+        "Brand": "NAVER",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the logo of NAVER. The title of the page is \"Sign in to your account\". The HTML code contains the field names \"ID\" and \"\ube44\ubc00\ubc88\ud638(Password)\". The page also has a button that says \"Sign in\". All these pieces of evidence suggest that the brand of the webpage is NAVER.",
+        "Url": "http://bafybeihayb4vlkcffkyuowz6p2z63a7mpb57udpfjkbd5r74l2pzweriqu.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "058942529bb11c7d607ff20b5e783b83f84ab4cc6dccf94662829fd006a08f4a",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"DHL\", the logo is of DHL, and the footer contains \"DHL Global \u00a9 2019 | All rights reserved\". Additionally, the webpage is asking for user credentials and has a call-to-action button.",
+        "Url": "https://siteoficialstory.com.br/vvu/dhl/source/index.php?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "05b262500b504efc2e3ed40fb1f0f42b7e8b1325b073b43d9ced4e83cbaaf0af",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmSruaeizQEqj1cxGFJyFhC4FQ5CYcb8ffhrSBDJoe8CUU"
+    },
+    {
+        "Folder Hash": "060f0086bb80b1f09eaff080ab80aa0a10add88217a9b9be21cfa0177093a558",
+        "Brand": "DANA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password, phone number",
+        "List of Call-To-Actions": "Daftar Dana Bisnis, Buat Qris Dana",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is DANA. The webpage has a DANA logo. The title of the webpage is \"DANA - Apa pun transaksinya selalu ada DANA\". The meta description of the webpage is \"DANA adalah bentuk baru uang tunai yang lebih baik. Transaksi apapun, berapapun dan dimanapun jadi mudah bersama DANA. Ambil bagian dalam transformasi keuangan digital di Indonesia sekarang!\". The footer text of the webpage is \"Terdaftar dan diawasi oleh: Bank Indonesia, Otoritas Jasa Keuangan\".",
+        "Url": "http://pusatt-bantuans.dana-ids.my.id/"
+    },
+    {
+        "Folder Hash": "605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Track Shipment",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"DHL Express | Track Shipment\", and the logo is also that of DHL. Additionally, the HTML script contains fields for email address and password, and a call-to-action button with the text \"Track Shipment\".",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu"
+    },
+    {
+        "Folder Hash": "acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix Clone\", and the logo is that of Netflix. The footer contains the text \"Netflix\" and the copyright information of \"Clement Lotus Code\". The webpage also has a form that asks for the user's email address.",
+        "Url": "https://clement-lotus-mollick.github.io/Netflix-Clone-FC/"
+    },
+    {
+        "Folder Hash": "ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c",
+        "Brand": "Bilibili",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\u9996\u9875 | \u756a\u5267 | \u76f4\u64ad | \u6e38\u620f\u4e2d\u5fc3 | \u4f1a\u5458\u8d2d | \u6f2b\u753b | \u8d5b\u4e8b | \u4e0b\u8f7d\u5ba2\u6237\u7aef |",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo, the title of the page, and the footer text all indicate that the brand is Bilibili. Additionally, the page contains links to various Bilibili-related pages, such as the homepage, the anime page, and the live broadcast page.",
+        "Url": "https://www.bilibili.com/"
+    },
+    {
+        "Folder Hash": "cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "h\u1ecd t\u00ean, ng\u00e0y sinh, \u0111\u1ecba ch\u1ec9",
+        "List of Call-To-Actions": "NH\u1eacN QU\u00c0",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Garena Free Fire Membership\". The logo in the screenshot is also that of Garena Free Fire. The webpage is asking for sensitive user credentials such as h\u1ecd t\u00ean, ng\u00e0y sinh, \u0111\u1ecba ch\u1ec9. The webpage also has a call-to-action button that says \"NH\u1eacN QU\u00c0\".",
+        "Url": "https://www.ff.members.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    },
+    {
+        "Folder Hash": "cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Llamar, netflix.com",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Netflix logo and the words \"Netflix\" and \"Disfruta Netflix en tu televisor, TV o...,\" \"netflix.com\" in the HTML script. The page also has a link to the Netflix app.",
+        "Url": "http://www.netflix.ayuda-telefonica.com/"
+    },
+    {
+        "Folder Hash": "daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Netflix. The title of the webpage is \"Netflix\". The footer text includes \"Netflix India\". The page has fields asking for user credentials such as \"Email Address\". The page has call-to-action buttons/links such as \"Get Started\".",
+        "Url": "https://sakshishakya.github.io/Netflix/"
+    }
+]

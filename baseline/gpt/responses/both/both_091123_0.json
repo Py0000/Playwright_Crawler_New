@@ -1,0 +1,212 @@
+[
+    {
+        "Folder Hash": "003bd506ca20afe4e61d9041d478963f0f469b6ff6b487832821a94e858f4322",
+        "Brand": "bit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "phone number",
+        "List of Call-To-Actions": "Download links for Google Play and App Store, Contact Us",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand \"bit\" is prominently displayed in multiple locations on the screenshot, including on the mobile phone screen graphics and in the footer text. The screenshot also features references to services tied exclusively to the \"bit\" brand, such as \"\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d9\u05ea bit\" and \"\u05db\u05e8\u05d8\u05d9\u05e1 \u05d0\u05e9\u05e8\u05d0\u05d9 bitcard.\" This consistent branding across the screenshot and the discernible text aligns with the \"bit\" brand. Furthermore, the HTML data validates these findings with repeated mentions of \"bit\" in the title, headers, and span texts. The phone number for contact and download buttons for the app stores serve as call-to-action elements that encourage user engagement, showing the page is interactive and seeks user input or action. Thus, combining these elements of the screenshot and HTML info strongly indicates the brand identity as \"bit\" with high confidence.",
+        "Url": "https://keyserver.inolians.com/wp-admin/css/colors/ocean/sms2.php"
+    },
+    {
+        "Folder Hash": "00648acdc9ff3c0ca09fef50ecb85dee174ba0651f6b2a78ad270139bfd83b97",
+        "Brand": "Cr\u00e9dit Agricole",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "\"Nous contacter\", \"Ouvrir un compte\", \"mon espace\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand is identified as Cr\u00e9dit Agricole based on several key pieces of evidence. The HTML title \"Cr\u00e9dit Agricole,\" visible in the provided HTML information, directly indicates the brand name. Additionally, the webpage screenshot prominently features the logo and mentions of Cr\u00e9dit Agricole multiple times, further confirming the brand identity. The webpage layout and texts such as \"T\u00e9l\u00e9chargez l'application Ma Banque\" and discussions about banking services align with a financial institution\u2019s typical online presence. Furthermore, the call-to-action elements like \"Nous contacter\" and \"Ouvrir un compte\" suggest actions a user can take, which are typical for a bank's website encouraging customer interaction and account opening. The headers mentioning various banking services and products solidify the context related to Cr\u00e9dit Agricole.",
+        "Url": "https://dev-creditagricole-restriction.pantheonsite.io/espace/48784/"
+    },
+    {
+        "Folder Hash": "00d37a7f9078c6266f92a66bb665b087bf60d62bfc38a98d726a2627493d2cb9",
+        "Brand": "USPS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full name, Email Address, Street Address 1, City, State, United States of America, ZIP Code, Phone Number",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as USPS is strongly supported by multiple elements. The top of the screenshot clearly shows the USPS logo accompanied by \"USPS.COM\", additionally the sections such as USPS Tracking\u00ae prominently displayed at the top affirm it. The page information from the HTML including the title \"USPS.com\u00ae - USPS Tracking\u00ae Results\" aligns perfectly with what is displayed. The footer details mentioning USPS specific links and services like \"Postal Inspectors\" and \"National Postal Museum\" distinctly point to USPS as the brand. The layout and the services mentioned such as \"Track a Package\" and \"Calculate a Price\" are typical of a postal service website, specifically USPS.",
+        "Url": "https://pzl.wev.mybluehost.me/wp-content/servicess/verification/"
+    },
+    {
+        "Folder Hash": "00e26adfa20c39e4c2a7a82e32f3ab02ed2940dd4148dc254aff03a5ce947fe5",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the text \"Currently, from AT&T\" along with the AT&T logo at the top, indicating it is an AT&T branded page. Additionally, the provided HTML information includes a title \"My AT&T - Home\" further supporting the identification of AT&T as the brand. The page design is consistent with the straightforward, professional layouts often used by official corporate service access pages, such as this apparent sign-in interface. The screenshot shows fields for entering 'Email' and 'Pass' (assumed to mean 'Password'), which are typical credentials for login processes. There is also a prominent 'Next' button, which is a clear call-to-action, typically used to proceed after the credentials are entered. These elements align well with typical practices on service login pages to authenticate returning users, reinforcing the identification of this as an AT&T-branded login page. The evidence from both the visual and textual elements in the screenshot and HTML information leads to a high level of confidence in the analysis.",
+        "Url": "https://utnfhdwsodlf.weebly.com/"
+    },
+    {
+        "Folder Hash": "0134854b3316a319e6ee13c06bc92ac6f204a827bd3520b39f0d8a6c6e56545e",
+        "Brand": "UOB Apple Rewards Store",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login, View My Account Details",
+        "List of Call-To-Actions": "Login, View My Account Details, View Saved Cart Items, View Purchase History, View Refund Coupons, View Refund Promo Codes, Shop All Categories",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand is identified through the webpage title provided in the HTML data \"UOB Apple Reward Store - Home\" and visually confirmed by the branding on the screenshot that shows \"UOB APPLE REWARDS STORE.\" This depiction aligns with the webpage\u2019s specialized function of allowing UOB cardholders to redeem points. Additionally, the navigation bar, logo area, and the detailed paragraph mentions UOB's services explicitly. The screenshot prominently displays Apple products and branding along with integration with UOB, suggesting a collaboration or special offering from UOB featuring Apple products. The mention of specific call-to-action links like \"Login\" and \"View My Account Details\" indicates fields and actions for user interaction, involving credentials. These details ensure a high confidence in identifying the brand and understanding the functions depicted on the page.",
+        "Url": "https://uob.applerewardsstore.com/#/"
+    },
+    {
+        "Folder Hash": "017eb1b7e207f7b6fe06ace56b3d04318469a6033550550d757d7b6944f1c2ff",
+        "Brand": "Intesa Sanpaolo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "APRI IL CONTO, ACCESSO CLIENTI, ACCEDI ALLA TUA BANCA ONLINE",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently shows the logo of Intesa Sanpaolo, a major Italian banking group, with distinct green branding and logo design. This matches well-known elements of the Intesa Sanpaolo brand identity which enhances my confidence in identifying the brand. Despite the absence of HTML specifics like title, favicon, logo_alt_text, and meta_description due to a \"Not Found\" status, visible content clues such as \"APRI IL CONTO,\" \"ACCESSO CLIENTI,\" and \"ACCEDI ALLA TUA BANCA ONLINE\" in the paragraph text strongly suggest a banking website involving customer interactions and services related to account management. This includes probable fields for sensitive credentials like email and password, as the presence of phrases like \u201cACCESSO CLIENTI\u201d (directly translated to \u2018client access\u2019) typically accompanies login frameworks. The assessment's confidence is primarily anchored on the visibility of the logo and supported by the contextual Italian text related to banking activities found in the paragraph_text.",
+        "Url": "http://user.91-92-246-115.cprapid.com/intesa/"
+    },
+    {
+        "Folder Hash": "0180ad600d7935e879b9ed49f0d95915ba0c95ee6ef8fc9e754830d804326ed4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username (meghan@5twealth.com), password",
+        "List of Call-To-Actions": "Sign in button, Forget password? link, Create one! link, Can't access your account? link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot provided prominently displays the Microsoft logo at the top, and the footer text also references \"\u00a92023 Microsoft,\" further reinforcing the identity of the brand. Additionally, the HTML information confirms these details with repeated mentions of Microsoft in the span_text and footer_text sections. The page is designed for user sign-in, evident from the HTML title \"Sign in to your account\" and fields for entering a username and password. There is a clear prompt for action with multiple options like \"Sign in\", \"Forget password?\", and \"Create one!\", which are typically found on login pages to facilitate user access to services, and clearly identified as call-to-action elements. The explicit and consistent branding across visual and HTML elements leaves no ambiguity regarding the website's ownership and purpose.",
+        "Url": "https://mccalpinlaw-1321712386.cos.ap-mumbai.myqcloud.com/mccalpinlaw.html?e=meghan@5twealth.com"
+    },
+    {
+        "Folder Hash": "01939de0e8cb884dac39533b246b2549d2dc0b70f703febf666e40499df4b3dc",
+        "Brand": "Microsoft SharePoint",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis is based on the visual elements present in the screenshot provided. The webpage displays logos of Microsoft and SharePoint, indicating the brand. The title bar of the browser also reads \"Microsoft | SharePoint\", which supports the identification. Furthermore, the interface is designed in a style typical of Microsoft applications, specifically SharePoint, which is often used for document management and collaboration. The credentials fields requesting \"Email\" and \"Password\" are clearly visible, along with a \"Sign in\" button, serving as a call to action for users to authenticate their identities to proceed. These elements align significantly with typical Microsoft SharePoint login pages, thereby confirming the brand with high confidence. No contradictory evidence was found in the provided HTML information, although most of it returned as \"Not Found\", focusing the analysis mainly on the screenshot visuals.",
+        "Url": "https://ninesho.web.app/"
+    },
+    {
+        "Folder Hash": "01f8a9c9cd9c584e375e111b84b7fe36970b54380f47135d19c683285fd9bf1f",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly displays the AT&T logo at the top, which is a well-known telecommunications brand. The page is designed for users to sign in to access AT&T Mail and Currently.com, indicating that the page is associated with AT&T. The URL of the favicon provided in the HTML information (which is not directly analyzed but can indicate a third-party service or storage location) does not influence the branding identified from the visual and textual content displayed on the page itself. The presence of login fields labeled 'User ID' and 'Password' and a 'Sign in' button further supports the functionality of the page as a login portal for AT&T services, affirming the identification of the brand.",
+        "Url": "https://t19117486.brizy.site/"
+    },
+    {
+        "Folder Hash": "01ff356ce20b19aad26daecce43eb4ad9e44e4e46a93e3cd549a96b33f1549df",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Password",
+        "List of Call-To-Actions": "\"DAVOM\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot displays a webpage for logging in using Telegram with prompts in Uzbek. The title contained in the HTML information mentions \"Telegram,\" which aligns with the visual content of the screenshot. Various parts of the HTML information, particularly the headers such as \"Ovoz berish uchun Telegram orqali tizimga kiring\" (Vote by logging in via Telegram), and paragraphs requesting the input of a registered phone number and a password for two-factor authentication, also strongly imply that the page is directly related to Telegram\u2019s authentication services. The favicon URL provided points to an image that is recognizable as Telegram's iconography. Furthermore, the absence of any other brand's mention, combined with these consistent indicators contained in both the webpage screenshot and the HTML info, strongly supports the identification of Telegram as the brand in question.",
+        "Url": "https://uzd-vote.pro/"
+    },
+    null,
+    {
+        "Folder Hash": "4180f0df9b65c1bb86dc70331a57c72f42181d0e8da7f8f00545ca51527bbc0e",
+        "Brand": "Outlook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the Outlook brand is significantly supported by the logo present in the screenshot displaying the distinctive Outlook logo, which consists of the blue \"O\" and the envelope icon, alongside the Outlook text in blue. Additionally, the title from the HTML information, \"Partner | Outlook | Sign In |\", further corroborates the Outlook branding and suggests a login interface specifically branded or partnered with Outlook. The presence of credential fields for email and password and a sign-in button align with the typical features of an email service provider's login page. The favicon URL did not provide any significant insight as the content couldn't be verified directly in this setting, but the consistency across the visual and textual elements on the webpage highly suggests this page is related to the Microsoft Outlook service.",
+        "Url": "https://partner-outlook-cn.southerncoloradomedicare.com/.partner./?qs=3mail@b.c"
+    },
+    {
+        "Folder Hash": "5158b698ae70f19b5665758385d41003b4e54eb49e95460dd9a5b3554c32038c",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u0627\u0644\u0627\u0633\u0645*, \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a*, \u0627\u0644\u0645\u0648\u0642\u0639 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a",
+        "List of Call-To-Actions": "\u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0631\u062f, \u0625\u0645\u0644\u0623 \u0627\u0644\u0646\u0645\u0648\u0630\u062c \u0625\u0630\u0627 \u0643\u0646\u062a \u0645\u0647\u062a\u0645",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot and HTML info do not provide enough specific details or distinct branding elements to identify a particular brand with high confidence. The visuals and text (e.g., \"www.marketsdebate.com\" in the image and general financial content) suggest a focus on financial markets, but without specific branding cues like a unique logo or explicit brand mentions beyond a URL, definitive brand identification isn't possible. The website appears to offer financial news, analysis, and possibly some services related to trading or market discussion, as inferred from text concerning market activities and trading considerations. The data available is too generic to securely attribute to a specific brand or commercial entity. This results in a confidence score of 0.00 due to the lack of clear, distinct branding information necessary for a firm identification.",
+        "Url": "https://marketsdebate.com/archives/68319"
+    },
+    {
+        "Folder Hash": "612676b8cafc96aa8eaeb56ba596f86a8fc08c68e424ab13a068e7331e46f8d8",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Adresse e-mail ou n\u00b0 de mobile Orange, Mot de passe",
+        "List of Call-To-Actions": "Continuer button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis indicates the brand as Orange, clearly supported by the logo at the top-left corner of the webpage screen, prominently displaying the Orange logo. Additionally, the span text includes a mention of \"Adresse e-mail ou n\u00b0 de mobile Orange,\" reinforcing the association with the Orange brand. The webpage's main function appears to be for existing users to log in with their Orange email or mobile number and password, which are sensitive user credentials. The call to action is represented by a \"Continuer\" (Continue) button, facilitating user logins or further navigation related to their accounts. The confidence in the brand identification is absolute due to the clear visual representation and textual confirmation within the page contents.",
+        "Url": "http://www.swahiliaviation.com/wp-admin/sup-mai/Dir/Connexion.html"
+    },
+    {
+        "Folder Hash": "69dd38c87100bf2f6377d0d8925a81307bf4cce7816b012fefd1a74a622c7886",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Sign in",
+        "List of Call-To-Actions": "Sign In, Sign up and join Steam for free",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"Steam\" is clearly identified from the logo in the top left corner of the website screenshot. The title in the HTML script \"Welcome to Steam\" corroborates this. Additionally, the logo's presence and frequent mentions of Steam-related terms and features, such as \"Steam Gift Card\" and \"Steam Subscriber Agreement\" in the HTML text, strengthen the identification. The calls to action can be clearly seen on the webpage, prompting users to \"Sign in\" or \"Sign up\" to access personalized recommendations and join Steam. This analysis confidently asserts the brand's identity without any ambiguity.",
+        "Url": "http://steam.wx186.cn/"
+    },
+    {
+        "Folder Hash": "c8406e458cafabac3dff558dc4e6963cb82f3fb9c5046e170545c6cb52f81f02",
+        "Brand": "cPanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Log in, Reset Password",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The webmail login page prominently displays the \"Webmail\" title and the cPanel logo at the bottom of the page. This suggests that the page is likely hosted or managed by cPanel, a popular web hosting and management software, which often provides webmail services through its platforms. The logo at the bottom, despite being small, matches cPanel's branding color scheme and icon style, indicating cPanel is the managing or hosting brand. The additional fields and buttons such as email address, password input, and login action align with typical webmail service features offered by web hosting providers like cPanel.",
+        "Url": "http://bafybeia3nzj2dz4knmettflujgdkw25xpbuu7k4darbjmiiynwvzgaqv4e.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "cbbeacb335337b72079e5d8d16b2bf3ce724d25199ad54e4202cbae96508cce7",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The image provides no visible content, logos, text, or identifiable elements that could be used to deduce the brand or the nature of the webpage. Moreover, the HTML information provided does not contain any discernible or relevant data (all the required fields such as title, meta_description, favicon, logo_alt_text, footer_text, headers_text, nav_bar_content, paragraphs_text, span_text are listed as \"Not Found\") that could provide clues about the brand or specific webpage features such as credential inputs or call-to-action elements. The lack of any evidence or distinguishable webpage elements severely limits the ability to perform an accurate webpage assessment.",
+        "Url": "https://amwinzi.com/"
+    },
+    {
+        "Folder Hash": "ce7c7687e91c48348e2271036f56608db65bc980ae374723d0c7d771ae969793",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot and HTML information provided solely revolve around a message indicating \"Account Suspended\" without any specific brand identifiers such as logos, footer text, or navigation content that specify a company or service. The lack of detailed information or distinctive branding elements in the html script (with most fields noted as \"Not Found\") means there is no identifiable brand relationship. The phrase \"Account Suspended\" is generic and does not point to any specific brand. Additionally, the title from the HTML script matches exactly with the primary message shown in the screenshot further confirming there is no additional branding information present.",
+        "Url": "https://www.tahunbaru.biz.id.jikulamu.biz.id/cgi-sys/suspendedpage.cgi"
+    },
+    {
+        "Folder Hash": "ed00febd4db1031a3aa9658a6d77cb0c67c062dc1aba201ad438a1f84c755fec",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://nuevavidacancun.org/wp-case/INV/pdf-viewdocument-RD328/pdf-viewdocument-RD328/index.html"
+    },
+    {
+        "Folder Hash": "f909ff398120bf4e82978474bd06aa1912f934215ea8c704c261dffe1ddea599",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Your Name, Phone, Personal Email, Business Email",
+        "List of Call-To-Actions": "CONTINUE button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly shows the \"Meta\" logo at the top of the page, indicating it is a Meta-branded webpage. The page itself is an \"Appeal Request\" form that includes fields for Your Name, Phone, Personal Email, and Business Email, suggesting that sensitive user credentials are asked for. Additionally, there's a button labeled \"CONTINUE,\" serving as a call-to-action element. Furthermore, the terms \"Appeal Request\" and \"I agree the Terms and Conditions\" found in both the HTML information and visible on the screenshot, support the form's purpose and its associated actions.",
+        "Url": "http://reply-form-4598389f.surge.sh/"
+    }
+]

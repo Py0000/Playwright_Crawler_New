@@ -1,0 +1,212 @@
+[
+    {
+        "Folder Hash": "003bd506ca20afe4e61d9041d478963f0f469b6ff6b487832821a94e858f4322",
+        "Brand": "bit",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Google Play, App Store",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"bit\" is prominently displayed in the logo, page title, and footer. The page also has call-to-action buttons for downloading the app from the Google Play Store and Apple App Store.",
+        "Url": "https://keyserver.inolians.com/wp-admin/css/colors/ocean/sms2.php"
+    },
+    {
+        "Folder Hash": "00648acdc9ff3c0ca09fef50ecb85dee174ba0651f6b2a78ad270139bfd83b97",
+        "Brand": "Credit Agricole",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the words \"Cr\u00e9dit Agricole\" in the top left corner. The title of the page is also \"Cr\u00e9dit Agricole\". The footer text contains the words \"Cr\u00e9dit Agricole\" as well. The logo in the screenshot is also the logo of Cr\u00e9dit Agricole. The page is about the bank Cr\u00e9dit Agricole.",
+        "Url": "https://dev-creditagricole-restriction.pantheonsite.io/espace/48784/"
+    },
+    {
+        "Folder Hash": "00d37a7f9078c6266f92a66bb665b087bf60d62bfc38a98d726a2627493d2cb9",
+        "Brand": "USPS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"USPS.com\" and the logo is that of the United States Postal Service. The footer contains links to USPS pages and the copyright notice at the bottom also mentions USPS.",
+        "Url": "https://pzl.wev.mybluehost.me/wp-content/servicess/verification/"
+    },
+    {
+        "Folder Hash": "00e26adfa20c39e4c2a7a82e32f3ab02ed2940dd4148dc254aff03a5ce947fe5",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://utnfhdwsodlf.weebly.com/"
+    },
+    {
+        "Folder Hash": "0134854b3316a319e6ee13c06bc92ac6f204a827bd3520b39f0d8a6c6e56545e",
+        "Brand": "UOB Apple Reward Store",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "View My Account Details, View Saved Cart Items, View Purchase History, View Refund Coupons, View Refund Promo Codes",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"UOB Apple Reward Store - Home\", and the logo in the screenshot is that of UOB. The footer text contains the words \"Copyright \u00a9 2020 OneEmpower Pte Ltd or its affiliate\". The webpage is likely to be a rewards store for UOB cardmembers, and the call-to-action buttons are likely to be for logging in to the store or viewing account details.",
+        "Url": "https://uob.applerewardsstore.com/#/"
+    },
+    {
+        "Folder Hash": "017eb1b7e207f7b6fe06ace56b3d04318469a6033550550d757d7b6944f1c2ff",
+        "Brand": "Intesa Sanpaolo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "APRI IL CONTO, ACCESSO CLIENTI, ACCEDI ALLA TUA BANCA ONLINE",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot, and the page title and footer text also contain the brand name. The HTML information further confirms the brand name. The presence of sensitive user credentials and call-to-action elements further supports the identification of the brand.",
+        "Url": "http://user.91-92-246-115.cprapid.com/intesa/"
+    },
+    {
+        "Folder Hash": "0180ad600d7935e879b9ed49f0d95915ba0c95ee6ef8fc9e754830d804326ed4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in, Create one!, Can't access your account?, Forget password?",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo, and the footer text says \"\u00a92023 Microsoft\". The HTML script contains the text \"Microsoft\" and \"Sign in\". The page asks for the user's email and password. There are also call-to-action buttons such as \"Sign in\", \"Create one!\", \"Can't access your account?\", and \"Forget password?\".",
+        "Url": "https://mccalpinlaw-1321712386.cos.ap-mumbai.myqcloud.com/mccalpinlaw.html?e=meghan@5twealth.com"
+    },
+    {
+        "Folder Hash": "01939de0e8cb884dac39533b246b2549d2dc0b70f703febf666e40499df4b3dc",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://ninesho.web.app/"
+    },
+    {
+        "Folder Hash": "01f8a9c9cd9c584e375e111b84b7fe36970b54380f47135d19c683285fd9bf1f",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Login Screen\" and the logo is for AT&T. The page has two fields asking for user credentials: User ID and Password. The page also has a call-to-action button that says \"Sign in\".",
+        "Url": "https://t19117486.brizy.site/"
+    },
+    {
+        "Folder Hash": "01ff356ce20b19aad26daecce43eb4ad9e44e4e46a93e3cd549a96b33f1549df",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone Number",
+        "List of Call-To-Actions": "Davom etish",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Telegram logo and the title \"Ovoz berish uchun Telegram orqali tizimga kiring\" which indicates that the brand is Telegram. The webpage also has a field asking for the user's phone number, which is a sensitive user credential. Additionally, the webpage has a call-to-action button that says \"Davom etish\", which indicates that the user will be able to continue to the next step of the process after providing their phone number.",
+        "Url": "https://uzd-vote.pro/"
+    },
+    null,
+    {
+        "Folder Hash": "4180f0df9b65c1bb86dc70331a57c72f42181d0e8da7f8f00545ca51527bbc0e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo, page title, and the fields for email and password are all strong indicators that this is a Microsoft Outlook login page.",
+        "Url": "https://partner-outlook-cn.southerncoloradomedicare.com/.partner./?qs=3mail@b.c"
+    },
+    {
+        "Folder Hash": "5158b698ae70f19b5665758385d41003b4e54eb49e95460dd9a5b3554c32038c",
+        "Brand": "Markets Debate",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"S&P 500 \u0627\u0644\u0639\u0642\u0648\u062f \u0627\u0644\u0622\u062c\u0644\u0629\u060c \u062a\u0633\u062c\u0644 \u0627\u0644\u0639\u0648\u0627\u0626\u062f \u062e\u0633\u0627\u0626\u0631 \u0645\u0639\u062a\u062f\u0644\u0629 \u0645\u0639 \u062a\u0636\u062e\u0645 \u0645\u062e\u0627\u0648\u0641 \u0627\u0644\u062a\u062e\u0644\u0641 \u0639\u0646 \u0627\u0644\u0633\u062f\u0627\u062f \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u0627\u0644\u062a\u0636\u062e\u0645\u060c \u0648\u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0645\u0635\u0631\u0641\u064a\u0629 \u062a\u0646\u062a\u0638\u0631\". The logo at the top of the page is that of Markets Debate. The footer of the page also contains the Markets Debate logo and copyright information.",
+        "Url": "https://marketsdebate.com/archives/68319"
+    },
+    {
+        "Folder Hash": "612676b8cafc96aa8eaeb56ba596f86a8fc08c68e424ab13a068e7331e46f8d8",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Se connecter",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Orange, a French telecommunications company. The title of the page is \"Acc\u00e9der \u00e0 mes comptes en ligne\", which suggests that this is a login page for an Orange account. The page also has a form with fields for an email address or mobile phone number and a password. This is consistent with the login page of Orange.",
+        "Url": "http://www.swahiliaviation.com/wp-admin/sup-mai/Dir/Connexion.html"
+    },
+    {
+        "Folder Hash": "69dd38c87100bf2f6377d0d8925a81307bf4cce7816b012fefd1a74a622c7886",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "Sign in, Create an account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Steam\" in the title, the logo is of the Steam platform, and the overall design and layout of the webpage is consistent with the Steam platform. Additionally, the HTML script contains references to \"Steam\" and \"Valve\", which are companies associated with the Steam platform.",
+        "Url": "http://steam.wx186.cn/"
+    },
+    {
+        "Folder Hash": "c8406e458cafabac3dff558dc4e6963cb82f3fb9c5046e170545c6cb52f81f02",
+        "Brand": "ePanel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Log In, Reset Password",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The screenshot shows a login page with fields for email address and password. The page also has a \"Log In\" button and a \"Reset Password\" link. The footer of the page contains the copyright information for ePanel, L.L.C.",
+        "Url": "http://bafybeia3nzj2dz4knmettflujgdkw25xpbuu7k4darbjmiiynwvzgaqv4e.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "cbbeacb335337b72079e5d8d16b2bf3ce724d25199ad54e4202cbae96508cce7",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage does not contain any identifying information, such as a logo, title, or footer. Therefore, I cannot identify the brand.",
+        "Url": "https://amwinzi.com/"
+    },
+    {
+        "Folder Hash": "ce7c7687e91c48348e2271036f56608db65bc980ae374723d0c7d771ae969793",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage displays a message stating that the account has been suspended and advises the user to contact the hosting provider for more information. There are no fields requesting user credentials or call-to-action buttons/links. The brand of the webpage cannot be determined from the provided information.",
+        "Url": "https://www.tahunbaru.biz.id.jikulamu.biz.id/cgi-sys/suspendedpage.cgi"
+    },
+    {
+        "Folder Hash": "ed00febd4db1031a3aa9658a6d77cb0c67c062dc1aba201ad438a1f84c755fec",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://nuevavidacancun.org/wp-case/INV/pdf-viewdocument-RD328/pdf-viewdocument-RD328/index.html"
+    },
+    {
+        "Folder Hash": "f909ff398120bf4e82978474bd06aa1912f934215ea8c704c261dffe1ddea599",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot. Additionally, the title of the page is \"Appeal Request\", which is consistent with the information in the HTML script. Furthermore, the footer text includes the company's name, \"Meta\".",
+        "Url": "http://reply-form-4598389f.surge.sh/"
+    }
+]

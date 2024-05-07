@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0078996a57c1b19633fb4782b110d09db29eec6b5bc131a51e853bd60f64166b",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Verification button",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand as \"Meta\" is primarily based on the very evident and large blue logo with the name \"Meta\" and the infinity symbol-like design at the top of the screenshot. This screenshot also has a \"Your account has been restricted\" header which further hints at an account-related service commonly provided by major tech platforms. The context given about account restrictions due to violating community standards is indicative of social media platforms, which fits the business model of Meta. The presence of a password field indicates a credentials input requirement. A clear call to action is identified in the form of a \"Verification\" button, urging the user to verify or carry out an action presumably to address the account restriction issue. The evidence from both the screenshot and the limited HTML details emphasizing account verification requirements and restrictions align closely, reinforcing the identity of the brand as Meta with high confidence.",
+        "Url": "http://www.meta-account.veafd.biz.id/vipst/lanjut.php"
+    },
+    {
+        "Folder Hash": "0210810b3ca54459e6633bb6ff77ddb6780a1b56192a044b299504bc87da0bd4",
+        "Brand": "Santander",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF, Clave de acceso",
+        "List of Call-To-Actions": "Entrar, Recordar usuario, Alta en Banca Online",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification for this webpage is supported primarily by several indicators visible in the screenshot and supported by the HTML information. The screenshot prominently features the Santander logo at the top left corner. Additionally, the favicon URL provided in the HTML information contains the domain 'bancosantander.es', which aligns with the official domain of Banco Santander, a prominent financial services company. Furthermore, the screenshot shows fields labeled \"NIF\" and \"Clave de acceso\", typical credentials used for banking login in Spanish-speaking countries, indicative of a banking service. The Call to Action 'Entrar' directly associated with these fields further supports the nature of the webpage as a login portal for Santander's online banking. Therefore, the conclusion drawn from analyzing both visual and HTML content leads to a high confidence in identifying the brand as Santander.",
+        "Url": "http://bancosantander-es.com/cuenta-es/.94a26e88601379d95e7e87421285cb2e/login/desktop.php?3b8ac22fa0b0a8dce2a46976f0ee9139"
+    },
+    {
+        "Folder Hash": "02a9ebdea40034703293c248df572a2858c0469f892dfe2b2dcafc60e6c74071",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Enter email, Next button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly displays the Microsoft logo at the top of the page alongside the OneDrive logo on the header, indicating a Microsoft-associated web service. The colors and typography style align with Microsoft's brand guidelines. The footer text specifically includes \"\u00a9 2023 Microsoft,\" further confirming the brand identity. Additionally, the HTML script mentions \"Verify Your Identity\" as part of the span_text, which is a typical phrase used on verification pages hosted by tech companies like Microsoft. The request for credentials (professional email) aligns with typical security processes for accessing secured files in enterprise environments, commonly employed by Microsoft services. The \"Next\" button is a direct call to action for users to proceed with their email input.",
+        "Url": "blob:https://bafybeihxpdl65aea3spuyoo6ye4w2i2li3vezwevuoerbbttqeduwjqnsq.ipfs.cf-ipfs.com/4c8a6ea0-ff2c-4940-8ed8-f5ff304a5b00"
+    },
+    {
+        "Folder Hash": "05656f2362a648ae8d990bb048aaf77f86b9adea46081b8c536ca5682e6e03b6",
+        "Brand": "myGov",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Card Number, Date of Birth, Nationality, Mobile Number",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly displays the \"myGov\" logo at the top, which is associated with the Australian Government's online service platform used for accessing government services. The page design includes elements typical of government service websites, such as a plain and functional layout. The form fields requesting personal data like full name, card number, and date of birth, crucial for identity verification in government procedures, support the identification. Additionally, the footer's text paying respects to the \"Traditional Custodians of lands\" aligns with typical acknowledgments found on Australian government websites. This combination of visual and textual identifiers strengthens the confidence in identifying the brand as \"myGov.\"",
+        "Url": "https://wos.lqn.mybluehost.me/mygov/app/bbCeU0BUdP/model/billing.php?id=56627565&user_657a767eccaf6"
+    },
+    {
+        "Folder Hash": "0690e96b0748f47632c1264708cd65b450ff8254c416ea0d0d85f1f2e0260782",
+        "Brand": "OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Enter Password",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly displays the \"OneDrive\" logo in the upper left corner, which is consistent with Microsoft's file hosting and synchronization service. There is a text header indicating \"Enter Password,\" suggesting the presence of a field for entering credentials, specifically a password. This aligns with typical secure cloud storage practice where sensitive user credentials are required for accessing personal or shared files. The HTML information echoes the OneDrive brand (in the title and span text) and also specifies the presence of sensitive credential fields through the \"headers_text\".",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmSTLkTTeaTyGFUP3hoBdfMQANdxW93trmS1YB643Q7WAF"
+    },
+    {
+        "Folder Hash": "07227eff0ae263eeeac8355f9e901f06d38a508e2663026a949730bb4fb7ca95",
+        "Brand": "EasyPlay.su",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u041f\u043e\u0438\u0441\u043a \u0432 Google!\" button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The analysis is based on the visual and HTML elements of the webpage screenshot provided and the associated HTML tag information. The elements consist of the Google-like logo and interface; however, the footer text and inscription on the bottom of the screenshot reference \"\u00a9 2023 EasyPlay.su. All Rights Reserved\", indicating the true brand of the webpage. This is confirmed by both the meta_description and the footer_text in the HTML information which repeatedly mentions EasyPlay.su. The presence of a search button that says \"\u041f\u043e\u0438\u0441\u043a \u0432 Google!\" suggests an action is intended but does not necessarily indicate credential inputs, leading to the conclusion of no sensitive credentials asked. The high confidence score is due to the consistent branding in the footer and HTML data, despite the Google-like appearance which might suggest a mimic or themed interface.",
+        "Url": "https://easyplay.su/google/?q=0YHQutCw0YfQsNGC0Ywg0YfQuNGCINGN0L3QtNC20LjQvSDQvdCwINCw0LnRhNC+0L0="
+    },
+    {
+        "Folder Hash": "0956ca0ac977f6c65bdace3a24c45dae4e5151df840b05681741d16d25b194ec",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, or Skype; Password",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand is primarily based on the logo visible in the screenshot which clearly shows the Microsoft logo, and the interface style typically used by Microsoft for its sign-in pages. The form fields prompt for \"Email, phone, or Skype\" and \"Password\", typical credentials Microsoft requires for login. The presence of a \"Next\" button acts as a call-to-action, guiding users to proceed with their login attempt. The HTML information, despite having many \"Not Found\" fields, provides supplementary context indicating the nature of the simulation exercise, but the brand association is directly confirmed visually through the logo in the screenshot, hence the high confidence level, though slightly reduced due to the context of the simulation mentioned in the HTML paragraph, suggesting potential misleading uses of branding in training contexts.",
+        "Url": "https://certified.cloudsurveillance.net/d4936145-975d-4c46-923b-13f16e4b303c"
+    },
+    {
+        "Folder Hash": "09eaab5f952c5d9b5fffeca5dabacad57697e9617de5d283f566060c8a4e64da",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Country selection, Phone Number, Phone Code, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The identification of the brand as Telegram is strongly supported by both the screenshot and HTML information. The screenshot prominently features the Telegram logo, and the text \"Sign in to Telegram\" is both in the image and noted in the HTML headers_text. Furthermore, the HTML title \"Telegram Web\" also aligns with this branding. Also, elements that require credentials such as country selection, phone number, phone code, and password input fields are visible in the screenshot and align with the typical login process for Telegram, emphasizing the service's security and user authentication mechanisms. The call-to-action is identified as the blue sign-in button, consistent with Telegram's brand color and design style. The consistency of the Telegram logo and the service-specific login functionalities give a high level of confidence in the brand identification.",
+        "Url": "http://www.telegirem.com/"
+    },
+    {
+        "Folder Hash": "0b621ebbec62a3631eaa9cf5f9acb0df75d3a5b70db14cc1b4fdb4bb7ce71f1e",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "mobile number, email, password",
+        "List of Call-To-Actions": "Search your account, Wrong password, Have you forgotten your password?",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot shows a user interface that closely resembles the WhatsApp mobile application, indicated by the design and layout where chat elements and groups are shown. The HTML information also consistently mentions \"Whatsapp\" in titles, navigation bar contents, and spans, affirming the brand identity. The conversation names and times listed in both the screenshot and HTML information align, reinforcing the identification of the brand. The HTML contains phrases related to account recovery and authentication, like \"The mobile number or email you entered does not match any account,\" and options related to password issues, verifying the presence of fields asking for credentials and actions related to account access and recovery. This congruency between visual and text-based clues in both the screenshot and HTML information leads to a high confidence in identifying the brand as WhatsApp.",
+        "Url": "http://mail.fibro6.nag4.com.tr/"
+    },
+    {
+        "Folder Hash": "0c5ed05893e39f8bb75e3e8c383326b4086cdbb0510e3793363c26c8197bd3a9",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "wallet password, private keys",
+        "List of Call-To-Actions": "Claim Your Ethereum, Connect Your Wallet",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand \"Coinbase\" is strongly supported by multiple pieces of evidence from both the screenshot and the HTML info provided. The screenshot prominently displays the name \"Coinbase\" at the top, and the footer text includes \"\u00a9 2023 Coinbase,\" which explicitly mentions the brand name. The HTML information reinforces this identification, with the title mentioning \"Coinbase \u2013 You're invited to earn ETH,\" and the footer text also confirming the brand name. Additionally, the favicon is essentially a visual representation tied to the Coinbase brand, though presented in a base64 encoded format. The presence of secure wallet connection instructions aligns with Coinbase\u2019s services, which involve cryptocurrency transactions.",
+        "Url": "https://coinbase-airdops.com.ru/"
+    },
+    {
+        "Folder Hash": "2195b27965be4df38b6d8caea64814ac421a7876bc1550d70226abefca20f8fd",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, phone number, password",
+        "List of Call-To-Actions": "Sign up for an account, Forgotten password",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Battlegrounds Mobile India is strongly supported by the title from the HTML information, \"www.battlegroundsmobileindia.com\". Furthermore, the screenshot prominently displays the text \"BATTLEGROUNDS MOBILE INDIA\" at the top and mentions \"KRAFTON\", which aligns with the footer text in the HTML providing the copyright statement as \"\u24d2 2023 KRAFTON, Inc. All rights reserved.\" The paragraph texts in the HTML information suggest the presence of call-to-action elements related to account issues and rewards, confirming user interaction related to credentials like email, phone number, and password. These points collectively fortify the confidence in identifying the brand and the presence of credentials and call-to-action elements.",
+        "Url": "https://pagani-gcevent.indianxevent.com/"
+    },
+    {
+        "Folder Hash": "243fac392f12f2525adba8f0994fce50bce41e6ded3231ebb838d953db341789",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "GET STARTED button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the Netflix logo, which is distinctive and widely recognized. Furthermore, the HTML title tag specified is \"Netflix\", which confirms the identity of the brand. The introduction of a field requesting an \"email address\" in both the HTML information and clearly on the screenshot indicates the presence of sensitive credential fields. Additionally, the call-to-action is clearly identified with a \"GET STARTED\" button, described in both the visual screenshot and the HTML headers text. The combination of logo visuals, consistent naming in the HTML script, and content geared towards Netflix\u2019s service offerings such as unlimited movies and TV shows supports a high confidence identification of the brand.",
+        "Url": "https://abhedanil.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "2bfd99b42d651f7476101a8c1de0f0c19a511feae1a6c3b1f3e3ac43665adf9e",
+        "Brand": "Serasa",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPF (Cadastro de Pessoas F\u00edsicas), name",
+        "List of Call-To-Actions": "Consultar meu CPF, Pedir empr\u00e9stimo online, Limpar meu nome, Negociar d\u00edvidas",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage can be confidently identified as \"Serasa\" based on both the screenshot and the HTML information provided. The screenshot prominently features mentions of \"Serasa\" throughout, including the logo at the top and text across various sections of the page. The HTML information reinforces this with numerous references to Serasa in the navigation bar content, header texts, and footer text. Key identifiers include addresses, naming conventions, and offered services related to credit and financial consultations, clear indications of Serasa's brand identity. Also, the presence of campaigns such as \"Serasa Limpa Nome\" in the title and throughout the webpage strongly indicates the brand identity. Furthermore, the site does ask for sensitive credentials like CPF and name, and includes numerous call-to-action elements encouraging visitors to engage with services that would necessitate such disclosures.",
+        "Url": "https://d3k44z507vpdol.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "63ee342e3458b77dbb7a3e4dd59545e62390505307f67042d715081a53d4fa64",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Enter Email, Next Button",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot prominently features the Microsoft logo at the top and includes references such as \u201c\u00a9 2023 Microsoft\u201d in the lower right corner of the interface, aligning with typical branding elements of Microsoft. Additionally, the page's functionality relates to a secure file download, asking for an email credential specifically tied to a shown PDF file, which is a common security measure in professional or Microsoft services that handle document sharing and validation. The action button labeled \"Next,\" along with an email input field, directly prompts user interaction, serving both as a call to action and a credential requirement on the webpage. The HTML snippet provided also includes the text \"\u00a9 2023 Microsoft\" and the phrase \"Verify Your Identity,\" further confirming the Microsoft brand association and supporting the presence of a Microsoft-themed authentication process.",
+        "Url": "blob:https://bafybeiasvt3phgmntyoxldrx6qkmxcepznkmwau7qyihhwn7mp7in6cpve.ipfs.cf-ipfs.com/23bc4db9-fb16-47f3-bfa8-f73c891059a1"
+    },
+    {
+        "Folder Hash": "72376788aaacd253f79474dd79a991dd722a5da08e874eace610450d649c5932",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand identity is predominantly indicated by the title \"Facebook\" in the provided HTML information. Furthermore, the webpage screenshot features the iconic padlock and person illustration often associated with security-related messages from Facebook. The text in the image, though in Bulgarian, and the text fields for \"Email or phone number\" and password in the HTML information also reinforce that the page is related to security features specifically for Facebook accounts. Additionally, the HTML information mentions actions like entry of credentials and a login button, characterizing typical user credential fields and a call-to-action expected on such verification pages.",
+        "Url": "https://bg-bg-facebooks.pages.net.br/"
+    },
+    {
+        "Folder Hash": "82333831343afa9a86ffd7b96b09f1a6490ef9aa1dc3696ddc2dc767e663330f",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Country, Phone number",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification is primarily evident from the logo and the page title. The screenshot features the Telegram logo prominently at the top, characterized by a blue paper airplane symbol on a white circle, a widely recognized icon of Telegram. The HTML title \"Telegram Web\" reinforces the identification of the brand as Telegram. The webpage is set up for logging in or linking an account using a Telegram account, as stated in the header text \"\u4f7f\u7528Telegram\u8d26\u53f7\u767b\u5f55\u7ed1\u5b9a\" which translates to \"Login and bind with Telegram account.\" Furthermore, sensitive user credentials like country selection and phone number are requested on the form, indicative of login or account verification processes typically observed in messaging and communication platforms. The blue button serves as a call to action for proceeding with the login process. The evidence from both graphical and textual elements in the screenshot and HTML info aligns strongly with the brand's identity, lending high confidence to the identified brand.",
+        "Url": "http://telegprcem.vip/web"
+    },
+    {
+        "Folder Hash": "8243df9bce89a46df3a9a8eda659dd491279de586b9ee1f9f8e9528c0559681a",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Sign in with Office365, Sign in with Outlook, Sign in with Other Mail, Login with Gmail",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage is clearly identified as Microsoft OneDrive based on multiple elements such as the title of the HTML page \"Sign in - Microsoft OneDrive,\" and the main logo displayed in the screenshot which includes the OneDrive cloud icon accompanied by the text 'OneDrive.' Additionally, the paragraph text within the HTML information repeatedly mentions OneDrive including a copyright reference to \"OneDrive \u00a9 2023\" which directly indicates the brand presence. There are options to enter email and password directly under the login module, pointing to sensitive user credential fields. The presence of multiple call-to-action buttons and links such as \"Sign in with Office365,\" \"Sign in with Outlook,\" and \"Login with Gmail\" all encouraging the user to proceed with actions contribute to the clear identification of Microsoft OneDrive. This analysis is conclusively based on the HTML content and screenshot presentation without any discrepancy or conflicting branding which strongly supports the high confidence level.",
+        "Url": "https://bafybeih7uttjpmvtxncbaibt5ktivb7l47aclsuojavnzyt7pg7nam7i54.ipfs.nftstorage.link/mbma.html"
+    },
+    {
+        "Folder Hash": "84f1daebc5b2c5b9628d7f25b7220621bb50e9f21f50b41b8852bb33f27fae44",
+        "Brand": "Cr\u00e9dit Agricole",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "IDENTIFIANT, CODE PERSONNEL",
+        "List of Call-To-Actions": "D\u00c9COUVRIR LES GRANDES NOUVELLES FONCTIONNALIT\u00c9S, RECHERCHER UNE CAISSE R\u00c9GIONALE",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot and HTML script strongly suggest that the webpage is related to Cr\u00e9dit Agricole. The HTML title explicitly includes \"Cr\u00e9dit Agricole,\" and the paragraph text mentions, \"Seul ou accompagn\u00e9, au Cr\u00e9dit Agricole, vous aurez toujours le choix entre vous adresser \u00e0 un conseiller ou utiliser l\u2019application Ma Banque,\" directly referring to the brand. Additionally, the call-to-action buttons such as \"D\u00c9COUVRIR LES GRANDES NOUVELLES FONCTIONNALIT\u00c9S\" and \"RECHERCHER UNE CAISSE R\u00c9GIONALE\" encourage user interaction likely related to banking services provided by Cr\u00e9dit Agricole. The information provided for identification (IDENTIFIANT and CODE PERSONNEL) further confirms the nature of the webpage dealing with sensitive user credentials. The consistent branding and direct references in the provided data support a high confidence score.",
+        "Url": "https://cs38713.tw1.ru/agoweb/login.html"
+    },
+    {
+        "Folder Hash": "84fe48842a7869f426e4e3cf25c5e0196ed96d85aef6157a393e587fd5a9cb75",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Show More",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays \"WalletConnect\" at the top of the page and describes it as an \"Open protocol for connecting Wallets to Dapps.\" This aligns perfectly with the HTML title provided, \"Wallet Connect - Home,\" confirming without doubt that the webpage belongs to the WalletConnect brand. Additionally, the page layout and brand-specific elements such as logo, style, and content focus on WalletConnect's unique offers in the cryptocurrency space, specifically its connectivity solutions. Furthermore, the screenshot displays a \"Show More\" button, which is a standard call-to-action feature, enhancing user interaction by allowing further exploration of content. This element, however, isn't categorized as gathering sensitive credentials, thus reflective of no requirement for such information in the visible part of the screenshot.",
+        "Url": "https://walletconnect-dappsdefimainnets.weebly.com/"
+    },
+    {
+        "Folder Hash": "c3a2cf3bca2899bc25eb0b8f61d8403d109ca212a72edeaef9b1c5f2bea2ecd4",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features DHL's logo along with their distinctive yellow and red color scheme, prominently displayed on both the aircraft and headings on the page, confirming the brand as DHL. The HTML information confirms the webpage\u2019s association with DHL with repeated references to \"DHL International\" and related branding terms. The fields mentioned under \u201cparagraphs_text\u201d and \u201cheaders_text\u201d like \u201cQuote,\u201d \u201cUK Delivery,\" \"International Delivery,\" \"ServicePoint Finder,\" and specific references to tracking services align with DHL's logistic and parcel services. The presence of an email and password field indicates a login process, also typical for a courier service provider\u2019s website where customers may track shipments.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeigyp2cjhkqpljyz5cjeu6elqhbljivyhrr5iug5k7wko6qkojbijy"
+    }
+]

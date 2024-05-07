@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "005754c0833f9e2df05ee5bc2536badacfb51fae9fa8c889fecc9da07b778a1a",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "SIGN IN button",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand \"AT&T\" is prominently supported by the logo visible in the screenshot which features the distinctive AT&T globe symbol alongside the \"AT&T\" text in a familiar font style. The screenshot's header text also specifically refers to \"AT&T Mail and Currently.com,\" further confirming the association with AT&T. The presence of fields labelled 'User ID' and 'Password' and a 'SIGN IN' button confirms that the page requests sensitive user credentials and includes a call-to-action for users to sign in. The HTML title \"Gfgh\" and other HTML elements provided do not contradict the visual evidence from the screenshot or suggest any different brand association, although they provide no additional useful brand-relevant information.",
+        "Url": "https://taplink.cc/gfgh"
+    },
+    {
+        "Folder Hash": "008ea2a6d870ac228f073021449d2ac98f285e00715713e304a076ecb04e0d0c",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone, Personal Email, Business Email",
+        "List of Call-To-Actions": "Continue button under \"I agree the Terms and Conditions\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis of the screenshot shows a clear logo at the top which reads \"Meta,\" indicating that the brand of the webpage is Meta. Though the provided HTML information does not explicitly confirm the brand, the presence of the logo in the screenshot is a strong brand identifier. The page includes fields for entering Phone, Personal Email, and Business Email, which classify as sensitive user credentials. Additionally, there is a \"Continue\" button which serves a call to action, particularly given that it's placed below the agreement to Terms and Conditions. The logo, combined with the structured form requesting sensitive information, supports the identification of the brand as Meta.",
+        "Url": "https://reappealeation-support-1238943.vercel.app/#index.html?$@#"
+    },
+    {
+        "Folder Hash": "01c70c141ecaf072442e71f26eb8bc36aaf6fc45a734a3f864a6582a4a1dc2e8",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The analysis is based on the specific references in the screenshot and HTML info that are distinctly aligned with Facebook's interface and functionalities. The HTML title and meta description mention \"Community Standards,\" a term commonly associated with Facebook. Moreover, the process and language used in the headers about security and login settings, two-factor authentication, and recovery codes are consistent with those found in Facebook\u2019s account security options. The favicon URL sourced from 'ladipage.net' does not impact the analysis as the other evidence heavily leans towards Facebook\u2019s branding and user verification methods. The screen's design and text prompt closely match Facebook\u2019s warning and verification messages sent to users under suspicion of unusual activity.",
+        "Url": "https://citrix.minnukka.net/"
+    },
+    {
+        "Folder Hash": "03d309f67afe0987f5e603011e7f6ecf538dfd017b80dba9233a026f7e596c18",
+        "Brand": "Trust Trading",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Invite friends to join, Start invitation",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"Trust Trading\" can be confidently identified from the title visible in the screenshot, which reads \"Trust Trading\" at the top of the interface. The layout features sections such as market updates for various cryptocurrencies and news, typical of a trading or investment-focused platform. No direct evidence of credential fields (such as username, password, email) is visible in the screenshot, hence the response that there are no credential requests present. However, there is a clear call-to-action with \"Invite friends to join\" and \"Start invitation,\" encouraging user interaction and further engagement with the platform. This section is designed to expand the user base through referrals, a common practice in trading platforms. The high confidence score is due to the direct match of the brand in the page title and clear readability of features in the screenshot.",
+        "Url": "https://metamask-jp.com/#/"
+    },
+    {
+        "Folder Hash": "047cc2a43cd96ca7198877474bcaeca95e29e261854a7af1c7b4c3b33d74adc8",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Join Channel",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand as \"Telegram\" is primarily based on the visible logo at the top of the screenshot, which matches the known Telegram logo. The favicon URL provided in the HTML information also contains the domain \"telegram.org,\" which is the official domain used by Telegram. Additionally, the HTML title \"Telegram: Join Group Chat\" supports that this is indeed a Telegram page, specifically for joining a group chat or channel. The screenshot displays a personal promotion or channel invitation interface within Telegram's platform, typical of their style for user-generated channel content. The \u2018Join Channel\u2019 button present on the page serves as a call to action but there is no prompt for entering sensitive user credentials such as email, phone number, or password, supporting the absence of credential fields in the analysis.",
+        "Url": "https://uzbekkrut.kz/"
+    },
+    {
+        "Folder Hash": "06a605cee96bc633239c324a80f46133f8b6e499b8f172f6f0530522c7cd1bd0",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Birth Date",
+        "List of Call-To-Actions": "Download, View Page, Cancel",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the \"Steam\" logo near the top left, which aligns with the recognizable branding elements of the platform known for digital distribution of video games. The title from the HTML information (\"Grand Theft Auto V on Steam\") also explicitly mentions \"Steam,\" indicating that the webpage belongs to the Steam platform. Additional links and navigation elements in the HTML such as \"Your Store,\" \"Categories,\" \"Steam Deck,\" and text associated with Steam like the \"Steam Subscriber Agreement\" further corroborate this identification. The inclusion of multiple features and navigational contents typical of the Steam website, along with logo and footer design, solidifies the identification. The presence of a birth date entry field in the screenshot marks handling of minimal sensitive data, primarily for age verification due to content restrictions. The options \"Download,\" \"View Page,\" and \"Cancel\" present actionable items directly, hence categorized as call-to-action elements.",
+        "Url": "http://store.thesteampowered.help/"
+    },
+    {
+        "Folder Hash": "06a75aaee5de3388a8e4941f783852cb3a849a6041192cfe97f2be7bec228ff4",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID",
+        "List of Call-To-Actions": "\"Remember me\" checkbox, \"Forgot Apple ID or Password\" link",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the Apple logo in a stylized rainbow design common for Apple ID services, and the text \"Apple ID Manage your Apple account\" aligns with the branding and services offered by Apple. The footer text also includes legal copy (\"Copyright \u00a9 2022 Apple Inc. All rights reserved.\") that matches Apple, Inc\u2019s standard copyright format. There's a clear call to action with a text input field to enter an Apple ID and additional relevant links such as \"Forgot Apple ID or Password.\" Although the HTML information contains the unusual spelling \"AppIe lnc,\" this could be a typographical error or obfuscation in coding; the dominance of the brand logo and matching thematic elements with known Apple ID login pages supports the conclusion that the brand is Apple. However, the slight discrepancy in text spelling (\"AppIe lnc\") reduces the confidence score slightly, acknowledging a potential risk of misidentification or spoofing.",
+        "Url": "https://supportsteam.net/1470241/6563738/lsesion.php?150e17fa353f3228707cd1982347c7af="
+    },
+    {
+        "Folder Hash": "0704a6852910544011a52e06d2baab02c57df62882d98e6c2bf260ca5e8b5c58",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, phone number, or Skype",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Microsoft is based primarily on the logo visible in the screenshot, which features the Microsoft logo comprising four colored squares. Additionally, the interface design is consistent with Microsoft's simple and modern aesthetic typically used for their sign-in pages. The call to action is clearly identifiable through the presence of a \"Next\" button, meant to proceed with using provided credentials which include options for entering an email address, phone number, or Skype\u2014common identifiers for Microsoft account sign-ins. This aligns with standard Microsoft user authentication processes, enhancing the accuracy of the brand identification.",
+        "Url": "https://viseca-mfa.ch/select-mfa/?rid=DNq5jEf"
+    },
+    {
+        "Folder Hash": "079a8ce303596412dcf03fa7d2f59a59f118d53add67678987c14ebc42fcb3a6",
+        "Brand": "Banrural",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username",
+        "List of Call-To-Actions": "\"SIGUIENTE\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage screenshot prominently features the logo and name \"Banrural\" on a green and white interface, which matches the content typically associated with \"Banrural,\" a known bank. The title from the HTML information, \"Bamrural,\u201d might be a typo or error, but it strongly suggests it relates to Banrural. Additionally, the screenshot includes a user input field indicating that it is part of a login or authentication process, which corresponds with the description of verifying user data. The footer in the screenshot mentions \"Banco de Desarrollo Rural, S.A.,\" further affirming the brand identity as Banrural. The presence of a 'SIGUIENTE' button typically serves as a call to action, directing users to proceed with the login or data entry process, indicating the purpose of the screen is for user interaction specific to account management or similar activities.",
+        "Url": "https://dev-amigoruralinform.pantheonsite.io/"
+    },
+    {
+        "Folder Hash": "07e1a4b166221eb66ffd923977d8be46b2c409babb92f32a3c18cce48abe59b5",
+        "Brand": "An Post",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "My account overview, Profile and settings, Address book, Transaction history, Log in to An Post, Sign up to An Post",
+        "List of Call-To-Actions": "Continue button, Log in to An Post, Sign up to An Post, Go to An Post Money, Go to An Post Mobile",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"An Post\" is clearly identified from the HTML and screenshot content. The HTML title mentions \"An Post,\" numerous instances in the headers_text, nav_bar_content, paragraphs_text, and footer_text repeatedly reference 'An Post'. The logo of 'An Post' is visible in the screenshot which corresponds with HTML details regarding services offered by An Post. Additionally, the HTML description of paying a customs charge through An Post aligns perfectly with the screenshot's primary content. This correlation of detailed evidence across the screenshot and HTML data leaves no doubt about the webpage being of An Post. The presence of user credential fields and calls to action, such as logging in or signing up, are indicated in various forms amid the HTML data, notably under account-related options in the headers_text and nav_bar_content.",
+        "Url": "http://www.service-customs-anpost.com/tracking"
+    },
+    {
+        "Folder Hash": "0ed8ebe61badeeea341900f0af1989595f0f1f569bd385579e75a2f0d7727254",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, Skype",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The sign-in page prominently displays Microsoft's logo at the top of the form, and the page title is \"Sign in to Outlook,\" which is a Microsoft email service. Additionally, the page features boxes where users can enter their email, phone number, or Skype credentials, leading to a login authentication action. The \"Next\" button serves as a call to action, prompting users to proceed with their login process, thus fulfilling the criteria for sensitive credentials submission and call-to-action elements. The page strictly follows Microsoft's clean and modern design language, consistent with its branding scheme.",
+        "Url": "https://pub-c2f2baab9f5a4d918b039eeac3697522.r2.dev/servicerequest.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "29ff3e1156df0c291549a23c55698251ccb8b09d9197db992c549ba390b36e0d",
+        "Brand": "Shaw",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Shaw ID, Password",
+        "List of Call-To-Actions": "Sign In, Register now, Forgot your Shaw ID or password?, Create a Shaw ID",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identification of the webpage as \"Shaw\" is highly confident based on multiple elements observed in the screenshot and corroborated by the HTML information provided. The screenshot prominently features a login interface under the name \"My Shaw\", and offers options to \"Sign In\" or \"Create a Shaw ID\" for users who don't have a Shaw ID. This usage directly matches with recurring references to \"Shaw ID\" and \"Shaw Cable\" found in the paragraphs and navigation bar content in the HTML information. Additionally, the footer text from the HTML information specifically mentions \"Shaw Communications\" and \"Shaw Satellite G.P.\" with copyright dates, which further strengthens the identification of the brand. These consistent references to \"Shaw\" across different components of the webpage establish a clear and definitive identification.",
+        "Url": "https://ffhshaw.com/"
+    },
+    {
+        "Folder Hash": "2e863a474888a85def74ce61f40a1acd9788eaa6fc7f36e35cfc65ce11761062",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone",
+        "List of Call-To-Actions": "Next, Create account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly indicated in the screenshot and HTML information. The screenshot displays the Google logo prominently, and the HTML title is \"Sign in - Google Accounts,\" which directly refers to Google. Moreover, the phrases \"Use your Google Account\" and \"Sign in\" associated with Google are visible both in the screenshot and described in the text from the HTML information, reinforcing the identification of Google as the brand. There is also a consistent theme and styling known to Google\u2019s sign-in page. The presence of a sign-in field for \"Email or phone\" and the buttons labeled \"Next\" and \"Create account\" serve as credentials inputs and call-to-action elements, respectively.",
+        "Url": "http://129.226.210.78/v3/signin/identifier?ifkv=AVQVeywUhZmfG2H3QmNQtJ6V899SIC35sKBtL3MTsjeHalzUUSQCMqXVmq67mSjKfuClGeBvRhKOzQ&xrealip=137.132.218.133&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1560507024%3A1700130821555200&theme=glif"
+    },
+    {
+        "Folder Hash": "38ce673e754e00825083f7e7caad6d187c6c4b31c7d014804eb8955ff50ecb9b",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand as Facebook is primarily based on specific cues in the screenshot and HTML information. The title \"Community Standards\" and the meta description mentioning the profile is a common term associated with Facebook. Additionally, the paragraph includes directions regarding \"Settings > Security and Login\" and references to \"Two-Factor Authentication\", which are specific to Facebook's security settings. Lastly, the warning message about unusual activity and account verification through sensitive credentials (email/phone and password) is commonly seen in Facebook's security protocols. The lack of explicit Facebook logo or branding in the altered alt texts and logos challenges perfect confidence, yet the combination of HTML textual content strongly indicates Facebook as the brand.",
+        "Url": "https://apps.minnukka.net/"
+    },
+    {
+        "Folder Hash": "3f15bb566f2d313cfcd43b0f202967faa454479587a80314286b84be13db79ae",
+        "Brand": "DocuSign",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the \"DocuSign\" logo at the top, which is a well-known brand associated with digital document signing services. There are fields for \"Email address\" and \"Password\", which are common credentials for account access. The presence of a \"Sign in\" button serves as the call to action, encouraging users to log in to their accounts to proceed with document signing or management. Given this clear display of branding and functionality, the identification of the brand as DocuSign is made with high confidence. Also, the style and design align with DocuSign's typical layout for login pages. The footer text, although small, includes copyright information that mentions \"DocuSign Inc.,\" further confirming the identity of the webpage brand.",
+        "Url": "https://fileprotectedsharelinedd453.weebly.com/"
+    },
+    {
+        "Folder Hash": "50785134bcde8540e9820d44f8d5ea89619134722cc9f02b9c5aedc00e51b419",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Use another account, Verify password",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"Microsoft\" is clearly identified by the logo visible in the screenshot present in the upper-left part of the sign-in page. Additionally, the HTML title \"Sign in to Outlook\" strongly supports the association with Microsoft, as Outlook is a well-known Microsoft service. The presence of an email field shown with the example \"chriss@thejackfruitcompany.com\" and the mention to verify the password confirm that sensitive user credentials are involved. The actions for verifying the password and the option to \"Use another account\" serve as call-to-action elements. These elements, along with the style and layout typical of Microsoft sign-in pages, affirm a high level of confidence in identifying the brand.",
+        "Url": "https://pub-02c7a38666214a48b43a1c1fc544e582.r2.dev/link%20(27).html#chriss@thejackfruitcompany.com"
+    },
+    {
+        "Folder Hash": "596773aaae870a1a1723d313e3a0a8fabcbe22d6dc0504283d02f2f3a27b18c3",
+        "Brand": "NTT DOCOMO",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "d\u30a2\u30ab\u30a6\u30f3\u30c8ID (d-account ID)",
+        "List of Call-To-Actions": "\u30ed\u30b0\u30a4\u30f3 (Log in), d\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u5fd8\u308c\u308b (Forgot d-account), ID\u3092\u304a\u5fd8\u308c\u306e\u65b9 (If you forgot your ID)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The image contains the text \"d\u30a2\u30ab\u30a6\u30f3\u30c8\" (d-account) prominently alongside a login form, suggesting a direct association with NTT DOCOMO, which offers the d-account service. The favicon URL contains \"docomo\", reinforcing the association with NTT DOCOMO. The HTML title \"d\u30a2\u30ab\u30a6\u30f3\u30c8 - \u30ed\u30b0\u30a4\u30f3\" further supports this as it translates to \"d-account - Login\". Furthermore, the text in the footer \"\u00a9 2023 NTT DOCOMO, INC. All Rights Reserved.\" confirms the webpage\u2019s affiliation with NTT DOCOMO. The presence of a login option and additional services related to account management, such as password retrieval links, indicates that sensitive user credentials are being requested, and call-to-action buttons like \"\u30ed\u30b0\u30a4\u30f3\" (Log in) and links for users who have forgotten their ID are evident.",
+        "Url": "https://dcmpx.remotevs.com/jp/ne/docomo/smt/cfg/SL/auth/cgi/%20dcmpx.remotevs.com%22,%22155.248.176.223"
+    },
+    {
+        "Folder Hash": "61b441afbdf6881b44479adc6d2129daad8d068d51b568c7293e4febb234b7ce",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone or Skype, Password",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Microsoft is primarily based on the visible logo and the textual elements within the screenshot. The presence of Microsoft's logo at the top of the login box, combined with the familiar styling and layout typically used on Microsoft's sign-in pages, prominently supports this identification. The screenshot explicitly mentions \"Microsoft\" along with a sign-in form that indicates the fields for entering an \"Email, phone, or Skype\" and a \"Password,\" which are standard Microsoft identifiers for accessing its services. Furthermore, the \"Next\" button serves as a clear call-to-action, prompting the user to proceed after entering their credentials. These elements are consistent with Microsoft's user interface design and functionality on their sign-in pages, enhancing the confidence in this identification. The html provided, though sparse in directly useful details, does not contradict the visual evidence seen in the screenshot.",
+        "Url": "https://sp79750.sitebeat.crazydomains.com/"
+    },
+    {
+        "Folder Hash": "a4e370cf65393e7f320b7549e0d2bd863e33468edc81fa144b93f98512d3e8aa",
+        "Brand": "TV Licensing",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "date of birth, current address, phone number",
+        "List of Call-To-Actions": "Update Direct Debit Now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as TV Licensing is solidly supported by multiple pieces of evidence from the provided screenshot and HTML information. The webpage's title is explicitly named \"TV Licensing.\" Moreover, the screenshot displays a clear logo at the top left corner with the text \"TV Licensing,\" which corroborates with the favicon URL containing the name \"favicon.ico\" suggesting that it pertains to the main site's logo or brand icon. Key information throughout the HTML like the title, paragraphs, and footer all consistently mention \"TV Licensing,\" reinforcing the identification. The webpage includes text asking for sensitive information like date of birth, address, and phone number, which are used for billing and identity verification, indicating the collection of credentials. Additionally, there is a clear call-to-action labeled \"Update Direct Debit Now,\" which is designed to engage users directly in updating their payment details, thereby making both the presence of credentials and a prompt to action evident.",
+        "Url": "https://www.tv.activate-uk.com/index.app.html?/cs/update/multiple-changes/index.app=ARLbbYAGkOByITSyDOgHxuoZPFDePozfynfbOvuCjTMudoyEXRZiSMjhb"
+    }
+]

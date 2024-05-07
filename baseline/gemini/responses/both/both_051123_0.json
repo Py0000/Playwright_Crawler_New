@@ -1,0 +1,90 @@
+[
+    {
+        "Folder Hash": "10ae1de08e1b3b633e38c6b7bd0c5073f5557a00b5c5c61c58db7b6fb10426a6",
+        "Brand": "Baltic Pipe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"BalticPipe\", and the logo in the screenshot matches the logo of Baltic Pipe. Additionally, the webpage's content is about Baltic Pipe. The webpage asks for user credentials, such as email and phone number. It also has call-to-action buttons, such as \"Przyst\u0105p!\" and \"Otrzymuj dzienny zysk z handlu gazem.\".",
+        "Url": "https://www.makeprrofit.site/"
+    },
+    {
+        "Folder Hash": "14fc2efc96604b37269dc3e18a02d057f972c47580876d6d4653578e3171df10",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeieuck7midptnnddf36kxotthabk5oeqdixn6zc5mnwkfh23mtsiea"
+    },
+    {
+        "Folder Hash": "2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a",
+        "Brand": "Pengikut-gratis.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Auto Followers dan Likes Instagram Gratis\", and the logo in the screenshot is also the same. Additionally, the footer text contains the text \"Copyright \u00a9 Pengikut-gratis.com 2016. All Rights Reserved\", which further confirms the brand of the webpage.",
+        "Url": "http://pengikut-gratis.com/"
+    },
+    {
+        "Folder Hash": "4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd T\u00ean, Ng\u00e0y Sinh, \u0110\u1ecba Ch\u1ec9",
+        "List of Call-To-Actions": "\u0110\u0103ng Nh\u1eadp, L\u1ecbch S\u1eed V\u00f2ng Quay, Nh\u1eadn Qu\u00e0",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Garena Free Fire Membership\". The logo in the screenshot is also that of Garena Free Fire. The webpage is asking for sensitive user credentials such as H\u1ecd T\u00ean, Ng\u00e0y Sinh, \u0110\u1ecba Ch\u1ec9. It also has call-to-action elements such as \u0110\u0103ng Nh\u1eadp, L\u1ecbch S\u1eed V\u00f2ng Quay, Nh\u1eadn Qu\u00e0.",
+        "Url": "http://www.freefire.member.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c9daa0070c0f57a16a0f9f0859f756c56ad094c09473ae461a2fb2814923450",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "http://bafybeihc74glgbx6mfibmqolz253ajpbhbrjhlalpe4uzmsejhy6qox5ni.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Telegram Messenger\", which is also the name of the app. The logo is also that of Telegram. The screenshot shows the Telegram app, and the HTML information also contains the word \"Telegram\".",
+        "Url": "https://telegraimu.com/"
+    },
+    {
+        "Folder Hash": "c9123c75952563cb603dcfc8bac45446095c5f2c082b043f4b28730a7c8c4473",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Sign in to Outlook\". The logo is that of Microsoft. The page has fields asking for email and password, which are sensitive user credentials. There is a call-to-action button that says \"Sign in\".",
+        "Url": "http://070124460033066.graficaaoquadrado.com.br/"
+    },
+    {
+        "Folder Hash": "e394d02c472a064c58540bba26f9a02695735f7b1bffecda5810e0698084f2a5",
+        "Brand": "Banco de la Republica Dominicana",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "PIN",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The webpage's title is \"BDF\", which is the acronym for Banco de la Republica Dominicana. Additionally, the logo in the screenshot matches the logo of Banco de la Republica Dominicana. The page also has a form asking for a PIN, which is a type of credential.",
+        "Url": "http://www.imobiliariacasacapixaba.com.br/firm.php"
+    }
+]

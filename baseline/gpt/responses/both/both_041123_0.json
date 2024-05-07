@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "GET STARTED button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly identified as \"Netflix\" based on the screenshot provided and the HTML information. The screenshot features the distinctive Netflix logo at the top of the page and uses the Netflix-specific tagline \"Unlimited movies, TV shows and more.\" Further identification is supported by the HTML information where the title is indicated as \"Netflix.\" Additionally, the text on the page and the footer content mentioning specific services and support consistent with Netflix's offerings (like the FAQ and Help Center details) conform to the expected presentation for the Netflix brand website. The evidence is unequivocal, hence the high confidence score. The webpage prompts users to input their email address under the banners proposing they \"create or restart\" their membership, indicating a clear call-to-action and collection of sensitive credentials.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Telegram is strongly evidenced by multiple factors in the screenshot and HTML data. The screenshot prominently displays the Telegram logo, a recognizable icon with a star and airplane, and includes the text \"Telegram premium\" which directly refers to the brand. The HTML title \"Telegram Messenger\" further corroborates this identification. The favicon also corresponds with known Telegram icons, even though it's encoded in Base64. Headers in the HTML script also reference Telegram multiple times, by mentioning \"Telegram premium\" and various Telegram services like encryption and synchronization features which are typical features marketed by Telegram. The presence of a call-to-action button labeled \"\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c\" (Continue in English) is evident in the screenshot, promoting action, likely to subscribe or learn more about Telegram Premium. There are no input fields visible in the screenshot requesting sensitive credentials, such as email or password, hence, it is concluded that no sensitive user credentials are asked directly on this page.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "MetaMask, Coinbase, Trust Wallet, Binance Wallet, WalletConnect",
+        "List of Call-To-Actions": "Connect Wallet",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot depicts a cryptocurrency trading platform with features aimed at experienced traders, such as API utilization, the use of leverage, and adherence to anti-money laundering practices. The page advertises functionalities like \"Connect your wallet\" and lists wallet services such as MetaMask, Coinbase, and Binance Wallet. Despite this detailed depiction of platform functionalities, the brand name specifically responsible for the website is not discernible from either the screenshot or the provided HTML information. The HTML holds general descriptors like \"Fast Registration\" and \"Reliable sale and purchase of cryptocurrencies,\" which are typical to many trading platforms but do not hint at a particular brand. The title \"Connect Wallet\" further suggests a focus on wallet integration rather than providing a unique brand identifier. Thus, I can't confidently identify the specific brand involved from the available information.",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "Multiple (bet365, Bwin, Suncity Group, The Venetian, 188BET, Lisboa Macau, Grand Lisboa Casino)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, password, betting amounts (interpreted from context)",
+        "List of Call-To-Actions": "Sign-up buttons, Login links, Special offers",
+        "Confidence Score": "5.00",
+        "Supporting Evidence": "The screenshot contains logos and names of multiple betting and casino brands such as bet365, Bwin, Suncity Group, The Venetian, 188BET, Lisboa Macau, and Grand Lisboa Casino, indicating that the brand is a conglomerate or an aggregator of various betting services. The presence of terms like \"VIP\", promotional offers, and numerical values that typically relate to betting (e.g., 12888, 30%) suggests features prompting user interaction for gambling, including account creation or login (catechized through the imagery of promos and the context of a betting site). However, the specific dominant brand cannot be exactly determined from the provided screenshot alone, and without the HTML content which has mostly \"Not Found\" values, the detailed analysis is constrained. Thus, the confidence is moderate. The inclusion of direct betting numbers and potential username/password entry points (common in betting sites) implies fields where sensitive credentials might be used.",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email ID",
+        "List of Call-To-Actions": "Free Trial, Get Started, Login, Sign Up, Need a Demo?",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"SurveySparrow\" is clearly identified from multiple elements including the HTML info where the title, favicon URL, and footer text confirm the brand as SurveySparrow Inc. Additionally, the copyright within the HTML directly mentions \"SurveySparrow Inc.\" The screenshot shows the webpage title \"Omnichannel Experience Management Platform - SurveySparrow,\" and the footer of the webpage also displays the company name as SurveySparrow Inc., solidifying the identification. The presence of credential fields is indicated by the multiple prompts for an Email ID and call-to-action buttons/links like \"Free Trial,\" \"Get Started,\" \"Login,\" \"Sign Up,\" and \"Need a Demo?\" visible both in the HTML information and on the webpage screenshot.",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "GEMINI2",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Your name, Your surname, Your email address, Phone number",
+        "List of Call-To-Actions": "Create free account (Utw\u00f3rz darmowe konto)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"GEMINI2\" is confidently based on repeated references in the HTML content and prominent placement in the webpage screenshot. The logo \"Gemini 2\" at the top and bottom of the webpage, and consistent branding in the header as \"Do\u0142\u0105cz do Projektu 'GEMINI2'\" reinforce this identification. Additionally, critical visual elements such as the registration form asking for personal information and the call-to-action button clearly labeled \"Utw\u00f3rz darmowe konto\" confirm the presence of credential fields and actionable elements directed towards user interaction. The brand reference is consistent across the title, footer, and paragraph text, indicating a high likelihood that the brand associated with the webpage is indeed \"GEMINI2\".",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "JEK-MINER",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, password",
+        "List of Call-To-Actions": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f (Registration), \u0412\u043e\u0439\u0442\u0438 (Login)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification as \"JEK-MINER\" is strongly supported by various elements visible in both the screenshot and the HTML information provided. The HTML title, meta_description, logo_alt_text, footer text, headers_text, and nav_bar_content prominently mention \"JEK-MINER\" reaffirming the identity of the brand. The presence of user credentials is confirmed by the mention of registration and login processes both in the screenshot and HTML descriptors which indicate that username and password fields are likely involved. Additionally, calls-to-action are clear with regards to signing up and logging in, showing intent to gather user credentials. This combined evidence from multiple HTML text entries and the coherence of branding across multiple page elements gives a high level of confidence in the analysis.",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f07f931e42211c4d902fed617e89c47324af573df194966b5ac1b21a0f65a2aa",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage is clearly identifiable as Netflix based on multiple elements from the screenshot and the HTML information provided. The header \"Unlimited movies, TV shows, and more\" echoes the branding and service description commonly associated with Netflix. Additionally, the \"Try 30 days free\" buttons displayed are typical promotional call-to-actions for Netflix\u2019s subscription model. The text in the header and footer, notably the customer service number and the footer text listing \"Netflix Originals\" and \"Netflix INDIA\", firmly supports the identification of this brand. The favicon URL provided, though not explicitly branded, is consistent with the type of icons used in web branding and does not contradict the other evidence. Moreover, the input fields for an email address under \"Ready to watch? Enter your email to create or access your account\" confirm the presence of sensitive user credentials as they are soliciting email information directly related to user account management or creation. This comprehensive alignment of multiple design and content elements with Netflix's known web presence solidly confirms the brand's identity.",
+        "Url": "https://sristiverma9.github.io/netfliexclone/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NIF, NIE, Tarjeta o Pasaporte; Clave de acceso; N\u00famero de tel\u00e9fono",
+        "List of Call-To-Actions": "Iniciar sesi\u00f3n; Hazte cliente",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as BBVA is directly supported by the presence of the BBVA logo prominently displayed at the top of the screenshot, and the HTML title \"BBVA\" paired with the meta description noting \"Banca online para Particulares BBVA\". Furthermore, the favicon URL contains a path reference explicitly mentioning 'bbva'. Additionally, the navigation bar includes typical banking service elements, such as \"Entrar\" and closing options, which are consistent with online bank application interfaces. The screenshot explicitly shows credential fields for sensitive user information, such as NIF, NIE, card or passport, and phone number, alongside call-to-action buttons for logging in and becoming a customer, indicating straight-forward avenues for user interaction on a typical banking webpage.",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "00280183645f0aed4959492293f8f22d3cbe8acbd17a702c51d1c96469e8ae0d",
+        "Brand": "Australia Post",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Postal Code",
+        "List of Call-To-Actions": "Sign up, Log in, Find",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand as Australia Post is strongly supported by multiple pieces of evidence derived from both the screenshot and accompanying HTML information. The screenshot visibly displays the \"Australia Post\" logo at the top of the webpage, confirming the brand identity. The HTML title \"Track your items - Australia Post\" aligns with this presentation, reinforcing the identification. Further corroborating details include the presence of service-specific links and text such as \"MyPost\" which is a known service of Australia Post, in addition to footer acknowledgments specific to Australia Post about the Traditional Custodians of the land. The combination of these visually and textually displayed elements leads to a high confidence in the brand identification.",
+        "Url": "https://au-reschedule-post.com/intl/secure.php"
+    },
+    {
+        "Folder Hash": "006bd6a512d600a168c8dba92f1ce718114d35be86ceb2b2bfaed05f79d011a9",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID",
+        "List of Call-To-Actions": "\u00bfOlvidaste tu ID de Apple o la contrase\u00f1a?",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The webpage screenshot clearly displays the Apple logo, incorporating their distinct design of a multi-colored circle around a black Apple silhouette, strongly suggesting it\u2019s linked to Apple. The displayed phrase, \"Iniciar sesi\u00f3n con ID de Apple\", translates to \"Sign in with Apple ID\", indicating that the page is dedicated to user authentication for Apple services. The favicon source in the HTML information confirms this, using a domain linked to apple (\"appleid.cdn-apple.com\"), which supports the branding assessment. Additionally, the HTML title is \"iCloud\", a known Apple service, which further reinforces the identification of the brand as Apple. The offered credentials and call-to-action fields (specifically mentioning Apple ID and password recovery options) align with typical login requirements and user assistance features found on legitimate Apple webpages for account access.",
+        "Url": "http://lphone-location.in.dteam23.com/isignesp.php"
+    },
+    {
+        "Folder Hash": "00b859472d6141fd762ff1ac51d6337986a8a693c576041d611f93dbec41a8a5",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, password",
+        "List of Call-To-Actions": "\"S'identifier\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the Orange logo at the top left, and the page is designed for user login which is a common feature for a service provider's website. The header \"Pour vous identifier\" and the presence of input fields for \"Adresse e-mail\" and \"Mot de passe\" indicate authentication requirements, aligning with Orange's services. Additional branding clues include various service tabs like \"Mobiles et forfaits,\" \"Internet,\" and \"TV et divertissement\" suggesting it is a telecommunication firm's webpage. The visual style and color scheme are also consistent with Orange's corporate identity and digital interfaces. Furthermore, the domain in the favicon URL provided in the HTML information does not supply sufficient relevant data, thus supporting reliance on visual identification from the screenshot.",
+        "Url": "https://dev-fpffmlf.pantheonsite.io/"
+    },
+    {
+        "Folder Hash": "022ed20d92c130ce9dac33de657fe4f9b3de4f62dcaeca0c1075c32b5e0ef133",
+        "Brand": "DrawMyFamilyTree.co.uk",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Browse to a .ged file (2MB maximum) on your computer then click 'View'",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand \"DrawMyFamilyTree.co.uk\" is prominently displayed in the screenshot at the top of the webpage and is reiterated in the headers_text from the provided HTML information. The comprehensive examination of both screenshot and HTML elements shows a consistent branding without ambiguity. The primary purpose of the webpage, as outlined in the text, is to offer a free gedcom-format viewer for family tree files, focusing on functionality rather than gathering or managing user credentials. There are no fields or inputs in the screenshot or described in the HTML data that collect sensitive user credentials such as username, email, or password, confirming there's no credential collection. However, the page does include a call to action, specifically prompting users to browse and upload a .ged file and view it, which is visible in the screenshot and highlighted in the paragraphs_text from the HTML, underlining the functionality and usage of the site. The repeated references and visible elements solidify the identification and purpose of the webpage, demonstrating significant confidence in the assessment.",
+        "Url": "https://drawmyfamilytree.ipages.uk/gedcom_viewer.php"
+    },
+    {
+        "Folder Hash": "02b352ba5d2493d4090c76739f8f4b3dc38e0d895fb0c189aa3c53e838bf9c30",
+        "Brand": "Whatsapp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "mobile number, email",
+        "List of Call-To-Actions": "Search your account, Have you forgotten your password?",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly shows the interface of Whatsapp, indicated by the top banner with the application's name and typical functionalities: Chats, Status, and Calls. The HTML data corroborates this by repeatedly mentioning \"Whatsapp\" under elements such as the title and navigation bar content. Furthermore, conversations typical of the application style are found in both the screenshot and the paragraph and span texts provided in the HTML data. The webpage prompts such as \"The mobile number or email you entered does not match any account,\" which is typical for login issues, further affirm the identification of the brand as Whatsapp and that it asks for sensitive credentials like mobile numbers or emails. The calls to action related to account recovery (\"Have you forgotten your password?\") align with standard account management features on similar platforms, confirming the functionality seen in typical Whatsapp settings.",
+        "Url": "http://mail.odokdnd.c505.net/"
+    },
+    {
+        "Folder Hash": "05e5c96d035647e8a28ef7605b4610a8b0dddeb6788965a2ffac4c5af6e227b2",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the AT&T logo at the top, clearly indicating that the webpage belongs to AT&T. The page is designed for signing in to access AT&T Mail and Currently.com, corroborated by both the title in the HTML information (\"currently\") and the meta_description containing \"Att\". The presence of \"Email\" and \"Password\" fields in the screenshot aligns with usual sign-in pages, suggesting sensitive credential requirements. A distinct \"Sign In\" button on the page serves as the call-to-action, encouraging the user to submit these credentials to access the services. This layout and designation are typical of company-specific log-in pages, supporting the identification of AT&T as the brand behind this webpage.",
+        "Url": "https://olwkw.weebly.com/"
+    },
+    {
+        "Folder Hash": "0605c42d514fa1992ff0c05c841e7a90c702880d45d577acf9475c90d6ae44a1",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "caubin@evexiawealth.com, Password",
+        "List of Call-To-Actions": "Sign in, Create one!, Can't access your account?, Forget password?",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is unequivocally confirmed by several key identifiers in the screenshot and HTML information provided. Firstly, the logo displayed is a clear, well-known Microsoft logo. Moreover, the footer text and span texts repeatedly reference \"Microsoft\" and also indicate \"\u00a92023 Microsoft,\" which ties the website back to Microsoft as the owning and operating brand. Additionally, the screenshot and HTML title \"Sign in to your account\" align perfectly with a typical Microsoft account sign-in page layout and language use, such as options for forgotten passwords and links to account creation. These details consistently present across the page further cement the identification of this as a Microsoft-branded sign-in page.",
+        "Url": "https://kkj6k7bkjrh7-1323053341.cos.sa-saopaulo.myqcloud.com/kkj6k7bkjrh7.html?e=caubin@evexiawealth.com"
+    },
+    {
+        "Folder Hash": "060d00668806aca5ed69d41e3718234c000d162b18728e3baf7258157e961e25",
+        "Brand": "s.id",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More (button associated with Equinix advertisement)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"s.id\" is prominently featured in the title of both the HTML content and the webpage screenshot, which reads, \"Oops, you are accessing a Forbidden Link!\u201d What does that mean? - s.id.\" The blog entries and headers contain multiple references to \"s.id\" emphasizing its service features and functionalities. Additionally, the URL and the navigation bar content explicitly mention \"s.id home,\" which directly references the brand. The footer section also aligns with the standard presentation of a site owned by s.id, offering standard links like Home, Subscription, Privacy Policy, etc., similar to many company-operated sites. No fields requesting sensitive user credentials such as email, username, or password are indicated in the extracted HTML or visible on the screenshot, confirming the lack of credential fields on this page.",
+        "Url": "https://blog.s.id/post/2022/05/19/oops-you-are-accessing-a-forbidden-link-what-does-that-mean-8w002bto2?utm_source=home_sid&utm_medium=redirect"
+    },
+    {
+        "Folder Hash": "0731bd0e39db2924eb425b12859b853a94a433459dc9e4f5b99cae43c0771f1f",
+        "Brand": "Ghaly Group",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u4f1a\u54e1\u767b\u9332 (Member registration), \u30ed\u30b0\u30a4\u30f3 (Login)",
+        "List of Call-To-Actions": "\u30ab\u30fc\u30c8\u306b\u5165\u308c\u308b (Add to cart), \u3053\u306e\u5546\u54c1\u3092\u304a\u6c17\u306b\u5165\u308a\u306b\u8ffd\u52a0 (Add this item to favorites)",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand is primarily derived from several instances where the domain 'ghaly-group.com' is included in the listed elements such as in the title, meta description, and copyright information in the footer. The appearance of \"ghaly-group.com\" provides a direct clue towards the ownership or affiliation of the brand with the webpage. The presence of credential-related actions like '\u4f1a\u54e1\u767b\u9332' (member registration) and '\u30ed\u30b0\u30a4\u30f3' (login) indicate active user interaction options. Call-to-action elements are clearly indicated, indicating operational functionalities aimed at enhancing user engagement and conversion rates.",
+        "Url": "https://ghaly-group.com/cgi/backup/known/753/wdc/Z3JlZ0Byb2JlcnRoaWdoZGV2ZWxvcG1lbnQuY29t"
+    },
+    {
+        "Folder Hash": "54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81",
+        "Brand": "Instagram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Instagram is primarily based on multiple references in the HTML script and the consistent visual theme in the error message screenshot. The title in the HTML data (\"Sayfa y\u00fcklenemedi \u2022 Instagram\") directly includes the name \"Instagram\", reinforcing the brand's identity. The favicon URL, which includes \"cdninstagram,\" further supports this attribution. Additionally, the visual design and error message styling are consistent with Instagram's known error page aesthetics. The content clearly hints towards the site belonging to Instagram without any direct user interaction elements such as login fields or specific calls to action.",
+        "Url": "http://instagram.bulut.host/"
+    },
+    {
+        "Folder Hash": "6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d",
+        "Brand": "Uphold",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, password",
+        "List of Call-To-Actions": "'Log In' button, 'Forgot Password' link",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The brand of the webpage is explicitly mentioned multiple times throughout the screenshot and the HTML information. Key phrases from the screenshot include \u201cAnything to Anything\u201d and \u201cFrom US Dollar to Bitcoin in seconds,\u201d which are consistent with Uphold\u2019s branding and services. The HTML title \"Uph\ud835\udcf8ld Login | Sign In\" and headers reiterate \"Uph\ud835\udcf8ld Login\" and mention functionalities like wallet registration and login which are typical of the Uphold platform. Topics in the HTML information such as trading cryptocurrencies and linking bank account details underscore the functionalities associated with the Uphold service. The presence of elements asking for user email and password and actions like logging in or password reset confirm the identification of sensitive credentials and related call-to-action elements. The evidence is solid and clearly points to \"Uphold\" as the brand.",
+        "Url": "https://uslogii-upheld.github.io/"
+    },
+    {
+        "Folder Hash": "8060c0edf2d193387cd77aa9586816b25abfebffb194b210cbb720da31ad7709",
+        "Brand": "DANA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Claim Rp 2.000.000",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage can be confidently identified as \"DANA\" based on multiple indicators. The screenshot prominently displays the logo with the word \"DANA\", and the webpage\u2019s design and color scheme match those typically associated with DANA branding. Furthermore, the HTML title \"DANA - Apa pun transaksinya selalu ada DANA\" directly references DANA, reinforcing the identity. Moreover, the meta_description about DANA enhancing cash transactions aligns with the brand\u2019s digital financial services. Additionally, the favicon URL includes 'dana.id', which is a domain known to belong to the DANA brand. Although no sensitive credential fields (like email, password, etc.) are visible or mentioned in the HTML info provided, a significant call-to-action (\"Claim Rp 2.000.000\") is evident on the screenshot, prompting user interaction which involves financial claim, characteristic of a payment or financial service platform like DANA.",
+        "Url": "http://claimz-xdana.webr.biz.id/"
+    },
+    {
+        "Folder Hash": "829a29b01b2524eb3531050fa074a995e083f8a7b35a2216f25958dbf1384827",
+        "Brand": "Microsoft Excel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email ID, Email Password",
+        "List of Call-To-Actions": "View Document",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the logo and name \"Microsoft Excel\" while the HTML provided also mentions \"Microsoft Excel\" in the title and headers text, affirming the webpage is related to Microsoft Excel. The screenshot displays input fields for \"Email ID\" and \"Email Password,\" matching credentials fields as documented in the HTML. There is also a prominent call-to-action button labeled \"View Document\", aligning with the span_text in the HTML which mentions similar interaction options. The assurance comes from the visual and textual consistency in branding and user interaction points across both the screenshot and HTML script.",
+        "Url": "https://excel-down.github.io/"
+    },
+    {
+        "Folder Hash": "836b2c32186f46272e130346ee4358566a0b3be01e96e1ce83662cf3632786ad",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Recovery Phrase",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Coinbase is primarily based on the clear presence of the Coinbase logo at the top of the screenshot. The textual elements on the screenshot, particularly the headers text \"Enter your 12-Words Recovery Phrase to get started,\" corresponds with the headers_text from the HTML information, reinforcing the connection to Coinbase which is known for cryptocurrency services that typically involve a recovery phrase for user wallets. Furthermore, the layout and the styling of the button and text input fields are consistent with the Coinbase interface design. The fields asking for the recovery phrase are considered sensitive credentials as they are used to access cryptocurrency funds. The \"Continue\" button is a call-to-action element prompting further interaction leading potentially to access or management of an account, making it relevant to list under call-to-action.",
+        "Url": "https://silent-apricot-barberry.glitch.me/qool.html"
+    },
+    {
+        "Folder Hash": "83fb715fa9718b026c68caaa47c0f498fa2fae37414ee166fd3fc21e25dd49f9",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "MetaMask login, browser extension, internet connectivity, login credentials",
+        "List of Call-To-Actions": "Download, Reset account option, Restore your wallet option",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The use of \"MetaMask\" is prominent throughout the screenshot and the HTML information provided. The title \"MetaMask Login | A crypto wallet blockchain app\" aligns with the screenshot displaying the MetaMask logo and referencing MetaMask functionality. The description within the webpage content discusses specifics like MetaMask login issues, using browser extensions, and managing account settings, which are all unique features related to the MetaMask service. The frequent references to specific functionality such as \"reset your account\" and \"restore your account\" are indicative of MetaMask's authentication and account recovery processes. Furthermore, the overall design and terminology used in the webpage content match those commonly associated with MetaMask, confirming the identification of the brand with certainty.",
+        "Url": "https://metazmskloign.github.io/"
+    },
+    {
+        "Folder Hash": "84bf05abc3a831503603a8153cd36c09a0747a4c6b9329e0a5a17290ae9cdce8",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Telegram Code",
+        "List of Call-To-Actions": "\"Log Masuk\" button",
+        "Confidence Score": "2.00",
+        "Supporting Evidence": "The screenshot shows a login interface asking for a \"Telegram Code,\" suggesting a login portal connected to the Telegram messaging service. However, the HTML information does not directly confirm Telegram as the brand, since the title and footer text refer to job vacancies (\"JAWATAN KOSONG\"). There is no definitive logo or brand marker in the imagery or HTML content aligning it directly with Telegram's typical branding elements. The confusion between what appears to be a Telegram login page and content around job vacancies reduces confidence in pinpointing the exact brand operating the webpage. The decision to identify the brand as \"NA\" comes from the lack of conclusive evidence directly tying the webpage to a recognized Telegram entity, alongside discrepancies in the webpage content focus.",
+        "Url": "https://jawatan-kosong-malaysia.id-net.info/02/pendaftaran/otpcode.php/"
+    },
+    {
+        "Folder Hash": "84c75dfb7d59e798046b918e2c74fbf13317de541b321866d53ed419b50512a8",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The predominant evidence to determine the brand from the screenshot and the HTML information is the repeated presence of the \"AT&T\" name and logo. The HTML title is \"Home | AT&T\" and the headers_text includes \"SIGN IN NOW | AT&T\" which confirms the brand identity. The screenshot explicitly shows the AT&T logo along with the title \"SIGN IN NOW\". Despite the presence of a Weebly favicon in the HTML, which suggests the page might be hosted on Weebly, it does not influence the primary brand representation, which is clearly AT&T. Moreover, the screenshot shows fields labeled for entering an email address and password, categorizing them under sensitive user credentials, along with a direct call to action with a \"Sign in\" button. This consistency across both visible and underlying web page content enhances confidence in identifying the brand as AT&T.",
+        "Url": "https://att-109625-109046.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043",
+        "Brand": "DPD",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Paketnummer (package number)",
+        "List of Call-To-Actions": "Planen Sie eine neue Lieferung (Plan a new delivery)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage can be confidently identified as DPD based on several pieces of evidence present in the screenshot and the accompanying HTML information. The logo prominently displayed in the upper left of the screenshot and at the footer, along with the repeated use of the term \"DPD\" across various sections of the webpage, such as the shipping statuses and branding elements like \"DPDgroup,\" supports this identification. The title from the HTML script, \"DPD (DE) - Singapore,\" reinforces this branding. The mention of the footer text \"\u00a9 2023 DPD\" also confirms the brand ownership. Additionally, the webpage contains fields asking for sensitive user credentials, specifically the package number, and includes a call-to-action link to plan a new delivery. These elements, central to delivery services, are consistent with DPD\u2019s business operations, therefore adding more support to the brand identification.",
+        "Url": "https://rewards.buchung.info.54-91-1-54.cprapid.com/dpd/paket/update.php"
+    },
+    {
+        "Folder Hash": "d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed",
+        "Brand": "eBay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Shop Now\" buttons",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the eBay logo at the top of the page, combined with the use of red and blue colors which are part of eBay\u2019s branding. The HTML info further supports this identity with the title indicating various product categories commonly found on eBay. The title also explicitly mentions \"Ebay,\" confirming the brand association. The presence of \"Shop Now\" buttons as evident in the screenshot promotes user interaction typically for product or category exploration, common in e-commerce sites like eBay. Moreover, the footer text visible in the screenshot, although not captured in the HTML information provided, shows the copyright notice \"\u00a9 1995-2023 eBay Inc.,\" further affirming the brand\u2019s identity. Thus, both the screenshot and the HTML info consistently point to eBay as the brand.",
+        "Url": "https://global-ebay.net/#/pc"
+    },
+    {
+        "Folder Hash": "ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521",
+        "Brand": "Amazon",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or email address, Password",
+        "List of Call-To-Actions": "Log in, Lost your password?",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The webpage is identified as belonging to the Amazon brand based on multiple indicators within the provided screenshot and HTML information. The screenshot displays the Amazon logo at the top left corner, a common placement on Amazon\u2019s website. Furthermore, the footer text of the webpage includes \"Copyright 2023 \u00a9 amazon Store,\" which directly references Amazon. Despite the webpage's primary focus on De'Longhi products, the overall structure and design align with Amazon\u2019s typical store pages. This is confirmed by the webpage HTML title \"Delonghi Shop,\" but it still functions within the Amazon ecosystem, illustrated by all navigational and operational elements that follow Amazon's layout and user interface design.",
+        "Url": "https://www.delonghishop.store/"
+    },
+    {
+        "Folder Hash": "f3c6d074d41fc6594942c174ee83cff38febdce46c972b843288dcff5fc6a787",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number, Password",
+        "List of Call-To-Actions": "Connect with Facebook, Sign up now",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The analysis of the screenshot shows the prominent logo \"NETFLIX\" along the top, which clearly identifies the brand. The visual theme on the page, as well as the featured content which includes various recognizably high-profile shows exclusive to Netflix (like \"Naruto\" and \"Stranger Things\"), supports this identification. Additionally, the screenshot includes a login interface asking for an email or phone number and password, which are typical credentials for Netflix. The call-to-action includes options to connect with Facebook and a prompt to sign up (\"Assine agora\"), which is commonly seen on subscription-based streaming services like Netflix. These elements all reliably indicate that the webpage is indeed associated with Netflix. The factors such as distinctive branding elements (logo and exclusive content images), combined with the structural characteristics of the webpage, uphold a high confidence level in the analysis.",
+        "Url": "https://riicardocavalcante.github.io/netflix-estudos/"
+    }
+]

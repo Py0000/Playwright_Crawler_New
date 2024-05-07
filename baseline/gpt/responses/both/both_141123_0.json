@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "0006a7832d69a555f9b71e9c2fb249cb7fde32d8220f57e0db484000c989ca34",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "account belongs to you, information",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Facebook is evident from several clues. The recognizable Facebook logo at the top of the screenshot provides a clear visual clue. Additionally, the URL for the favicon in the HTML information, which is https://static.xx.fbcdn.net, is a domain commonly used by Facebook, reinforcing the identification of the brand. The content displayed in the screenshot and the html information matches typical phrasing and context found on Facebook's account-related pages, including phrases like \"community standards\" which is a terminology often used by Facebook. The call-to-action button labeled \"Get Started\" is visible in the screenshot, and the text fields asking users to provide information to verify account ownership imply that this page is set up to collect user credentials, such as account confirmation data. Thus, with the combination of these elements, there is a high degree of confidence in this identification.",
+        "Url": "http://page-warring-327275.8698523.com/"
+    },
+    {
+        "Folder Hash": "000b7fa009aa8d61f61c2e2df4c959fd948b41b30d3d351b4c1be2f269e7f44c",
+        "Brand": "SwissPass",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "E-Mail, Passwort",
+        "List of Call-To-Actions": "Anmelden, Jetzt registrieren, Passwort vergessen",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"SwissPass\" can be confidently identified from the screenshot and HTML information provided. The screenshot prominently displays the \"SwissPass\" logo along with the phrase \"Ihr Schl\u00fcssel f\u00fcr Mobilit\u00e4t und Freizeit\". Furthermore, the HTML title is \"Anmeldung | SwissPass\", which aligns with the login page\u2019s function displayed in the screenshot. Additionally, the presence of elements such as email and password fields, along with buttons for actions like \"Anmelden\" (log in), \"Jetzt registrieren\" (register now), and \"Passwort vergessen\" (forgot password) in the nav_bar_content and spans_text sections of the HTML, confirms the provision of sensitive credential fields and various call-to-action elements. The continuous repetition of these terms throughout the HTML document solidifies the association with SwissPass.",
+        "Url": "https://khanhills.mn/DONN/login.php"
+    },
+    {
+        "Folder Hash": "00601e6448d6b72e8c1c2bbb12bb2e3ccdd1297a8cb5c155795c78eb84912bf9",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, phone number or Skype, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the Microsoft logo at the top and mentions \"Sign in to your Microsoft Account,\" consistent with Microsoft\u2019s login interface. The HTML title further supports this, mentioning \"live.com | hotmail,\" which are known domains owned by Microsoft. The inclusion of links to \"live.com\" in the navbar content also aligns with Microsoft\u2019s web properties. The screenshot includes a login form asking for users' email, phone number or Skype, and password, common fields for Microsoft account authentication. The presence of a sign-in call to action button further supports the proper functionality of the service, indicating a login page for a Microsoft account. Therefore, the consistent branding elements and functionality suggest the brand is Microsoft with high confidence.",
+        "Url": "https://hotmail-109377.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "006f18ca0218cad05642ad1cd7ac6cd80c62a4e9d6c748791d1047592bd1a4ff",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Account information required to implement Facebook Protect",
+        "List of Call-To-Actions": "Turn on Facebook Protect",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot directly features the Facebook logo at the top, consistent with the brand's style. The title from the HTML information, \"Security | Facebook Help Center\", explicitly mentions Facebook, indicating this is an official Facebook page. The paragraph and headers text in the HTML information reiterate the name \"Facebook\" and introduce \"Facebook Protect\" as a security measure. The scenario depicted in the screenshot (turning on Facebook Protect to unlock an account) and the specific call to action \"Turn on Facebook Protect\" strongly correlate with the process described in the paragraphs_text from the HTML, confirming the brand affiliation with Facebook. The use of the favicon, although not visually confirmed in this brief, adds additional support due to its unique path likely linked to Facebook\u2019s assets. Given these clear references, the confidence in identifying the brand is at the maximum.",
+        "Url": "http://liuk7.gotrailriding.co.uk/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "0161e98c213f472efde7597a68110c3e436532fbccbb96c8489bde2c0ff45f44",
+        "Brand": "AOL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, email, or mobile",
+        "List of Call-To-Actions": "Sign in, Create an account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis relies heavily on the distinct branding in the screenshot which features \"AOL.\" prominently at the top center and within the sign-in box. The HTML information confirms the brand with the logo_alt_text and title both explicitly stating \"Aol.\" Additionally, the screenshot displays a login form seeking user credentials (username, email, or mobile) and includes call-to-action elements for signing in or creating a new account. The coherence between the graphical display and the HTML attributes leaves no ambiguity about the brand's identity, supporting a high confidence score.",
+        "Url": "http://nexo-mail-verify.com/app/aol/email.php"
+    },
+    {
+        "Folder Hash": "01b05d8c4558b4cb848a8dac7e92f6c9e5e9e4b14173b4c1ab774dab5d50957d",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u70b9\u51fb\u83dc\u5355 \u6216 \u8bbe\u7f6e\uff0c\u7136\u540e\u9009\u62e9 \u5df2\u8fde\u63a5\u7684\u8bbe\u5907\"",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot explicitly shows the title and logo of WhatsApp, and the HTML title also confirms \u201cWhatsApp.\u201d Despite missing meta_description and logo_alt_text, the clear visual elements in the screenshot, such as the WhatsApp logo, which is unique and widely recognizable, support the identification. The HTML also matches the interface language Chinese, aligning with the screenshot's content. The phrases and terms related to actions like clicking settings from the span_text indicate user interaction possibly related to app settings but nothing explicitly involving sensitive credentials.",
+        "Url": "http://whtas.whytp.shop/"
+    },
+    {
+        "Folder Hash": "01eb36023862996e41da8cc55fc9771e6ddb8d64a976d1ff60a2cff265537d75",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "abc@abc.com, Enter Password",
+        "List of Call-To-Actions": "Sign in options, Create one!, Can't access your account?, Forget password?",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis of the screenshot and the HTML information reveal several references to Microsoft and the UBS branding. The screenshot displays the text \u201cUBS\u201d alongside a message about taking the user to their organization's sign-in page, indicating a branded login process possibly for UBS via Microsoft services. Furthermore, the HTML title (\"Microsoft | Login\") and footer text (\"\u00a92022 Microsoft\") corroborates the presence of Microsoft\u2019s branding. The HTML also contains sensitive credential fields like email (abc@abc.com) and password prompts, indicating where users can input credentials, which confirms that the page asks for user credentials. Additionally, calls-to-action such as options to sign in, options to recover accounts, and options to create an account are present, enhancing user interaction on the page. All these elements indicate a webpage branded by Microsoft, used possibly in conjunction with UBS for sign-in services, and the presence of various user interaction elements supports this assessment.",
+        "Url": "https://pub-c4834f8675ff4cb0b89dd44bf195a608.r2.dev/passwordverification.html#salinda.nowell@ubs.com"
+    },
+    {
+        "Folder Hash": "01efc23097273978f0e3497cd57fef0f60e7d828a6c05dbb9ce35529dfa57300",
+        "Brand": "Correios",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The analysis bases its conclusion on the logo visible in the screenshot and the title from the HTML information, both of which say \"Correios,\" an identifier for the Brazilian postal company. The logo that contains \"Correios 360\" on a stylized circular graphic further pinpoints the specific service or platform being promoted or represented by this page. The favicon link provided in the HTML info, while not completely informative on its own, is consistent with a website owned by a larger organization, in support of the Correios brand identification. There is no explicit evidence in the provided image or HTML excerpt of any forms or fields indicative of credential submission (like email, username, or password) or of call-to-action elements such as buttons or clickable links that would typically prompt user interaction to input personal data. Therefore, there's a high confidence score but not absolute due to the limitation of not being able to view the complete page content or other interactive features that may not be visible in the screenshot or included in the HTML snippet provided.",
+        "Url": "https://www.ufastadistancia.ar/web/br/corres/POHHTZRZBSBB/index.php?FGDD=1#HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG"
+    },
+    {
+        "Folder Hash": "023ed5eb261876e7e036ba4e905882dc4304aa864005e6b159433226925f4f51",
+        "Brand": "Xplornet",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "LOGIN",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage brand is identified as \"Xplornet\" based on the visible logo in the screenshot and the text \"XPLORNET WEBMAIL\" prominently displayed at the top of the webpage and echoed in the headers text from the HTML information, which reads \"Shopping Cart | XPLORNET WEBMAIL |\". The webpage includes a clear login interface with fields for \"Email Address\" and \"Password\", which are sensitive user credentials. There is also a prominent \"LOGIN\" button, serving as a call-to-action. Although the HTML information includes a favicon link from \"Weebly\", suggesting the page may be hosted there, the primary branding and functionality revolve around the Xplornet Webmail service. There is no significant contradiction in the provided evidence, confirming the presence of sensitive credential fields and call-to-action for logging into an account, thus strongly supporting the identification of the brand as Xplornet with a high degree of confidence.",
+        "Url": "https://mail-101067.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "02637426f66bee3625982f859b733cdd0989b9f6e0daaf2f3b6cb743a719bed3",
+        "Brand": "Bell MTS",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Pass/Access-word",
+        "List of Call-To-Actions": "SIGN IN",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identifying brand on the webpage is directly evidenced by the large logo at the top center which reads \"Bell MTS\". Additionally, the screenshot displays a login page explicitly for a mailbox sign-in that requests email addresses and passwords, reinforcing the presence of sensitive credential fields. The title from the HTML information \"Home | Inc\" does not seem to relate to Bell MTS, indicating possible hosting or framework services by another company, but the logo in the screenshot confirms the brand. The use of Weebly, as indicated by the favicon and footer text mentioning Weebly for e-commerce, suggests the site may be built using Weebly's platform, but it does not affect the primary branding of the site. The HTML provided displays other operations like shopping carts, which are irrelevant to the sign-in process captured in the screenshot, but also shows additional shopping cart and sign-in related actions. The confidence level is high due to clear visual representation of the brand name in the image.",
+        "Url": "https://inc-gers.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "571c629dd6777f947e0f64c0ba9e3af3fd1119b30d936695fa40b8863d91a270",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Your Name, Phone, Personal Email, Business Email",
+        "List of Call-To-Actions": "CONTINUE button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"Meta\" is based on the prominent logo at the top center of the screenshot, which features the unique infinity-like logo commonly associated with Meta. This identification is supported by the presence of the logo and the specific design elements present on the page that align with Meta's branding style. The screenshot includes fields for inputting sensitive user credentials such as name, phone number, and personal as well as business emails, establishing the presence of user credentials. There is also a clear call-to-action in the form of a blue \"CONTINUE\" button, emphasizing the next step in the process.",
+        "Url": "https://relief-data-appeal-349805e.surge.sh/"
+    },
+    {
+        "Folder Hash": "64524e2ef45f4644cc2994e2ce15c20f7d0a348f4c8c0aac5066fbb35d6d471b",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of both the screenshot and HTML information clearly indicates the webpage is associated with Microsoft, specifically for the Office365 product. The logo visible on the screenshot includes the distinctive Microsoft logo, and the screenshot displays a login prompt for entering a password, confirming the presence of sensitive user credentials. The HTML title \"Sign in to your Office365 account,\" the favicon URL containing Microsoft-related elements, and the logo alt text \"Microsoft\" all strongly support this identification. Furthermore, the presence of a \"Sign in\" button acts as a call-to-action. Together, these elements provide conclusive evidence of the brand and functionalities present on the webpage.",
+        "Url": "https://pub-73ee129d9ec943f785408564adcaf985.r2.dev/cryn.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "9e204f718f150aabbaebc0737c36cfec98cfca139a2cb964c353a388098f8ec0",
+        "Brand": "Roundcube",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as \"Roundcube\" is based on multiple clear indications from both the screenshot and the HTML information provided. The title of the HTML script specifically mentions \"Roundcube Webmail\" which corresponds directly with the logo displayed in the screenshot that also says \"roundcube\" along with a graphical representation of an envelope suggestive of mail or webmail services. The headers text in the HTML script similarly references \"Roundcube Webmail Login\", reinforcing the brand identity present on the login page. The favicon link includes a directory named after a known Roundcube skin ('larry'), which ties it further to the Roundcube Webmail system. The fields for username and password along with a prominently displayed login button are indicative of credential fields and a call-to-action, respectively, supporting user interaction for secured access. Hence, the evidence strongly confirms the branding without ambiguity.",
+        "Url": "https://freightoinx0006.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "a80c294225b3057768f3465e3466226c69a790eb9c7ac88808e19370286e7f8e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of \"Microsoft\" as the brand is based on multiple elements presented in both the screenshot and the HTML information. The screenshot prominently displays the Microsoft logo at the top of the login panel. Additionally, the logo's alternative text from the HTML data is \"Microsoft\", further verifying the brand's identity. The webpage is designed to handle sensitive user interactions, particularly entering a password to access an account, which matches Microsoft's user security protocols for accessing services like Office365 suggested by the HTML title \"Sign in to your Office365 account\". The presence of a favicon URL containing \"mi..cro---t\" abbreviates to Microsoft, aligning with the visual and textual evidence. Furthermore, typical Microsoft terms such as \u201cTerms of use\u201d and \u201cPrivacy & cookies\u201d in the footer text confirm the consistency in branding and operational functioning expected of Microsoft pages. The call-to-action is the \"Sign in\" button, which is standard for Microsoft account access pages.",
+        "Url": "https://pub-d351cc1193114bc695708e600762f48a.r2.dev/tex.htm"
+    },
+    {
+        "Folder Hash": "b24b5100cfe6dd7c6eec1419abef79fb2b74fb8a52b80747bb91544884bd450a",
+        "Brand": "Earth Core",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The brand is identified primarily through the favicon URL (https://webmail.earth-core.jp/skins/default/images/favicon.ico), which contains the term \"earth-core.jp.\" This suggests the associated domain and likely the brand or entity managing the webmail service. The screenshot prominently features a webmail login interface, indicative of a service for accessing emails, aligning with the common functionalities of a branded webmail client. Although not all provided HTML fields are applicable, the favicon link is a strong indicator of the brand, supported by the presence of webmail functionalities on the webpage.",
+        "Url": "http://gottagopotties.mycustomerconnect.com/app/Email/phpmail/extras/co.ne.jp/webmail.php"
+    },
+    {
+        "Folder Hash": "b7a14dcd66c2d04a2ed97bd5e3cf1b358321d9a61fb6c77ef109dde267e76675",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u7528\u6237\u540d (Username), \u5bc6\u7801 (Password)",
+        "List of Call-To-Actions": "\u767b\u5f55 (Login Button)",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot provided is of a login interface, prominently displayed with fields for username and password, typically indicating a safe authentication process. Visuals alone fail to disclose any direct information tying to a specific brand or entity. The presence of various Chinese internet service logos (21CN.com, 126.com, 163.com, QQ.com, Sina.com, People.com.cn, etc.) further confuses brand identity, suggesting the portal could be associated with one or multiple services. Hence, no accurate brand identification is possible from the given image alone, especially without unique identifiers such as a distinctive logo or explicit mention in text form. Thus, confidence in any specific brand identification remains incredibly low.",
+        "Url": "http://pansionat-v-troicke.ru/cn/VerifyCN/"
+    },
+    {
+        "Folder Hash": "b86e24505f6a9fe4c1eb5e26425891551454a20bc715ec5f013a199554ec43d4",
+        "Brand": "MCG",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Account, Password, Code",
+        "List of Call-To-Actions": "Sign in, Register now",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot explicitly states \"Welcome to MCG\" prominently at the top of the login module, affirming the brand as MCG. Additionally, the headers text from the HTML information includes \"MCG\" along with menu items, which supports this identification. There are fields for entering account information, password, and a verification code, indicating these as sensitive user credentials. The displayed buttons \"Sign in\" and \"Register now\" are clear call-to-action elements that prompt user interaction for login or account creation. The combination of the screenshot and provided HTML text-based information aligns well to confirm the branding and functionality indicated.",
+        "Url": "https://mcg1.vip/Login/index.html"
+    },
+    {
+        "Folder Hash": "c074bca11260d1842a201d87dd675a8ae496bd2c86c8f8fbffaf3913e1607936",
+        "Brand": "NAVER",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "ID, password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as NAVER is made evident through multiple facets. Primarily, the screenshot visibly displays \"NAVER\" as a header, and a similar confirmation is found in the HTML with the title \"\ub124\uc774\ubc84 : \ub85c\uadf8\uc778\" and headers text mentioning \"NAVER\" in various language options. This alignment between visual and HTML evidence strongly supports the identification. Additionally, the footer and span text in the HTML script mention \"\ub124\uc774\ubc84\" (Naver in Korean) numerous times, further confirming the presence of the brand. The presence of credentials is seen in the inputs labeled for \"ID\" and \"password\" which are standard credentials. The green login button in the screenshot represents a clear call-to-action, specifically prompting users to initiate a login process. Thus, the evidence from both the screenshot and the HTML script is consistent and conclusive in affirming the webpage's brand identity as NAVER.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigthv56vhof4ua6vvxzrcftujsvetxxoi2dkofxrhyowxfsgnv63i"
+    },
+    {
+        "Folder Hash": "e4a2a39be2550bf2777ddda45564eafa79aa039c0c4b730782fc1a0c7058f703",
+        "Brand": "Banco Pichincha",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Contrase\u00f1a Email",
+        "List of Call-To-Actions": "Continuar button",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand \"Banco Pichincha\" is strongly supported by the prominent logo at the top of the screenshot, which distinctly displays the brand name and logo. The screenshot features a form for entering 'Email' and 'Contrase\u00f1a Email' (Email Password), indicating fields where sensitive user credentials are requested. Additionally, there is a clear call-to-action with the 'Continuar' button, which is designed to submit the entered credentials. Although the HTML information provided has many \"Not Found\" entries, the visible elements in the screenshot are sufficient to confirm the presence of credentials collection and the identification of the brand. The confidence in the brand identification is slightly less than the maximum due to the reliance solely on the visual component of one screenshot without additional confirmatory data from the HTML script.",
+        "Url": "http://26validate5q8.royalwebhosting.net/"
+    }
+]

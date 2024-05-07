@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "01f62a6f90bf926aca8612e88b6c6c058eeae374ff553ded0e6f65b5d05a81f8",
+        "Brand": "Vidar.pro",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://my-odin.com/auth/login/258?ddosprotected=1"
+    },
+    {
+        "Folder Hash": "0300b2a1e5683987e733afd8d4305b235854fc4a90abdf839fbc09b97b3da12a",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://thuonghao.com/app-mobil-segure-personailsucursalpersonal/mua/VALIDATECARD/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "049b4850c4e9aebc9e29f8ac43f50f06e25c3c7154a716a08ae597e38eb8f9f6",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone, Password",
+        "List of Call-To-Actions": "Sign in, Continue with Google, Sign in with Apple, Join now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"LinkedIn Login, Sign in | LinkedIn\", and the footer text is \"LinkedIn\". The logo is also LinkedIn's logo. The page has fields asking for sensitive user credentials such as email or phone number and password. There are also call-to-action buttons such as \"Sign in\", \"Continue with Google\", \"Sign in with Apple\", and \"Join now\".",
+        "Url": "https://swamyarts.com/wp-content/updates/linkedln/index.php"
+    },
+    {
+        "Folder Hash": "05f2c6334509ddb5cea0d00935602de3b5cebf9e4f86bfb7a8f94df07d4b80be",
+        "Brand": "Rentas Cordoba",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"DGR | Emisi\u00f3n\". The logo in the screenshot is the logo of Rentas Cordoba. The footer text includes the text \"Copyright \u00a9 2023 - Rentas C\u00f3rdoba | 1983/2023 - 40 a\u00f1os de democracia\". The webpage's content includes text such as \"Eleg\u00ed un impuesto o concepto\", \"Automotor\", \"Inmobiliario\", \"Ingresos Brutos\", \"Sellos\", and \"Multa de Caminera\". This evidence strongly suggests that the brand of the webpage is Rentas Cordoba.",
+        "Url": "http://186.64.113.60/"
+    },
+    {
+        "Folder Hash": "0616047c17b64259dcfae6be6fcf5017f5bd58f0af19b115724a301d52ff8d38",
+        "Brand": "Fakin' The Funk",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, header, footer, and navigation bar all contain the brand name \"Fakin' The Funk\". Additionally, the screenshot of the webpage shows the brand's logo in the top left corner. I am confident in identifying the brand because all the evidence points to \"Fakin' The Funk\".",
+        "Url": "https://fakinthefunk.net/en/"
+    },
+    {
+        "Folder Hash": "06577e85ba18ef4cff7bd9a369b710a5dc8b2030992cd8903b0e81cd740ec17f",
+        "Brand": "Skat",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Cpr-nummer",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Skat, the Danish tax authority. The title of the page is \"Log p\u00e5 med Cpr-nummer\", which indicates that this is a login page for Skat's online services. The page also has a footer with contact information for Skat.",
+        "Url": "https://dymdlxd0.dreamwp.com/skat/"
+    },
+    {
+        "Folder Hash": "06731e5c35cd2a6a6756371281d67046a96917a927162af03fa41fd483df0ffc",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Sign-in options, Next, Create one",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Microsoft\" in the favicon. The page's title is \"Sign into your account\". The page has a text field for email and a button that says \"Next\". The page also has a link that says \"Create one\" which is likely for creating a Microsoft account.",
+        "Url": "http://pickup.socialsmp.com/6c20a4/d4cb05f2-2f0a-4809-99d6-f8ceb74fc8c3"
+    },
+    {
+        "Folder Hash": "0674746372d4892e07fedfff01995f903c0731a77ef48d7a687ba3eeeea00ef5",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the text \"Microsoft\" in the title bar. The HTML script contains the text \"Sign in to your Office365 account\" and \"Enter your password\". These are all strong indicators that the brand is Microsoft.",
+        "Url": "https://pub-f8d80b6d04ca412db7362da34f726f2c.r2.dev/themd.html?email=tamer@genero.ae"
+    },
+    {
+        "Folder Hash": "06aaa6bfb9c44593ec01d0e2b6ecfb47a2c081499eb544017f6a6de2a724a460",
+        "Brand": "Orange",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "OK",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage brand is Orange. The screenshot shows the Orange logo and the title \"Orange Tunisie : D\u00e9couvrez nos offres mobiles et internet\". The HTML information also contains the text \"Orange Tunisie\".",
+        "Url": "https://www.dailyprizehub.com/africa/ci/orange-box-1/orange-fr-1.php"
+    },
+    {
+        "Folder Hash": "07c235723b12f49ecb0e0768251e0458c5ffccfec4ba897217927566341af22a",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Home\", and the logo is of AT&T. The page also has a form asking for the user's email and password. The call-to-action button says \"Next\". Based on this information, I am confident that the brand of this webpage is AT&T.",
+        "Url": "https://lnetioghsljhfdgfhgjhksdgfhsjfgqwa.weebly.com/"
+    },
+    {
+        "Folder Hash": "080400a34c76a858cf97e3c35aea56725e03abc5ccf35abf3bad157966d69cd8",
+        "Brand": "e-Devlet Kap\u0131s\u0131",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "T.C. Kimlik No, Kredi Kart\u0131 Numaran\u0131z, Son Kullanma Tarihi, Cvv Kodunuz",
+        "List of Call-To-Actions": "\u0130ptal Et, \u0130ade Sorgula",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the logo of e-Devlet Kap\u0131s\u0131, which is a Turkish government website. The HTML script also contains the text \"e-Devlet Kap\u0131s\u0131\" in several places. The website is used to access various Turkish government services online. The webpage has fields asking for sensitive user credentials such as T.C. Kimlik No, Kredi Kart\u0131 Numaras\u0131, Son Kullanma Tarihi, Cvv Kodunuz. It also has call-to-action buttons such as \u0130ptal Et and \u0130ade Sorgula.",
+        "Url": "https://www.sdafsdafsadfsa.com/"
+    },
+    {
+        "Folder Hash": "08781a691dc282328ab9521595a98f035b216c20e274f142720308510fc8c620",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone",
+        "List of Call-To-Actions": "Next, Create account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Google logo, and the title of the page is \"Sign in - Google Accounts\". The footer text includes \"English (United States)\", indicating that this is the Google sign-in page for users in the United States. The HTML script also contains the text \"Sign in | Use your Google Account\", which further confirms that this is a Google webpage.",
+        "Url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fsaberrbai&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fsaberrbai&ifkv=AVQVeyzuDGIiGNIUN5yykXcEFpQQKz2r3DlTni2-BKJitVeIDu_F-eLdcDcsa24UzdNVmE5pezGtJg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1242046031%3A1699655620535054&theme=glif"
+    },
+    {
+        "Folder Hash": "19063c2a9c8014dab7fb571c3bb74948fd42a6eeb9faa9eae4c48a766aabddf0",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, password, confirm password",
+        "List of Call-To-Actions": "submit",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Outlook logo, and the HTML script contains the title \"Outlook\". The page also has fields asking for sensitive user credentials such as email address, password, and confirm password. There is also a call-to-action button labeled \"submit\".",
+        "Url": "https://lamarinatalca.cl/owa/webapp.html"
+    },
+    {
+        "Folder Hash": "1c2b996e5f4670be1c3afd40f3f60030c082f688a7771123fcaffaa1bfd5d232",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "I cannot identify the brand as there are no clear indicators such as a logo, company name, or other branding elements. The page seems to be a generic login page.",
+        "Url": "https://779425.selcdn.ru/mail-management/kerma-index4.html"
+    },
+    {
+        "Folder Hash": "5252961c958214b41129b9e152aa622926b14d4ab8c41b817a393de71435739f",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Email, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage requests for sensitive user credentials such as username, email, and password. However, I cannot identify any unique elements or branding that would help me identify the brand.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeialf2tdeo2jb3u3ltluqzn4pcqxhv2xvwfnr5hq5vocvhlwjynkca/svr2-mr1.html"
+    },
+    {
+        "Folder Hash": "5de65c58800342fe00346912a98d262bb3d5396cbc5d016a9f1f66d193009bf5",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Continue",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "Since the webpage does not contain any brand-specific information, I cannot identify the brand. However, I can identify that the webpage is asking for user credentials and has a call-to-action button labeled \"Continue\".",
+        "Url": "http://oasis-alabaster-exception.glitch.me/"
+    },
+    {
+        "Folder Hash": "79d7c3abdfc66bd28bfb36f3a0c69f4ba5600207dc62693f8196929543da2540",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot shows a login page with fields for email and password. However, there is no logo or other identifying information on the page. The HTML information does not provide any additional clues. Therefore, I cannot identify the brand of this webpage.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeigarvbzkhzzbljgreisft7r4mw3tdhakobwkzdlliwdblrgxx3ciq/index1.html"
+    },
+    {
+        "Folder Hash": "8c340d59563cfab5558c149dff976b8839cc36bf9ea65f54104ed635cd1965eb",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The screenshot shows a login page for Webmail. The HTML script contains the following information: \"Webmail\", \"Email Address\", \"Password\", and \"Sign In\". This information is consistent with the login page of Webmail.",
+        "Url": "https://pub-9e11a359d213455e8ad57f733583373b.r2.dev/aask.html"
+    },
+    {
+        "Folder Hash": "94384aebc536f4fdaa4e01806dc2549f23dc1f806d7c659600aefc39b423ea78",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words \"Meta\" and \"Community Standards\" in its HTML code. The logo in the screenshot is also that of Meta. The page also asks for sensitive user credentials like email address and password. It also has a call-to-action button that says \"Log In\".",
+        "Url": "https://appsecure-adsbusiness-pages-en.github.io/cinora/import/"
+    },
+    {
+        "Folder Hash": "9ff57ffe4d1de67efdad1507613d0dfea4ad0b8067bb495a8a1ea3743a884d9f",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Zimbra Web Client Sign In\", and the logo is of Zimbra. The footer text also contains the word \"Zimbra\". The HTML script contains fields for \"Username\" and \"Password\", and a \"Sign In\" button.",
+        "Url": "https://pub-ccb2162674f0423993958b6739a1fc20.r2.dev/34324ummi.html"
+    },
+    {
+        "Folder Hash": "d3f3142a2631e578a8d523243f0daabedb8a898028658c5eba80f7dd54629dcb",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Funded Trading, Free Online, Online",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage's title is \"globoplaynews.com\". However, there is no logo or other identifying information on the screenshot. The footer text only states the copyright information. There is no other information that can be used to identify the brand.",
+        "Url": "http://bemestar.globoplaynews.com/"
+    }
+]

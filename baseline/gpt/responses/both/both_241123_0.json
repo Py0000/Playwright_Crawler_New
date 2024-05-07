@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "001286e0de268da6f43c0c4b6a2a9d05fd57a40e6bb8e345ab0e4647a56b6a10",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register, Login",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as DHL is confidently based on the visible logo on the screenshot, which prominently displays \"DHL\" along with the characteristic red and yellow color scheme known to be associated with DHL. Furthermore, the footer text in the HTML information includes references to \"2022 \u00a9 Deutsche Post AG - All rights reserved,\" which is the parent company of DHL. Additionally, the screenshot and HTML elements such as the functionality selections (Ship, Track) align with services offered by DHL, providing further substantiating evidence of the brand. The webpage contains fields for registration and login, indicating the collection of user credentials and actions motivating the user to interact with these credential fields.",
+        "Url": "http://socialmediaconsultant.ae/public/BcLhGPsZs8l4WqLGT1a41XksuKh8zrjS"
+    },
+    {
+        "Folder Hash": "00769766e55ba283eb9f8abb741c158c9df528b1193b2ac2dc8688c16637d315",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, password",
+        "List of Call-To-Actions": "\"REGLEZ MA FACTURE\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the logo of Orange, a well-known telecommunications brand. This logo appears in the top left corner and is a distinctive orange square with the word \"orange\" inside. The screenshot also includes several references to services typically provided by Orange, such as internet plans, mobile services, and customer service options like \"Espace client\" (customer space) and \"Boutique Orange\" (Orange Shop). Additionally, there is a prominent button labeled \"REGLEZ MA FACTURE\" which translates to \"Pay My Bill\", a common call-to-action on telecom websites for bill payments. The appearance of functionalities such as bill payment implies that user credentials like username and password would be necessary to access billing information. These elements strongly suggest the brand identity as Orange and indicate the likely need for login credentials, providing a high confidence level in the analysis.",
+        "Url": "https://sites.google.com/view/stilmafosido09"
+    },
+    {
+        "Folder Hash": "007b1d5575ec1fc8f753529950ed22348b62593321aee5335c3222747140da5d",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly displays the Microsoft logo and incorporates branding elements typical to Microsoft products, such as the use of the \"Microsoft\" logo in the upper center of the modal window and \"Office\" logo. The screenshot's main purpose is to verify the user's identity by requesting an email address, indicating a sensitive credentials field is present. Furthermore, the presence of a \"Next\" button acts as a call-to-action, pressing which the user can proceed with verifying their identity. The footer text \"\ufffd 2022 Microsoft Privacy & Cookies\" from the HTML information also supports this conclusion, confirming the association with Microsoft. Moreover, the mention of 'ONEDRIVE' in the section instructing the user about privacy compliance when clicking \"Next\" definitively ties the screenshot to Microsoft OneDrive.",
+        "Url": "https://www.businessintegral.com/Microsoft/Pdf/pdf.htm"
+    },
+    {
+        "Folder Hash": "00e8c015bd38f9f8977fc60b27787c56855b7a9b5f0885dece761a27566b2cfb",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register, Login",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "9.75",
+        "Supporting Evidence": "The identification of the brand as DHL was established through prominent visual features and textual content in the screenshot and HTML information. The screenshot displayed a distinctive yellow and red color scheme with the logo and text \"DHL Express,\" which are trademarks of DHL. The footer text in the HTML included references such as \"2022 \u00a9 Deutsche Post AG - All rights reserved,\" which correlates with DHL being part of the Deutsche Post DHL Group. HTML elements also mentioned logistics-related functionalities like \"Ship\" and \"Track,\" which align with DHL's business model. Additionally, the screenshot showed options for \"Register\" and \"Login,\" constituting sensitive user credentials typically found on such service provider websites. The presence of interactive elements like country selection and tracking options in the HTML supports the identification of call-to-action buttons. The confidence score reflects a high level of certainty based mainly on the visual and textual matches relevant to the DHL brand.",
+        "Url": "http://www.socialmediaconsultant.ae/public/st0v0n8vFgkUtIUNY6lMnshyToz9omQc"
+    },
+    {
+        "Folder Hash": "0153b05f0a495843ff1a0ca2ed1e1579da4f21f9e4dcbc62821f89b7e2d45f01",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, username, email, password",
+        "List of Call-To-Actions": "Log in, Sign up, Get the app.",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Instagram is confidently supported by multiple elements. The HTML script explicitly mentions \"Instagram\" in the title and in the metadata description, which describes the website's usage and purpose similarly to what is known of Instagram. The screenshot clearly displays the Instagram logo at the top of the login form, consistent with its branding. Furthermore, the footer on the webpage mentions \"\u00a9 2023 Instagram from Meta,\" which also verifies the webpage\u2019s ownership and branding. All presented information consistently points to Instagram without any conflicting data or ambiguity, thereby supporting the full confidence score.",
+        "Url": "https://login-instagram.glitch.me/"
+    },
+    {
+        "Folder Hash": "01eb66d75786faa56381f840389115c31e55be402bd4837fb99bbc7becad4966",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"No account? Create one!\", \"Can't access your account?\", \"Sign in options\"",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Microsoft is confidently supported by multiple elements from the screenshot and the HTML information. The screenshot prominently displays the Microsoft logo at the top and includes a footer that reads \"\u00a92022 Microsoft.\" Additionally, the HTML title provided is \"Microsoft | Login,\" and similar branding persists in the paragraph text and span text indicating various Microsoft related sign-in steps and issues, such as \"That Microsoft account doesn't exist. Enter a different account.\" The presence of credentials is clear with fields for email and password mentioned in the span text. Call-to-action elements are identified in the paragraphs text indicating options to create an account or access an existing account, as well as alternative sign-in options. The coherence of visual and textual Microsoft branding across different elements solidifies the identification.",
+        "Url": "https://pub-783142150b6146fda36673e880e8d058.r2.dev/passwordreset.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "0343509c92d5b3edcd97a96d2e561d7adbdcba3173ee1d9d5b31ff912426f2a9",
+        "Brand": "Meta (Facebook)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Contact support, Chat with agent, Connect now",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand for the webpage can be confidently identified as Meta (formerly known as Facebook), primarily via multiple elements in the screenshot and HTML content. The screenshot prominently features the Meta logo along with the text \"Facebook Business Help Center\". Moreover, content in the HTML like headers and paragraphs consistently references Meta-associated services and terms like \"Meta Community Standards\" and \"Meta Support \u00a92023\". Despite the page apparently being powered by Buffer (as indicated by the footer and favicon), the significant references and visual focus on Meta elements, particularly the specific focus on business support related to Meta services, substantiate the brand identification. The confidence is slightly less than perfect due to the presence of third-party service (Buffer) elements, which might introduce some minor ambiguity without additional context.",
+        "Url": "https://contact-support-id-7142058396.start.page/facebook.com"
+    },
+    {
+        "Folder Hash": "0360c9171650b13252f74c85e9380f18d64dc1ed0be3fc1ee1768cdd366b3b31",
+        "Brand": "Amendes.gouv.fr",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Nom, Pr\u00e9nom, Date de naissance, Code postal",
+        "List of Call-To-Actions": "RECHERCHER button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Amendes.gouv.fr is substantiated by multiple pieces of evidence from the screenshot and the HTML information. The logo on the top left of the page prominently displays \"amendes.gouv.fr\" beneath the emblem of the French Republic, which is a strong brand identifier. Moreover, the HTML title \"Site officiel unique de t\u00e9l\u00e9paiement | Amendes.gouv.fr\" reinforces the brand identity. Additionally, the meta description and favicon URL both contain \"amendes.gouv.fr,\" ensuring further brand consistency. Finally, the footer includes \u00a9 Direction g\u00e9n\u00e9rale des Finances publiques, linked to the site, supporting the governmental affiliation and backing the specified brand identification.",
+        "Url": "https://track-delivery.eu/antai/search.php?session=ea1432a28db7c1c58021845ec748a339"
+    },
+    {
+        "Folder Hash": "039a5c6bb048f5f67d48870f8d22e955152657284a4a88ce04abab2d88865f3e",
+        "Brand": "Raiffeisen",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Bundesland selection, Verf\u00fcgernummer, PIN",
+        "List of Call-To-Actions": "\"WEITER\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification as \"Raiffeisen\" is based on the favicon URL provided, which contains \"https://www.raiffeisen.at\" and explicitly mentions \"rbg/logos,\" implying it belongs to Raiffeisen Bank Group. Furthermore, while the logo on the webpage lacks alt text and might not directly display identifiable text, the design and style are consistent with Raiffeisen's branding elements. The fields for credentials on the webpage directly ask for sensitive information including a region or bank selection, a user ID (\"Verf\u00fcgernummer\"), and a PIN, elements typical in banking log-in pages. The presence of a button labeled \"WEITER\" (translated as \"proceed\" or \"next\") supports a direct call to action, encouraging users to proceed after entering their credentials. The information about credentials and call-to-action is clearly depicted in the layout and terminology used on the site, re-affirming the webpage's function as a login portal for bank services.",
+        "Url": "https://web12105.cweb06.gamingcontrol.de/"
+    },
+    {
+        "Folder Hash": "045fc0468bbf1a93e71d4e543d29da438d5c930342e92a1db8f081f817c75b37",
+        "Brand": "PayPal",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Mobile number",
+        "List of Call-To-Actions": "Sign Up for Free, Download the App",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identified from both the screenshot and HTML information is PayPal. The screenshot features the PayPal logo prominently at the top and includes specific PayPal-related messaging throughout. The HTML information reinforces this with a title specifically naming PayPal and describing its services, and a favicon URL containing 'paypalobjects', which is a domain associated with PayPal. Further confirming this, the footer text lists various PayPal company information links such as 'About', 'Newsroom', 'Jobs', and 'Investor Relations', consistent with an official business site. Additionally, the HTML headers and nav bar content include multiple mentions of PayPal, its services, and functional calls-to-action related to account management and service usage, confirming the brand's identity as PayPal with high certainty.",
+        "Url": "http://haroldhazard1-wixsite-com.filesusr.com/html/3ff7c4_39f5e951394368f9e49c63fbf3166add.html"
+    },
+    {
+        "Folder Hash": "1aee5d2661551cd8af9159ff0bcfe8a7f682fce3d5231069a7ea5a5d71f4efbf",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Sign in",
+        "List of Call-To-Actions": "Watch free for 30 days",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is identified as Netflix based on multiple elements. The screenshot prominently features the Netflix logo at the top-left corner, which is a well-known visual identifier for the brand. Additionally, the HTML title \"Netflix - watch TV shows online, watch movies online\" directly mentions Netflix, reinforcing the identification. The footer in the screenshot also includes typical Netflix website sections such as \"FAQ,\" \"Investor Relations,\" and \"Netflix Originals,\" which are characteristic of Netflix's official site. The phrases in the headers and paragraph texts like \"Watch anywhere. Cancel anytime\" and \"Watch TV shows and movies anytime, anywhere \u2014 personalized for you\" align with Netflix's marketing language. Furthermore, the possibility to \"Sign in,\" noted both in the screenshot and HTML header text, points to the presence of a credential field, and the reiterated call-to-action text \"Watch free for 30 days\" in various parts of the HTML confirms an active effort to engage and convert visitors into users, authenticating the identification further.",
+        "Url": "https://radhikakakkar.github.io/page-clone/"
+    },
+    {
+        "Folder Hash": "539e5117f9dba194cbffe6f54f9b1eb80e63ef4fef7ef81159cbacb13758704b",
+        "Brand": "Raiffeisen",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Vorname, Familienname, Nachname, Date of birth, Land, Stadt, PLZ, Telefonnummer",
+        "List of Call-To-Actions": "WEITER button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Raiffeisen is primarily supported by the favicon URL provided in the HTML script, which links to the domain \"raiffeisen.at\" and includes directories named \u2018rbg\u2019 and \u2018logos\u2019, suggesting this URL is directly related to the Raiffeisen brand graphics. The screenshot features a distinct cross symbol on a yellow background, commonly associated with Raiffeisen. Moreover, the page requests sensitive personal information consistent with a financial institution's requirements for identity verification. The fields listed for personal data input, such as full name, date of birth, and address components, are typical in banking forms, aligning with the Raiffeisen Bank's operations. The presence of a \"WEITER\" (proceed in German) button acts as a call-to-action element prompting user interaction to proceed with the identity verification process, supporting the function of a login or data confirmation page prominent in banking websites.",
+        "Url": "https://web12104.cweb06.gamingcontrol.de/personal.php"
+    },
+    {
+        "Folder Hash": "6b20936058c6e0d9c4fe89fa7d80898ff11ac787ca2d0b1b56e59addc67d4d67",
+        "Brand": "NetZero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot clearly displays the NetZero logo at the top and includes a sign-in form specifically for the NetZero Message Center, suggesting the page is associated with NetZero's webmail services. The footer also contains a copyright message confirming \"\u00a9 NetZero Webmail.\" Additionally, the HTML information provided includes a title of \"Home | NetZero Webmail,\" which directly mentions NetZero, thereby supporting the identification that the brand is NetZero. The inclusion of fields for \"Email Address\" and \"Password\" on the webpage along with a \"Sign In\" button are indications of credential requirements and call-to-action elements respectively. The favicon link having a domain of weebly.com might seem confusing but does not directly impact the primary brand identification of the NetZero webmail page.",
+        "Url": "https://netzero-webmail-107432.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b64ef9ef4778bf022bf1f80323fbfe10bd9338a226b169093cd61ffbd715571c",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "E-mail, Mot de passe",
+        "List of Call-To-Actions": "Submit button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot and HTML information do not reveal any specific brand identity. The lack of a recognizable logo, brand name or any form of distinctive branding elements, such as favicon, logo alt text, or specific footer text, prevents any secure designation of the webpage's brand. The provided HTML tags and their values, like \"Sign in\" for title and \"Se connecter\" for headers_text, only indicate a generic login functionality in French but do not link to any brand. Moreover, the image displays a generic nature scene, adding no insightful detail towards identifying any specific brand. Hence, no confident brand identification can be made from the given materials.",
+        "Url": "https://wkq.fr/f/X47lJ/HJgKD1Ji/"
+    },
+    {
+        "Folder Hash": "b8ffbd64dfa99d3e37956e203094c742345d6452375bbdcc465cf00499a87970",
+        "Brand": "BNP Paribas",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Num\u00e9ro client, Mot de passe",
+        "List of Call-To-Actions": "Consulter mes documents, Valider (Button for submitting login information)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the BNP Paribas logo at the top, which matches the brand mentioned multiple times throughout the text visible on the screenshot and the HTML information. The HTML title (\"BNPPARIBAS NET IDENTIFICATION\") also confirms the identity of the website as belonging to BNP Paribas. Specific details like email addresses provided (nc.demat@bnpparibas.com) and references to services explicitly linked to BNP Paribas further reinforce the identification of the brand. The included phrases such as \"Espace s\u00e9curis\u00e9 BNPPARIBAS.NET\" and instructions within the screenshot and HTML content align with the presentation and terminology typically used by financial institutions like BNP Paribas for their online platforms.",
+        "Url": "https://www.taka.com.mx/pv/dist/js/pages/chartist/groupbnpparibasnc/app/user.php"
+    },
+    {
+        "Folder Hash": "cb8de0eb3aa49fb382799d2d4457e838b4bd036dfbf8b9c4ed64147fecbe952e",
+        "Brand": "bpost",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cardholder name, Card number, Expiration date, CVV(CVC), Phone",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"bpost\" is prominently visible on the top of the webpage screenshot where it combines with the webpage's favicon icon lineage, also inferred from the HTML title which confirms the webpage as being associated with 'bpost'. There is an evident credit card payment form on the webpage, asking for sensitive credentials such as the cardholder's name, card number, expiration date, CVV, and phone number. This form is designed for transaction purposes, evidenced by the detailed breakdown of parcel number and transaction amounts. The 'Next' button on the form acts as a call-to-action, encouraging users to proceed to the next step in their transaction. The combination of visual and HTML evidence strongly supports that the brand is bpost, with a high level of confidence.",
+        "Url": "https://pakket-bpost-be.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "da9b8f6bdc3e88e6e63acd994af58d87a965a27d92931bd273a8d9a3c4ec0447",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "H\u1ecd t\u00ean (Name), Ng\u00e0y sinh (Date of birth), \u0110\u1ecba ch\u1ec9 (Address)",
+        "List of Call-To-Actions": "\"\u0110\u0103ng nh\u1eadp\" button for Facebook login, \"Nh\u1eadn Qu\u00e0\" button to submit birthday gift form",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot presents an interface for a game-like platform, prominently featuring a login section through Facebook. The HTML information, particularly mentions \"Garena Free Fire Membership\" in the title and links a favicon with a URL that includes 'garenanow,' which is associated with Garena, known for the game Free Fire. Paragraph text from the HTML emphasizes activities such as accumulation of diamonds and a loyalty wheel spin, features consistent with gaming platforms like Free Fire. The provided evidence strongly ties the webpage to the Garena Free Fire brand, further compounded by the domain name in the favicon URL and specific references to in-game currency (Kim C\u01b0\u01a1ng, which means diamonds in Vietnamese) and gameplay elements.",
+        "Url": "http://ff.memberrs.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    }
+]

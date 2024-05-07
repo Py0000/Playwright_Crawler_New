@@ -1,0 +1,79 @@
+[
+    {
+        "Folder Hash": "0e4582d1db1403de859a5b4265acb69e80016bb02a1a932c2580000801932fec",
+        "Brand": "Cupom-de-Desconto.com",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Pegar Cupom\" buttons for acquiring discounts",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The webpage and findings from the HTML script indicate that the primary brand is \"Cupom-de-Desconto.com,\" prominently displayed on both the page header and footer, as well as the favicon URL pointing to cupom-de-desconto.com/favicon.ico. Additionally, all promotional content and call-to-action elements are managed through this platform itself, marketing discounts for Ponto Frio products. Although \"Ponto Frio\" appears widely on the page, it is evident it's the focus of deals or coupons offered through Cupom-de-Desconto.com, not the webpage's brand owner. There are no credential fields detected, and the actions are limited to discount coupon collection, validating the observed focus on e-commerce promotions rather than any form of secure user data input or account management interfaces.",
+        "Url": "https://www.cupom-de-desconto.com/ponto-frio/"
+    },
+    {
+        "Folder Hash": "372e6116960e55286a120894035b699ce5a184bc1bcc1d4c3ac20a68f3ec4b55",
+        "Brand": "SFR Business",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Subscribe to newsletter, Me faire rappeler (Request a callback), Nous \u00e9crire (Contact us)",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The brand \"SFR Business\" is directly evident from various elements throughout the HTML information and is confirmed by the image of the webpage. The title \"Politique de protection des donn\u00e9es \u00e0 caract\u00e8re personnel | SFR Business\" and the repeated mentions of \"SFR Business\" in the footer text, headers, and paragraphs provide substantial evidence of the brand. The page title states SFR Business directly which confirms the identity of the webpage. Additionally, the footer text specifically mentions receiving communications from SFR Business, establishing a connection to this brand. There are fields and actions related to email subscriptions which classify as sensitive credentials and call to action for services and newsletter subscriptions, confirming credential requests and calls to action.",
+        "Url": "https://www.sfrbusiness.fr/sfr-politique-de-protection-des-donnees-personnelles.html?eff_cpt=22931728&eff_pr1=**id_bat**"
+    },
+    {
+        "Folder Hash": "8265aae7b50ade829d3ac265f082cbe64ce1aa752aa7cad3f3ebe8e87caf69b9",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly identified as Netflix from multiple elements present in both the screenshot and the HTML information provided. The title in the HTML script is \"Netflix,\" and the favicon is named \"netflixico.png.\" Furthermore, the footer and various texts within the HTML mention \"Netflix,\" substantially confirming the brand identity. The screenshot includes the prominent display of the Netflix logo at the top, which matches the universally recognized logo of Netflix. The webpage explicitly promotes Netflix's services, such as movies and TV shows streaming, which are central to Netflix\u2019s business model. Additionally, the screenshot shows a field for email input under a prompt \"Ready to watch? Enter your email to create or restart your membership,\" confirming that credentials are requested. Likewise, a call-to-action is evident with the \"Get Started\" button near the email input field, prompting users to initiate or renew their membership.",
+        "Url": "https://beyon-d-yadhu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "a26025419c72baf42631231b435e27ec7438f50d1d6ba41dcc918cdcc9782d23",
+        "Brand": "DHL Express",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "info@dhleoyssa.com",
+        "List of Call-To-Actions": "Registration",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The evidence supporting the identification of DHL Express as the brand includes the prominent logo featuring \"DHL\" at the top of the webpage screenshot. Additionally, the footer text in the HTML information includes \"\u00a9 2023 DHL Express. All rights reserved.\" This supports the claim that the webpage is owned by DHL Express. The page is designed to honor the DHL Express SSA Employee of the Year, further confirming its association with the DHL brand. The URL provided for the favicon (https://www.dhleoyssa.com/wp-content/uploads/siteicon-150x150.jpg) also contains 'dhleoyssa' which hints at a DHL-related event or subdomain. The call-to-action for registration is visible on the webpage screenshot, ensuring users' interaction with the site, and email addresses are requested as part of the contact or event queries, pointing to credential collection on the page.",
+        "Url": "https://www.dhleoyssa.com/"
+    },
+    {
+        "Folder Hash": "aa92152333593704107b819af91676431cbdb5c445e4a9312396eaa60ee230d8",
+        "Brand": "Envaselia",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Contactanos\", \"Ir al cat\u00e1logo de productos\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage is confidently identified as \"Envaselia,\" evidenced by multiple mentions and branding elements throughout both the screenshot and HTML data provided. The title \"Empresa de Envases - Envaselia\" and meta description both reference \"Envaselia\" as a specialized packaging company. Additionally, the paragraphs_text and footer_text include specific mentions like \"Envases y Tapones | Envaselia Central de Envases SL\" and \"\u00a9 2018 Envaselia S.L. Todos los derechos reservados,\" solidifying the brand's presence on the site. Moreover, the favicon URL from the provided HTML snippet also includes the brand name within the URL, further reinforcing the identification. This culmination of branding evidence from both the visual and code data corroborates that \"Envaselia\" is indeed the brand of the webpage. The confidence score is slightly less than 10.00 because the logo itself had 'logo_alt_text' data missing which affects absolute confirmation visually, although the rest of the evidence strongly supports the conclusion.",
+        "Url": "https://todosonsantos.com/?gclid=EAIaIQobChMI9LK_-cjiggMVBqFaBR3h8gAXEAAYAiAAEgL7z_D_BwE"
+    },
+    {
+        "Folder Hash": "d8f30a1d70e75a4ed32fc20171e4ae06441aa98d077b3d82b697aba57a4beff7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address",
+        "List of Call-To-Actions": "Enter your email to create or restart your membership, Get started button",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The screenshot prominently displays the Netflix logo and features a recognizable interface style and offers consistent with Netflix\u2019s services, including the promotion of unlimited movies, TV shows, and the ability to watch on various devices. The content in the screenshot and the HTML information such as headers and paragraphs quite clearly refer to Netflix-specific features, such as descriptions of how the service works, content available like \"Stranger Things,\" mentions of device compatibility (\"smart TVs, PlayStation, Xbox, Chromecast\"), and typical Netflix subscription details. Additionally, the listed call to action prompting users to enter their email to get started, which matches with standard online subscription service practices. The coherence between the visual and textual content of the screenshot with known aspects of the Netflix platform increases the confidence in this identification.",
+        "Url": "https://shubhamsharma20061998.github.io/"
+    },
+    {
+        "Folder Hash": "d980baaf9e0647a9529eeba4cbca9738c6558edd5389f4400a70cfc1e11d903b",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "Get started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the screenshot reveals the identity of the webpage as belonging to Netflix, as indicated by the prominent logo at the top and repeated mentions throughout the page. The title provided in the HTML script, \"Netflix Landing Page,\" confirms this identification further. The screenshot prominently features calls to action including submission fields for an email address to \"Enter your email to create or restart your membership.\" This is corroborated by the HTML paragraph text which repeats this instruction. There is also a 'Get started' button visible on the screenshot, serving as a direct call to action. These elements consistently affirm the page belongs to Netflix and supports user interaction by requesting an email address and providing a method to engage via a 'Get started' button.",
+        "Url": "https://shreeompatil.github.io/netflixmobileclone/"
+    }
+]

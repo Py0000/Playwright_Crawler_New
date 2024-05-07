@@ -1,0 +1,79 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "sign-in form (username/email, password)",
+        "List of Call-To-Actions": "\"Sign in\", \"Please sign in to your account to download the file\"",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot prominently displays \"Microsoft 365 for business\" and the browser tabs show \"Microsoft\" and \"Microsoft 365,\" clearly indicating that the webpage belongs to Microsoft. The HTML information supports this identification with the 'title' being referred to as \"Microsoft office 365\". Moreover, the webpage content from the screenshot involves a sign-in form for accessing a file, which matches the call-to-action described in the \"headers_text\" from the HTML info (\"Sign in | Please sign in to your account to download the file\"). The situation and branding in the screenshot and HTML data closely align, confirming the brand as Microsoft with high confidence. The presence of typical Microsoft colors and styling in the webpage design also supports this conclusion. The mention of \"Sign in\" as both a heading and instruction confirms the presence of user credential fields and a direct call-to-action aimed at user interaction.",
+        "Url": "https://sites.google.com/amricalturs.net/download4/microsoft-office-365"
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID, Apple Store Account, iCloud.com",
+        "List of Call-To-Actions": "Watch the event, Manage Your Apple ID, Find a Store, Order Status, Apple Trade In, Shop Mac, Shop iPad, Shop iPhone, Apple Watch Studio",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot provided displays multiple indications of the Apple brand, featuring products like MacBook Pro and iMac, mentioning the new M3 chip family, and layout typical of Apple's marketing style. Mention of \"Singapore\" likely points to a regional version of the Apple website. The HTML information reaffirms this, with repeated references to Apple-exclusive products and services (e.g., Apple Pay, Apple Music, and various device names like iMac, MacBook Pro). The footer text and numerous links detailed within both the screenshot and HTML script indicate a comprehensive navigation structure typical of Apple's official websites, providing an extensive array of Apple products and services.",
+        "Url": "https://www.apple.com/uk/"
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, phone number, password",
+        "List of Call-To-Actions": "Sign up for an account, Forgotten password?",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage can be identified as PUBG Mobile, confirmed by the favicon URL indicating \"pubgmobile.com\" and the logo depicted in the screenshot, also displaying \"PUBG MOBILE\". The screenshot also includes distinct graphical elements typical to the PUBG Mobile game aesthetic. Furthermore, various instances in the HTML information, such as the partnerships and copyright information mentioning \"\u00a9 2022 KRAFTON, Inc.\" and \"\u00a9 2018-2022 Tencent,\" which are known affiliates and publishers of PUBG Mobile, further authenticate the identification. There are fields mentioning sensitive credentials including email, phone number, and password, associated with error messages implying these fields are required to perform actions like logging in or recovering an account, signifying both the possession of such credentials and associated actions on the webpage.",
+        "Url": "https://pubgmobilecorporationevents.klikdisini2023.my.id/"
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "SIGN IN, LOGIN",
+        "List of Call-To-Actions": "SIGN IN, Checkout, Continue Shopping, LOGIN, Back to Cart",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand 'Weebly' comes from the favicon URL provided in the HTML information that points to \"https://www.weebly.com/favicon.ico\", clearly suggesting Weebly's domain. This is complemented by the simple and minimalist design seen in the screenshot, which fits with Weebly\u2019s aesthetic as a web hosting service. The screenshot indeed shows a sign-in option and a shopping cart functionality, indicating user interaction for account access and e-commerce. The presence of 'SIGN IN' and 'LOGIN' validates the handling of user credentials. Additionally, the HTML information contains multiple references to actions related to the shopping cart and user login, which supports the presence of payment and account access functionalities, common on Weebly-hosted e-commerce sites. These details collectively heighten confidence in identifying the brand despite some text fields marked as \"Not Found\" in the HTML information.",
+        "Url": "https://mail-102784.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Home, Category, Cart, Orders, My",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The brand is identified primarily from the title information in the HTML script which states \"Amazon\". Furthermore, although there is no logo visibly identified in the provided screenshot or from the logo alt text (as it is marked \"Not Found\"), the title is a strong piece of evidence. The favicon link provided (https://www.amazon258.top/favicon.ico) includes the brand name as part of the URL, which supports the identification of the brand. The website, despite not having the typical Amazon URL, appears to market and distribute a wide range of products akin to what Amazon may offer as indicated by the extensive list of luxury goods, watches, electronics, etc., described in the paragraphs extracted from the HTML. This overall setup is typical for a comprehensive e-commerce platform like Amazon. No fields asking for sensitive user credentials such as email, password, or phone numbers are evident in the HTML information provided. However, there are clear call-to-action elements through navigational buttons such as Home, Cart, and others which typically aim to guide user interaction and potential purchasing processes on the site.",
+        "Url": "https://www.amazon258.top/"
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "Mail.com",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand \"Mail.com\" is primarily based on the URL visible in the HTML information snippet which reads \"https://mail.com/\". This URL implies that the branding of the webpage likely aligns with Mail.com. The screenshot shows a login portal with \"Username\" and \"Password\" fields, which confirms the page is used for user authentication, thus marking the presence of sensitive credentials. It also features a \"Sign in\" button, highlighting a clear call-to-action for users to log in. The use of the generic \u2018m\u2019 logo in the screenshot suggests a match with the Mail.com\u2019s branding, despite the lack of specific logo text or additional identifiable information in the HTML directly provided.",
+        "Url": "http://pub-b2955bd5cc5a447cba7f9017e8915538.r2.dev/webmail.html"
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "bitbank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Login, Sign up (\u65b0\u898f\u767b\u9332)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as \"bitbank\" is primarily supported by the content of the HTML information provided. Specifically, the favicon URL contains \"bitbank,\" and the meta description also clearly mentions bitbank as a functional cryptocurrency exchange. Moreover, the Japanese text in the screenshot is consistent with standard login forms typically used on Japanese web platforms, aligning with bitbank's language and target user demographic. These details are strongly indicative of bitbank's branding and its services, thus providing high confidence in identifying the brand accurately. Also, the existence of credential fields for \"Email address\" and \"Password\" alongside the call-to-action capabilities like \"Login\" and \"Sign up\" add to the proof of brand usage and webpage functionality.",
+        "Url": "https://bitbaink.web.app/login"
+    }
+]

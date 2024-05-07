@@ -1,0 +1,212 @@
+[
+    {
+        "Folder Hash": "016cd121e62de4ee0067f78763543cfb6ef088021a9c8ba113dc6289cf2d0932",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Twelve-Recovery Phrase",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand is determined based on the prominent use of the \"Coinbase\" logo at the top of the screenshot. This matches the known branding style of Coinbase, which is a major cryptocurrency exchange platform. The evidence is further supported by the context of the webpage, which involves entering a \"Twelve-Recovery Phrase,\" common in cryptocurrency services as a secure way to regain access to an account. The presence of a \"Continue\" button serves as a call-to-action, prompting users to input their recovery phrase and proceed, implying the collection of sensitive user credentials for continued access or setup. This assessment aligns with typical user interaction sequences on digital currency platforms, which makes the identification of Coinbase highly probable.",
+        "Url": "https://third-friendly-diadem.glitch.me/jade.html"
+    },
+    {
+        "Folder Hash": "02af6327250b9e12424c2dcb37e0a558d503af1aa75e2cbbd7e52235af0b5651",
+        "Brand": "Sky",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Username, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The screenshot and HTML information suggest that the primary brand is Sky, which is prominent in the page title (\"Home | sky\") and visually reinforced by the logo of Sky and Yahoo! Mail co-branded in the header of the screenshot. The presence of the Weebly favicon URL (\"https://www.weebly.com/favicon.ico\") might suggest a service involvement by Weebly in hosting or developing the page, but it does not change the primary branding of the website to Sky. The credentials fields are apparent directly on the sign-in form shown in the screenshot, asking for \"Email or Username\" and \"Password\". There are also several call-to-action elements related to the Credentials process, specifically a \"Sign in\" button highlighted in the screenshot, confirming user interaction to access their account. The precision score is fairly high due to the visible evidence aligning multiple components of the webpage to the Sky brand, although multiple brands (Sky, Yahoo, Weebly) are displayed.",
+        "Url": "https://sky-102647.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "03412d8accfcc1a53471c78a46e9fbacaf8c274e6977deddcfa4b28c4f929399",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://nationwide-online.net/"
+    },
+    {
+        "Folder Hash": "064f22dcda675c4108a7c77a957450faf5d1c2ad24ea2774d44cdcff122e4f11",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "LOGIN",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand identification as Microsoft is significantly supported by key elements in the screenshot and the HTML information provided. The screenshot prominently features the Microsoft logo at the top, immediately identifying it as a Microsoft-branded page. Additionally, the \"headers_text\" from the HTML information includes \"MICROSOFT\" as a main header, reinforcing the brand identity. The presence of credential fields for email address and password, and a call-to-action for \"LOGIN\" are evident in the screenshot provided. The favicon link directs to \"weebly.com\", suggesting that the page might be hosted on Weebly's platform, but the consistent branding throughout the page and header information points distinctly to Microsoft. The decision not to consider the brand as Weebly is due to the explicit and dominant display of the Microsoft logo and associated branding elements in the provided materials.",
+        "Url": "https://mail-105934.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "06a867da9e9f012e77681b23f89fb20b7c0fdbeee1a447cae22d2291e205673d",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Nama Facebook, Nomor Telepon / Email, Password, Tanggal Lahir, WhatsApp Untuk Dihubungi",
+        "List of Call-To-Actions": "Konfirmasi button",
+        "Confidence Score": "4.50",
+        "Supporting Evidence": "The page prominently features the \"Meta\" logo in two places: as part of an illustration and explicitly labeled under a representation of a login form. However, caution is warranted as the webpage also indicates it's \"Powered by Weebly,\" suggesting that it might be constructed using a website builder, hence my limited confidence score. Additionally, the presence of both the Meta logo and its prominent display in the screenshot pushes the identification more towards Meta, however, without corroborating evidence from the HTML script that verifies the full legitimacy of this representation, absolute certainty remains moderated. The HTML title and span texts also provide some thematic relevance to account recovery (\"Pemulihan Akun\"), which could be related to services provided by platforms like Meta (Facebook). The webpage has fields typically associated with personal account management, supporting the hypothesis that this is an account verification or recovery type page, which are common in Meta platforms.",
+        "Url": "https://pulihkan-fb2023.weebly.com/verif.html"
+    },
+    {
+        "Folder Hash": "0771b311818476f1401c4c874c92aad5f3ac420daf43afd853a869f4e1b1a9af",
+        "Brand": "eBay",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register, Log in",
+        "List of Call-To-Actions": "Register button, Log in button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand eBay is highly supported by the prominent presence of the eBay logo in the center of the webpage screenshot. The logo, displaying the characteristic colorful eBay text, is a primary element for brand recognition. Further, the screenshot indicates functions related to user interactions such as \"Register\" and \"Log in\" buttons, which directly lead to pages asking for user credentials, specifically a username or email and a password. These elements bolster the identification as being for eBay, despite the HTML script providing limited additional confirmatory details due to several 'Not Found' entries. The presence of navigation or user interaction elements like these confirm typical characteristics of an authentication page.",
+        "Url": "https://ebaymg.com/index/user/login"
+    },
+    {
+        "Folder Hash": "07994fdc46c0900efa4814964924ba7b8029d1684cb2244da7bb2d295356e716",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Message Now",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage can be confidently identified as Telegram based on multiple indicators. Firstly, the favicon URL used in the HTML information is sourced from \"https://telegram.org\", specifically indicating Telegram's website. Additionally, the layout and design of the screenshot, including the prominent Telegram logo at the top, affirm this identity. The screenshot also does not show any fields that would indicate the collection of sensitive user credentials such as email, password, or phone numbers; it primarily features a large \"Message Now\" button, which serves as a call-to-action but does not pertain to collecting sensitive information. This analysis is consistent with the visual and textual content observed in the screenshot and supported by the favicon link.",
+        "Url": "https://the-real-life-company-singapore.real-www.com/"
+    },
+    {
+        "Folder Hash": "081c65126aa5a2b56b4a4f92eedb0015cce1d0715658a487e7babbe3ff97d013",
+        "Brand": "EE",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Login",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The brand is clearly indicated as EE in multiple elements within the screenshot and the HTML information provided. The logo and promotional content refer to EE, and the domain name in the favicon URL also supports this identification (//ee.co.uk/...). The title and metadata also imply EE's branding with mentions of superfast 5G & 4G, consistent with EE's product offerings. Additionally, EE Limited is explicitly mentioned in footer text and copyright notice which adds to the confidence. The presence of fields for entering email and password and call-to-action for login are assumed based on visual cues and the common layout features of such webpages.",
+        "Url": "https://ee.co.uk/"
+    },
+    {
+        "Folder Hash": "09a7e39cde421652c13fc156c85cb35795054795ec5fb67543592de8a74af019",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, or Skype; Password",
+        "List of Call-To-Actions": "Next",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot features a Microsoft logo and mentions Outlook, indicating the page is a sign-in interface for Microsoft Outlook. The HTML title \"Home | Outlook\" supports the presence of an Outlook service. The presence of a username/email and password fields, along with a 'Next' button, indicates fields for user credentials and call-to-action elements relevant to logging in. Moreover, the favicon URL points to Weebly, suggesting usage of Weebly's services, possibly for hosting or a mix of services, but the primary service and branding indicated in the screenshot and HTML information relate to Microsoft Outlook.",
+        "Url": "https://outlook-100237.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "0c0608968fc943052de38332b504e7ff00debaba5e1cb2c314a535342e8a7649",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Log In, Create New Account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Facebook is based on multiple elements visible in the screenshot and corroborated by the HTML information. The logo \"facebook\" prominently placed at the top center of the page clearly identifies the brand. The HTML title \"Facebook-login or Signup\" directly supports this identification. Additionally, the presence of text in both the screenshot and header in HTML (\"Facebook helps you to connect and share with the people in your life.\") reinforces the identification. The footer text includes multiple languages, often seen on global platforms like Facebook. The form on the login page requesting \"Email address or phone number\" and \"Password\" as well as options to \"Log In\" or \"Create New Account\" identifies typical credentials and call-to-action features associated with access-controlled services like social media platforms, specifically Facebook.",
+        "Url": "https://harjai16.github.io/Facebook-login-page/"
+    },
+    null,
+    {
+        "Folder Hash": "5567e926418568c90a1a3ebc6c5aba94d81b4b7b19f6cf255cf54d39fc5a01a0",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "\"Get Started\" buttons",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is based on clear visual and textual cues from both the screenshot and provided HTML information. The screenshot prominently displays the Netflix logo at the top, which is distinctive and unique to Netflix. Additionally, the HTML title \"www.Netflix.com\" directly references the brand, affirming its identity. Visual content on the page, such as images from popular shows and movies, aligns with Netflix\u2019s streaming service offerings. The phrases within the headers_text such as \"Join today. Cancel ANYTIME.\" and \"Create profiles for kids\" are typical to Netflix's marketing language. The input fields for the email address and call-to-action buttons labeled \"Get Started\" are directly related to signing up or logging in, which is standard for subscription-based services like Netflix. The specificity of these details leaves no ambiguity about the brand identity, leading to a high confidence score.",
+        "Url": "https://shivanshu-mall.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "64bd0f8100a8087eec7f6cd924dbeaf5c94ba21ccd475180c4c45226950a9d0c",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u767b\u5f55 (Login), \u6ce8\u518c (Register)",
+        "List of Call-To-Actions": "\u767b\u5f55 (Login), \u6ce8\u518c (Register)",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand \"bet365\" is prominently visible in multiple elements on the webpage screenshot including the logo and domain names shown in the browser tabs. This is corroborated by the HTML information provided where the title is listed as \"bet365.\" Both the screenshot and HTML information consistently show the brand across various UI elements, indicating a high level of confidence in identifying the brand. The presence of fields labeled \"\u767b\u5f55\" (Login) and \"\u6ce8\u518c\" (Register) in the HTML text further supports the identification of credentials fields and calls to action for user interaction.",
+        "Url": "https://www.7365win.com/#/home"
+    },
+    {
+        "Folder Hash": "6ecf057eab4cdf1d0f1dd653432b638534f66727ee1bb85c66b721a770c62766",
+        "Brand": "GNDI",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "phone number",
+        "List of Call-To-Actions": "\"Cote Online\", \"Ligar\", \"Cota\u00e7\u00e3o Online\"",
+        "Confidence Score": "9.75",
+        "Supporting Evidence": "The brand is prominently displayed in both the screenshot and the HTML content, with repeated mentions of \"GNDI\" and formulations around it, such as \"Plano de sa\u00fade GNDI.\" The HTML title, headers, and paragraph texts all strongly emphasize the brand. The screenshot features multiple logo displays with \"GNDI.\" Furthermore, the phrase \"Plano de sa\u00fade GNDI\" appears systematically throughout the webpage content. There are visible call-to-action buttons on the webpage, such as \"Cote Online\" and \"Ligar,\" designed to prompt direct actions from the user. Also, the need for the user's phone number as a part of the interaction for callbacks further suggests collecting sensitive user credentials. The confidence in identifying the brand from these elements is high due to the clear and repetitive usage throughout the visual and descriptive aspects of the webpage.",
+        "Url": "https://www.gndisa.com.br/"
+    },
+    {
+        "Folder Hash": "7b2496e3855dbf20d62f039b8e6a40e3e00fe70cd76616833d894a6e2e70fa9e",
+        "Brand": "Discord",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login",
+        "List of Call-To-Actions": "Download for Windows, Open Discord in your browser, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is based on the screenshot and HTML information provided. Both the screenshot and HTML title (\"Discord | Your Place to Talk and Hang Out\") prominently display the Discord logo and mention \"Discord\" at multiple instances, which confirms the brand identity. The screenshot shows a webpage layout typical for Discord with familiar graphical style and branding elements like mascot characters. Additionally, keywords such as 'Nitro', 'Discover', and 'Talk, chat, hang out', commonly associated with Discord's services, support this identification. The header in the HTML information contains 'Login' and 'Download' suggesting credentials and calls to action, confirmed by the 'Login' button visible in the top right of the screenshot. Therefore, identifying the brand as Discord is done with complete confidence.",
+        "Url": "https://discordapi.aiparty.art/"
+    },
+    {
+        "Folder Hash": "7f5b2d71e5c2f6efc21837e3fd354d88a6062315eb174fc992ee8c30bf1c6318",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Sign In",
+        "List of Call-To-Actions": "Watch Free For 30 Days, Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is based on the information provided in the screenshot and HTML script. The logo prominently displayed in the screenshot and the use of branding elements such as the unique trademarked red color and distinct font style clearly indicate the webpage is related to Netflix. Additionally, the HTML title \"Netflix Landing Page Clone\" confirms that the style and design are meant to mimic or directly represent Netflix's branding. Key phrases in the headers and paragraphs such as \"Watch TV shows and movies anytime, anywhere \u2014 personalized for you\" and \"Watch anywhere. Cancel Anytime\" are consistent with Netflix\u2019s known marketing language. Furthermore, the footer includes typical Netflix navigational elements like \"Netflix Originals,\" \"Privacy,\" and \"Cookie Preferences,\" further solidifying the identification. The \u2018Sign In\u2019 button highlighted in the header indicates the page asks for credentials, and the prominent \"Watch Free For 30 Days\" button serves as a direct call-to-action inviting new users to start a trial, thus engaging them to potentially provide personal information to create an account.",
+        "Url": "https://jamesya28.github.io/Netflix_Landing/"
+    },
+    {
+        "Folder Hash": "95fd3cc601baaa4dac2bd92065bcaad8ffbdf0bcd5e9cfbd8fbd7c2058784a21",
+        "Brand": "Microsoft 365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Sign in, Sign up for the free version of Microsoft 365",
+        "List of Call-To-Actions": "Sign in, Learn more, Sign up for the free version of Microsoft 365, Buy now, Explore more at Microsoft Create",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot provided displays a clear visual identity of Microsoft 365 with prominent logos and the naming of the brand visible in multiple locations, including the tab name and primary headers. The HTML information matches this branding exactly, with repeated references to Microsoft 365-specific products and services throughout the HTML titles, headers, favicon URL, and footer text. Additional supporting evidence includes the intro text saying \"The all-new Microsoft 365\" and nav bar labels confirming it\u2019s a Microsoft 365 product page. The operations available like sign-in and sign-up also follow Microsoft\u2019s standard online feature set.",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "a56175fd70509eab7e00a834452ec9fc469408b7c43e9592ea14a3c845b93a36",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the Netflix logo at the top, with images of various well-known Netflix original series and movies, establishing it as the Netflix brand. Additionally, the HTML script explicitly states \"Netflix\" in multiple locations including the title and the frequently asked questions which further verifies the identity. The phrase \"Ready to watch? Enter your email to create or restart your membership,\" seen both in the HTML headers and twice on the actual webpage, matches the call to action for entering an email address and clicking the \"Get Started\" button. These elements strongly support the identification of the webpage as belonging to Netflix.",
+        "Url": "https://ayush979876.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "ceb43c6f039ec7c362e6f60162dd54e222569a2fdc9a0e60ca5db8edd3092006",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "GET STARTED",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand can be clearly identified as Netflix based on the logo visible in the provided screenshot, which prominently displays the Netflix name. The HTML script's title being \"Netflix\" further confirms this identification. Additionally, the footer text and several links in the footer (like \"Netflix Originals,\" and contact numbers specific to Netflix customer service) support this identification. The screenshot prominently features Netflix's typical branding elements like its red color theme and marketing copy \u201cUnlimited movies, TV shows and more.\u201d Furthermore, the page content refers to membership options, indicative of Netflix\u2019s subscription-based service model. The repeated prompts to enter an email address to start or restart a membership align with typical Netflix signup or login interfaces, indicating the presence of both credentials fields and a call to action for signing up.",
+        "Url": "https://nisha-kashyap742.github.io/netflix.github.io/"
+    },
+    {
+        "Folder Hash": "daa641388c63caed2ad541cb1e646952ab56661c5d6f75fec13dfe673aea542c",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "phone numbers, possibly email",
+        "List of Call-To-Actions": "join group using link, search for your account, reset password",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot and HTML information exhibit characteristics of a WhatsApp application interface, particularly a group chat section. Firstly, the layout, fonts, and styling, as seen in the screenshot, are consistent with WhatsApp's design. The mention of \"pesan dan panggilan terenkripsi secara end-to-end\" aligns with WhatsApp's known features of offering end-to-end encrypted messages and calls. The use of the phone number format and handling, including the prominence of country codes, reinforces this identification. The favicon's URL contains \"wa-img,\" which suggests a relation to WhatsApp (\"wa\" frequently being shorthand for WhatsApp). Although exact logos are not visible due to \"Not Found\" in logo_alt_text, the overall visual and textual clues lead to a high confidence in identifying the brand as WhatsApp. Furthermore, examples of sensitive user credentials mentioned involve phone numbers and possibly emails embedded within the context, including prompts related to account issues (\"Kata sandi salah\" and \"Cari akun Anda\") confirm the handling of credentials and corresponding actions on the platform.",
+        "Url": "http://chat-whatsapp.garstfa.my.id/"
+    }
+]

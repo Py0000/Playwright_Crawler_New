@@ -1,0 +1,200 @@
+[
+    {
+        "Folder Hash": "00a3ba349a28bcde9b275ae3fc88e3664348a7d42ea9c117b81a84702477d518",
+        "Brand": "OnPoint Community Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "Login ID, Password",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the login page of OnPoint Community Credit Union. The HTML information contains the words \"OnPoint Community Credit Union\" in the title and span elements. The logo in the screenshot also matches the logo of OnPoint Community Credit Union.",
+        "Url": "http://netcosecurity.com/on/online/l1.php/index.html/index.html/index.html/index.html/index.html/index.html/index.html/index.html/Genny/index.html/index.html/index.html"
+    },
+    {
+        "Folder Hash": "00d53af26a171113d0a536a4bb214d69a89e71beae2db3b1cec648ed68d6f365",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Agree & Join LinkedIn, Get started, Find a job, Post a job",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words \"LinkedIn\" and \"Sign In\" in the title. The logo in the screenshot is also that of LinkedIn. The footer text also says \"LinkedIn\". The webpage is likely to be the official website of LinkedIn.",
+        "Url": "https://www.linkedin-hiring.cc/"
+    },
+    {
+        "Folder Hash": "01bab3a0a26aa032126e394e3a1aa81c33a8d778572068cbdb0b0c3af31c8277",
+        "Brand": "Chorus Pro",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "CONSULTER MA FACTURE FOURNISSEUR",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the logo of Chorus Pro. The title of the page is \"Bienvenue sur le Portail Chorus Pro\". The footer of the page says \"powered by ukit\". The source code of the page contains the following text: \"Bienvenue sur le Portail Chorus Pro\". All these pieces of evidence suggest that the brand of the webpage is Chorus Pro.",
+        "Url": "https://chrorusprofact.ukit.me/"
+    },
+    {
+        "Folder Hash": "03e8fa3008fff4e140e8f8d4a91affaae8bb92d6cc96a13e1861f5af61e3f2d4",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "Not Found",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"MetaMask\", and the logo in the screenshot is also of MetaMask. The footer contains the text \"\u00a92021 MetaMask \u2022 A ConsenSys Formation\". The HTML script also contains references to \"MetaMask\".",
+        "Url": "https://metamaskwallet-extension.ddnss.eu/FMfcgzGwHftwbwTCZZfrcHKbNNPtZzMM/bMmNwhmlgsV/7ed3b/"
+    },
+    {
+        "Folder Hash": "0437c0d70c997cc8b00d5e648d97c198d6ec858fe57a2529f0266909fc489221",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in, Continue with Google, Sign in with Apple",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"LinkedIn Login, Sign in | LinkedIn\", and the logo is LinkedIn's logo. The footer text is also \"LinkedIn\". The page has fields asking for sensitive user credentials such as email and password. It also has call-to-action buttons such as \"Sign in\", \"Continue with Google\", and \"Sign in with Apple\".",
+        "Url": "http://www.smartcaretrack.gogreencloth.com/core/linkedin/index.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "043b2acf520e2a49fd646e5f243431b277540dde2b7ad530f294a3c4c54af2af",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Facebook logo and the text \"Your account has been locked\". The HTML script contains the text \"Facebook\" and \"Account lockout date: November 20, 2023\".",
+        "Url": "https://verification-page-ads.com/hrEdX9ovD45Uh1RI4hqknuV4kxNBmPiJe77eIoBsgddj61TCRyDOdN4bpopnOBH3yyhGQQKuTshVKon7Trangdau.html"
+    },
+    {
+        "Folder Hash": "05c5b660d1fb4c3f2b0c25b15e5a2bd936d44271b6976bdc14049843afca1e91",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Create Promotion, Apply",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words \"Facebook\" and \"Meta\" in the title and meta description, respectively. The logo is also the Facebook logo. The footer text contains the words \"Facebook\" and \"Meta\". The headers text contains the words \"Facebook\" and \"Meta\". The navigation bar content contains the words \"Facebook\" and \"Meta\". The paragraphs text contains the words \"Facebook\" and \"Meta\". The span text contains the words \"Facebook\" and \"Meta\".",
+        "Url": "https://facebook-clone-c0j.pages.dev/"
+    },
+    {
+        "Folder Hash": "0645de78ba6dd8e84fe462785095a383cc6ed2782f9b61ba9f29827ebb1ee13f",
+        "Brand": "Banco BPM",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Codice utente, Identificativo utente, Password",
+        "List of Call-To-Actions": "Accedi, Scarica YouBusiness App",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo of Banco BPM is clearly visible in the top left corner of the screenshot. Additionally, the words \"YouBusiness Web | Banco BPM\" are present in the title of the webpage. The footer of the webpage also contains the words \"BANCO BPM GRUPPO BANCARIO\". All these pieces of evidence strongly suggest that the brand of the webpage is Banco BPM.",
+        "Url": "https://youbusinessweb-bancobpm.web.app/sessionid#ba2a78ef3eaf0cffe9b76fab86c9183d"
+    },
+    {
+        "Folder Hash": "06ce081ff698c6cce724138b8cbf97adf34780f731b09e30f3d1f8c4023805e3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Facebook | pihak-resmi-id\", and the logo is also Facebook's. The page also has a Facebook-themed background. The form on the page asks for the user's name, email or phone number, password, and date of birth, which are all sensitive user credentials. The page also has a \"Masuk\" button, which is a call-to-action button.",
+        "Url": "https://pihak-resmi-id-105551.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "0704fbad1073d25d693587687b5a3a05f1dae8b26076216fc7d8527925bb3de2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Microsoft logo and the text \"Microsoft\" in the title bar. The page also has a form with fields for entering an email address and password. The page also has a link to the Microsoft website.",
+        "Url": "http://mexicovierificarsuspencionvalidar.royalwebhosting.net/"
+    },
+    {
+        "Folder Hash": "140e7476ee0343f602e53a3149797c4df4621c10b964f6342a34533781adf290",
+        "Brand": "Nike",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.80",
+        "Supporting Evidence": "The brand logo is clearly visible in the top center of the screenshot. The footer contains the text \"Copyright \u00a9 2023 Unitens. Todos os direitos reservados.\", which indicates that the brand is Unitens.",
+        "Url": "https://unitensloja.site/"
+    },
+    {
+        "Folder Hash": "1609c8ef7f93c3cc34b5f6679bf8943be89d2dcb0607ea94cf3a4ff99b56ec4c",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign up, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Microsoft\", and the logo is also that of Microsoft. The footer text contains \"Microsoft Corporation\". The login form contains fields for email and password. There are two call-to-action buttons, \"Sign up\" and \"Login\".",
+        "Url": "https://onedrivelseeattachfile.web.app/"
+    },
+    {
+        "Folder Hash": "33932ac057385308009b54178640b8eb5fb848749a1642de0fabdcf16cc68646",
+        "Brand": "Adobe",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Adobe logo and the text \"Adobe Acrobat\" in the header. The page also has links to Adobe's other products and services. The HTML script contains the following information:",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "5e1a287812762ebd7e044d6c7a61644c4b3dc26669d9a5bf0b6de2fb92e927a2",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://secured.cloudsurveillance.net/0b22b244-593f-428f-883a-f0c6eccd7cc0"
+    },
+    {
+        "Folder Hash": "721a476d024a0dfd32057c312a00b60d6d2f3f751a1bb09548dcd11e9ba634aa",
+        "Brand": "Post",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The Post logo is clearly visible in the top left corner of the screenshot. The title of the page is \"Post - Zahlen Sie die zus\u00e4tzliche Geb\u00fchr von 2\u20ac\u201d and the footer contains the text \"Post\". Additionally, the HTML information contains the following information:",
+        "Url": "https://wsx.vvo.mybluehost.me/wp-admin/AGJ/LoginServices/"
+    },
+    {
+        "Folder Hash": "8ca024cdc6d763e242452e3fd44805aa1c00c159c982e8d68e9e7ceaaf1586e0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in, Start, Buy Microsoft 365",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Microsoft\" in the title and in the footer. The logo in the screenshot also matches Microsoft's logo. The webpage also has links to other Microsoft products and services. The HTML script contains the following information: \"Microsoft OneDrive\", \"Microsoft 365\", \"OneDrive\", \"Windows\", \"Office\", \"Outlook\", \"Teams\", \"OneNote\", \"Edge\", \"Skype\", \"Surface\", \"Xbox\", \"HoloLens\", \"PowerPoint\", \"Excel\", \"Word\", \"Visio\", \"Project\", \"Access\", \"Publisher\", \"InfoPath\", \"SharePoint\", \"Yammer\", \"Dynamics 365\", \"Power BI\", \"Azure\", \"Visual Studio\", \".NET\", \"SQL Server\", \"Windows Server\", \"Exchange Server\", \"System Center\", \"Windows 10\", \"Windows 8.1\", \"Windows 7\", \"Windows Vista\", \"Windows XP\", \"Internet Explorer\", \"Microsoft Edge\", \"Google Chrome\", \"Mozilla Firefox\", \"Safari\", \"Opera\", \"Android\", \"iOS\", \"Mac\", \"Linux\", \"Java\", \"Python\", \"C++\", \"C#\", \"Visual Basic\", \"F#\", \"JavaScript\", \"TypeScript\", \"PHP\", \"Ruby\", \"Java\", \"Python\", \"C++\", \"C#\", \"Visual Basic\", \"F#\", \"JavaScript\", \"TypeScript\", \"PHP\", \"Ruby\", \"Go\", \"Swift\", \"Kotlin\", \"Objective-C\", \"Delphi\", \"Scala\", \"Clojure\", \"Haskell\", \"Erlang\", \"Elixir\", \"Rust\", \"Julia\", \"Lua\", \"Groovy\", \"Dart\", \"PowerShell\", \"Bash\", \"Zsh\", \"Cmd\", \"PowerShell\", \"Bash\", \"Zsh\", \"Cmd\", \"Git\", \"Subversion\", \"Mercurial\", \"TFS\", \"Jira\", \"Trello\", \"Asana\", \"Slack\", \"Teams\", \"Skype\", \"Zoom\", \"Google Meet\", \"Cisco Webex\", \"GoToMeeting\", \"Zoom\", \"Google Meet\", \"Cisco Webex\", \"GoToMeeting\", \"OneDrive\", \"Google Drive\", \"Dropbox\", \"Box\", \"iCloud\", \"Amazon Drive\", \"MEGA\", \"pCloud\", \"Sync.com\", \"Tresorit\", \"Backblaze\", \"Carbonite\", \"CrashPlan\", \"IDrive\", \"Mozy\", \"SOS Online Backup\", \"SugarSync\", \"Unitrends\", \"Veeam\", \"Acronis\", \"Backupify\", \"Barracuda Backup\", \"Datto\", \"Druva\", \"ExaGrid\", \"HYCU\", \"IBM Spectrum Protect\", \"Commvault\", \"NetApp\", \"Rubrik\", \"StorageCraft\", \"Veeam\", \"Zerto\", \"Zendesk\", \"Freshdesk\", \"Help Scout\", \"LiveChat\", \"Intercom\", \"Drift\", \"Olark\", \"Crisp\", \"Tawk.to\", \"Zendesk\", \"Freshdesk\", \"Help Scout\", \"LiveChat\", \"Intercom\", \"Drift\", \"Olark\", \"Crisp\", \"Tawk.to\", \"Google Analytics\", \"Google Tag Manager\", \"Hotjar\", \"Crazy Egg\", \"Mixpanel\", \"Kissmetrics\", \"Segment\", \"Amplitude\", \"Heap\", \"Pendo\", \"Optimizely\", \"VWO\", \"AB Tasty\", \"Google Optimize\", \"Adobe Target\", \"Marketo\", \"Eloqua\", \"Pardot\", \"HubSpot\", \"Salesforce Marketing Cloud\", \"MailChimp\", \"Constant Contact\", \"Campaign Monitor\", \"AWeber\", \"GetResponse\", \"iContact\", \"ActiveCampaign\", \"Drip\", \"ConvertKit\", \"Ontraport\", \"Klaviyo\", \"MailerLite\", \"Sendinblue\", \"GetResponse\", \"iContact\", \"ActiveCampaign\", \"Drip\", \"ConvertKit\", \"Ontraport\", \"Klaviyo\", \"MailerLite\", \"Sendinblue\", \"Facebook\", \"Twitter\", \"Instagram\", \"LinkedIn\", \"Pinterest\", \"YouTube\", \"TikTok\", \"Snapchat\", \"Reddit\", \"Tumblr\", \"WhatsApp\", \"Telegram\", \"Signal\", \"Wire\", \"Slack\", \"Microsoft Teams\", \"Zoom\", \"Google Meet\", \"Cisco Webex\", \"GoToMeeting\", \"Zoom\", \"Google Meet\", \"Cisco Webex\", \"GoToMeeting\", \"OneDrive\", \"Google Drive\", \"Dropbox\", \"Box\", \"iCloud\", \"Amazon Drive\", \"MEGA\", \"pCloud\", \"Sync.com\", \"",
+        "Url": "https://support.microsoft.com/en-us/office/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2"
+    },
+    {
+        "Folder Hash": "a7130332f01e2cbcfa13cec93ea1d2b256c59188e3ccdb1df21ff3aacc7e958d",
+        "Brand": "WalletConnect Pay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect | Demo",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"WalletConnect Pay\" is prominently displayed as the logo in the screenshot, and the page title is also \"WalletConnect Pay\". The footer text and logo alt text are not found, but this does not affect the identifiability of the brand. The presence of the call-to-action buttons \"Connect\" and \"Demo\" further supports the identification of the brand as a payment platform.",
+        "Url": "https://walletconnectpay.com/"
+    },
+    {
+        "Folder Hash": "d66c28b7d332cbcc89c9c66c1b425043f3e007ef35ee2c7285ecfe9eaa0d57ee",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is mentioned in the title, footer, and logo of the webpage. The screenshot also shows the game's characters and gameplay.",
+        "Url": "https://gunk8tsbvpz.penguasa.de/"
+    }
+]

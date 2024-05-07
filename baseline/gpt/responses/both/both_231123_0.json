@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "003e80f57d7d3d91643b9e13360d311b000b5f860cbbe5f44a3220c8eb0b8562",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Microsoft is strongly supported by several elements within the screenshot and the HTML information provided. The logo in the screenshot clearly displays the Microsoft logo, which is a well-recognized symbol consisting of four colored squares. Additionally, the logo_alt_text from the HTML information is explicitly labelled as \"Microsoft.\" The HTML title \"Sign in to your Office365 account\" further reinforces the association with Microsoft, as Office365 is a well-known Microsoft product suite. The specific URL in the favicon also contains recognizable parts of the Microsoft brand name. The presence of credentials and a call to action match typical login screens, with text fields for entering an email and a password, and a \"Sign in\" button as the action item. These combined evidences lead to a high confidence in identifying the brand as Microsoft.",
+        "Url": "https://pub-82e1c7059b314723aaa0c45158d4ff86.r2.dev/test.html?email=mjacobs@jacobscapital.net"
+    },
+    {
+        "Folder Hash": "00805e3ef1840020f8abe333b63c0d6ab5f90dc45068b9be1c9b0b0ec036278e",
+        "Brand": "FedEx",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Kreditkartennummer, Verifizierungscode der digitalen Karte, G\u00fcltigkeit der Kreditkarte",
+        "List of Call-To-Actions": "Weitermachen button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand is identifiable as FedEx based on the prominent FedEx logo visible at the top of the webpage screenshot. Additionally, the payment form and the fields asking for sensitive financial information directly relate to FedEx's potential services involving shipping payments or similar transactions. No further information is needed to confirm it is a FedEx-operated or branded page, given the unmistakable logo presence. The form includes a button labeled \"Weitermachen\" which serves as a call to action, prompting the user to proceed with the action, which in this context is related to payment processing. The credentials requested on the form are associated with typical online transaction details, confirming the entry of sensitive financial information such as credit card details.",
+        "Url": "https://dreefrotlabareternbjj-dee770.ingress-comporellon.ewp.live/wp-config/LoginServices/index.html"
+    },
+    {
+        "Folder Hash": "010d44b7a4dde54ff32f8d698e0763d63488c0d28b0d4e79ba0f858c3a4f6970",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "PUBG ID veya Kullan\u0131c\u0131 Ad",
+        "List of Call-To-Actions": "Sonraki Ad\u0131m >",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis is based on the screenshot and HTML information provided. The screenshot prominently features the title \"PUBG Mobile UC Hilesi,\" and the HTML's title tag also reads \"PUBG Mobile UC Hilesi 2024,\" which supports the identification of \"PUBG Mobile\" as the brand associated with this webpage. Additionally, the favicon URL includes \"pubguchilesitv1.blogspot.com/pubg.png,\" reinforcing the PUBG Mobile connection. The phrase \"PUBG ID veya Kullan\u0131c\u0131 Ad\" as a required field for proceeding indicates the collection of sensitive user credentials. The button labeled \"Sonraki Ad\u0131m >\" exemplifies a call-to-action element prompting users to proceed, usually after entering credentials. The presented evidence and clear alignment of textual content across the webpage collectively support a high confidence score in the identification of the brand.",
+        "Url": "https://www.pubguchilesitv.com/"
+    },
+    {
+        "Folder Hash": "011e7497d97cdc710598f5c0c851b6933249effc6c4440633c59ad97c1ea3e58",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "LOGIN, Continue Shopping, Back to Cart, Checkout",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "Based on the screenshot and HTML information, the brand of the webpage is identified as Weebly due to the presence of \"weebly\" in the favicon URL \u201chttps://www.weebly.com/favicon.ico\u201d. The screenshot features a sign-in page possibly related to a Weebly-created website, reflecting a typical login interface. Furthermore, considering \"weebly\" in the title of the webpage usually indicates the platform or a user's website created using Weebly. The input fields for 'Email' and 'Password' in the screenshot confirm the collection of sensitive credentials. Moreover, phrases like \"LOGIN\", \"Continue Shopping\", \"Back to Cart\", and \"Checkout\" found in the HTML suggest interactive, call-to-action elements, indicating redirection or data submission processes, typical for user interaction in a shopping or service environment. The confidence in identifying Weebly stems from the distinctive favicon link directly to Weebly\u2019s domain and the structured format consistent with Weebly\u2019s website creation functionalities.",
+        "Url": "https://mail-108167.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "016b180fc4a8d7c88785365bbff8abd1bf48ea5025db19f3f9ed27a09b57291c",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register, Login",
+        "List of Call-To-Actions": "Ship, Track, Register, Login",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The brand is clearly identified by the prominent DHL logo and DHL Express text displayed at the top of the screenshot. The color scheme of yellow and red is also typically associated with DHL. Furthermore, the footer text indicates \"2022 \u00a9 Deutsche Post AG - All rights reserved,\" which supports the identification as DHL, a division of Deutsche Post. Additionally, the navigation includes options for 'Ship' and 'Track', which are services characteristic of a courier company like DHL. The presence of a login and register option supports the presence of user credentials. Moreover, the navigation bar includes recognizable functionalities such as Ship, Track, Register, and Login serving as calls to action directly aligned with typical user interactions on a courier service website.",
+        "Url": "https://socialmediaconsultant.ae/public/6JUWt0UnBE1zNXqxnmBiG7a9Pmr9ocOD"
+    },
+    {
+        "Folder Hash": "021d57265effd0a6e8b6d89031dde447daf9eef1f1f21376311ae0e1eb35d484",
+        "Brand": "Universit\u00e4t Freiburg",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Benutzerkennung, Passwort",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The brand of the webpage is clearly identified as Universit\u00e4t Freiburg based on several pieces of evidence visible in the screenshot and confirmed by the provided HTML information. The logo present in the webpage screenshot features a seal containing the text \"UNI FREIBURG,\" strongly suggesting that it pertains to the University of Freiburg. Additionally, the span text from the HTML script includes \"Universit\u00e4t Freiburg,\" which aligns with the visual branding on the webpage. The paragraph text in the HTML, discussing specific types of accounts related to the university, also supports the identity of the webpage as belonging to or being directly associated with Universit\u00e4t Freiburg. The screenshot also shows a login interface, confirming the presence of credentials fields, specifically labeled as \"Benutzerkennung\" and \"Passwort\".",
+        "Url": "https://www.boundcode.com/i/uni-freiburg.de/"
+    },
+    {
+        "Folder Hash": "02d4ee60440aed450492ef2e223b1787dd36cb22a74efb5ceee908d4d95998e1",
+        "Brand": "Alibaba",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or member ID, Password",
+        "List of Call-To-Actions": "Sign In button, Create account link, Forgot password? link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand \"Alibaba\" is confidently based on multiple indicators from the provided screenshot and HTML information. The screenshot prominently displays the Alibaba.com logo alongside distinctive branding elements like color scheme and promotional content. Further corroboration comes from the HTML data, which includes a title (\"Alibaba Manufacturer Directory - Suppliers, Manufacturers, Exporters & Importers\"), and footer text which repeatedly references Alibaba.com and associated Alibaba Group entities like Taobao, Tmall.com, and Alipay. Additionally, the inclusion of a favicon URL containing 'alicdn.com', which is known to be associated with Alibaba, solidifies the brand identification. The presence of fields for credentials (email or member ID and password) and multiple call-to-action elements (such as the sign-in and create account options) are clear from both the screenshot and HTML headers and span texts.",
+        "Url": "https://syndicalisme.net/wp-includes/w/alibaba/"
+    },
+    {
+        "Folder Hash": "03032749b96251685a83cac2a9af2d839cff7a2b05bfb97ef57cadabd61b3626",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Sign In, Register, Enter your email to create or restart your membership",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Netflix is supported strongly by multiple elements on the screenshot provided. The logo prominently displayed at the top of the page is a critical indicator; it matches the well-known Netflix logo. Additionally, the screenshot's heading and content \"Unlimited movies, TV shows and more.\" and the invitation for viewers to \"Watch anywhere. Cancel anytime.\" are consistent with Netflix\u2019s typical marketing language. Moreover, the HTML title \"Netflix | India\" reinforces that the website is indeed Netflix\u2019s Indian interface. The layout and design visible in the screenshot are also typical of Netflix\u2019s branding and user interface style commonly seen on their official sites globally. Lastly, the call-to-action elements inviting users to 'Sign In' or 'Register' and to enter an email further align with typical user interaction flows on streaming platforms like Netflix, emphasizing the focus on securing and restarting memberships.",
+        "Url": "https://yugal2003.github.io/Assignment-1---Netflix/"
+    },
+    {
+        "Folder Hash": "030b253ba6ba80d2d33f414fb8532079a469486660a0383490a182e8ab65eb06",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Unlock, Forgot password?",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The image features a logo that resembles a fox, which is identifiable as the MetaMask logo. The screenshot shows an interface asking for a \"Password\" with buttons labeled \"Unlock\" and links for \"Forgot password?\", suggesting functionality that engages with user credentials. Furthermore, the provided HTML information includes the title \"MetaMask\" and headers text indicating actions like \"Restore password\" and \"Need help? Contact MetaMask support,\" which consistently point to MetaMask's branding and functionalities. The span text repeatedly mentions \"Ethereum Mainnet,\" which is consistent with MetaMask\u2019s operation as a gateway to blockchain networks. Hence, the strong visual and textual consistency with known aspects of MetaMask supports a high confidence level in identifying the brand.",
+        "Url": "https://coirnmarketcap.com/wallet/?id=metamask"
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Coinbase account",
+        "List of Call-To-Actions": "Connect wallet, Connect with your self-custody wallet, Connect with your Coinbase account",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The analysis is based on the html information and the screenshot provided. The title and meta description refer to \"Aave\" as an Open Source Liquidity Protocol, matching exactly with the logo on the page, strengthening the identification. The screenshot displays \"Aave\" prominently at the top left, suggesting it is the main brand for the webpage. The HTML script\u2019s title, \"Aave - Open Source Liquidity Protocol\" matches with typical branding and nomenclature for Aave, a known entity in the cryptocurrency and blockchain space. A call to connect a wallet suggests user interaction where sensitive login detail (Coinbase account) could potentially be input. The presence of a \"Connect wallet\" button in both the screenshot and html script acts as a direct call-to-action, confirming user interaction points for connecting with a personal cryptocurrency wallet. This evidence aligns well and strongly supports Aave as the identified brand.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "14516ca57b3f04f2cf0de8b79afa686c6a7db04ce1486d64503a590763d2b381",
+        "Brand": "AT&T and Yahoo! (Currently.com)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "LOGIN button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features logos and mentions of both AT&T and Yahoo!, specifically under a collaborative platform called Currently.com. The primary evidence for the brand identification comes from the logo and the mention in the header \"Currently, from Yahoo!,\" along with the AT&T logo in the upper-left corner. This combined branding is consistent with a joint venture or partnership. The login form in the screenshot has fields for User ID and Password, which are standard secure credentials for user accounts. Beside these fields, there is a LOGIN button serving as a call to action, encouraging users to log in to access services from AT&T and Currently.com. The headers text in the HTML information directly matches the text on the login form in the screenshot, confirming the webpage's content focus and associated brands.",
+        "Url": "https://5567879798.weebly.com/"
+    },
+    {
+        "Folder Hash": "50fe90344030b5bd8024772c7e7f81d53ab41f035fd2f5c9fff0a97443fbaf23",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone, Password",
+        "List of Call-To-Actions": "VIEW PHOTOS button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The logo on the screenshot clearly says \"Google\" and matches the standard Google logo colors and font style. The title \"Sign in - Google Accounts\" and the favicon url which points to \"https://www.google.com/favicon.ico\" both solidify the identification of the brand as Google. The screenshot\u2019s design and layout are consistent with Google's known user interface. Additionally, the HTML information refers to \"Google Photos\" multiple times, affirming the service provided by Google. Lastly, the navigation bar text and footer feature language options typically found on Google's websites, although encoded.",
+        "Url": "http://nixolindumentaria.com/kkdv5yI6H6AVxLWFmZxl/d2Ovms1MCtLj74XqzoeOucdrREd29hTrHqFvZtzBdP4blOPJB1m86fP/"
+    },
+    {
+        "Folder Hash": "6c35b11c0d7feff5f0640ce93a5d2f00ad47665f405dd4a76d15f1e6eda7bfa7",
+        "Brand": "Serasa Experian",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "CPF number",
+        "List of Call-To-Actions": "BUSCAR ACORDO",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The brand identification as Serasa Experian is established from multiple sources in the provided screenshot and HTML information. The screenshot prominently features the logo labeled \"Feir\u00e3o Serasa Limpa Nome\" and the textual note \"Entrar na Serasa,\" directing users to engage with services offered by Serasa. Furthermore, detailed footer information in the HTML script explicitly names \"\u00a9 Serasa Experian\" at various addresses, solidifying the identification of the brand. The screenshot shows a field asking users to input their \"CPF\" number, a Brazilian personal identification number, indicating that sensitive user credentials are required. Additionally, the call to action \"BUSCAR ACORDO\" is visible on the screenshot and found in the HTML span_text. Thus, these elements corroborate the presence of both user credentials and call-to-action on the webpage.",
+        "Url": "https://arrastaolimpanome.online/"
+    },
+    {
+        "Folder Hash": "804e1eda5b99ca5a7eab156124b8429e736558b903c7fcb988d3537130c1fd94",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, Skype, Enter Password",
+        "List of Call-To-Actions": "Create One!, Sign in with a security key, Next, Keep me signed in, Forgot password?",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the Microsoft logo followed by the \"Sign in\" prompt, indicating a direct association with Microsoft. Additionally, the HTML information supports this identification, with the title \"Sign in to your Microsoft account.\" The presence of Microsoft-specific terminologies and features in the HTML text, such as \"Sign in with Windows Hello or a security key,\" further confirms the brand identity. The screenshot along with the HTML information consistently points to Microsoft without discrepancies, providing a high level of confidence in the brand identification.",
+        "Url": "https://microsoftsupport.be/fr/demandez/?email=3mail@b.c&secret=CD83a3pTxgh5pujSMIwZjNIAJk0uOa8oXDyi"
+    },
+    {
+        "Folder Hash": "b81e83eb5a6015fd92e5fd9ede8df618fd9f5a95969ccb28dbfff21a4b16fceb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Enter email\" input field, \"Next\" button",
+        "Confidence Score": "9.85",
+        "Supporting Evidence": "The screenshot clearly displays the Microsoft logo and the name \"Microsoft\" at the top. Additionally, the footer in the same screenshot confirms it by stating \"\u00a9 2023 Microsoft.\" The screenshot also displays a form asking for an email address to verify identity and access a secure file, indicating a field collecting sensitive user credentials. The 'Next' button following the email input field acts as a call-to-action element promoting users to proceed with their input, further interacting with the website. These visual and textual cues directly reference Microsoft and correspond in functionality and design to known Microsoft OneDrive identity verification processes, boosting confidence in the identification. Moreover, the text within the HTML information includes \"Verify Your Identity\" and mentions entering professional email credentials, associating directly with Microsoft's verification functionalities for file access.",
+        "Url": "http://www.zksfechaduras.com.br/hjad%20naduyhdamdayajmadsnyad/dcfo/"
+    },
+    {
+        "Folder Hash": "f58f2809ed7aaf27e59d90eeb5077871133d1e49663b398af662a0290aeeddc3",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tracking Code",
+        "List of Call-To-Actions": "Next button to confirm payment",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The brand is clearly identified as DHL from multiple elements within the screenshot and HTML information. The screenshot prominently displays the DHL logo at the top and the title \"DHL TRACKING\". Furthermore, the HTML headers text \"DHL TRACKING\" reinforces this brand identity. The HTML title also includes \"DHL\", further linking the page to this brand. There is a next button for user action suggesting a call to action, and a tracking code is present as a sensitive user credential. The overall presentation and consistent referencing of DHL in the provided elements make it apparent that this page is affiliated with the DHL brand.",
+        "Url": "https://whoyster-adelehool079770.codeanyapp.com/wp-content/uploads/NETDH7748/"
+    }
+]

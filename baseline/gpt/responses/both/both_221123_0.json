@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0023d5ce7e7eb84572b4f6fe9d4883a841023bd836b7781cfc713b1e72ac8a5a",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, password",
+        "List of Call-To-Actions": "Login, Join Now, Forgot Password",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"bet365\" is clearly identified through multiple mentions within the HTML information provided, especially indicated in the title and repeated in descriptive text detailing services and offers provided by the webpage. The favicon path also reinforces this as it contains the directory typically associated with company-specific assets. Additionally, the widespread use of the brand in the narrative describing betting, gaming options, and bonuses, all systematically align with the known offerings of bet365. Moreover, the inclusion of specific web elements such as login, join now, and password reset options correlates with standard website practices for services requiring user accounts, typical of online gaming and betting platforms. The brand identity is visually confirmed in the screenshot where the bet365 logo is prominently displayed on the webpage.",
+        "Url": "https://bet988s.com/home"
+    },
+    {
+        "Folder Hash": "003d297f628fb38c0eb0fad53c163febab6fc878feaccf2e62ad749965d24149",
+        "Brand": "Outlook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "sign in",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The brand identification for this webpage is based on the logo visible in the screenshot, which matches the Outlook logo, a service provided by Microsoft. The title from the HTML information also reads \"Outlook,\" which corroborates the visual evidence in the screenshot. The favicon URL provided in the given HTML details leads to an image that reflects the Outlook logo, aligning with Microsoft's branding for Outlook. This further supports the identification of the brand as Outlook. Moreover, the login fields for 'Email address' and 'Password' indicate a typical login page setup, which is consistent with email service platforms like Outlook. The presence of the 'sign in' button as a call-to-action aligns with common practices on web login pages to encourage users to enter their credentials and access their accounts. Therefore, the evidence pointing towards Outlook as the brand is strongly supported by both visual and textual clues present in the provided materials.",
+        "Url": "https://pub-718c8309d9b14a8084b53d0a2ba966ec.r2.dev/owam-out.html"
+    },
+    {
+        "Folder Hash": "02121e9c2b17a6f9ec15c2a33a3f0bf53c45715b191135a956eff5e67c71760e",
+        "Brand": "Microsoft Outlook Web App",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Correu electronic (Email), Confirma la contrasenya (Confirm Password)",
+        "List of Call-To-Actions": "Submit button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the logo of \"Microsoft Outlook Web App\" at the top, which is a significant element used to recognize and affirm the brand's identity. Additionally, the webpage is designed for user login, specifically asking for credentials such as email and password, indicative of a service like Microsoft Outlook Web App that requires secure access to user accounts. The mention of \"Powered by Weebly\" at the bottom suggests that the page was constructed using Weebly\u2019s platform, but this does not detract from the Microsoft branding. The HTML information lists \u201cInicia sessi\u00f3\u201d in headers_text, consistent with the login theme, and although the HTML\u2019s title states merely \"Home\" without further qualifying brand details, the visual elements in the screenshot are sufficient to confirm the brand identity. The confidence is not absolute due to the lack of logo_alt_text, favicon, and footer text in the HTML information, which if available, might have solidified the confidence further.",
+        "Url": "https://outlookkupdateteam.weebly.com/"
+    },
+    {
+        "Folder Hash": "02702b7bb2ffe7f048827fd282a4b0ccd5cc509572e9c400ed4ae06e78215ad8",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Sign In, Register",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Netflix is supported by several visual and textual elements visible in the screenshot. The large logo on the top-left part of the screen clearly shows \"NETFLIX,\" establishing the brand identity. Furthermore, the page's title as provided in the HTML information (\"Netflix | india\") aligns with this identification. The webpage's purpose is indicated by the tagline \"Unlimited movies, TV shows and more.\" and also in the HTML headers_text. This along with the background tiles showcasing various popular titles visually reinforces the brand's focus on entertainment streaming. The paragraph excerpt from the HTML information, \"Ready to watch? Enter your email to create or restart your membership.\", suggests a call to action encouraging user interaction to sign up or log in, which typically involves entering an email address, indicating the presence of credentials. The headers_text included \"Sign In | Register\" as listed in the HTML information, which serves as a direct call to action for users to access or create their accounts, thus confirming the presence of call to action elements.",
+        "Url": "https://muzammilx07.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "029332bdffafd7fb20351d37cc249016aec88052f780e63c312bdd9272c54728",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Next button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis of the brand for the webpage is based on several indicators from the screenshot provided. The presence of the Microsoft logo and the consistent use of the Microsoft brand color scheme (blue and white) across the webpage design strongly suggest that the page is affiliated with Microsoft. Additionally, the footer text includes \"2023 Microsoft,\" which reinforces the association with Microsoft. Furthermore, the screenshot indicates that the page is used for identity verification, a common feature for Microsoft services, especially in areas involving document sharing and security as suggested by the context of receiving and downloading a secure file. Collectively, these factors provide substantial evidence to confidently identify the brand as Microsoft. The information provided in the HTML script about \"2023 Microsoft\" in the span text aligns with the visual clues from the screenshot, solidifying this identification.",
+        "Url": "blob:https://cloudflare-ipfs.com/4876b9aa-4a54-4bda-bf4a-f18dca171c84"
+    },
+    {
+        "Folder Hash": "02e057e662009be6cb25874ef8c00a4c1139241905f35ca6e6a86ff83354c0cf",
+        "Brand": "s.id",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage can be confidently identified as \"s.id\" based on multiple elements in the provided information. The screenshot itself prominently displays the s.id logo and mentions it in the navigation bar. Furthermore, the HTML info supports this identification, as the term \"s.id\" is consistently used throughout various sections such as the headers, title, and even in the paragraph content where it describes the services and rules associated with s.id. The appearance of \"s.id - \u00a9 2023\" in the footer solidifies this attribution. There is no indication within the screenshot or HTML information provided that fields exist for entering sensitive credentials, nor are there any visible call-to-action elements prompting user interaction for credentials.",
+        "Url": "https://blog.s.id/post/2022/05/19/oops-you-accessing-forbidden-link-what-is-that-9m00gu9i3?utm_source=home_sid&utm_medium=redirect"
+    },
+    {
+        "Folder Hash": "04dbaf92ef0ca1fed2f2eb85bac36e693abdb609b77ae6eb50096805b648a954",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand can confidently be identified as Facebook based on multiple elements found in the screenshot and HTML information. The screenshot displays the Facebook logo at the top, and the domain in the favicon URL \"fbcdn.net\" is associated with Facebook. The span text and the nature of the message about account lockout are consistent with Facebook's security and notification practices. The components are styled in a manner typical of Facebook's design conventions, with specific mentions of Facebook within the text, further affirming the identification of the brand.",
+        "Url": "https://verification-page-ads.com/lDnxYCc3TxKSgVVslCHAiXjcXv1eSif6k0YAo2vrf8gNJO119rBpXuhvMCvy13uA48Yow8xBXFczNxhfTrangdau.html"
+    },
+    {
+        "Folder Hash": "05163733c2cf79688a519d349974d5e2460ee4080f53868a9431f00c8cdb0474",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Next (button for signing in)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification is prominently supported by multiple elements from the screenshot and the provided HTML information. The logo on the top of the screenshot clearly displays \"AT&T\" with the brand\u2019s distinctive globe logo. Furthermore, the HTML 'title' content is \"Home | AT&T,\" and the 'headers_text' information includes \"Sign in | AT&T,\" which link back to the brand AT&T. This evidence is strongly corroborated by the visual representations and the text within the HTML data, leading to a high level of confidence in brand identification. However, the presence of \"weebly.com\" in the favicon URL might suggest some association or platform usage but does not detract from the identified main brand presence of AT&T on the page.",
+        "Url": "https://att-103108.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "06da2b349d8391aed062b2ac23ed538011cd1fc24a85805a7223173dd125a3aa",
+        "Brand": "Gemini",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Sign in, Create new account, Forgot password?",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as \"Gemini\" is based on clear signs from the webpage screenshot and the HTML information. The title explicitly mentioned in the HTML script is \"Gemini - Sign In,\" which matches the heading \"Sign in to Gemini\" seen on the screenshot. Also, the favicon URL provided, although external, reinforces the identification since it's meant to represent the brand icon in the browser tab. The login form directly asking for an \"Email address\" and \"Password\" alongside options for signing in, creating a new account, and resetting a password further supports this evaluation. The confidence in the identification is total given the straightforward evidence provided by both the screenshot and the HTML data.",
+        "Url": "https://renablegemini-signin.web.app/cb0ea6f2d1c9d246f7529c1317e227ac1aa38"
+    },
+    {
+        "Folder Hash": "06dcb99194d692e1b64a50577befe70a1baadadace9dabcb1e1888f52726322f",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address, Password",
+        "List of Call-To-Actions": "NEXT (Sign in button)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as AT&T is highly confident due to multiple supporting evidence from the given screenshot and HTML information. The screenshot prominently displays the AT&T logo alongside text stating \"Sign in to access AT&T Mail and Currently.com\", aligning with the company\u2019s known products and services. The presence of fields labeled \"Email Address\" and \"Password\" indicates that sensitive user credentials are being requested. The button labeled \"NEXT\" acts as a call to action for users to proceed with their login, which aligns with standard practices for login pages. Additionally, the HTML title \"Home | att\" reinforces AT&T as the brand, despite the favicon being linked to Weebly, which suggests usage of Weebly's platform for webpage hosting or construction but does not affect the primary branding of the page.",
+        "Url": "https://att-107333.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "1132d513064f9cbd06d4a67e55d71d05de1b057a83e53bf890fbe38cb7d3ee96",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Enter your email to create or restart your membership",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot and HTML information clearly indicate the brand as Netflix. The title from the HTML information reads \"Netflix India \u2013 Watch TV Shows Online, Watch Movies Online,\" and both the screenshot and the span text clearly display and mention Netflix repeatedly, accentuated by the prominent Netflix logo at the top center of the screenshot. Furthermore, the footer and header contents match the information typically seen on official Netflix webpages, providing consistency in identifying the brand. The presence of a field asking for an email address for starting or restarting membership directly connects with Netflix's subscription-based service, signaling the handling of sensitive data (email) and encouraging user action to engage with the service, thus confirming the credentials and call to action statements.",
+        "Url": "https://kshravyab.github.io/Movies/"
+    },
+    {
+        "Folder Hash": "6a6851eb5446ab402cd5df390b32a4ab9ee1953460ace99c4968db255a548ec8",
+        "Brand": "CREAGICIEL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login, Mot de passe",
+        "List of Call-To-Actions": "Se connecter, Mot de passe oubli\u00e9?",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot displays a login interface titled \"Mon espace client\" and references CREAGIDEM in the login section and in the instructional text below. The logo at the top and bottom of the page spells \"CREAGIDEM,\" indicating the brand name. Additionally, the favicon path contains 'CREA,' which aligns with the CREAGIDEM brand seen in the logo on the webpage. The footer text, while generic in terms of copyright notice and version information, supports the consistency in the webpage design. Moreover, there are form inputs for login credentials (\"Login\" and \"Mot de passe\") and call-to-action buttons for logging in (\"Se connecter\") and password recovery (\"Mot de passe oubli\u00e9\"), which directly corroborate the login functionality displayed. The high degree of branding consistency throughout the visual and textual elements on the webpage supports the identification of CREAGICIEL as the brand.",
+        "Url": "https://tools.creagidem.com/moncrea"
+    },
+    {
+        "Folder Hash": "97b410d0e17b4bb3f6bafe57b4d5e84b3e4aa44ddfa17bd5a84277fb46e5b6f2",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, password",
+        "List of Call-To-Actions": "'Make Account' button, 'Login'",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis is based on the screenshot and HTML content evidence which prominently displays multiple references to \"MetaMask,\" including in the header, navigation bar, and the page content. The title \"Met\u00e1Mask L\u00f3gin | Metamask Sign In\" directly names \"MetaMask.\" Additionally, the favicon URL, although hosted on a different domain (teachablecdn.com), is generally a web asset management strategy and doesn\u2019t influence the branding. The login and account creation processes are outlined, suggesting credential fields like username and password. Buttons mentioned include a 'Make Account' button, characterizing a direct call to action. Confidence is slightly less than perfect due to the presence of some other textual content (e.g., teaching online), although it does not seem to relate to the primary function of the webpage.",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "a5730957b4e0e813dd1209a8ec64d9b6df5c428b3d4488be4387bd59800af9ba",
+        "Brand": "Free Hold Properties",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, email address",
+        "List of Call-To-Actions": "Login, Register, Reset Password, Create a Listing",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"Free Hold Properties\" is supported by multiple sources within the provided information. Both the screenshot and HTML details feature the branding prominently. The logo visible in the screenshot reads \"Free Hold Properties\" and the title from the HTML information (\"Page not found \u2013 Free Hold Properties\") corroborates this. Additionally, the HTML specified the favicon URL, which includes the domain \"freeholdproperty.ae,\u201d suggesting ownership of the website by Free Hold Properties. Moreover, text like \"\u00a9 2020 Free Hold Properties\" and contact details mentioning the same name further reinforce the identification. The presence of user credentials is confirmed by fields asking for \"username or email address\" related to resetting a password, indicating sensitive credentials interaction. The multiple prompts such as \"Login,\" \"Register,\" \"Reset Password,\" and \"Create a Listing\" in the nav bar and headers confirm calls to action linked to user input and engagement.",
+        "Url": "https://freeholdproperty.ae/wp-admin/x8z9.php?el20=3mail@b.c"
+    },
+    {
+        "Folder Hash": "c0fde17683b2fe017214e7a1ab39cbad6538adaa4fe41ab082060ea15c557eb9",
+        "Brand": "OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Enter Password",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot features the name \"OneDrive\" prominently at the top of the page, which matches with HTML information where the title is mentioned as \"My Files - OneDrive.\" Additionally, the favicon coded in the HTML text seems to represent the OneDrive logo, although the specific file details cannot be visually confirmed due to the nature of data URLs (base64 encoded image). The presence of \"Shared Files\" and options like \"Upload,\" and \"Sync\" in the interface, typical of cloud storage solutions like OneDrive, further substantiates this identification. Lastly, the \"Enter Password\" header text in the HTML script confirms that the page directly interacts with user credentials, specifically a password field. This, along with the interface design seen in the screenshot, solidifies OneDrive as the brand of the webpage while also indicating a presence of sensitive user credentials and call-to-action linked to entering a password.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmbSH4QTBtodXn7AWC9ajietCHNcLowXxf2JRiSf3Ei4aW"
+    },
+    {
+        "Folder Hash": "c1a2ca3a66d8fc408ad6daf129d1f8b2ddd415f1847c296a703cc6678215e450",
+        "Brand": "savastan0.cc",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password, CAPTCHA",
+        "List of Call-To-Actions": "LOGIN, REGISTER NOW!",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"savastan0.cc\" is prominently identified from both the screenshot and HTML information. The title in the HTML code \"Login - savastan0.cc\" directly mentions this, as do the headers which include phrases like \"LOGIN | savastan0.cc | Create an Account!\" and branding references in other parts of the website narrative such as \"Two Good Reasons to Signup to SAVASTAN0.CC ( Official Domain )\". This consistent branding throughout the provided evidence strongly supports the identification. The webpage contains fields for entering username and password, which are sensitive credentials, and the presence of a CAPTCHA field aids in user authentication. Furthermore, the screenshot shows call-to-action buttons like \"LOGIN\" and \"REGISTER NOW!\", directly soliciting user interaction either for logging in or new account registration.",
+        "Url": "https://savasten0.cc/"
+    },
+    {
+        "Folder Hash": "c60ac9f23b634af849beeddc946b34f83f160bfdc16583b49891fe8e05863d36",
+        "Brand": "\u00c9tudes",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign Up",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The webpage prominently features the name \"\u00c9tudes\" in various sections, particularly in the paragraphs and headers text. It talks about \"\u00c9tudes Architect App\" and \"\u00c9tudes Newsletter,\" attributing various architectural and consulting services to \"\u00c9tudes,\" indicating that it is the primary brand featured on the website. Additionally, the repeated mention of \"\u00c9tudes\" in contexts related to architectural excellence and services enhances the likelihood that this is the brand identity of the webpage. The other notable feature, \"My Blog - My WordPress Blog,\" observed in the title, headers, and footer might suggest a secondary identification or the platform used (WordPress), not the primary brand. Therefore, confidence in the identification of \"\u00c9tudes\" as the brand is fairly high, although the mention of other elements slightly moderates this certainty.",
+        "Url": "https://leieem.com/"
+    },
+    {
+        "Folder Hash": "dabac25b314a758b2ade58de5be3f6790a2ced935d0f4cfd8fc8cba694f571c9",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The analysis is based solely on the provided screenshot and HTML information. The brand of the webpage cannot be specifically identified because neither the image nor the HTML script contains any definitive branding information. The logo in the image displays a generic email symbol without any brand identifier, and the HTML information lacks details like logo_alt_text and footer_text which could give clues about the brand. Therefore, my confidence in identifying a specific brand for this webpage is zero. The webpage does include fields for entering an email and password and a Login button, indicating that it is designed for user login. This is supported by the HTML header text and the presence of form elements asking for sensitive credentials.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihnecv6xgkb7axyv3tbhulcl7yt5t2gmhs5xgfxxfikqdcoil73d4"
+    },
+    {
+        "Folder Hash": "e330ef7a7761bf403e97ad9d57f54e18bbeb3009f04fa0d13ab42e38abd6a9ff",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started Button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Netflix is highly confident due to multiple evidence points. The screenshot prominently features the Netflix logo at the top. Additionally, the HTML title \"Netflix India \u2013 Watch TV Shows Online, Watch Movies Online\" aligns with Netflix\u2019s service offerings. The footer text also includes \"Netflix India,\" reinforcing the brand identification. The style and visuals in the screenshot, including typography and color scheme, correspond closely with Netflix\u2019s well-known branding elements. Moreover, the contexts of the available movies and service descriptions such as streaming on various devices and creating profiles for children are characteristic offerings of Netflix. The presence of an email entry field and a \"Get Started\" button indicates collection of user credentials and prompting users to initiate or renew their subscription, which are typical call-to-action features on such platforms.",
+        "Url": "https://akkpk.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "e88468e8a894aefeb45f8c645e4e0569690eef94fb824a72f7e85084dc1ab0f7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the Netflix logo at the top and the page content is centered on offering Netflix services in India with pricing in Indian Rupees (\u20b9 149). The webpage screenshot and the HTML title \"Netflix India - Watch TV Shows Online, Watch Movies Online\" confirm the brand identity as Netflix. Further, the screenshot and HTML information include fields for entering an email address to start or restart a membership, alongside a \"Get Started\" button which acts as a call to action. This usage of branding elements like the distinctive red color, the logo, and typical Netflix services presentation in the content reinforces the identification as the Netflix brand.",
+        "Url": "https://kadamgp.github.io/Netflix-Clone/"
+    }
+]

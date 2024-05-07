@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "01308d40961130f61c8a2f9c9f92aca5e87e1b1b388caadb78c0d84191ec5322",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://package.dittugarments.com/public/uvKhzB6nB9AksS436lrCwOvPcv7L9Br4"
+    },
+    {
+        "Folder Hash": "017beab429d03806acd371a85186a003b4f798d589f8e397ce64ffbbd9adb8b4",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Turn on Facebook Protect",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, \"Security | Facebook Help Center\", and the logo in the screenshot both indicate that the brand is Facebook. Additionally, the footer text includes the words \"Facebook\" and \"Meta\". The call-to-action button says \"Turn on Facebook Protect\", which is consistent with the brand's name.",
+        "Url": "http://agency-support.abraham-personal.de/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "018cef3464440cd63d5c628b47d06257799f8ea68af49c86983f55e1716d2005",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://package.dittugarments.com/public/8WJz2fTND6IqcNBZPQCe4I9Lb24lRZ1F"
+    },
+    {
+        "Folder Hash": "019f08fbab0a21a90395daeab0c53d91374965e7124e10036b5023e43e3f88d7",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://package.dittugarments.com/public/9sBhKlGHlUt104V2uY4vifQ1tEcvDUEx"
+    },
+    {
+        "Folder Hash": "01bf7b99942e8ea129c4a86a457087aa48a74bdbdaa7ce38519c5f7dd1ffdb76",
+        "Brand": "WeTransfer",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Get WeTransfer Plus, DOWNLOAD",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"WeTransfer\", and the logo is also \"WeTransfer\". The footer text is \"WeTransfer is the simplest way to send your files around the world. Share large files up to 2GB for free\", which indicates that the brand is WeTransfer. In addition, the webpage has a form asking for user credentials such as email and password, and a call-to-action button \"Get WeTransfer Plus\" and \"DOWNLOAD\". Therefore, I am 100% confident that the brand is WeTransfer.",
+        "Url": "https://pr0d-agreement-0rder.glitch.me/js/we-transfer_54nbbf53luc641_spec.html?is=3mail@b.c"
+    },
+    {
+        "Folder Hash": "020dfdef4afa510d43b3f8805cfd682c0c8f8e02d8a93c3f58ffb8e4d775dd37",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "S\u1ed1 \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng ho\u1eb7c email b\u1ea1n \u0111\u00e3 nh\u1eadp kh\u00f4ng kh\u1edbp v\u1edbi b\u1ea5t k\u1ef3 t\u00e0i kho\u1ea3n n\u00e0o.",
+        "List of Call-To-Actions": "\u0110\u0103ng nh\u1eadp b\u1eb1ng Facebook",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly visible in the logo, footer, and title. Additionally, the screenshot shows a login form with a Facebook login button, and the HTML information contains text fields for email/phone number and password.",
+        "Url": "https://sukien.livestream.ff.garenei.com/"
+    },
+    {
+        "Folder Hash": "02bb85dabd0710d94b8962bacf774df0f163f0d645d6a4aa7b216a85c3693557",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Turn on Facebook Protect",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, \"Security | Facebook Help Center\", and the content within the <title> tag, \"Facebook | Turn on Facebook Protect to unlock your account | Account locked on November 26, 2023.\", strongly suggest that the brand is Facebook. Additionally, the presence of the Facebook logo and the call-to-action button with the text \"Turn on Facebook Protect\" further confirm the brand.",
+        "Url": "http://supportagency-8798744.lineacasalistenozze.com/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "038be99957c44dbf5f442b3476f6f6dd66ad02d7d2b4b99ed669e4e1b872af7c",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Facebook logo and the words \"Facebook\" and \"Iniciar sesi\u00f3n\" in the screenshot. The HTML script contains the text \"Facebook\", \"N\u00famero de m\u00f3vil o correo electr\u00f3nico\", \"contrase\u00f1a\", \"Iniciar sesi\u00f3n\", and \"Crea una cuenta nueva\". These are all strong indicators that the brand is Facebook.",
+        "Url": "https://sdfsdfsdfewfesdgdfsgs.blogspot.com/"
+    },
+    {
+        "Folder Hash": "0443e086c2790a774cc68d7b496734e636cf8d05c6c787e88751faf29e9c435c",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Account Locked\", and the content includes \"Your account has been locked\" and \"We've detected unexpected activity on your account\". The footer text includes \"Facebook\". The logo is also that of Facebook.",
+        "Url": "https://support-adsmanager.com/b511nWz51Bik1C7qtovwwhNOQUPICLbDzE3olwS2HOfz1ygCWSvHNWboJdmApzDyhc1Y4iB5IOudLa1BTrangdau.html"
+    },
+    {
+        "Folder Hash": "04479ddd8ec78b3c2a7e9bc6c04b1b5c524081dd267ff0015946e25fdd70440c",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Sign in with Outlook, Sign in with Office365, Sign in with Aol, Sign in with Yahoo!, Sign in with Other Mail",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"OneDrive\", and the logo in the screenshot is the Microsoft OneDrive logo. The footer text also contains the text \"Microsoft OneDrive\". Additionally, the HTML script contains the text \"OneDrive\" and \"Microsoft\".",
+        "Url": "blob:http://cassdrakeford.com/2b38c416-5ee4-4bab-b5a2-7266aac7941a"
+    },
+    {
+        "Folder Hash": "164ad949f9595380059658035fdc02fbaf46e833d5e6a017297391509709b3cb",
+        "Brand": "Basuri Shop",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"Basuri Shop\" is prominently displayed in the header and footer of the webpage. Additionally, the logo, favicon, and social media icons are all branded with the \"Basuri Shop\" logo. The webpage is also hosted on the domain \"basurishop.com\".",
+        "Url": "https://basurishop.com/"
+    },
+    {
+        "Folder Hash": "19ae88c673d1b61b7e5df50961ab9e6a8b7f0b532558125fd4b81cc9818933cf",
+        "Brand": "Banpro Grupo Promerica",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Banpro Grupo Promerica\", the logo is also of the same brand. The screenshot shows a login form with fields for username and password. The footer of the webpage also contains the text \"Copyright Banpro Nicaragua. Todos los derechos reservados\". All these pieces of evidence strongly suggest that the brand of the webpage is Banpro Grupo Promerica.",
+        "Url": "https://46c8371e-2ec7-4ab6-8119-797076e037dd.id.repl.co/"
+    },
+    {
+        "Folder Hash": "8596686c03d764958db74627678de987a7b5b3ed0490ec0b63b32c0d8374a54e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, username, password",
+        "List of Call-To-Actions": "Not Found",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the Microsoft logo and the words \"Microsoft Windows Security\". The HTML script contains the text \"Microsoft Windows Security\" and \"Microsoft Windows Support\". The footer text contains the text \"Microsoft Windows Security\". All of this evidence suggests that the brand is Microsoft.",
+        "Url": "http://d15a1lvkr18tre.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "a4ad70fbd111247f286b1364997a9099527e0e1348b8a070073b27d79abfbdeb",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "Get Started >",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Netflix\", and the logo is also that of Netflix. The screenshot shows a login page, and the HTML script contains fields for email and password. The footer contains links to \"Sign In\" and \"Help Center\".",
+        "Url": "https://gentmulaj1.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "c40c09de4d38419a8dcef0dc13d33ad07bcf21bacd6df5984b58616b1fee3c8e",
+        "Brand": "Suncoast Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Member Number, Password",
+        "List of Call-To-Actions": "Log In, Join Now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"SunNet Online Banking Florida | Suncoast Credit Union\". The logo is also that of Suncoast Credit Union. The footer contains the text \"Suncoast Credit Union\". The page also has fields asking for sensitive user credentials such as member number and password. There are also call-to-action buttons such as \"Log In\" and \"Join Now\".",
+        "Url": "https://suncoastaut.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "e9e9b5de6eda512206beb1f71d65125b14ce947010dcf5def32e0597f091f56e",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage's title is \"WELLS FARGO - Home\", and the logo is Wells Fargo's logo. The footer text contains \"Wells Fargo\". The screenshot also shows a login form with fields for username and password.",
+        "Url": "https://intlexperiwellscomms.weebly.com/"
+    },
+    {
+        "Folder Hash": "f52a5a4a2e5c8da13499aaafe8a4df46e38baadac1abb724e8c183a9a47b38ef",
+        "Brand": "Gazprombank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, phone number",
+        "List of Call-To-Actions": "Registration",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, header, and footer all contain the brand name \"Gazprombank\". Additionally, the logo in the screenshot matches the Gazprombank logo. The webpage is also hosted on a Gazprombank domain.",
+        "Url": "https://ultimatefinancesedition.com/"
+    }
+]

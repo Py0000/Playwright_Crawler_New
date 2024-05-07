@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "0029ddf50757663f869ea57fa6b35bb742950a007641478851bf8fea7133872e",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone",
+        "List of Call-To-Actions": "Next, Create account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand can be confidently identified as Google based on several pieces of evidence from the screenshot and HTML information. The screenshot prominently displays the Google logo at the top of the sign-in page which is very recognizable. Additionally, the HTML title \"Sign in - Google Accounts\" and the presence of \"Use your Google Account\" in the header and span texts strongly point to the brand. Furthermore, the option to sign in using an email or phone number coupled with the 'Next' button and 'Create account' link as well as the consistent UI with Google\u2019s known sign-in layout all support the identification of Google as the brand. The snapshot adheres perfectly to Google's standard login interface design and texturally supported attributes.",
+        "Url": "https://accounts-google-com.google.research.skyfencenet.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&followup=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&ifkv=ASKXGp35mtwoMZTYq_EQh00TDcURsTqYlJCXhLv51FgyiEwBpd_bSIdnTUQe919CFtE8t2MXUeVA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1106871291%3A1701237264171240&theme=glif"
+    },
+    {
+        "Folder Hash": "00d320e13a4afd5c13cd57d8e6930967708ab4d93d7583d7b9e52e97e507ccb5",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login, Register",
+        "List of Call-To-Actions": "Login, Register, Ship, Track",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage is identified as DHL based on various elements visible in the screenshot and supported by HTML content. The prominent DHL logo is clearly visible in the screenshot, which is a significant identifier. Furthermore, the textual content mentions \"DHL Express,\" reinforcing the brand identity. The screenshot layout, color scheme (yellow and red), and functionalities such as tracking and shipping options are typical of DHL's corporate website. Additional supporting evidence from the HTML, such as the footer content mentioning \"2022 \u00a9 Deutsche Post AG - All rights reserved,\" aligns with DHL being part of the Deutsche Post DHL Group. The availability of login and registration options along with specific call-to-action links for services like shipping and tracking serve as secondary confirmations.",
+        "Url": "http://socialmediaconsultant.ae/public/cKcAHeRtw8tgyrOIdKqopukWqegyBl6X"
+    },
+    {
+        "Folder Hash": "0268063589ad4ed7dc1cc582927dbc4a55f51d034f46283b2f276bad9acb6652",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Download now, Sign up, Shop Now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as MetaMask is strongly supported by numerous elements in the screenshot and HTML information provided. The screenshot prominently displays the MetaMask logo at the top and references to MetaMask are throughout the page's text, such as \"Download MetaMask Today\" and \"Shop MetaMask Swag\". Furthermore, the HTML information aligns perfectly with the screenshot: the title, meta-description, and footer mention MetaMask explicitly. Additionally, the favicon link includes \"metamask.io,\" which indirectly authenticates the brand's web domain. The repeated branding across various elements of both the screenshot and HTML script solidifies MetaMask as the definitive brand of the webpage. These repeated, consistent references to MetaMask provide a maximum confidence score in identifying the brand.",
+        "Url": "https://matemska.com/"
+    },
+    {
+        "Folder Hash": "03613ee8f7807376093f334ce4a3f269c601fe5a3a39cb6942beffed71755968",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register, Login",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage screenshot clearly displays the \"DHL\" logo at the top left, unmistakably identifying it as a DHL branded page. Furthermore, the footer text \"2022 \u00a9 Deutsche Post AG - All rights reserved\" corroborates this, as Deutsche Post AG is the parent company of DHL. Key webpage functions such as Ship, Track, along with options for \"Register\" and \"Login\" strongly support the identification of this as a DHL webpage, as these services are typical of a logistics and shipment company like DHL. The array of geographical regions listed under \"Select a country here...\" further matches what would be expected from a global shipping service like DHL, which operates worldwide.",
+        "Url": "https://package.dittugarments.com/public/xXmKbIKplnyr3mWGvbjBXmGyAmEgHDal"
+    },
+    {
+        "Folder Hash": "04076986695e1224101bc06b34e8537784bd3b937c4a9c7536a9e92fc1335e6e",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NOME E COGNOME (Name and Surname), NUMERO DI TELEFONO (Phone Number), Username, Password",
+        "List of Call-To-Actions": "ACCEDI button",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "From the screenshot, the webpage prominently features the \"Posteitaliane\" name at the top and the logo of \"Poste ID\" which is affiliated with Poste Italiane's digital identity services (verified by the mention of SPID which is the Italian digital identity system). The paragraph text in the HTML mentions \"Poste Italiane 2023 - Partita iva: 01114601006\" further confirming the brand identity. The headers and paragraph texts also reference \u201cMyPoste,\u201d indicating a login portal for services provided under Poste Italiane. The presence of a login form asking for credentials like names, phone numbers, usernames, and passwords, as well as a common call-to-action button marked \"ACCEDI\" (which means 'login' in Italian), are evident. This comprehensive combination of logos, naming, and textual evidence provides a high level of confidence in identifying the brand.",
+        "Url": "http://bestknitters.com/"
+    },
+    {
+        "Folder Hash": "04847856708f0e6d56d41a5e6a370241a9ba719b377bf4f3a54b19b23344d824",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Log In, Create New Account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identification as \"Facebook\" is based on multiple confirming details present in the screenshot and html information. The screenshot prominently displays the Facebook logo along with the text \"Facebook helps you connect and share with the people in your life\" consistent with the known branding of the platform. This aligns with the HTML information where the title reads \"Facebook log in or sign up\" and the paragraph text reference to \"Facebook \u00a9 2023.\" The presence of fields for entering an \"Email address or phone number\" and \"Password\" underlines that sensitive user credentials are requested. Moreover, the page features clear call-to-action buttons \"Log In\" and \"Create New Account,\" prompting users to interact for login or account creation purposes. All elements cohesively match Facebook's known login interface attributes, ensuring a high confidence in brand identification.",
+        "Url": "https://ikechukwu647.github.io/rubliss4/"
+    },
+    {
+        "Folder Hash": "05e2621aa56ff714ca7f8e6143182091f735a157100463c72d0221c92adaba7b",
+        "Brand": "VK Store",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email (sac@blackfridayamericanas.net)",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand \"VK Store\" was confidently identified based primarily on the presence of this name in various places within the screenshot and the HTML information, particularly seen in the footer where it is mentioned as \"\u00a9 VK Store.\" The screenshot further shows a webpage layout typical of an e-commerce store, featuring a wide range of products, which correlates with the diverse categories and products mentioned in the HTML elements. The HTML also contains specific contact details, promotional texts, and a log-in option, which aligns with standard commercial web platforms. Additionally, an email in the footer mentions a different domain (blackfridayamericanas.net), but the frequent appearance of 'VK Store' across the page elements, including headers and navigation sections, points confidently to its branding as VK Store.",
+        "Url": "https://blackfridayamericanas.net/081f8fcf-5316-4f90-88a6-6119c5943e6d/checkout/produto/6543d98a6ca11/jogo-de-panelas-brinox-smart-plus-ceramic-life-8-pecas-vanilla"
+    },
+    {
+        "Folder Hash": "062d94cb0608d431400dee0a185a1ba94a4db663f5e6d2eec887a45839acf3af",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "mobile phone number, email",
+        "List of Call-To-Actions": "B\u1ea1n qu\u00ean m\u1eadt kh\u1ea9u c\u1ee7a m\u00ecnh?",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"Garena Free Fire\" is strongly supported by multiple elements from the screenshot and HTML information. The title taken from the HTML script directly reads \"Garena Free Fire\" and the meta description too contains \"C\u1eeda H\u00e0ng Garena Free Fire\", reinforcing the brand name presence. The footer text mentions \"Garena Vietnam\", which aligns with the brand's regional operations. Additionally, the screenshot image prominently displays the \"Garena Free Fire\" logo with the slogan \"S\u1ed1ng dai th\u00e0nh huy\u1ec1n tho\u1ea1i\", consistent with the brand's theme and visual style in marketed content. The presence of credentials and call-to-action is evident from the HTML script where phrases like \"B\u1ea1n qu\u00ean m\u1eadt kh\u1ea9u c\u1ee7a m\u00ecnh?\" directly relate to account recovery actions (e.g., password reset), which typically require email or phone number verification, confirming the presence of sensitive credential fields.",
+        "Url": "http://test1.garenav.vn/"
+    },
+    {
+        "Folder Hash": "06e6a4b7f630f17850cf2b216c3f81bb70d18a51ed616c7b941b4e48b8679389",
+        "Brand": "Vivobarefoot",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Forgot your password?, Log In, Register",
+        "List of Call-To-Actions": "Log In, Register",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The brand is confidently identified as \"Vivobarefoot\" based on multiple elements from the screenshot and the associated HTML information. The title from the HTML script cites \"Vivobarefoot Saudi Arabia | Vivobarefoot Shoes Clearance Sale,\" which matches the theme and products displayed on the screenshot, specifying it's a web store for Vivobarefoot products, focusing on shoes. The HTML headers and paragraphs contain multiple references to \"Vivobarefoot,\" confirming the brand identity. Additionally, the content on the screenshot emphasizes barefoot-style shoes consistent with the Vivobarefoot brand's known offerings. The HTML information also includes call-to-action links such as \"Log In\" and \"Register\" and a credential-recovery option \"Forgot your password?\", indicating sensitivity regarding user credentials.",
+        "Url": "https://www.vivobarefootssaudiarabia.com/"
+    },
+    {
+        "Folder Hash": "070d8f9be03c6be321a10dcfb879820fbcd0c6b05a9afe392ac2da9b8f5dd2ae",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, Username, Email, Password",
+        "List of Call-To-Actions": "Log in, Sign up, Forgot password?",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot presents a typical Instagram login page interface, prominently featuring the Instagram logo at the top. The layout, typeface, and design conform to Instagram's known aesthetics, increasing the accuracy of identification. The webpage has fields explicitly asking for \"Phone number, username, or email\" as well as \"Password\" which are standard credential fields for logging into an account. The options \"Log in,\" \"Sign up,\" and \"Forgot password?\" function as calls to action, directing user interaction towards account access or recovery. Furthermore, the html elements like the logo_alt_text which reads \"Instagram\" and the footer text and copyright also indicate the year (\u00a9 2018 Instagram), further solidifying the identification of the brand as Instagram. Despite the incongruity of the title and favicon URL (which points to a blogspot URL - likely a phishing or imitation attempt), dominantly displayed official elements confirm the brand's identity.",
+        "Url": "https://lnstagramlite.blogspot.com/"
+    },
+    {
+        "Folder Hash": "524d69e099ce2cf898dbd3614e175228b3b3624e8f5496f3252b5136c9fc55f2",
+        "Brand": "Bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "QR code for mobile app download",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand of the webpage is identified as Bet365 based on multiple cues from the screenshot and HTML information provided. The title from the HTML information reads \"Bet365,\" which confirms the brand identity. Additionally, the screenshot prominently displays the Bet365 logo on the athlete\u2019s attire and on the mobile phone interface, further substantiating the brand identification. The visual elements on the webpage, such as green and white color schemes and the sporting context, are consistent with Bet365\u2019s branding. Further examination of the screenshot shows a QR code leading to mobile app downloads (Android and iPhone options provided), which acts as a call to action. There is no explicit mention in the screenshot or visible fields in HTML information that indicates the presence of sensitive user credential fields, hence the response under 'Has_Credentials' is No. The completeness and uniformity of both the screenshot and HTML title reinforce a high confidence in identifying Bet365 as the brand without any opposing evidence that suggests otherwise.",
+        "Url": "http://19730510.com/"
+    },
+    {
+        "Folder Hash": "57ef3530895093d5a4cab5f34f7d34f127015946c19e5b0ae90f7f934d2e020d",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook login",
+        "List of Call-To-Actions": "Log in with Facebook button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot showcases a login page prominently featuring the Meta logo, suggesting that it's a Meta-branded product. The presence of the \"Log in with Facebook\" option indicates integration with Facebook credentials, aligning with Meta's rebranding of Facebook's parent company. The favicon URL provided ('https://static.xx.fbcdn.net/rsrc.php/yW/r/sSd2lSvsUM4.ico') directly references a domain known to be used by Facebook, further confirming the connection to Meta. The HTML title is \"Facebook,\" which matches the typical naming scheme for Facebook's login or tool access pages, generally maintained under Meta's umbrella. The confidence level is slightly less than perfect due to the discrepancy that the page title mentions \"Facebook\" specifically, but the main identification on the page is for Meta.",
+        "Url": "https://www.meta-support-page.com/"
+    },
+    {
+        "Folder Hash": "5b079aaddbb1fcd8f92f31136a6235e8f7c77b4a69cb2b4bd72997a4d6bfb288",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number, Password",
+        "List of Call-To-Actions": "Sign In, Login with Facebook, Sign up now.",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot displays a login page prominently featuring the Netflix logo at the top. The HTML title also confirms \"NETFLIX,\" aligning with the branding seen in the screenshot. Both the image and HTML script highlight a standard login interface for Netflix, with fields for an email or phone number and password, which are identifiable sensitive user credentials. Additionally, there are clear call-to-action elements such as a \"Sign In\" button, options for \"Login with Facebook,\" and a prompt for new users to \"Sign up now.\" These elements typically aim to guide user interaction by either facilitating existing users to log in or new users to create an account. The very specific alignment of the branding, user interface, and functionalities strongly confirm the brand's identification as Netflix. Furthermore, the URL within the favicon leads to a blogspot which might seem misleading but the core identification comes from the displayed logo and other webpage contents consistent with Netflix's known login page aesthetics and functionalities.",
+        "Url": "https://netflix-december21.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6adcc77d36f1c22526469ab12f1758bf1eda7f96d66e01c7fe3bc71e4050900e",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "h\u1ecd t\u00ean (full name), ng\u00e0y sinh (date of birth), \u0111\u1ecba ch\u1ec9 (address)",
+        "List of Call-To-Actions": "\u0110\u0103ng k\u00ed (Register to receive)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage clearly references \"Garena Free Fire\" in the HTML title provided (\"Garena Free Fire Membership\") and in the context of member rewards mentioned in the paragraph text (\"N\u1ea1p t\u00edch lu\u1ef9 800 Kim C\u01b0\u01a1ng trong Free Fire nh\u1eadn 1 l\u01b0\u1ee3t quay,\" which translates to \"Deposit accumulated 800 Diamonds in Free Fire to receive 1 spin\"). The favicon URL also contains 'garenanow', which is commonly associated with Garena's online platforms. Additionally, the graphic content of the screenshot features visual styles and character designs that match those traditionally associated with Free Fire promotional materials, contributing to a high confidence in identifying the brand. The registration fields include sensitive user credentials such as full name, date of birth, and address necessitating privacy considerations, and they are linked to receiving benefits (credits and spins), serving as both call-to-action elements and data collection points.",
+        "Url": "http://ff.member.gareza.vn/cre96aCBExqeaXVpAUtesGytOkoIi0b316MEngRB6GduITgIXVrolFEk2af8IFjZOoSP3KYbglKd4dNBCztIqgAYAV650Z5ySGNc_index/#/"
+    },
+    {
+        "Folder Hash": "a97b31d3ecdfe1d824afe2dbe6b31f2198346e40697fc3b2269f601ad0bc99d7",
+        "Brand": "Bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u767b\u5f55, \u7acb\u5373\u52a0\u5165, \u5fd8\u8bb0\u5bc6\u7801?",
+        "List of Call-To-Actions": "\u767b\u5f55, \u7acb\u5373\u52a0\u5165, \u5fd8\u8bb0\u5bc6\u7801?, \u6c99\u5df4\u4f53\u80b2 \u7acb\u5373\u6e38\u620f, IM\u4f53\u80b2 \u7acb\u5373\u6e38\u620f, \u7687\u51a0\u4f53\u80b2 \u7acb\u5373\u6e38\u620f, bet365\u4f53\u80b2 \u7acb\u5373\u6e38\u620f",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The HTML title \"welcome-bet365\" and the visible logo in the screenshot prominently display \"bet365\", confirming the brand identity. The \"\u7acb\u5373\u52a0\u5165\" (sign up), \"\u767b\u5f55\" (login), and \"\u5fd8\u8bb0\u5bc6\u7801?\" (forgot password?) fields present on the webpage indicate areas for entering sensitive user credentials like username and password. The numerous \"\u7acb\u5373\u6e38\u620f\" (play now) buttons serve as call-to-action elements for engaging users directly into games or betting options, typical of an interactive betting website. The consistent branding across visible elements and HTML content underlines high confidence in identifying Bet365 as the brand for the webpage depicted.",
+        "Url": "https://www.bet3659.tv/home"
+    },
+    {
+        "Folder Hash": "aa4a498386e1135bb11171167c2833f459c01d92f2f806af12e2a178174bb608",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the Netflix logo, with references to watching various shows and sign-in options, all indicative of the Netflix service. Additionally, the HTML script confirms the brand identity through the title 'Netflix' and the recognizable footer information which includes typical Netflix customer support and other service-related links. The \"Ready to watch? Enter your email to create or restart your membership.\" along with the 'Get Started' button observed in both screenshot and HTML headers text, points to a login or signup feature which is characteristic of Netflix's user engagement approach. Various elements such as device compatibility (smart TVs, PlayStation, Xbox), downloadable shows, and the specific language \"Netflix India\" enhance the identification certainty of this being a Netflix webpage. This comprehensive presence of the Netflix brand across different components in the webpage design in both visual and HTML information sources reinforces the identification with absolute confidence.",
+        "Url": "https://imshivamnair.github.io/Netflix-and-Chill/"
+    },
+    {
+        "Folder Hash": "d00adfb26aca6d440945911e196167c79020355e213d72da41ba54eca09f7d62",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of \"Netflix\" as the brand is confirmed by multiple clear evidences found in the screenshot and the accompanying HTML information. Firstly, the screenshot prominently displays the \"NETFLIX\" logo at the top. The HTML title specifies \"Netflix India \u2013 Watch TV Shows Online, Watch Movies Online,\" which aligns with the brand and supports the identification. The footer text of \"Netflix India,\" also seen on the screenshot, further corroborates the brand identity, ensuring high confidence in this assessment. Additionally, the screenshot has a call-to-action button \"Get Started,\" which is related to entering an email to initiate or restart a membership, representing a credential input field for \"Email Address.\" This holistic combination of visual and textual cues from the provided data ensures an accurate and confident identification of the brand as Netflix.",
+        "Url": "https://dubeyprashant1.github.io/Netflix-Clone.github.io/"
+    },
+    {
+        "Folder Hash": "dcd93ffe7cc0ce8d070abaa399e5e36738aa5c3bc7f7cd3b92cce094ff77cd6d",
+        "Brand": "\u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u041f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b, \u041f\u0430\u0440\u043e\u043b\u0430, \u0412\u0430\u0448\u0435\u0442\u043e \u0438\u043c\u0435, \u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430 \u043f\u043e\u0449\u0430, \u041b\u043e\u0433\u0438\u043d, \u0412\u0430\u0448\u0430\u0442\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u041d\u043e\u043c\u0435\u0440 \u043d\u0430 \u043f\u0430\u0441\u043f\u043e\u0440\u0442, \u041a\u043e\u0434\u043e\u0432\u0430 \u0434\u0443\u043c\u0430, \u0421\u044a\u043e\u0431\u0449\u0435\u043d\u0438\u0435",
+        "List of Call-To-Actions": "\u0412\u0445\u043e\u0434, \u0417\u0430\u0431\u0440\u0430\u0432\u0435\u043d\u0430 \u043f\u0430\u0440\u043e\u043b\u0430, \u041e\u043d\u043b\u0430\u0439\u043d - \u0410\u0441\u0438\u0441\u0442\u0435\u043d\u0442,\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438, \u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438 \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u0437\u0430 \u043f\u043e\u043b\u0437\u0432\u0430\u043d\u0435, \u0421\u044a\u0433\u043b\u0430\u0441\u0438\u0435 \u0437\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043d\u0430 \u043b\u0438\u0447\u043d\u0438 \u0434\u0430\u043d\u043d\u0438",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The webpage\u2019s brand identity highly aligns with '\u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a' based on multiple indicators from the provided screenshot and HTML information. The title and meta_description explicitly mention \u201c\u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a,\u201d reflecting the purpose and association of the page. The footer text includes references like \u201cBIC/SWIFT \u043d\u0430 \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a\u201d and links to general conditions for citizens and companies, further confirming the involvement of \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a. Furthermore, the webpage includes various sections mentioning bank-specific services like electronic banking and account access, which are typical for a banking institution. These references corroborate the brand identity as \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a with high confidence.",
+        "Url": "https://directonline-bg.com/login/"
+    },
+    {
+        "Folder Hash": "f34bd4c756f9c0ad38e85f51cdf9c3ff9a52ed1bc924d6ad1ae31948173e2903",
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Player ID, Email address",
+        "List of Call-To-Actions": "Beli sekarang, Masukkan Player ID, Pilih Nominal Top Up, Pilih pembayaran",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"Codashop\" is prominently identified throughout the screenshot and HTML script. The title tag from the HTML document being \"Top Up Diamond Free Fire (FF) | Codashop\" and numerous mentions in the page text, such as \"Codashop - The Best way to top up FF Diamond in Indonesia\" and \"Beli diamond Free Fire jadi mudah, aman, dan praktis di Codashop,\" directly point to Codashop as the brand. The 'footer_text' confirms it further with a mention of \"\u00a9Hak Cipta Coda Payments\". The screenshot and HTML also refer to Codashop as a reliable channel for purchasing in-game currency for the game \"Free Fire\" without needing a credit card. The favicon URL including \"codashop\" solidifies the identification. The presence of a field for entering a 'Player ID' and an email for receiving proof of payment are indicators of credential fields while options and buttons like 'Beli sekarang' act as call-to-action elements, promoting immediate transactions.",
+        "Url": "https://diamond-gratis-9736.real4.biz.id/id/"
+    }
+]
