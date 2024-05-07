@@ -77,9 +77,10 @@
 
 ### Summarizing responses from Gemini
 * Pre-cond: Running the script from `Root` directory
-* Cmd: `python3 -m baseline.gemini.export_result_to_excel [shot] [mode] [folder_path] [excel_path] [hash_col] [brand_col] [cred_col] [cta_col] [cs_col] [sld_col] [pred_col] [llm_pred_col]`
+* Cmd: `python3 -m baseline.export_result_to_excel [shot] [mode] [phishing_mode] [folder_path] [excel_path] [hash_col] [brand_col] [cred_col] [cta_col] [cs_col] [sld_col] [pred_col] [llm_pred_col]`
   * **Required** `shot`: 0 - 3 (But only used 0 for this study)
-  * *Optional* `mode`: ss, html or both
+  * **Required** `mode`: ss, html or both
+  * **Required** `phishing_mode`: phishing or benign
   * **Required** `folder_path`: (Example) baseline/gemini/gemini_responses/prompt_1_html_only/0-shot
   * **Required** `excel_path`: (Example) baseline/gemini/gemini_responses/prompt_1_html_only/0-shot/results_0_shot.xlsx
   * *Optional* `hash_col`: Column that stores the file hashes. Default is B
