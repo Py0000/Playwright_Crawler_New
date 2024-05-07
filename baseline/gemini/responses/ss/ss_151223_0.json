@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "00280183645f0aed4959492293f8f22d3cbe8acbd17a702c51d1c96469e8ae0d",
+        "Brand": "Australia Post",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign up, Log in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible at the top left corner of the webpage. The page also contains the words \"Australia Post\" in the header and \"Copyright \u00a9 Australia Post 2023\" in the footer.",
+        "Url": "https://au-reschedule-post.com/intl/secure.php"
+    },
+    {
+        "Folder Hash": "006bd6a512d600a168c8dba92f1ce718114d35be86ceb2b2bfaed05f79d011a9",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID, Password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Apple logo and the words \"Iniciar sesi\u00f3n con ID de Apple\" (Sign in with Apple ID) on it. The page also has fields for entering an Apple ID and password. The call-to-action button says \"Iniciar sesi\u00f3n\" (Sign in).",
+        "Url": "http://lphone-location.in.dteam23.com/isignesp.php"
+    },
+    {
+        "Folder Hash": "00b859472d6141fd762ff1ac51d6337986a8a693c576041d611f93dbec41a8a5",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Orange, a French multinational telecommunications company. The page requests the user to enter their email address and password, which are sensitive user credentials. The page also has a call-to-action button that says \"Sign in\".",
+        "Url": "https://dev-fpffmlf.pantheonsite.io/"
+    },
+    {
+        "Folder Hash": "022ed20d92c130ce9dac33de657fe4f9b3de4f62dcaeca0c1075c32b5e0ef133",
+        "Brand": "Gedcom Viewer",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the words 'Gedcom Viewer' on the top. The page also contains a green button that says 'View', which is a call-to-action button.",
+        "Url": "https://drawmyfamilytree.ipages.uk/gedcom_viewer.php"
+    },
+    {
+        "Folder Hash": "02b352ba5d2493d4090c76739f8f4b3dc38e0d895fb0c189aa3c53e838bf9c30",
+        "Brand": "NA",
+        "Has_Credentials": "NA",
+        "Has_Call_To_Actions": "NA",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot does not contain any identifying information.",
+        "Url": "http://mail.odokdnd.c505.net/"
+    },
+    {
+        "Folder Hash": "05e5c96d035647e8a28ef7605b4610a8b0dddeb6788965a2ffac4c5af6e227b2",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's brand is AT&T because the logo is clearly visible at the top of the page. The page also has a form that asks for the user's email address and password, which are sensitive user credentials. Additionally, the page has a call-to-action button that says \"SIGN IN\", which indicates that the user will be able to access their AT&T account after they enter their credentials.",
+        "Url": "https://olwkw.weebly.com/"
+    },
+    {
+        "Folder Hash": "0605c42d514fa1992ff0c05c841e7a90c702880d45d577acf9475c90d6ae44a1",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Microsoft logo, and the \"Sign in\" button is consistent with Microsoft's branding. The page also has fields for email and password, which are typical credentials required by Microsoft services.",
+        "Url": "https://kkj6k7bkjrh7-1323053341.cos.sa-saopaulo.myqcloud.com/kkj6k7bkjrh7.html?e=caubin@evexiawealth.com"
+    },
+    {
+        "Folder Hash": "060d00668806aca5ed69d41e3718234c000d162b18728e3baf7258157e961e25",
+        "Brand": "Equinix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Learn More",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Equinix Sustainability Report\". The logo of Equinix is clearly visible in the screenshot. The domain name \"equinix.com\" is also visible in the screenshot.",
+        "Url": "https://blog.s.id/post/2022/05/19/oops-you-are-accessing-a-forbidden-link-what-does-that-mean-8w002bto2?utm_source=home_sid&utm_medium=redirect"
+    },
+    {
+        "Folder Hash": "0731bd0e39db2924eb425b12859b853a94a433459dc9e4f5b99cae43c0771f1f",
+        "Brand": "ghaly-group.com",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"ghaly-group.com\", and the logo at the top of the page says \"ghaly-group.com\". The domain name is also \"ghaly-group.com\".",
+        "Url": "https://ghaly-group.com/cgi/backup/known/753/wdc/Z3JlZ0Byb2JlcnRoaWdoZGV2ZWxvcG1lbnQuY29t"
+    },
+    {
+        "Folder Hash": "54fa22beffa06a730378ead13d067343502daabd028cc7c02f33c88e01499e81",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Log In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Bir sorun olu\u015ftu\" which means \"A problem has occurred\" in Turkish. The page also has the Facebook logo and a link to the Facebook homepage.",
+        "Url": "http://instagram.bulut.host/"
+    },
+    {
+        "Folder Hash": "6ef1467b89d0c233dbb0f5eae936f610fdbc2ed926d9ef8c67a9af6eb70a366d",
+        "Brand": "Uphold",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Get Started, Log in, Sign up",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Uphold Login\", and the logo in the upper left corner says \"Uphold\". The page also has fields for entering a username and password, and a button that says \"Log in\". Therefore, I am confident that the brand of this webpage is Uphold.",
+        "Url": "https://uslogii-upheld.github.io/"
+    },
+    {
+        "Folder Hash": "8060c0edf2d193387cd77aa9586816b25abfebffb194b210cbb720da31ad7709",
+        "Brand": "DANA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Claim Rp 2.000.000",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the top left corner of the webpage. The webpage also has a green button that says \"Claim Rp 2.000.000\". The webpage is likely a landing page for a promotion or offer from DANA.",
+        "Url": "http://claimz-xdana.webr.biz.id/"
+    },
+    {
+        "Folder Hash": "829a29b01b2524eb3531050fa074a995e083f8a7b35a2216f25958dbf1384827",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://excel-down.github.io/"
+    },
+    {
+        "Folder Hash": "836b2c32186f46272e130346ee4358566a0b3be01e96e1ce83662cf3632786ad",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "recovery phrase",
+        "List of Call-To-Actions": "continue",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Coinbase logo and is asking for a recovery phrase, which is a sensitive user credential. The webpage also has a call-to-action button that says \"Continue\".",
+        "Url": "https://silent-apricot-barberry.glitch.me/qool.html"
+    },
+    {
+        "Folder Hash": "83fb715fa9718b026c68caaa47c0f498fa2fae37414ee166fd3fc21e25dd49f9",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Download for Windows, Download for Mac, Download for Linux",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"MetaMask - A crypto wallet & gateway to blockchain apps\". The logo at the top left corner of the webpage is also the MetaMask logo. The \"Download\" button in the top right corner of the webpage is also a clear indication that this is the MetaMask website.",
+        "Url": "https://metazmskloign.github.io/"
+    },
+    {
+        "Folder Hash": "84bf05abc3a831503603a8153cd36c09a0747a4c6b9329e0a5a17290ae9cdce8",
+        "Brand": "Telegram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Telegram logo and also asks for the Telegram code sent to the user's phone number. The call-to-action button says \"Log Masuk\", which means \"Login\" in English.",
+        "Url": "https://jawatan-kosong-malaysia.id-net.info/02/pendaftaran/otpcode.php/"
+    },
+    {
+        "Folder Hash": "84c75dfb7d59e798046b918e2c74fbf13317de541b321866d53ed419b50512a8",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the AT&T logo and branding. The page also has a form that asks for an email address and password, which are sensitive user credentials. The page also has a \"Sign in\" button, which is a call-to-action.",
+        "Url": "https://att-109625-109046.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b211d8ef67b688198d532cc95653cf99af0c9047a4a788d46efb84e7e68b8043",
+        "Brand": "dpd",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The logo of dpd is clearly visible in the screenshot. The screenshot also contains the words \"dpd\" and \"group\" in the footer.",
+        "Url": "https://rewards.buchung.info.54-91-1-54.cprapid.com/dpd/paket/update.php"
+    },
+    {
+        "Folder Hash": "d916d287bfe2f68cb9fd2f1e7788c5e18ce1d385881aa4fc365aec0ed1f310ed",
+        "Brand": "eBay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly visible in the top-left corner of the webpage. Additionally, the webpage's URL contains \"ebay.com\", which further confirms the brand.",
+        "Url": "https://global-ebay.net/#/pc"
+    },
+    {
+        "Folder Hash": "ef53cb8eab2bdc13608fffaea11e16e122ba79a06088850e246b5b9235c5a521",
+        "Brand": "De'Longhi",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible at the top left corner of the webpage. The overall layout and design of the webpage is consistent with De'Longhi's branding. The products displayed on the webpage are all De'Longhi products.",
+        "Url": "https://www.delonghishop.store/"
+    },
+    {
+        "Folder Hash": "f3c6d074d41fc6594942c174ee83cff38febdce46c972b843288dcff5fc6a787",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://riicardocavalcante.github.io/netflix-estudos/"
+    }
+]

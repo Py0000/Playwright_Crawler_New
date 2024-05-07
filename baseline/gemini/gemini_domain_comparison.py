@@ -4,14 +4,6 @@ import google.generativeai as genai
 
 from baseline.utils import utils
 
-class DomainExtractor:
-    def __init__(self):
-        pass
-
-    def extract_second_level_domain(self, url):
-        extracted = tldextract.extract(url)
-        return extracted.domain
-
 class GeminiDomainComparator:
     def __init__(self) -> None:
         self.model = self.setup_model()

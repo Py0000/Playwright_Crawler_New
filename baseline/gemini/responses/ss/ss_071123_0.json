@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "059f3a7145a116c7b3739037f55aaba024e23055d1cb700fa3eabcdbe711beaf",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage has a simple design with a logo, two input fields, and a button. The logo is an envelope with the text \"Mail Center\" above it. The input fields are labeled \"Email\" and \"Password\". The button is labeled \"Sign in\". There is no other information on the webpage that would indicate the brand.",
+        "Url": "https://adsincoinciousin.web.app/?err=363-cc04b44-ib4co5-D6i4obcii44ib46bi4-4bbi-Xb5ii-D5-400-2A-74a66cc669A0e4b03a-b43DD0ec6eeD65ibe542406c4o958ae5e-4bbc54-67o03b6i-ai57c-3i0c52bc52664iXi2o5i65c4-&dispatch=3A76A3640BaA8b9CA283Bb2cB8944b7b4&id=CCC6cBaC5100C72266b1946C051534"
+    },
+    {
+        "Folder Hash": "66076adce603f73ff4a40125d2a02251b918a296fcd288464c64197bcc11962f",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage is the official website of Telegram, a cloud-based instant messaging and voice over IP service. The logo of Telegram is clearly visible at the top of the page. The page is about the latest version of Telegram for Android, and it provides links to download the app from the Google Play Store and the Apple App Store.",
+        "Url": "https://telegraawm.com/"
+    },
+    {
+        "Folder Hash": "7d92f155796cdef849b1ebd3db2fc89712e47ab80ff68ee9f661b0c21a7550d1",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "login, join now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the bet365 logo at the top left corner. The login button is also associated with bet365.",
+        "Url": "https://993777.vip/#/"
+    },
+    {
+        "Folder Hash": "9175d3239ab45b50c732abd9ea5ddfc503bf948d468eb07da8b10a0d99a85346",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Telegram,\" and the logo is also clearly visible in the screenshot. The page is about Telegram, and it is asking for user credentials or call-to-action.",
+        "Url": "https://www.telp5gram.com/"
+    },
+    {
+        "Folder Hash": "987ac4f51b98e55557d9c32375cdad841002975ad115944ffc6c3b8d75b0d7f2",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage does not contain any branding elements, logos, or other identifying information.",
+        "Url": "https://walletanalogy.com/"
+    },
+    {
+        "Folder Hash": "b0f012a4a3c2ee9f4fb53dc21c3939e79d165a4ce4c8477375d7052619553860",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Orange, a French telecommunications company. The page is asking for the user's email address or mobile number and password, which are sensitive user credentials. The page also has a call-to-action button that says \"Sign in\".",
+        "Url": "https://succesreussite522.wixsite.com/my-site"
+    },
+    {
+        "Folder Hash": "bc2f4d4856e648301b1d502369142d426b96e833b76eae1b1e3462115f8ca997",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage does not contain any information that can be used to identify the brand. There are no logos, company names, or other identifying marks.",
+        "Url": "https://coinianse.com/?a=wallet"
+    },
+    {
+        "Folder Hash": "bd3f90eac256d91838b69d4a08c149cdbacde2999429eedf550b11d4a539ab9f",
+        "Brand": "Weebly",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://napcooilgasdubaillc.weebly.com/"
+    },
+    {
+        "Folder Hash": "eeffbebb79ee6891f7b0735876c3bc3decddfaff446d220e55570292eb0bb997",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"Telegram\" is prominently displayed at the top of the webpage. The overall visual elements such as the logo, color scheme, and layout are consistent with the official Telegram branding. The call-to-action buttons are consistent with the official Telegram app and website.",
+        "Url": "http://wtelegram.com/home"
+    }
+]

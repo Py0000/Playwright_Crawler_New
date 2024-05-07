@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "002f8b3b3c7437776573c6b01cb46f6b664b3416bff0707d5840d09c3b849479",
+        "Brand": "Randolph-Brooks Federal Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign In",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The logo of Randolph-Brooks Federal Credit Union is clearly visible in the top left corner of the webpage. Additionally, the words \"Randolph-Brooks Federal Credit Union\" are present in the footer of the webpage. The webpage is asking for sensitive user credentials such as email and password. It also has a call-to-action button that says \"Sign In\".",
+        "Url": "https://botamist.com/question/index.php/"
+    },
+    {
+        "Folder Hash": "0075736fdaebf81c1e5f673304348c798bf650b09f19dccec502fc9f34407601",
+        "Brand": "DHL",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the DHL logo at the top left corner. The Register and Login buttons are also present on the top right corner.",
+        "Url": "http://socialmediaconsultant.ae/public/GkifIiocDbBMPhFu4b2WTMfeB8hMr8lo"
+    },
+    {
+        "Folder Hash": "016f3020da1ab462e7d51e06d95aca7663cd6b5c820f0edb53690773cbe78f59",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://vm65kiuw3gsf.s3.fr-par.scw.cloud/vm65kiuw3gsf.html?e=srikanth.ramaraj@servicemax.com"
+    },
+    {
+        "Folder Hash": "044d4978f8d1082b52f1bb7f2bd46c1a868bf052e09ed0f73a38307bcbbfb326",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the Facebook logo and branding. The text on the page also confirms that it is a Facebook webpage.",
+        "Url": "https://recoveryaccount1001.github.io/security/"
+    },
+    {
+        "Folder Hash": "04b797ea7ae28bea21f48c606968c432611a958f3f055ba6573f1adf9879fd5c",
+        "Brand": "Netshoes",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot. The overall layout and design of the webpage, including the fonts and colors used, are consistent with the Netshoes brand.",
+        "Url": "https://suaspromocoes.com/"
+    },
+    {
+        "Folder Hash": "0528733c4e5062a389d59780716150fe7a9e4076ae50ae018c2ebeb31b083c9b",
+        "Brand": "Bancolombia",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Continuar",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's logo is clearly visible in the screenshot, and the page's title is \"Sucursal Virtual Personas\". The page also has a form that asks for the user's username and password. The \"Continuar\" button is also visible in the screenshot.",
+        "Url": "http://ingresar-aqui-23o.hstn.me/?i=2"
+    },
+    {
+        "Folder Hash": "0629d0a540eef90790f16cf692fabf05364d6edaf9605ff49114d3573cf63bd4",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has a Facebook logo. The page requests a login code, which is a type of credential. The page also has a \"Send\" button, which is a type of call-to-action.",
+        "Url": "https://atbu.edu.ng/page-recovery879910/confirm2.html"
+    },
+    {
+        "Folder Hash": "06a6f2f698caaae653172fad8d42479bf4ee46eec0a7105a62c7664f89e96ca0",
+        "Brand": "SaskTel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://webmalsasktelcenter.weebly.com/"
+    },
+    {
+        "Folder Hash": "0915af9e31fad6c08f0b2cfb8413786d63d6036b4e410eb7a04cd07093e79fd2",
+        "Brand": "Commonwealth Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Client number, Password",
+        "List of Call-To-Actions": "Log on, Register for NetBank now, Message Us Now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Log on to NetBank\", which is the Commonwealth Bank's online banking platform. The webpage also has the Commonwealth Bank logo, which is a yellow and black rectangle with the words \"Commonwealth Bank\" in white. The page asks for the user's client number and password, which are sensitive user credentials.",
+        "Url": "http://kidsnews.ro/wordpress/wp-content/plugins/gWhbmXc33N/xt/mmd/32/ver/"
+    },
+    {
+        "Folder Hash": "096c389eb52df1f24493486a38dda64a9bf0ebbeeef81aa3e79bd54849035f23",
+        "Brand": "WSend",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of WSend, which is a mobile application for sending messages. The page also has fields for entering a phone number and email address, which are sensitive user credentials. Additionally, there is a call-to-action button that says \"\u0645\u062a\u0627\u0628\u0639\u0629 \u0645\u0628\u0627\u0634\u0631\u0629\", which means \"continue directly\" in Arabic. This suggests that the webpage is trying to get users to sign up for an account.",
+        "Url": "https://wsend.co/966504159031)"
+    },
+    {
+        "Folder Hash": "0c6486ca95a691d89464f30f735863d0fe00ba5af44029499381fc515b9e6dd5",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "Try 30 Days Free",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" in the logo and in the page title. The page also has a form that asks for the user's email address. The call-to-action button says \"Try 30 Days Free\".",
+        "Url": "https://sumitkumar7978.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "0e4deb9aef6b39c28d725a2170d09c3460b8051a59413fbe0b342e9286e8ef6a",
+        "Brand": "DBS",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"DBS Apple Rewards Store\". The logo of DBS is present at the top left corner of the webpage. The webpage is hosted on the domain \"dbs.com.sg\". The webpage is about DBS Apple Rewards Store.",
+        "Url": "https://dbs.applerewardsstore.com/"
+    },
+    {
+        "Folder Hash": "2f2178a5668fe8312229bca578ef6ffaf6d9adc390834081de9b4206f38b1258",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"MetaMask - A crypto wallet & gateway to blockchain apps\", and the logo in the top left corner is also MetaMask's logo. Additionally, the page contains links to MetaMask's social media pages and a link to download the MetaMask app.",
+        "Url": "https://metamask.wallet-app.com/"
+    },
+    {
+        "Folder Hash": "443e076c127c0fd9da9f7af758b163da699e704da1155a3890f13e0a6df0154a",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"Magazine Luiza\" is clearly visible in the logo at the top left corner of the webpage.",
+        "Url": "https://www.magazineluiza.com.br/pagina-nao-encontrada/"
+    },
+    {
+        "Folder Hash": "7d46c17bac6ab78a5f27410d683fa572de74e0e624a9c483a518a4b87bbf3a2a",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email address, password",
+        "List of Call-To-Actions": "Get Started",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Netflix, which is a streaming service. The webpage also has fields for entering an email address and password, which are typically used for logging in to an account. Additionally, the webpage has a call-to-action button that says \"Get Started\", which suggests that the user will be able to start using the service after providing their credentials.",
+        "Url": "https://iambablu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "854f797c119e78aab0e6cffb626e9653050cd1a04a0d1dc5f9fdedc787478c8b",
+        "Brand": "Serasa",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the logo of Serasa, which is a Brazilian credit bureau. The page is about Serasa Score, which is a credit score provided by Serasa. The page also has a form to login, which asks for the user's CPF (Brazilian individual taxpayer registry number) and password. The page also has a call-to-action button that says \"SIM, EU QUERO AGORA\", which means \"Yes, I want it now\".",
+        "Url": "https://serasascore.net/"
+    },
+    {
+        "Folder Hash": "884c9b8393ca0925b5d31b8db96d5ef48364cdff3ec72dbf9e577a4eb2666173",
+        "Brand": "BT",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Register",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the BT logo. The login form is also asking for email and password. The call-to-action button says \"Login\" and \"Register\".",
+        "Url": "https://sites.google.com/view/65h7t65ygtdw5f4/bt/"
+    },
+    {
+        "Folder Hash": "a8b433dc6c441e85ca22e5e9cb4c4d78f2700529a3a103160b5cedc1b2b7a677",
+        "Brand": "Battlegrounds Mobile India",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Login with Facebook, Login with X (Twitter)",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand logo is clearly visible in the screenshot. The webpage is asking for user credentials such as email and password. It also has call-to-action buttons such as Login with Facebook and Login with X (Twitter).",
+        "Url": "http://mail.esports-register.freexsuit.in/"
+    },
+    {
+        "Folder Hash": "d5d7c75ad8f0b2cdfaf7da0f98710f0db81e7129ccd1e82cae0efcbd64e29427",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has the word \"Netflix\" on the top-left corner, and the logo is also visible. The page is asking for the user's email address and password, which are sensitive user credentials. The page also has a call-to-action button that says \"Get Started >\".",
+        "Url": "https://subhrajit2003jeet.github.io/netflix-name/"
+    }
+]
