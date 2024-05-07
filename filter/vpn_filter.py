@@ -8,12 +8,20 @@ import numpy as np
 from tqdm import tqdm
 from filter.blank_image_analysis import BlankScreenshotDetector
 import imagehash
+import signal
 
 '''
 Used to filter out blank, error and duplicated images from dataset crawled for training VisualPhishNet
 '''
+timeout_duration = 15  
+def handler(signum, frame):
+    raise TimeoutError("Timed out!")
 
 def remove_duplicates(json_file_path):
+    target_folder = os.path.join('datasets', 'vpn_others', 'dup')
+    if not os.path.exists(target_folder):
+        os.makedirs(target_folder)
+
     with open(json_file_path, 'r') as file:
         duplicates = json.load(file)
     
@@ -21,7 +29,8 @@ def remove_duplicates(json_file_path):
         # Skip the first file (consider it the original) and delete the rest
         for file_path in files[1:]:  # This starts from the second item
             try:
-                os.remove(file_path)
+                target_path = os.path.join(target_folder, file_path)
+                shutil.move(file_path, target_path)
                 print(f"Removed: {file_path}")
             except FileNotFoundError:
                 print(f"File not found, could not remove: {file_path}")
@@ -34,8 +43,10 @@ def remove_duplicates(json_file_path):
 
 dataset_path = os.path.join('datasets', 'vpn')
 
-"""
+
+
 blank_detector = BlankScreenshotDetector()
+'''
 for brand_folder in os.listdir(dataset_path):
     print(brand_folder)
     blanks = {}
@@ -46,32 +57,97 @@ for brand_folder in os.listdir(dataset_path):
     count = 0
     for sample_folder in tqdm(os.listdir(brand_folder_path)):
         sample_folder_path = os.path.join(brand_folder_path, sample_folder)
-        image_path = os.path.join(brand_folder_path, sample_folder, 'self_ref', 'screenshot_aft.png')
-        if not os.path.exists(image_path):
-            shutil.rmtree(sample_folder_path)
-            print("does not exist", image_path)
+        log_path = os.path.join(brand_folder_path, sample_folder, 'self_ref', 'log.json')
+        target_folder = os.path.join('datasets', 'vpn_others', 'errors')
+        if not os.path.exists(target_folder):
+            os.makedirs(target_folder)
+        target_path = os.path.join(target_folder, f"{brand_folder}_{sample_folder}")
+
+        if not os.path.exists(log_path): 
+            shutil.move(sample_folder_path, target_path)
+            print("does not exist", sample_folder)
             continue
-        
-        with open(image_path, 'rb') as image_file:
-            image = Image.open(io.BytesIO(image_file.read()))
-            gray_image = np.array(image.convert('L')) # Convert image to grey-scale
-            sd = blank_detector.get_standard_deviation_of_grayscaled_ss(gray_image)
-            ce = blank_detector.get_canny_edge_count_of_grayscaled_ss(gray_image)
-            tc = blank_detector.get_length_of_text_in_ss(gray_image)
+        else:
+            # Set up a timeout for the processing
+            signal.signal(signal.SIGALRM, handler)
+            signal.alarm(timeout_duration)  # Set the alarm
 
-            is_potential_blank = blank_detector.is_potential_blank_ss(sd, ce, tc)
-            if is_potential_blank:
-                os.remove(sample_folder_path)
-                print("removed")
-                count += 1
-        
-    print(f"#blanks: {count}")
+            with open(log_path, 'r') as json_file:
+                try:
+                    data = json.load(json_file)
+                except:
+                    print(f"Error decoding JSON in {log_path}. Moving {sample_folder} to errors.")
+                    shutil.move(sample_folder_path, target_path)
 
+            ss_exist = data["Client-side screenshot obtained?"] == "Success"
+            html_exist = data["Client-Side HTML script obtained?"] == "Success"
+            collect_success = data["Status"] == 200
+
+            if not collect_success or not ss_exist or not html_exist:
+                shutil.move(sample_folder_path, target_path)
+                print("errorneous", sample_folder)
+                continue
+
+            # Reset the alarm
+            signal.alarm(0)
+'''
+
+for brand_folder in os.listdir(dataset_path):
+    print(brand_folder)
+    brand_folder_path = os.path.join(dataset_path, brand_folder)
+    if not os.path.isdir(brand_folder_path):
+        continue
+    
+    for sample_folder in tqdm(os.listdir(brand_folder_path)):
+        try:
+            sample_folder_path = os.path.join(brand_folder_path, sample_folder)
+            # Set up a timeout for the processing
+            signal.signal(signal.SIGALRM, handler)
+            signal.alarm(timeout_duration)  # Set the alarm
+
+            image_path = os.path.join(brand_folder_path, sample_folder, 'self_ref', 'screenshot_aft.png')
+            try:
+                with open(image_path, 'rb') as image_file:
+                    image = Image.open(io.BytesIO(image_file.read()))
+                    gray_image = np.array(image.convert('L')) # Convert image to grey-scale
+                    sd = blank_detector.get_standard_deviation_of_grayscaled_ss(gray_image)
+                    ce = blank_detector.get_canny_edge_count_of_grayscaled_ss(gray_image)
+                    tc = blank_detector.get_length_of_text_in_ss(gray_image)
+
+                    is_potential_blank = blank_detector.is_potential_blank_ss(sd, ce, tc)
+                    if is_potential_blank:
+                        target_folder = os.path.join('datasets', 'vpn_others', 'blank')
+                        if not os.path.exists(target_folder):
+                            os.makedirs(target_folder)
+                        target_path = os.path.join(target_folder, f"{brand_folder}_{sample_folder}")
+                        shutil.move(sample_folder_path, target_path)
+                        print("blank removed", sample_folder)
+            except Exception as e:
+                target_folder = os.path.join('datasets', 'vpn_others', 'blank_error')
+                if not os.path.exists(target_folder):
+                    os.makedirs(target_folder)
+                target_path = os.path.join(target_folder, f"{brand_folder}_{sample_folder}")
+                print("Analysis error for: ", sample_folder)
+                shutil.move(sample_folder_path, target_path)
+                continue
+
+
+            # Reset the alarm
+            signal.alarm(0)
+
+        except TimeoutError:
+            # Handle timeout
+            target_folder = os.path.join('datasets', 'vpn_others', 'blank_timedout')
+            if not os.path.exists(target_folder):
+                os.makedirs(target_folder)
+            target_path = os.path.join(target_folder, f"{brand_folder}_{sample_folder}")
+            print("Timeout occurred for", sample_folder)
+            shutil.move(sample_folder_path, target_path)
+            continue
     
 
-"""
+
 for brand_folder in os.listdir(dataset_path):
-    error_images = []
     duplicates = {}
 
     brand_folder_path = os.path.join(dataset_path, brand_folder)
@@ -81,10 +157,6 @@ for brand_folder in os.listdir(dataset_path):
     for sample_folder in tqdm(os.listdir(brand_folder_path)):
         sample_folder_path = os.path.join(brand_folder_path, sample_folder)
         image_path = os.path.join(brand_folder_path, sample_folder, 'self_ref', 'screenshot_aft.png')
-        if not os.path.exists(image_path):
-            shutil.rmtree(sample_folder_path)
-            continue
-        
         with open(image_path, 'rb') as image_file:
             image_data = image_file.read()
             # get image hash
@@ -98,7 +170,6 @@ for brand_folder in os.listdir(dataset_path):
         else:
             duplicates[img_hash] = [sample_folder_path]
         
-        print(f"Error images for {brand_folder}:\n{error_images}")
             
     
     result = {key: val for key, val in duplicates.items() if len(val) > 1}

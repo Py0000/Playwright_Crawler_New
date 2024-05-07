@@ -50,6 +50,7 @@ class GeminiProBaseline:
         self.prompt_generator = PromptGenerator(mode, prompt_version)
         self.response_parser = LLMResponseParser()
         self.model = GeminiModelConfigurator.configure_gemini_model(mode)
+        self.error_runs = {}
 
     def generate_full_model_prompt(self, few_shot_count, image, html_content):
         system_prompt, chain_of_thought_prompt, response_format_prompt = self.prompt_generator.get_prompt_sections()
