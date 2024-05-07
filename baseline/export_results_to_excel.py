@@ -92,6 +92,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Supply arguments required to convert responses to excel sheet")
     parser.add_argument("shot", help="Few shots used")
     parser.add_argument("mode", choices=["ss", "html", "both"], default="both", help="Choose the analysis mode.")
+    parser.add_argument("phishing_mode", choices=["phishing", "benign"], default="phishing", help="Choose the dataset type.")
     parser.add_argument("folder", help="Path to folder that contains Gemini Responses")
     parser.add_argument("sheet_path", help="Excel sheet file path")
     parser.add_argument("hash_col", default="B", help="File Hash Column")
@@ -104,8 +105,10 @@ if __name__ == '__main__':
     parser.add_argument("is_phish_llm", default="L", help="Is Phishing LLM Column")
     args = parser.parse_args()
 
-    folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC + Constants.BENIGN_FOLDERS_VALIDATED
-    
+    folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC
+    if args.phishing_mode == 'Bening':
+        folders = + Constants.BENIGN_FOLDERS_VALIDATED
+        
     for folder in folders:
         # Sample args.folder = baseline/gemini/gemini_responses/prompt_1_html_only/0-shot
         json_file_path = os.path.join(args.folder, f"{args.mode}_{folder}_{args.shot}.json")
