@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "001286e0de268da6f43c0c4b6a2a9d05fd57a40e6bb8e345ab0e4647a56b6a10",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is identifiable based on the following evidence:",
+        "Url": "http://socialmediaconsultant.ae/public/BcLhGPsZs8l4WqLGT1a41XksuKh8zrjS"
+    },
+    {
+        "Folder Hash": "00769766e55ba283eb9f8abb741c158c9df528b1193b2ac2dc8688c16637d315",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "I cannot identify the brand with confidence because there is not enough information provided in the HTML script.",
+        "Url": "https://sites.google.com/view/stilmafosido09"
+    },
+    {
+        "Folder Hash": "007b1d5575ec1fc8f753529950ed22348b62593321aee5335c3222747140da5d",
+        "Brand": "MICROSOFT ONEDRIVE",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The footer text includes \"\u00a9 2022 Microsoft\" and the nav bar content includes \"ONEDRIVE\". These pieces of information, when combined, strongly suggest that the brand is MICROSOFT ONEDRIVE.",
+        "Url": "https://www.businessintegral.com/Microsoft/Pdf/pdf.htm"
+    },
+    {
+        "Folder Hash": "00e8c015bd38f9f8977fc60b27787c56855b7a9b5f0885dece761a27566b2cfb",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly mentioned in the footer text as \"Deutsche Post AG\". DHL is a subsidiary of Deutsche Post AG, which is the parent company of the DHL Group. The logo in the header further supports this identification, as it is the official DHL logo.",
+        "Url": "http://www.socialmediaconsultant.ae/public/st0v0n8vFgkUtIUNY6lMnshyToz9omQc"
+    },
+    {
+        "Folder Hash": "0153b05f0a495843ff1a0ca2ed1e1579da4f21f9e4dcbc62821f89b7e2d45f01",
+        "Brand": "Instagram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Instagram\", which is a strong indicator of the brand. Additionally, the footer text includes \"Instagram from Meta,\" confirming that the brand is Instagram.",
+        "Url": "https://login-instagram.glitch.me/"
+    },
+    {
+        "Folder Hash": "01eb66d75786faa56381f840389115c31e55be402bd4837fb99bbc7becad4966",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://pub-783142150b6146fda36673e880e8d058.r2.dev/passwordreset.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "0343509c92d5b3edcd97a96d2e561d7adbdcba3173ee1d9d5b31ff912426f2a9",
+        "Brand": "Meta",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The title of the webpage is \"Facebook Business Help Center\". The footer text includes the name \"Meta\" which is the parent company of Facebook. The header text includes \"Meta Support\", which is a clear indication of the brand. The \"meta_description\" information is missing, but this does not affect the brand identification. The other information, such as favicon, logo attribute, and nav bar content, is not available in the provided information, but they are not necessary for identifying the brand in this case. Overall, the brand of the webpage is likely Meta, with a confidence score of 8.00 on a scale of 0.00 to 10.00.",
+        "Url": "https://contact-support-id-7142058396.start.page/facebook.com"
+    },
+    {
+        "Folder Hash": "0360c9171650b13252f74c85e9380f18d64dc1ed0be3fc1ee1768cdd366b3b31",
+        "Brand": "Amendes.gouv.fr",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage, 'Site officiel unique de t\u00e9l\u00e9paiement | Amendes.gouv.fr', clearly indicates the brand as 'Amendes.gouv.fr'. The footer text also mentions '(C) Direction g\u00e9n\u00e9rale des Finances publiques -' and 'Mentions l\u00e9gales', corroborating the brand identification.",
+        "Url": "https://track-delivery.eu/antai/search.php?session=ea1432a28db7c1c58021845ec748a339"
+    },
+    {
+        "Folder Hash": "039a5c6bb048f5f67d48870f8d22e955152657284a4a88ce04abab2d88865f3e",
+        "Brand": "Raiffeisen Bank International",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://web12105.cweb06.gamingcontrol.de/"
+    },
+    {
+        "Folder Hash": "045fc0468bbf1a93e71d4e543d29da438d5c930342e92a1db8f081f817c75b37",
+        "Brand": "PayPal",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The HTML information contains multiple references to the brand \"PayPal\".",
+        "Url": "http://haroldhazard1-wixsite-com.filesusr.com/html/3ff7c4_39f5e951394368f9e49c63fbf3166add.html"
+    },
+    {
+        "Folder Hash": "1aee5d2661551cd8af9159ff0bcfe8a7f682fce3d5231069a7ea5a5d71f4efbf",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://radhikakakkar.github.io/page-clone/"
+    },
+    {
+        "Folder Hash": "539e5117f9dba194cbffe6f54f9b1eb80e63ef4fef7ef81159cbacb13758704b",
+        "Brand": "Raiffeisen Bank",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The favicon of the webpage is the logo of Raiffeisen Bank. The favicon is a small icon that appears in the browser's address bar or tab, and it is often used to identify the website. In this case, the favicon is a blue and white circle with the Raiffeisen Bank logo in the center. This strongly suggests that the webpage is related to Raiffeisen Bank.",
+        "Url": "https://web12104.cweb06.gamingcontrol.de/personal.php"
+    },
+    {
+        "Folder Hash": "6b20936058c6e0d9c4fe89fa7d80898ff11ac787ca2d0b1b56e59addc67d4d67",
+        "Brand": "NetZero",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is identified based on the information provided in the title, footer, and paragraphs of the HTML script. The title clearly states \"Home | NetZero Webmail,\" which indicates that the webpage is associated with NetZero. The footer text includes the phrase \"\u00a9 NetZero Webmail,\" further confirming the brand identity. Additionally, one of the paragraphs mentions \"Sign in to your NetZero Message Center,\" which is a specific service offered by NetZero.",
+        "Url": "https://netzero-webmail-107432.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b64ef9ef4778bf022bf1f80323fbfe10bd9338a226b169093cd61ffbd715571c",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The information is insufficient to identify the brand. The title, meta_description, favicon, logo_alt_text, footer_text, and nav_bar_content are all not found.",
+        "Url": "https://wkq.fr/f/X47lJ/HJgKD1Ji/"
+    },
+    {
+        "Folder Hash": "b8ffbd64dfa99d3e37956e203094c742345d6452375bbdcc465cf00499a87970",
+        "Brand": "BNP Paribas",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly identified in the title of the webpage, which is \"BNPPARIBAS NET IDENTIFICATION\". Additionally, the footer text includes the brand name \"BNP Paribas\" and the domain name \"NouvelleCaledonie.bnpparibas.nc\". The email address provided in the footer text also includes the brand name.",
+        "Url": "https://www.taka.com.mx/pv/dist/js/pages/chartist/groupbnpparibasnc/app/user.php"
+    },
+    {
+        "Folder Hash": "cb8de0eb3aa49fb382799d2d4457e838b4bd036dfbf8b9c4ed64147fecbe952e",
+        "Brand": "bpost",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://pakket-bpost-be.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "da9b8f6bdc3e88e6e63acd994af58d87a965a27d92931bd273a8d9a3c4ec0447",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The webpage's favicon is from the \"cdn.vn.garenanow.com\" domain, which is owned by Garena. The webpage's title also contains the phrase \"Garena Free Fire\". Furthermore, some of the text in the headers and paragraphs contains \"Free Fire\", suggesting that this webpage is related to Garena Free Fire.",
+        "Url": "http://ff.memberrs.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    }
+]

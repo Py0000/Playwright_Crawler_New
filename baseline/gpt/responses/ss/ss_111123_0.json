@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "01f62a6f90bf926aca8612e88b6c6c058eeae374ff553ded0e6f65b5d05a81f8",
+        "Brand": "Vidar Pro",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot prominently features the name \"Vidar Pro\" at the top of the login box, suggesting that it is the brand associated with this webpage. This is supported by the use of a specific design and typography that associates with the brand's identity. Additionally, there are fields for entering a Login and Password, which confirms that the webpage is requesting sensitive user credentials. The \"Sign in\" button, being a direct action element, serves as a call-to-action for users to submit their credentials. There is no presence of other logos or branding elements which could suggest a third-party brand, supporting a high confidence level in the identification of the brand as Vidar Pro.",
+        "Url": "https://my-odin.com/auth/login/258?ddosprotected=1"
+    },
+    {
+        "Folder Hash": "0300b2a1e5683987e733afd8d4305b235854fc4a90abdf839fbc09b97b3da12a",
+        "Brand": "Bancolombia",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "16-digit card number, card expiration date, CVV",
+        "List of Call-To-Actions": "\"Validar\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly features the \"Bancolombia\" logo at the top left corner, indicating that the webpage is associated with the Bancolombia brand. This is supported by the fact that the web address, visible elements, and contact information provided in the footer, specifically the multiple phone numbers listing cities known in Colombia, align with Bancolombia's known business operations. Moreover, the page design and terminology used also suggest a financial institution's setting typical of Bancolombia. Additionally, the copyright information at the bottom, \"Copyright \u00a9 2022 Bancolombia S.A.,\" further solidifies the identification of the Bancolombia brand.",
+        "Url": "https://thuonghao.com/app-mobil-segure-personailsucursalpersonal/mua/VALIDATECARD/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "049b4850c4e9aebc9e29f8ac43f50f06e25c3c7154a716a08ae597e38eb8f9f6",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or Phone, Password",
+        "List of Call-To-Actions": "\"Sign in\" button, \"Forgot password?\", \"Continue with Google\", \"Sign in with Apple\", \"Join now\"",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as LinkedIn is based on the clear presence of the LinkedIn logo at the top of the screenshot, which features its distinctive wordmark. Additionally, the webpage's layout and design, including the color scheme and the styling of the sign-in form, are consistent with LinkedIn's branding. Furthermore, the footer of the screenshot includes references to LinkedIn-related information, such as the copyright statement and links to LinkedIn's User Agreement and Privacy Policy. This combination of visual and textual elements confirms the identity of the webpage as belonging to LinkedIn.",
+        "Url": "https://swamyarts.com/wp-content/updates/linkedln/index.php"
+    },
+    {
+        "Folder Hash": "05f2c6334509ddb5cea0d00935602de3b5cebf9e4f86bfb7a8f94df07d4b80be",
+        "Brand": "Ministerio de Finanzas de C\u00f3rdoba",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Automotor, Inmobiliario, Ingresos Brutos, Sellos, Multa de Caminera, Embarcaci\u00f3n, Tasa Retributiva, Uso del Agua, Salud, Conceptos Varios a Pagar",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage screenshot showcases a clear logo and mention of \"Ministerio de Finanzas C\u00f3rdoba\" at the bottom alongside government and symbolic branding elements such as the emblem. The page layout and design are oriented towards government service delivery, indicated by the button options related to tax and other public payments which align with typical functionalities of a finance ministry's responsibilities. There is no visible field for logging in or entering sensitive personal credentials directly, hence, the lack of credentials data entry. The page appears to provide direct links or buttons as call-to-action items to proceed with various payments or inquiries, each clearly marked with text and icons reflecting specific services or tax categories.",
+        "Url": "http://186.64.113.60/"
+    },
+    {
+        "Folder Hash": "0616047c17b64259dcfae6be6fcf5017f5bd58f0af19b115724a301d52ff8d38",
+        "Brand": "Font Awesome",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Sign in with email\" button, \"Sign in with Apple\" button, \"Sign in with Google\" button, \"Forgot your username or password?\" link",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage features a prominent display of the Font Awesome logo at the top, which is a distinctive iconography featuring a text-styled logo of the word \"Font\" and a graphic representation of the \"a\" in \"Awesome.\" This logo is very specific to the Font Awesome brand, which is known for providing icon sets and tools. The screenshot also features icons and features characteristic of Font Awesome services, such as icon displays and tools for developers. The call-to-action elements and credential fields are visible in the sign-in section towards the bottom of the screenshot, indicating areas where users can enter their email and password to log in, with additional sign-in options provided through Apple and Google. The layout and design elements like the color scheme and chosen fonts correspond well with the known branding elements of Font Awesome.",
+        "Url": "https://fakinthefunk.net/en/"
+    },
+    {
+        "Folder Hash": "06577e85ba18ef4cff7bd9a369b710a5dc8b2030992cd8903b0e81cd740ec17f",
+        "Brand": "Skat.dk",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cpr-nummer",
+        "List of Call-To-Actions": "Forts\u00e6t button, V\u00e6lg en anden login-type link, Bestil ny TastSelv-kode link",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage features a top banner with the logo \"skat.dk,\" which indicates it is a brand or organization related to tax services in Denmark (as \"skat\" refers to tax in Danish). The domain \".dk\" also supports the conclusion that this is a Danish service. The page's primary function is user login via a Cpr-nummer (a Danish personal identification number). This functionality and the language used (Danish) strengthen the identification of the brand. Given these elements, the confidence in identifying the brand as Skat.dk is high.",
+        "Url": "https://dymdlxd0.dreamwp.com/skat/"
+    },
+    {
+        "Folder Hash": "06731e5c35cd2a6a6756371281d67046a96917a927162af03fa41fd483df0ffc",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"Next\" button, \"Create one\" link, \"Can't access your account?\" link",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot provided shows a sign-in panel with no distinct branding or logo visible, making it impossible to determine the company or brand solely from this image. It asks for an \"Email address\" under the \"Sign In\" heading but does not reveal which company this webpage belongs to. There are sign-in assistance options including creating a new account and accessing an existing account if the details are forgotten. The absence of specific graphical or textual brand identifiers such as logos or unique design elements means that without additional context or branding, identification cannot be confidently ascertained.",
+        "Url": "http://pickup.socialsmp.com/6c20a4/d4cb05f2-2f0a-4809-99d6-f8ceb74fc8c3"
+    },
+    {
+        "Folder Hash": "0674746372d4892e07fedfff01995f903c0731a77ef48d7a687ba3eeeea00ef5",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in, Forgot password?",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot provided includes a clear Microsoft logo and uses a clean, minimalistic design typical of Microsoft\u2019s authentication pages. The page focuses on a user \"tamer@genero.ae\" entering their password to access sensitive information. The \u201cMicrosoft\u201d branding is prominent at the top of the page. Additionally, the use of a \"Sign in\" button and a link for \u201cForgot password?\u201d are typical User Experience (UX) elements aligned with Microsoft\u2019s design ethos. The domain mentioned (@genero.ae) does not influence the brand identification as it appears to be a user-specific email, not part of the page\u2019s infrastructure.",
+        "Url": "https://pub-f8d80b6d04ca412db7362da34f726f2c.r2.dev/themd.html?email=tamer@genero.ae"
+    },
+    {
+        "Folder Hash": "06aaa6bfb9c44593ec01d0e2b6ecfb47a2c081499eb544017f6a6de2a724a460",
+        "Brand": "Orange",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"OK\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the logo of Orange, along with the thematic color orange that is associated with the brand, used both in the logo and throughout the website design. The presence of the term \"Orange\" right below the logo further confirms the brand identity. The page appears to be a promotional or contest page labeled \"Concours Orange\" indicating a competition or prize offer related to Samsung Galaxy S21+ giveaways. There's no visible field requesting sensitive credentials such as email, username, or password. However, an interactive call-to-action is present in the form of an \"OK\" button, potentially to start or enter the contest. The social media-like comments at the bottom also suggest user interaction. The branding elements along with the website design highly suggest the page belongs to Orange, a known telecommunications brand.",
+        "Url": "https://www.dailyprizehub.com/africa/ci/orange-box-1/orange-fr-1.php"
+    },
+    {
+        "Folder Hash": "07c235723b12f49ecb0e0768251e0458c5ffccfec4ba897217927566341af22a",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Next\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot features the AT&T logo at the top, which is a well-known telecommunications company. Underneath the logo, the page is titled \"Sign in to access AT&T Mail and Currently.com,\" explicitly mentioning AT&T. The presence of fields labeled \"Email\" and \"Password,\" along with an asterisk indicating that they are required fields, confirms that this is a login screen collecting sensitive user credentials. Additionally, there is a blue \"Next\" button which is a clear call-to-action for users to proceed with the sign-in process after entering their credentials.",
+        "Url": "https://lnetioghsljhfdgfhgjhksdgfhsjfgqwa.weebly.com/"
+    },
+    {
+        "Folder Hash": "080400a34c76a858cf97e3c35aea56725e03abc5ccf35abf3bad157966d69cd8",
+        "Brand": "e-Devlet Kap\u0131s\u0131",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "T.C. Kimlik No (Turkish Identification Number), Kredi Kart\u0131 Numaran\u0131z (Credit Card Number), Son Kullanma Tarihi (Expiration Date of Credit Card), CVV Kodunuz (Credit Card CVV Code)",
+        "List of Call-To-Actions": "\u0130ptal Et (Cancel Button), \u0130ade Sorgula (Query Refund Button)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis is based on visual cues from the screenshot of the webpage. It prominently displays the logo and name \u201ce-Devlet Kap\u0131s\u0131\u201d suggesting it's associated with the Turkish Government's official e-Government Gateway. The domain mentioned in the top right corner also includes \".gov.tr\", which is commonly used by Turkish government websites. This aligns with the e-Devlet Kap\u0131s\u0131 branding. There are also text inputs for sensitive information such as a national ID number and credit card details, indicating a high-security intended use typical for government services. The layout, design style, and language (Turkish) reaffirm the service\u2019s national authenticity and operational context.",
+        "Url": "https://www.sdafsdafsadfsa.com/"
+    },
+    {
+        "Folder Hash": "08781a691dc282328ab9521595a98f035b216c20e274f142720308510fc8c620",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone",
+        "List of Call-To-Actions": "Next, Create account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the Google logo at the top, followed by \"Sign in\" and \"Use your Google Account\" which are typical identifiers for Google's sign-in page. The layout and styling, including the font and button design, are consistent with the official Google login aesthetic. The presence of options such as \"Forgot email?\" and \"Not your computer? Use Guest mode to sign in privately.\" further corroborates that this is a genuine Google sign-in page. The overall design simplicity and functional clarity align with Google\u2019s user interface standards.",
+        "Url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fsaberrbai&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fsaberrbai&ifkv=AVQVeyzuDGIiGNIUN5yykXcEFpQQKz2r3DlTni2-BKJitVeIDu_F-eLdcDcsa24UzdNVmE5pezGtJg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1242046031%3A1699655620535054&theme=glif"
+    },
+    {
+        "Folder Hash": "19063c2a9c8014dab7fb571c3bb74948fd42a6eeb9faa9eae4c48a766aabddf0",
+        "Brand": "Outlook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User name, Email Address, Password, Confirm Password",
+        "List of Call-To-Actions": "Submit button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot includes a prominent logo of Outlook at the top center of the webpage along with the styled \"O\" icon on the left that is distinctively associated with the Outlook brand, which is part of Microsoft's suite of products. The design of the logo and the colors used (blue and white) are consistent with the official branding of Outlook. The form itself, designed for user input of credentials such as username, email, and password, aligns with what would typically be required for a login or account setup process within the Outlook service. This combination of visual and textual elements allows for a confident identification of the Outlook brand.",
+        "Url": "https://lamarinatalca.cl/owa/webapp.html"
+    },
+    {
+        "Folder Hash": "1c2b996e5f4670be1c3afd40f3f60030c082f688a7771123fcaffaa1bfd5d232",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The confidence score is 0.00 because there is no visible brand identification such as a logo or specific graphic elements that are associated with a recognizable brand in the provided screenshot. The page is very generic with a simple \"Please sign in with your email\" message at the top. The absence of distinctive branding elements, such as unique typography, color schemes, or other corporate identity features, makes it impossible to confidently identify a brand just from this image. The focus of the screenshot is primarily on the login functionality.",
+        "Url": "https://779425.selcdn.ru/mail-management/kerma-index4.html"
+    },
+    {
+        "Folder Hash": "5252961c958214b41129b9e152aa622926b14d4ab8c41b817a393de71435739f",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Email Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot displays a login page without any distinct branding or identifiable logos that can be recognized. It merely shows a generic looking interface with two fields labeled \"Username\" and \"Email Password,\" and a \"Sign in\" button. The logo present at the top is also generic and does not correlate with any widely recognized brand logos. Given these observations, it is determined that there is insufficient information to confidently assign a brand to this webpage. The assessment is entirely based on the visible elements of the screenshot, adhering to the rule of avoiding external checks or interactive investigation.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeialf2tdeo2jb3u3ltluqzn4pcqxhv2xvwfnr5hq5vocvhlwjynkca/svr2-mr1.html"
+    },
+    {
+        "Folder Hash": "5de65c58800342fe00346912a98d262bb3d5396cbc5d016a9f1f66d193009bf5",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Password",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot provided shows a login interface requesting an \"Email Password\" but lacks any distinctive logo or brand identifier that is visible and recognizable. The design is generic, featuring only a basic blue top bar that does not contain any identifiable marks or text linked clearly to a specific brand. The absence of a recognizable logo or unique design elements in this image leads to the inability to confidently identify the brand associated with this webpage screenshot. The overall generic design and minimalistic branding attempts in the user interface elements shown further support the lack of identifiable brand information.",
+        "Url": "http://oasis-alabaster-exception.glitch.me/"
+    },
+    {
+        "Folder Hash": "79d7c3abdfc66bd28bfb36f3a0c69f4ba5600207dc62693f8196929543da2540",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot shows a login interface without any specific branding elements visible, like a logo or recognizable graphic design that could help identify the brand. It includes fields for \"Email\" and \"Password\" and a \"Login\" button, confirming the presence of sensitive user credentials and a call-to-action element. However, without any distinctive branding or marked identifiers, it's impossible to confidently determine the brand associated with this webpage screenshot. The generic appearance suggests that it could belong to numerous entities, hence the absence of a brand identification score.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeigarvbzkhzzbljgreisft7r4mw3tdhakobwkzdlliwdblrgxx3ciq/index1.html"
+    },
+    {
+        "Folder Hash": "8c340d59563cfab5558c149dff976b8839cc36bf9ea65f54104ed635cd1965eb",
+        "Brand": "Webmail",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.20",
+        "Supporting Evidence": "The screenshot prominently displays the logo \"Webmail\" along with the tagline \"Web mail access application,\" which identifies the brand as Webmail. Below this, there are fields marked for \"Email address\" and \"Password,\" which are standard login credentials for such services. There is also a \"Sign in\" button present, serving as a clear call to action for users to log in. The design of the page and the elements present support a primary function as a webmail service. The screenshot includes a copyright notice at the bottom stating \"\u00a9 2023 Webmail. All rights reserved,\" reinforcing the identification of the brand.",
+        "Url": "https://pub-9e11a359d213455e8ad57f733583373b.r2.dev/aask.html"
+    },
+    {
+        "Folder Hash": "94384aebc536f4fdaa4e01806dc2549f23dc1f806d7c659600aefc39b423ea78",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Log In button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot provided includes a login prompt asking for an email address and a password, which indicates the presence of sensitive user credentials. A primary \"Log In\" button serves as a clear call to action for users to submit these credentials. However, there is no discernible brand logo or specific branding feature visible in this screenshot that can reliably identify the brand. Thus, without any identifiable brand-specific signs, icons, or unique design elements, the confidence score in accurately identifying the brand associated with this webpage is 0.00. Furthermore, the ambiguity of the text and design presents a generic appearance, which does not link to any specific brand or service, underscoring the inability to identify the brand from this screenshot alone.",
+        "Url": "https://appsecure-adsbusiness-pages-en.github.io/cinora/import/"
+    },
+    {
+        "Folder Hash": "9ff57ffe4d1de67efdad1507613d0dfea4ad0b8067bb495a8a1ea3743a884d9f",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the Zimbra logo at the top, along with the text \"a Synacor product,\" indicating the brand. The brand identity is supported by the consistent color scheme and typography that matches Zimbra\u2019s branding elements which are known from their official materials. Additionally, the webpage appears to be a login portal, typical for Zimbra's web-based email and collaboration tools, asking for user credentials such as username and password. The presence of a \"Sign In\" button emphasizes a direct call to action characteristic of login screens.",
+        "Url": "https://pub-ccb2162674f0423993958b6739a1fc20.r2.dev/34324ummi.html"
+    },
+    {
+        "Folder Hash": "d3f3142a2631e578a8d523243f0daabedb8a898028658c5eba80f7dd54629dcb",
+        "Brand": "globoplaynews.com",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Funded Trading, Free Online, Online",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The webpage screenshot displays a clear text mentioning \"globoplaynews.com\" at the top, suggesting that this is the brand/website name showcased. The design elements such as a dark geometric background and formatted buttons provide a professional but generic appearance and do not disclose specific credentials. The domain's availability notice (\"Buy this domain.\") potentially indicates a placeholder or sale page rather than an actively managed content site. Therefore, while it distinctly shows the brand name, the functionality of the site appears limited to exploring related keyword links, which serve as call-to-action fields inviting user interaction. Thus, while the brand is discernible, its purpose and operational status are not fully clear from this screenshot alone.",
+        "Url": "http://bemestar.globoplaynews.com/"
+    }
+]

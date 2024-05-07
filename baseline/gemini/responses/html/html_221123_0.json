@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0023d5ce7e7eb84572b4f6fe9d4883a841023bd836b7781cfc713b1e72ac8a5a",
+        "Brand": "bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand was explicitly stated in the title of the webpage, the footer text, and the span element under the navigation bar.",
+        "Url": "https://bet988s.com/home"
+    },
+    {
+        "Folder Hash": "003d297f628fb38c0eb0fad53c163febab6fc878feaccf2e62ad749965d24149",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand can be identified from the favicon, logo, and title information. The favicon is highly associated with Microsoft Outlook. The logo alt text for the webpage is also missing, which is often the case with Microsoft products. The title of the webpage is 'Outlook', which is the name of the email service provided by Microsoft.",
+        "Url": "https://pub-718c8309d9b14a8084b53d0a2ba966ec.r2.dev/owam-out.html"
+    },
+    {
+        "Folder Hash": "02121e9c2b17a6f9ec15c2a33a3f0bf53c45715b191135a956eff5e67c71760e",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information does not contain any brand-identifiable information. The title, footer, and navigation bar texts are all generic and do not provide any clues about the brand.",
+        "Url": "https://outlookkupdateteam.weebly.com/"
+    },
+    {
+        "Folder Hash": "02702b7bb2ffe7f048827fd282a4b0ccd5cc509572e9c400ed4ae06e78215ad8",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Netflix | india\", which directly identifies the brand as Netflix. The header text also includes \"Unlimited movies, TV shows and more.\", which is a well-known slogan of Netflix.",
+        "Url": "https://muzammilx07.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "029332bdffafd7fb20351d37cc249016aec88052f780e63c312bdd9272c54728",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Sharing Link Validation\", and the footer text includes \"\u00a9 2023 Microsoft\". This clearly indicates that the brand of the webpage is Microsoft.",
+        "Url": "blob:https://cloudflare-ipfs.com/4876b9aa-4a54-4bda-bf4a-f18dca171c84"
+    },
+    {
+        "Folder Hash": "02e057e662009be6cb25874ef8c00a4c1139241905f35ca6e6a86ff83354c0cf",
+        "Brand": "s.id",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The title of the web page is \"Oops, You accessing Forbidden Link! What is that? - s.id\". The footer text includes \"s.id\". The nav bar content includes \"s.id home\". All these pieces of evidence strongly suggest that the brand of the web page is s.id.",
+        "Url": "https://blog.s.id/post/2022/05/19/oops-you-accessing-forbidden-link-what-is-that-9m00gu9i3?utm_source=home_sid&utm_medium=redirect"
+    },
+    {
+        "Folder Hash": "04dbaf92ef0ca1fed2f2eb85bac36e693abdb609b77ae6eb50096805b648a954",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The favicon of the webpage is https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico, which is the same as Facebook's favicon. Furthermore, the title of the webpage is \"Account Locked\", which is consistent with Facebook's security measures.",
+        "Url": "https://verification-page-ads.com/lDnxYCc3TxKSgVVslCHAiXjcXv1eSif6k0YAo2vrf8gNJO119rBpXuhvMCvy13uA48Yow8xBXFczNxhfTrangdau.html"
+    },
+    {
+        "Folder Hash": "05163733c2cf79688a519d349974d5e2460ee4080f53868a9431f00c8cdb0474",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title contains \"AT&T\", and the header text also includes \"AT&T\".",
+        "Url": "https://att-103108.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "06da2b349d8391aed062b2ac23ed538011cd1fc24a85805a7223173dd125a3aa",
+        "Brand": "Gemini",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage title is \"Gemini - Sign In\", which strongly suggests that the brand is Gemini.",
+        "Url": "https://renablegemini-signin.web.app/cb0ea6f2d1c9d246f7529c1317e227ac1aa38"
+    },
+    {
+        "Folder Hash": "06dcb99194d692e1b64a50577befe70a1baadadace9dabcb1e1888f52726322f",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Home | att\", which strongly indicates that the brand is AT&T. Furthermore, the nav_bar_content also includes \"AT&T Mail\", which further supports the identification of the brand as AT&T.",
+        "Url": "https://att-107333.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "1132d513064f9cbd06d4a67e55d71d05de1b057a83e53bf890fbe38cb7d3ee96",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Netflix India \u2013 Watch TV Shows Online, Watch Movies Online\". The footer text includes \"Questions? Call 000-800-919-1694\" which is Netflix's customer service number. The nav bar content includes \"Sign In\" which is a common feature on Netflix's website. Overall, the information provided strongly suggests that the brand of the webpage is Netflix.",
+        "Url": "https://kshravyab.github.io/Movies/"
+    },
+    {
+        "Folder Hash": "6a6851eb5446ab402cd5df390b32a4ab9ee1953460ace99c4968db255a548ec8",
+        "Brand": "Creagidem",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The brand name \"Creagidem\" is mentioned several times in the HTML information, such as in the favicon file name (\"Icone_CREA_74688599_.png\") and in the footer text (\"2023 - Tous droits r\u00e9serv\u00e9s - Version 1.5.1\"). Additionally, the title of the webpage is \"Accueil\", which is the French word for \"Home\", indicating that this is the homepage of the Creagidem website.",
+        "Url": "https://tools.creagidem.com/moncrea"
+    },
+    {
+        "Folder Hash": "97b410d0e17b4bb3f6bafe57b4d5e84b3e4aa44ddfa17bd5a84277fb46e5b6f2",
+        "Brand": "Metamask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is strongly suggested by the title, headers_text, footer_text, and nav_bar_content, all of which include \"Metamask\". The URL of the favicon is also on the official website of Metamask.",
+        "Url": "https://metamsilogin.teachable.com/"
+    },
+    {
+        "Folder Hash": "a5730957b4e0e813dd1209a8ec64d9b6df5c428b3d4488be4387bd59800af9ba",
+        "Brand": "Free Hold Properties",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.23",
+        "Supporting Evidence": "The brand is identified based on the meta description, favicon, and footer text. The meta description mentions \"Free Hold Properties\", the favicon is the logo of Free Hold Properties, and the footer text includes the copyright information of \"Free Hold Properties\".",
+        "Url": "https://freeholdproperty.ae/wp-admin/x8z9.php?el20=3mail@b.c"
+    },
+    {
+        "Folder Hash": "c0fde17683b2fe017214e7a1ab39cbad6538adaa4fe41ab082060ea15c557eb9",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"My Files - OneDrive\". Additionally, the favicon and logo both display the Microsoft OneDrive logo, which is a blue cloud with a white \"O\" in the center. The footer text includes \"OneDrive |\".",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmbSH4QTBtodXn7AWC9ajietCHNcLowXxf2JRiSf3Ei4aW"
+    },
+    {
+        "Folder Hash": "c1a2ca3a66d8fc408ad6daf129d1f8b2ddd415f1847c296a703cc6678215e450",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information does not contain recognizable brand identifiers, such as a brand name, logo, or website URL. Therefore, it is not possible to identify the brand with certainty.",
+        "Url": "https://savasten0.cc/"
+    },
+    {
+        "Folder Hash": "c60ac9f23b634af849beeddc946b34f83f160bfdc16583b49891fe8e05863d36",
+        "Brand": "\u00c9tudes",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The webpage's title, \"My Blog - My WordPress Blog,\" initially does not provide any clues about the brand. However, the footer text, \"My Blog \\n         \\n         My WordPress Blog \\n        \\n          About \\n         \\n\\n               Team \\n              \\n\\n               History \\n              \\n\\n               Careers \\n              \\n\\n          Privacy \\n         \\n               Privacy Policy \\n              \\n               Terms and Conditions \\n              \\n               Contact Us \\n              \\n\\n          Social \\n         \\n               Facebook \\n              \\n               Instagram \\n              \\n               Twitter/X \\n              \\n\", includes the text \"\u00c9tudes,\" which suggests that it may be related to the brand. The nav bar content further supports this, as it includes the text \"\u00c9tudes Architectural Solutions,\" confirming that the brand is \u00c9tudes.",
+        "Url": "https://leieem.com/"
+    },
+    {
+        "Folder Hash": "dabac25b314a758b2ade58de5be3f6790a2ced935d0f4cfd8fc8cba694f571c9",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The HTML script does not contain any identifiable brand information. The title \"Mail :: INBOX\" is generic and does not provide any clues about the brand. The meta description, favicon, logo alt text, footer text, header text, nav bar content, paragraphs text, and span text all have the value \"Not Found,\" which indicates that there is no relevant brand information available in the HTML script.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreihnecv6xgkb7axyv3tbhulcl7yt5t2gmhs5xgfxxfikqdcoil73d4"
+    },
+    {
+        "Folder Hash": "e330ef7a7761bf403e97ad9d57f54e18bbeb3009f04fa0d13ab42e38abd6a9ff",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is mentioned in the title as \"Netflix India - Watch TV Shows Online, Watch Movies Online\", the footer text as \"Netflix India\", and the headers text as \"Frequently Asked Questions | Netflix India\". The logo is also present, but the alt text is not available. The favicon contains the Netflix logo, which further supports the identification of the brand.",
+        "Url": "https://akkpk.github.io/Netflix-clone/"
+    },
+    {
+        "Folder Hash": "e88468e8a894aefeb45f8c645e4e0569690eef94fb824a72f7e85084dc1ab0f7",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title clearly states \"Netflix India - Watch TV Shows Online, Watch Movies Online\". Additionally, the favicon belongs to Netflix, and the footer text also references Netflix multiple times.",
+        "Url": "https://kadamgp.github.io/Netflix-Clone/"
+    }
+]

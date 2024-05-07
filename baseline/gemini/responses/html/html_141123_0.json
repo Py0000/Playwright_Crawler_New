@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "0006a7832d69a555f9b71e9c2fb249cb7fde32d8220f57e0db484000c989ca34",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The favicon is from Facebook (https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico). The paragraph text includes \"We'll review your information\" which is likely Facebook's way of describing their account review process.",
+        "Url": "http://page-warring-327275.8698523.com/"
+    },
+    {
+        "Folder Hash": "000b7fa009aa8d61f61c2e2df4c959fd948b41b30d3d351b4c1be2f269e7f44c",
+        "Brand": "SwissPass",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is explicitly mentioned in the title: \"Anmeldung | SwissPass\". The footer also includes \"Melden Sie sich mit SwissPass an\". The favicon and logo are missing, but there are no other conflicting brand names in the provided information, so we can confidently identify the brand as SwissPass.",
+        "Url": "https://khanhills.mn/DONN/login.php"
+    },
+    {
+        "Folder Hash": "00601e6448d6b72e8c1c2bbb12bb2e3ccdd1297a8cb5c155795c78eb84912bf9",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage includes \"live.com\" and \"hotmail\", both of which are Microsoft products. Additionally, the metatags contain information about Microsoft and Windows. The favicon is the Weebly logo, which is a website builder that is frequently used by Microsoft. The footer text includes the copyright year of 2023, which is the current year. The headers text includes \"Sign in to your Microsoft Account\", which further indicates that the brand is Microsoft. The nav bar content also includes \"live.com\", which reinforces the association with Microsoft. Overall, the multiple occurrences of Microsoft-related information in the HTML script provide strong evidence that the brand of the webpage is Microsoft.",
+        "Url": "https://hotmail-109377.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "006f18ca0218cad05642ad1cd7ac6cd80c62a4e9d6c748791d1047592bd1a4ff",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"Facebook\" appears in the webpage's title, which is typically considered the most prominent indicator of a webpage's brand. Additionally, the favicon is also from the same domain as the webpage, reinforcing the association with Facebook.",
+        "Url": "http://liuk7.gotrailriding.co.uk/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "0161e98c213f472efde7597a68110c3e436532fbccbb96c8489bde2c0ff45f44",
+        "Brand": "AOL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The title of the webpage is \"AOL\", and the favicon shows the AOL logo. The logo alt text also says \"Aol\".",
+        "Url": "http://nexo-mail-verify.com/app/aol/email.php"
+    },
+    {
+        "Folder Hash": "01b05d8c4558b4cb848a8dac7e92f6c9e5e9e4b14173b4c1ab774dab5d50957d",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"WhatsApp\". This is a clear indication that the webpage belongs to the WhatsApp brand.",
+        "Url": "http://whtas.whytp.shop/"
+    },
+    {
+        "Folder Hash": "01eb36023862996e41da8cc55fc9771e6ddb8d64a976d1ff60a2cff265537d75",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The title of the webpage includes the word \"Microsoft,\" indicating that the webpage is related to the Microsoft brand. Additionally, the footer text includes the copyright symbol and the year \"2022 Microsoft,\" further indicating that the webpage belongs to Microsoft. I am confident in identifying the brand as Microsoft because the title and footer text explicitly mention the brand name.",
+        "Url": "https://pub-c4834f8675ff4cb0b89dd44bf195a608.r2.dev/passwordverification.html#salinda.nowell@ubs.com"
+    },
+    {
+        "Folder Hash": "01efc23097273978f0e3497cd57fef0f60e7d828a6c05dbb9ce35529dfa57300",
+        "Brand": "Correios",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title is \"Correios\", which strongly suggests that the brand is Correios. Furthermore, no other brand names or logos are found in the provided information, which further supports the identification.",
+        "Url": "https://www.ufastadistancia.ar/web/br/corres/POHHTZRZBSBB/index.php?FGDD=1#HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG"
+    },
+    {
+        "Folder Hash": "023ed5eb261876e7e036ba4e905882dc4304aa864005e6b159433226925f4f51",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.80",
+        "Supporting Evidence": "The favicon of the webpage is https://www.weebly.com/favicon.ico, which is the favicon of Weebly.",
+        "Url": "https://mail-101067.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "02637426f66bee3625982f859b733cdd0989b9f6e0daaf2f3b6cb743a719bed3",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The favicon provided identifies the brand. Weebly is a website builder platform that allows users to create and host websites.",
+        "Url": "https://inc-gers.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "571c629dd6777f947e0f64c0ba9e3af3fd1119b30d936695fa40b8863d91a270",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The HTML script provided does not contain any brandable information. The title, meta_description, favicon, logo, footer, header, and navbar content all have empty values or contain only text that does not identify a particular brand.",
+        "Url": "https://relief-data-appeal-349805e.surge.sh/"
+    },
+    {
+        "Folder Hash": "64524e2ef45f4644cc2994e2ce15c20f7d0a348f4c8c0aac5066fbb35d6d471b",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The presence of \"Microsoft\" in the logo_alt_text field, which contains the alternative text for the webpage's logo, strongly suggests that the brand associated with this webpage is Microsoft. This analysis is considered highly confident because the logo_alt_text field is specifically intended to provide a text equivalent for the logo image, which is commonly used to represent the brand of a webpage or online service.",
+        "Url": "https://pub-73ee129d9ec943f785408564adcaf985.r2.dev/cryn.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "9e204f718f150aabbaebc0737c36cfec98cfca139a2cb964c353a388098f8ec0",
+        "Brand": "Roundcube",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The webpage title \"Roundcube Webmail :: Welcome to Roundcube Webmail\" clearly indicates the brand as Roundcube. Additionally, the \"headers_text\" also contains \"Roundcube Webmail Login\", further supporting the identification of Roundcube as the brand.",
+        "Url": "https://freightoinx0006.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "a80c294225b3057768f3465e3466226c69a790eb9c7ac88808e19370286e7f8e",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is easily identifiable based on the favicon, which has Microsoft's visual identity. The logo_alt_text also contains \"Microsoft,\" confirming the brand.",
+        "Url": "https://pub-d351cc1193114bc695708e600762f48a.r2.dev/tex.htm"
+    },
+    {
+        "Folder Hash": "b24b5100cfe6dd7c6eec1419abef79fb2b74fb8a52b80747bb91544884bd450a",
+        "Brand": "Earth-Core.jp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.90",
+        "Supporting Evidence": "The brand name can be found in the favicon URL: https://webmail.earth-core.jp/skins/default/images/favicon.ico.",
+        "Url": "http://gottagopotties.mycustomerconnect.com/app/Email/phpmail/extras/co.ne.jp/webmail.php"
+    },
+    {
+        "Folder Hash": "b7a14dcd66c2d04a2ed97bd5e3cf1b358321d9a61fb6c77ef109dde267e76675",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "None of the provided information, namely the title, metadata, favicon, logo alt text, footer text, header text, and navbar content, contains any brand identification information. As a result, it is impossible to identify the brand of the webpage with certainty.",
+        "Url": "http://pansionat-v-troicke.ru/cn/VerifyCN/"
+    },
+    {
+        "Folder Hash": "b86e24505f6a9fe4c1eb5e26425891551454a20bc715ec5f013a199554ec43d4",
+        "Brand": "MCG",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.00",
+        "Supporting Evidence": "The webpage's title, \"MCG\", is the most prominent branding element on the page. Additionally, the favicon also uses the \"MCG\" initials, further reinforcing the brand identity. While the footer and header text do not provide any explicit branding information, the consistent use of \"MCG\" throughout the page's title and favicon strongly suggests that MCG is the brand associated with this webpage.",
+        "Url": "https://mcg1.vip/Login/index.html"
+    },
+    {
+        "Folder Hash": "c074bca11260d1842a201d87dd675a8ae496bd2c86c8f8fbffaf3913e1607936",
+        "Brand": "Naver",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The presence of \"NAVER\" in the title, headers, and footer, as well as the matching favicon and footer text that includes \"NAVER Corp.\" and \"\u00a9 NAVER Corp.\" provides strong evidence that the webpage is related to the brand Naver.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigthv56vhof4ua6vvxzrcftujsvetxxoi2dkofxrhyowxfsgnv63i"
+    },
+    {
+        "Folder Hash": "e4a2a39be2550bf2777ddda45564eafa79aa039c0c4b730782fc1a0c7058f703",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information does not contain any identifiable brand information. All fields except the title are empty. The title \"Inicio\" is a common Spanish word for \"Home\" and does not provide any brand context. Therefore, the brand cannot be determined with confidence.",
+        "Url": "http://26validate5q8.royalwebhosting.net/"
+    }
+]

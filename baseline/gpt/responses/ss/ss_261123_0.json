@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "002f8b3b3c7437776573c6b01cb46f6b664b3416bff0707d5840d09c3b849479",
+        "Brand": "Randolph-Brooks Federal Credit Union (RBFCU)",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Sign In, Forgot your security answer?",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot includes multiple references to \"Randolph-Brooks Federal Credit Union\" including in the footer as a copyright declaration, which suggests that this webpage is likely operated by or for RBFCU. The presence of the RBFCU logo at the top of the page further confirms the association with this brand. The webpage looks to be part of a login or account security process, indicated by the focus on security questions and options for account recovery. The \"Sign In\" button and the highlighted question about forgetting a security answer, suggest assisting users in accessing their accounts.",
+        "Url": "https://botamist.com/question/index.php/"
+    },
+    {
+        "Folder Hash": "0075736fdaebf81c1e5f673304348c798bf650b09f19dccec502fc9f34407601",
+        "Brand": "DHL Express",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register, Login",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the name \"DHL Express\" alongside the distinctive DHL logo, which is known for its bright yellow and red colors. The top of the webpage features navigation options such as \"Home,\" \"Ship,\" and \"Track,\" which are typical for a logistics and package delivery company's website. Furthermore, the options to \"Register\" and \"Login\" are visible at the top right corner, indicating areas where sensitive credentials like username and password might be entered. The global reach implied by the graphic of the globe also aligns well with DHL Express\u2019s international shipping services.",
+        "Url": "http://socialmediaconsultant.ae/public/GkifIiocDbBMPhFu4b2WTMfeB8hMr8lo"
+    },
+    {
+        "Folder Hash": "016f3020da1ab462e7d51e06d95aca7663cd6b5c820f0edb53690773cbe78f59",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in, Forget password?, Sign in options",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The presence of the Microsoft logo at the top of the login box, recognizable by its distinctive colored squares, clearly indicates the brand. Additionally, the footer of the page includes a privacy statement labeled with \u201c\u00a92023 Microsoft,\u201d further indicating the ownership and branding of the webpage. The webpage design and layout are also typical of Microsoft's authentication pages, characterized by a clean, minimalistic interface with a focus on security and user-access management.",
+        "Url": "https://vm65kiuw3gsf.s3.fr-par.scw.cloud/vm65kiuw3gsf.html?e=srikanth.ramaraj@servicemax.com"
+    },
+    {
+        "Folder Hash": "044d4978f8d1082b52f1bb7f2bd46c1a868bf052e09ed0f73a38307bcbbfb326",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Continue button",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot prominently features the Facebook logo in the top left corner, which is widely recognizable due to its distinctive \"f\" on a blue background; moreover, the overall color scheme and design elements, such as the use of blue tones and the graphic style in the illustration, are consistent with Facebook's branding. The message content, warning of an account deactivation for Community Standards non-compliance, further corroborates the identification as it is a common type of notification associated with social networking platforms like Facebook. The only slight uncertainty stems from potential mimicry or spoofed pages designed to resemble official Facebook notifications.",
+        "Url": "https://recoveryaccount1001.github.io/security/"
+    },
+    {
+        "Folder Hash": "04b797ea7ae28bea21f48c606968c432611a958f3f055ba6573f1adf9879fd5c",
+        "Brand": "Netshoes",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"CONSULTA O REGULAMENTO\", \"N\u00c3O PERCA\" buttons promoting sales and discounts, \"CONFIRA\" buttons on specific shoe ads encouraging further interaction or purchase.",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"Netshoes\" is prominently displayed in multiple locations across the webpage, including at the top of the page where it is integrated into the site's main navigation header. The logo and brand name appear again near the bottom of the screenshot under the section titled \u201cPR\u00caMIO RECLAME AQUI 2023 \u2014 Artigos Esportivos Ecommerce\u201d along with a voting promotion, all adding to the branding consistency. There is no visible login or registration section depicted in this part of the webpage, hence no user credential fields are shown. The persistent display of the brand name and logo throughout the page confidently affirms the identity of the webpage without ambiguity.",
+        "Url": "https://suaspromocoes.com/"
+    },
+    {
+        "Folder Hash": "0528733c4e5062a389d59780716150fe7a9e4076ae50ae018c2ebeb31b083c9b",
+        "Brand": "Bancolombia",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, password",
+        "List of Call-To-Actions": "\"Continuar\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage screenshot prominently displays the \"Bancolombia\" logo at the top, which is a major financial institution in Colombia. The page layout includes forms for entering a username and password, which are typical fields required for accessing an account. Additionally, there is a \"Continuar\" (Continue) button, which serves as a call to action for users to proceed after entering their credentials. The design and format are consistent with typical online banking login pages, further supporting the identification of the brand.",
+        "Url": "http://ingresar-aqui-23o.hstn.me/?i=2"
+    },
+    {
+        "Folder Hash": "0629d0a540eef90790f16cf692fabf05364d6edaf9605ff49114d3573cf63bd4",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login code",
+        "List of Call-To-Actions": "Send button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the Facebook logo at the top, which is a well-recognized symbol with a white \"f\" on a blue background, indicating that the brand is Facebook. The page layout and typography are consistent with Facebook's design language. This is a two-factor authentication page prompting for a 6-digit login code as a part of its security process. The \"Send\" button acts as a call to action for the user to submit the code for authentication purposes. Additionally, the specific mention of a \"code generator or third-party app\" aligns with Facebook's known security features.",
+        "Url": "https://atbu.edu.ng/page-recovery879910/confirm2.html"
+    },
+    {
+        "Folder Hash": "06a6f2f698caaae653172fad8d42479bf4ee46eec0a7105a62c7664f89e96ca0",
+        "Brand": "SaskTel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login ID, Password",
+        "List of Call-To-Actions": "Login button, Forgot password? link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage screenshot prominently displays the SaskTel logo at the top, which is a clear indicator of the brand identity. The page is specifically for logging into a SaskTel Email account, as mentioned in the text on the right side of the image. The fields for entering \"Login ID\" and \"Password\" are visible, which are typical credentials for account access. Additionally, there is a call-to-action in the form of a \"Login\" button to submit the credentials, and a \"Forgot password?\" link for account recovery assistance. All these elements confirm the page is associated with SaskTel, and operated for services related to SaskTel Email, supporting the identification with high confidence.",
+        "Url": "https://webmalsasktelcenter.weebly.com/"
+    },
+    {
+        "Folder Hash": "0915af9e31fad6c08f0b2cfb8413786d63d6036b4e410eb7a04cd07093e79fd2",
+        "Brand": "Commonwealth Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Client number, Password",
+        "List of Call-To-Actions": "Log on button, Register for NetBank now link, Message Us Now link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays \"Commonwealth Bank\" along with its distinctive logo at the top, providing strong visual identifiers for the bank's brand. The URL is not directly shown, but the site is clearly part of the NetBank service, indicated by the headline \"Log on to NetBank\". The presence of specific services such as account login and registration options, along with the design and layout of the page, further corroborate that this is a screenshot from Commonwealth Bank\u2019s NetBank platform. The footer includes copyright with \"Commonwealth Bank of Australia 2023\" confirming the association with this institution.",
+        "Url": "http://kidsnews.ro/wordpress/wp-content/plugins/gWhbmXc33N/xt/mmd/32/ver/"
+    },
+    {
+        "Folder Hash": "096c389eb52df1f24493486a38dda64a9bf0ebbeeef81aa3e79bd54849035f23",
+        "Brand": "WSEND",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Mobile Number",
+        "List of Call-To-Actions": "\"\u062a\u0633\u062c\u064a\u0644\", \"\u0632\u0648\u0631\u0648\u0646\u0627\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the \"WSEND\" logo at the top, indicating that it is the brand of the webpage. The inclusion of a mobile number field (underlined by the user interface for emphasis) as part of a form or prompt indicates that credentials are indeed being requested on this page. The webpage includes call-to-action buttons labeled \"\u062a\u0633\u062c\u064a\u0644\" (Register) and \"\u0632\u0648\u0631\u0648\u0646\u0627\" (Visit us), encouraging user interaction specifically geared towards submitting information or visiting the business location, thus engaging with the service more directly. Based on these observations, the identification of the brand and the elements within the webpage seems definite, though slightly less than totally assured due to potential variability in webpage design and functionality not entirely visible in the screenshot.",
+        "Url": "https://wsend.co/966504159031)"
+    },
+    {
+        "Folder Hash": "0c6486ca95a691d89464f30f735863d0fe00ba5af44029499381fc515b9e6dd5",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"TRY 30 DAYS FREE\" buttons",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"Netflix\" is prominently displayed in the screenshot with its distinctive logo visible at the top corner of the page. The webpage aesthetic, including the use of red color for highlights and the typography, aligns with Netflix\u2019s branding standards observed consistently across its official communications and platforms. The content visible on the page, which includes references to unlimited movies, TV shows, watching anywhere, and a prompt for a 30-day free trial, is characteristic of Netflix\u2019s service offerings. Additionally, the placement of an email field for registering or signing in is typical for Netflix, which is a strong confirmation of the webpage's association with the Netflix brand. The dual presence of the \"TRY 30 DAYS FREE\" button, prominently inviting users to sign up for a trial, is another typical feature of Netflix's user engagement strategy on its landing pages.",
+        "Url": "https://sumitkumar7978.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "0e4deb9aef6b39c28d725a2170d09c3460b8051a59413fbe0b342e9286e8ef6a",
+        "Brand": "DBS Apple Rewards Store",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Get up to S$150 off instantly for your Apple Products\", \"Shop All Categories\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays \"DBS Apple Rewards Store\" along with the offer related to Apple products, indicating a collaboration between DBS and Apple, mainly aimed at providing special offers or rewards. The header features the DBS logo, which is associated with DBS Bank, one of the largest banks in Asia. This branding along with the arrangement of the webpage around special offers and product categories specific to Apple products supports the assertion that the brand is associated with both DBS and Apple, specifically under some form of rewards program in partnership. The presence of terms and conditions related to transactions and promotions further aligns with the typical format of a brand-specific promotional store website.",
+        "Url": "https://dbs.applerewardsstore.com/"
+    },
+    {
+        "Folder Hash": "2f2178a5668fe8312229bca578ef6ffaf6d9adc390834081de9b4206f38b1258",
+        "Brand": "MetaMask",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Download now\", \"Download MetaMask Today\", \"Sign up\"",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as MetaMask is evidenced by multiple mentions and displays on the screenshot. The top part of the webpage features the MetaMask logo prominently next to the header, and the text on the website also refers to \"Start exploring blockchain applications in seconds. Trusted by over 1 million users worldwide.\" Additionally, there's a section that says \u201cWhat is MetaMask?\u201d further corroborating that the website belongs to MetaMask. There is also graphical representation of the app and a stylized fox image, which is part of MetaMask's branding. The logo appears again in the footer, affirming the brand identity repeatedly throughout the page layout. The call-to-action options like the download buttons and a sign-up option for a newsletter are geared towards engagement with MetaMask services, not for entering sensitive credentials like passwords or account numbers.",
+        "Url": "https://metamask.wallet-app.com/"
+    },
+    {
+        "Folder Hash": "443e076c127c0fd9da9f7af758b163da699e704da1155a3890f13e0a6df0154a",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "name, email",
+        "List of Call-To-Actions": "\"ENVIAR\" button near the exclusive offers sign-up area",
+        "Confidence Score": "9.85",
+        "Supporting Evidence": "The brand can be confidently identified as \"Magazine Luiza\" from the visuals and text within the screenshot. The page prominently features logos and design elements consistent with the corporate branding of Magazine Luiza, which includes its distinct color scheme and logo placement at the top. The URL and the footer also include explicit references to \"Magazine Luiza,\" providing a strong basis for confident identification. Furthermore, the webpage layout and offerings such as a wide range of products and payment options are characteristic of Magazine Luiza's well-known retail platform.",
+        "Url": "https://www.magazineluiza.com.br/pagina-nao-encontrada/"
+    },
+    {
+        "Folder Hash": "7d46c17bac6ab78a5f27410d683fa572de74e0e624a9c483a518a4b87bbf3a2a",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"Get Started\" buttons",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the Netflix logo in the upper left corner, establishing the identity of the webpage. The branding is consistent throughout with the use of Netflix's typical red and black color scheme and imagery from Netflix-exclusive content. The page layout and visual elements also align with Netflix\u2019s official website design, including a section dedicated to pricing and sign-up that encourages users to get started by entering their email address. The phrase \"Get Started\" is used as a call-to-action button, which is a common feature on streaming service platforms to prompt user registration or sign-in. Additionally, the bottom of the screenshot has links and information typical for Netflix, such as customer service contacts and various website navigational aids like FAQs and account settings, further confirming the brand identity.",
+        "Url": "https://iambablu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "854f797c119e78aab0e6cffb626e9653050cd1a04a0d1dc5f9fdedc787478c8b",
+        "Brand": "Serasa Score",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"SAIBA O QUE MUDA AGORA ->\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"Serasa Score\" is directly supported by the prominent display of the term \u201cSerasa score\u201d at various places on the webpage. The section titles like \"Serasa score,\" \"Serasa score consulta\" and visual elements like green colored theme, likewise consistent throughout, align with the distinct branding of Serasa. Moreover, terms like \"Consultar Serasa Score gr\u00e1tis\" further corroborate the identity of the brand. There's a field mentioned under \"Links \u00dateis\" about \"Solicitar meu score,\" which implies a request for user credentials like email. The call-to-action button that stands out, \"SAIBA O QUE MUDA AGORA ->\" aligns with encouraging users to act or find out more, which demonstrates tangible engagement intent, all within the visual and content theming associated with Serasa's branding strategy.",
+        "Url": "https://serasascore.net/"
+    },
+    {
+        "Folder Hash": "884c9b8393ca0925b5d31b8db96d5ef48364cdff3ec72dbf9e577a4eb2666173",
+        "Brand": "BT (British Telecommunications)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or username, Password",
+        "List of Call-To-Actions": "Register button, Login button, Download app button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the \"BT\" logo at the bottom right and on the menu bar at the top left, indicating it is a BT-branded web page. The naming of service sections such as \"BT Monthly Bill\" further aligns with BT branding. The service offerings for managing BT accounts and related telecommunications services are typical of what BT provides to its customers. Multiple elements on the page emphasize BT branding, including the color scheme and the distinctive stylized font used for the BT logo. There\u2019s strong visual evidence of BT\u2019s branding throughout the interface, reinforcing the identification of the brand from the screenshot.",
+        "Url": "https://sites.google.com/view/65h7t65ygtdw5f4/bt/"
+    },
+    {
+        "Folder Hash": "a8b433dc6c441e85ca22e5e9cb4c4d78f2700529a3a103160b5cedc1b2b7a677",
+        "Brand": "KRAFTON",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook login, Twitter login",
+        "List of Call-To-Actions": "\"Login with Facebook\", \"Login with X (Twitter)\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently shows \"BATTLEGROUNDS MOBILE INDIA\" as the main game title, with the logo and branding visible on multiple elements of the interface. This branding, however, is specifically for the game developed by KRAFTON, as confirmed by the footer text on the webpage, which explicitly states \"\u00a9 2023 KRAFTON, Inc. All rights reserved.\" Both social media login options represent standardized call-to-action buttons, enabling users to engage directly through major social channels for streamlined access to the platform. These evidences lead to a strong assurance of KRAFTON as the brand, albeit the game itself being \"BATTLEGROUNDS MOBILE INDIA\".",
+        "Url": "http://mail.esports-register.freexsuit.in/"
+    },
+    {
+        "Folder Hash": "d5d7c75ad8f0b2cdfaf7da0f98710f0db81e7129ccd1e82cae0efcbd64e29427",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is based on the prominent use of the Netflix logo at the top of the screenshot, which is a well-known identity signifier for the company. The layout of the webpage, which emphasizes streaming of unlimited movies, TV shows, and more, along with a specific section designed for putting an email address to start or restart membership, further aligns with Netflix's standard format for their service platform. The displayed content such as screenshots of known shows and usability across various devices also correlates with Netflix\u2019s offerings. The call-to-action, \"Get Started\", focuses on user interaction by encouraging site visitors to enter their email address to proceed with accessing the service. This, combined with a visually and thematically consistent design that matches the official Netflix branding and color schemes, boosts confidence in identifying the brand.",
+        "Url": "https://subhrajit2003jeet.github.io/netflix-name/"
+    }
+]

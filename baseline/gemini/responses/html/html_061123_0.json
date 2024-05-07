@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "None of the provided information could be used to identify the brand.",
+        "Url": "https://www.tbxjly.com/"
+    },
+    {
+        "Folder Hash": "1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53",
+        "Brand": "Libero",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"Libero\" appears in the title, favicon, and footer text. Additionally, the footer includes the copyright statement for \"Italiaonline S.p.A. 2023\", which is the parent company of Libero.",
+        "Url": "http://ip170.ip-51-89-105.eu/verifica.php"
+    },
+    {
+        "Folder Hash": "1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "NA",
+        "Supporting Evidence": "There is no sufficient information in this page's HTML script.",
+        "Url": "https://videotronmaill.weebly.com/"
+    },
+    {
+        "Folder Hash": "31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b",
+        "Brand": "Trust Wallet",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly mentioned multiple times in the webpage. Specifically, in the title, header, and footer sections. The favicon and logo also include the brand's icon and name.",
+        "Url": "http://trustwallet.masdubai.com/"
+    },
+    {
+        "Folder Hash": "4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information does not contain any identifiable brand information. Neither the title, footer, headers, nor navigation bar include any clues about the brand's identity. Due to the lack of information, a brand identification is not possible.",
+        "Url": "http://bafybeif263mizfzroy53si3dt7jafhzmwf33bx27v4qx7biqfknpfkiuvy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage clearly states \"Coinbase\". Therefore, I am absolutely confident in identifying the brand as Coinbase.",
+        "Url": "https://www.coinbasewalletty.com/#/"
+    },
+    {
+        "Folder Hash": "834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The HTML information provided does not contain any identifying brand information. The title, metadata, favicon, logo attribute, footer text, header text, and navbar content all have the value \"Not Found.\" As a result, I cannot confidently identify the brand of this webpage.",
+        "Url": "https://mealyfulloptimization.midwaveventure.repl.co/"
+    },
+    {
+        "Folder Hash": "ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2",
+        "Brand": "bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"bet365-\u5b98\u65b9\u76f4\u8425\u3010E365.com\u3011\", which is a clear indication of the brand. There are also multiple mentions of \"bet365\" throughout the HTML information, such as in the headers text, nav bar content, paragraphs text, and span text. The logo_alt_text, footer_text, and meta_description fields have the value \"Not Found\", but this does not affect the identification of the brand.",
+        "Url": "https://896e365.com/#/"
+    },
+    {
+        "Folder Hash": "fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d",
+        "Brand": "Bank of Ireland",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage title includes \"Login - Bank of Ireland\", footer text ends with \"Bank of Ireland\", and the headers mention \"Bank of Ireland Cookie Notice\".",
+        "Url": "https://personal365-transact.com/"
+    }
+]

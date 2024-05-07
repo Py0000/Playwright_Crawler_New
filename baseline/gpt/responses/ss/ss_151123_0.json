@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0024f4f820986baf09640fdb8c6eb7fa7ffed3d672f17ea9151c2fcb1d0ea97d",
+        "Brand": "Phoenix Catering AZ",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "GET A QUOTE, CALL NOW (602) 386-3660, GET STARTED",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot features multiple instances where the logo and the name \"Phoenix Catering AZ\" are prominently displayed alongside the website address phoenixcateringaz.com. Moreover, the branding and information are consistently themed around catering services in Phoenix, reinforcing the identity of Phoenix Catering AZ as the brand concerned. Also, on multiple sections of the webpage, there is a clear emphasis on Phoenix's local focus, which aligns well with the brand name. The contact information provided including the phone number further substantiates the brand\u2019s presence.",
+        "Url": "http://www.premiercateringaz.com/"
+    },
+    {
+        "Folder Hash": "0041e447da8abe1b0df35718352e1a70fbd5bfe6ba82191af06aae819c0c641a",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"GET STARTED\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot provided prominently displays the Netflix logo at the top of the page. Throughout the page, there are numerous visual elements consistent with the Netflix brand, such as well-known series and movie artwork from Netflix's catalog (\"Stranger Things\", \"Breaking Bad\", and others). The characteristic red and black color scheme used throughout the webpage further supports the identification as Netflix. The presence of Netflix-exclusive titles and content descriptions, along with the call-to-action and email sign-up boxes, further solidifies that this is indeed a Netflix webpage. Additionally, the mentions of various Netflix service features like creating profiles for kids, watching on multiple devices, and an FAQ section match the services offered by Netflix. Thus, the identification as the Netflix brand is beyond doubt based on the visual and textual elements in the screenshot.",
+        "Url": "https://harshityadav19.github.io/task1/"
+    },
+    {
+        "Folder Hash": "0085110afdb1ee98c47ce323723b178b877dbe37f5a2e135725d56b553137caa",
+        "Brand": "eBay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"go to\" buttons next to eBay route 1, route 2, route 3, route 4, route 5, and eBay Customer Service",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage presented in the screenshot prominently features the eBay logo at multiple places, such as on a building image and directly in the webpage's content. Furthermore, the logo is repeated in the section titled \"Cooperative investors,\" alongside other brand logos, further reinforcing eBay\u2019s identity as associated with the page. Aside from the visual prominence of the eBay logo, there is no input field visible on the screenshot for username, password, or any typical login credentials, which confirms the absence of personal credential fields. The call-to-action elements are represented here by several \"go to\" buttons linked to what are labeled as eBay routes or services, indicating interaction components directed towards eBay-specific listings or customer services. The overall layout and elements strongly suggest eBay branding.",
+        "Url": "https://shopmarket.vip/"
+    },
+    {
+        "Folder Hash": "0189b82283393a7895458ab5f9a964aed91b980e51fb3b345a5695b226fcca33",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in button, \"Forget password?\" link, \"Sign in options\" link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot displays a login form with the Microsoft logo prominently positioned at the top. The email \"peter@braunlinen.com\" is already entered, suggesting that the webpage is asking the user to enter their password next. Additionally, the webpage shows a blue \"Sign in\" button, links for \"Forget password?\" and \"Sign in options\", enhancing user interaction for various login processes. The footer of the page includes a privacy statement clearly marked with \u201c\u00a92023 Microsoft\u201d, verifying the page\u2019s affiliation with Microsoft. The design and layout are consistent with Microsoft\u2019s typical authentication pages, which supports the identification of the brand.",
+        "Url": "https://lawyerzouyang-1322273052.cos.sa-saopaulo.myqcloud.com/lawyerzouyang.html?e=peter@braunlinen.com"
+    },
+    {
+        "Folder Hash": "01c3a0196436a50bca79b0f22e742c9554aae4cdb0d440d9062abbd66ee99599",
+        "Brand": "TFBank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Kundennummer (customer number), Geburtsdatum (date of birth)",
+        "List of Call-To-Actions": "\"Einloggen\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"TFBank\" is evident from the clear presence of the logo and the name \"TFBank\" prominently displayed at the top center of the webpage in two locations - within the webpage's top bar and on a floating login panel. The logo, consisting of a circle with the letter 'T' and diagonal ends, further supports the identification. The web page involves fields asking for sensitive user credentials, such as 'Kundennummer' (customer number) and 'Geburtsdatum' (date of birth), which indicates personal identification data typically used for secure log-in procedures. The presence of a call-to-action is confirmed through the \"Einloggen\" button, which translates to \"Log in\" in English, urging users to proceed after entering their credentials. The overall confidence in brand identification relies on the repeated visibility and clarity of the brand's logo and name, combined with the standard web layout used by financial institutions for user login areas.",
+        "Url": "https://regional-revitalization-film.tw/wp-content/plugins/TOPXOH/tt/tls/xd/zd/clients/index.php"
+    },
+    {
+        "Folder Hash": "028132cd6749d76182099b624f7df3ef9f43caf6b1c1389cec02d23a8a520e49",
+        "Brand": "Instagram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The visual representation evident in the screenshot characteristically aligns with Instagram's brand. The outline of a square camera, which is centrally displayed, is highly identifiable as Instagram\u2019s logo. This iconic logo has been part of the Instagram brand identity, making it readily recognizable to a broad audience typically familiar with social media platforms. The minimalistic and clean background further supports this identification as Instagram often uses simplified visuals to emphasize user content and interactions, presenting an aesthetically pleasing and user-focused interface. The absence of any text or other visual elements in the image corresponds to Instagram's thematic emphasis on visual content, making the identification highly certain.",
+        "Url": "https://instagramreset.pages.dev/"
+    },
+    {
+        "Folder Hash": "02f8920c2f3d6da28a385ac3dcc23343df18fbfcad85ce274de01a102c2e6ca5",
+        "Brand": "Garena",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "ID",
+        "List of Call-To-Actions": "\"Cek Id\" button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot shows a popup with the header \"VERIFIKASI ID\" asking for an \"ID\" to be entered. The button below the input field is labeled \"Cek Id\". The backdrop has the visible presence of game elements, specifically linking to \"Free Fire,\" a game known to be published by Garena. In the bottom region of the image, there is a copyright statement that explicitly mentions \"Garena Online.\" This information collectively supports the identification of the brand as Garena, particularly focusing on their Free Fire game segment. The styling of the \"Buka Crate\" buttons also aligns with the visual graphics typically associated with gaming websites sponsored by Garena.",
+        "Url": "https://garena-event-9364.real5.biz.id/id/"
+    },
+    {
+        "Folder Hash": "0338089e6e1b4ca184c743b23f921749fb9b42bf826bb912a423ef81c73f28cb",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"JOIN NOW\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot features a prominent logo at the top-left corner that reads \"Telegram,\" which is a well-known brand for a messaging application. The design elements such as the small illustrations in the background are also typical of Telegram's visual style, often used in their app and promotional materials. The presence of the \"DOWNLOAD\" button in the top-right corner also suggests functionality related to an app, aligning with Telegram\u2019s service offerings of app downloads for different platforms. The simplicity of the design with a focus on minimal text and a single call-to-action button fits the usual layout and user interface design seen in Telegram channels.",
+        "Url": "https://viral-cambodia02.lopaking.my.id/"
+    },
+    {
+        "Folder Hash": "05cc6d1ac09d9d56e138b7eba7cb4b2fa190505ab262b39ff8321e190b9a857f",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The content written on the screenshot clearly mentions \"WhatsApp\" in its text, serving as direct evidence that this webpage is associated with or discussing WhatsApp. Additionally, the simple and direct mention of WhatsApp in the context of connecting it to certain actions and services reinforces this linkage. The lack of any other branding elements or confusing aspects further solidifies the identification. Also, there were no login forms, password entry fields, or any buttons displayed on this screenshot that hinted at user interaction involving credentials or call-to-actions.",
+        "Url": "http://wh9.whaiofi.com/"
+    },
+    {
+        "Folder Hash": "0660dbfb3344d0993a95db9444da6aa9ec77a5ad200d89031dffd65166c438b2",
+        "Brand": "Microsoft Windows",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Activez la licence,\" \"Appelez le support Microsoft: 025 863 566,\" \"ne fermez pas la fen\u00eatre de protection\"",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The screenshot prominently displays multiple Microsoft brand elements, reinforcing the identification of it as a Microsoft Windows-themed interface. These elements include the Microsoft logo in the top left corner and multiple references to Microsoft products and support systems in the text, such as \"Windows-Defender\" and \"Appelez le support Microsoft.\" The overall design and layout are typical of Microsoft's software interfaces, adding to the visual cues that support this identification. The high level of confidence in the brand identification comes from these consistent visual and textual indicators scattered throughout the interface.",
+        "Url": "https://tenkeyoho.site/index.html"
+    },
+    {
+        "Folder Hash": "2dbf238d5fc29b9f4f6231779c8763e7b11ec5e86d70f25a01cf5870a5adab6f",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone, or Skype; Password",
+        "List of Call-To-Actions": "Next button, No account? Create one! link, Can't access your account? link, Sign-in options link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Microsoft is significantly supported by the visible logo at the top of the sign-in form on the screenshot, which displays the Microsoft logo prominently. This logo is well-recognized and consists of four colored squares (red, green, blue, and yellow) forming a larger square, which is universally associated with Microsoft. Additionally, the design of the sign-in page, including the layout, typography, and the options provided (like Skype, a Microsoft-owned service), aligns with Microsoft's typical branding and user interface designs seen on its other platforms. The presence of specific links like \"No account? Create one!\" and options for password recovery are typical features found on official Microsoft sign-in pages, further affirming the brand\u2019s identity.",
+        "Url": "https://suport.ie/?r=1eebd962-5d33-4d66-b53e-4a886d93c3ac"
+    },
+    {
+        "Folder Hash": "31438978abbbd0b364a03e0713e9daacebd74f30b31d70f8ee1ce716e0de4cc8",
+        "Brand": "Outlook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the Outlook logo, which is recognized by its distinctive \"O\" and envelope symbol. This particular design is familiar and widely associated with Microsoft's email service, Outlook. The fields provided for credentials are typical for an email service login page, asking for an 'Email address' and 'Password.' Additionally, the presence of the 'Sign in' button, designed with an accompanying icon that suggests action, is consistent with standard user interface practices for login pages. The overall layout, brand logo placement, and functionality expressed are characteristic of the Microsoft Outlook web access page.",
+        "Url": "https://pub-391af5f3d76c44fcb953d65711104ee2.r2.dev/Authowaba.htm?/sha"
+    },
+    {
+        "Folder Hash": "321a55a6449593f3738366f854b764b7412bdf1b62dac68c87c530ac4a3722b8",
+        "Brand": "GOV.UK",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "12 digit application number",
+        "List of Call-To-Actions": "Create my account, Return to an existing application",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage is clearly identified as \"GOV.UK\" based on the logo and branding style at the top of the page. This is consistent with the UK government\u2019s official website styling, which uses a simple, minimalistic design and black and white color scheme with blue accents. The presence of \".gov.uk\" also indicates a government-run site. The footer mentions it is built by The Insolvency Service and carries a reference to the Open Government Licence, both of which are typical details associated with a UK governmental site. Moreover, the beta label and request for feedback are typical of government websites undergoing user experience improvements.",
+        "Url": "https://bankruptcy-form-fn-prod-ods.insolvency-development.co.uk/"
+    },
+    {
+        "Folder Hash": "34a95ea45ccd398070cb0ad4c0ae62c3a79c8f828064eb914f1280e8c7d9d4cd",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Account information for review purpose.",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot features a prominent Facebook logo at the top left corner, which is a key identifier for the brand. The design and visual style are consistent with Facebook's typical interface, including the use of specific fonts and layout. The page content discusses a user review process, a typical feature in Facebook's management of user accounts and community standards. The \"Get Started\" button is a direct call to action that encourages user interaction, typical of Facebook's approach to user engagement. The use of blue and white color scheme further supports the identification of this as a Facebook page.",
+        "Url": "http://page-warring-318358.8799269.com/"
+    },
+    {
+        "Folder Hash": "6a37ba06939bb2395534b3540628296007658f9b86517a4f6bf89ad985377701",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Use another account\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot displays the Microsoft logo prominently at the top, which is a clear identifier of the brand. The format of the login page, including the design and typography, is consistent with known Microsoft sign-in pages. The presence of the \"Sign in\" heading and the email address displayed further confirms that the page is used for logging into a Microsoft account. The option \"Use another account\" is a typical feature on Microsoft login pages, allowing users to switch accounts easily. Such features collectively confirm the identification of the webpage as belonging to Microsoft.",
+        "Url": "https://pub-929b3c4e3df4477c985486552747b9a8.r2.dev/link%20(27).html#thenson@centralconstructiongroup.net"
+    },
+    {
+        "Folder Hash": "a5830f9b2ae483611f8f09a20715f16f1168e20ed8065874573fe4d3738a32e5",
+        "Brand": "Zimbra",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identified in the screenshot is clearly displayed as \"Zimbra.\" This can be seen in the large logo positioned in the center-left of the image. Further supporting evidence includes the footer which states \"Zimbra : the leader in open source messaging and collaboration\" and copyright text that mentions \"Zimbra\" is a registered trademark of Synacor, Inc., further validating the brand association with Zimbra. The webpage layout is typical of a login portal, asking for both a username and password which qualifies as sensitive user credentials. The webpage includes a \"Sign In\" button as a clear call to action for users to submit their login credentials.",
+        "Url": "http://zimbraquotarenew.x24hr.com/"
+    },
+    {
+        "Folder Hash": "bc9efafc69c4604bab0987861231229e30a9b3cb49f9cf0760f3d6c577992bd2",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Handynummer oder E-Mail-Adresse (Phone number or email address), Passwort (Password)",
+        "List of Call-To-Actions": "Anmelden (Login), Neues Konto erstellen (Create new account), Passwort vergessen? (Forgot password?)",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the Facebook logo at the top, which is a prominent and recognizable feature indicative of the brand's identity. The layout and design are typical of Facebook's login page. The fields requesting user credentials (phone number/email and password) and the call-to-action buttons for logging in, registering a new account, and a link for password recovery, are all consistent with Facebook's standard login interface. Additionally, the footer of the page contains \"Meta \u00a9 2023,\" indicating the parent company of Facebook, further confirming the brand's identity.",
+        "Url": "https://hbirds.com.au/wp-admin/maint/facebook/"
+    },
+    {
+        "Folder Hash": "c1064a35df3f15f6f0fd4e8bbe48ed3abed801d4c9c288391c8bdeddef498745",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Sign-in information (email, username, password)",
+        "List of Call-To-Actions": "\"CLICK HERE TO CONTINUE\" button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot clearly displays the AT&T logo at the top right, which is well recognized and associated with AT&T, an American multinational conglomerate holding company and telecommunications giant. The text \"Thanks for choosing AT&T\" further reinforces the identification of the brand. The design and style of the page are consistent with AT&T's branding. There is a call-to-action button labeled \"CLICK HERE TO CONTINUE,\" which typically leads to a login form where sensitive user credentials are required. The presence of the phrase \"Please sign in to review your detailed account service\" suggests that login credentials will be asked in the subsequent steps, fitting the profile of a web page handling sensitive information like user authentication.",
+        "Url": "https://keepo.io/login_page/"
+    },
+    {
+        "Folder Hash": "d2ab28be4112521aa02087e1c78892ec53c35a3cb142ea27047fd9a46133fb26",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username or Email, Password",
+        "List of Call-To-Actions": "\"Sign In\", \"\u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a Steam\" (Join Steam)",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The webpage screenshot clearly displays the Steam logo at the top, which is a well-known digital distribution service for video games. Additionally, the presence of Valve's copyright notice at the bottom of the page further reinforces that this is the Steam platform, as Valve is the company that owns Steam. The page layout, with a login form and options to create a new account (typical of user login pages), as well as the dark color scheme, are consistent with Steam's official website design. Moreover, the \"\u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a Steam\" button, which translates to \"Join Steam,\" matches Steam's typical call-to-action for new account creation, supporting the identification further.",
+        "Url": "http://stemapoveredi.webservis.ru/"
+    },
+    {
+        "Folder Hash": "f61e9099cc7afaf4778f046c6726165a7486dbdb995d107d55ea939d8305ad0c",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in button, Forgot Password? link",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot shows a login panel titled \"Webmail Signin\" featuring an orange logo which appears to be a generic icon rather than a specific brand identifier, thereby not providing enough information to confidently determine the brand's identity. The design is minimalistic and does not include distinctive brand elements or naming besides the general term \"Webmail.\" Therefore, without additional identifiable markers such as a unique logo or brand-specific design elements, the brand remains unidentifiable from this image alone.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeiggrjvcib3o7azzm3elxosjohozbngmvha4mltzzwvmcc3qgkydye"
+    }
+]

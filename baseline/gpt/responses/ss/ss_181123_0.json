@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "009f5e1568dfb13f745a610bda3574c1a0cb33852f4571eb5847f5015f9231a1",
+        "Brand": "GMX",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "GMX E-Mail-Adresse, Passwort",
+        "List of Call-To-Actions": "\"Jetzt kostenlos registrieren!\", \"Passwort vergessen?\", Login button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the GMX logo at the top, accompanied by the text \"GMX Login\", which strongly indicates that the brand is GMX. Given that GMX is a well-known email service provider, the presence of fields requesting a GMX E-Mail-Adresse and Passwort fits the typical login functionality of such a provider. Additional features such as the \u201cPasswort vergessen?\u201d link and the \u201cJetzt kostenlos registrieren!\u201d suggest mechanisms for user engagement and account recovery, typical of user authentication interfaces. The site\u2019s layout and elements displayed corroborate with GMX\u2019s branding and functional offerings, reinforcing the identification of the brand as GMX with high confidence.",
+        "Url": "http://www.bigbauer.com/index2.html"
+    },
+    {
+        "Folder Hash": "014bc5a9afe4c5a7d505695b42e2156b791245bf04fd0cc6a782947eee2c6ca1",
+        "Brand": "AT&T",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "SIGN IN button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features multiple instances of the AT&T logo, which is recognizable by its globally known blue and white striped globe design accompanied by the letters \"AT&T\". The top part of the screenshot shows the logo three times, and the login section also displays the logo with an accompanying sign-in area, which is consistent with the branding practices of AT&T, especially on portals requiring user authentication, further confirming the brand identity. Additionally, the presence of fields asking for an Email and Password along with a \"SIGN IN\" button is aligned with a standard user authentication interface. The brand identification is unequivocal due to the repeated visual cues and consistent branding elements throughout the interface.",
+        "Url": "https://mailview.weebly.com/"
+    },
+    {
+        "Folder Hash": "01bca29eb04203914b8ddff971f23fc09aa12ab0d1fcde72ea066943dd03e395",
+        "Brand": "Coinbase",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign In button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage screenshot prominently displays the name \"coinbase\" on both the header and the sign-in box, clearly identifying it as the Coinbase platform. Coinbase is a well-known cryptocurrency exchange, making it recognizable. The logo and clean, minimalistic design style with a specific blue color background are consistent with the official Coinbase branding. The presence of \"Products,\" \"Service,\" \"Prices,\" \"Sign In,\" and \"Sign Up\" in the navigation bar further supports that this belongs to an established, structured platform like Coinbase. Additionally, the input fields for \"Email\" and \"Password,\" associated with account login, are typical for user authentication pages, corroborating that this is indeed a login screen for Coinbase.",
+        "Url": "https://genaretd-blue-mouse-link-samakalhaway938198.codeanyapp.com/division/home/store.php?cmd=c5bf306687cbd7f8c77beb5afeeb9600"
+    },
+    {
+        "Folder Hash": "01cbc8817b884d2d8d326fd0b7888e566be8efee567428fda54eec70d3796dd0",
+        "Brand": "SHARK",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "\"Iniciar Sesi\u00f3n\" button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot prominently features an oceanic background with the logo \"Shark-Team\" that has a stylized shark image, suggesting the brand name is SHARK. Below the logo, there are login credential fields labeled \"Email\" and \"Password,\" indicating that the site requests sensitive user information. Additionally, there is a call-to-action button labeled \"Iniciar Sesi\u00f3n,\" which is Spanish for \"Log In,\" urging users to proceed by entering their credentials. The copyright notice at the bottom includes \"SHARK,\" reinforcing the brand identification. The overall aesthetic and theming are consistent with the displayed branding elements, making it reasonable to assert that SHARK is the correct brand identification.",
+        "Url": "http://shark-team.us/"
+    },
+    {
+        "Folder Hash": "03cb17e8f1960b27800ff5dcee17e3217c41800b5bab0f87ad4ff445bf9c0403",
+        "Brand": "Briggs Auto",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "NEXT button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot displays the brand name prominently in two separate places, once in the top left corner and another within an advertising banner on the right-hand side, marked as \"Briggs Auto.com.\" Both instances suggest that the screenshot is from the Briggs Auto website. The presence of an email portal requesting a password input supports the identification of sensitive user credentials. The \"NEXT\" button serves as a call-to-action element, prompting the user to proceed with authentication after entering their password. These aspects are clearly visible and contribute to a high confidence in the identification, though not a perfect score, acknowledging the possibility, however slight, of misinterpretation or external alterations within the screenshot.",
+        "Url": "http://bafybeihfwda45vhbhsfj5k72x57ip6cezhmwxpxe2rhjz3sxbicqwnmnca.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "041e76160c869ea6a9e9d2b903ae00ae5e7cda0164b12f49b861f9fc0c5b30c5",
+        "Brand": "DHL Express",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register (username, email, password), Login (username, password)",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage screenshot prominently displays the DHL Express logo in its typical red and yellow coloring at the top of the page, which is a well-known branding element of DHL, a global courier company. The presence of the \"Register\" and \"Login\" buttons on the upper right indicates areas where users would input sensitive credentials such as username, email, and password. The layout, color scheme, and distinctive logo all align with DHL Express's branded content, reinforcing the identification of the brand with high confidence.",
+        "Url": "http://socialmediaconsultant.ae/public/eoyzCbxfJNCAwwu5gEdLGdLEbhMRXlCq"
+    },
+    {
+        "Folder Hash": "0486e707e8fd485542d01a98c6859cfa0320d260fe9c0cf904b5c498d367d576",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"dzis\" button (meaning \"today\" in Polish)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot displays a clear and prominent WhatsApp logo at the top of a chat interface, suggesting it is a screenshot of a chatbot or messaging interface on WhatsApp. The presence of the logo and the theme that matches WhatsApp's well-known green and white color scheme greatly supports the identification. The interface uses a chat bubble format typical of messaging apps, with a \"dzis\" button in line with a potential call-to-action. This alignment with known design and functional elements of WhatsApp increases confidence in the identification. The lack of any other distinct brand markers or logos affirms that this is a WhatsApp-related interface. The absence of specific fields requesting sensitive user input like usernames, passwords, or email addresses indicates that this screenshot does not involve direct credential input.",
+        "Url": "http://1.marcukesh.top/"
+    },
+    {
+        "Folder Hash": "04b5ddbab88173c31bfa85822bce0fbcc9a008b9ecaf54661563a93417b7f7b3",
+        "Brand": "Orange",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Adresse e-mail Orange, Mot de passe",
+        "List of Call-To-Actions": "Connecter",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the Orange logo at the top left, characterized by its simple orange square with the company name. This matches the well-known branding of Orange, a major telecommunications operator. The page is in the French language, which is consistent with Orange being a French multinational company. The web page includes fields for entering an Orange email address and password, which aligns with typical login functionality provided by brand-specific services. Moreover, the footer contains copyright information explicitly stating \"\u00a9 Orange 2020,\" further affirming the brand identity. Additionally, the visual theme of the page uses Orange's official colors, enhancing the brand's recognition.",
+        "Url": "https://messagerieorange325.yolasite.com/"
+    },
+    {
+        "Folder Hash": "06635dbf8ef41e0d35265ffc61622c6e13ff3bc7470af8a82968f99af20f9921",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Turn on Facebook Protect",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly identifiable as Facebook due to the logo present at the top left corner of the screenshot. This logo is well-recognized globally as the Facebook logo, which features the company's distinctive typography and color scheme. Furthermore, the page content, specifically mentioning \"Facebook Protect,\" reinforces the association with Facebook, as this is a known security feature offered by the platform to help secure user accounts. Additionally, the design aesthetics such as the color palette and typography are consistent with Facebook\u2019s branding guidelines. This consistency across multiple elements within the screenshot provides a high level of confidence in identifying the brand as Facebook.",
+        "Url": "http://andi-hofmann.de/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "073c2d12f0442249d0d6ef0cb2f812ac5db817333da48c8d276f88a833e4064d",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Sign In",
+        "List of Call-To-Actions": "WATCH FREE FOR 30 DAYS",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the Netflix logo at the top left corner, affirming its identity. The screenshot also features a typical Netflix style of display with a large, bold font headline and a commanding red color theme which are characteristic of Netflix\u2019s branding. The imagery used in the screenshot shows various popular movie and TV show covers, which are consistent with what Netflix offers in its streaming service. All these elements confirm the brand as Netflix with high certainty.",
+        "Url": "https://borbabeats.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "07a4d8439a1998dcb9976890e39c00e00ca3f6c17a27418ee64e115b7e10bdd7",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is identified as Netflix based on the prominent display of its logo at the top of the screenshot, featuring its distinctive typography and red coloring. The webpage design is consistent with Netflix\u2019s brand identity, which is known for showcasing a wide array of available movies and TV shows in a grid-like format, a characteristic theme in its marketing materials. The included text, such as \"Unlimited movies, TV shows and more,\" and \"Watch anywhere. Cancel anytime,\" are typical of Netflix's messaging to its subscribers. Moreover, the screenshot includes interfaces like movie and TV show graphics that are typically associated with Netflix\u2019s digital platform, further affirming the brand's identity.",
+        "Url": "https://prabanchcv.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "337a147d29d18b0caa7f287224ab0a390f2cee3998f359e54a3519c6f37167c2",
+        "Brand": "Spotify",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or username, Password",
+        "List of Call-To-Actions": "LOG IN button, SIGN UP FOR SPOTIFY button, Forgot your password? link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the logo of Spotify at the top of the login form, which is a distinctive and well-recognized brand logo consisting of the Spotify name and three radio waves emanating from a circle. This identification is further supported by the fields presented on the form which include inputs typical for a music streaming service such as Spotify (email/username and password fields). The page also offers a \"LOG IN\" button as a primary call to action, a \"SIGN UP FOR SPOTIFY\" button for new users, and a \"Forgot your password?\" link, all of which are typical elements of user interface design found on Spotify's login page.",
+        "Url": "https://cpanel17wh.bkk1.cloud.z.com/~cp042619/spoofi/Issued/settings/"
+    },
+    {
+        "Folder Hash": "45f284227bba96cfab6ef3b88c3e197510fc75454f7cd50b58b3abe3cde13bd7",
+        "Brand": "Apple",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Apple ID",
+        "List of Call-To-Actions": "Button to submit Apple ID, checkbox for \"Mantener sesi\u00f3n abierta\" (Keep session open), link \"\u00bfOlvidaste tu ID de Apple o la contrase\u00f1a?\" (Forgot your Apple ID or password?)",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features Apple\u2019s unmistakable logo in the visual design located in the center above the text, styled with a gradient pattern of dots radiating outward. The wording \"Iniciar sesi\u00f3n con ID de Apple\" (Sign in with Apple ID) directly indicates it is a login page specifically for accessing accounts associated with Apple. Additionally, the design aesthetics such as minimalism and use of white space align with Apple's well-known branding guidelines. The page is asking for the user\u2019s Apple ID which is a recognized form of Apple credential, enhancing the certainty that this is an Apple-branded login interface.",
+        "Url": "https://suscripcion-myldevicelocation.com/isignesp.php"
+    },
+    {
+        "Folder Hash": "50d9a9dd5fb90c7bb7bf9e2d8e6160aec2af9cd32c5738d292994f348a51e776",
+        "Brand": "Steam",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Account name, Password",
+        "List of Call-To-Actions": "Sign in button, \"Help, I can't sign in\" link, \"Learn More\" for joining Steam, \"Install Steam\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the Steam logo at the top left and mentions \"Steam\" in several places including the main sign-in section and the footer. The design is consistent with Steam\u2019s branding, utilizing a dark theme and showcasing game thumbnails in the background, typical of Steam's digital distribution platform. In addition, the footer mentions Valve Corporation, the company that owns Steam. The presence of a sign-in form mentioning account details, password field, and associated sign-in options such as QR code further authenticates the screenshot as being from Steam's website.",
+        "Url": "https://steamcorumunity.ru/gift/765625724239673548-auth"
+    },
+    {
+        "Folder Hash": "52ab62fa37550e58c5431661bc5b3dfc99232c8ef84a7dd428dcdec994fa88a3",
+        "Brand": "BT (British Telecommunications)",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "BT ID or Email address, Password",
+        "List of Call-To-Actions": "\"SIGN IN\", \"Create an account\", \"Stay signed in\", \"Forgot username?\", \"Or, continue with Google\", \"continue with Yahoo\"",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays multiple instances of branding and functionality associated with BT (British Telecommunications). The logo in the top left corner has \"BT\" in its distinctive style. Additionally, the page includes sections such as \"Broadband,\" \"TV,\" \"Sport,\" and \"Mobile\" which are typical services provided by BT. The presence of a login section asking for a \"BT ID or Email address\" and a \"Password\" aligns with standard login procedures for BT's online services. Moreover, the alternative login options to continue with Google and Yahoo further support the page's function as a login gateway, common for service providers like BT. This comprehensive alignment with BT\u2019s known online presence and services leads to high confidence in the brand identification.",
+        "Url": "https://btconnectfilesecureinboxbthomelogindropbopsdnebackboxpdf.weebly.com/"
+    },
+    {
+        "Folder Hash": "6a3df72d7a1feb4cc61dbd4a3f8fac326842330ac0607183730d02db2206a3b7",
+        "Brand": "Dropbox",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "E-mail, Password",
+        "List of Call-To-Actions": "VIEW DOCUMENT button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The logo visible at the top center of the webpage clearly denotes \"Dropbox,\" along with the Dropbox business branding. It is styled in a way that it matches the official Dropbox logo, therefore suggesting that this is a Dropbox-branded page. The webpage includes login fields for 'E-mail' and 'Password,' which are standard credentials for Dropbox. The presence of the \"VIEW DOCUMENT\" call-to-action button further confirms the purpose is to log into an account to access documents. The webpage also features Dropbox desktop and mobile app icons which align with the brand's typical integration points, providing more supporting evidence regarding the brand's identity. The bottom left section shows \"POWERED BY weebly,\" indicating the site might be constructed using Weebly's platform but branded for Dropbox.",
+        "Url": "https://doc-drop-box.weebly.com/"
+    },
+    {
+        "Folder Hash": "7cc458d21b98539d4a42d271da2e6778e45dc866cba2af10ed1545d801d30445",
+        "Brand": "DANA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Lanjutkan\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The image prominently displays the DANA logo in the upper left corner, which is a notable brand in the Indonesian digital wallet sector. The webpage elements, such as the promotional graphics and color scheme, seem to align with DANA's brand identity, further affirming its association with the platform. The screenshot prominently features promotional offers related to watching sports and redeeming rewards through DANA's services, consistent with the marketing efforts typically seen for digital payment platforms. The presence of the \"Lanjutkan\" button serves as a call-to-action for users to interact with the page based on selected options, which do not include the input of sensitive credentials like usernames or passwords, just selections for service inquiries or feature interests.",
+        "Url": "https://claim-hadiah-dana.vip-resmi.my.id/"
+    },
+    {
+        "Folder Hash": "83892b58a772494ee0981a624bf9922cc60b4f5f20f3f0c138b04931e8908706",
+        "Brand": "Amazon",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"H\u00c4MTA I BUTIK\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot features prominent branding elements associated with Amazon, including the Amazon logo and references to Amazon products such as Echo and Kindle. These elements are highly recognizable and closely associated with Amazon\u2019s branding and product lineup. The nature of the webpage, promoting a contest to win an Amazon gift card, further reinforces the connection to Amazon. Based on this visual and content-centric evidence, I can determine with high confidence that the brand represented in the screenshot is Amazon. However, there is a disclaimer at the bottom suggesting the promotion may not be directly sponsored by Amazon but uses its branding, which slightly lowers full confidence in the direct association with the Amazon corporate entity itself.",
+        "Url": "https://seaz2.getthis4free.com/start_225.html"
+    },
+    {
+        "Folder Hash": "c42d928f7e87d5658451bdf8b60447c40dd7059699031b4edcdebd7c1867b1ff",
+        "Brand": "DHL Express",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register, Login",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the DHL Express logo at the top, characterized by its distinctive red and yellow color scheme and typography. The presence of the logo bears a strong corporate identity, which aligns with DHL Express, a well-known global logistics company. Additionally, the page elements such as the menu options for shipping and tracking services, and the globe graphic, reflect DHL\u2019s business of worldwide parcel and document shipping. The options to Register and Login suggest areas where user credentials are required, thus authenticating the identity of the webpage as a service portal associated with DHL Express.",
+        "Url": "http://socialmediaconsultant.ae/public/pZsPXuMZl74EGYJ7h2WqEQl0DxBrvEyp"
+    },
+    {
+        "Folder Hash": "c492d060c45876a020df1747b7d636958a7c93fd92ed1f1eadb6ef5b8379be68",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Password",
+        "List of Call-To-Actions": "Sign in with Google, Sign in",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot prominently displays the Intuit logo at the top center, accompanied by icons for QuickBooks and TurboTax, suggesting it is a login page for Intuit services. The green branding elements and layout directly link it back to Intuit's standard color scheme and design aesthetics used across their various platforms. Additionally, the page mentions that \"One account for everything Intuit,\" further tying the screenshot to the Intuit brand. The domain of the company's services, including but not limited to financial and tax software, makes it likely that this is indeed an official Intuit webpage.",
+        "Url": "https://dev.vanira.co/wp-admin/intu/quickbooks.com-secure-qbo/quickbooks/"
+    },
+    {
+        "Folder Hash": "fd096d15c4f378b726a3bb3b530dc452216ed3d427a5778dc0a63a90a206b86d",
+        "Brand": "Spectrum",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username",
+        "List of Call-To-Actions": "\"Sign In\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand is identified as Spectrum based on the logo prominently displayed in the upper right corner of the screenshot. Spectrum is known to be associated with telecommunications and media, as referenced by its merger with Charter Communications, Time Warner Cable, and Bright House Networks mentioned in the login area text. The page layout and design feature elements characteristic of corporate branding, including color scheme and typography. This login screen requests a username, indicating sensitive user credential inputs and includes a \"Sign In\" button that serves as a direct call to action, prompting user interaction to access services. Signs of branding and interactive elements are evident without needing to search for external information or inspect the webpage's code.",
+        "Url": "https://basis.org.ua/sites/all/themes/omega/alpha/chartererror/error.php"
+    }
+]

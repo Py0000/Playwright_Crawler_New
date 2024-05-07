@@ -1,0 +1,200 @@
+[
+    {
+        "Folder Hash": "00a3ba349a28bcde9b275ae3fc88e3664348a7d42ea9c117b81a84702477d518",
+        "Brand": "OnPoint Community Credit Union",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Login ID, Password",
+        "List of Call-To-Actions": "Log In button, Forgot Login ID link, Forgot Password link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the logo and name \"OnPoint Community Credit Union\" at the top center of the login box, making it clear this is the brand associated with the webpage. The page includes credential fields for a \"Login ID\" and \"Password\", indicating it is a login portal. Additionally, it provides a \"Log In\" button and links for \"Forgot Login ID\" and \"Forgot Password\", which serve as direct calls-to-action encouraging user interaction for access or account recovery. The design and elements are typical for a financial institution\u2019s user login interface.",
+        "Url": "http://netcosecurity.com/on/online/l1.php/index.html/index.html/index.html/index.html/index.html/index.html/index.html/index.html/Genny/index.html/index.html/index.html"
+    },
+    {
+        "Folder Hash": "00d53af26a171113d0a536a4bb214d69a89e71beae2db3b1cec648ed68d6f365",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Agree & Join,\" \"Post a job,\" \"Find people you know,\" \"Choose a topic to learn about,\" \"Get started\"",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot displays the logo \"LinkedIn\" at the top left, which is a prominent feature used to identify the brand. LinkedIn is a well-known professional networking and career development platform, indicated by various elements such as job posting, connecting with people, learning skills, and inviting to join which are typical features of LinkedIn. The style of the webpage, including the graphics and layout, matches the professional and clean design associated with LinkedIn's branding. The webpage content focused on career advancement, networking, and professional articles supports that this is indeed a LinkedIn page. Additionally, the functionalities such as finding jobs, connecting with people, and learning new skills align with LinkedIn's services.",
+        "Url": "https://www.linkedin-hiring.cc/"
+    },
+    {
+        "Folder Hash": "01bab3a0a26aa032126e394e3a1aa81c33a8d778572068cbdb0b0c3af31c8277",
+        "Brand": "Minist\u00e8re de l'\u00c9conomie, des Finances et de la Relance",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"CONSULTER MA FACTURE FOURNISSEUR\"",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The screenshot features prominent branding elements that identify the webpage as belonging to the French Ministry of the Economy, Finance, and Recovery, known as \"Minist\u00e8re de l'\u00c9conomie, des Finances et de la Relance.\" This identification is supported by the presence of the ministry's logo and official seals, which include the French national emblem alongside the text stating the ministry\u2019s name. Additionally, the page mentions \"Chorus Pro,\" indicating it is a service portal related to this ministry, which manages Chorus Pro, a platform for handling supplier invoices for public administrations. No login or sensitive user credentials forms are visible on this welcome or introduction page, so it does not ask directly for credentials, but it includes a call to action: \"CONSULTER MA FACTURE FOURNISSEUR,\" encouraging users to access supplier invoice details.",
+        "Url": "https://chrorusprofact.ukit.me/"
+    },
+    {
+        "Folder Hash": "03e8fa3008fff4e140e8f8d4a91affaae8bb92d6cc96a13e1861f5af61e3f2d4",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Secret recovery phrase fields (12 fields for passphrase words)",
+        "List of Call-To-Actions": "Verify Phrase button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the MetaMask logo at the top and bottom of the webpage, which is a well-known brand associated with cryptocurrency wallets. The page is dedicated to confirming a secret recovery phrase, a typical security feature for digital wallet services. The call-to-action is clear with a \"Verify Phrase\" button, which aligns with the typical user interface designs and functionality seen in MetaMask's services. Additional identifying factors include the specific categorization of browser support which further aligns with tech-focused products like MetaMask. The overall layout and function presented in the screenshot are consistent with what is expected from the MetaMask brand.",
+        "Url": "https://metamaskwallet-extension.ddnss.eu/FMfcgzGwHftwbwTCZZfrcHKbNNPtZzMM/bMmNwhmlgsV/7ed3b/"
+    },
+    {
+        "Folder Hash": "0437c0d70c997cc8b00d5e648d97c198d6ec858fe57a2529f0266909fc489221",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email, password",
+        "List of Call-To-Actions": "Sign in button, Forgot password link, Continue with Google, Sign in with Apple, Join now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is based on the visual elements depicted in the screenshot provided. The logo at the top of the page features \"LinkedIn\", which is distinctive and well-recognized as the brand logo of the LinkedIn website, a platform for professional networking. The screenshot shows a sign-in form that requests an email and password, typical for user authentication processes on such websites. There are direct call-to-action features including a primary \"Sign in\" button, options to sign in via Google and Apple for convenience, and links for users who may have forgotten their password or new users to join. The page's appearance and layout are consistent with LinkedIn's known design aesthetics, with the additional presence of footer links to LinkedIn-specific pages like User Agreement and Privacy Policy that align with standard LinkedIn website components, further confirming the brand identity.",
+        "Url": "http://www.smartcaretrack.gogreencloth.com/core/linkedin/index.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "043b2acf520e2a49fd646e5f243431b277540dde2b7ad530f294a3c4c54af2af",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Start",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identification is confirmed by the prominent placement of the Facebook logo at the top of the screenshot and multiple references to Facebook within the text. The webpage specifically deals with an issue related to a Facebook account being locked due to unexpected activity, and it addresses the user directly about measures taken by Facebook to protect the account. The design, typography, and use of language are also in line with Facebook's known brand standards and styling which further supports the identification. The screenshot does not show fields asking for sensitive credentials like username, password or email; it only presents a notification and a call-to-action button labeled \"Start,\" which likely begins the process to address the account lock issue.",
+        "Url": "https://verification-page-ads.com/hrEdX9ovD45Uh1RI4hqknuV4kxNBmPiJe77eIoBsgddj61TCRyDOdN4bpopnOBH3yyhGQQKuTshVKon7Trangdau.html"
+    },
+    {
+        "Folder Hash": "05c5b660d1fb4c3f2b0c25b15e5a2bd936d44271b6976bdc14049843afca1e91",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Search on Facebook (input field that may be used for login), Notifications/profile/settings icons that require log in to access.",
+        "List of Call-To-Actions": "Feelings/Activity, Live Video, Photo/Video",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot features several distinctive elements that indicate the brand is Facebook. The logo at the top of the page, which is Facebook's distinctive \"f\" logo, and the overall layout and style are characteristic of Facebook's desktop interface. Features such as the left side column with options like Friends, Marketplace, Groups, and the top bar with search and notification functionalities further confirm this. The presence of personal profile suggestions and a post box asking \"What's on your Mind, Dipanjan?\" are typical elements of the Facebook user interface, designed for social interaction and content sharing among users.",
+        "Url": "https://facebook-clone-c0j.pages.dev/"
+    },
+    {
+        "Folder Hash": "0645de78ba6dd8e84fe462785095a383cc6ed2782f9b61ba9f29827ebb1ee13f",
+        "Brand": "Banco BPM",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Codice utente (User code), Password",
+        "List of Call-To-Actions": "ACCEDI (Login button)",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the logo \"BANCO BPM\" at the top, which is a clear indicator of the brand identity. Additionally, the footer section of the webpage includes various details such as the customer support numbers and the Piazza F. Meda address in Milan, which aligns with the information known about Banco BPM's headquarters, confirming the page is associated with Banco BPM. The design and layout also reflect standard banking security and authentication features, supporting the identity as a bank page. The mention of \"Banco BPM Gruppo Bancario\" further consolidates this as a page from Banco BPM.",
+        "Url": "https://youbusinessweb-bancobpm.web.app/sessionid#ba2a78ef3eaf0cffe9b76fab86c9183d"
+    },
+    {
+        "Folder Hash": "06ce081ff698c6cce724138b8cbf97adf34780f731b09e30f3d1f8c4023805e3",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook Name, Email or Phone Number, Password, Date of Birth",
+        "List of Call-To-Actions": "Masuk (Login) button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the Facebook logo at the top center and references Facebook both visually and textually. The interface design matches the conventional color scheme and layout used by Facebook, reinforcing the identification. There is a section titled \"Peringatan Facebook\" (Facebook Warning), further affirming the association with Facebook. The webpage also contains form fields for entering user details typically required by Facebook for login, including a name linked to Facebook, and options to enter an email or phone number, password, and date of birth. Additionally, the presence of a 'Masuk' button aligns with the expected user interaction for accessing one's account. The lower part of the screen shows a secondary brand, 'Weebly by Square,' suggesting that the webpage may have been created using Weebly's services, however, the primary focus and branding of the page are related to Facebook.",
+        "Url": "https://pihak-resmi-id-105551.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "0704fbad1073d25d693587687b5a3a05f1dae8b26076216fc7d8527925bb3de2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Correo electr\u00f3nico (Email), Contrase\u00f1a (Password)",
+        "List of Call-To-Actions": "Iniciar sesi\u00f3n (Sign in button)",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the logo of Microsoft at the top, which is a well-known brand identifier. The login page format matches the typical style used in Microsoft\u2019s account access pages, including its focus on clear, minimalistic design and recognizable fonts. The page is in Spanish and requests credentials, specifically the user's email (\"Correo electr\u00f3nico\") and password (\"Contrase\u00f1a\"), to sign in. The phrase \"Inicia sesi\u00f3n en la plataforma Microsoft para confirmar identidad.\" further supports the identification as it mentions using the platform to confirm identity, suggesting a Microsoft account login page. Additionally, the presence of the \"Contactanos: outlook.live.com\" further emphasizes the affiliation with Microsoft, as Outlook is a Microsoft service.",
+        "Url": "http://mexicovierificarsuspencionvalidar.royalwebhosting.net/"
+    },
+    {
+        "Folder Hash": "140e7476ee0343f602e53a3149797c4df4621c10b964f6342a34533781adf290",
+        "Brand": "Nike",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"CADASTRE-SE\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage screenshot prominently displays the Nike logo at the center top part of the page, which is a strong identifier for the brand. The design aesthetics and product listings such as \"Nike Air Force\" and \"Nike Dunk Low\" further support the identification of Nike as the brand. The webpage includes a section at the bottom asking for users to input their email address for a coupon, which categorizes as sensitive user credentials. There is also a clear call-to-action (\"CADASTRE-SE\") associated with this email input field, prompting users to take action, specifically to subscribe or register for receiving a discount. The overall layout and displayed elements such as the distinctive Nike sneakers further reinforce the brand identity. The confidence score is 9.50 due to the direct visibility of the brand's logo and typical product line which is highly characteristic of Nike, despite the potential for webpages to sometimes use misleading or co-branded content.",
+        "Url": "https://unitensloja.site/"
+    },
+    {
+        "Folder Hash": "1609c8ef7f93c3cc34b5f6679bf8943be89d2dcb0607ea94cf3a4ff99b56ec4c",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Login, Create free account, Sign in, Sign up",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the OneDrive logo, which is a well-known Microsoft service that allows users to store files and data online. This logo, combined with the characteristic design of the login modal and webpage layout that aligns with Microsoft's typical interface aesthetics, supports the identification of the brand as Microsoft OneDrive. Additionally, the URL visible in the address bar of the browser in the screenshot, \u201conedrive.live.com\u201d, directly references Microsoft OneDrive, further confirming the brand identity. This screenshot also displays typical features of a Microsoft OneDrive homepage, such as options for personal cloud storage solutions, further solidifying the connection to OneDrive specifically instead of just any Microsoft product.",
+        "Url": "https://onedrivelseeattachfile.web.app/"
+    },
+    {
+        "Folder Hash": "33932ac057385308009b54178640b8eb5fb848749a1642de0fabdcf16cc68646",
+        "Brand": "Adobe",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Singapore\" and \"United States\" buttons",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot displays a webpage focused on helping Acrobat users with sign-in issues. The top left corner of the page prominently features the Adobe logo, which is distinctive and well-recognized. Additional branding consistent with Adobe includes the stylized \"A\" icon and dark color theme used across the webpage. The webpage provides support related to Adobe Acrobat, further aligning with Adobe's product offerings. The presence of a banner asking the user to switch to a more applicable regional site (Singapore or United States) due to location mismatch, and buttons for each region, confirms the webpage's intent to cater to user needs directly related to Adobe's services.",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "5e1a287812762ebd7e044d6c7a61644c4b3dc26669d9a5bf0b6de2fb92e927a2",
+        "Brand": "BullPhish ID",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Support@idagent.com contact link",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot prominently displays the logo of \"BullPhish ID\" at the top, alongside clear text stating that the domain is owned and operated by ID Agent as part of the BullPhish ID\u2122 Phishing Simulation/Training & Awareness tool. The content on the webpage also discusses topics related to email campaigns and phishing simulations, which aligns with the services typically associated with a cybersecurity and training platform like BullPhish ID. The logo and text provide strong visual and textual evidence tying the screenshot to the BullPhish ID brand. The contact email link at the bottom acts as a call-to-action, but no sensitive user credentials are solicited directly on the page presented in the screenshot.",
+        "Url": "https://secured.cloudsurveillance.net/0b22b244-593f-428f-883a-f0c6eccd7cc0"
+    },
+    {
+        "Folder Hash": "721a476d024a0dfd32057c312a00b60d6d2f3f751a1bb09548dcd11e9ba634aa",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Vollst\u00e4ndiger Name, Telefonnummer, Kartennummer, MM (Month for card expiry), Sicherheitscode",
+        "List of Call-To-Actions": "Sichere Zahlung (Secure Payment Button)",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot provided shows a payment form, which typically indicates a service or transaction webpage, but there is no clear branding or identifiable logo visible to confirm which organization the webpage represents. The logo in the top left corner is not recognizable or associated with a well-known brand. Additionally, the form asks for sensitive payment information like the user's full name, telephone number, card information, and security code, along with a call-to-action for a secure payment. Despite the presence of sensitive fields and a call-to-action, the absence of recognizable branding or logos results in a confidence score of 0.00 for identifying a specific brand.",
+        "Url": "https://wsx.vvo.mybluehost.me/wp-admin/AGJ/LoginServices/"
+    },
+    {
+        "Folder Hash": "8ca024cdc6d763e242452e3fd44805aa1c00c159c982e8d68e9e7ceaaf1586e0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Sign in, Create account, Unlock now",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The screenshot provided clearly displays multiple instances of content and logo representative of Microsoft, specifically related to the OneDrive service. Visible elements such as the Microsoft and OneDrive logos, the typical Microsoft user interface layout, and references to other Microsoft services like Microsoft 365 vouch for the brand identification as Microsoft. Information about managing files with OneDrive, along with mentions of operating systems like Windows, which is a Microsoft product, further consolidate this identification. The content also involves troubleshooting steps specifically for OneDrive, linking it unmistakably to Microsoft.",
+        "Url": "https://support.microsoft.com/en-us/office/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2"
+    },
+    {
+        "Folder Hash": "a7130332f01e2cbcfa13cec93ea1d2b256c59188e3ccdb1df21ff3aacc7e958d",
+        "Brand": "WalletConnect Pay",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Connect button, Demo button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand of the webpage can be determined from the visible logo at the top center of the screenshot, which includes a stylized \"W\" next to the text \"WalletConnect Pay.\" This combination of visual and textual identifiers provides strong evidence of the brand identity. The page layout features two actionable buttons, \"Connect\" under \"Business Login\" and \"Demo\" under \"Order Menu,\" but no forms requesting sensitive user credentials such as username, email, or password are visible, only options evidently intended to either log in or view a demonstrative section. The simplicity and clarity of design elements and the absence of interactive elements typical of a login field support this conclusion.",
+        "Url": "https://walletconnectpay.com/"
+    },
+    {
+        "Folder Hash": "d66c28b7d332cbcc89c9c66c1b425043f3e007ef35ee2c7285ecfe9eaa0d57ee",
+        "Brand": "Krafton",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Collect buttons for various rewards",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly shows multiple elements that indicate it is from the brand \"Krafton.\" The logo of \"Krafton\" is visible at the bottom center of the image along with \"BATTLEGROUNDS MOBILE INDIA,\" suggesting that this is a specific regional version of a game under Krafton's portfolio. The content of the screenshot displays in-game rewards and announcements characteristic of a mobile gaming interface, specifically pointing to a game related to Krafton\u2019s products. There are no visible fields for entering sensitive user credentials such as email, password, or phone number; however, there are multiple \"Collect\" buttons, which are typical call-to-action elements in gaming applications, urging players to claim their earned rewards. These observations, combined with the structured layout and visual design, confirm the presence of an interface related to Krafton's gaming services, particularly for a Battle Royale game tailored for the Indian market.",
+        "Url": "https://gunk8tsbvpz.penguasa.de/"
+    }
+]

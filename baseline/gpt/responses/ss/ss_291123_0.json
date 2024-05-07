@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "0029ddf50757663f869ea57fa6b35bb742950a007641478851bf8fea7133872e",
+        "Brand": "Google",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone",
+        "List of Call-To-Actions": "Next, Create account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot shows the login interface for Google accounts, evident from the prominent \"Google\" logo at the top. The page layout and style are characteristic of Google's design language, featuring a minimalistic look with simple, clean lines, and the use of Google's blue color scheme for the action button. The phrase \"Sign in\" and \"Use your Google Account\" further supports the identification as a Google login page. The options provided, such as \"Forgot email?\" and \"Create account,\" are typical for Google's authentication pages, aiming to assist users in various situations related to account access. Additionally, the presence of language selection and links to \"Help,\" \"Privacy,\" and \"Terms\" at the bottom align with Google's standard footer elements on login pages.",
+        "Url": "https://accounts-google-com.google.research.skyfencenet.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&followup=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&ifkv=ASKXGp35mtwoMZTYq_EQh00TDcURsTqYlJCXhLv51FgyiEwBpd_bSIdnTUQe919CFtE8t2MXUeVA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1106871291%3A1701237264171240&theme=glif"
+    },
+    {
+        "Folder Hash": "00d320e13a4afd5c13cd57d8e6930967708ab4d93d7583d7b9e52e97e507ccb5",
+        "Brand": "DHL Express",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register, Login",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the DHL logo along with the name \"DHL Express\" on the top left corner. The brand is well-known globally for its logistics and express delivery services, making the identification straightforward. The presence of 'Register' and 'Login' links at the top right further indicates that the site likely asks for user credentials related to creating or accessing an account, reinforcing the identification of the webpage as related to DHL and offering account management services. The overall color scheme and design also align with DHL's corporate identity, consisting of red and yellow colors prominently featured across their brand communications.",
+        "Url": "http://socialmediaconsultant.ae/public/cKcAHeRtw8tgyrOIdKqopukWqegyBl6X"
+    },
+    {
+        "Folder Hash": "0268063589ad4ed7dc1cc582927dbc4a55f51d034f46283b2f276bad9acb6652",
+        "Brand": "MetaMask",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Sign up email",
+        "List of Call-To-Actions": "Download now, Download MetaMask Today, Sign up",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The website screenshot prominently features the MetaMask logo multiple times, particularly at the top-left corner and above the fold. It includes visually prominent call-to-action buttons such as \"Download now\" and \"Download MetaMask Today.\" The use of the MetaMask logo and consistent branding throughout the screenshot, as well as the website's focus on cryptocurrency wallet services, support the identification. Additionally, the footer includes copyright information referencing MetaMask, further confirming the brand\u2019s identity. The subscription form for receiving a newsletter suggests collecting at least an email, often included under sensitive credentials.",
+        "Url": "https://matemska.com/"
+    },
+    {
+        "Folder Hash": "03613ee8f7807376093f334ce4a3f269c601fe5a3a39cb6942beffed71755968",
+        "Brand": "DHL Express",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Register",
+        "List of Call-To-Actions": "Register, Login",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the well-known DHL logo at the top of the page, which is distinguished by its striking red and yellow color scheme and stylized lettering. The phrase \"DHL Express\"  further clarifies the association with DHL's express shipping services. The layout of the webpage is professional and typical of corporate websites, with navigation options such as Home, Ship, Track, Help and Support, and tools for finding a location. Moreover, the global presence of DHL is highlighted through the dropdown for changing the country setting, set to Afghanistan as visible. The options to \"Register\" and \"Login\" indicate areas where users likely need to enter credentials potentially including email, username, and password, making it clear that sensitive information is handled on this site.",
+        "Url": "https://package.dittugarments.com/public/xXmKbIKplnyr3mWGvbjBXmGyAmEgHDal"
+    },
+    {
+        "Folder Hash": "04076986695e1224101bc06b34e8537784bd3b937c4a9c7536a9e92fc1335e6e",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Nome e cognome (Name and surname), Numero di telefono (Phone number)",
+        "List of Call-To-Actions": "Accedi (Login) button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the logo of \"Poste Italiane\" at the top center, and another logo labeled \"Poste ID\" with the SPID (Italian public system for the management of digital identity) logo, indicating it's part of the Poste Italiane services. The colors and design match the known branding and color scheme of Poste Italiane. Additionally, the webpage's content is in Italian, which aligns with Poste Italiane being an Italian company. The presence of a login form asking for personal credentials and a \"Chat\" button for customer service further confirms the functionality as expected from a postal and digital identity service provider.",
+        "Url": "http://bestknitters.com/"
+    },
+    {
+        "Folder Hash": "04847856708f0e6d56d41a5e6a370241a9ba719b377bf4f3a54b19b23344d824",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address or phone number, Password",
+        "List of Call-To-Actions": "Log In, Create New Account",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot presents a prominent logo of Facebook at the top, which is a well-known brand indicator. The logo\u2019s typography and color scheme match the official Facebook branding. The layout features a login area, which aligns with the typical Facebook login page setup. Additionally, below the login fields, there are options for recovering passwords and creating new accounts, common features found on Facebook. Also, the \"Create a Page\" link is a unique aspect associated with Facebook, intended for business or entertainment entities wanting a presence on the social platform. The references to various Facebook-related languages and options at the bottom, as well as tabs like \"Messenger,\" \"Instagram,\" and \"Oculus,\" reinforce the identification as these are known services and products linked to the Facebook brand.",
+        "Url": "https://ikechukwu647.github.io/rubliss4/"
+    },
+    {
+        "Folder Hash": "05e2621aa56ff714ca7f8e6143182091f735a157100463c72d0221c92adaba7b",
+        "Brand": "VK Store",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"COMPRAR AGORA\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand \"VK Store\" is displayed prominently at the top left corner of the webpage, which typically indicates the brand of the website. The logo is a distinctive black and red visual element, featuring the letters \"VK.\" This specific placement and the design of the logo strongly suggest that it represents the brand of the webpage. Additionally, there is consistency in the use of the \"VK Store\" logo across various parts of the webpage, including in the banner at the top. This repetition enhances the confidence in brand identification. The call-to-action button labeled \"COMPRAR AGORA\" (Buy Now) is located next to the product description, serving as a directive for visitors to initiate a purchase, which confirms the presence of a call-to-action element.",
+        "Url": "https://blackfridayamericanas.net/081f8fcf-5316-4f90-88a6-6119c5943e6d/checkout/produto/6543d98a6ca11/jogo-de-panelas-brinox-smart-plus-ceramic-life-8-pecas-vanilla"
+    },
+    {
+        "Folder Hash": "062d94cb0608d431400dee0a185a1ba94a4db663f5e6d2eec887a45839acf3af",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"\u0110\u00f3ng\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identifying feature for the brand in this screenshot is the prominent logo of \"Garena Free Fire\" located at the top with an accompanying tagline and an animated graphic of characters from the game below it. The unique color scheme, character design, and overall presentation are visually consistent with Garena Free Fire\u2019s marketing and branding seen in other media. There are no credential fields visible in this screenshot, indicating that user-sensitive information isn't being collected here. The inclusion of a \"\u0110\u00f3ng\" (Close) button represents a call to action, but it's for closing a notification or dialogue within the app rather than for user interaction with secure services.",
+        "Url": "http://test1.garenav.vn/"
+    },
+    {
+        "Folder Hash": "06e6a4b7f630f17850cf2b216c3f81bb70d18a51ed616c7b941b4e48b8679389",
+        "Brand": "VivoBarefoot",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Shop Now buttons",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage screenshot includes distinct branding elements that indicate the brand is VivoBarefoot. The logo featuring a stylized \"V\" is visible in multiple places, confirming the brand identity. The webpage prominently displays products and information specifically related to VivoBarefoot, including descriptions of their shoe lines and philosophies about barefoot walking principles. Additionally, the URL footer contains the copyright note \"Copyright \u00a9 2023 vivobarefootossandalsarabia Powered by vivobarefootossandalsarabia.com,\" which reaffirms the identity of the VivoBarefoot brand, although the web address seems to reflect a specific regional online store version. Further support is given by the consistent use of the 'V' logo throughout the page and the product offerings specific to the VivoBarefoot brand.",
+        "Url": "https://www.vivobarefootssaudiarabia.com/"
+    },
+    {
+        "Folder Hash": "070d8f9be03c6be321a10dcfb879820fbcd0c6b05a9afe392ac2da9b8f5dd2ae",
+        "Brand": "Instagram",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, username, email, password",
+        "List of Call-To-Actions": "Log in, Sign up",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the Instagram logo at the top, which is a well-recognized visual element upon a minimalist, white background. Below the logo, there is a login form that requests user input for either a phone number, username, or email alongside a password field, which affirms the site's function as a login page. Furthermore, the screenshot includes links for app downloads from both the App Store and Google Play, reflecting the brand's mobile platform integration. Additionally, at the bottom of the page, right aligning with the copyright date (2018 Instagram), the footer links include typical Instagram-related sections like \"About Us\", \"Blog\", and \"Privacy Policy\". All these elements together make it evident that the webpage belongs to the brand Instagram.",
+        "Url": "https://lnstagramlite.blogspot.com/"
+    },
+    {
+        "Folder Hash": "524d69e099ce2cf898dbd3614e175228b3b3624e8f5496f3252b5136c9fc55f2",
+        "Brand": "bet365",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Android\u4e0b\u8f7d (Download for Android), iPhone\u4e0b\u8f7d (Download for iPhone), \u6ce8\u518c\u5373\u9886\u7ea2\u5305 (Sign up and receive a red packet)",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot prominently features the bet365 logo in multiple locations, suggesting that the brand associated with this webpage is bet365, a renowned online betting company. The visual presence of the bet365 logo on the shirt of the individual, in the smartphone image, and in the top right corner beside the FIFA World Cup Qatar 2022 emblem, supports this brand identification. The web page layout, focusing on sport betting (as shown in the mobile phone mockup displaying football match information), aligns with bet365's known services. The primary domain in the webpage screenshot contains 'bet365' clearly, increasing confirmation of the brand's identity. An overall thematic and visual alignment with bet365's typical marketing and operational style (e.g., sports-themed promotions, green color schemes) further supports this identification.",
+        "Url": "http://19730510.com/"
+    },
+    {
+        "Folder Hash": "57ef3530895093d5a4cab5f34f7d34f127015946c19e5b0ae90f7f934d2e020d",
+        "Brand": "Meta",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Log in with Facebook - implies the potential use of Facebook credentials (username/email and password)",
+        "List of Call-To-Actions": "Log in with Facebook button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot features an overlay with the Meta logo prominently displayed at the top, clearly indicating that the brand is Meta. The use of the Meta logo in the context of a login screen, along with the dialogue \"Log in to access your professional tools\" directly ties the brand to this login functionality. Moreover, the button \"Log in with Facebook\" suggests integration with Facebook services, which is consistent with Meta's ownership of Facebook. The year \"2023 Meta\" at the page's footer further confirms that this is a current Meta-branded service designed for logging in using Facebook credentials. This comprehensive branding and integration are typical for Meta-operated services, ensuring a strong confidence in identifying the brand accurately.",
+        "Url": "https://www.meta-support-page.com/"
+    },
+    {
+        "Folder Hash": "5b079aaddbb1fcd8f92f31136a6235e8f7c77b4a69cb2b4bd72997a4d6bfb288",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email or phone number, Password",
+        "List of Call-To-Actions": "Sign In, Login with Facebook, Sign up now",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly shows the Netflix logo at the top, which is widely recognized due to its distinctive red color and stylized font. The background images in the screenshot display various Netflix original and distributed shows, such as \"The Crown,\" \"The Punisher,\" \"Peaky Blinders,\" which are well-known to be part of the Netflix library. The presence of a login form requesting \"Email or phone number\" and \"Password,\" along with call-to-action buttons including 'Sign In', 'Login with Facebook,' and 'Sign up now', directly associate with common features on media streaming platforms, particularly as seen in Netflix\u2019s own service. Moreover, the URL or website structure typical for Netflix includes elements like sign-in pages, underpinned by graphical and textual presentation consistent with the Netflix brand identity observed globally.",
+        "Url": "https://netflix-december21.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6adcc77d36f1c22526469ab12f1758bf1eda7f96d66e01c7fe3bc71e4050900e",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Facebook, Full name, Date of Birth, Address",
+        "List of Call-To-Actions": "\"\u0110\u0102NG NH\u1eacP\" (Log In), \"NH\u1eacN QU\u00c0\" (Receive Gift)",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot shows a webpage designed for a VIP Membership, featuring characters that appear to be from a game. However, the brand of the webpage isn't explicitly stated through recognizable logos or branding elements apart from the visual theme which suggests a gaming context. The language used in the webpage is Vietnamese, providing a contextual clue about the target audience, but not sufficient to determine the exact brand. The design elements and color scheme appear generic and do not specifically point to a well-known gaming platform or developer. The lack of distinct branding elements such as a specific logo or unique brand name in a recognizable format renders it difficult to accurately identify the brand from the screenshot alone. The confidence in brand identification remains at the lowest as there is no concrete evidence to ascertain the brand identity exactly.",
+        "Url": "http://ff.member.gareza.vn/cre96aCBExqeaXVpAUtesGytOkoIi0b316MEngRB6GduITgIXVrolFEk2af8IFjZOoSP3KYbglKd4dNBCztIqgAYAV650Z5ySGNc_index/#/"
+    },
+    {
+        "Folder Hash": "a97b31d3ecdfe1d824afe2dbe6b31f2198346e40697fc3b2269f601ad0bc99d7",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "\u767b\u9646\u6309\u94ae (Login button), \u7acb\u5373\u52a0\u5165 (Join Now)",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the \"bet365\" logo at the top left, and further reinforces its brand with a player wearing a jersey with the same \"bet365\" logo. Additionally, the interface design and offers related to betting further confirm the association with the bet365 brand, which is known for online betting and gambling. Moreover, the footer of the webpage has copyright information including \"bet365\", solidifying the brand identification. The page includes fields for username and password as part of the login process, with clear call-to-actions for logging in and joining the platform, typical of user interaction features on such websites. The use of these elements and branding corroborates the identification as bet365 with high certainty.",
+        "Url": "https://www.bet3659.tv/home"
+    },
+    {
+        "Folder Hash": "aa4a498386e1135bb11171167c2833f459c01d92f2f806af12e2a178174bb608",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"Netflix\" is distinctly visible through its logo presented at the top of the screenshot. The familiar red color palette of the branding and the specific format of showcasing streaming content are synonymous with Netflix's branding and user interface. The page prominently displays various titles and promotional graphics typical of Netflix\u2019s presentation of its media catalog. There are also references to \"Netflix India\" at the bottom, suggesting geographic customization for the Indian audience. Furthermore, the features and layout shown in the screenshot, such as options to watch on various devices and the existence of a kids' section, align with known Netflix platform functionalities.",
+        "Url": "https://imshivamnair.github.io/Netflix-and-Chill/"
+    },
+    {
+        "Folder Hash": "d00adfb26aca6d440945911e196167c79020355e213d72da41ba54eca09f7d62",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "Get Started button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The prominent use of the \"NETFLIX\" logo at the top of the webpage is a clear indicator of the brand. Additionally, the webpage layout and design align with Netflix\u2019s typical branding elements, such as the dark background and the use of images from well-known series and movies that are distinctive to Netflix content offerings. The content emphasizes streaming Indian shows and movies, a service Netflix provides. The tagline, the language options provided, and the presence of a login area further corroborate that this is a Netflix webpage. All these elements collectively strengthen the confident identification of the Netflix brand.",
+        "Url": "https://dubeyprashant1.github.io/Netflix-Clone.github.io/"
+    },
+    {
+        "Folder Hash": "dcd93ffe7cc0ce8d070abaa399e5e36738aa5c3bc7f7cd3b92cce094ff77cd6d",
+        "Brand": "DSK Bank",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u041f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b (Username), \u041f\u0430\u0440\u043e\u043b\u0430 (Password)",
+        "List of Call-To-Actions": "\u0412\u0445\u043e\u0434 (Login), \u0417\u0430\u0431\u0440\u0430\u0432\u0435\u043d\u0430 \u043f\u0430\u0440\u043e\u043b\u0430 (Forgotten password), \u0417\u0430\u044f\u0432\u0438 \u043e\u043d\u043b\u0430\u0439\u043d (Apply online)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The provided screenshot clearly displays a logo with the text \"DSK \u0414\u0438\u0440\u0435\u043a\u0442\" along with the DSK Bank emblem, identifying it as a webpage of DSK Bank. The webpage is in Bulgarian, typical for a Bulgarian bank like DSK. The website also features typical bank-related functionality, such as login fields for 'Username' and 'Password' and an option for recovering forgotten passwords. This aligns with standard online banking portals. There is a linguistic and thematic consistency throughout the webpage, maintaining the corporate green color scheme and bank-related topics. Additional confidence is derived from the presence of typical banking advertisement for a no-administration-fee credit option (\"\u0417\u0430\u044f\u0432\u0438 \u043f\u043e\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043b\u0441\u043a\u0438 \u043a\u0440\u0435\u0434\u0438\u0442 \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0435\u0437 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0442\u0430\u043a\u0441\u0430\") and a related call-to-action (\"\u0417\u0430\u044f\u0432\u0438 \u043e\u043d\u043b\u0430\u0439\u043d).",
+        "Url": "https://directonline-bg.com/login/"
+    },
+    {
+        "Folder Hash": "f34bd4c756f9c0ad38e85f51cdf9c3ff9a52ed1bc924d6ad1ae31948173e2903",
+        "Brand": "Codashop",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Player ID, Email Address",
+        "List of Call-To-Actions": "\"Masukkan Player ID\", \"Pilih Nominal Top Up\", \"Pilih pembayaran\", \"Beli sekarang\"",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the \"Codashop\" logo at the top left, which suggests it is the webpage brand. This identification is reinforced by the web design and graphic styles, which correspond to Codashop's typical branding. The page layout focused on enabling users to top up in-game credits (\"Free Fire\" diamonds in this case) is consistent with Codashop's known services. Additionally, the URL is partially visible, including the term \"codashop\", which supports the brand identification. The way the page calls action for purchasing (Top Up options and payment) and the direct ask for credentials (Player ID and email) affirms the primary function of the webpage as a payment gateway for digital goods.",
+        "Url": "https://diamond-gratis-9736.real4.biz.id/id/"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "00456ceeb05233ad13847800e135177fee3ba3b9aa8b3abad2897d5bb098c0ef",
+        "Brand": "Sasktel",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage clearly states \"Sasktel\". This is a strong indication that the brand of the webpage is Sasktel.",
+        "Url": "https://mwebsasktelnetwebmail.weebly.com/"
+    },
+    {
+        "Folder Hash": "02543a8275720f148177a6725d130795ca1ce37b23115e37220ec8120e329b7d",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The brand is identified based on the favicon and the logo alt text. The favicon is the Microsoft logo, and the logo alt text is \"Microsoft\". The footer text also mentions \"Privacy & cookies\", which is a common element of Microsoft's websites.",
+        "Url": "https://pub-bab316f8fb154fc2990bdef6c0c5a545.r2.dev/micros.html?email=ym9ilnhpbmdaemltdmlllmnvbq=="
+    },
+    {
+        "Folder Hash": "02678ed74f0374f8f550d4cb157ab6f977ca02d97a01c3bf78e9e40bfcd50a31",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The footer text includes the company name \"Magazine Luiza LTDA\", along with its CNPJ number. The footer also includes the address of the company's headquarters in Ribeir\u00e3o Preto, S\u00e3o Paulo, Brazil. Additionally, the copyright notice at the bottom of the page states that \"Todas as marcas referidas neste website s\u00e3o ou podem ser marcas comerciais registradas e protegidas por leis internacionais de copyright e propriedade industrial e pertencem aos seus respectivos fabricantes e propriet\u00e1rios.\" This indicates that Magazine Luiza respects the intellectual property rights of other brands, further supporting the authenticity of the website.",
+        "Url": "https://amigalu.com.br/"
+    },
+    {
+        "Folder Hash": "03b1434f9932da25c5349db7b2784f0059054dbe051acc9d3b90f5b71f497b4a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage title is \"Login | Microsoft 365\". The logo_alt_text and footer_text also contain \"Microsoft\". The nav bar is entirely dedicated to promoting Microsoft's products and services, such as Office 365, Windows 365, and Microsoft Teams.",
+        "Url": "https://officehomeprodprv.japaneast.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "03cf34723cc38f2d411fa121d18768e4ada578f2e892a0d9a42f2eb695a44a90",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is identifiable from the title of the page \"BUSINESS SUITE\" and the header texts such as \"Confirm ID and request review\", \"Log Into Facebook\", and \"Request review of advertising restrictions\", which are all related to Facebook's business suite and advertising features.",
+        "Url": "http://rafiamarketingagency.com/"
+    },
+    {
+        "Folder Hash": "04497415ef2e89fd65d797de4945569c1809696c591b36ede34f2e3c710abe94",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, \"ROYALE PASS M14 EVENT,\" strongly suggests that the brand is PUBG Mobile, a popular mobile game where players compete in a battle royale format. Additionally, the favicon, which displays the iconic PUBG Mobile logo, further supports this identification. There is no indication of the presence of any other brands on the page, giving us high confidence in attributing the page to PUBG Mobile.",
+        "Url": "https://smaer-df097f.ingress-comporellon.ewp.live/wp-content/plugins/a/spin/5717563228/"
+    },
+    {
+        "Folder Hash": "04e0385261aa7d5362e0934d64b20aa0eb77d796252e653706d9c486723d4974",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information lacks identifying elements. There is no title, metadata, favicon, logo, footer, header, or navigation bar content to suggest a brand.",
+        "Url": "http://bafybeihayb4vlkcffkyuowz6p2z63a7mpb57udpfjkbd5r74l2pzweriqu.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "058942529bb11c7d607ff20b5e783b83f84ab4cc6dccf94662829fd006a08f4a",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is clearly identified in the title: \"DHL | Global | English.\" DHL is a well-known logistics company, and this title is consistent with their branding. The favicon also includes the DHL logo, providing further evidence of the brand's identity.",
+        "Url": "https://siteoficialstory.com.br/vvu/dhl/source/index.php?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "05b262500b504efc2e3ed40fb1f0f42b7e8b1325b073b43d9ced4e83cbaaf0af",
+        "Brand": "OneDrive",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The page title is \"My Files - OneDrive\", and the favicon is the OneDrive logo. Furthermore, the footer includes the text \"OneDrive\".",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmSruaeizQEqj1cxGFJyFhC4FQ5CYcb8ffhrSBDJoe8CUU"
+    },
+    {
+        "Folder Hash": "060f0086bb80b1f09eaff080ab80aa0a10add88217a9b9be21cfa0177093a558",
+        "Brand": "DANA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "http://pusatt-bantuans.dana-ids.my.id/"
+    },
+    {
+        "Folder Hash": "605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817",
+        "Brand": "DHL Express",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage clearly states \"DHL Express\". This is further supported by the favicon, which is an image of the DHL logo. The webpage is likely related to the logistics and shipping company DHL Express.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu"
+    },
+    {
+        "Folder Hash": "acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage title is \"Netflix Clone\", and the favicon contains the Netflix logo. The footer text also mentions \"Netflix\", and the nav bar content includes \"Sign In\", which is a common feature on the Netflix website.",
+        "Url": "https://clement-lotus-mollick.github.io/Netflix-Clone-FC/"
+    },
+    {
+        "Folder Hash": "ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c",
+        "Brand": "bilibili",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage has \"\u54d4\u54e9\u54d4\u54e9\" in the title, which is the brand name of bilibili. The favicon also includes the logo of bilibili. The footer text and header text are in Chinese which aligns with the Chinese origin of bilibili.",
+        "Url": "https://www.bilibili.com/"
+    },
+    {
+        "Folder Hash": "cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The webpage's title and favicon both contain the keywords \"Garena Free Fire\". The footer text also contains the Garena Free Fire logo in addition to the text \"Garena Free Fire\". Therefore, we can conclude that the brand of the webpage is Garena Free Fire.",
+        "Url": "https://www.ff.members.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    },
+    {
+        "Folder Hash": "cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The title of the webpage is explicitly \u201cnetflix\u201d. This is a direct hint at the webpage\u2019s brand. Additionally, the header text includes \u201cNetflix\u201d as well. Based on these two factors, the brand of the webpage can be identified as Netflix with a high confidence score.",
+        "Url": "http://www.netflix.ayuda-telefonica.com/"
+    },
+    {
+        "Folder Hash": "daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title clearly states \"Netflix\". Additionally, the footer text mentions \"Netflix India\", further confirming the brand's identity.",
+        "Url": "https://sakshishakya.github.io/Netflix/"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0ce809619a352bbbb3017df602856ecec7a30bd18bb209bdff07283959ae02bb",
+        "Brand": "Banco Galicia",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Tu DNI, Tu usuario galicia, Tu clave galicia",
+        "List of Call-To-Actions": "INICIAR SESI\u00d3N, OLVID\u00c9 O BLOQU\u00c9 MIS CLAVES, CRE\u00c1 TUS CLAVES",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand is primarily based on the visible logo at the top left corner with the distinctive orange 'G' and the word \"Galicia\" which matches the branding of Banco Galicia, a prominent financial institution in Argentina. The webpage's design also features orange color accents, consistent with the bank's official color scheme. Additionally, the Spanish terms related to banking features such as \"Iniciar sesi\u00f3n\" (Log in), and requests for sensitive information like DNI (National Identity Document), user ID, and password, further align with a typical online banking portal's characteristics. The presence of options such as \"Olvid\u00e9 o bloque\u00e9 mis claves\" (I forgot or blocked my keys) and \"Cre\u00e1 tus claves\" (Create your keys) are typical for banking websites, especially in the context of account recovery and setup, providing further evidence of this identification. The language used (Spanish) is also appropriate given the location of Banco Galicia in a Spanish-speaking country.",
+        "Url": "https://dtv-ar.com.es/home.php"
+    },
+    {
+        "Folder Hash": "165fc268d6180931118405d7c487b93351dd23b9cb1899e4b01b095b5628d49a",
+        "Brand": "RedSilver",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"COMPRE AGORA\" (Buy Now) button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand \"RedSilver\" is prominently displayed in the upper left corner of the screenshot, suggesting it is the primary branding on the page. The logo features stylized text that is distinctive enough to be recognized as part of the branding effort by the company. There are no visible fields requesting sensitive user credentials such as email, password, or others in the visible part of the screenshot. However, the page does include a call-to-action button labeled \"COMPRE AGORA\" suggesting an action for users to make a purchase or interact further, which is typically a key aspect in branded pages designed to facilitate transactions or further engagement.",
+        "Url": "https://www.redsilveroficiall.com.br/"
+    },
+    {
+        "Folder Hash": "46eb9a95352f49cb2c7e836a3a37cedf6d29cbcb7a2cd1448a71123ba4853620",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full name, Date of birth, Address",
+        "List of Call-To-Actions": "\"\u0110\u0102NG NH\u1eacP\" button for login via Facebook, \"NH\u1eacN QU\u00c0\" button to submit the form.",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot does not clearly show the primary brand of the webpage, as no definitive logos or unique identifiers related to a specific brand are visible. There's a prominent feature of a Facebook login, but this signifies a single sign-on option rather than indicating the webpage's brand. The only discernible textual content and interface are in Vietnamese, which along with thematic graphics, suggests a focus targeting Vietnamese speakers. The content includes a sign-in option using Facebook and a form for entering personal information like name, date of birth, and address. However, none of these elements directly tie to a recognizable brand or named entity.",
+        "Url": "https://www.ff.membes.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c5972f617f3c3dff4464ed7e8a77f4b9f285dcb1ad66dafee8b2e2594e08d2c",
+        "Brand": "WebClient",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot prominently features the logo of \"WebClient\" at the top of the login interface, which forms the basis for identifying the brand associated with this webpage. The logo is stylistic with a circular, at-symbol-like design followed by the text \"WebClient,\" providing a strong visual indication of branding. The login interface in the screenshot asks for a \"Password,\" which categorizes as sensitive user credentials. Furthermore, a \"Sign in\" button is clearly visible as a primary call-to-action, confirming the presence of a login mechanism. The phrase \"Connected to WebClient\" at the bottom also reaffirms the brand's designation. Additional thematic coherence, such as consistent color scheme and design, further supports this identification.",
+        "Url": "https://eirz7.sa.com/.xl/alldoman/genWeb/genWeb/webmail/?client_id=tPWxE3ynQb4qhed6lFzHuV&redirect_uri=https%3A%2F%2Fwww.%2F&protectedtoken=false&id=&Country=NL&x=&i=others"
+    },
+    {
+        "Folder Hash": "703fe3dcac2231cdd9de7b2f0fb1d7c86d32edcb5fa159ba2d3853fed1e71696",
+        "Brand": "DPD",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Planen Sie Eine Neue Lieferung\" (Plan a new delivery)",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the logo of DPD at the top left corner and also at the bottom, marked with \"\u00a9 2023 DPD\" ensuring that it originates from DPD\u2019s official domain. The page layout, along with the color scheme of red, white, and black, which are characteristic of DPD\u2019s branding, further supports the identification. The context of the webpage is centered around package tracking and delivery, which are core services of DPD, a widely known parcel delivery company. Additionally, the presence of locations and updates pertaining to logistics enriches the alignment with DPD\u2019s typical business operations.",
+        "Url": "https://ecard.com.eg/de_dpd7859/"
+    },
+    {
+        "Folder Hash": "75da1e9b363b48a69f858b885d2a9dcb610fe67fd7a9ac9c6a98be294e5cd921",
+        "Brand": "Intuit",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Phone number, email, user ID",
+        "List of Call-To-Actions": "Sign In, Try something else, Create an account",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The screenshot clearly displays the Intuit logo at the top, and the text \"Use your Intuit Account to sign in.\" adds further confirmation. Additional brands (TurboTax, QuickBooks, and others) are visible along with the Intuit brand, indicating that the page might serve multiple Intuit products. The page is asking for user credentials like phone number, email, or user ID, aligning with typical sign-in procedures. Calls-to-action such as the \"Sign In\" button, \"Try something else\" link, and prompt to \"Create an account\" are blatantly visible, making it clear that the page is designed for user interaction concerning account management or access. The footer also reaffirms the brand presence with copyright notice stating \"\u00a9 2023 Intuit, Inc. All rights reserved.\" and lists Intuit and its products, confirming the association with the brand.",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "89891a51098ad4bb158df18ac41be398d76bdc7c7a1e6b6a25aa0402ab8137d6",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "\u7528\u6237\u540d (username), \u5bc6\u7801\u5bc6\u7801 (password)",
+        "List of Call-To-Actions": "Sign in button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot features a login interface titled \"MAIL CENTER\" with fields labeled in Chinese for username and password. However, there are no distinctive brand logos, symbols, or identifiable brand-related textual content visible that links the login page to a specific brand. The visual design is minimalistic with a generic envelope icon, which does not provide any unique identifying features. The brand cannot be determined solely from this screenshot as there are no unique identifiers or branding evident. As a result, the confidence score in identifying the brand is 0.00, indicating no confidence in brand identification from the provided image alone.",
+        "Url": "http://ls360.org/function/uploadfile/20220412/20220412000328_60888.html?err=MPVL0DGO4CXHVYHFL5L&err=MPVL0DGO4CXHVYHFL5L&dispatch=1Ab&id=9ab8BA6464964b06c71BA97B586c03"
+    },
+    {
+        "Folder Hash": "b9480bcd0115c6462abe990004bfaed41ad25401e19b9a421928604de6481533",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly features the Netflix logo at the top of the page, which is a distinctive aspect of the brand's identity. The user interface elements such as the color scheme, typography, and layout are consistent with Netflix\u2019s branding. Additionally, the page content focuses on features characteristic of Netflix, like streaming media content, creating profiles for children, and watching on various devices. The call to action to \"Get Started,\" which prompts for an email address to either create or restart a membership, further aligns with Netflix's standard sign-up or login processes. These elements collectively reinforce the identification of the Netflix brand with high confidence.",
+        "Url": "https://adithyan12789.github.io/Netflix.github.io/"
+    },
+    {
+        "Folder Hash": "fa8f2a9abf0de550ded33072654f57b597cd63df79da7ff0585c3db339151ec0",
+        "Brand": "Bank BTN",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Nama Lengkap (Full Name), Nomor Handphone (Phone Number)",
+        "List of Call-To-Actions": "Lanjut (Continue) button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the logo and name \"Bank BTN\" at the top center, alongside the tagline \"Sahabat Keluarga Indonesia.\" Additionally, the footer contains a copyright notice attributing ownership to \"PT Bank Tabungan Negara (Persero) Tbk,\" confirming the identity of the bank. The page is in Indonesian, as indicated by the greeting \"Selamat Datang Di BTN Mobile\" which translates to \"Welcome to BTN Mobile\". The form requests sensitive personal information, namely the user\u2019s full name and phone number, both typical credentials for banking operations.",
+        "Url": "https://contoh-btn11.resmi-id.art/"
+    },
+    {
+        "Folder Hash": "ff9f690d6ed31ac6b0d3fcb379ab4a1ad10ddbb57b0a19a351cb02b1231c6dd0",
+        "Brand": "Facebook",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Turn on Facebook Protect",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the Facebook logo at the top left corner, which is a primary identifier for the Facebook brand. The page itself is styled in colors and typography consistent with Facebook's design guidelines. The messaging \"Turn on Facebook Protect to unlock your account\" and the context about security measures reinforce that this is a Facebook-specific feature, aimed at protecting user accounts. There are no visible fields that ask for sensitive user credentials like passwords or email addresses directly in the screenshot. The presence of a blue button labeled \"Turn on Facebook Protect\" serves as a clear call-to-action, urging users to engage with Facebook\u2019s security features. The overall presentation and the functionality discussed are typical of the Facebook user account management process.",
+        "Url": "http://support.768684333.kamnya.net/help/contact/9417940251527349"
+    }
+]

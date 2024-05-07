@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "00362691ad515c38328b22f5b071cbb3dfd5920413bce502de94bf53a4fe3d57",
+        "Brand": "AT&T Mail",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://att-mail-info.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "00ab91553863586ba9bcb92b132a42835c8f458387c8ed82e12997a06b2b623b",
+        "Brand": "Microsoft and DocuSign",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "",
+        "Url": "https://docusign16112023docu0sign01839.s3.nl-ams.scw.cloud/docu.html"
+    },
+    {
+        "Folder Hash": "00d52b36782e8bd2e08b4acb1f9d210868e74ba616065c52a057a85ecd1131fd",
+        "Brand": "DPD",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://tracktrace.dpd.parcel.details.20-251-144-24.cprapid.com/info/update.php"
+    },
+    {
+        "Folder Hash": "018942efa16ee39476eabde8c3db30d7c53374cb602a2b33aa92b105dc077cb1",
+        "Brand": "Steam",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is identified based on the logo attribute that contains the favicon of Steam, the metadata description, and the footer text. The title of the webpage further supports the identification.",
+        "Url": "https://steamcorumunity.ru/gift"
+    },
+    {
+        "Folder Hash": "021bffc44c3b2ce2138f4f9a01d4061b1c5b71d13d521d737df23b3d2fb6b638",
+        "Brand": "DPD",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The brand is easily identifiable from the provided HTML script. The title of the webpage is \"DPD (DE) - Singapore\", and the footer text includes the copyright notice \"\u00a9 2023 DPD\". The brand's logo is also present, and the favicon for the website is the DPD logo with the text \"BRT\" in the center. Additionally, the nav bar includes links to other DPD pages, such as the \"Kundenbereich\" (customer area) and \"Sendungsverfolgung\" (shipment tracking). Overall, the evidence strongly suggests that the brand of the webpage is DPD.",
+        "Url": "https://verfolgen.sie.dpd.com.paketdetails.20-215-40-188.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "0335530af7d10cbdd52298135851077757a579585684c217a599be111b9a8b4d",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "No brand identifier is found within the provided HTML information.",
+        "Url": "https://ebayvips.com/index/user/login"
+    },
+    {
+        "Folder Hash": "05316322b44afe9280b5ff5d757ae51e3147804d70467e8f97da0b5b5fbaf1b8",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATOTP/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "056ba70ddf3a5f6758c9c5d7ff273a1a6cce36eef155eba0aa72c6791efe54fe",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "None of the provided information contains any clear brand information. The only potential clue is the URL, which contains \"Solicitud de creditos libre inversion\", but this is not a recognizable brand name. Therefore, the brand cannot be confidently identified.",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATMAIL/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "0596e728718562ea71cc13a39ab29fd030b4eb393857c01f70ebd9e372316464",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.90",
+        "Supporting Evidence": "The favicon of the webpage is the official Telegram logo, which strongly suggests that the webpage is related to Telegram. Telegram is a popular messaging app with a distinctive blue and white logo. The favicon's URL also contains \"telegram.org,\" further indicating that the webpage is associated with Telegram. The title of the webpage, \"VIRAL WOMAN MELAYU,\" does not provide any direct information about the brand, and the other provided information is \"Not Found,\" so it is not considered in the analysis. Overall, the presence of the Telegram logo as the favicon is a strong indicator of the brand, and the confidence score is set at 0.90.",
+        "Url": "https://viralwomanmelayu.st-me.id/"
+    },
+    {
+        "Folder Hash": "05e01b51ab1ad1f60317613efe29ace689aefb237438637e91416e90827c59bc",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.99",
+        "Supporting Evidence": "The brand name appears in the title, the footer, and the span texts. The title includes the phrase \"Please log in to see this page\", which is a common message displayed by Facebook's login page. The footer text includes \"Facebook Inc.\", which is the company behind Facebook. The span text includes \"facebook\", the brand name of the company. These pieces of information collectively strongly suggest that the brand of the webpage is Facebook.",
+        "Url": "https://tanjant.com/vds/cvd/beaxa/xca/?3243565453="
+    },
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "United States Postal Service",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title, footer text, and navigation bar all explicitly mention \"USPS\". The favicon also features the USPS logo, further supporting the identification. The absence of any conflicting brand information strengthens the conclusion that the brand is United States Postal Service.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"DHL\" is found in multiple places within the HTML script, including the title, the favicon, and the footer text. The footer text also mentions the copyright year as 2023, further supporting the identification of DHL as the brand associated with this webpage.",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information does not contain any identifying brand information. The title, meta description, favicon, logo alt text, footer text, headers text, nav bar content, paragraphs text, and span text all have the value \"Not Found\". Without any brand identifiers present, it is not possible to accurately identify the brand of this webpage.",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The header text contains \"Log Into Facebook\" and \"Facebook account,\" which strongly suggests that the brand is Facebook. Additionally, the mentioned \"account verification\" and \"request a review\" features align with Facebook's efforts to maintain account security and combat misuse. While the favicon and logo information is missing, the header text alone provides sufficient evidence for brand identification.",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The title of the webpage is \"messagerieorange.\" This, along with the favicon containing the Orange logo, suggests that the brand of the webpage is Orange.",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The brand is explicitly mentioned in the title, metadata, favicon, and multiple times in the main body text. The webpage's overall content revolves around introducing and explaining the MetaMask wallet and its features, such as buying and sending tokens, setting up on a computer, and security measures. The logo attribute is not found, but the favicon also displays the MetaMask logo, further strengthening the identification.",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided information does not include any brand-specific details. Therefore, it is not possible to identify the brand of this webpage.",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title, footer, and header of the webpage all contain the brand name USPS. The title of the webpage is \"USPS.com\u00ae - USPS Tracking\u00ae Results\". The footer of the webpage contains the text \"Copyright \u00a9 2023 USPS. All Rights Reserved.\" The header of the webpage contains the text \"USPS Tracking\". The favicon, logo, and metadata are not found, but this does not affect the identification of the brand.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Boxmode",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"Boxmode\" is explicitly mentioned in the provided HTML information under the \"paragraphs_text\" field. The text states, \"This website is powered by Boxmode.\" This clear mention of the brand name within the HTML script indicates that the webpage belongs to the Boxmode brand with absolute certainty.",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

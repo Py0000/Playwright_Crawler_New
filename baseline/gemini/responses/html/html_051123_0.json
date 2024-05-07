@@ -1,0 +1,90 @@
+[
+    {
+        "Folder Hash": "10ae1de08e1b3b633e38c6b7bd0c5073f5557a00b5c5c61c58db7b6fb10426a6",
+        "Brand": "Baltic Pipe",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.90",
+        "Supporting Evidence": "The title of the webpage is \"BalticPipe\". The title is often a good indicator of the brand behind the page. The favicon is an image with the Baltic Pipe logo. The footer text confirms the brand name as it mentions \"BalticPipe zaprojektowany przez \u00a9BALTICPIPE, Francja\". The header text also includes several references to Baltic Pipe, such as \"Baltic Pipe to projekt, kt\u00f3ry zaopatruje ju\u017c p\u00f3\u0142 Z\u0142otych w gaz\". Overall, these elements provide strong evidence that the brand behind the webpage is Baltic Pipe.",
+        "Url": "https://www.makeprrofit.site/"
+    },
+    {
+        "Folder Hash": "14fc2efc96604b37269dc3e18a02d057f972c47580876d6d4653578e3171df10",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeieuck7midptnnddf36kxotthabk5oeqdixn6zc5mnwkfh23mtsiea"
+    },
+    {
+        "Folder Hash": "2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a",
+        "Brand": "Pengikut Gratis",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "",
+        "Url": "http://pengikut-gratis.com/"
+    },
+    {
+        "Folder Hash": "4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Garena Free Fire Membership.\" The favicon of the webpage is \"https://cdn.vn.garenanow.com/web/ff/fav.jpg,\" which is the official favicon of Garena Free Fire.",
+        "Url": "http://www.freefire.member.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c9daa0070c0f57a16a0f9f0859f756c56ad094c09473ae461a2fb2814923450",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "Microosft logo is seen in the HTML, and the text present in the paragraphs also are related to Microsoft, such as \"Sign in to Document\" and \"Can't access your account\".",
+        "Url": "http://bafybeihc74glgbx6mfibmqolz253ajpbhbrjhlalpe4uzmsejhy6qox5ni.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage can be identified by the title: \"Telegram Messenger\". The title clearly indicates that the webpage belongs to the brand Telegram.",
+        "Url": "https://telegraimu.com/"
+    },
+    {
+        "Folder Hash": "c9123c75952563cb603dcfc8bac45446095c5f2c082b043f4b28730a7c8c4473",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The webpage title is \"Sign in to Outlook\". Outlook is a webmail service owned by Microsoft. Microsoft is a well-known brand associated with software and technology. Hence, it is reasonable to conclude that the brand of this webpage is Microsoft.",
+        "Url": "http://070124460033066.graficaaoquadrado.com.br/"
+    },
+    {
+        "Folder Hash": "e394d02c472a064c58540bba26f9a02695735f7b1bffecda5810e0698084f2a5",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided information does not contain any clues that can be used to identify the brand.",
+        "Url": "http://www.imobiliariacasacapixaba.com.br/firm.php"
+    }
+]

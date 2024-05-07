@@ -1,0 +1,79 @@
+[
+    {
+        "Folder Hash": "0e4582d1db1403de859a5b4265acb69e80016bb02a1a932c2580000801932fec",
+        "Brand": "Cupom-de-Desconto.com",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Cupom de Desconto de Ponto Frio - Cupom de Desconto\". The footer text is \"Cupom-de-Desconto.com\". The headers text includes \"Cupom-de-Desconto.com\". All these pieces of evidence point to the brand of the webpage being Cupom-de-Desconto.com.",
+        "Url": "https://www.cupom-de-desconto.com/ponto-frio/"
+    },
+    {
+        "Folder Hash": "372e6116960e55286a120894035b699ce5a184bc1bcc1d4c3ac20a68f3ec4b55",
+        "Brand": "SFR Business",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage is from SFR Business, a brand of SFR that provides business solutions. This is evident from various elements on the webpage, including the title \"Politique de protection des donn\u00e9es \u00e0 caract\u00e8re personnel | SFR Business\", the header text \"Box Fibre Entreprise jusqu'\u00e0 2Gb/s pour booster votre activit\u00e9. Exclu web \u00e0 40\u20acHT /mois.\", the navigation bar options such as \"Mobile\", \"T\u00e9l\u00e9phonie Fixe\", \"Internet\", and \"Solutions\", the footer text \"SFR BUSINESS\", and the span text \"0\u00a0805\u00a0702\u00a0454 | Toutes\".",
+        "Url": "https://www.sfrbusiness.fr/sfr-politique-de-protection-des-donnees-personnelles.html?eff_cpt=22931728&eff_pr1=**id_bat**"
+    },
+    {
+        "Folder Hash": "8265aae7b50ade829d3ac265f082cbe64ce1aa752aa7cad3f3ebe8e87caf69b9",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the provided webpage is undoubtedly Netflix. There are several key indicators in the script that clearly suggest this. Firstly, we can see the word \"Netflix\" mentioned prominently in the title of the webpage. This is a strong indication of the brand's identity. Additionally, the favicon for the webpage further solidifies this by displaying the well-known \"N\" logo associated with Netflix. The footer text contains the phrase \"Only on Netflix,\" which is a slogan commonly used by the brand. Moreover, the domain name \"netflixindia\" explicitly states the brand's name and region of operation. Taking all these factors into account, it is evident that the brand of the provided webpage is Netflix, and our confidence level in this identification is extremely high at 10.00 out of 10.00.",
+        "Url": "https://beyon-d-yadhu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "a26025419c72baf42631231b435e27ec7438f50d1d6ba41dcc918cdcc9782d23",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The favicon link contains \"dhleoyssa\", the footer text is \"\u00a9 2023 DHL Express. All rights reserved.\", and the nav bar contains \"DHL EXPRESS SSA EMPLOYEE OF THE YEAR\". These pieces of information strongly suggest that the brand of the webpage is DHL.",
+        "Url": "https://www.dhleoyssa.com/"
+    },
+    {
+        "Folder Hash": "aa92152333593704107b819af91676431cbdb5c445e4a9312396eaa60ee230d8",
+        "Brand": "Envaselia",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title clearly states \"Empresa de Envases - Envaselia\", indicating the brand name. Furthermore, the favicon, footer text, and navigation bar consistently display the Envaselia name, strongly suggesting that the webpage belongs to the Envaselia brand.",
+        "Url": "https://todosonsantos.com/?gclid=EAIaIQobChMI9LK_-cjiggMVBqFaBR3h8gAXEAAYAiAAEgL7z_D_BwE"
+    },
+    {
+        "Folder Hash": "d8f30a1d70e75a4ed32fc20171e4ae06441aa98d077b3d82b697aba57a4beff7",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is evident from the title of the webpage, which is \"Netflix Clone\". The title appears in the <title> tag of the HTML code. The webpage is a clone of the actual Netflix website, which is a streaming service that offers a wide variety of movies, TV shows, and documentaries. This is further supported by the content of the headers and paragraphs, which describe the features and benefits of Netflix, such as unlimited movies and TV shows, the ability to watch anywhere, and the availability of children's profiles.",
+        "Url": "https://shubhamsharma20061998.github.io/"
+    },
+    {
+        "Folder Hash": "d980baaf9e0647a9529eeba4cbca9738c6558edd5389f4400a70cfc1e11d903b",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Netflix Landing Page\" and the footer text includes \"Netflix Originals\" and \"NetFlix Taiwan\". The logo alt text is also \"Not Found\", which is often the case for Netflix webpages.",
+        "Url": "https://shreeompatil.github.io/netflixmobileclone/"
+    }
+]

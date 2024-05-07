@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage screenshot prominently displays the Telegram logo at the top of the page, which is a recognizable brand indicator. Telegram is a well-known messaging platform and the logo matches the style and color typically associated with the official Telegram branding. There are no visible fields on the webpage screenshot that request user credentials (such as username, password, phone number, or email), nor are there any visible call-to-action buttons like sign-up or login options. The content of the page appears to be about the features and capabilities of the Telegram app, as evidenced by the image of mobile phones displaying the app interface. The absence of credential fields and call-to-action elements is visible through the current view of the webpage in the screenshot, accounting for the confidence score given.",
+        "Url": "https://www.tbxjly.com/"
+    },
+    {
+        "Folder Hash": "1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53",
+        "Brand": "Libero",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Cell number, Secondary email",
+        "List of Call-To-Actions": "\"ANNULLA\" (Cancel), \"SALVA\" (Save)",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand \"Libero\" is supported by the prominently displayed logo \"LIBERO\u00b7 ACCOUNT\" at the top of the webpage screenshot. Additional evidence is found in the related link at the browser's webpage footer linked to \"italiaonline,\" implying the brand is part of the Italiaonline group, which is known for managing multiple digital platforms including Libero. The form on the page requests credentials (cell number, secondary email) necessary for password recovery, indicating functionality typically associated with user account management pages. The presence of the \"ANNULLA\" and \"SALVA\" buttons further corroborates this by providing evident call-to-action elements for form interaction. The confidence in brand identification is slightly less than maximum due to the potential affiliation and not direct logo use of Italiaonline.",
+        "Url": "http://ip170.ip-51-89-105.eu/verifica.php"
+    },
+    {
+        "Folder Hash": "1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a",
+        "Brand": "Videotron",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "\"CONNEXION\" button, \"Trouver un magasin\" button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot shows a webpage that is primarily designed for logging into a webmail service offered by Videotron, as indicated by multiple instances of the name \"Videotron\" prominently displayed. The logo of Videotron appears at the top left corner of the webpage which helps in confirming the brand identity. The login panel requires users to provide their email address and password, which are standard credentials for accessing such services. Additionally, there are buttons that serve as calls to action; the \u201cCONNEXION\u201d button prompts users to log in to their mail, and another button labeled \u201cTrouver un magasin\u201d possibly directs visitors to offline store locations. This combination of visual branding and functional features typical of a company offering communications services increases the confidence in identifying the specific brand.",
+        "Url": "https://videotronmaill.weebly.com/"
+    },
+    {
+        "Folder Hash": "31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b",
+        "Brand": "Trust Wallet",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Download Now\" buttons, \"Login\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand \"Trust Wallet\" is clearly indicated at the top of the webpage in the header. The logo, which includes a shield symbol with a key, along with the text \u201cTrust Wallet\u201d beside it, is prominently displayed. Additionally, the webpage screenshot features multiple mentions and visual representations related to the Trust Wallet mobile application, supporting the identification of the brand. The consistent branding across the webpage, including the color scheme and graphical elements, further supports this conclusion. There are no indications of the involvement of other brands in the primary functions or ownership displayed on the page.",
+        "Url": "http://trustwallet.masdubai.com/"
+    },
+    {
+        "Folder Hash": "4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Sign in button, Forgot Password? link",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot provided shows a general \"Webmail Sign in\" interface with an orange logo that includes an envelope icon. However, the logo or the design does not include recognizable branding from known email service providers such as Gmail, Yahoo, Outlook, etc. Typically, these providers have distinctive logos or additional identifiers that are absent from this image. The design appears generic, meaning it could belong to any company or organization using a standard webmail service, and without specific elements like a company logo or distinct branding features, it's impossible to determine which brand this webmail belongs to. Furthermore, the domain name or any other distinguishable branding detail isn't visible in the screenshot.",
+        "Url": "http://bafybeif263mizfzroy53si3dt7jafhzmwf33bx27v4qx7biqfknpfkiuvy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot features a prominent brand name and logo that identify it as belonging to Coinbase. The logo displayed, a stylized \u201cC\u201d within a chat bubble, matches that of Coinbase, a well-known cryptocurrency exchange platform. The word \"Coinbase\" is also written clearly at the top of the page, reinforcing this identification. The features described in the image, such as storing crypto and NFTs, trading assets on DEXes, and earning, are all services associated with Coinbase, specifically pointing to their wallet service. All visual and textual elements in the screenshot consistently point to the Coinbase brand.",
+        "Url": "https://www.coinbasewalletty.com/#/"
+    },
+    {
+        "Folder Hash": "834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Email password",
+        "List of Call-To-Actions": "Connexion button, Annuler (Cancel) button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot of the webpage does not include any explicit branding or logos, which inhibits identification of a specific brand associated with this webpage. The visible part of the page consists solely of a login modal dialog in French, asking for an email address and email password. The buttons labeled \"Connexion\" and \"Annuler\" indicate actions for login and cancellation but do not provide sufficient context or identifiable branding information. The background, including a blurry view of a computer screen, provides no additional clues or identifiable elements related to any specific brand.",
+        "Url": "https://mealyfulloptimization.midwaveventure.repl.co/"
+    },
+    {
+        "Folder Hash": "ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2",
+        "Brand": "bet365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "username, password",
+        "List of Call-To-Actions": "\u767b\u5f55\u6309\u94ae (Login button), \u6ce8\u518c\u6309\u94ae (Register button)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently features the bet365 logo multiple times, specifically at the top and towards the bottom of the display. This repetition, along with the branded colors and design throughout the page, strongly supports the identification of bet365 as the brand associated with the webpage. Additionally, the user interface elements such as login and registration buttons are visible, suggesting interaction points for entering credentials. The consistent branding and clear visibility of these typical online betting features contribute to a high confidence in identifying the brand.",
+        "Url": "https://896e365.com/#/"
+    },
+    {
+        "Folder Hash": "fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d",
+        "Brand": "Bank of Ireland",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "User ID, Date of birth, Phone Number",
+        "List of Call-To-Actions": "Continue button, Forgot your user ID link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The presence of the \"Bank of Ireland\" logo is clearly visible at the bottom of the screenshot along with multiple mentions of \"Bank of Ireland\" within the text on the screen, including in the cookie notice. Additionally, the screenshot displays typical elements of a bank's login page, such as fields for User ID, Date of Birth, and Phone Number, all of which align with standard banking login requirements. The footer also references regulatory information specific to Bank of Ireland, confirming the identity of the brand.",
+        "Url": "https://personal365-transact.com/"
+    }
+]

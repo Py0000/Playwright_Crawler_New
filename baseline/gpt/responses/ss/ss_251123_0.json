@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "00456ceeb05233ad13847800e135177fee3ba3b9aa8b3abad2897d5bb098c0ef",
+        "Brand": "SaskTel",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "LOGIN ID, PASSWORD",
+        "List of Call-To-Actions": "LOG IN button, Forgot password? link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the SaskTel logo at the top and bottom parts of the page, establishing a strong visual identification of the brand. The webpage is designed for logging into a SaskTel email account, as indicated by the text \"Log in\" and the mention of SaskTel Email on various parts of the page. The presence of input fields explicitly labeled \"LOGIN ID\" and \"PASSWORD\" confirms the page is used for authenticating user credentials. Moreover, action elements like the \"LOG IN\" button and the \"Forgot password?\" link suggest functionalities typical for a login page, further corroborating the purpose and branding of the page as SaskTel's.",
+        "Url": "https://mwebsasktelnetwebmail.weebly.com/"
+    },
+    {
+        "Folder Hash": "02543a8275720f148177a6725d130795ca1ce37b23115e37220ec8120e329b7d",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Password",
+        "List of Call-To-Actions": "Sign in, Forgot password?",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly displays the Microsoft logo at the top, characterized by its iconic four-colored square logo, followed by the name \"Microsoft.\" Additionally, the screen is a login interface specifically for entering a password tied to a user's account, which aligns with typical security practices for account access on Microsoft's platforms. The design and typography are consistent with Microsoft's branding and style guidelines. The presence of options such as \"Keep me signed in\" and \"Forgot password?\" further supports the identification as these are common features on Microsoft\u2019s sign-in pages.",
+        "Url": "https://pub-bab316f8fb154fc2990bdef6c0c5a545.r2.dev/micros.html?email=ym9ilnhpbmdaemltdmlllmnvbq=="
+    },
+    {
+        "Folder Hash": "02678ed74f0374f8f550d4cb157ab6f977ca02d97a01c3bf78e9e40bfcd50a31",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Comprar agora\" buttons under various product listings",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The logo visible in the screenshot clearly displays the name \"Magalu,\" which is a common abbreviation for Magazine Luiza, a well-known Brazilian retail company. The characteristic blue and pink color scheme used throughout the page aligns with Magazine Luiza's brand identity. Additionally, the promotion \"Black das Blacks\" mentioned at the top of the page is consistent with the branding strategies used by Magazine Luiza during major sale events, particularly highlighting significant discount days. Furthermore, the products, layout, and style of presentation typically resemble those seen on Magazine Luiza's online platforms.",
+        "Url": "https://amigalu.com.br/"
+    },
+    {
+        "Folder Hash": "03b1434f9932da25c5349db7b2784f0059054dbe051acc9d3b90f5b71f497b4a",
+        "Brand": "Microsoft 365",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Sign In button",
+        "List of Call-To-Actions": "Sign In, Get Microsoft 365, links to learn more, link apps download",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently features the Microsoft logo along with the text \u201cOffice is now Microsoft 365,\u201d clearly branding the webpage as Microsoft 365. The design elements such as color schemes (shades of blue and white), typography, and user interface elements are consistent with the Microsoft corporate identity, reinforcing the brand identification. There are explicit mentions and visual cues related to the Microsoft 365 suite, including images displaying different Microsoft apps and services. Additionally, sections addressing various user groups (For Home, For Organizations, For Educators) and options to install Microsoft 365 mobile apps offer further context supporting the page being an official representation of the Microsoft 365 brand.",
+        "Url": "https://officehomeprodprv.japaneast.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "03cf34723cc38f2d411fa121d18768e4ada578f2e892a0d9a42f2eb695a44a90",
+        "Brand": "Facebook",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"VERIFY ACCOUNT\" button",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The screenshot features a logo that closely resembles the Facebook \"f\" logo, used characteristically in a specific style and color that is widely recognized as Facebook's branding. The text in the screenshot discusses an account restriction and verification process, which is a common procedure for social network platforms like Facebook when dealing with potential security or community standard violations. The design and layout are also reminiscent of the style typically used by Facebook in its communication and warning messages. This analysis, however, is based solely on visual correspondence with known Facebook elements and cannot confirm the authenticity or source of the screenshot beyond its appearance.",
+        "Url": "http://rafiamarketingagency.com/"
+    },
+    {
+        "Folder Hash": "04497415ef2e89fd65d797de4945569c1809696c591b36ede34f2e3c710abe94",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Agree, Facebook Like, Twitter Follow, YouTube Subscribe, Instagram Follow, VK Like, Discord Join",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot prominently displays the logo of \"PUBG MOBILE\" at the top right, which is key evidence indicating the brand. PUBG Mobile is a popular online multiplayer battle royale game, and the visual themes relating to weaponry and character images match the branding typical of this game. Additionally, the presence of specific in-game items for purchase and the design aesthetics further confirm the association with PUBG Mobile. The lack of any fields requesting sensitive user credentials suggests that this webpage focuses on interactions related to in-game purchases and community engagement rather than user login or registration processes. This analysis is further supported by the fact that the visible text and visuals are coherent with PUBG Mobile's known content and promotional materials.",
+        "Url": "https://smaer-df097f.ingress-comporellon.ewp.live/wp-content/plugins/a/spin/5717563228/"
+    },
+    {
+        "Folder Hash": "04e0385261aa7d5362e0934d64b20aa0eb77d796252e653706d9c486723d4974",
+        "Brand": "Naver Works",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "ID, \ube44\ubc00\ubc88\ud638 \ucc3e\uae30 (password recovery)",
+        "List of Call-To-Actions": "\ub85c\uadf8\uc778 (login button), LINE\uc73c\ub85c \ub85c\uadf8\uc778 (login with LINE button)",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot clearly displays the logo and name \"NAVER WORKS\" at the top center, indicating that it is a webpage associated with the Naver Works brand. The page has input fields for logging in, specifically asking for an ID and providing a password recovery option, indicative of handling sensitive user credentials. There are also buttons for actions such as logging in and an option to login using LINE, signifying direct user interaction points typically found on login pages. The design and layout are typical of simple, user-focused login interfaces, placing emphasis on usability and efficiency, traits commonly found in corporate or professional service platforms like Naver Works.",
+        "Url": "http://bafybeihayb4vlkcffkyuowz6p2z63a7mpb57udpfjkbd5r74l2pzweriqu.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "058942529bb11c7d607ff20b5e783b83f84ab4cc6dccf94662829fd006a08f4a",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Password",
+        "List of Call-To-Actions": "Track My Package button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot displays a prominent logo of DHL at the top of the page, characterized by its distinctive red and yellow color scheme and styled font, which is indicative of the DHL brand, a global courier company. Additionally, the inclusion of DHL-branded imagery (yellow airplane with the DHL logo) further aligns with the DHL branding. The webpage's interface design featuring these visual elements, and the footer stating \"DHL Global \u00a9 2019 | All rights reserved\", reinforce the identification of this webpage as belonging to DHL. The presence of fields labeled for email and password input, alongside a button labeled \"Track My Package\", suggests functionality for users to log in and track parcels, a typical service expected from a courier company's website.",
+        "Url": "https://siteoficialstory.com.br/vvu/dhl/source/index.php?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "05b262500b504efc2e3ed40fb1f0f42b7e8b1325b073b43d9ced4e83cbaaf0af",
+        "Brand": "OneDrive",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "New, Upload, Sync, Automate",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot prominently displays the logo and name \"OneDrive\" at the top left corner, which is a well-known cloud storage service provided by Microsoft. Additionally, the interface design elements such as the colors, button styles, and layout are consistent with the official OneDrive user interface seen on its website and apps. The functionalities displayed, including file uploading, syncing, and automation, are typical features of cloud storage services, aligning with what OneDrive offers. The absence of other conflicting brand indicators strengthens the identification of the brand as OneDrive.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmSruaeizQEqj1cxGFJyFhC4FQ5CYcb8ffhrSBDJoe8CUU"
+    },
+    {
+        "Folder Hash": "060f0086bb80b1f09eaff080ab80aa0a10add88217a9b9be21cfa0177093a558",
+        "Brand": "DANA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"Lanjutkan\" button",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand \"DANA\" is clearly displayed in the top left corner of the webpage screenshot, marked by the logo which is a stylized rendition of the word \"DANA\". This logo, along with the colors and promotional content about discounts related to payment services, reinforces the identification of the webpage as belonging to DANA, an Indonesian digital wallet service. The absence of credential fields such as username, password, email, or phone number entry disqualifies the presence of sensitive credential collection on this particular page. Instead, the page focuses on user service options and contains a blue-colored call-to-action button labeled \"Lanjutkan\", translating to \"Continue\" in English, which likely leads to further actions related to the options selected by the user above. The presence of these elements in conjunction with the DANA branding supports the assigned confidence score.",
+        "Url": "http://pusatt-bantuans.dana-ids.my.id/"
+    },
+    {
+        "Folder Hash": "605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817",
+        "Brand": "DHL",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, Email password",
+        "List of Call-To-Actions": "Track Shipment button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage screenshot clearly displays the DHL logo on the top left corner and prominently on the middle section, accompanied by the DHL branded airplane in the background. This, combined with the distinct yellow and red color scheme that is synonymous with the DHL brand, gives strong evidence of the brand identity. The page layout and design align with DHL\u2019s official styling seen in other official communications and marketing materials. The presence of the phrase \"DHL Express \u00a92022 | All rights reserved\" in the footer further confirms the authenticity of the brand featured within this screenshot.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu"
+    },
+    {
+        "Folder Hash": "acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "email",
+        "List of Call-To-Actions": "\"Get Started\" buttons",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is identified as Netflix, prominently displayed through the red logo at the top of the screenshot and mentioned within the webpage content. The screenshot features a clear tagline and media content layout that is characteristic of Netflix's branding. The webpage invites users to watch \"Unlimited movies, TV shows, and more\" \u2014 a service signature to Netflix. Additionally, there are multiple calls to action, notably the \"Get Started\" buttons, which are designed to engage users in signing up or logging in by entering their email, thus soliciting sensitive user credentials. The layout, combined visual and textual elements align perfectly with Netflix\u2019s known website aesthetics and functionalities, such as content for kids and streaming on various devices. This supports the identification of the brand with absolute certainty.",
+        "Url": "https://clement-lotus-mollick.github.io/Netflix-Clone-FC/"
+    },
+    {
+        "Folder Hash": "ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c",
+        "Brand": "Bilibili",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Play buttons on video thumbnails",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot displays a webpage with a unique layout and design that is indicative of the Bilibili platform, a popular Chinese video sharing website known for its focus on animation, comics, and games. The logo of Bilibili can be identified in the top left corner of the page, which features an orange and white color scheme and a unique circular icon, supporting our identification. The page layout includes various videos with play buttons, typical of video streaming services like Bilibili. The overall interface and structure of the page are consistent with the user interface elements found in other verified Bilibili pages viewed in past instances. There is no visible field asking for user-sensitive credentials like usernames or passwords in the top visible part of the page. However, various static elements inviting user interaction, such as video thumbnails with play buttons, qualify as calls-to-action.",
+        "Url": "https://www.bilibili.com/"
+    },
+    {
+        "Folder Hash": "cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Full Name, Date of Birth, Address",
+        "List of Call-To-Actions": "Sign in with Facebook button, \u201cNH\u1eacN QUA\u201d button (Receive Gift)",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot does not display any clear branding or logos that would allow me to confidently identify the specific brand associated with this website. There is a Facebook logo presented which indicates that the site might offer Facebook login integration, but it does not necessarily imply the main website brand. The graphical elements such as character images and design style do not correspond closely with any commonly known brand images or styles that could be definitively recognized. The layout and language suggest the site might be targeting Vietnamese speakers; however, this does not reveal the actual brand itself.",
+        "Url": "https://www.ff.members.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    },
+    {
+        "Folder Hash": "cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7",
+        "Brand": "Netflix",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "\"LLAMAR\"",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The screenshot prominently features the Netflix logo in search results and on various page descriptions. It outlines services related to Netflix such as customer service and accessing Netflix on various devices. The frequent occurrence of the Netflix name and logo in the screenshot is a significant sign of the brand identity. The inclusion of specific services like \u201cCentro de ayuda de Netflix\u201d, \u201cDispositivos que admiten Netflix\u201d, and mention of watching Netflix on different devices directly aligns with Netflix\u2019s service offerings. The button labeled \"LLAMAR,\" which translates to \"CALL,\" directly implies a call-to-action, yet with no visible form fields required for user credentials like email or password on this particular page, confirming its absence of credential requests. The confidence level is not the maximum only due to the lack of multiple visual confirmations beyond textual mentions and search result formatting.",
+        "Url": "http://www.netflix.ayuda-telefonica.com/"
+    },
+    {
+        "Folder Hash": "daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453",
+        "Brand": "Netflix",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email Address",
+        "List of Call-To-Actions": "\"Get Started\" button",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identity of the webpage is clearly indicated by multiple instances of the \"Netflix\" logo prominently displayed across the top and within the webpage content itself. The graphics and promotional materials showcase content that is widely recognized as part of Netflix\u2019s streaming service, such as images from popular shows and movies like \"Narcos,\" \"365 Days,\" and \"Stranger Things.\" Additionally, the consistent use of the Netflix red color theme throughout the page supplements the identification. The webpage layout, promotional approach, and exclusive content displayed align closely with Netflix\u2019s known web interface and marketing practices. There\u2019s an email input field aimed at collecting user email addresses either for new membership signups or to resume membership, accompanied by a red \"Get Started\" CTA button, both typical for Netflix\u2019s service registration process.",
+        "Url": "https://sakshishakya.github.io/Netflix/"
+    }
+]

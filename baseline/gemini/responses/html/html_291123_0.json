@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "0029ddf50757663f869ea57fa6b35bb742950a007641478851bf8fea7133872e",
+        "Brand": "Google",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Sign in - Google Accounts\". The header text includes \"Sign in |\". The footer text mentions \"English (United States)\", which is a language option offered by Google. The nav bar content is not found, but this is not uncommon for Google's login page. The paragraphs text is not found, but this is also not uncommon for Google's login page. The span text includes \"Sign in | Use your Google Account\". All of these pieces of information strongly suggest that the brand is Google, hence, I am confident in identifying the brand as Google with a score of 10.00.",
+        "Url": "https://accounts-google-com.google.research.skyfencenet.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&followup=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&ifkv=ASKXGp35mtwoMZTYq_EQh00TDcURsTqYlJCXhLv51FgyiEwBpd_bSIdnTUQe919CFtE8t2MXUeVA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1106871291%3A1701237264171240&theme=glif"
+    },
+    {
+        "Folder Hash": "00d320e13a4afd5c13cd57d8e6930967708ab4d93d7583d7b9e52e97e507ccb5",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage is from DHL, a German multinational package delivery company. The favicon, the logo and the footer text all contain \"DHL\". The page also contains information about shipping, tracking, and other services offered by DHL.",
+        "Url": "http://socialmediaconsultant.ae/public/cKcAHeRtw8tgyrOIdKqopukWqegyBl6X"
+    },
+    {
+        "Folder Hash": "0268063589ad4ed7dc1cc582927dbc4a55f51d034f46283b2f276bad9acb6652",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is mentioned in the title, favicon, headers, and footer of the webpage. The footer also includes the copyright notice for MetaMask.",
+        "Url": "https://matemska.com/"
+    },
+    {
+        "Folder Hash": "03613ee8f7807376093f334ce4a3f269c601fe5a3a39cb6942beffed71755968",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The favicon of the webpage contains the logo of DHL. The footer text of the webpage mentions \"Contact and Support\" and \"FAQs\", which are common sections found on the DHL website. The nav bar contains DHL's phone number and a link to their \"Help and Support\" page. Overall, the combination of these factors leads me to believe that the brand associated with this webpage is DHL.",
+        "Url": "https://package.dittugarments.com/public/xXmKbIKplnyr3mWGvbjBXmGyAmEgHDal"
+    },
+    {
+        "Folder Hash": "04076986695e1224101bc06b34e8537784bd3b937c4a9c7536a9e92fc1335e6e",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "",
+        "Url": "http://bestknitters.com/"
+    },
+    {
+        "Folder Hash": "04847856708f0e6d56d41a5e6a370241a9ba719b377bf4f3a54b19b23344d824",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"Facebook log in or sign up\", and the header text reads \"Facebook helps you connect and share with the people in your life.\". These two pieces of information clearly indicate that the brand of the webpage is Facebook.",
+        "Url": "https://ikechukwu647.github.io/rubliss4/"
+    },
+    {
+        "Folder Hash": "05e2621aa56ff714ca7f8e6143182091f735a157100463c72d0221c92adaba7b",
+        "Brand": "VK Store",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand is explicitly mentioned in the footer text: \"\u00a9 VK Store\". Additionally, the favicon image displays the same brand logo.",
+        "Url": "https://blackfridayamericanas.net/081f8fcf-5316-4f90-88a6-6119c5943e6d/checkout/produto/6543d98a6ca11/jogo-de-panelas-brinox-smart-plus-ceramic-life-8-pecas-vanilla"
+    },
+    {
+        "Folder Hash": "062d94cb0608d431400dee0a185a1ba94a4db663f5e6d2eec887a45839acf3af",
+        "Brand": "Garena",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "http://test1.garenav.vn/"
+    },
+    {
+        "Folder Hash": "06e6a4b7f630f17850cf2b216c3f81bb70d18a51ed616c7b941b4e48b8679389",
+        "Brand": "Vivobarefoot",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name \"Vivobarefoot\" is clearly mentioned in the title of the webpage, which is \"Vivobarefoot Saudi Arabia | Vivobarefoot Shoes Clearance Sale\". The logo alt text is \"Not Found\", but the headers include \"About VivoBarefoot\", which further solidifies the brand identification.",
+        "Url": "https://www.vivobarefootssaudiarabia.com/"
+    },
+    {
+        "Folder Hash": "070d8f9be03c6be321a10dcfb879820fbcd0c6b05a9afe392ac2da9b8f5dd2ae",
+        "Brand": "Instagram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://lnstagramlite.blogspot.com/"
+    },
+    {
+        "Folder Hash": "524d69e099ce2cf898dbd3614e175228b3b3624e8f5496f3252b5136c9fc55f2",
+        "Brand": "Bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The title of the webpage is \"Bet365\", which clearly indicates the brand. This information is reliable since the title is typically used to represent the main topic or subject of a webpage. Additionally, we would also expect to find the brand name in the title, which is the case here.",
+        "Url": "http://19730510.com/"
+    },
+    {
+        "Folder Hash": "57ef3530895093d5a4cab5f34f7d34f127015946c19e5b0ae90f7f934d2e020d",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The presence of \"Facebook\" in the title and the Facebook logo in the favicon icon strongly suggests that this page is related to Facebook. The footer text and nav bar content are not available, but this information is not necessary to determine the brand in this case.",
+        "Url": "https://www.meta-support-page.com/"
+    },
+    {
+        "Folder Hash": "5b079aaddbb1fcd8f92f31136a6235e8f7c77b4a69cb2b4bd72997a4d6bfb288",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.88",
+        "Supporting Evidence": "The title of the webpage is \"NETFLIX\". This strongly suggests that the brand of the webpage is Netflix. Additionally, the favicon is a red \"N\" on a black background, which is the logo of Netflix. The footer text also includes the text \"\u00a9 1997-2023 Netflix, Inc.\", which further confirms that the brand of the webpage is Netflix.",
+        "Url": "https://netflix-december21.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6adcc77d36f1c22526469ab12f1758bf1eda7f96d66e01c7fe3bc71e4050900e",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title, favicon, and nav bar content all contain the brand name \"Garena Free Fire.\" Therefore, it is extremely likely that the brand of the webpage is Garena Free Fire.",
+        "Url": "http://ff.member.gareza.vn/cre96aCBExqeaXVpAUtesGytOkoIi0b316MEngRB6GduITgIXVrolFEk2af8IFjZOoSP3KYbglKd4dNBCztIqgAYAV650Z5ySGNc_index/#/"
+    },
+    {
+        "Folder Hash": "a97b31d3ecdfe1d824afe2dbe6b31f2198346e40697fc3b2269f601ad0bc99d7",
+        "Brand": "bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is \"welcome-bet365\", which is a clear indicator of the brand. The favicon also contains the \"bet365\" logo. The footer contains the copyright information of \"\u00a9 2001-2022 .... All rights reserved | 18+ | bet365\". The span text contains multiple entries of \"bet365\". Therefore, it is certain that the brand of the website is bet365.",
+        "Url": "https://www.bet3659.tv/home"
+    },
+    {
+        "Folder Hash": "aa4a498386e1135bb11171167c2833f459c01d92f2f806af12e2a178174bb608",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "",
+        "Url": "https://imshivamnair.github.io/Netflix-and-Chill/"
+    },
+    {
+        "Folder Hash": "d00adfb26aca6d440945911e196167c79020355e213d72da41ba54eca09f7d62",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is explicitly mentioned in the title, footer, and header sections of the HTML. Other supporting evidence includes the Netflix logo in the favicon and the references to Netflix-specific content in the paragraphs and navigation bar text.",
+        "Url": "https://dubeyprashant1.github.io/Netflix-Clone.github.io/"
+    },
+    {
+        "Folder Hash": "dcd93ffe7cc0ce8d070abaa399e5e36738aa5c3bc7f7cd3b92cce094ff77cd6d",
+        "Brand": "\u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The presence of \"\u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a\" in the webpage's title and footer text strongly suggests that the brand is \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a. Additionally, the footer text includes \"\u00a9 2023 \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a\".",
+        "Url": "https://directonline-bg.com/login/"
+    },
+    {
+        "Folder Hash": "f34bd4c756f9c0ad38e85f51cdf9c3ff9a52ed1bc924d6ad1ae31948173e2903",
+        "Brand": "Codashop",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "",
+        "Supporting Evidence": "",
+        "Url": "https://diamond-gratis-9736.real4.biz.id/id/"
+    }
+]

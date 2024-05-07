@@ -1,0 +1,90 @@
+[
+    {
+        "Folder Hash": "10ae1de08e1b3b633e38c6b7bd0c5073f5557a00b5c5c61c58db7b6fb10426a6",
+        "Brand": "Baltic Pipe Project",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email",
+        "List of Call-To-Actions": "\"Przyst\u0105p\", \"Do\u0142\u0105cz wideo\", \"Przeczytaj\", \"Zarejestruj si\u0119 teraz!\", \"Wype\u0142nij formularz rejestracyjny i kliknij \u201ezosta\u0144 udzia\u0142owcem\u201d\"",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The brand \"Baltic Pipe Project\" is indicated through the logo in the top-left corner of the webpage, as well as in the text content that references the project name multiple times. The webpage contains a registration form, which specifically asks for an email, identifying the existence of sensitive user credential fields. The page features several call-to-action buttons including \"Przyst\u0105p\", \"Do\u0142\u0105cz wideo\", and a registration section prompting to fill out a form, all encouraging users to interact and possibly provide personal information. The presence of these explicit elements and branded content provides strong evidence for the identification of the brand and the types of user interactions it encourages.",
+        "Url": "https://www.makeprrofit.site/"
+    },
+    {
+        "Folder Hash": "14fc2efc96604b37269dc3e18a02d057f972c47580876d6d4653578e3171df10",
+        "Brand": "Adobe",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email address, Password",
+        "List of Call-To-Actions": "Download button",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The screenshot includes the Adobe logo and branding of Adobe Reader XI prominently displayed at the top part of the dialog box, indicating that this is an Adobe-sponsored or Adobe-associated webpage. This page is asking users to confirm their email address and enter a password to download a file, which aligns with typical software download authentication processes. The presence of the Adobe logo provides significant confidence that this is an Adobe-related authentication page for accessing and downloading digital content, further evidenced by the referencing of a file download and password fields consistent with Adobe\u2019s format.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeieuck7midptnnddf36kxotthabk5oeqdixn6zc5mnwkfh23mtsiea"
+    },
+    {
+        "Folder Hash": "2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Username, Password",
+        "List of Call-To-Actions": "Login button",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot includes a webpage that seems to offer services related to gaining followers, likes, and views on Instagram. However, the specific brand of the webpage is not explicitly mentioned in the visible elements of the screenshot, nor is there a distinct logo that represents a well-known brand. The domain name provided (\"Pengikut-gratis.com\") suggests a generic service rather than a specific brand. The information presented does not allow a definitive identification of a unique brand, hence the low confidence in brand identification. Nonetheless, the page does include fields for entering a username and password and a button for logging in, indicative of requesting user credentials and featuring a key call-to-action.",
+        "Url": "http://pengikut-gratis.com/"
+    },
+    {
+        "Folder Hash": "4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb",
+        "Brand": "NA",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Name, Date of Birth, Address",
+        "List of Call-To-Actions": "Facebook login button (\"\u0110\u0102NG NH\u1eacP\"), Gift receipt button (\"NH\u1eacN QU\u00c0\")",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot shows interfaces related to login and a form for receiving a gift, but no explicit branding or logos other than Facebook, which is likely used here only for login purposes and not as the owner of the platform. The content and presentation of the page appear generic, with fantasy-themed graphics, and no distinguishing features or text that provide direct clues about the primary brand of the webpage. The text and buttons are in Vietnamese which gives a geographical context but does not aid in identifying a specific brand. The focus on game-like elements could suggest a gaming or promotional platform, yet no definite branding elements confirm this speculation.",
+        "Url": "http://www.freefire.member.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c9daa0070c0f57a16a0f9f0859f756c56ad094c09473ae461a2fb2814923450",
+        "Brand": "Microsoft",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "Email, phone or skype",
+        "List of Call-To-Actions": "Next button, \"Can't access your account?\" link",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot clearly shows the Microsoft logo, a well-known symbol consisting of four squares with red, green, blue, and yellow colors, located at the top-left corner of the sign-in box. Below the logo, there's a sign-in form that explicitly asks for credentials such as Email, phone, or skype, which are commonly used identifiers for logging into Microsoft accounts. The presence of the \"Next\" button as a primary call-to-action to proceed with the login procedure further reinforces that this is a login screen designed by Microsoft. Additionally, the link labeled \"Can't access your account?\" is a typical feature in Microsoft and other major service providers' login screens, offering users a way to recover or reset their account credentials, thus enhancing the credibility that this page belongs to Microsoft. The design and layout are consistent with Microsoft\u2019s typical user interface aesthetics, further solidifying the identification.",
+        "Url": "http://bafybeihc74glgbx6mfibmqolz253ajpbhbrjhlalpe4uzmsejhy6qox5ni.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169",
+        "Brand": "Telegram",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "Telegram \u5b89\u5353\u7248, Telegram iPhone / iPad",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The screenshot displays a webpage seemingly dedicated to an application, featuring a large logo consisting of a white paper airplane on a blue circle, which is immediately recognizable as the logo for Telegram, a popular messaging application. The text \"Telegram\u4e2d\u6587\" further indicates that this is the Chinese version of the Telegram website. The site's clean design, familiar interface screenshots displayed on mobile device models, and the text showcasing the application's features all align with Telegram's known branding elements. Additionally, content on the page is presented in Chinese, consistent with localizing for Chinese-speaking users. Therefore, this confidently appears to be an official Telegram brand presentation for its Chinese-speaking user base.",
+        "Url": "https://telegraimu.com/"
+    },
+    {
+        "Folder Hash": "c9123c75952563cb603dcfc8bac45446095c5f2c082b043f4b28730a7c8c4473",
+        "Brand": "NA",
+        "Has_Credentials": "No",
+        "Has_Call_To_Actions": "No",
+        "List of Credentials fields": "NA",
+        "List of Call-To-Actions": "NA",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The screenshot provided was blank, containing no visible content, text, graphics, or logos to analyze. Thus, no determination of the webpage's brand, presence of sensitive user credentials, or call-to-action elements could be made. The confidence score reflects the total absence of data to evaluate.",
+        "Url": "http://070124460033066.graficaaoquadrado.com.br/"
+    },
+    {
+        "Folder Hash": "e394d02c472a064c58540bba26f9a02695735f7b1bffecda5810e0698084f2a5",
+        "Brand": "BDF",
+        "Has_Credentials": "Yes",
+        "Has_Call_To_Actions": "Yes",
+        "List of Credentials fields": "PIN",
+        "List of Call-To-Actions": "Confirmar (Confirm), Cancelar (Cancel)",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand \u201cBDF\u201d is prominently displayed at the top left of the webpage, which is a typical placement for a webpage\u2019s brand identity. The focus is on a specific user interaction form labeled as \u201cFormulario de firma\u201d where users are prompted to enter a \u201cPIN.\u201d The potential sensitivity of requesting a PIN, usually associated with personal identification or secure access, indicates that credentials are being handled. Additionally, there are two prominent call-to-action buttons, \"Confirmar\" and \"Cancelar,\" which are standard for forms requesting submissions or cancellation. The design elements such as colors and button styling, along with the branding, match across the webpage, reinforcing the brand identity as \"BDF\".",
+        "Url": "http://www.imobiliariacasacapixaba.com.br/firm.php"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "003e80f57d7d3d91643b9e13360d311b000b5f860cbbe5f44a3220c8eb0b8562",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand can be identified based on the following information:",
+        "Url": "https://pub-82e1c7059b314723aaa0c45158d4ff86.r2.dev/test.html?email=mjacobs@jacobscapital.net"
+    },
+    {
+        "Folder Hash": "00805e3ef1840020f8abe333b63c0d6ab5f90dc45068b9be1c9b0b0ec036278e",
+        "Brand": "Zahlungsmethode",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand name is mentioned in the title, headers, and nav bar of the webpage. The favicon also contains the brand's logo.",
+        "Url": "https://dreefrotlabareternbjj-dee770.ingress-comporellon.ewp.live/wp-config/LoginServices/index.html"
+    },
+    {
+        "Folder Hash": "010d44b7a4dde54ff32f8d698e0763d63488c0d28b0d4e79ba0f858c3a4f6970",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The webpage title, \"PUBG Mobile UC Hilesi 2024\", explicitly mentions the brand name \"PUBG Mobile\". Additionally, the webpage content heavily revolves around providing cheats and hacks for PUBG Mobile, further supporting the identification of the brand.",
+        "Url": "https://www.pubguchilesitv.com/"
+    },
+    {
+        "Folder Hash": "011e7497d97cdc710598f5c0c851b6933249effc6c4440633c59ad97c1ea3e58",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "Several factors support identifying Weebly as the brand:",
+        "Url": "https://mail-108167.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "016b180fc4a8d7c88785365bbff8abd1bf48ea5025db19f3f9ed27a09b57291c",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.80",
+        "Supporting Evidence": "The favicon, footer text, and the logo all contain the brand name \"DHL\". Additionally, the headers contain \"Deutsche Post AG\", which is the parent company of DHL.",
+        "Url": "https://socialmediaconsultant.ae/public/6JUWt0UnBE1zNXqxnmBiG7a9Pmr9ocOD"
+    },
+    {
+        "Folder Hash": "021d57265effd0a6e8b6d89031dde447daf9eef1f1f21376311ae0e1eb35d484",
+        "Brand": "Universit\u00e4t Freiburg",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is identified based on the span text \"Universit\u00e4t Freiburg\" which is a clear indication of the brand. The confidence score is 10.00 as the evidence is clear and direct.",
+        "Url": "https://www.boundcode.com/i/uni-freiburg.de/"
+    },
+    {
+        "Folder Hash": "02d4ee60440aed450492ef2e223b1787dd36cb22a74efb5ceee908d4d95998e1",
+        "Brand": "Alibaba.com",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand name is directly mentioned in the webpage title, meta description, footer text, and paragraphs text. Additionally, the favicon is also from Alibaba.com.",
+        "Url": "https://syndicalisme.net/wp-includes/w/alibaba/"
+    },
+    {
+        "Folder Hash": "03032749b96251685a83cac2a9af2d839cff7a2b05bfb97ef57cadabd61b3626",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage brand is easily identifiable by the presence of the brand name in the title of the page. The title clearly states \"Netflix | India,\" which is a strong indicator that the webpage belongs to the Netflix brand. This evidence is sufficient to conclude with absolute confidence that the webpage brand is Netflix.",
+        "Url": "https://yugal2003.github.io/Assignment-1---Netflix/"
+    },
+    {
+        "Folder Hash": "030b253ba6ba80d2d33f414fb8532079a469486660a0383490a182e8ab65eb06",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The title of the webpage is \"MetaMask\". The headers text includes the phrase \"Need help? Contact MetaMask support\". The paragraphs text also mention MetaMask support. Based on this information, we can confidently identify the brand as MetaMask.",
+        "Url": "https://coirnmarketcap.com/wallet/?id=metamask"
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The provided HTML script of the webpage clearly indicates the brand as 'Aave' in several key areas. The title of the webpage is \"Aave - Open Source Liquidity Protocol\". The meta description also mentions \"Aave\" as the name of the protocol. The favicon image file name is 'favicon.ico'. Since the logo alt text is not found, this information is not used in the analysis. The nav bar content is not included in the provided information. The footer text is also not found. However, the headers text includes \"Aave\" in one of the headers. This comprehensive evidence leads to the confident identification of the brand as 'Aave'.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "14516ca57b3f04f2cf0de8b79afa686c6a7db04ce1486d64503a590763d2b381",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The brand is identified based on the header text \"Currently.com\" and \"AT&T Mail\". \"Currently.com\" is a subsidiary of AT&T and is used for its email services. The header text clearly mentions \"AT&T Mail\" which further confirms the brand as AT&T.",
+        "Url": "https://5567879798.weebly.com/"
+    },
+    {
+        "Folder Hash": "50fe90344030b5bd8024772c7e7f81d53ab41f035fd2f5c9fff0a97443fbaf23",
+        "Brand": "Google",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage contains the phrase \"Google Accounts\" and the favicon is the \"Google\" logo. Additionally, the footer text contains the phrase \"Help\", which is a commonly used term on Google's webpages.",
+        "Url": "http://nixolindumentaria.com/kkdv5yI6H6AVxLWFmZxl/d2Ovms1MCtLj74XqzoeOucdrREd29hTrHqFvZtzBdP4blOPJB1m86fP/"
+    },
+    {
+        "Folder Hash": "6c35b11c0d7feff5f0640ce93a5d2f00ad47665f405dd4a76d15f1e6eda7bfa7",
+        "Brand": "Serasa",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.56",
+        "Supporting Evidence": "The brand is mentioned in the title and several times in the headers, including the footer text. The footer also provides the company's full name and address, which further supports the identification.",
+        "Url": "https://arrastaolimpanome.online/"
+    },
+    {
+        "Folder Hash": "804e1eda5b99ca5a7eab156124b8429e736558b903c7fcb988d3537130c1fd94",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's title \"Sign in to your Microsoft account\" explicitly mentions the Microsoft brand. Additionally, the favicon, which is a small icon displayed in the browser's tab, features the Microsoft logo, further confirming the brand identification.",
+        "Url": "https://microsoftsupport.be/fr/demandez/?email=3mail@b.c&secret=CD83a3pTxgh5pujSMIwZjNIAJk0uOa8oXDyi"
+    },
+    {
+        "Folder Hash": "b81e83eb5a6015fd92e5fd9ede8df618fd9f5a95969ccb28dbfff21a4b16fceb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand is Microsoft because the footer_text field contains the copyright information \"\u00a9 2023 Microsoft\". This is a clear indication that the webpage is owned or operated by Microsoft.",
+        "Url": "http://www.zksfechaduras.com.br/hjad%20naduyhdamdayajmadsnyad/dcfo/"
+    },
+    {
+        "Folder Hash": "f58f2809ed7aaf27e59d90eeb5077871133d1e49663b398af662a0290aeeddc3",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The brand is identified based on the title of the webpage, which is \"Login to Customer Portals and Tools | DHL\". Additionally, the header text includes \"DHL TRACKING\", which further confirms the brand.",
+        "Url": "https://whoyster-adelehool079770.codeanyapp.com/wp-content/uploads/NETDH7748/"
+    }
+]
