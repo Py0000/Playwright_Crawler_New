@@ -106,9 +106,9 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC
-    if args.phishing_mode == 'Bening':
-        folders = + Constants.BENIGN_FOLDERS_VALIDATED
-        
+    if args.phishing_mode == 'benign':
+        folders = Constants.BENIGN_FOLDERS_VALIDATED
+
     for folder in folders:
         # Sample args.folder = baseline/gemini/gemini_responses/prompt_1_html_only/0-shot
         json_file_path = os.path.join(args.folder, f"{args.mode}_{folder}_{args.shot}.json")
