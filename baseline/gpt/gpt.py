@@ -125,10 +125,10 @@ class GPT4Baseline:
             )
 
             generated_response = response.choices[0].message.content
-            data = self.response_parser.format_model_response(hash, generated_response, is_error=False)
+            data = self.response_parser.format_model_response(hash, generated_response, is_error=False, is_safety_triggered=False)
             return data
         except Exception as e:
-            data = self.response_parser.format_model_response(hash, str(e), is_error=True)
+            data = self.response_parser.format_model_response(hash, str(e), is_error=True, is_safety_triggered=False)
             print(e)
             return data
 
