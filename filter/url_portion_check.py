@@ -27,6 +27,7 @@ class UrlPortionChecker:
         normalized = f"{parsed_url.scheme}://{parsed_url.netloc}{parsed_url.path}"
         return normalized.rstrip('/')
 
+    """
     def scan_directories(self, zip_folder_path, date):
         for zip_file in tqdm(os.listdir(zip_folder_path)):
             if zip_file.endswith(".zip"):
@@ -40,7 +41,19 @@ class UrlPortionChecker:
                             self.url_counts[parsed_url].append((date, hash, url))
                         else:
                             self.url_counts[parsed_url] = [(date, hash, url)]
-    
+    """
+    def scan_directories(self, folder_path, date):
+        for folder in tqdm(os.listdir(folder_path)):
+            hash = folder
+            sub_folder_path = os.path.join(folder_path, folder)
+            info = FileUtils.read_from_json_file(os.path.join(sub_folder_path, 'add_info.json'))
+            url = info['Url']
+            parsed_url = self.parse_url(url)
+            if parsed_url in self.url_counts:
+                self.url_counts[parsed_url].append((date, hash, url))
+            else:
+                self.url_counts[parsed_url] = [(date, hash, url)]
+
     def extract_duplicates(self):
         filtered_data = {key: value for key, value in self.url_counts.items() if len(value) > 1}
         print(len(filtered_data))
@@ -60,11 +73,15 @@ if __name__ == '__main__':
     if not os.path.exists(args.result_path):
         os.makedirs(args.result_path)
 
-    folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC
+    #folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC
+    folders = ["benign_vpn"] + Constants.BENIGN_FOLDERS_VALIDATED
+
     url_portion_checker = UrlPortionChecker()
     for folder in folders:
         print(f"Processing {folder}")
-        folder_path = os.path.join(args.folder, f"original_dataset_{folder}")
+        #folder_path = os.path.join(args.folder, f"original_dataset_{folder}")
+        folder_path = os.path.join(args.folder, folder)
+        print(folder_path)
         date = folder
         url_portion_checker.scan_directories(folder_path, date)
     
