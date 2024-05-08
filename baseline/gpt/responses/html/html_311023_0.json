@@ -1,0 +1,79 @@
+[
+    {
+        "Folder Hash": "36bc54130772160ebd84be90f71f8b7f528175c253ea6371e5c8b69135a786bd",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand identification for this webpage centers on the title \"Microsoft office 365\". Microsoft Office 365 is a well-known suite of services offered by Microsoft, which includes applications like Word, Excel, PowerPoint, and others, often provided through a cloud-based subscription model. The fact that the title explicitly mentions \"Microsoft office 365\" strongly suggests that the webpage is associated with Microsoft, specifically with their Office 365 product. The favicon being hosted at a Google URL (https://ssl.gstatic.com) might initially seem conflicting as this is typically associated with Google products. However, this could be a result of shared resources or a generic favicon that does not reflect the webpage's brand. The headers and span texts emphasize actions like \"Sign in\" and refer to \"your account,\" which align with Microsoft's typical login interfaces for accessing subscribed services. The footer text and the logo alt text are absent, providing no additional clues. The significant reliance on the title of the webpage, which directly references a Microsoft product, underpins the conclusion that the brand is Microsoft, despite the favicon anomaly.",
+        "Url": "https://sites.google.com/amricalturs.net/download4/microsoft-office-365"
+    },
+    {
+        "Folder Hash": "4a7d5d03bfcd0dea1d86ecb0f594ec4f0803fe266e0d8e320fc0c3f66b3cdbf9",
+        "Brand": "Apple",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The provided HTML information repeatedly aligns with the well-known brand, Apple. This is conclusively indicated by the webpage title \"Apple (United Kingdom),\" and solidified by the footer text which includes \"Apple Footer.\" Additionally, the headers_text lists multiple categories and products specifically associated with Apple, such as \"MacBook Pro,\" \"iMac,\" \"iPad,\" \"iPhone,\" \"Watch,\" and \"AirPods.\" Furthermore, the navigation bar content and header entries powerfully reiterate Apple product lines and services, which are prominent elements of Apple\u2019s retail and branding strategies, including services like \"Apple Pay,\" \"Apple TV+,\" \"Apple Music,\" and \"Apple Arcade.\" The footer also signifies trademarks owned by Apple (\"Copyright \u00a9 2023 Apple Inc. All rights reserved.\") and specific support services like \"Apple Wallet\" and \"Manage Your Apple ID,\" which are particular to Apple\u2019s ecosystem. Internationally known and location-specific services such as \"Find an Apple Store\" enhance the clarity that this webpage is managed by Apple Inc. The consistent theme across all sections of the text relating to Apple\u2019s proprietary products and services, coupled with distinguished nomenclature used in Apple\u2019s marketing, leaves no ambiguity about the brand identity.",
+        "Url": "https://www.apple.com/uk/"
+    },
+    {
+        "Folder Hash": "696c9a5dc3e9d166dffd0ada62773484b1abb7bf7c5bca1b9dce5be40abb255b",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand as PUBG Mobile is strongly supported by several elements in the HTML information provided. Firstly, the favicon URL contains \"pubgmobile.com\" which directly references PUBG Mobile, and the icon used in the favicon is specifically recognized as the PUBG icon. Moreover, the footer text mentions an email address \"pubgmobile_business@tencent.com\" which not only cites \"pubgmobile\" explicitly but also associates it with Tencent, a known collaborator and publisher for the game. Additionally, the footer text references KRAFTON, Inc., which is the parent company responsible for PUBG properties. The copyright lines in the footer associating with both Tencent and KRAFTON, Inc. reaffirm the involvement of these companies, which are specifically linked to PUBG Mobile. The presence of external social media links (Facebook, Twitter, Youtube, Instagram, VK, Discord) typically used by brands for promotional purposes and community engagement is consistent with the digital marketing strategy of a large-scale online game such as PUBG Mobile. The detailed direction towards community involvement (\"Join the Community,\u201d \u201cFollow,\u201d \u201cLike,\u201d \u201cSubscribe\u201d), and the offered membership and partnership inquiries further corroborate a well-established brand presence online. Thus, based on these elements, the brand is confidently identified as PUBG Mobile.",
+        "Url": "https://pubgmobilecorporationevents.klikdisini2023.my.id/"
+    },
+    {
+        "Folder Hash": "730c16cb71a73a61e4b1b80fdf48f8746e8adb73275f4e3c6423301830aaf14d",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand as Weebly is primarily based on the favicon URL, which features \"https://www.weebly.com/favicon.ico\". This link suggests that the favicon used for the webpage is directly hosted on Weebly's primary domain, indicating that the website could either be hosted by Weebly or have significant branding elements from it. The presence of contents like \"Shopping Cart\" and \"SIGN IN\" in the headers_text, and e-commerce directed elements reflected in other components of the data such as `paragraphs_text` and `span_text`, which direct to actions like \"Back to Cart,\" \"Checkout,\" and \"Continue Shopping,\" is typical of websites built on platforms offering online store functionalities, like Weebly. Additionally, the title \"Home | Mail\" does not distinctly connect to a specific external brand and can generally imply basic webpage titling in line with email features or customer communication, which could be a functionality on a Weebly-built site. The absence of logo_alt_text and footer_text significantly relies on the favicon and contextual e-commerce setup clues to connect the dots. Thus, the deduction leads us to Weebly, despite some lacking direct brand indicators and some characteristic generic for e-commerce. The inability to conclusively verify this through any exclusive Weebly branding or specific signatures on the webpage itself prompts a confidence score slightly under complete certainty.",
+        "Url": "https://mail-102784.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b63d8bba2ea35b2debe09ba242794d6c2c3abf87711cc969cf3933dc152860ec",
+        "Brand": "Amazon",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "2.00",
+        "Supporting Evidence": "The main element indicating the brand as \"Amazon\" is the title of the webpage, which is simply \"Amazon.\" This direct naming usually points to the brand identity. Additionally, the favicon URL includes 'amazon258.top,' which heavily suggests the brand association with Amazon; however, the unusual domain raises some concerns about authenticity and whether this webpage genuinely represents the well-known Amazon.com or a different entity using the name. On the negative side, there is no other supporting brand-specific information available within the provided HTML elements such as logo_alt_text, footer_text, headers_text, or nav_bar_content as they are marked as \"Not Found.\" This lack of complete branding elements decreases the confidence in solely relying on the webpage title and peculiar domain usage in the favicon URL as definitive proof of the webpage being an official Amazon representation. Furthermore, the inclusion of various high-end product listings typically not associated solely with Amazon\u2019s standard storefront (e.g., luxury watches and brand-name bags) also clouds the brand assessment, suggesting the possibility this site might not be a primary Amazon URL but rather a third-party or niche segment possibly affiliated with Amazon.",
+        "Url": "https://www.amazon258.top/"
+    },
+    {
+        "Folder Hash": "bf47d177510462a9424246d77c93973eb18cb4f4bfbab32e52b3bfd7ebd74828",
+        "Brand": "Mail.com",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "In this case, the brand identification primarily hinges on the apparent redirects cited in the logs pertaining to a timeout error that mention navigating to \"https://mail.com/.\" All other key HTML elements such as the title, meta description, favicon, logo attributes, footer text, headers text, and nav bar content are reported as \"Not Found\", leaving them unusable for brand determination. However, the fact that there is a direct reference in the logs to navigating to mail.com, despite it being embedded in an error log, provides a significant clue towards identifying the brand of the webpage. It is implied that this page belongs to the domain mail.com, which is a known email service provider. The absence of any other concrete HTML indicators produces a level of uncertainty, but given that mail.com is directly mentioned, it leads to a reasonably high confidence in associating the webpage with the Mail.com brand.",
+        "Url": "http://pub-b2955bd5cc5a447cba7f9017e8915538.r2.dev/webmail.html"
+    },
+    {
+        "Folder Hash": "de5a47eaa73895f472f39d21218f72c6902a274935b0e9277adb1ac7ef815e5f",
+        "Brand": "bitbank",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage is identified primarily from the meta_description and the favicon URL. The meta_description includes the name \"bitbank\" as a key part of the description, which states, \"bitbank\u306f\u30b7\u30f3\u30d7\u30eb\u3067\u8efd\u91cf\u3001\u3057\u304b\u3082\u9ad8\u3044\u6a5f\u80fd\u6027\u3092\u5099\u3048\u305f\u30b9\u30de\u30fc\u30c8\u306a\u30d3\u30c3\u30c8\u30b3\u30a4\u30f3\u30fb\u6697\u53f7\u8cc7\u7523\uff08\u4eee\u60f3\u901a\u8ca8\uff09\u53d6\u5f15\u6240\u3067\u3059.\" This indicates that the webpage is associated with the brand bitbank, which operates as a cryptocurrency exchange platform. Additionally, the favicon URL (https://assets.bitbank.cc/icons/android-icon-192x192.png) further confirms the identification because the URL contains \"bitbank.cc,\" directly referencing the bitbank brand. The combination of these two strong identifiers strongly supports the conclusion that the webpage is related to bitbank. Other elements such as the title, which suggests a cryptocurrency trading platform (BTC/JPY), and navigational content related to trading and registration, are consistent with the services one would expect from a cryptocurrency exchange like bitbank. The span_text reinforces brand elements, listing navigational and login options typical for user interaction on such platforms. Although the logo_alt_text and footer_text fields were not found, the available evidence from meta_description and favicon is sufficiently strong to confidently identify the brand as bitbank.",
+        "Url": "https://bitbaink.web.app/login"
+    }
+]

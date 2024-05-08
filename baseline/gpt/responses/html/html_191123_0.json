@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "001452e821721ad748f84dba47ca746844a90fee8b096d6e9885fce51ce357ca",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The primary clue pointing towards the identification of the brand as AT&T comes from both the title and a part of the headers text. The title of the webpage is \"Home | AT&T Mail,\" which directly mentions AT&T, a major telecommunications company known also for its internet and email services. Additionally, the headers text includes \"AT&T Management,\" further reinforcing the presence of the AT&T brand on the page. The presence of AT&T in two separate and crucial parts of the webpage's HTML script (the title and headers) strongly suggests that the webpage is associated with the AT&T brand. Although the favicon points to Weebly, a known website builder, which might typically suggest a generic or third-party site creation, the repeated direct reference to AT&T in key textual content of the page (title and headers) overrides this consideration, indicating that the webpage is intended for content specific to AT&T, despite potentially being hosted or built on a Weebly platform. The absence of logo alt text and footer text due to the \"Not Found\" value reduces the amount of available verifying information, but does not significantly impede the identification based on the stronger evidence from the title and headers.",
+        "Url": "https://att-mail-102779.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "004df95778a37661d7bacc2fff0aa386eb7a85ab66ec93fd295261dab0a20726",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The webpage's brand has been identified as Microsoft based on several distinct indicators present in the HTML information provided. These include:",
+        "Url": "https://pub-1ed1b230e028427395d33c685e39383e.r2.dev/passwordexpire.html#3mail@b.c"
+    },
+    {
+        "Folder Hash": "0196fd8ce2c63ec2397b14e43570be25fb7f57bab8a64fe4f360fc40f60a9e2d",
+        "Brand": "Microsoft Windows",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The analysis is predominantly based on recurring references to \"Windows-Defender,\" \"Windows Security,\" and Microsoft procedures throughout the paragraph and span text sections. Importantly, the text mentions services like \"Windows Defender Security Center\" and directs users to contact \"Windows Support\", which reinforces the identification with Microsoft Windows, specifically its security services part. The urgency and descriptions surrounding security and defensive actions against threats like \"Trojan Spyware\" and \"Adware\" align with functionalities typical of antivirus and system security software provided by Microsoft under the Windows Defender suite. Moreover, phrases like \"Windows Registration\" and contextual urgency about computer security strengthen this association with Microsoft's Windows operating system's security features. Note that the texts also mention direct phone support, further supporting that this is from an established software provider like Microsoft. There is a slight uncertainty due to the lack of explicit brand logos or meta descriptions which typically affirm such identifications more concretely, but the textual content very strongly points to Microsoft's Windows Defender software.",
+        "Url": "https://symphonious-valkyrie-bd1391.netlify.app/"
+    },
+    {
+        "Folder Hash": "01e32770ac8443e47a10eaed58d14acd990076b65bcc9b60df53dda1f0688649",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification of the webpage is strongly indicated by the title \"Telegram Web,\" which is a direct mention of the Telegram brand. Additionally, the footer and metadata typically contain significant hints regarding branding but are noted as \"Not Found\" in this instance, therefore they were not considered. Furthermore, the information within the headers and the paragraph text heavily supports the identification: the header text \"Sign in\" aligns with a login functionality typical for platforms like Telegram, and the paragraph text explicitly encourages using \"desktop.tlgr.org\" for a better experience and mentions needing an existing account to log in to \"Telegram Web.\" The reference to \"desktop.tlgr.org\" and \"Telegram web-client\" in the paragraph strongly suggests that the webpage is associated with Telegram, given the specific mention of \u201cTelegram\u201d in the context of signing into and using their service. Despite the logo_alt_text and the nav_bar_content not being found, the clear references and direct mentions in key elements provide a high level of confidence in identifying the brand as Telegram.",
+        "Url": "http://www.web.tlgr.org/#/login"
+    },
+    {
+        "Folder Hash": "02d7bb888477f2fcd60ec65cc224c737656db3f05cf6a9019c0214f196d8109e",
+        "Brand": "Microsoft Office 365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification for this webpage is primarily reliant on several key pieces of HTML information provided. The title, \"Sign in to your Office365 account,\" directly refers to Office 365, which is a suite of Microsoft applications delivered over the internet. Furthermore, the logo alt text specifying \"Microsoft\" reinforces the association with Microsoft Corporation, aligning with their product Office 365. Even though the favicon uses an abstracted URL not providing direct evidence, the favicon\u2019s usual role is to display a small, iconic image associated with the specific website \u2013 in this case it\u2019s reasonable to assume it might represent the Microsoft or Office 365 logo considering the context provided by other elements. The footer text mentioning \"Terms of use\" and \"Privacy & cookies\" are standard inclusions on many corporate websites, including those of Microsoft, emphasizing legal and privacy information often observed on software service pages such as Microsoft\u2019s Office 365. Although the meta description, headers text, nav bar content, paragraphs text, and span text are either not found or irrelevant in the presented HTML snippet, the evidence derived from the title and logo alt text is significant enough to confidently attribute this webpage to Microsoft\u2019s Office 365 service. The absence of contradicting information in this analysis further supports the conclusion that the webpage is associated with Microsoft Office 365. Thus, the identification leans heavily towards Microsoft\u2019s branding specifically for its Office 365 suite.",
+        "Url": "https://pub-9ee42db8121548b18dd215b5524c7cba.r2.dev/drix.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "02de404bd7c2bb310cee621d9432d70167b13d7ca76caeacc31f357d4b3fc331",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as \"Telegram\" is highly indicated by several elements present in the HTML information provided. Primarily, the title of the webpage \"TeleGram Web\" specifically includes \"Telegram,\" which distinctly points to the Telegram brand. Furthermore, the headers text reinforces this by including \"Telegram\" alongside user interaction prompts like \"Enter Your Password.\" Although other details such as the meta description, favicon, logo alt text, footer text, nav bar content, paragraphs text, and some span text are not found or provide minimal additional information, the repetitive mention of \"Telegram\" in both the title and header is highly indicative. This occurrence in multiple crucial areas (title and headers) supports the identification strongly. The consistency and clarity of the brand name appearing in prominent places such as the title and header text substantiate that the webpage is associated with Telegram, hence the high confidence score.",
+        "Url": "https://web.vwvw-telegram.com/"
+    },
+    {
+        "Folder Hash": "03d392e080e89e02e4cdb7673109e92eaf934c1ff02b607e167768889a1502de",
+        "Brand": "Meta",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage can be reasonably identified as Meta primarily due to the title and meta description provided in the HTML information. The title of the webpage, \"Meta Business Center,\" along with the meta description \"Meta Business Help Centre: Help, Support & Troubleshooting,\" strongly suggests that the website is related to Meta, formerly known as Facebook. This is further supported by the context provided where the website seems to assist users with business-related queries and troubleshooting which is characteristic of a business service platform that Meta provides. Additionally, the footer text mentioning \"Terms of Service \u00a9 2023\" is generic and does not directly reference Meta but is commonly found in company-operated service portals. Although specific logo attributes and other identifying HTML aspects such as header text or navigation bar content are not found or labeled as \"Not Found,\" the consistent use of \"Meta\" in substantial fields like the title and meta description sufficiently points towards this brand. Moreover, the description in the paragraphs about policy and security procedures aligns with what would typically be expected from a major tech company like Meta concerning user account and security management.",
+        "Url": "https://meta-community.link/meta-community-standard"
+    },
+    {
+        "Folder Hash": "044306bdb2b485c919c5c9db8faf6254e6e886893d47fed5d6b0cd528e3bcec4",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The HTML information provided points unmistakably to Microsoft as the brand. This is observed in various aspects of the provided data:",
+        "Url": "https://xlmconferences.co.za/websadmis/websadins/index.html"
+    },
+    {
+        "Folder Hash": "04fbb0dba9f4d0341ac961f66033f2623c128ad2e9f8c435b178058d3c50e5d4",
+        "Brand": "Microsoft Office 365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Microsoft Office 365 is primarily based on several key pieces of information extracted from the HTML script of the webpage. Firstly, the title \"Sign in to your Office365 account\" directly mentions Office365, which is a well-known service provided by Microsoft. This title is a strong indicator of the brand identity as it specifies the service offered by the company. Secondly, the logo's alternative text is \"Microsoft,\" which clearly identifies the company behind the webpage. The presence of the favicon, although the complete URL is truncated, hints at a Microsoft-related icon due to the visible part of the URL and the favicon's general association with brand identity in webpages. Additionally, the footer text includes general terms, privacy, and cookie policies, which are common on corporate login pages but do not specifically hint at Microsoft; however, considering the other evidence, they support a formal corporate structure like that of Microsoft. Although direct mentions in headers, navigation bars, and other HTML elements are not found due to their values being \"Not Found\", the existing evidence from the title and logo are substantial for a confident identification. The combination of these elements, particularly the explicit mention in the webpage title and the logo alt text, leads to a high degree of confidence in defining the brand as Microsoft Office 365.",
+        "Url": "https://pub-35903f67835b403880a9b0f712822085.r2.dev/thursd.html"
+    },
+    {
+        "Folder Hash": "0522d9984f9121dabdf40dce7e6b6aa6fb8105f8f9c0d33d70843e6db09027b2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary clues leading to identifying the brand as Microsoft come from various aspects of the HTML information provided. Firstly, the favicon link contains a directory path \"/_layouts/15/images/favicon.ico?rev=47,\" common in Microsoft SharePoint or Office 365 environments, denoting standard Microsoft software directory structures. Additionally, the span text mentions \"OneDrive\", which is a well-known Microsoft file hosting and synchronization service. The text also includes a copyright notice explicitly stating \"\u00a9 2017 Microsoft,\" which straightforwardly attributes the content to Microsoft. Lastly, although \"SRI International\" is mentioned, it is referred to in a context suggesting it is not the primary entity responsible for the webpage's operation, making it unrelated to brand identification in this case. These elements collectively establish Microsoft as the brand associated with the webpage, with a high level of confidence.",
+        "Url": "https://sriintl-my.sharepoint.us/personal/erin_rivard_sri_com/_layouts/15/guestaccess.aspx?e=5:uBJqv1&share=Ep4hK9UlHBNJm3JQEx3y5l4BfRDkJsEizYHiWNL2H8VNXw"
+    },
+    {
+        "Folder Hash": "059cafdf56fb56d6e5ae60278e19d2fee87b003e15c42864b6496ec48a09bef2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The evidence that points to Microsoft as the associated brand for the webpage includes several clear indicators found within the HTML information provided. The title \"Iniciar sesi\u00f3n en tu cuenta Microsoft\" directly mentions Microsoft, indicating that the web page is a Microsoft login portal. Additionally, the alternative text for the logo, \"Microsoft,\" explicitly names the brand, reinforcing that the webpage belongs to Microsoft. While other fields like meta description, headers_text, nav_bar_content, paragraphs_text, and span_text are either missing or marked as \"Not Found,\" the information from the title and logo_alt_text provides strong evidence. The footer text, which mentions \"T\u00e9rminos de uso\" and \"Privacidad y cookies,\" commonly found in many corporate websites including Microsoft, aligns with standard legal and privacy policies possibly pertaining to Microsoft but is less specific than the logo alt text and title for identifying the brand. Through these observations, Microsoft is confidently identified as the brand for the webpage.",
+        "Url": "http://completar.3655.outlook.zya.me/login.live.com_login_verify_credentials_outlook.html?i=1"
+    },
+    {
+        "Folder Hash": "059ccb3d7deed5338ba88068862119d66ce163eabe5d9186dc437b143310daa0",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage can be confidently identified as MetaMask based on the analysis of the provided HTML information. The title of the webpage is \"MetaMask Wallet,\" which explicitly mentions MetaMask, a well-known cryptocurrency wallet. Additionally, the paragraph text on the page reinforces the association with MetaMask by stating, \"Trusted by millions, MetaMask is a secure wallet making the world of web3 accessible to all.\" This text not only mentions MetaMask by name but also describes its service and target audience, which aligns with MetaMask's established brand message in the cryptocurrency and web3 space. Although the meta description, footer text, logo alt text, and nav bar content are not available for analysis, the clear references in both the title and the content of the page are sufficiently strong indicators to confidently determine that the brand is MetaMask.",
+        "Url": "https://mitanassk.azurewebsites.net/"
+    },
+    {
+        "Folder Hash": "1992e1de0502bdc3bcd230ee8821ff8c73c58a452234ba76f37b889055c1a7cf",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The primary evidence pointing towards Weebly as the brand of the webpage comes from the favicon URL, which is \"https://www.weebly.com/favicon.ico.\" The favicon, typically an icon associated with the brand or website, here explicitly includes 'weebly.com,' indicating that the webpage is either hosted on Weebly or is a part of Weebly\u2019s domain. Keywords like 'Shopping Cart' and 'sign in' on headers_text suggest that the webpage might be focused on e-commerce or services, which aligns with Weebly's functionality offering site-building for online stores and websites. Furthermore, the usage of common checkout terms such as \"Checkout\" and \"Continue Shopping\" in the paragraphs and span texts aligns with the website builder\u2019s feature for setting up e-commerce sites. The absence of other distinct brand markers or external links in provided HTML elements reinforces the conclusion with moderate confidence. However, the lack of explicitly branded content like logo information or footer texts prevents a full confidence score, warranting a score of 8.00.",
+        "Url": "https://mail-107095.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "1e1f183cea2f34afd55ad72514aa6792c3a2f69730571fe2482458fa73a4ca3e",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The analysis of the HTML information provided indicates that the brand identity is likely AT&T, primarily based on the title of the webpage and components of the paragraphs_text. The title \"login | AT&T\" directly references AT&T, specifying the brand clearly and associating the webpage with AT&T's login page. Furthermore, the paragraphs_text includes phrases like \"to access AT&T Mail and Currently.com,\" which reinforces the association with AT&T, suggesting features or services related to AT&T. Despite some conflicting signals such as the favicon URL pointing to 'https://www.weebly.com/favicon.ico' which suggests the page might be hosted or built on Weebly, this does not necessarily indicate the brand but rather the platform possibly used for hosting or building the site. The lack of information from the logo_alt_text and footer_text, as they are marked as \"Not Found\", along with the absence of a clear brand identifier in the nav_bar_content which is also \"Not Found\", limit complete confidence. However, the frequent direct mentions of AT&T strongly lean towards AT&T as the brand associated with the webpage.",
+        "Url": "https://att-104300.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "2476d4fb0fe5142fa2542a61dd5c2f5c26b9ce0bede0b3c24d4e5acf5633515a",
+        "Brand": "Instagram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the HTML information provided clearly identifies the brand as Instagram. The decisive factors include the title of the webpage, \"Instagram,\" which is a straightforward indicator of the brand. The meta description further reinforces this identification, as it describes functionalities associated with Instagram, emphasizing the actions of creating an account, logging in, and engaging with content such as photos, videos, and messages which are core aspects of Instagram\u2019s service offering. Additionally, the URL provided for the favicon, which includes the domain \"cdninstagram.com,\" directly links to Instagram\u2019s content delivery network, commonly used for hosting the static assets of the site such as logos and icons. This link not only confirms the brand but also indicates that the favicon is specific to Instagram based on its location under the Instagram domain. Although the fields for logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are marked as \"Not Found\", the information from the title, meta description, and favicon alone are sufficiently robust to conclusively identify the brand as Instagram with full confidence.",
+        "Url": "https://www-instagram-com.app2.sup2.skyfencenet.com/"
+    },
+    {
+        "Folder Hash": "411145294a15999152c4aa2def8f377501ac83864034b0a2e723f6ddfa82c2f9",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The most significant piece of evidence pointing to Telegram as the brand of the webpage is the webpage title \"Telegram Web.\" This directly indicates that the webpage is related to Telegram, a widely recognized messaging service. Further supporting this identification, the metadata description describes Telegram as a \"cloud-based mobile and desktop messaging app with a focus on security and speed,\" which aligns with Telegram's well-known platform characteristics. Additionally, the headers text containing \"Telegram |\" corroborates that the primary subject and functionality of the webpage center around Telegram services. Although the footer text and logo alt text are not found, the consistent references in the key HTML elements like the title and headers significantly reinforce the conclusion that the brand is Telegram. No other brand information conflicts with this identification in the provided HTML script data, thus solidifying the rationale behind this conclusion.",
+        "Url": "https://telegram.awqdui.top/"
+    },
+    {
+        "Folder Hash": "53253947b718f1871205a248af19ee1099f14944e62296d69fb0c501a7bea4d1",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis and identification of the brand as Microsoft Outlook is primarily based on the title of the webpage, which is \"Sign in to Outlook.\" This title directly references Outlook, which is a well-known email service provided by Microsoft. Additionally, the footer text containing \"Terms & Conditions\" and \"Cookie Privacy\" is typical of corporate Microsoft web pages, although it is generic. The presence of security and verification elements in the paragraphs_text and span_text, such as \"Because you're accessing sensitive info, you need to verify your password\" and the mention of https://aka.ms/mfasetup (a Microsoft security setup URL), further support the association with Microsoft Outlook. Furthermore, the mention of \"Microsoft Authenticator app\" solidifies the connection to Microsoft as the brand, particularly its Outlook service, which often utilizes this app for two-factor authentication procedures. The intricate details about account and security notifications in the text align with the services provided by Microsoft Outlook. The absence of any contradictory brand identifiers in the available HTML elements consolidates the identification as Microsoft Outlook.",
+        "Url": "https://pub-f842ee8b79264a61ab09cbed614c77e6.r2.dev/link%20(4).html#"
+    },
+    {
+        "Folder Hash": "985bc75d0a8373aecca35f9e99e7ab5b59d9050da7f5faae8150e0602f7bc9f2",
+        "Brand": "BT",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The analysis primarily hinges on several key pieces of HTML information provided. The title of the webpage, which reads \"Home | BT,\" explicitly includes \"BT\" indicating a strong likelihood that the brand is BT. The headers text also supports this, as it contains \"BT HOME,\" further aligning with the brand identified in the title. Additionally, the use of \"BT\" in both these contexts (title and headers) points towards a consistent branding element across the site's main visibility points. Although the favicon is sourced from Weebly, a popular website builder, this does not necessarily indicate the brand; it is more likely showing where the website is hosted or built. The presence of generic shopping and cart elements in the nav bar and paragraphs does not distinctly identify the brand but supports a retail or commerce function of the domain, which aligns with what might be expected on a shopping-focused section of a BT website. The absence of logo_alt_text and footer_text in the analysis due to their \"Not Found\" status does not detract from the weight given to the clear brand indicators in the title and headers. Thus, despite lacking complete information across all typical branding elements, the repeated mention of \"BT\" in key visible parts of the webpage significantly points to BT as the brand.",
+        "Url": "https://bt-102768.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "b19c92ddf0a58eb0af2bcdcf1ddc1ab251fee8ac674f2b75e231e21a468c81ff",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.50",
+        "Supporting Evidence": "The identification of the brand as AT&T is primarily deduced from the mention of \"myAT&T\" in the paragraphs_text section of the HTML script. This specific reference suggests that the page is related to AT&T, a known telecommunications company. The inclusion of phrases such as \"Login\" and \"Sign in\" in the title and headers_text respectively, and the presence of mentions such as \"Shopping Cart\" and shopping-related actions (\"Checkout\", \"Continue Shopping\", \"Back to Cart\") in the span_text, indicate a service or portal related typically to a company that also handles ecommerce or personal account management, both of which are relevant to a telecom service provider like AT&T. These web functionalities can often be found as part of customer service portals where users can manage subscriptions, purchases, or service configurations. The favicon link redirecting to \"weebly.com\" at first seems misleading. However, this suggests that the webpage could be using Weebly's services for web hosting or management rather than indicative of the brand itself, thus it's not noted as significant evidence towards identifying Weebly as the page\u2019s brand. Due to the explicit mentioned reference to \"myAT&T\" and the contextually relevant functionalities described in the listed text, the webpage is most plausibly connected to AT&T, despite the favicon being linked to Weebly, which is likely a technical or hosting-related aspect rather than branding.",
+        "Url": "https://sign-in-att-100076.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "bf311703f6460d29eabe2a42b9bab2583e46ac2eee458f898514d95d59b93b65",
+        "Brand": "USPS",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The evidence pointing to USPS (United States Postal Service) as the brand is overwhelming and consistent throughout the HTML information provided. Firstly, the webpage title itself mentions \"USPS,\" which is a direct indicator. Moreover, the footer contains numerous references to USPS resources and services like \"About USPS Home,\" \"USPS Service Updates,\" and a legal note stating \"Copyright \u00a9 2023 USPS. All Rights Reserved.\" These elements in the footer confirm the association. Additionally, the nav_bar_content and paragraphs_text both extensively list services typically offered by USPS such as \"Track a Package,\" \"Informed Delivery,\" \"Find USPS Locations,\" and \"Print and ship from home. Start Click-N-Ship.\" Such services are specific to the operations of the USPS, further solidifying the identification. The references to shipping postal products, handling fees for postal orders, and ZIP Code tracking, which are distinctive functionalities of the postal service, anchor the brand identification securely to USPS.",
+        "Url": "https://zxb.bgd.mybluehost.me/uspshome/"
+    },
+    {
+        "Folder Hash": "ed70e8e50c1b5d17b349d1b662c8e7b938a275ed9be41f15b5798762bf25b022",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The identification of the brand as Telegram is primarily derived from the title of the webpage, which reads \"Telegram Web.\" Furthermore, the meta description strongly supports this identification by describing the service explicitly as \"Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed,\" which directly corresponds to Telegram\u2019s well-known branding and service description. Additionally, the header text contains the name \"Telegram,\" which further confirms the brand. The span text listing various countries and the messaging regarding account abnormalities underlines the functionality associated with messaging services like Telegram, specifically pointing to features that manage communications and security. These elements combined provide a strong and coherent indication that the webpage pertains to the Telegram brand. There are no conflicting brands or misleading information provided in the analyzed HTML data that detracts from this conclusion, leading to a high confidence in identifying Telegram as the relevant brand.",
+        "Url": "https://tgadminuser.awqdui.top/"
+    }
+]

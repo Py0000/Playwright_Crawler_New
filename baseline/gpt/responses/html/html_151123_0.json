@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0024f4f820986baf09640fdb8c6eb7fa7ffed3d672f17ea9151c2fcb1d0ea97d",
+        "Brand": "Premier Catering AZ",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The analysis is primarily based on explicit references found within the HTML content. Notably, the footer text explicitly states \"Copyright \u00a9 2019 Premier Catering AZ. All Rights Reserved.\" which is a strong and direct indication of the brand. Additionally, the headers text includes phrases like \"get a free quote | Premier Wedding Catering Services | Catering Phoenix For Over 30 Years,\" where \"Premier\" aligns closely with 'Premier Catering AZ' suggested in the footer copyright. The email addresses provided such as info@premiercateringaz.com and sales@premiercateringaz.com further reinforce this brand identity by including the brand name directly. Moreover, other text sections, although not always mentioning the brand name, consistently reference catering services in Phoenix, which supports the geographic connection referenced in the brand name. The repeated use of \"Arizona's Premier Catering Company\" and similar phrases also align with the brand name, enhancing the confidence in this identification.",
+        "Url": "http://www.premiercateringaz.com/"
+    },
+    {
+        "Folder Hash": "0041e447da8abe1b0df35718352e1a70fbd5bfe6ba82191af06aae819c0c641a",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The information provided strongly suggests that the brand is Netflix, despite the fact that the webpage title mentions \"Netfix clone\". The footer text includes typical Netflix footer links like \"FAQ\", \"Investor Relations\", \"Privacy\", \"Speed Test\", \"Help Centre\", \"Cookie Preferences\", \"Watch for Free\", \"Account\", \"Legal Notices\", \"Media Centre\", \"Terms of Use\", \"Contact Us\", and crucially, \"Netflix Originals\". The inclusion of \"Netflix Originals\" is particularly indicative of the Netflix brand. Additionally, the headers text mentioning unlimited movies, TV shows, various user-friendly features such as enjoying on TV, downloading shows to watch offline, and price points starting from \u20b9199, resonate strongly with Netflix's marketing and service offerings. The contact number in the footer and its repetition in the paragraphs text alongside typical subscription prompts enforces the assumption. The textual content from headers and footer leads to a high confidence that this is a webpage related to Netflix, despite it being referred to as a \"clone\" in the title, which possibly suggests it is a mimic or simulation for training or testing purposes.",
+        "Url": "https://harshityadav19.github.io/task1/"
+    },
+    {
+        "Folder Hash": "0085110afdb1ee98c47ce323723b178b877dbe37f5a2e135725d56b553137caa",
+        "Brand": "eBay",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand as eBay is primarily based on several mentions of \"eBay\" throughout the key HTML elements provided. The title of the webpage is \"eBay,\" which is a significant indicator of the brand's presence and identity on the site. Furthermore, mentions of \"eBay\" appear repeatedly in the paragraphs and span text, specifically referencing \u201ceBay Customer Service\u201d and multiple \"eBay routes\", which likely relate to different sections or services provided by eBay. Despite the meta description containing a different URL (\"shopmarket.vip\") which might suggest another brand or a phishing attempt, the repetitive and prominent placement of the eBay name across multiple sections heavily supports the identification of eBay as the primary brand related to this webpage. The absence of a favicon, logo alt text, footer text, headers text, and nav bar content limits the analysis, but the repeated textual references to eBay in crucial parts of the HTML script substantiates the confidence in this determination.",
+        "Url": "https://shopmarket.vip/"
+    },
+    {
+        "Folder Hash": "0189b82283393a7895458ab5f9a964aed91b980e51fb3b345a5695b226fcca33",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The evidence strongly suggests that the webpage is affiliated with the Microsoft brand. Key indicators include the footer text which states \"\u00a92023 Microsoft\" and several instances in the span_text segment where \"Microsoft\" is mentioned multiple times. Specifically, phrases such as \"Microsoft | Sign In\" and a sign-in redirection message - \"Taking you to your Organization's sign-in page\" - imply that the user authentication process is managed by Microsoft, indicating that it is a Microsoft account login page. Further reinforcing this identification is the contextual hint in the paragraph text offering options like \"Create one!\" which typically relates to creating a new user account, commonly seen on Microsoft's single sign-on pages. In addition, the mention of text directly relating to user account issues like \"Can't access your account?\" and \"Forget password?\" are standard features on login pages, which supports the webpage's purpose as a sign-in portal for Microsoft. The repeated mention of the brand in contexts where authentication and account management are discussed, along with the direct copyright claim in both footer and span_text, solidifies the identification of the Microsoft brand.",
+        "Url": "https://lawyerzouyang-1322273052.cos.sa-saopaulo.myqcloud.com/lawyerzouyang.html?e=peter@braunlinen.com"
+    },
+    {
+        "Folder Hash": "01c3a0196436a50bca79b0f22e742c9554aae4cdb0d440d9062abbd66ee99599",
+        "Brand": "TF Bank",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand as TF Bank is primarily based on the webpage's title, which is 'tfbank'. This title firmly indicates the name of the brand. The tile often signifies the primary identity or the main focus of the webpage, and in commercial or corporate sites, it typically matches the company or brand name. In this case, since other HTML information such as meta_description is empty but does not contradict the title, and other identifying features like logo_alt_text, footer_text, headers_text, nav_bar_content, paragraphs_text, and span_text are marked \"Not Found,\" there\u2019s no alternative evidence to disprove or question the title\u2019s implication. Therefore, although the complete confirmation is slightly uncertain due to missing data to cross-verify (like a confirmation in the footer or logo), the title alone provides a strong indication of the brand as TF Bank. The identified favicon, 'css/favicon.ico', despite not showing the image, suggests brand customization typically adopted by companies for their web assets like favicons. Without conflicting data from available information and an explicit title match, the identification holds substantial credibility.",
+        "Url": "https://regional-revitalization-film.tw/wp-content/plugins/TOPXOH/tt/tls/xd/zd/clients/index.php"
+    },
+    {
+        "Folder Hash": "028132cd6749d76182099b624f7df3ef9f43caf6b1c1389cec02d23a8a520e49",
+        "Brand": "Instagram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.75",
+        "Supporting Evidence": "The brand of the webpage is most directly identifiable from the title and header text, both of which prominently feature the name \"Instagram.\" This evidence is strong because the title and headers usually reflect the brand identity of the website directly. The footer text mentioning \"Instagram from Meta\" further supports this identification, indicating that Instagram is a product under the parent company Meta. The presence of various features typically associated with Instagram, such as options related to accounts, hashtags, and locations, further confirms this identity. The lack of contradicting brand information in the other HTML elements used in this analysis (the rest of the fields being labeled \"Not Found\" or irrelevant to identifying the primary brand) supports a high confidence score. The only reason the confidence score is not a full 10.00 is the absence of meta description and logo_alt_text which could have provided additional confirmatory evidence if they were available.",
+        "Url": "https://instagramreset.pages.dev/"
+    },
+    {
+        "Folder Hash": "02f8920c2f3d6da28a385ac3dcc23343df18fbfcad85ce274de01a102c2e6ca5",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The webpage title clearly names \"Garena Free Fire\" which states the specific game being referenced. Additionally, the metadata description confirms that Free Fire is a battle royale game developed by Garena, indicating that the webpage belongs to the Garena Free Fire brand. The favicon URL contains \u2018freefiremobile\u2019 which relates directly to the Free Fire game, reinforcing the association with the Garena Free Fire brand. Moreover, the footer text mentions \"Garena Online\" reinforcing the connection to Garena, the company known for developing Free Fire. Despite the logo alternative text and nav bar content being not found, the available evidences such as the footer, title, and metadata provide substantial information pointing to Garena Free Fire as the brand for this webpage. The headers and paragraph texts with mentions of in-game rewards and activities like \"Diamond\" and \"Crate\" align with typical offerings in the Garena Free Fire game, further confirming the brand identity linked to this specific mobile game.",
+        "Url": "https://garena-event-9364.real5.biz.id/id/"
+    },
+    {
+        "Folder Hash": "0338089e6e1b4ca184c743b23f921749fb9b42bf826bb912a423ef81c73f28cb",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The key evidence leading to the identification of \"Telegram\" as the brand comes from the analysis of the favicon used in the HTML script of the webpage. The favicon URL provided is \"//telegram.org/img/website_icon.svg?4\", which explicitly indicates that it is hosted and directly related to the domain \"telegram.org,\" a domain known to be associated with the Telegram brand. Furthermore, the title of the webpage \"\u1780\u17b6\u179a\u1795\u17d2\u179f\u17b6\u1799\u1794\u1793\u17d2\u178f\u1795\u17d2\u1791\u17b6\u179b\u17cb\" translates to \"Live Broadcasting,\" a feature potentially associated with messaging or communication services like those offered by Telegram. While other crucial HTML fields such as meta_description, logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are either missing (\"Not Found\") or do not provide additional brand-specific details, the direct reference from the favicon associated with the Telegram domain strongly supports the identification of Telegram as the brand of the webpage. The confidence in this identification is slightly reduced due to the absence of multiple corroborating HTML elements typically used in branding (such as logos and footer information), but the existing favicon link itself provides a robust indicator.",
+        "Url": "https://viral-cambodia02.lopaking.my.id/"
+    },
+    {
+        "Folder Hash": "05cc6d1ac09d9d56e138b7eba7cb4b2fa190505ab262b39ff8321e190b9a857f",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence that leads to the identification of the brand as WhatsApp is the title of the webpage which explicitly states \"WhatsApp\". Furthermore, the language used in the span_text areas, although mixed and partly non-English, includes terms related to navigation and settings which are typical in communication or messaging applications, enhancing the probability that these elements are part of a detailed settings menu within the WhatsApp application. The absence of other direct references from metadata, favicon, logo alt text, footer, headers, navbar content, and paragraph text (since they are reported as \"Not Found\") doesn't negate the brand identity suggested by the title. Additionally, the absence of any conflicting brand identifiers within the provided HTML elements that could suggest another brand further strengthens the confidence in identifying the webpage's brand as WhatsApp. Thus, based mostly on the clear title evidence, the brand is identified as WhatsApp with high confidence.",
+        "Url": "http://wh9.whaiofi.com/"
+    },
+    {
+        "Folder Hash": "0660dbfb3344d0993a95db9444da6aa9ec77a5ad200d89031dffd65166c438b2",
+        "Brand": "Microsoft Windows",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The analysis is primarily driven by recurring references to \"Microsoft,\" \"Windows-Defender,\" and specific mentions of Microsoft services and support numbers throughout various sections of the webpage's HTML script. In both the header and paragraph texts, there are multiple alerts and instructions that consistently denote the use of the \"Windows-Defender Security Center,\" which is a recognized component of the Microsoft Windows operating system. The span text further validates this by numerous mentions of \"Microsoft Windows\" and directions to contact Microsoft support through provided phone numbers. Crucial evidence comes from the wording used, such as phrases commonly associated with Windows operating system security features and tech support instructions, advising on actions such as not restarting the computer and calling Microsoft directly. While words like \"Scan rapide,\" \"scanner,\" and \"d\u00e9tections\" suggest a security-focused page, the consistent branding across these texts leans heavily towards Microsoft Windows. Although this webpage could potentially mimic or replicate another entity for reasons like phishing, based on the HTML content provided, it heavily promotes itself as related to Microsoft Windows. The confidence is slightly less than perfect due to awareness that web content could mimic other brands for unsanctioned purposes.",
+        "Url": "https://tenkeyoho.site/index.html"
+    },
+    {
+        "Folder Hash": "2dbf238d5fc29b9f4f6231779c8763e7b11ec5e86d70f25a01cf5870a5adab6f",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Microsoft is deduced mainly from the standardized format and terminology used in the HTML content provided. The specific phrases such as \u201cCan\u2019t access your account?\u201d and \u201cSign-in options,\u201d along with the emphasis on secure sign-in denoted by the padlock emoji (\ud83d\udd11), strongly resonate with the login pages frequently used by Microsoft for its services. Moreover, the inclusion of \u201cTerms of use    Privacy & cookies\u201d in the given text is typically found at the bottom of Microsoft\u2019s sign-in pages, adhering to their standard policies format. The options mentioning creating a new account with the text \u201cCreate one!\u201d are similarly structured as seen in Microsoft\u2019s account creation or recovery modules. Despite the lack of direct logos or favicon information, the textual pattern and language used in the navigation and paragraph content point clearly towards Microsoft\u2019s layout and stylistic approach on their pages, especially concerning their account management interfaces. The high confidence score reflects the alignment of the provided text features with Microsoft\u2019s known sign-in page characteristics, despite missing direct graphical identifiers.",
+        "Url": "https://suport.ie/?r=1eebd962-5d33-4d66-b53e-4a886d93c3ac"
+    },
+    {
+        "Folder Hash": "31438978abbbd0b364a03e0713e9daacebd74f30b31d70f8ee1ce716e0de4cc8",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand as Microsoft Outlook is based heavily on the analysis of the title and favicon provided in the HTML information. The title of the webpage is explicitly labeled \"Outlook,\" which directly indicates the Microsoft Outlook email service. Additionally, the favicon URL contains clear identifiers: it includes \"outlook\" and \"microsoft\" within the link (https://www.freepngimg.com/download/microsoft/70674-outlook-office-outlook.com-email-logo-365-microsoft.png), pointing specifically towards Microsoft's Outlook service. This URL suggests that the image used for the favicon is distinctly related to Microsoft Outlook, incorporating the terms \"Outlook,\" \"365\", and \"Microsoft\" which are hallmark elements of Microsoft's branding for its email service. The textual content in the \"span_text\" also supports this identification, as it involves terminology often related to account management within email services, mentioning an account login issue (\"That account doesn't exist. Enter a different account.\") which is a common scenario on email login pages. Given these pieces of evidence, particularly the specific mention of \"Outlook\" in the title and the explicit link to a Microsoft URL in the favicon, a high level of confidence is warranted in identifying the brand as Microsoft Outlook.",
+        "Url": "https://pub-391af5f3d76c44fcb953d65711104ee2.r2.dev/Authowaba.htm?/sha"
+    },
+    {
+        "Folder Hash": "321a55a6449593f3738366f854b764b7412bdf1b62dac68c87c530ac4a3722b8",
+        "Brand": "GOV.UK",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand revolves primarily around multiple references to \"GOV.UK\" in several sections of the provided HTML information. Specifically, the favicon URL, which includes a .gov.uk domain, suggests a government-owned service. This is supported by the headers_text section, which explicitly mentions \"GOV.UK\" alongside the specific service \"Online Debt Solutions\" and reference to \"Your bankruptcy application.\" This designation is consistent throughout the text, indicating a centralized branding as is typical with government websites. The meta_description further solidifies this through its mention of the \"Insolvency Service,\" known to be a UK government agency, enhancing the likelihood that \"GOV.UK\" is the overarching brand platform under which this service falls. Moreover, the footer mentions the \"Open Government Licence,\" a common license utilized by UK government entities, and attributes copyright to \"Crown copyright,\" which is specific to official UK government content. Additionally, \"The Insolvency Service\" delineated as the builder in the footer provides a direct connection to an official department, excluding the possibility of third-party platforms not directly affiliated with government operations. All these elements strongly align to substantiate \"GOV.UK\" as the main brand identity.",
+        "Url": "https://bankruptcy-form-fn-prod-ods.insolvency-development.co.uk/"
+    },
+    {
+        "Folder Hash": "34a95ea45ccd398070cb0ad4c0ae62c3a79c8f828064eb914f1280e8c7d9d4cd",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis is primarily based on the favicon URL, which is uniquely associated with Facebook - \"https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico\". The presence of this favicon is a strong indicator of the webpage being affiliated with Facebook, as favicons are typically used to reflect the website's brand identity. Moreover, the specified usage of \"rsrc.php\" in the favicon URL path hints at resource files used by Facebook\u2019s web infrastructure. Although other pieces of evidence such as the metadata description, logo_alt_text, footer_text, header_text, and nav_bar content were not found, the favicon and the paragraph's text content referring to \"Community Standards,\" a term frequently associated with Facebook\u2019s policies, bolster the identification of the brand. The lack of evidence from other fields reduces the confidence score slightly, as does the absence of a directly stated logo or explicit Facebook branding in the text visible. However, the unique favicon combined with contextual information tying back to known Facebook operational methodologies lend strong support to identifying the brand as Facebook.",
+        "Url": "http://page-warring-318358.8799269.com/"
+    },
+    {
+        "Folder Hash": "6a37ba06939bb2395534b3540628296007658f9b86517a4f6bf89ad985377701",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.85",
+        "Supporting Evidence": "The most significant clue identifying the brand of the webpage originates from the webpage title which reads \"Sign in to Outlook.\" Outlook is a well-known email service provided by Microsoft, indicating the service and brand associated with this webpage directly. Additional supporting evidence comes from the content related to account and verification processes in the span_text, mentioning URLs like \"https://aka.ms/mfasetup,\" which is a Microsoft URL used for setting up multi-factor authentication, characteristic of Microsoft account services. Furthermore, the reference to the \"Microsoft Authenticator app\" in the span_text area aligns with Microsoft's security protocols, reinforcing the assumption that the webpage is associated with Microsoft, specifically its Outlook service. The content does not directly mention other competing email services or provide contradicting evidence that would suggest another brand, helping solidify the identification as Microsoft Outlook.",
+        "Url": "https://pub-929b3c4e3df4477c985486552747b9a8.r2.dev/link%20(27).html#thenson@centralconstructiongroup.net"
+    },
+    {
+        "Folder Hash": "a5830f9b2ae483611f8f09a20715f16f1168e20ed8065874573fe4d3738a32e5",
+        "Brand": "Zimbra",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence pointing to Zimbra as the brand behind the webpage is found in the title and meta_description of the HTML information provided. The title of the webpage is \"Zimbra Web Client Sign In,\" which directly references Zimbra and indicates that the webpage is a login interface for a Zimbra web client. Further supporting this identification, the meta_description explicitly mentions Zimbra, describing it as providing open source server and client software for messaging and collaboration, and it even directs users to the Zimbra official website for more information. Additionally, the headers_text, which mentions \"Government of St. Vincent and the Grenadines email | Client Types,\" suggests that this particular instance of the Zimbra client is customized or configured for the government entity mentioned, but it does not imply a different brand. The absence of Zimbra in the favicon, logo_alt_text, footer_text, nav_bar_content, paragraphs_text, and span_text does not detract from this identification since these elements are either not found or do not contradict the identification of Zimbra as the brand. The presence of a specific government entity in the headers and span_text shows a use case of the Zimbra platform, rather than a different branding. Thus, the overwhelming evidence points to Zimbra as the brand of the webpage.",
+        "Url": "http://zimbraquotarenew.x24hr.com/"
+    },
+    {
+        "Folder Hash": "bc9efafc69c4604bab0987861231229e30a9b3cb49f9cf0760f3d6c577992bd2",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identity of the webpage is clearly indicated through various elements in the HTML information provided. The webpage title \"Bei Facebook anmelden | Facebook\" directly mentions Facebook twice, suggesting it is the primary platform for the webpage. Additionally, the meta description references activities typically associated with Facebook, such as connecting with friends and sharing content. The favicon URL contains 'fbcdn.net', a domain known to be associated with Facebook, further reinforcing the association with the brand. The headers text explicitly cites \"Facebook,\" aligning with the brand identity mentioned throughout the other elements. Despite the absence of the logo alt text, footer text, and detailed navigational content, the consistency of the Facebook name in the title, meta description, and headers text, along with the favicon URL, strongly supports the identification of the brand as Facebook. Furthermore, the span text includes \"Meta \u00a9 2023,\" referencing Facebook's parent company, Meta, which aligns with the branding. These multiple corroborations across different components of the HTML script without contradictory information lead to absolute confidence in the brand identification as Facebook.",
+        "Url": "https://hbirds.com.au/wp-admin/maint/facebook/"
+    },
+    {
+        "Folder Hash": "c1064a35df3f15f6f0fd4e8bbe48ed3abed801d4c9c288391c8bdeddef498745",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification is primarily based on repeated mentions of \"AT&T\" within the HTML script elements. Both the title (\"AT&T\") and the headers_text (\"AT&T | Thanks for choosing AT&T...\") explicitly mention AT&T, which strongly indicates the brand presence on the webpage. The meta description also refers to actions (signing in to review detailed account service) that are typical for a service provider like AT&T, supporting the idea that the text is particular to the AT&T brand. Although the favicon link leads to an unrelated domain (\"https://keepo.io\"), this could be because of a temporary placeholder or error, and it doesn\u2019t detract significantly from the other clear brand indicators. The absence of information in logo_alt_text, footer_text, nav_bar_content, paragraphs_text, and some span_text marked as \"Created with\" does not provide additional clues; however, the evidence from the title and header text is sufficient to confirm the brand with high confidence.",
+        "Url": "https://keepo.io/login_page/"
+    },
+    {
+        "Folder Hash": "d2ab28be4112521aa02087e1c78892ec53c35a3cb142ea27047fd9a46133fb26",
+        "Brand": "Steam",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage, \"\u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e Steam,\" directly mentions 'Steam,' which is a well-known digital distribution service for video games. The header texts contain numerous references to typical Steam functionalities such as account access and customer support (\"\u0412\u043e\u0439\u0442\u0438,\" \"\u0417\u0430\u0447\u0435\u043c \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0442\u044c\u0441\u044f \u043a Steam?\", \"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a Steam!\", \"\u041c\u043d\u0435 \u043d\u0443\u0436\u043d\u0430 \u043f\u043e\u043c\u043e\u0449\u044c \u0441\u043b\u0443\u0436\u0431\u044b \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 Steam\"). Additionally, the footer includes copyright information clearly attributed to Valve Corporation, which is the parent company of Steam (\"\u00a9 Valve Corporation. \u0412\u0441\u0435 \u043f\u0440\u0430\u0432\u0430 \u0437\u0430\u0449\u0438\u0449\u0435\u043d\u044b.\"). Moreover, the repeated mentions of Steam in various contexts throughout the paragraph texts (\"\u0412 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 Steam,\" \"\u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a Steam,\" \"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c Steam\") and the operational details about Steam Guard and account protection further solidify the identification of the brand. This consistency across multiple HTML elements confirms the brand of the website as Steam.",
+        "Url": "http://stemapoveredi.webservis.ru/"
+    },
+    {
+        "Folder Hash": "f61e9099cc7afaf4778f046c6726165a7486dbdb995d107d55ea939d8305ad0c",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the HTML script information provided does not yield a definitive brand identification. The given title \"M@1l L0g in\" implies a generic email login page, but does not specify a brand. The metadata description is not found, which limits the brand identification further. In absence of a logo's alt text and any clear identifiable brand markers in the footer or nav bar (both marked as \"Not Found\"), it's difficult to determine the webmail service provider. The header text \"Webmail\" and \"Signin,\" along with the message in the span text indicating non-existence of an account and suggesting a different entry, are typical of general email service login interfaces but are not specific to any brand. The favicon is absent, removing another potential clue. Moreover, no specific terms or unique brand identifiers are present in the text. The pattern and presentation of the page suggest a generic web email login interface possibly used by various entities under different brand names. Hence, without specific brand identifiers or unique traits tying the interface to a particular provider, we must conclude with a lack of sufficient data to name a brand confidently.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeiggrjvcib3o7azzm3elxosjohozbngmvha4mltzzwvmcc3qgkydye"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "003e80f57d7d3d91643b9e13360d311b000b5f860cbbe5f44a3220c8eb0b8562",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The primary evidence for identifying Microsoft as the brand comes from several key components in the provided HTML information. The title \"Sign in to your Office365 account\" explicitly mentions Office365, which is a well-known product of Microsoft, further supporting the association with the brand. Additionally, the logo_alt_text is given as \"Microsoft\", clearly indicating the logo present on the webpage is that of Microsoft\u2019s. This is a direct and explicit piece of evidence linking the webpage to Microsoft. Although the favicon URL provided is obscured with partial visibility, the visible segments include \"mi..cro---t\", which can be inferred as referring to Microsoft, fitting in with other indications. The footer text includes terms such as \"Terms of use\" and \"Privacy & cookies\" which, though common across many corporate websites, are consistent with Microsoft's standard website footer content, further suggesting the connection to Microsoft. Given these combined elements\u2014the title, the logo_alt_text, and interpretations from the favicon URL\u2014I am significantly confident in identifying Microsoft as the brand of the webpage. The absence of details from the headers, nav bar content, paragraphs, and span text does not detract significantly from this analysis given the strength of the existing indicators.",
+        "Url": "https://pub-82e1c7059b314723aaa0c45158d4ff86.r2.dev/test.html?email=mjacobs@jacobscapital.net"
+    },
+    {
+        "Folder Hash": "00805e3ef1840020f8abe333b63c0d6ab5f90dc45068b9be1c9b0b0ec036278e",
+        "Brand": "Zahlungsmethode\u00ae",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand is primarily based on repeated appearances of the term \"Zahlungsmethode\u00ae\" within the webpage's HTML script. This term is present in the headers text which suggests it is of significant importance to the webpage. The recurring use of \"Zahlungsmethode\u00ae\" in significant HTML nodes like headers reveals that it might be the brand or the service being offered on the page. Furthermore, Zahlungsmethode translates from German to \"payment method,\" implying that this term could potentially be the branding of a financial transaction tool or payment service, which aligns with the context provided by the other text on the page concerning credit card information entry and transaction security tips. The confidence in this identification is not absolute because \"Zahlungsmethode\u00ae\" could also theoretically just refer to something like a category or a feature and not strictly the brand. However, given its emphasized and repeated presence, it's reasonable to deduce it as the brand's name. Other HTML fields like title, meta description, favicon, and logo alt text are either 'Not Found' or provide system paths that do not help confirm identity, thereby reducing the confidence score slightly due to lack of corroborative branding elements.",
+        "Url": "https://dreefrotlabareternbjj-dee770.ingress-comporellon.ewp.live/wp-config/LoginServices/index.html"
+    },
+    {
+        "Folder Hash": "010d44b7a4dde54ff32f8d698e0763d63488c0d28b0d4e79ba0f858c3a4f6970",
+        "Brand": "Not Found",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The analysis of the HTML script information provided does not conclusively point to a specific, legitimate, or officially recognized brand. The title and header text, \u201cPUBG Mobile UC Hilesi 2024,\u201d suggest a reference to PUBG Mobile related content, specifically focusing on UC (in-game currency) hacks or cheats, which is often in violation of the game\u2019s official rules and not endorsed by the official PUBG Mobile brand. The webpage appears to be hosted on a blog (as evident from the favicon URL \"https://pubguchilesitv1.blogspot.com\"), and might be unaffiliated with the official PUBG Mobile game developed by Tencent. Hacking tools or websites leveraging the name of popular games often do not count as representations of the game's official brand but rather as potential scam or fan-made sites. The analysis of other HTML script elements such as metadata, footer text, and nav bar content did not provide additional information about the brand due to the values being either \"Not Found\" or irrelevant (such as navigation content not pointing to any brand identifiers). Thus, the lack of a clear, definite brand identity associated with official channels or recognized products results in an assessment of \"Not Found\" for the brand.",
+        "Url": "https://www.pubguchilesitv.com/"
+    },
+    {
+        "Folder Hash": "011e7497d97cdc710598f5c0c851b6933249effc6c4440633c59ad97c1ea3e58",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The key determinant in the identification of the brand for this webpage comes from the favicon URL, which explicitly points to \"https://www.weebly.com/favicon.ico\". This URL strongly suggests that the webpage is associated with Weebly, a popular web-hosting service that allows users to create their free website or online store using drag-and-drop tools. Since the favicon is a typical branding element, its URL containing 'weebly.com' is a significant indicator of the brand. Additionally, the headers text mentioning typical online store components like \"Shopping Cart\" and \"SIGN IN\", aligns with what might be expected from a Weebly-hosted e-commerce or personal website. However, the confidence is not a full 10 due to the lack of other defining HTML attributes like logo_alt_text or footer_text, which are typically stronger branding evidences but were listed as \"Not Found\". The possibility that Weebly is just the platform rather than the brand itself slightly mitigates the confidence level.",
+        "Url": "https://mail-108167.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "016b180fc4a8d7c88785365bbff8abd1bf48ea5025db19f3f9ed27a09b57291c",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The conclusive identification of the brand \"DHL\" is based on several key pieces of information found within the HTML script provided. Significantly, the footer text displays a copyright statement \"2022 \u00a9 Deutsche Post AG - All rights reserved\" which firmly associates the webpage with Deutsche Post AG, the parent company of DHL. Additionally, the themes of logistics and international shipping inherent in the webpage services like \"Home,\" \"Ship,\" \"Track,\" and the detailed list of countries accessible for services, align with DHL's global logistics operations. Though the favicon URL contained a different domain, the description and functionality listed across header and footer areas strongly corroborate that the services are those provided by DHL, known for its extensive international shipping options. This analysis consolidates the identification as belonging to DHL without ambiguity from any other competing brand identities evident in the HTML script provided.",
+        "Url": "https://socialmediaconsultant.ae/public/6JUWt0UnBE1zNXqxnmBiG7a9Pmr9ocOD"
+    },
+    {
+        "Folder Hash": "021d57265effd0a6e8b6d89031dde447daf9eef1f1f21376311ae0e1eb35d484",
+        "Brand": "Universit\u00e4t Freiburg",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The evidence leading to the identification of the brand as Universit\u00e4t Freiburg comes primarily from the text contained in the `span_text` field. This explicit mention of \"Universit\u00e4t Freiburg\" is a strong indicator of the brand, especially given that span elements are typically used for inline elements and often contain crucial textual content. The lack of metadata, favicon, logo alt text, footer text, and nav bar content limits the amount of information available for analysis. However, the inclusion of the university's name directly within the `span_text` supports the idea that this webpage is related to, or an official part of, Universit\u00e4t Freiburg. The headers and paragraphs explaining the login process for users with a Uni-Account reinforce the concept that this is an institutional login portal, specifically for something affiliated with a university, which is consistent with the mention of Universit\u00e4t Freiburg. Moreover, the description in the `paragraphs_text` seems to fit a typical university managed single sign-on webpage context, whereby after login, users gain access to various applications, underlining its connection to an educational institution such as Universit\u00e4t Freiburg. Hence, despite the absence of some typical branding elements, the information provided in the `span_text` sufficiently identifies the brand.",
+        "Url": "https://www.boundcode.com/i/uni-freiburg.de/"
+    },
+    {
+        "Folder Hash": "02d4ee60440aed450492ef2e223b1787dd36cb22a74efb5ceee908d4d95998e1",
+        "Brand": "Alibaba",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as \"Alibaba\" is significantly evident from multiple aspects of the provided HTML data. The webpage title \"Alibaba Manufacturer Directory - Suppliers, Manufacturers, Exporters & Importers\" directly mentions \"Alibaba,\" clearly signaling it as the brand. The favicon URL includes \"//is.alicdn.com/favicon.ico,\" which typically stands for Alibaba CDN (Content Delivery Network), further pointing to Alibaba. The footer text contains several mentions of Alibaba-related services and subsidiaries such as \"Alibaba Group,\" \"Alibaba.com,\" \"Alibaba Cloud,\" and other Alibaba-affiliated companies like \"Taobao Marketplace,\" \"Tmall.com,\" \"AliExpress,\" and \"Alipay,\" extensively linking back to Alibaba. All these details are strongly intertwined with Alibaba\u2019s business model, including their international marketplaces and service offerings, reinforcing that the webpage is part of the Alibaba's ecosystem. Moreover, the copyright line \"\u00a9 1999-2021 Alibaba.com. All rights reserved\" in the footer text, unmistakably asserts Alibaba's ownership and operation years, solidifying the identification of the Alibaba brand with absolute certainty.",
+        "Url": "https://syndicalisme.net/wp-includes/w/alibaba/"
+    },
+    {
+        "Folder Hash": "03032749b96251685a83cac2a9af2d839cff7a2b05bfb97ef57cadabd61b3626",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The key determinant for identifying the brand of the webpage in this instance is the information provided in the title and headers_text. The title of the webpage clearly states \"Netflix | India,\" which directly mentions Netflix and specifies the regional focus for India. This is a strong indicator of the brand itself as it is explicitly named. Additionally, the header_text includes a description typically associated with Netflix, which is \"Unlimited movies, TV shows and more.\" This phrase is a hallmark of Netflix's service offerings, reinforcing the identification of Netflix as the brand. The paragraphs_text further supports this association through typical Netflix phrases like \"Watch anywhere. Cancel anytime\" and mentions a prompt to enter an email to create or restart membership, suitable to Netflix\u2019s subscription model. Despite the absence of metadata, favicon, logo text, footer text, nav bar content, or span text in the analysis, the explicit mention of 'Netflix' in crucial components like the title and the associational clues in the headers make it significantly confident to identify the brand as Netflix.",
+        "Url": "https://yugal2003.github.io/Assignment-1---Netflix/"
+    },
+    {
+        "Folder Hash": "030b253ba6ba80d2d33f414fb8532079a469486660a0383490a182e8ab65eb06",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the provided HTML information points decisively to MetaMask as the brand of the webpage. The title of the webpage is explicitly named \"MetaMask,\" which is a strong initial indicator of the brand's identity. Furthermore, the headers and paragraphs text contains multiple mentions and features typical of the MetaMask platform. Phrases such as \"Secret Recovery Phrase,\" which is specific to cryptocurrency wallets, and direct references to \u201cMetaMask support\u201d reaffirm the association with MetaMask. These text contents clearly indicate functionalities and features relating to the MetaMask wallet, such as security alerts, password restoration, and updates, which are common in software that manages cryptocurrencies. Additionally, the repeated mention of \"Ethereum Mainnet\" in the span text is highly pertinent, as MetaMask is a well-known Ethereum wallet. The specific version updates and bug fixes discussions align with the type of content one would expect from a software or app-centered service like MetaMask. These evidence collectively, without any contradicting information, confidently point to MetaMask as the correct brand for this webpage.",
+        "Url": "https://coirnmarketcap.com/wallet/?id=metamask"
+    },
+    {
+        "Folder Hash": "0955f12ae02b127e1b54b29155769ecf423ac05bc52fb84d6232e8f356cd8231",
+        "Brand": "Aave",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as \"Aave\" is primarily based on the title of the webpage. The title, \"Aave - Open Source Liquidity Protocol\", indicates that the webpage is associated with the Aave protocol, which is known for being an open-source non-custodial liquidity protocol allowing users to participate in lending and borrowing with variable or stable interest rates, as described in the meta_description provided. While other sections like logo_alt_text and footer_text are marked as \"Not Found\", and thus not usable for analysis, the content within the meta_description supports and elaborates on the title by explaining the functionalities of the Aave platform. Moreover, terms found in the headers_text, such as Dashboard, Markets, Stake, Governance, and references to cryptocurrency activities like connecting a wallet and interactions with Ethereum, align with services typically offered by decentralized finance protocols like Aave. Although nav_bar_content is missing, there is nothing contradictory in the paragraphs_text and span_text, with mentions of typical protocol functionalities, further aligning with the Aave brand features. The strong congruence between the title, meta_description, and headers_text augments the confidence in identifying Aave as the webpage's brand.",
+        "Url": "https://aave.app-web3.com.co/"
+    },
+    {
+        "Folder Hash": "14516ca57b3f04f2cf0de8b79afa686c6a7db04ce1486d64503a590763d2b381",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand as AT&T is primarily rooted in the text content provided within the header section of the HTML information. It specifically mentions \"AT&T Mail\" alongside \"Currently.com,\" which is known to be linked to AT&T as a portal for AT&T email and news services. The title of the webpage, \"MY SITE - Login,\" is generic and does not provide a definitive brand indication by itself. However, the specific mention of a service (\"AT&T Mail\") directly affiliated with the AT&T brand in the headers text plays a crucial role in this identification. The absence of other typically revealing elements such as the logo, favicon, meta description, and nav bar content (all listed as \"Not Found\") means reliance is primarily on the text content within the HTML, specifically the headers and footer. The footer text does not contribute additional brand-specific information as it might typically. The consistent mention of an AT&T-specific service in a significant html element (header), which is typically designed to catch user attention and convey critical information, supports a confident identification of AT&T as the brand. However, the lack of multiple corroborating sources of brand information (like logos or a clear brand-specific title) slightly limits the confidence level.",
+        "Url": "https://5567879798.weebly.com/"
+    },
+    {
+        "Folder Hash": "50fe90344030b5bd8024772c7e7f81d53ab41f035fd2f5c9fff0a97443fbaf23",
+        "Brand": "Google",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The analysis of the provided HTML information clearly indicates the webpage is associated with Google. The title \"Sign in - Google Accounts\" explicitly mentions \"Google Accounts\" which directly aligns with Google's branding for its account management services. Additionally, the favicon URL is hosted under \"https://www.google.com/favicon.ico\", which is the domain used by Google, reaffirming the connection to the Google brand. The text within the footer includes multiple language options, a typical feature seen on global services like those offered by Google, supporting multilingual user access. Terms such as \"Help,\" \"Privacy,\" and \"Terms\" in the footer are also related to standard legal and support links provided in Google's services. Furthermore, the metadata calls out the ability to sign in with various email providers for using Google Photos, directly linking this function to a known Google service, thus reinforcing the identity as Google\u2019s sign-in page. The only element reducing confidence slightly is the absence of a logo due to \"Not Found\" status and some encoded characters in the footer, however, these do not substantially detract from the overall evidence pointing towards Google.",
+        "Url": "http://nixolindumentaria.com/kkdv5yI6H6AVxLWFmZxl/d2Ovms1MCtLj74XqzoeOucdrREd29hTrHqFvZtzBdP4blOPJB1m86fP/"
+    },
+    {
+        "Folder Hash": "6c35b11c0d7feff5f0640ce93a5d2f00ad47665f405dd4a76d15f1e6eda7bfa7",
+        "Brand": "Serasa Experian",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis and identification of the brand are primarily based on the headers and footer text provided in the HTML information. The repeated mentioning of \"Serasa\" and \"Serasa Experian\" in the header section under the text \"Entrar na Serasa\" and detailed addresses listed in the footer sections indicates that the webpage is associated with Serasa Experian. Notably, the footer contains several addresses under the name \"Serasa Experian,\" each followed by details like location, suite number, and a unique CNPJ number (a corporate tax identification number in Brazil), pointing to different Serasa Experian offices. Additionally, the presence of related terms such as \"Consulte as ofertas dispon\u00edveis para voc\u00ea!\" (Check the offers available for you!) suggests services that would align with a financial or credit score company like Serasa Experian. This use of repetitive, official, and specific business-related content across the footer elaborately points to Serasa Experian and thereby allows a high level of confidence in identifying the brand despite the absence of other typical webpage elements like meta description, favicon, and logo.",
+        "Url": "https://arrastaolimpanome.online/"
+    },
+    {
+        "Folder Hash": "804e1eda5b99ca5a7eab156124b8429e736558b903c7fcb988d3537130c1fd94",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The title provided from the HTML information, \"Sign in to your Microsoft account\", directly mentions \"Microsoft,\" indicating that the webpage is related to Microsoft. This title is typically used on login pages that are specific to Microsoft services such as Outlook, Xbox, or Microsoft 365. Additionally, common phrases in the paragraph text such as \"Sign in with Windows Hello or a security key\" reference specific authentication methods promoted by Microsoft. Windows Hello is a biometric-based technology developed by Microsoft that supports facial recognition or fingerprint recognition to sign into Windows devices, further suggesting a strong association with Microsoft. The absence of any other brand indicators and the specific references to Microsoft-related features reinforce the conclusion that this webpage is associated with Microsoft. Therefore, I am confident that the brand is Microsoft based on the information provided.",
+        "Url": "https://microsoftsupport.be/fr/demandez/?email=3mail@b.c&secret=CD83a3pTxgh5pujSMIwZjNIAJk0uOa8oXDyi"
+    },
+    {
+        "Folder Hash": "b81e83eb5a6015fd92e5fd9ede8df618fd9f5a95969ccb28dbfff21a4b16fceb",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand identification primarily hinges on the span text that contains distinct references pointing to Microsoft. The reference to \"Verify Your Identity\" aligns with a typical security or login verification process, a common feature for services handling sensitive documents, like Microsoft's OneDrive or Outlook. Furthermore, the text mentions needing to enter \"specific professional email credentials,\" which is a practice frequently employed in Microsoft services that are linked to professional or corporate accounts. Critically, the copyright notation \"\u00a9 2023 Microsoft\" conclusively ties the content to Microsoft, reinforcing the brand identification. The exact process described in the span seems reflective of account verification or file access procedures that Microsoft would use for document sharing or verification through its services. The lack of other identifiable HTML elements like title, meta description, and logos does not detract from this analysis since the textual content in the span provides clear enough evidence pointing to Microsoft's branding within a specific context of use likely linked to document handling or email verification. The absence of contradicting brand information from other fields further bolsters confidence in Microsoft as the brand in question.",
+        "Url": "http://www.zksfechaduras.com.br/hjad%20naduyhdamdayajmadsnyad/dcfo/"
+    },
+    {
+        "Folder Hash": "f58f2809ed7aaf27e59d90eeb5077871133d1e49663b398af662a0290aeeddc3",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand for this webpage is identified predominantly from the title and header text components of the HTML script. The title of the webpage states \"Login to Customer Portals and Tools | DHL |,\" where \"DHL\" is explicitly mentioned, directly suggesting that the webpage is related to DHL's customer services. Additionally, the headers text includes multiple references such as \"DHL TRACKING\" and \"This shipment is handled by: DHL Parcel,\" which further solidifies the association with DHL, a well-known global shipping and logistics company. These elements are crucial identifiers as they explicitly mention the brand name and relate to services typically offered by DHL. Despite other HTML factors like the meta description, logo alt text, footer text, and nav bar content being listed as \"Not Found,\" the clear references found in the title and headers provide substantial evidence to confidently identify the webpage as belonging to DHL. The description of parcel tracking and shipment further aligns with DHL\u2019s business domain, adding another layer of confirmation.",
+        "Url": "https://whoyster-adelehool079770.codeanyapp.com/wp-content/uploads/NETDH7748/"
+    }
+]

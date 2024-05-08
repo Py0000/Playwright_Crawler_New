@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "0006a7832d69a555f9b71e9c2fb249cb7fde32d8220f57e0db484000c989ca34",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The favicon URL contains a specific domain segment \"fbcdn.net\" which is known to be associated with Facebook, given fbcdn.net is a content delivery network primarily used by Facebook. The favicon's URL structure, including \"rsrc.php,\" is typical of resource paths used by Facebook. Additionally, the context described in the spans and paragraphs follow processes typical of Facebook's account review and community standards protocols, including terminology like \"Community Standards\" which is uniquely associated with Facebook. The account recovery or review process detailed reflects the type of support text an organization like Facebook, which manages large user community interactions and policy enforcement, would provide. The overall combination of the favicon sourcing and the specific process described in the provided text strongly suggests the brand is Facebook. This interpretation is underscored by the fact that no contradictory information is apparent in the provided data.",
+        "Url": "http://page-warring-327275.8698523.com/"
+    },
+    {
+        "Folder Hash": "000b7fa009aa8d61f61c2e2df4c959fd948b41b30d3d351b4c1be2f269e7f44c",
+        "Brand": "SwissPass",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification as SwissPass is strongly supported by multiple references within the provided HTML information. The webpage title itself, \"Anmeldung | SwissPass,\" directly mentions SwissPass, indicating it as the primary subject or service of the site. Additionally, the header text contains repeated references to logging in with SwissPass, and the text \"Melden Sie sich mit SwissPass an\" translates to \"Sign in with SwissPass,\" further affirming the focus on SwissPass services. These elements suggest that the primary intent of the webpage is for user interaction regarding SwissPass accounts. Although other brands like SwissID and SBB.ch are mentioned, the dominant and central theme remains around SwissPass, specifically directed at user authentication and login processes. The absence of significant mentions or focus on any other brand, and the repeated, specific focus on SwissPass across various components like navigational calls to action and explanatory text related to account linking issues with SwissID, point conclusively towards SwissPass as the brand of the webpage.",
+        "Url": "https://khanhills.mn/DONN/login.php"
+    },
+    {
+        "Folder Hash": "00601e6448d6b72e8c1c2bbb12bb2e3ccdd1297a8cb5c155795c78eb84912bf9",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The confidence in identifying the brand as Microsoft stems principally from the title mentioning 'hotmail', a known email service operated by Microsoft, and 'live.com', which is another Microsoft domain. The navigation bar also mentions \"live.com\", reinforcing this connection to Microsoft. Moreover, the header text includes \"Sign in to your Microsoft Account,\" which explicitly mentions Microsoft, thus indicating a strong alignment with the Microsoft brand. The mention of a 'Shopping Cart' could suggest a Microsoft web service that involves a transaction, possibly a Microsoft store or a related e-commerce platform. Despite the favicon linking to 'weebly.com', the remainder of the evidence points to Microsoft. The footer and logo fields having \"Not Found\" simply means those were unavailable, not contradicting the prominent signals indicating Microsoft as the brand of the webpage. Hence, excluding the favicon anomaly, the majority of key information correlates closely with Microsoft.",
+        "Url": "https://hotmail-109377.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "006f18ca0218cad05642ad1cd7ac6cd80c62a4e9d6c748791d1047592bd1a4ff",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand as Facebook is strongly evidenced by several key elements from the provided HTML information. Firstly, the title of the webpage clearly includes \"Facebook Help Center,\" which is a direct mention of the Facebook brand and is associated explicitly with its online support infrastructure. Furthermore, the header text provides additional confirmation; it references \"Facebook | Turn on Facebook Protect to unlock your account,\" not only reiterating the brand name but also discussing Facebook Protect, a known security feature specific to Facebook. Additionally, the paragraphs and span texts focus on account security and steps to unlock a Facebook account, reinforcing the context that this webpage is part of Facebook's ecosystem, aimed at user account security. The favicon, although just noted by a cryptic path, typically represents a site's icon displayed in browser tabs, but without seeing it, we base the brand identification primarily on textual evidence. The accumulated mentions and context strongly point to Facebook as the brand, despite missing data in fields like meta_description, logo_alt_text, footer_text, and nav_bar_content. Hence, the confidence level in identifying Facebook as the brand is notably high.",
+        "Url": "http://liuk7.gotrailriding.co.uk/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "0161e98c213f472efde7597a68110c3e436532fbccbb96c8489bde2c0ff45f44",
+        "Brand": "AOL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand AOL is supported by multiple pieces of information found within the provided HTML script details. Firstly, the title \"AOL\" directly suggests the brand name. Furthermore, the \"logo_alt_text\" field also explicitly states \"Aol\", confirming that the logo used on the webpage is associated with the AOL brand. These pieces are strong indicators and quite straightforward. Additionally, the favicon data, although encoded in base64, likely represents the AOL logo or a related symbol due to its inclusion along with other AOL-branded elements. The metadata provided through \"paragraphs_text\" and \"span_text\" includes typical services or features associated with AOL, such as account creation and user support (e.g., \"Forgot username?\"), which align with typical offerings from an AOL login or account management page. The absence of contrasting or conflicting brand information in the other fields (e.g., footer_text, headers_text, nav_bar_content being \"Not Found\") further supports this identification without ambiguity from mixed brand messaging. Hence, the overall evidence strongly points to AOL as the brand for the webpage.",
+        "Url": "http://nexo-mail-verify.com/app/aol/email.php"
+    },
+    {
+        "Folder Hash": "01b05d8c4558b4cb848a8dac7e92f6c9e5e9e4b14173b4c1ab774dab5d50957d",
+        "Brand": "WhatsApp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as WhatsApp is strongly supported by the title of the webpage, which explicitly states \"WhatsApp.\" This is the most direct and specific piece of evidence, as the title usually carries the name of the website or brand, particularly for service-oriented sites. Other HTML information provided, such as the meta_description, logo_alt_text, footer_text, headers_text, and paragraphs_text state \"Not Found,\" which typically means they are either not utilized on the site, or they have no identifiable information regarding the brand itself. The span_text, despite being in Chinese, suggests navigational instructions typical for a messaging or service platform; however, it lacks direct references to confirm the brand. Nevertheless, the clearest indicator - the webpage's title - directly mentions \"WhatsApp,\" making it a strong and trustworthy source to conclude that the brand is indeed WhatsApp. The favicon also generally represents the website's logo in the browser tab, supporting the presence of brand identity elements on the page.",
+        "Url": "http://whtas.whytp.shop/"
+    },
+    {
+        "Folder Hash": "01eb36023862996e41da8cc55fc9771e6ddb8d64a976d1ff60a2cff265537d75",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence that suggests the brand of the webpage is Microsoft stems from multiple components of the HTML information provided. The title of the webpage clearly indicates \"Microsoft | Login,\" which directly references the Microsoft brand, typically used for their user login pages. Moreover, the footer text, which includes \"\u00a92022 Microsoft\" coupled with a privacy statement, strengthens the association with Microsoft, as footer typically contains the company's copyright information and reflects the brand ownership of the webpage.",
+        "Url": "https://pub-c4834f8675ff4cb0b89dd44bf195a608.r2.dev/passwordverification.html#salinda.nowell@ubs.com"
+    },
+    {
+        "Folder Hash": "01efc23097273978f0e3497cd57fef0f60e7d828a6c05dbb9ce35529dfa57300",
+        "Brand": "Correios",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The primary evidence for identifying the brand as \"Correios\" comes from the title of the webpage, which is explicitly named \"Correios.\" In the absence of other usual indicators like meta description, logo alt text, footer text, headers, nav bar content, paragraphs, and span text, which are all noted as \"Not Found,\" the title remains the sole piece of information available for brand identification. The title of a webpage typically reflects the brand or entity it represents. This is especially significant for businesses where the brand name prominently features in the webpage\u2019s title to reinforce brand identity and aid in recognition and SEO. Therefore, even lacking other common identifiers, the presence of \"Correios\" in the title strongly suggests that the webpage belongs to or is directly related to Correios, a well-known postal service in Brazil. Given this, a high degree of confidence is placed on this analysis, albeit not absolute, due to the absence of supportive corroborating data from other standard webpage elements.",
+        "Url": "https://www.ufastadistancia.ar/web/br/corres/POHHTZRZBSBB/index.php?FGDD=1#HDHKJDJDSSJDSJKJDSJDSDJJDSHYKJHGFG"
+    },
+    {
+        "Folder Hash": "023ed5eb261876e7e036ba4e905882dc4304aa864005e6b159433226925f4f51",
+        "Brand": "Xplornet",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand \"Xplornet\" primarily hinges on the content observed in the headers text \"XPLORNET WEBMAIL\". Webmail services are typically branded closely with the company name offering internet or communication services, suggesting strongly that the webpage is associated with Xplornet, known for providing internet services. Although other parts of the HTML information, such as the title \"Home | Mail\", and the paragraphs text hint at generic shopping or email functionalities, these elements are not distinct enough to decisively indicate a specific brand. The favicon link mentioning \"weebly.com\" introduces a potential confusion as it could imply a Weebly-built website but does not carry strong weight for brand identification since many websites use Weebly as a platform yet retain distinct branding. The lack of specific logo or footer text and the non-distinct terms in the meta description or nav bar content do not contribute decisively to identifying the brand, further bolstering reliance on the descriptive headers text for brand identification. The presence of \"XPLORNET WEBMAIL\" in large or prominent text usually indicates the service provider\u2019s name, enhancing confidence that the webpage belongs to Xplornet despite the mixture of generic elements elsewhere in the HTML script.",
+        "Url": "https://mail-101067.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "02637426f66bee3625982f859b733cdd0989b9f6e0daaf2f3b6cb743a719bed3",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The primary evidence leading to the identification of the brand as \"Weebly\" comes from the analysis of the favicon link provided. The favicon of the website is hosted at \"https://www.weebly.com/favicon.ico\", which implies the direct association of the web page with Weebly.com. Weebly is known as a platform that allows users to create their e-commerce or personal websites. While the title \"Home | Inc\" and the presence of headers such as \"Shopping Cart\" or \"Sign in to mailbox\" might suggest a generic online store or service, the link for the favicon specifically pointing to Weebly.com provides a strong hint that the page is hosted or created with Weebly's platform. The absence of specific footer text, logo alt text, and a generic navigation bar and headers text do not contradict this hypothesis, as they are common in templated or user-created websites on platforms like Weebly. Furthermore, the meta_description being blank and generic titles and headers are consistent with auto-generated or user-designed web pages often found on website-building platforms. Thus, while a bit of ambiguity exists due to the generic nature of some page elements, the favicon URL is critical in pointing to Weebly as the hosting or website-building platform in use.",
+        "Url": "https://inc-gers.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "571c629dd6777f947e0f64c0ba9e3af3fd1119b30d936695fa40b8863d91a270",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The analysis of the provided HTML information reveals no distinct clues for identifying the webpage's brand. The title \"Form\" and the metadata description \"Recovery Form\" are too generic and lack specificity towards a particular brand. The other potential indicators for brand identification such as favicon, logo_alt_text, and footer_text are absent or marked as \"Not Found.\" The headers_text references an \"Appeal Request,\" which also fails to indicate a specific brand. The nav_bar_content repeatedly displays \"HELLO WORLD,\" which is a common placeholder text and does not provide any brand information. Paragraphs and span texts include generic contents such as \"Terms and Conditions,\" typically seen in many forms across various webpages. With the absence of any tangible brand-specific identifiers or unique brand-related content in crucial areas of the HTML script, it is impossible to determine the brand of this webpage. Hence, I conclude with no confidence in brand identification from the given data.",
+        "Url": "https://relief-data-appeal-349805e.surge.sh/"
+    },
+    {
+        "Folder Hash": "64524e2ef45f4644cc2994e2ce15c20f7d0a348f4c8c0aac5066fbb35d6d471b",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.85",
+        "Supporting Evidence": "The identification of the brand as Microsoft is strongly supported by several indicators found within the HTML information of the webpage. Firstly, the title of the webpage, \"Sign in to your Office365 account,\" specifically mentions Office365, which is a well-known product suite offered by Microsoft. Additionally, the favicon URL includes a fragment that suggests a connection to Microsoft (evidenced by 'mi..cro---t'). Although the full URL is not completely visible, the recognizable favicon associated with Microsoft ties back to their corporate branding.",
+        "Url": "https://pub-73ee129d9ec943f785408564adcaf985.r2.dev/cryn.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "9e204f718f150aabbaebc0737c36cfec98cfca139a2cb964c353a388098f8ec0",
+        "Brand": "Roundcube Webmail",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"Roundcube Webmail\" as the brand associated with this webpage is primarily based on the consistent use of the name \"Roundcube Webmail\" across several key HTML indicators. First, the title of the webpage explicitly mentions \"Roundcube Webmail :: Welcome to Roundcube Webmail,\" which strongly suggests the brand identity. This assumption is further reinforced by the headers text, which includes \"Roundcube Webmail Login,\" indicating that the primary functionality of the webpage revolves around a webmail service provided by Roundcube. Although the logo_alt_text, footer_text, and paragraphs_text provide little to no information (and meta_description, favicon, nav_bar_content is not available or not found), the repeated mention of \"Roundcube Webmail\" in significant areas like the title and headers makes it highly probable that the brand is indeed Roundcube Webmail. The favicon path also indirectly supports this, containing the directory name \"skins/larry,\" which could reference a specific skin or layout style unique to Roundcube's interface customization options. Hence, the evidence strongly points to Roundcube Webmail as the brand, although a perfect score is not warranted without full visibility into all fields.",
+        "Url": "https://freightoinx0006.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "a80c294225b3057768f3465e3466226c69a790eb9c7ac88808e19370286e7f8e",
+        "Brand": "Microsoft Office365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The evidence from the HTML information strongly indicates that the brand is Microsoft Office365. The title \"Sign in to your Office365 account\" directly mentions Office365, which is a well-known suite of productivity software created and distributed by Microsoft. This suite includes applications such as Word, Excel, PowerPoint, and more. The logo_alt_text contains the word \"Microsoft,\" further supporting the association with the Microsoft brand. This alt text for the logo typically provides a textual alternative for the image logo, which helps in identifying the brand associated with the webpage. Furthermore, the favicon link contains the string \"mi..cro---t\" (although it is partially obfuscated), it suggests a connection to Microsoft. The footer text includes generic terms such as \"Terms of use\" and \"Privacy & cookies\" which are typical for most corporate websites, but in this context, they do not contradict the identification of the Microsoft Office365 brand. The absence of other contrasting brand information in the provided HTML elements like the headers text, nav bar content, paragraphs text, and span text (which simply states \"Keep me signed in\", a common feature in login pages) aligns with the idea of a sign-in page for a service like Office365. Therefore, the combination of the title, logo alt text, and partial favicon URL confidently points to Microsoft Office365 as the brand of the webpage.",
+        "Url": "https://pub-d351cc1193114bc695708e600762f48a.r2.dev/tex.htm"
+    },
+    {
+        "Folder Hash": "b24b5100cfe6dd7c6eec1419abef79fb2b74fb8a52b80747bb91544884bd450a",
+        "Brand": "Earth Core",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The key information that leads to the identification of \"Earth Core\" as the brand is the favicon URL: `https://webmail.earth-core.jp/skins/default/images/favicon.ico`. The domain within this URL, \"earth-core.jp,\" implies that the brand connected to the webmail service is likely \"Earth Core\". This is further supported by the usage of a specific sub-domain (\"webmail\") directly associated with the primary domain, which often suggests the service (webmail in this instance) is provided by the brand mentioned in the top-level domain (TLD). There was no explicit logo or footer information available that mentioned another brand, and other fields like meta_description, logo_alt_text, headers_text, nav_bar_content, and span_text were either \"Not Found\" or did not provide additional brand-related insights. The mention of \u201cwebmail\u201d in the title \"Welcome to Webmail,\u201d though generic, aligns with the use of a webmail sub-domain in the favicon URL. The rest of the information, including the warning about JavaScript necessity and the login page indication in the paragraph text also supports the context of a webmail service but not directly the brand. The absence of direct contradicting evidence and the clear mention in the domain name contribute to a high confidence in identifying the brand as Earth Core, albeit slightly reduced because the name isn't directly cited anywhere else explicitly in the provided HTML contents.",
+        "Url": "http://gottagopotties.mycustomerconnect.com/app/Email/phpmail/extras/co.ne.jp/webmail.php"
+    },
+    {
+        "Folder Hash": "b7a14dcd66c2d04a2ed97bd5e3cf1b358321d9a61fb6c77ef109dde267e76675",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage title \"\u90ae\u4ef6\u670d\u52a1\u5668\u9a8c\u8bc1\u7a0b\u5e8f\" translates to \"Mail Server Verification Program\" in English, which does not specify any distinct brand identity but rather describes a generic service or functionality related to email systems. The given favicon link, './support/favicon.jpg', lacks distinctive branding information as it only indicates a location within the website's directory, without any specificity regarding a brand. The absence of meta descriptions, logo alt text, footer text, header text, nav bar content, paragraphs, and span text in the HTML script provides no further clues about the brand identity. Thus, without any specific mentions of a company name, logo, slogan, or any identifiable service belonging to a particular brand, it is impossible to accurately determine the brand associated with this webpage based solely on the provided HTML information. Therefore, the brand remains unidentified, leading to a confidence score of 0.00 in reflecting total uncertainty in brand identification.",
+        "Url": "http://pansionat-v-troicke.ru/cn/VerifyCN/"
+    },
+    {
+        "Folder Hash": "b86e24505f6a9fe4c1eb5e26425891551454a20bc715ec5f013a199554ec43d4",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The analysis of the HTML script provided reveals insufficient distinctive information to accurately identify a specific brand. The \"headers_text\" contains \"MCG\" which is ambiguous and does not link clearly to a well-known brand. The remaining parts such as the \"footer_text,\" \"favicon,\" \"logo_alt_text,\" and \"meta_description\" are absent ('Not Found'), removing critical branding clues typically provided by these elements. Although \"Banxa,\" \"Simplex,\" and \"Ramp\" are mentioned, these are names of cryptocurrency payment gateways rather than the brand of the webpage itself, indicated by their placement under \"Buy Crypto.\" This suggests multiple service offerings rather than ownership or brand affiliation. The inclusion of multiple languages and terms like \"Quick Margin,\" \"Spot,\" and \"Automatic identification equipment\" widens the context of the website's functionality without pinpointing a specific brand. Therefore, based on the given evidence, an accurate brand identification is not feasible.",
+        "Url": "https://mcg1.vip/Login/index.html"
+    },
+    {
+        "Folder Hash": "c074bca11260d1842a201d87dd675a8ae496bd2c86c8f8fbffaf3913e1607936",
+        "Brand": "NAVER",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as NAVER is highly confident due to multiple clear references in the HTML information provided. Firstly, the title of the webpage contains \"\ub124\uc774\ubc84 : \ub85c\uadf8\uc778\", where \"\ub124\uc774\ubc84\" translates to NAVER in English. Additionally, the favicon uses a domain that references \u2018net\u2019, common in NAVER URLs, supporting the idea that the favicon is from NAVER's servers. The footer text explicitly shows \"\ub124\uc774\ubc84\" and ends with \"Copyright \u00a9 NAVER Corp. All Rights Reserved\", reinforcing the brand identity as NAVER. Moreover, the headers text includes \"NAVER\" alongside options for different language settings, which aligns with NAVER\u2019s usual multi-language support for its global user base. Furthermore, elements of the span text consistently mention \"\ub124\uc774\ubc84\" repeatedly, confirming the association with the NAVER brand. The multiple instances across the title, footer, headers, and span text firmly establish the webpage as being directly connected to and operated by NAVER.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafkreigthv56vhof4ua6vvxzrcftujsvetxxoi2dkofxrhyowxfsgnv63i"
+    },
+    {
+        "Folder Hash": "e4a2a39be2550bf2777ddda45564eafa79aa039c0c4b730782fc1a0c7058f703",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The HTML information provided is very limited and lacks any specific brand identifiers. The only content given is \"Inicio\" in the title, which translates to \"Home\" in English. This is a generic term and does not indicate any brand name. All other fields such as meta descriptions, favicon, logo alternative text, footer text, header text, navbar content, paragraphs text, and span text are labeled as \"Not Found\". With no specific brand references or identifiable markers in the available data, it's not possible to ascertain any brand identity from the given HTML content. Therefore, I am unable to identify a brand based on the details provided in this scenario.",
+        "Url": "http://26validate5q8.royalwebhosting.net/"
+    }
+]

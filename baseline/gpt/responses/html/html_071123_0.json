@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "059f3a7145a116c7b3739037f55aaba024e23055d1cb700fa3eabcdbe711beaf",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "1.00",
+        "Supporting Evidence": "The provided HTML information lacks any significant details that can be associated with a distinct brand. The title field, which can often indicate the brand, is missing from the data. The favicon is also not indicative of any particular brand, as it is a base64 encoded image which cannot be determined without viewing or additional context. The logo_alt_text, footer_text, headers_text, and nav_bar_content fields are either missing (\"Not Found\") or do not provide any identifiable brand information. The only textual content available is \"MAIL CENTER\" mentioned in paragraphs_text and span_text, which is too generic and broadly applicable to various contexts. This term does not suggest a unique brand identity and could refer to numerous unrelated services or centers in different organizations or locations. Thus, it is not possible to conclusively determine any specific brand with the existing information.",
+        "Url": "https://adsincoinciousin.web.app/?err=363-cc04b44-ib4co5-D6i4obcii44ib46bi4-4bbi-Xb5ii-D5-400-2A-74a66cc669A0e4b03a-b43DD0ec6eeD65ibe542406c4o958ae5e-4bbc54-67o03b6i-ai57c-3i0c52bc52664iXi2o5i65c4-&dispatch=3A76A3640BaA8b9CA283Bb2cB8944b7b4&id=CCC6cBaC5100C72266b1946C051534"
+    },
+    {
+        "Folder Hash": "66076adce603f73ff4a40125d2a02251b918a296fcd288464c64197bcc11962f",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand relies solely on the title of the webpage, which is \"Telegram Messenger.\" The title often serves as a clear indicator of the brand associated with a webpage, especially when other information typically containing brand identifiers (such as meta descriptions, favicon, logos, footers, headers, or navigation content) is unavailable or marked as \"Not Found.\" Other fields which could potentially provide additional direct or contextual brand clues are noted as \"Not Found,\" leaving only the title for analysis. Given Telegram is a recognized global messaging service and the title explicitly mentions \"Telegram Messenger,\" it's reasonable to ascertain that this webpage is related to Telegram. The confidence in the identification is slightly below maximum due to the absence of any corroborating elements from usual areas like logos or meta descriptions that reinforce the webpage's association with the brand. However, the explicit mention in the title provides a substantial basis for the conclusion.",
+        "Url": "https://telegraawm.com/"
+    },
+    {
+        "Folder Hash": "7d92f155796cdef849b1ebd3db2fc89712e47ab80ff68ee9f661b0c21a7550d1",
+        "Brand": "bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary determining factor is the consistent appearance of \"bet365\" across multiple fields in the HTML information. The title of the webpage is \"bet365\", which is a strong initial indicator of the brand's identity. Moreover, the paragraph text contains repeated references to \"bet365,\" which supports the identification of the webpage's brand. This includes specific mentions about services and copyrights linked to bet365, dating back to 2001-2023 which corresponds with the known operational timeline of bet365. Furthermore, the paragraph text discusses aspects of service tied strictly to bet365, such as their cookie policy and regulatory information that corresponds with known operations of bet365 in Gibraltar which is home to many gaming and betting platforms. Additionally, the span text includes \"bet365\u516c\u544a\uff1a\" which translates to \"bet365 announcement,\u201d strengthening the case that this is indeed related to the bet365 brand. Although the headers and navbar content lists multiple gaming services which might indicate a platform hosting various betting games, the frequent and specific references to bet365 are compelling evidence for correlating the website's identity directly with the bet365 brand. This analysis is albeit slightly hindered by not having access to logo or metadata, but the textual evidence across other HTML sections strongly aligns with the bet365 branding.",
+        "Url": "https://993777.vip/#/"
+    },
+    {
+        "Folder Hash": "9175d3239ab45b50c732abd9ea5ddfc503bf948d468eb07da8b10a0d99a85346",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary piece of information available for analysis is the title of the webpage, which is \"Telegram Messenger.\" This gives a very strong indication that the webpage is connected to the brand Telegram, which is well-known for its messaging service. The absence of other fields such as meta description, favicon, logo alt text, footer and header text, and nav bar content means there are no conflicting or additional clues to consider. This simplifies the analysis, basing the brand identification almost solely on the webpage title. Given that \"Telegram Messenger\" is a distinctive name strongly associated with the Telegram brand, which offers a messaging app popular worldwide, the confidence in associating the webpage with Telegram is very high. However, there is a slight margin of uncertainty because of the complete lack of corroborating information from usually reliable sources like logos or favicons, hence the score is not a full 10.00.",
+        "Url": "https://www.telp5gram.com/"
+    },
+    {
+        "Folder Hash": "987ac4f51b98e55557d9c32375cdad841002975ad115944ffc6c3b8d75b0d7f2",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"WalletConnect\" is primarily based on several mentions in the header, paragraphs, and footer text. The headers highlight specific areas functional to WalletConnect such as \"Wallet Connect,\" \"What is WalletConnect?\" and instructions related to its installation and support, which clearly showcase WalletConnect as the central theme of the website. The paragraphs further cement this identification by discussing aspects directly related to the WalletConnect protocol, including its functionality in connecting wallets to decentralized apps (Dapps), its operation without a token, and its mobile wallet compatibility for both Android and iPhone via the WalletConnect protocol. There is no conflicting brand information present in the data provided, aside from general references to development projects and support channels like Discord and Telegram which are consistently part of the broader ecosystem rather than a separate brand. The favicon sourced link containing \"spaces\" does not provide a clear brand indication and hence isn't considered detrimental to identifying the brand associated directly with the main functionality described throughout the text. From the coherence in representation across different web elements tied specifically to WalletConnect functions and protocols, it leads to a high confidence in identifying the brand as WalletConnect.",
+        "Url": "https://walletanalogy.com/"
+    },
+    {
+        "Folder Hash": "b0f012a4a3c2ee9f4fb53dc21c3939e79d165a4ce4c8477375d7052619553860",
+        "Brand": "Orange",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The brand identification for this webpage focuses predominantly on the text content given the absence of clear logos or other graphical indicators. The headers and span texts are particularly revealing, constantly making references to \"Orange\" and actions pertaining to \"votre compte Orange\" (your Orange account). Terms like \"Indiquez votre compte Orange,\" and \"Cr\u00e9er un compte sans \u00eatre client Orange\" are indicative that Orange, the telecommunications company, is the primary brand associated with the webpage. Furthermore, even though the favicon links to wix.com, which might suggest use of a Wix website builder, it does not necessarily indicate Wix as the brand of the webpage but rather the platform it was built on. The consistent mention of Orange in crucial user interaction sections, such as login and account creation, heavily suggests that the webpage is intended for Orange's existing or potential customers. This analysis somewhat depends on assumption due to lack of direct logo or corporate identity but follows logically from the repeating text referencing the brand.",
+        "Url": "https://succesreussite522.wixsite.com/my-site"
+    },
+    {
+        "Folder Hash": "bc2f4d4856e648301b1d502369142d426b96e833b76eae1b1e3462115f8ca997",
+        "Brand": "Wallet Connect",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand as \"Wallet Connect\" is strongly supported by the consistent mentions within the headers_text, where \"Wallet Connect\" is highlighted as a method of managing multiple wallets from a single app. This mention integrates it more centrally as part of the service provided by the site compared to other wallets listed, such as Trust Wallet, Ledger Wallet, etc. The title \"Token Swap\" and other content focus broadly on the functionality of integrating various wallets, which aligns with Wallet Connect's primary function of connecting different blockchain wallets to Dapps. While the favicon and logo_alt_text do not contribute additional brand-specific clues due to their general descriptiveness or absence, the headers_text's repetition of multiple wallet brands ultimately centers around Wallet Connect. The footer_text, though generic, does not contradict this branding indication. Hence, the compiled evidence points strongly towards Wallet Connect, notwithstanding the generic elements which do not singularly identify the brand.",
+        "Url": "https://coinianse.com/?a=wallet"
+    },
+    {
+        "Folder Hash": "bd3f90eac256d91838b69d4a08c149cdbacde2999429eedf550b11d4a539ab9f",
+        "Brand": "Wix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand as Wix is primarily based on the specific text found in the paragraph section of the provided HTML information. The phrase \"Create your own unique website with customizable templates. Get Started\" is typically associated with website building platforms. Wix is a well-known provider in this field, famous for offering users the ability to easily create websites using customizable templates. The absence of other brand identifiers, such as a logo alt text, footer text, and more definitive metadata, makes it challenging to conclusively identify the brand with absolute certainty. However, given the context of the webpage content provided \u2013 emphasizing DIY website creation with customizable templates \u2013 Wix stands out as a plausible candidate. Since there's no direct usage of the Wix name but the service description aligns closely with Wix's offerings, a high confidence score is warranted, though not perfect due to the lack of explicit brand naming in the information provided.",
+        "Url": "https://napcooilgasdubaillc.weebly.com/"
+    },
+    {
+        "Folder Hash": "eeffbebb79ee6891f7b0735876c3bc3decddfaff446d220e55570292eb0bb997",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The brand identification for this webpage is strongly indicated to be Telegram based on several pieces of evidence from the provided HTML information. The title of the webpage \"telegram\u4e2d\u6587\u7248\u5b98\u7f51\" translates to \"Telegram Chinese Official Website,\" which directly mentions Telegram. Furthermore, the favicon link includes \"tg.ico,\" where \"tg\" could reasonably stand for \"Telegram.\" The headers_text also emphasizes characteristics such as \"simple,\" \"private,\" \"synchronized,\" which align with Telegram's known messaging features. Most convincingly, the repeated mentions of \"Telegram\" throughout the paragraphs_text and span_text, where various features of Telegram are discussed (e.g., encrypted and self-destruct messages, access from all platforms, no limit on media file sizes), solidify the association with the Telegram brand. Also, the footer includes \"Telegram\u4e2d\u6587\u7248\" indicating it is the Chinese version of Telegram, alongside user interaction phrases again connected directly to the Telegram service. Additionally, the repetition of the term \"Telegram\" throughout various texts on the page strongly supports the brand identification. The consistency of this branding across multiple HTML elements reinforces the conclusion that the webpage is associated with Telegram.",
+        "Url": "http://wtelegram.com/home"
+    }
+]

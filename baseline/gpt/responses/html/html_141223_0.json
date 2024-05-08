@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "0078996a57c1b19633fb4782b110d09db29eec6b5bc131a51e853bd60f64166b",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The webpage information provided is highly generic and does not include distinctive brand markers such as logos, specific meta descriptions, or unique identifiers in the paragraphs and span texts. The favicon is simply referred to as \"favicon.ico,\" which is a default file title and does not provide any brand-specific clues. Furthermore, the title \u201cRestrictions Information\u201d and the header text \u201cYour account has been restricted\u201d are phrasings that could be used by numerous different platforms, especially those involving user accounts, such as social media, forums, or other membership-based services. The lack of a unique logo alt text and footer text, along with the absence of any brand-specific navigation bar content, leaves too little information to definitively conclude the identity of the brand. Therefore, it isn't possible to accurately or confidently identify a specific brand from the data provided.",
+        "Url": "http://www.meta-account.veafd.biz.id/vipst/lanjut.php"
+    },
+    {
+        "Folder Hash": "0210810b3ca54459e6633bb6ff77ddb6780a1b56192a044b299504bc87da0bd4",
+        "Brand": "Banco Santander",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Banco Santander is strongly supported by multiple pieces of evidence found in the HTML script provided. The most compelling evidence comes from the favicon URL which mentions 'bancosantander.es', pointing directly to the official website of Banco Santander, a prominent financial institution. Furthermore, the phrases within the webpage such as \"Te damos la bienvenida a tu Banca Online\" align well with the offerings typical of a banking institution. The presence of detailed information about cookies and privacy, particularly segments like \"Te damos la bienvenida a tu Banca Online\u201d and extensive cookie settings explanation, further aligns with the comprehensive online service portals seen in modern banking websites. Additionally, the financial and personal banking context suggested by keywords such as \"Banca Online\", \"Recordar usuario\" (Remember user), and the extensive mention of cookie management related to user experience on a banking website, support the hypothesis that this HTML belongs to Banco Santander\u2019s online banking portal. The absence of contradicting brand references further strengthens this identification. The consistency of the language, tone, and subject matter further ties the HTML content exclusively to Banco Santander. Thus, all the aforementioned pieces of evidence collectively contribute to a high confidence in identifying the brand as Banco Santander.",
+        "Url": "http://bancosantander-es.com/cuenta-es/.94a26e88601379d95e7e87421285cb2e/login/desktop.php?3b8ac22fa0b0a8dce2a46976f0ee9139"
+    },
+    {
+        "Folder Hash": "02a9ebdea40034703293c248df572a2858c0469f892dfe2b2dcafc60e6c74071",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The primary clue to identifying the brand of the webpage comes from the span_text content. The span_text includes several references that hint at Microsoft-specific terminology and services. One key phrase is \"Verify Your Identity,\" which is commonly associated with security and authentication protocols that Microsoft uses in its services. Moreover, the inclusion of \"please enter specific professional email credentials,\" typically refers to a Microsoft work account that is often required in Microsoft's business solutions or file sharing services like SharePoint or OneDrive.",
+        "Url": "blob:https://bafybeihxpdl65aea3spuyoo6ye4w2i2li3vezwevuoerbbttqeduwjqnsq.ipfs.cf-ipfs.com/4c8a6ea0-ff2c-4940-8ed8-f5ff304a5b00"
+    },
+    {
+        "Folder Hash": "05656f2362a648ae8d990bb048aaf77f86b9adea46081b8c536ca5682e6e03b6",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the provided HTML information reveals insufficient data to conclusively identify a specific brand. Key identifiers like the metadata, favicon, and logo alt text are noted as \"Not Found,\" eliminating these as potential sources for brand identity. The webpage title \"Refund status : Billing\" is generic and could apply to numerous companies or services without additional context linking it to a specific brand. The footer includes standard content such as terms of use, privacy and security, copyright, and accessibility, which are common to most commercial websites, providing no distinctive clues. Also, the mention of \"We acknowledge the Traditional Custodians of the lands we live on...\" in the footer and paragraphs suggests an Australian context but does not specify any unique brand identity. The headers and nav bar content also lack any unique identifiers; they are very generic in nature. Thus, based on the information directly available and the strict guidelines set for analysis, the brand associated with this webpage remains unidentified, leading to a confident conclusion of \"NA\" for the brand name.",
+        "Url": "https://wos.lqn.mybluehost.me/mygov/app/bbCeU0BUdP/model/billing.php?id=56627565&user_657a767eccaf6"
+    },
+    {
+        "Folder Hash": "0690e96b0748f47632c1264708cd65b450ff8254c416ea0d0d85f1f2e0260782",
+        "Brand": "OneDrive",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The evidence for identifying the brand as OneDrive is mainly found in the webpage title \"My Files - OneDrive,\" which explicitly mentions OneDrive. This implies that the webpage is related to OneDrive's interface, specifically a page dealing with user files. The footer and the logo alt text have the value \"Not Found,\" providing no additional information. However, the headers text which includes \"Enter Password\" could indicate a login or authentication page related to the file access on OneDrive. Furthermore, a small snippet in the 'span_text' also contains the word \"OneDrive,\" consolidating the presence of OneDrive elements on the page. The elements here suffice to reasonably conclude that the brand involved is OneDrive with high confidence. The absence of any conflicting brand indication and the recurrence of the brand name in multiple key HTML elements (like the title and span text) solidify its identity. Thus, even without distinct logo visual confirmation or metadata descriptions, the available data aligns consistently with OneDrive branding.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmSTLkTTeaTyGFUP3hoBdfMQANdxW93trmS1YB643Q7WAF"
+    },
+    {
+        "Folder Hash": "07227eff0ae263eeeac8355f9e901f06d38a508e2663026a949730bb4fb7ca95",
+        "Brand": "EasyPlay.su",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence indicating the brand of the webpage as \"EasyPlay.su\" comes from multiple consistent mentions within the provided HTML script. Both the footer text and the span text explicitly mention \"EasyPlay.su,\" with accompanying copyright information indicating ownership by this brand: both texts include \"\u00a9 2023 EasyPlay.su. All Rights Reserved.\" This repetition across different parts of the webpage strengthens the identification. The presence of generic terms in the title and meta description, such as helping to search in Google, does not offer direct brand identification but suggests a service-oriented nature of the site, potentially supporting EasyPlay.su's service offerings. The logo_alt_text is 'Not Found', hence no branding insights can be drawn from this aspect. Furthermore, the absence of nav_bar_content does not detract from this analysis as sufficient information is available elsewhere in the HTML script. Given that multiple important elements of the webpage consistently reference \"EasyPlay.su\", the evidence strongly points towards this as the brand of the webpage.",
+        "Url": "https://easyplay.su/google/?q=0YHQutCw0YfQsNGC0Ywg0YfQuNGCINGN0L3QtNC20LjQvSDQvdCwINCw0LnRhNC+0L0="
+    },
+    {
+        "Folder Hash": "0956ca0ac977f6c65bdace3a24c45dae4e5151df840b05681741d16d25b194ec",
+        "Brand": "BullPhish ID",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The assessment of the brand BulPhish ID is principally derived from the paragraph text in the HTML information, where it explicitly mentions, \"This message was generated by BullPhish ID Phishing Simulation Training Platform.\" This is a strong indicator that the webpage is associated with BullPhish ID, especially since this statement details the purpose of the website and its functionality related to phishing simulation training. Furthermore, other elements like headers and paragraphs emphasize the educational nature regarding phishing, which aligns with BullPhish ID's described role. Although the favicon, logo alt text, meta description, and nav bar content are described as \"Not Found,\" which limits some avenues of brand identification, the explicit mention in the paragraphs text provides substantial evidence. The lack of contradictory or confusing branding information from other HTML fields and the specific mention of BullPhish ID render a high degree of confidence in this identification.",
+        "Url": "https://certified.cloudsurveillance.net/d4936145-975d-4c46-923b-13f16e4b303c"
+    },
+    {
+        "Folder Hash": "09eaab5f952c5d9b5fffeca5dabacad57697e9617de5d283f566060c8a4e64da",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The analysis of the provided HTML information points directly to the brand being \"Telegram\". The evidence for this identification is primarily derived from the textual information given in the 'title' and 'headers_text'. The title of the webpage being \"Telegram Web\" strongly suggests that this webpage is related to Telegram, especially when corroborated with the headers text \"Sign in to Telegram\". The combination of both the title and headers text mentioning Telegram explicitly provides a robust indication that this webpage is part of Telegram's online platform. Additional reinforcement for this identification comes from the typical procedure described in 'paragraphs_text', where it asks to confirm your country and enter your phone number which aligns with Telegram's known sign-up or sign-in process where phone number is used as the chief method of user identification. The absence of identifying information in the metadata, logo_alt_text, footer_text, nav_bar_content, and span_text does not detract from the strength of the title and header's information. Therefore, the confidence in identifying Telegram as the brand from the given HTML script information is notably high.",
+        "Url": "http://www.telegirem.com/"
+    },
+    {
+        "Folder Hash": "0b621ebbec62a3631eaa9cf5f9acb0df75d3a5b70db14cc1b4fdb4bb7ce71f1e",
+        "Brand": "Whatsapp",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Whatsapp is based on the consistent appearance of the name \"Whatsapp\" across multiple elements of the provided HTML information. The title of the webpage is \"Whatsapp,\" and the nav bar content explicitly mentions \"Whatsapp,\" including sections that resemble a typical Whatsapp interface such as \"Chats,\" \"Status,\" and \"Calls.\" Additionally, the span_text repeatedly mentions \"Whatsapp\" alongside various chat-related contents, which align with Whatsapp's functionality of facilitating messaging and group communications. This repetition and context specificity strongly suggest that the website's main focus is related to Whatsapp services or an interface mimicking Whatsapp. However, the lack of metadata, favicon, and logo information slightly reduces certainty, as does content in paragraphs_text which while indicating messaging activity, also seems slightly erratic for standard Whatsapp use (e.g., inappropriate groups and names). Therefore, my confidence score is not a full 10.00, accounting for potential deviations or unauthorized usage of the Whatsapp brand on the page.",
+        "Url": "http://mail.fibro6.nag4.com.tr/"
+    },
+    {
+        "Folder Hash": "0c5ed05893e39f8bb75e3e8c383326b4086cdbb0510e3793363c26c8197bd3a9",
+        "Brand": "Coinbase",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The identification of the brand as Coinbase is primarily supported by several pieces of evidence from the HTML information provided. Firstly, the webpage title \"Coinbase \u2013 You're invited to earn ETH\" directly mentions Coinbase. Additionally, the meta description reinforces this by describing Coinbase as a secure online platform for buying, selling, transferring, and storing cryptocurrency. Furthermore, the footer text contains \"\u00a9 2023 Coinbase,\" which is typically used to indicate the website owner or brand. The headers text also mentions Coinbase directly in several places, such as \"Coinbase Wallet app\" and \"Coinbase app,\" further associating this webpage with the Coinbase brand. While the logo_alt_text is not found, substantial evidence from the title, meta description, footer, and headers provides a strong basis for confidently identifying Coinbase as the brand associated with this webpage. The favicon, despite being in a base64 encoding, presumably contains graphical elements related to Coinbase, although this information alone isn't clear without decoding. Therefore, nearly all provided textual information corroborates the identification of Coinbase as the webpage's brand.",
+        "Url": "https://coinbase-airdops.com.ru/"
+    },
+    {
+        "Folder Hash": "2195b27965be4df38b6d8caea64814ac421a7876bc1550d70226abefca20f8fd",
+        "Brand": "KRAFTON",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence pointing towards KRAFTON as the brand of the webpage comes from the footer text which explicitly states \"\u24d2 2023 KRAFTON, Inc. All rights reserved.\" The inclusion of KRAFTON's name in the copyright statement typically underscores ownership and brand identity of the webpage. Additional confirmation arises from the reference to \"BGMI MOBILE\" in the paragraphs text, which stands for Battlegrounds Mobile India, a known game published by KRAFTON. Hence, while the title of the page www.battlegroundsmobileindia.com itself suggests the game, the footer text clarifying KRAFTON as the parent company, provides substantial evidence. The rest of the included HTML information like the meta_description, logo_alt_text, headers_text, and nav_bar_content are either \"Not Found\" or do not directly indicate any other brand, supporting the conclusion that KRAFTON is the central brand associated with this webpage.",
+        "Url": "https://pagani-gcevent.indianxevent.com/"
+    },
+    {
+        "Folder Hash": "243fac392f12f2525adba8f0994fce50bce41e6ded3231ebb838d953db341789",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The provided HTML information heavily suggests that the brand is Netflix, based on multiple distinctive clues within the data. Firstly, the title of the webpage is directly stated as \"Netflix.\" This is a strong indicator as the title often contains or reflects the brand name of the webpage. Secondly, the header text mentions core functionality directly associated with Netflix: unlimited movies, TV shows, the ability to watch anywhere, and the option to cancel anytime. These features are hallmarks of Netflix's service offerings. Additionally, the headers also mention creating memberships, watching on various devices (like Smart TVs, PlayStation, Xbox, etc.), which are well-known features of Netflix's platform. The specific mention of creating profiles for kids and providing content specific to children aligns with Netflix\u2019s user interface which offers a kids\u2019 section. Besides, none of the given text introduces conflicting brand elements that might suggest another brand. Although logo alt text, metadata, and favicon file names do not explicitly confirm the brand (due to lack of specific data or generic naming), the overwhelming consistency in service descriptions and company-specific product offers in the header elements angle decisively towards Netflix.",
+        "Url": "https://abhedanil.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "2bfd99b42d651f7476101a8c1de0f0c19a511feae1a6c3b1f3e3ac43665adf9e",
+        "Brand": "Serasa Experian",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The analysis of the provided HTML information strongly indicates that the brand of the webpage is Serasa Experian. The title and metadata include references to \"Serasa Limpa Nome,\" which relates to Serasa's debt negotiation services. The continuous mention of \"Serasa\" in various parts of the footer and header underscores the webpage\u2019s affiliation with this brand. The footer contains text like \"Serasa Cr\u00e9dito,\" and numerous services listed directly relate to Serasa\u2019s financial products, such as \"Limpa Nome,\" \"Serasa Premium,\" \"Serasa Score,\" and others, emphasizing the focus on personal finance solutions offered by Serasa. Further cementing this, the end of the footer mentions \"Serasa Experian,\" providing a clear association with the parent company, Experian. Additionally, context clues such as addressing consumer credit topics, financial services, and methods for negotiating debts align well with Serasa's known service portfolio. The confidence in identifying Serasa Experian as the brand is nearly absolute due to the repetitive and consistent branding throughout all the provided HTML content.",
+        "Url": "https://d3k44z507vpdol.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "63ee342e3458b77dbb7a3e4dd59545e62390505307f67042d715081a53d4fa64",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of Microsoft as the brand of the webpage is primarily supported by the text found in the 'span_text' field. This text mentions \"\u00c2\u00a9 2023 Microsoft,\" which is a direct indicator of Microsoft's ownership or association with the webpage. Furthermore, the context given in the 'span_text' suggests a process of identity verification related to accessing a PDF file through a professional email, a type of service that could plausibly be associated with Microsoft's business and security solutions. The mention of \"That account doesn't exist. Enter a different account\" aligns with the error messages typically associated with user login attempts that may occur on Microsoft's various service platforms. Other fields such as title, meta_description, favicon, and others are either missing or marked as \"Not Found,\" limiting the scope of brand-identifying information but not conflicting with the assumption that the page is linked to Microsoft. Hence, while mainly reliant on the copyright text, the synthesized interpretation of the available evidence strongly points to Microsoft, confirming high confidence in this identification.",
+        "Url": "blob:https://bafybeiasvt3phgmntyoxldrx6qkmxcepznkmwau7qyihhwn7mp7in6cpve.ipfs.cf-ipfs.com/23bc4db9-fb16-47f3-bfa8-f73c891059a1"
+    },
+    {
+        "Folder Hash": "72376788aaacd253f79474dd79a991dd722a5da08e874eace610450d649c5932",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The primary evidence for identifying the brand as Facebook is found in the title of the webpage, which explicitly states \"Facebook.\" This title is a direct and clear identifier of the brand itself. Furthermore, additional supporting evidence comes from the paragraphs_text and span_text fields, which discuss security measures related to account behavior on Facebook. These texts mention scenarios like temporary restriction, deactivation, and safety protection directly associated with a user's account on Facebook, reinforcing the identification of the brand. Notably, the nav bar content, paragraphs, and span text all feature terminology and phrases typically used by Facebook concerning account security and login processes such as \"\u0441\u0430\u043c\u043e\u043b\u0438\u0447\u043d\u043e\u0441\u0442\u0442\u0430 \u0432\u0438\" (your identity) and \"\u0412\u043b\u0438\u0437\u0430\u043d\u0435\" (Login), substantiating the context related to Facebook operations and policy. Although the favicon URL points to an external website which could suggest involvement of another service, the overwhelming contextual evidence from the title and descriptive texts strongly supports the identification of Facebook as the brand, making the favicon anomaly likely irrelevant in this scenario. Therefore, the mentioned factors combine to provide high confidence in this identification.",
+        "Url": "https://bg-bg-facebooks.pages.net.br/"
+    },
+    {
+        "Folder Hash": "82333831343afa9a86ffd7b96b09f1a6490ef9aa1dc3696ddc2dc767e663330f",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence pointing to Telegram as the brand of the webpage comes from the title \"Telegram Web\". Titles are typically very direct indicators of a website's affiliation because they summarize the content or purpose of the webpage in a concise form. The presence of \"Telegram\" strongly suggests that the webpage is related to or officially belongs to Telegram, the well-known messaging service. Moreover, the header text uses \"\u4f7f\u7528Telegram\u8d26\u53f7\u767b\u5f55\u7ed1\u5b9a\" which translates to \"Log in and bind with a Telegram account\", reinforcing the association with Telegram as it directly mentions using a Telegram account for login purposes. This further strengthens the belief that the webpage is linked to Telegram as it appears to facilitate some interaction involving Telegram user accounts, likely a login gateway or similar authentication service. Although there's a lack of additional identifying metadata, the specific mentions in both the title and header provide a solid basis for identifying Telegram as the brand. Additionally, the use of \"./favicon.ico\" does not disprove the association, though it isn\u2019t specific enough to confirm the brand on its own without the additional context provided by the title and headers. The footer text, logo alt text, and other fields marked \"Not Found\" do not contribute any additional information to either confirm or dispute this identification, hence basing the brand decision largely on the conclusive evidence available in the webpage title and headers text, the brand is determined to be Telegram.",
+        "Url": "http://telegprcem.vip/web"
+    },
+    {
+        "Folder Hash": "8243df9bce89a46df3a9a8eda659dd491279de586b9ee1f9f8e9528c0559681a",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The primary evidence pointing to the brand of the webpage as Microsoft OneDrive comes from multiple items in the HTML information provided. The title of the webpage is \"Sign in - Microsoft OneDrive,\" which directly mentions Microsoft OneDrive, indicating that the functionality of the page is tied to this service. Additionally, the paragraphs text explicitly states \"OneDrive \u00a9 2023,\" which reaffirms the brand identity tied to the Microsoft OneDrive service. The span text repeatedly mentions \"OneDrive\" alongside specific functionalities and sign-in options related to Microsoft OneDrive, such as \"Sign in with Office365,\" \"Sign in with Outlook,\" and \"Continue to OneDrive Online.\" This consistent focus on OneDrive throughout key elements of the page strongly supports the identification of the brand as Microsoft OneDrive. Notably, the inclusion of Google's Gmail in the headers_text as a sign-in option does not indicate the brand of the webpage but rather suggests a sign-in method provided for user convenience.",
+        "Url": "https://bafybeih7uttjpmvtxncbaibt5ktivb7l47aclsuojavnzyt7pg7nam7i54.ipfs.nftstorage.link/mbma.html"
+    },
+    {
+        "Folder Hash": "84f1daebc5b2c5b9628d7f25b7220621bb50e9f21f50b41b8852bb33f27fae44",
+        "Brand": "Cr\u00e9dit Agricole",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.75",
+        "Supporting Evidence": "The analysis of the provided HTML information strongly points to \"Cr\u00e9dit Agricole\" as the brand of the webpage. The title of the webpage, \"Acc\u00e8s CR - Cr\u00e9dit Agricole,\" clearly includes \"Cr\u00e9dit Agricole,\" indicating it as the main subject or owner of the webpage. Additionally, the header text contains a reference to \u201cl\u2019application Ma Banque,\u201d which is known to be associated with Cr\u00e9dit Agricole. The paragraphs text also strengthens this identification by mentioning \"au Cr\u00e9dit Agricole, vous aurez toujours le choix...\" directly referring to the brand itself in a context of banking services which aligns with what Cr\u00e9dit Agricole offers. The use of specifics phrases like accessing accounts with \u201cidentifiant\u201d which is typical in French banking websites, and security advice, common elements on bank websites, further point to Cr\u00e9dit Agricole due to the nature of the content and the language used. The absence of contradicting or confusing brand references in the provided HTML data makes the case for Cr\u00e9dit Agricole significantly strong. All these factors together lead to a high level of confidence in identifying Cr\u00e9dit Agricole as the associated brand of the webpage.",
+        "Url": "https://cs38713.tw1.ru/agoweb/login.html"
+    },
+    {
+        "Folder Hash": "84fe48842a7869f426e4e3cf25c5e0196ed96d85aef6157a393e587fd5a9cb75",
+        "Brand": "Wallet Connect",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.50",
+        "Supporting Evidence": "The primary identifier in the provided HTML information that directly points to a brand is the title of the webpage, which is \"Wallet Connect - Home.\" The presence of \"Wallet Connect\" in the title is a strong indication that this is the brand associated with the webpage, as the title often reflects the primary branding or name of the website. The lack of other normally definitive data such as meta description, favicon, logo alt text, footer text, nav bar content, paragraphs text, and span text minimizes the sources from which to corroborate the brand identity. However, the headers text \"YOUR CART\" indicates an e-commerce or transaction facility, which aligns with functionalities that a wallet service like Wallet Connect might offer. The absence of contradicting brand information in other fields slightly reinforces the assumption made from the title. Therefore, based on the title primarily, Wallet Connect is identified as the brand of the webpage with a moderate to high level of confidence.",
+        "Url": "https://walletconnect-dappsdefimainnets.weebly.com/"
+    },
+    {
+        "Folder Hash": "c3a2cf3bca2899bc25eb0b8f61d8403d109ca212a72edeaef9b1c5f2bea2ecd4",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis heavily leans on textual clues from the HTML information provided from headers, paragraphs, and images mentions. There are consistent references to \"DHL International,\" \"DHL International Worldwide,\" and \"DHL Parcel UK.\" These terms are interspersed throughout different parts of the provided HTML information, indicating a strong thematic connection to DHL, a well-known global logistic company. The repeated mention of DHL combined with various service descriptions such as \"UK Delivery,\" \"International Delivery,\" and tracking-related features (\"Track,\" \"ServicePoint Finder\") also align with services typically offered by a logistics and parcel delivery company like DHL. Despite the lack of specific meta tags, favicon, and several not found elements, the maintaining of the brand name DHL across primary communicative areas such as paragraph text and headers strongly signals the identity of the webpage as affiliated with or directly representing DHL. Furthermore, phrases referring to tracking and delivery services (\"Tracking a Parcel,\" \"Flexible & Convenient Delivery\") are typical of a courier company, which supports the identification of DHL as the focus brand.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeigyp2cjhkqpljyz5cjeu6elqhbljivyhrr5iug5k7wko6qkojbijy"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Folder Hash": "0ce809619a352bbbb3017df602856ecec7a30bd18bb209bdff07283959ae02bb",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The HTML information provided lacks specific brand identifiers necessary for a definitive brand identification. The title \"Nuevo | Ingreso\" translates to \"New | Login\" in English, which is a generic entry and does not point to a specific brand. The absence of a meta description, favicon, logo alt text, footer text, and nav bar content further limits the possibility to identify any unique branding elements. The headers text \"Iniciar sesi\u00f3n\" simply means \"Log in\", which is also quite generic and common among countless websites, especially those requiring a login procedure. The paragraphs contain phrases linked to online banking and security, which suggests the webpage is related to a financial institution, but without specific names or logos, no particular brand can be identified. The presence of general terms such as \"Online Banking\", \"first time\", \"user\", \"terms and conditions\", and \"security information\" do not provide clues distinctive enough to pinpoint a specific banking or financial service brand. Therefore, in the absence of distinguishing brand elements and given the generic language used, the brand cannot be identified with any level of confidence.",
+        "Url": "https://dtv-ar.com.es/home.php"
+    },
+    {
+        "Folder Hash": "165fc268d6180931118405d7c487b93351dd23b9cb1899e4b01b095b5628d49a",
+        "Brand": "RedSilver",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand identification of \"RedSilver\" emerges primarily from several key references in the provided HTML information. Most notably, the webpage title itself is \"RedSilver\", which is a direct indication of the brand's identity. Further solidifying this identification, the footer text also mentions \"Panelas RedSilver \u00ae\" accompanied by a company attribution \"Inovashop Utilidades Domesticas Ltda.\" This consistent reference in both the title and footer to \"RedSilver\" in association with the product - panelas (pans in Portuguese) - strongly supports the brand identity. Additionally, promotional references within the headers text further mention \"Panelas antiaderentes Red Silver,\" reinforcing the presence of the RedSilver brand throughout different parts of the webpage. Also, within the footer text, the copyright \u00a9 2023 statement includes RedSilver, further attesting to ownership or association with the web content. The recurrence of the name within different content segments, especially in prominent places like the title and footer, helps in confidently ascribing the webpage to the RedSilver brand. Despite the lack of metadata and favicon, the textual evidence from the footer, headers, and title provides a significant basis for determining the brand identity.",
+        "Url": "https://www.redsilveroficiall.com.br/"
+    },
+    {
+        "Folder Hash": "46eb9a95352f49cb2c7e836a3a37cedf6d29cbcb7a2cd1448a71123ba4853620",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis of the HTML content provided points towards Garena Free Fire as the brand of the webpage, primarily deduced from the title \"Garena Free Fire Membership.\" This title clearly includes the name \"Garena Free Fire,\" which is a popular online game known for offering memberships or in-game purchases. The favicon URL also adds credibility to this claim as it contains \"garenanow.com,\u201d which is typically associated with Garena, the gaming platform. Additionally, the context in the paragraph text, which references game-specific terms like \"Kim C\u01b0\u01a1ng\" (which means diamonds, a common in-game currency in Free Fire) and mentions of game-related rewards (\"50 V\u00e9 quay kim c\u01b0\u01a1ng + 2000 kim c\u01b0\u01a1ng\") further supports the link to Garena Free Fire. While other metadata components like meta_description, logo_alt_text, footer_text, and nav_bar_content being \"Not Found\" limit the confirming evidence, the available significant points (webpage title and favicon URL) heavily suggest the identity of the brand.",
+        "Url": "https://www.ff.membes.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c5972f617f3c3dff4464ed7e8a77f4b9f285dcb1ad66dafee8b2e2594e08d2c",
+        "Brand": "WebClient",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.50",
+        "Supporting Evidence": "The identification of the brand as \"WebClient\" is primarily supported by both the title of the webpage and the headers_text, each labeled as \"WebClient\". This repetition in key areas often associated with brand identity (title and headers) suggests that WebClient is indeed the brand or name of the service being accessed through the webpage. The nav_bar_content, logo_alt_text, and footer_text are marked as \"Not Found\", which eliminates them as sources of confirming information. Additional clues include the span_text section mentioning \"Password | Sign in\"; although common for many webpages, it supports the notion of a WebClient being an interface for accessing services requiring authentication. The footer section notes \"Powered by \u00a9 2023,\" yet it fails to mention a specific brand; nevertheless, it strengthens the sense that WebClient belongs to a service-oriented platform. As no overarching company or alternative brand name is suggested within the available HTML details, and given the repeated mention of WebClient in critical locations, my analysis concludes that WebClient is the probable brand of the webpage. However, due to the absence of a definitive company logo or explicit company name mentioned beyond the service name, the confidence cannot be a full 10.00.",
+        "Url": "https://eirz7.sa.com/.xl/alldoman/genWeb/genWeb/webmail/?client_id=tPWxE3ynQb4qhed6lFzHuV&redirect_uri=https%3A%2F%2Fwww.%2F&protectedtoken=false&id=&Country=NL&x=&i=others"
+    },
+    {
+        "Folder Hash": "703fe3dcac2231cdd9de7b2f0fb1d7c86d32edcb5fa159ba2d3853fed1e71696",
+        "Brand": "DPD",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"DPD\" is primarily supported by several pieces of evidence within the HTML information provided. The most conclusive evidence comes from the footer text and headers text. The footer text distinctly includes \"\u00a9 2023 DPD\", which is a strong indication of the brand since footers often carry trademark or copyright notices specific to the brand. Additionally, the headers text contains references to \"About DPD\" which directly names the brand involved, aligning with common webpage practices of mentioning their own brand name in section titles and navigation headers. More support is drawn from the mention of the brand in variable experiences involved in package tracking or updates, which is core to DPD's service offering. While other details such as the favicon URL and the title \"Follow My Parcel\" align well with what might be expected from a delivery and logistics service such as DPD, they are less conclusive on their own. Furthermore, the presence of content in German also complements the brand's European operations. Overall, these elements collectively establish DPD as the brand of the webpage without requiring external validation or inspection beyond the HTML content provided.",
+        "Url": "https://ecard.com.eg/de_dpd7859/"
+    },
+    {
+        "Folder Hash": "75da1e9b363b48a69f858b885d2a9dcb610fe67fd7a9ac9c6a98be294e5cd921",
+        "Brand": "Intuit",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the Intuit brand is strongly supported by multiple elements from the provided HTML information. Firstly, the title \"Intuit Accounts - Sign In\" prominently features the name \"Intuit,\" indicating that the webpage involves Intuit's sign-in portal or related services. Secondly, the favicon linked (https://plugin.intuitcdn.net/shell-service/intuit_favicon.ico) uses a URL that contains the brand name \"Intuit\" which further aligns with the corporate identity, suggesting this is indeed an official Intuit webpage. Moreover, in the footer text, there is clear mention of \"Intuit, Inc.\" followed by a list of Intuit's products like QuickBooks, TurboTax, ProConnect, etc., and a statement regarding the registered trademarks belonging to Intuit Inc. This explicitly verifies the association with Intuit. Additional reinforcement comes from the headers text which guides users to use their Intuit Account to sign in, centralizing the context around Intuit's user account ecosystem. The overall examination of these features, particularly the consistency of the brand representation across multiple webpage elements, strongly validates the identification of Intuit as the brand of the webpage. The high confidence score reflects the concrete evidence directly cited from the webpage's HTML content.",
+        "Url": "https://accounts.intuit.com/app/sign-in"
+    },
+    {
+        "Folder Hash": "89891a51098ad4bb158df18ac41be398d76bdc7c7a1e6b6a25aa0402ab8137d6",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "2.00",
+        "Supporting Evidence": "The identification of the brand for this particular webpage is challenging due to limited and non-specific information presented in the HTML attributes. The title of the webpage is \"\u5185\u7f51\u90ae\u7bb1\u5907\u6848\u7cfb\u7edf\" which translates to \"Internal Mailbox Filing System,\" suggesting a more functional title related to internal communication or management within an organization rather than referencing a specific brand. The presence of generic terms such as \"MAIL CENTER\" in both the paragraph and span text does not provide clear brand identification clues but points towards a utility-type interface possibly used within a corporate or institutional structure. The favicon is encoded in base64, and without the ability to decode and visually identify the image, its contribution to brand identification remains inconclusive. With additional descriptive fields such as logo alt text, footer text, headers text, and nav bar content marked as \"Not Found,\" critical avenues for usual brand indication are absent. Therefore, while the information suggests a service related to email or communication management, identifying a specific brand linked to design or customization features from the available data is highly uncertain.",
+        "Url": "http://ls360.org/function/uploadfile/20220412/20220412000328_60888.html?err=MPVL0DGO4CXHVYHFL5L&err=MPVL0DGO4CXHVYHFL5L&dispatch=1Ab&id=9ab8BA6464964b06c71BA97B586c03"
+    },
+    {
+        "Folder Hash": "b9480bcd0115c6462abe990004bfaed41ad25401e19b9a421928604de6481533",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis reveals multiple instances directly and unequivocally pointing towards the brand identity of the webpage being Netflix. Notably, the title \"Netflix India \u2013 Watch TV Shows Online, Watch Movies Online\" clearly states the brand as Netflix and specifies the regional focus on India. The favicon featuring a Netflix logo confirms the brand\u2019s visual identity. The footer text enhances the identification further, containing typical Netflix-associated elements such as \"FAQ,\" \"Investor Relations,\" \"Help Centre,\" and notably, \"Only on Netflix,\" implying exclusive content available on Netflix. The headers_text strengthens this finding, discussing various functionalities and offerings typical to Netflix, like watching on multiple devices and downloading shows, specifically mentioning \"Netflix India\" at the end of the text. The detailed paragraphs also relentlessly emphasize aspects like the streaming service\u2019s versatility, membership details, and Netflix-specific features (e.g., Netflix Kids), including how viewers can use the service on various devices. Moreover, it mentions crucial price points specifically in Indian currency (\u20b9), solidifying the regional focus observed in the title. The consistent promotion of Netflix's services throughout the provided HTML textual content makes it indisputable that the brand is Netflix.",
+        "Url": "https://adithyan12789.github.io/Netflix.github.io/"
+    },
+    {
+        "Folder Hash": "fa8f2a9abf0de550ded33072654f57b597cd63df79da7ff0585c3db339151ec0",
+        "Brand": "BTN Mobile Banking",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.75",
+        "Supporting Evidence": "The identification of the brand as BTN Mobile Banking is strongly supported by several pieces of evidence from the HTML information provided. The title of the webpage explicitly mentions \"Login | BTN Mobile Banking,\" which directly suggests the brand. Moreover, the meta description enhances this conclusion by discussing the functionalities of BTN Mobile Banking, emphasizing its utility as a banking solution. Additionally, the footer text, which is a typical area for affirming the brand identity, mentions \"PT Bank Tabungan Negara (Persero) Tbk,\" linking BTN (Bank Tabungan Negara) with the brand. The header text includes a welcome message to \"BTN Mobile,\" reinforcing the same brand. Furthermore, the 'span_text' includes repeated mentions of \"BTN Mobile\" and also references \"PT Bank Tabungan Negara (Persero) Tbk,\" aligning with the information in the footer, thus confirming the association with the Bank Tabungan Negara. Each of these elements consistently points towards BTN Mobile Banking, providing a high level of confidence in this identification. The slight deduction in confidence (from a perfect score) is due to the absence of a clear logo_alt_text and nav_bar_content, which could potentially offer further confirmatory branding details.",
+        "Url": "https://contoh-btn11.resmi-id.art/"
+    },
+    {
+        "Folder Hash": "ff9f690d6ed31ac6b0d3fcb379ab4a1ad10ddbb57b0a19a351cb02b1231c6dd0",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The brand can be confidently identified as Facebook based on several pieces of key information obtained from the HTML script. Firstly, the title of the webpage includes \"Security | Facebook Help Center\", which directly mentions Facebook, associating the content with Facebook\u2019s user support system. Secondly, the headers text: \"Facebook | Turn on Facebook Protect to unlock your account | Account locked on November 8, 2023\", further clarifies that the content is related specifically to Facebook's security features, notably Facebook Protect. The header also suggests an action specifically concerning Facebook account management. Although the favicon is noted, without a clear image preview, its relevance is minimal in this analysis. The paragraph texts provide additional context about security steps associated with Facebook and emphasize user account security, which is consistent with typical notifications a user might receive from Facebook in security matters. These combined elements strongly indicate that the webpage is owned by Facebook, centered around user security and account management. The absence of other conflicting brand information in the provided HTML script elements simplifies the identification process, further supporting the high confidence in this conclusion.",
+        "Url": "http://support.768684333.kamnya.net/help/contact/9417940251527349"
+    }
+]

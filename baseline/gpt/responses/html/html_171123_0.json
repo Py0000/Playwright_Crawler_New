@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "00362691ad515c38328b22f5b071cbb3dfd5920413bce502de94bf53a4fe3d57",
+        "Brand": "AT&T",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The primary evidence pointing to AT&T as the brand of the webpage comes from the title and the headers text. The title of the webpage includes \"AT&T Mail info,\" which directly mentions AT&T, a well-known telecommunications brand. Additionally, the header text mentions signing in to access AT&T Mail and Currently.com, reinforcing the association with AT&T. Currently.com is known to be associated with AT&T, providing further corroborative evidence. Although the favicon is sourced from Weebly, indicating that the site may be built using Weebly's platform, this does not necessarily indicate Weebly as the brand of the webpage; rather, it is just the tool used for creating the website. The absence of footer text and logo alt text due to them being labeled as \"Not Found\" does not impact this analysis since the conclusive references to AT&T in both the webpage title and headers text are strong indicators of the brand identity. Therefore, despite some ambiguity created by the Weebly favicon, the consistent mention of AT&T related services across different parts of the webpage strongly points to AT&T as the brand.",
+        "Url": "https://att-mail-info.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "00ab91553863586ba9bcb92b132a42835c8f458387c8ed82e12997a06b2b623b",
+        "Brand": "Microsoft & DocuSign",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The analysis of the provided HTML information indicates a mixed branding presence related to Microsoft and DocuSign. The title \"Signin Outlook WebApp Settings\" strongly hints at Microsoft's involvement, particularly its Outlook product. Additionally, the phrase within the paragraphs text \"\u00a92023 Powered by Microsoft & DocuSign, Inc.\" confirms the collaboration or service integration between Microsoft and DocuSign on this specific portal or webpage. The mention of \"DocuSign Portal\" both in a headers_text and the span_text emphasises a direct relation to DocuSign. Although no singular brand dominates entirely due to the co-branding context mentioned in the text, both Microsoft and DocuSign appear as integral identities associated with this webpage. The absence of distinct identifications like favicon, logo, or footer information that conventionally helps in solidifying a single brand's presence lessens the overall certainty of attributing it to just one brand. Nevertheless, the explicit mention of both brands in various parts of the HTML script establishes their joint relevance to this page.",
+        "Url": "https://docusign16112023docu0sign01839.s3.nl-ams.scw.cloud/docu.html"
+    },
+    {
+        "Folder Hash": "00d52b36782e8bd2e08b4acb1f9d210868e74ba616065c52a057a85ecd1131fd",
+        "Brand": "DPD",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The determination of the brand as DPD is strongly supported by multiple references in the HTML information provided. The title of the webpage contains \"DPD (EN) -\", which directly mentions DPD, typically indicating the brand of the website. The footer text also contains explicit mention of \"\u00a9 2023 DPD\" which is a clear indicator of site ownership or primary branding, corroborating the information suggested by the title. Additionally, the footer text includes \"DPDgroup\", further associating the webpage with the DPD brand. These text elements are critical for identifying the brand, and their consistent reference to DPD across different sections of the webpage supports a high confidence in this assessment.",
+        "Url": "https://tracktrace.dpd.parcel.details.20-251-144-24.cprapid.com/info/update.php"
+    },
+    {
+        "Folder Hash": "018942efa16ee39476eabde8c3db30d7c53374cb602a2b33aa92b105dc077cb1",
+        "Brand": "Steam",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The identification of the brand associated with the webpage can be confidently determined as Steam. Several pieces of the provided HTML information strongly support this conclusion. Most notably, the favicon URL points to a domain associated with Steam (`https://steamcommunity.com/favicon.ico`), strongly indicating a relation to the Steam platform. The paragraphs_text further corroborates this, with numerous mentions of \"Steam,\" \"Steam account,\" \"Steam Guard Mobile Authenticator,\" and \"Steam Support.\" These references make it clear that the webpage is related to Steam account security and login procedures, common elements of user interactions with the Steam platform. The footer's span text also contains direct mentions of \"Valve Corporation,\" which is the parent company of Steam. It also mentions several policies and agreements typically associated with Steam accounts, such as the \"Steam Subscriber Agreement.\" The consistency across these different parts of the HTML \u2013 favicon, paragraphs text, and footer \u2013 powerfully points to Steam as the brand of the webpage.",
+        "Url": "https://steamcorumunity.ru/gift"
+    },
+    {
+        "Folder Hash": "021bffc44c3b2ce2138f4f9a01d4061b1c5b71d13d521d737df23b3d2fb6b638",
+        "Brand": "DPD",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand analysis of the webpage is primarily grounded on repeated references to \"DPD\" in the HTML script, particularly in the title and footer sections. The title of the webpage is \"DPD (DE) - Singapore,\" which not only mentions DPD but implies a specific regional operation (Germany, indicated by \"DE\"). The footer text further substantiates the identification with a copyright notice explicitly stating \"\u00a9 2023 DPD.\" Additionally, among the listed legal and company-related links in the footer, \"DPDgroup\" appears which supports the conclusion that the webpage is related to the DPD group of parcel delivery services. While the favicon links to a different domain (https://www.brt.it/...), this could potentially suggest a partnership or a temporary usage of resources and does not overpower the other evidences pointing to DPD due to the consistent branding elements found elsewhere in the text. The headers and navigation elements further discuss customer-oriented services typical for a parcel service which aligns with DPD's business model, with mentions of parcel tracking and customer service functionalities. Hence, the predominance of \"DPD\" in crucial brand identity placements such as the title and footer, alongside contextual service references in the header, strongly indicate that the brand is DPD.",
+        "Url": "https://verfolgen.sie.dpd.com.paketdetails.20-215-40-188.cprapid.com/dpd/update.php"
+    },
+    {
+        "Folder Hash": "0335530af7d10cbdd52298135851077757a579585684c217a599be111b9a8b4d",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The available HTML information does not provide sufficient data to accurately determine the brand of the webpage. The title \"Home\" is generic and does not allude to any specific brand. Essential identifiers such as meta_description, favicon, logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are all listed as \"Not Found.\" The only somewhat contextual information available is the \"span_text\", which seems to display a sequence of numbers (1 through 9 and 0) and the word \"Language\". This data more likely pertains to navigational or functional elements of the webpage rather than to branding. Such content does not offer hints towards any identifiable brand, making it impossible to ascertain the brand with the evidence provided. Therefore, by strictly adhering to the rules of analysis set for this task, the brand cannot be identified, leading to the lowest confidence score.",
+        "Url": "https://ebayvips.com/index/user/login"
+    },
+    {
+        "Folder Hash": "05316322b44afe9280b5ff5d757ae51e3147804d70467e8f97da0b5b5fbaf1b8",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The HTML information provided lacks substantial brand-specific details within the main components (footer, headers, logo) that could clearly point to a specific organization or company. The title \"ERROR de Validacion - Sucursal Vitrual Personas\" and the content within the span text \"SucursaI VirtuaI Personas\" suggest a context of an error message on a virtual branch (likely banking or service-oriented), but they are too generic to definitively associate with any specific bank or institution. Additionally, derived elements like \"Ingrese su Clave Dinamica\" indicate a security feature typical for banks or secure platforms, yet still do not provide explicit clues regarding the brand identity. The favicon path is also ambiguous as it uses a relative URL pointing to a generic 'logo.png' and does not specify any unique brand identifier. The lack of localized or unique identifiers in the given HTML script elements like logos or specific naming conventions further obfuscates any possibilities to pinpoint a specific brand confidently. Thus, the evidence is insufficient to declare any brand with certainty.",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATOTP/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "056ba70ddf3a5f6758c9c5d7ff273a1a6cce36eef155eba0aa72c6791efe54fe",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "5.00",
+        "Supporting Evidence": "The information provided in the HTML script is not sufficiently distinctive to conclusively identify the specific brand of the webpage. The title \"Sucursal virtual solicitud de creditos libre inversion\" translates to \"Virtual branch loan application for free investment,\" indicating a service related to banking or financial applications, but it does not specify a particular financial institution or company. The favicon path does not contain a brand name; it merely points to a generic location for an image file. Also, critical identifying elements like the logo\u2019s alt text, footer text, and any branded navigation content are not found, which are typically strong indicators of brand identity. Furthermore, the span text seems to be part of a generic interface for a financial service portal, focused on user input errors and login details without any explicit brand references. The copyright date alone is a general assertion of copyright and does not indicate ownership. Thus, from the available data and within the strict limitations set, no definite brand association can be made.",
+        "Url": "https://finanncacionalsitematransaccional.replit.app/js/revolution/js/extensions/tr/a3/mua/VALIDATMAIL/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "0596e728718562ea71cc13a39ab29fd030b4eb393857c01f70ebd9e372316464",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The information provided does not give a conclusive hint towards any specific brand, and there is confusion between the favicon from \"telegram.org\" and the text content related to \"VIRAL WOMAN MELAYU,\" which doesn't clearly associate with any known brand directly. \"VIRAL WOMAN MELAYU\" could potentially be a content theme or a specific topic, rather than a brand. The favicon URL links to Telegram, however, there's no additional supporting evidence that the webpage is directly associated with Telegram itself; it could simply be using an icon from Telegram, which is common in situations where webpages use popular icons from other domains without directly belonging to that brand. Additional fields such as metadata, logo alt text, footer, headers, and nav bar content are either missing or reported as \"Not Found,\" thus providing no further clues. Therefore, based on the available evidence, it's uncertain if \"VIRAL WOMAN MELAYU\" refers to a brand or if it is an article title, blog post, or other non-branded content. Without more specific brand indicators, we cannot decisively pinpoint a brand, leading to confidence in concluding that there is no identifiable brand (NA) related here.",
+        "Url": "https://viralwomanmelayu.st-me.id/"
+    },
+    {
+        "Folder Hash": "05e01b51ab1ad1f60317613efe29ace689aefb237438637e91416e90827c59bc",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The key determinant in identifying the brand as Facebook comes from the span text, which includes multiple references to \"Facebook.\" It mentions \"facebook | or | About \u00b7 Help \u00b7 More | Facebook Inc.,\" suggesting strong ties to Facebook, specifically noting \"Facebook Inc.\" at the end, which refers directly to the company's name. This information outweighs the lack of data in other areas such as the meta description, favicon, logo alt text, footer text, headers text, nav bar content, and paragraphs text, all of which were noted as \"Not Found.\" The title \"Please log in to see this page\" is common for many websites requiring authentication but does not specify a brand. Therefore, the explicit mention of Facebook in the span text provides the most credible link to the brand identity of the webpage. This pattern of referencing the brand name along with core navigation options typically associated with Facebook (like \"About\" and \"Help\") supports a strong indication that the webpage belongs to Facebook. Given that this analysis is based solely on the available HTML script information provided, and significant identifiers like the favicon and logo are missing, a complete certainty can't be attained, thus the confidence score is not a full 10.00.",
+        "Url": "https://tanjant.com/vds/cvd/beaxa/xca/?3243565453="
+    },
+    {
+        "Folder Hash": "0f6eeae2aeb747e6fc5facefae97df26a7ecaff894118707b2fcbe197f2fefa8",
+        "Brand": "USPS (United States Postal Service)",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage can be confidently identified as USPS from several distinct indicators present in the HTML script. The title \"USPS.com\u00ae - USPS Tracking\u00ae Results\" explicitly mentions USPS, which stands for the United States Postal Service. Additionally, the footer section includes copyright text \"Copyright \u00a9 2023 USPS. All Rights Reserved.\", which reinforces the identification of USPS as the brand. The nav bar contains specific services offered by USPS, such as \"Track a Package\", \"Find USPS Locations\", \"Buy Stamps\", and \"Schedule a Pickup\", which are typical services of a national postal service. Further confirmation comes from links to other USPS-specific sites and services mentioned in the footer, such as \"Business Customer Gateway\", \"Postal Inspectors\", \"Postal Explorer\", and \"National Postal Museum\". These elements are unique to USPS, making the identification highly reliable and accurate.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/re-verify/"
+    },
+    {
+        "Folder Hash": "12a4df9b462001c08ed797977ae045849375557102eb779c6f3eeab80e357497",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification primarily hinges on several key clues embedded within the HTML script information. The most salient among them is the title tag, which plainly includes \"DHL,\" a renowned global shipping and logistics company. This is further corroborated by the favicon link provided which contains \u2018favicon_dhl.ico\u2019, directly referencing the DHL brand in its filename, thereby linking it to the company\u2019s branding themes. Additionally, the header text advises users about login procedures specifically mentioning \"DHL Email holders\" which directly suggests this content is tied to internal systems or portals specifically for DHL employees or affiliates. The footer's content and legal copyright mentions appear generic and are primarily for website functionality attribution (Webauthor), without directly indicating the corporate branding, so less emphasis is placed there for brand identification. This evidence collectively aligns strongly with DHL, making the assessment highly confident.",
+        "Url": "https://dhlrewardscards.com/auth.cfm?fs=NLI&nli=true&path=%2Fmodules%2Fportal%2Fdefault%2Ecfm&sign_in=true"
+    },
+    {
+        "Folder Hash": "12ec7a45e0d029c21f632af62594edbe0b66698991164d6ac42838b3a42210b4",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information is highly limited and lacks specific branding details necessary to identify a brand. The title \"Home\" is generic and does not point to any specific brand. Other potentially useful fields such as meta_description, favicon, logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are either missing (listed as \"Not Found\") or do not contain any brand-specific information. The span text includes generic interface elements such as \"Menu\" and \"Remember me\" along with a \"SIGN-IN\" button. These elements are common to many websites, and without additional context or specific brand identifiers, they do not help in identifying any particular brand. The asterisks (*) and other text lacking distinct branding or naming prevent the determination of a specific webpage brand based solely on the given HTML script extracts. This concludes that no conclusive evidence points to any brand.",
+        "Url": "https://signinmembers1st.weebly.com/"
+    },
+    {
+        "Folder Hash": "347bf16183524d4ba8a6be39c055ed1fa62c6a302440388ae6bbdb958bdcdb2d",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The HTML information from the webpage strongly points to Facebook as the brand. Key indicators include multiple mentions of \"Facebook\" in the headers_text section, with phrases such as \"Log Into Facebook\" and specific prompts like the review of advertising restrictions and account issues related to Facebook\u2019s community standards. Moreover, the detailed process described for account verification and submission review, including the request for a photo ID and specific terms like \"community standards\" and \"account verification,\" are consistent with Facebook\u2019s known user account management protocols. The paragraphs_text reiterates guidelines and processes aligned with Facebook's identity verification and community guidelines, further solidifying the brand association. Although the logo_alt_text and footer_text are marked as \"Not Found\", the extensive textual content describing branded processes sufficiently identifies Facebook. Moreover, the issue handling, such as requesting a review if an account was mistakenly restricted, further aligns with Facebook\u2019s operational policies.",
+        "Url": "https://static-businessfbdns.com/help/10009837881921/confirm.html"
+    },
+    {
+        "Folder Hash": "37be9bfd6dad9f3091d597eb53943d2a71244acd9107f811c779384f979a3e35",
+        "Brand": "Orange",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The analysis of the given HTML information suggests that the brand related to this webpage is Orange. Key indicators include the title of the webpage \"messagerieorange,\" which hints at a messaging or email service related to Orange, a well-known telecommunications brand. Additionally, the paragraphs text contains \"Adresse e-mail Orange\" further reinforcing the association with Orange as it directly mentions an Orange email address. However, there is also mention of \"Yola\" in the paragraphs and span texts, indicating some involvement of Yola, potentially as a website builder tool used in creating the webpage. The brand Yola is known for helping users create free websites. The presence of both brands in the HTML script suggests a primary association with Orange for telecommunications or email services and a secondary tool usage (Yola for website creation). The lack of other solidifying brand indicators like logo attributes or clear footer texts slightly reduces the confidence in the analysis. Nevertheless, the direct references to \"Orange\" in key text areas strongly point towards Orange as the primary brand of interest for this webpage.",
+        "Url": "https://messagerieorange186.yolasite.com/"
+    },
+    {
+        "Folder Hash": "44b327d5f6d68c7d1c38ab583641a48620835cf7e2ce241f6189beb1ee81e464",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand is driven primarily by the consistent and repeated references to \"MetaMask\" throughout the HTML information provided. The title of the webpage notes \"met0amaskl0gin : A Crypto Wallet,\" which despite the typographical alterations, suggests MetaMask when combined with other context clues. The metadata also supports this by describing MetaMask specifically as a digital wallet for managing and transferring ETH and ERC-20 tokens. Important to this assessment is the favicon location which includes \"MetaMask_logo.png\", explicitly revealing the logo's name and its association with MetaMask. Further, both the headers_text (\"METAMASK | LOGIN\") and multiple paragraphs consistently mention MetaMask, discussing its functionality, history, and setup instructions, solidifying its presence and relevance to the webpage. No divergent brand information was presented in other aspects of the HTML content, corroborating MetaMask as the central brand represented on the webpage.",
+        "Url": "https://met0amaskl0gin1.github.io/"
+    },
+    {
+        "Folder Hash": "a79f630740feaa0015bd44b8d52f719c1a0cf7f1abdb921552297c7575277ce6",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the webpage's HTML information shows a rather generic title of \"Webmail Login,\" which is commonly used by numerous email providers and does not specify any unique brand. Further, all other potential indicators such as meta description, logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are listed as \"Not Found.\" The only somewhat distinctive piece of information provided is the favicon in base64 encoding. However, decoding this image or identifying a brand based solely on a favicon without additional context is neither practical nor reliable. The favicon, by itself, does not give any clear indication of a specific brand. Therefore, given the generic title and the absence of any other identifying information or specific branding elements in the provided HTML script, there is no sufficient evidence to determine a particular brand associated with this webpage.",
+        "Url": "https://bafybeiebzt2muanjrqygfp2mjew3kbkwjnn6i424tigu66c46dfnaiuiau.ipfs.w3s.link/560.shtml?+"
+    },
+    {
+        "Folder Hash": "bf09f8f2add8342f0a21d82a66d22bfc4537c922278985ec32cb3d5ae3e4e23b",
+        "Brand": "USPS (United States Postal Service)",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the given HTML script points conclusively to USPS as the brand of the webpage. First, the title \u201cUSPS.com\u00ae - USPS Tracking\u00ae Results\u201d explicitly mentions USPS, indicative of their proprietary tracking service. Moreover, the footer text also provides extensive references to USPS resources and services, such as \"About USPS Home,\" \"USPS Service Updates,\" and \"Other USPS Sites\" which lists internal links associated with USPS like \"Business Customer Gateway\" and \"National Postal Museum.\" The inclusion of unique USPS service terms like \u201cInformed Delivery\" and \"Click-N-Ship\" in both nav bar content and header texts further aligns with USPS's specific offerings. Lastly, the footer\u2019s copyright statement includes \"Copyright \u00a9 2023 USPS. All Rights Reserved,\" confirming the webpage\u2019s affiliation with USPS. Hence, combining these explicit mentions and contextually relevant evidence from the webpage\u2019s content, the brand is confidently identified as USPS.",
+        "Url": "https://app-800f3f78-f955-4cdb-8fca-362ee6a47c94.cleverapps.io/reconfirm/"
+    },
+    {
+        "Folder Hash": "f8c9f9ae5d2d8dbf5b8ff6bf453ad334ebca7d6d65286fc9ba94dca76989a069",
+        "Brand": "Boxmode",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The analysis of the webpage's HTML information highlights a notable mention of the brand \"Boxmode\" within the content of a paragraph. Specifically, the text states, \"This website is powered by Boxmode.\" Embedded within the context of encouraging users to start their own websites through Boxmode, this direct mention suggests that Boxmode plays a significant role in the webpage, likely attributing to its creation or hosting platform. While other identifying marks such as the favicon, logo alt text, footer text, headers text, and nav bar content are not available for further validation, the paragraph is quite explicit in linking the website to Boxmode. This explicit reference carries substantial weight as it directly connects the website's functionality and potential purpose with Boxmode, indicating that either the webpage is owned or powered by Boxmode or serves essentially as an advertisement or gateway for the Boxmode service. The inclusion of an invitation to sign in using a Yahoo account does not necessarily indicate a Yahoo brand ownership but more likely points towards an integration or compatibility feature offered by the webpage, which further emphasizes its functionality rather than its branding. Therefore, Boxmode appears to be the most plausible brand associated with this webpage, albeit with moderate confidence due to the lack of multiple corroborating brand indicators.",
+        "Url": "https://yahooservicemai.boxmode.io/"
+    }
+]

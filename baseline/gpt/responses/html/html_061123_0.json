@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "1083253b8c9bec09a823866a63f08c5ff4778f5ad5c0a4970eed093a0beb4c98",
+        "Brand": "JST",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand as JST is primarily supported by multiple instances in the HTML content where JST is referenced explicitly. Notably, the email address provided is JST@jst.com.cn, suggesting a corporate association. Furthermore, the contact and company address details also list \"\u4e2d\u56fd\u6d77\u5357\u7701\u6d77\u53e3\u5e02\u5357\u6d77\u5927\u9053168-39\u53f7,\" which alongside the provided contact details under the \"\u8054\u7cfb\u6211\u4eec\" section, indicates a physical location linked to JST. Moreover, the elements in the website content such as \"\u8d70\u8fdbJST\" and \"\u516c\u53f8\u4ecb\u7ecd\" (which translates to \"About JST\" and \"Company Introduction\") explicitly reflect self-reference, typical of a corporate brand\u2019s website. The confidence in this analysis would be higher but for the absence of key identifying elements such as a company logo with an alt text, and the presence of widespread mentions of \"telegram\u4e2d\u6587\u7248,\" which might imply a mixed-focus content but do not directly infer brand alteration. Therefore, while the presence of another brand (Telegram) is noted, the consistent corporate references and contact details support indentifying JST as the primary brand of the website.",
+        "Url": "https://www.tbxjly.com/"
+    },
+    {
+        "Folder Hash": "1f7d6cd1b3fcd3e9a60849606d29da9c4cc9c21781d30d9929031bbd77883d53",
+        "Brand": "Libero",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand as \"Libero\" is based on several elements provided in the HTML information. The title of the webpage is \"Libero Account,\" which directly references Libero. The favicon URL also includes 'libero.it', which is a strong indicator of the brand since the favicon is usually branded to reflect the website's corporate identity. Furthermore, in the footer and other texts, there is mention of \"Italiaonline S.p.A.\", which is linked to Libero through their corporate relationship evident from the text stating \"Direzione e coordinamento di Libero Acquisition S.\u00e0 r.l.\" Both Italiaonline and Libero are part of the same corporate group. The presence of these elements consistently pointing to Libero greatly strengthens the confidence in this identification. The mention of an email from 'viabuy@libero.it' in the headers text also supports this identification, indicating that it is a service or functionality linked specifically to Libero. Thus, with multiple corroborating pieces of brand-specific information in vital areas of the webpage's HTML, there's high confidence in identifying the brand as Libero.",
+        "Url": "http://ip170.ip-51-89-105.eu/verifica.php"
+    },
+    {
+        "Folder Hash": "1ff5c2e99bb10b1c59c18cc9c782d758727da0a1435aaa640627d647234dd67a",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The available HTML information did not provide sufficient data to securely identify a specific brand of the webpage. The title \"Webmail\" is a generic term used for accessing email services online and does not point to a specific brand. Additionally, most of the important fields such as meta_description, favicon, logo_alt_text, nav_bar_content, and paragraphs_text are noted as \"Not Found,\" offering no clues. The footer_text is empty and does not provide any branded content. The headers_text, \"Connexion au Courriel Web,\" translates from French as \"Connection to Webmail,\" which continues to be too generic to pinpoint a specific service provider. Similarly, the phrase in span_text including repetitive symbols and the word \"CONNEXION\" centers around the functionality (login) rather than providing any brand-specific mentions. Thus, without recognizable logos, specific brand mentions, or unique identifiers, the identification of a brand is impossible from the provided information alone.",
+        "Url": "https://videotronmaill.weebly.com/"
+    },
+    {
+        "Folder Hash": "31c3d26c6a6afedf3069f1e380d3568b7fb42bbf7a200f1342fd74ab7c94ea9b",
+        "Brand": "Trust Wallet",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identification of the webpage is highly confident based on the provided HTML information. The webpage title explicitly names \"Trust Wallet\" alongside descriptors of the service it provides, such as the best cryptocurrency wallet and Ethereum wallet. The meta description supports this identification by starting with \"Trust Wallet is the best ethereum wallet and cryptocurrency wallet...\", which directly correlates with the brand name mentioned in the webpage title. Moreover, the footer text also explicitly states \"Trust Wallet,\" reinforcing that this is indeed content related to the Trust Wallet brand. Header texts include phrases like \u201cDownload Trust Wallet\u201d and \u201cGet the Trust Wallet app now!\u201d which continue to affirm the brand identity. Additionally, in the paragraphs_text section, multiple instances refer to \"Trust Wallet\" and note it as the subject of the sentence, proposing activities and services directly related to Trust Wallet, such as buying, storing, exchanging cryptocurrency, and using decentralized apps through Trust Wallet. All these elements robustly point to \"Trust Wallet\" as the brand of the webpage.",
+        "Url": "http://trustwallet.masdubai.com/"
+    },
+    {
+        "Folder Hash": "4cde2ee97de08c3d519cc5cb4a6bf764e95c43019039664a57a5dace35813a3a",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "2.00",
+        "Supporting Evidence": "The analysis of the HTML elements provided reveals limited specific information about the brand of the webpage. The title is simply \"Mail,\" which is generic and used by various webmail services. The metadata and certain crucial identifying attributes like the logo's alt text and metadata description are noted as \"Not Found,\" providing no clues. The headers text includes \"Webmail\" and \"Sign in,\" which are standard terms for any email service provider, but do not point to any specific brand. Additionally, the footer and nav bar contents are missing, removing a common area where brand hints are typically found.",
+        "Url": "http://bafybeif263mizfzroy53si3dt7jafhzmwf33bx27v4qx7biqfknpfkiuvy.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "4eb1b73e859aa7916e1e9e31f044df21f7a25357147cf9dfff1dbdd2acd68566",
+        "Brand": "Coinbase",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary indication that this webpage is associated with the Coinbase brand comes from the title of the webpage itself, which is simply \"Coinbase.\" Typically, the title tag of a webpage is a strong indicator of the brand, as it often includes the company or product name and helps in optimizing the page for search engine rankings directly associated with the brand name. Additional support for this identification is found in the span text, which though it does not mention Coinbase directly, discusses functionalities like trading crypto assets and storing NFTs, which are services known to be offered by Coinbase. The reference to \"No Coinbase account required\" suggests that the content is describing a particular service or feature within the Coinbase ecosystem, likely aimed at expanding service accessibility or functionality. Despite lack of information from the meta description, logo alt text, footer, headers, nav bar, and paragraphs which could further affirm the brand identity due to their non-availability in the provided data, the indication given by the title and the contextual framework provided by the services described in the span text are sufficient to conclude with high probability that the brand is Coinbase.",
+        "Url": "https://www.coinbasewalletty.com/#/"
+    },
+    {
+        "Folder Hash": "834bef820c748118a702f29d856f01a18d25e118ef9843c53b5463eabe5ea6ce",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "Based on the information provided from the HTML details, the identification of the brand is highly challenging due to the lack of specific brand identifiers. The title \"Email Portal\" is generic and does not point to any particular brand. Metadata descriptions and logo's alternate text are not found, which might have otherwise provided direct clues about the brand's identity. The favicon's URL (https://i.ibb.co/h1HX3Ch/favicon1.png), while unique, is hosted on a general image hosting service (imgbb.com) that does not reveal any brand-specific information. The footer, header text, nav bar content, and paragraphs are also not found or do not contribute useful brand-related insights. The only tangible content is the span text that includes messages in French about email connection delays and account existence, which are still too generic to link to any specific brand. Thus, no concrete evidence points to a specific brand, necessitating a rating of absolute uncertainty in brand identification.",
+        "Url": "https://mealyfulloptimization.midwaveventure.repl.co/"
+    },
+    {
+        "Folder Hash": "ca96795bd1f275a397951558af3e146127217dfc141af28f267ac264792a50c2",
+        "Brand": "bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand name \"bet365\" is prominently used throughout the HTML information provided. It appears in the webpage title (\"bet365-\u5b98\u65b9\u76f4\u8425\u3010E365.com\u3011\"), repeated references within the paragraph texts (\"\u5728\u7ebf\u5ba2\u670d | bet365yxkf@gmail.com\" and multiple other mentions such as \u3010bet365\u5b98\u7f51\u94b1\u80fd\u94b1\u5305 \u5b58\u53d6\u9996\u9009\u3011), and in the footer which states that BET365\u7f51\u7edc\u516c\u53f8 holds the copyright from 2018 to 2028. The consistency and frequency of \"bet365\" appearing in various texts, including welcoming new visitors with the greeting \"HI,\u6b22\u8fce\u6765\u5230bet365~\", greatly reinforce the association with this brand name. Although a combination of different services and features are mentioned, the persistent recurrence of \"bet365\" throughout significant content areas such as email handles, branding messages, and legal disclaimers, strongly indicates that it is the primary brand of the webpage.",
+        "Url": "https://896e365.com/#/"
+    },
+    {
+        "Folder Hash": "fca33b8131350ee1c29e887d7ef22f7cf9b8e81430292f867d6515de476ff45d",
+        "Brand": "Bank of Ireland",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.85",
+        "Supporting Evidence": "The title of the webpage, \"Login - Bank of Ireland,\" is a primary indicator of the brand as it explicitly mentions the Bank of Ireland. This information alone is quite substantial to identify the brand accurately. Furthermore, the headers text includes distinct occurrences referencing to Bank of Ireland such as \"Bank of Ireland Cookie Notice,\" supporting the identification strongly. Such mentions directly associate the webpage with Bank of Ireland, reinforcing its brand identity. The favicon, which generally represents a website's icon on the browser tab, comes from a domain that includes suggestive words like \"365online,\" commonly associated with online service portals of banks or financial institutions, implying its connection to a banking website, though not directly specifying Bank of Ireland. However, coupled with the explicit mentions in the webpage's title and headers, the favicon URL enhances the association with Bank of Ireland. The rest of the provided HTML information, although extensive in detailing technical and functional aspects of cookies and Javascript, repeatedly emphasizes elements associated with user login and banking services, aligning with the functions expected of a bank\u2019s webpage. Therefore, the consistency in the themed content across detected features justifies high confidence in identifying the Bank of Ireland as the brand related to this webpage.",
+        "Url": "https://personal365-transact.com/"
+    }
+]

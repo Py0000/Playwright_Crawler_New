@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "016cd121e62de4ee0067f78763543cfb6ef088021a9c8ba113dc6289cf2d0932",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The available HTML information from the webpage provides extremely limited details with regard to branding. The key identifiers like favicon, logo_alt_text, meta_description, footer_text, and nav_bar_content all return \"Not Found\", which inhibits the possibility of establishing a connection to any specific brand. The headers_text, which mentions a \"Twelve (12)-Recovery Phrase\", and the paragraph_text about separating words with spaces suggest a focus on security or recovery, possibly associated with digital wallets or security platforms. However, these cues are generic and are utilized by multiple brands and services, preventing any definitive brand association merely based on this text alone. Overall, the absence of direct branding elements or unique identifiers leads to an inability to confidently ascribe the webpage to a particular brand. Thus, without recognizable or distinct brand information, the assessment must conclude with the brand as NA (Not Available).",
+        "Url": "https://third-friendly-diadem.glitch.me/jade.html"
+    },
+    {
+        "Folder Hash": "02af6327250b9e12424c2dcb37e0a558d503af1aa75e2cbbd7e52235af0b5651",
+        "Brand": "Weebly",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.50",
+        "Supporting Evidence": "The analysis of the HTML script leads to the identification of the brand as \"Weebly.\" This is primarily deduced from the favicon URL provided: \"https://www.weebly.com/favicon.ico\". The favicon URL contains the domain 'weebly.com,' which is a significant identifier pointing to Weebly, a well-known website building platform. It's important to note that the other pieces of information in the HTML script, such as the title mentioning \"sky\" and various placeholders in the header and paragraph texts like \"Shopping Cart,\" \"Sign in to your account,\" and \"Checkout,\" are generic and do not distinctly point to any specific brand. Given the favicon is the only piece harboring a clear brand reference in its URL and because it is common for website builders like Weebly to host user sites under their domain, the analysis leans towards identifying Weebly as the brand. However, the lack of explicit branding elements in other critical areas like logo alt text and footer text (both marked as \"Not Found\") slightly lowers the absolute certainty in this identification.",
+        "Url": "https://sky-102647.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "03412d8accfcc1a53471c78a46e9fbacaf8c274e6977deddcfa4b28c4f929399",
+        "Brand": "Error Occurred",
+        "Has_Credentials": "Error Occurred",
+        "Has_Call_To_Actions": "Error Occurred",
+        "List of Credentials fields": "Error Occurred",
+        "List of Call-To-Actions": "Error Occurred",
+        "Confidence Score": "Error Occurred",
+        "Supporting Evidence": "Error Occurred",
+        "Url": "https://nationwide-online.net/"
+    },
+    {
+        "Folder Hash": "064f22dcda675c4108a7c77a957450faf5d1c2ad24ea2774d44cdcff122e4f11",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The identification of the brand as \"Microsoft\" is primarily based on the text found in the headers of the webpage which explicitly includes \"MICROSOFT\". This alone substantially informs the identification as it directly mentions the brand. The title of the page \"Home | Mail\" does not provide specific brand information, and the favicon URL hinting at Weebly (https://www.weebly.com/favicon.ico) introduces a potential redirection or hosting element, rather than indicating the primary brand of the webpage. Additional confusion arises from the mention of shopping-related elements like \u201cShopping Cart\u201d, \u201cCheckout\u201d, and \"Continue Shopping\". These references might suggest a commercial platform or e-commerce aspect tied to Microsoft, potentially leveraging a service like Weebly for support or structure. However, without any other conflicting brand indications stronger than the explicit mention in the headers, and despite the Weebly favicon which might suggest platform usage rather than brand affiliation, the most prominent and directly mentioned brand remains \u201cMICROSOFT\u201d. Therefore, the presence of \"MICROSOFT\" in clear text in the header area is the linchpin of this identification, thus the confidence level is fairly high, though not absolute, due to the mixed signals around platform use and favicon source.",
+        "Url": "https://mail-105934.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "06a867da9e9f012e77681b23f89fb20b7c0fdbeee1a447cae22d2291e205673d",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information offers minimal clues about the specific brand of the webpage. The title \"Verif - Pemulihan Akun\" and the repetitive mention of \"Pemulihan Akun\" in various text elements suggest the page is related to account recovery, but \"Verif\" does not provide enough context to link it definitively to a recognized brand. The absence of a meta_description, favicon, logo_alt_text, and nav_bar_content further limits the ability to identify a brand through typical graphical or descriptive markers. The footer and header texts do not contain any identifiable branding information either. Additionally, the phrase in the span text, \"Create your own unique website with customizable templates. Get Started,\" is generic and commonly associated with various website building platforms, making it unreliable for pinpointing a specific brand. Therefore, due to the lack of distinct and brand-specific information, it is impossible to conclusively determine the brand of the webpage from the data provided.",
+        "Url": "https://pulihkan-fb2023.weebly.com/verif.html"
+    },
+    {
+        "Folder Hash": "0771b311818476f1401c4c874c92aad5f3ac420daf43afd853a869f4e1b1a9af",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The information provided for identifying the brand of the webpage is extremely limited and lacks specificity. The title \"Home\" is a common title and does not give any brand-specific clues. The metadata, favicon, logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are all marked as \"Not Found,\" offering no helpful information for brand identification. The only available piece of information is the span_text containing a series of numbers and the word \"Language,\" which appears to be part of a language selection or numeric input functionality, but this too does not provide any direct or indirect mentions or implications of a specific brand. Without distinctive data points that could hint at a particular company or service, the brand remains unidentifiable based on the given HTML script content.",
+        "Url": "https://ebaymg.com/index/user/login"
+    },
+    {
+        "Folder Hash": "07994fdc46c0900efa4814964924ba7b8029d1684cb2244da7bb2d295356e716",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The key piece of information that leads to identifying the brand as Telegram in this scenario is the URL provided for the favicon, which references https://telegram.org. This URL is explicitly associated with Telegram, a well-known instant messaging service. Favicon URLs typically serve as rapid visual identifiers for brands in browser tabs, confirming the association with Telegram in this context. Although the title and other texts (\"The real life companys aid fund collaborates with the Singapore state government\") do not directly mention Telegram, the presence of the Telegram favicon URL is a strong brand identifier in web development. Without other contradicting evidence such as a more specific logo or differing footer text (both marked as \u201cNot Found\u201d), the favicon's URL serves as the most definitive evidence available. Consequently, we attribute the webpage primarily to the Telegram brand. It should be noted that other evidence, including paragraphs and navigational content, is absent, potentially limiting further brand identification. However, the available evidence with the favicon URL is significantly indicative of the Telegram brand in this context.",
+        "Url": "https://the-real-life-company-singapore.real-www.com/"
+    },
+    {
+        "Folder Hash": "081c65126aa5a2b56b4a4f92eedb0015cce1d0715658a487e7babbe3ff97d013",
+        "Brand": "EE",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The exhaustive analysis of the provided HTML information strongly indicates that the brand of the webpage is EE, which stands for Everything Everywhere, a major mobile network and internet service provider in the UK. Key pieces of evidence supporting this identification include the webpage title \"Superfast 5G & 4G Phones, Tablets and Fibre Broadband | EE\" and various references to EE throughout the paragraphs_text like \"Your home runs smarter with new EE,\" \"Level up your play with new EE,\" and specific product offerings described as EE products such as \"EE Home.\" Additionally, the footer text explicitly references \"EE Limited is authorised and regulated by the Financial Conduct Authority...\" and states \"\u00a9 2023 EE LIMITED.\" These mentions directly associate the webpage with the EE brand. Moreover, mentions of EE related terms and offerings, like \"EE Broadband,\" \"EE Game,\" and repeated references in the meta_description confirm that the brand identity revolves around EE. The favicon URL also hints at a directory that likely belongs to EE, further confirming the brand's identification. All these elements provide clear, consistent branding signals that point unequivocally to EE.",
+        "Url": "https://ee.co.uk/"
+    },
+    {
+        "Folder Hash": "09a7e39cde421652c13fc156c85cb35795054795ec5fb67543592de8a74af019",
+        "Brand": "Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "6.50",
+        "Supporting Evidence": "The determination of the brand as Outlook primarily relies on key pieces of textual content found in the HTML script. The title of the webpage, \"Home | Outlook,\" suggests a significant emphasis on the Outlook brand. This can often be a strong identifier as page titles reflect the content or service provided and are usually named after the brand or organization they represent. Furthermore, the header text mentions, \"Sign in to continue to Outlook,\" which directly names Outlook, reinforcing its association with the webpage. Although other evidence could suggest mixed branding, such as the favicon sourced from Weebly (https://www.weebly.com/favicon.ico), which indicates the site might be created or hosted using Weebly's website builder services, this does not necessarily conflict with Outlook being the primary brand of the webpage. The nav bar content and paragraphs simply suggest basic navigation and shopping cart functionalities, common in many web setups, yet they don\u2019t directly contradict the identification of Outlook as the main brand in focus. The instructions for other actions like \"Continue Shopping\" and \"Checkout\" are typical of many websites, especially those with integrated e-commerce elements, but no specific brand other than Outlook is indicated clearly through brand-specific language or logos. Hence, the primary evidence from the title and headers pointing to Outlook as the brand holds the strongest weight in this analysis, despite the ambiguity that arises from the generic e-commerce related text and third-party site builder elements.",
+        "Url": "https://outlook-100237.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "0c0608968fc943052de38332b504e7ff00debaba5e1cb2c314a535342e8a7649",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of Facebook as the brand of the webpage is based on multiple key elements extracted from the HTML content provided. The title of the webpage, \"Facebook-login or Signup,\" explicitly mentions Facebook, directly identifying the brand related to this page. Additionally, the footer text includes references to multiple services and features associated with Facebook, such as Messenger, Facebook Lite, Facebook Pay, Oculus, Portal, and Instagram\u2014all of which are known services and products offered by Facebook. The header text, which states, \"Facebook helps you to connect and share with the people in your life,\" reinforces the brand identity by describing Facebook's core service. This statement is a standard descriptor closely associated with Facebook's branding and user engagement strategy. Furthermore, the footer also lists activities like \u201cCreate ad\u201d and \u201cCreate Page\u201d which are functionalities specifically associated with Facebook\u2019s platform. Hence, the provided html information consistently aligns with Facebook\u2019s branding and services, supporting a confident identification of Facebook as the brand of the webpage.",
+        "Url": "https://harjai16.github.io/Facebook-login-page/"
+    },
+    {
+        "Folder Hash": "3d0689c981cb9662f1d2c11b2fe18433695b6760e4a4417163c1aa05d55e64bc",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "There is an insufficient amount of information to identify any brand as all key HTML fields outlined for analysis are missing or set to 'Not Found'. The only provided information is a generic error message related to a navigation timeout on a URL, which does not contribute to identifying the brand in any way. Given these circumstances, it is not possible to ascertain the brand reliably from the provided dataset.",
+        "Url": "http://telegramonline.net/"
+    },
+    {
+        "Folder Hash": "5567e926418568c90a1a3ebc6c5aba94d81b4b7b19f6cf255cf54d39fc5a01a0",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is based predominantly on the title text \"www.Netflix.com\" which explicitly mentions Netflix. The headers contain typical Netflix service features such as \"Enjoy on your TV,\" \"Download your shows to watch offline,\" and the offer for creating \"profiles for kids.\" These are hallmark features of Netflix's service offerings. Additionally, the footer includes the phrase \"Netflix India\" and questions frequently asked about Netflix's service such as membership details, viewing platforms, and pricing. Furthermore, the footer also refers to a phone number provided for customer inquiries, which concludes with \"Netflix India,\" reaffirming the brand identity. The paragraphs text further solidifies this, referring to aspects of Netflix's subscription model, platform compatibility (smart TVs, PlayStation, Xbox, etc.), child-friendly content, and other Netflix-related inquiries like subscription costs and watching options, which are commonly discussed topics on Netflix's subscription pages. All this information collectively points unambiguously to Netflix as the brand of the webpage.",
+        "Url": "https://shivanshu-mall.github.io/netflix-clone/"
+    },
+    {
+        "Folder Hash": "64bd0f8100a8087eec7f6cd924dbeaf5c94ba21ccd475180c4c45226950a9d0c",
+        "Brand": "bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The analysis primarily hinges on specific HTML elements provided: notably the webpage title and content. The title \"bet365\" directly references bet365, a well-known online betting company. This alone is a strong indicator of the brand's presence. Although the metadata description was not found, and no logo attributes are provided, the consistent mention of \"365\u4f53\u80b2\" in various parts of the text (paragraphs and span) aligns with bet365's sports betting offerings. The content regarding sports betting (\"\u767b\u9646\", \"\u6ce8\u518c\", and variety of sports betting options) throughout, including span_text directly mentioning \"BET365APP\", heavily points towards bet365's branding, associated with sports and event wagering. The inclusion of specific betting details like \"\u8ba9\u7403\", \"\u5927\u5c0f\", \"\u72ec\u8d62\" (pertaining to different types of bets), is typical of a sports betting platform, consolidating the inference that this is indeed a bet365 branded page. Despite the absence of more direct visual evidence like logo_alt_text, the overwhelming textual evidence and the relevancy to bet365's known service portfolio provide a high level of confidence in associating the webpage with the bet365 brand.",
+        "Url": "https://www.7365win.com/#/home"
+    },
+    {
+        "Folder Hash": "6ecf057eab4cdf1d0f1dd653432b638534f66727ee1bb85c66b721a770c62766",
+        "Brand": "GNDI (Grupo NotreDame Interm\u00e9dica)",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The predominant evidence pointing to GNDI as the brand for this webpage is found in the page title \"Plano de sa\u00fade GNDI\", which suggests the main content and focus of the website is related to healthcare plans offered by GNDI. This is further supported by multiple mentions in the headers text, which repeatedly references GNDI in contexts such as \"Cote online! | Plano de sa\u00fade GNDI\" and \u2018\"D\u00favidas sobre o Plano de Sa\u00fade GNDI\". Additionally, the footer explicitly states \"Site exclusivo para vendas de Plano de sa\u00fade GNDI - Revenda Autorizada\" indicating the website is specifically designated for distributing GNDI\u2019s health plans. The repeated appearance of \"GNDI\" across different contexts in the webpage (title, headers, footer, and paragraphs) aligns consistently with the identification of GNDI as the brand, despite mentions of various other health services and insurance companies in the extensive footer listing. The use of a unique CIF number and address further authenticates the specific focus on GNDI\u2019s services through this portal. Thus, the aggregation of these references culminates in a high level of confidence in identifying GNDI as the brand of the webpage.",
+        "Url": "https://www.gndisa.com.br/"
+    },
+    {
+        "Folder Hash": "7b2496e3855dbf20d62f039b8e6a40e3e00fe70cd76616833d894a6e2e70fa9e",
+        "Brand": "Discord",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as \"Discord\" is strongly supported by several key pieces of information extracted from the HTML script of the webpage. The title of the webpage explicitly mentions \"Discord | Your Place to Talk and Hang Out,\" which already includes the brand name. Further corroboration comes from the favicon link (\"/assets/847541504914fd33810e70a0ea73177e.ico\"), which, while not directly indicating Discord, it's hosted on a path that is typically used for brand-related assets. The metadata description describing the service as \"the easiest way to communicate over voice, video, and text\" aligns with Discord's widely known offerings. Additionally, the navigation content and headers also support the brand identification, with terms like \"Nitro\" (a known premium service offered by Discord) and other community and support-related terms typically associated with Discord. Moreover, the header segment explicitly mentioning product-related and community aspects such as \"Careers,\" \"Blog,\" \"Support,\" mirrors Discord\u2019s known community engagement and service structure. Collectively, these elements not only mention \"Discord\" by name but also describe its services and ethos closely, thereby affirming the brand's presence with high confidence. Hence, the conclusion that the webpage is branded under Discord is made with the highest degree of certainty.",
+        "Url": "https://discordapi.aiparty.art/"
+    },
+    {
+        "Folder Hash": "7f5b2d71e5c2f6efc21837e3fd354d88a6062315eb174fc992ee8c30bf1c6318",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of Netflix as the brand of the webpage is strongly supported by several key pieces of HTML information. The title \"Netflix Landing Page Clone\" strongly hints at Netflix, although the word \"Clone\" suggests a reproduction or imitation for practice or educational purposes rather than the official site. The footer text is another strong indicator, noting various Netflix-related options such as \"Netflix Originals,\" which is a distinctive and key offering solely related to Netflix. Additionally, addresses like \"Investor Relations,\" \"Media Center,\" and \"Corporate Information\" align with typical contents of an official Netflix site. The header text with phrases such as \"Watch anywhere. Cancel Anytime\" and \"Watch Free For 30 Days\" aligns perfectly with known marketing phrases used by Netflix. Finally, the paragraphs text deeply corroborates the use of Netflix's service offerings and language, mentioning device compatibility (e.g., Smart TVs, PlayStation, Xbox), service features (e.g., download for later), and the option to watch on different platforms (e.g., Netflix.com), all of which are consistent with Netflix's real services. Despite a lack of logo or favicon data, the textual content provided is distinctly aligned with Netflix's branding and services.",
+        "Url": "https://jamesya28.github.io/Netflix_Landing/"
+    },
+    {
+        "Folder Hash": "95fd3cc601baaa4dac2bd92065bcaad8ffbdf0bcd5e9cfbd8fbd7c2058784a21",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage is clearly identifiable as Microsoft based on multiple pieces of evidence throughout the provided HTML information. Firstly, the title of the webpage contains \"Microsoft 365,\" which is a service provided exclusively by Microsoft. Furthermore, the page's meta description references other Microsoft-specific software such as Word, PowerPoint, Excel, and OneNote, clearly associating it with Microsoft's suite of productivity tools. The favicon URL includes a domain that mentions 'office.net' which is known to be affiliated with Microsoft. The header text specifically names \"Microsoft\" and \"Microsoft 365\" reinforcing the brand identity. The footer contains extensive references to various Microsoft products and services such as Surface devices, Windows, and Microsoft Store alongside corporate information (\"About Microsoft,\" \"Privacy at Microsoft\") that also points exclusively to Microsoft. All these details consistently support that the webpage is branded under Microsoft, displaying no ambiguity or references to any other brands in the core elements of the webpage.",
+        "Url": "https://www.office.com/"
+    },
+    {
+        "Folder Hash": "a56175fd70509eab7e00a834452ec9fc469408b7c43e9592ea14a3c845b93a36",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage directly names \"Netflix,\" which is a clear and direct indication of the brand identity. Moreover, the headers_text includes phrases that are highly characteristic of Netflix's service offerings, such as \"Unlimited movies, TV shows and more,\" \"Watch anywhere. Cancel anytime,\" and specifically the options available (\"Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more\"). These details describe the unique selling propositions and functionality of Netflix's streaming service. Additionally, the paragraph text confirms brand-specific information with questions commonly associated with Netflix, such as \"What is Netflix?\" and \"How much does Netflix cost?\" The mention of Netflix in the context \"Netflix India\" in the paragraphs_text categorically points to Netflix as being the subject of the page. This combined evidence from the title and the descriptive text relating to service specifics, commonly asked questions, and regional reference (Netflix India), very strongly confirms the identification of the brand as Netflix.",
+        "Url": "https://ayush979876.github.io/netflix/"
+    },
+    {
+        "Folder Hash": "ceb43c6f039ec7c362e6f60162dd54e222569a2fdc9a0e60ca5db8edd3092006",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The clear identification of the brand comes from multiple parts of the HTML information provided. Most notably, the title of the webpage is simply \"Netflix,\" which directly names the brand. The footer and paragraphs also include the customer service phone number prefixed by \"Questions? Call,\" a common format used by Netflix on its support and contact pages. Additionally, the headers_text includes various key phrases associated with Netflix, such as \"Unlimited movies, TV shows and more,\" consistent with the brand's service offerings. The mention of \"Netflix Originals\" in the footer text further reinforce the association to Netflix, referring to exclusive content produced or commissioned by the brand. This extensive consistency across multiple sections of the webpage HTML strongly confirms the identification of the brand as Netflix, leading to absolute confidence in the brand identification.",
+        "Url": "https://nisha-kashyap742.github.io/netflix.github.io/"
+    },
+    {
+        "Folder Hash": "daa641388c63caed2ad541cb1e646952ab56661c5d6f75fec13dfe673aea542c",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "6.00",
+        "Supporting Evidence": "The HTML information provided lacks sufficient details to pinpoint a specific brand. The title \"GRUB TERBARU VIRAL 2023\" and headers suggest the page is themed around a new or trending \"group\" as the Indonesian word \"GRUB\" translates to \"group\" in English, oriented towards viral content for the year 2023. The absence of meta_description, logo_alt_text, footer_text, and nav_bar_content limits the possibility of recognizing any familiar corporate identity or brand signature. The favicon URL references 'AlexHostX', which could indicate the image hosting or creator but doesn\u2019t necessarily indicate the webpage's brand. The only plausible indication of branding is in the span text and paragraphs text, which appears to be related to a viral content community or platform. However, these texts often contain generic phrases that do not reveal specific identifiers like a company or brand name. The terms used and the structure of the message content suggest a community-driven page possibly related to sharing media or networking, but it does not connote a commercial brand identity. Hence, given that there is no clear, straightforward evidence pointing to a specific brand or commercial entity, identifying a precise brand is not feasible with this information.",
+        "Url": "http://chat-whatsapp.garstfa.my.id/"
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "Folder Hash": "01308d40961130f61c8a2f9c9f92aca5e87e1b1b388caadb78c0d84191ec5322",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of \"DHL\" as the brand for this webpage is primarily supported by several strong indicators in the HTML script. Most conclusively, the footer contains the copyright text \"2022 \u00a9 Deutsche Post AG - All rights reserved.\" Deutsche Post AG is well known as the parent company of DHL, a global courier, parcel, and express mail service. This direct mention strongly suggests that the webpage is related to DHL. Additionally, specific services mentioned in the navigation and headers such as \"Ship,\" \"Track,\" \"Help and Support,\" and \"Find a location\" are typical services offered by postal and courier services like DHL. The global nature of the listed countries further aligns with DHL's international operations. Although the favicon and logo direct URLs were not provided, and despite the \"dinzab\" subdomain that might seem initially confusing, the mention of Deutsche Post AG cements the identification of DHL as the operative brand for this webpage.",
+        "Url": "https://package.dittugarments.com/public/uvKhzB6nB9AksS436lrCwOvPcv7L9Br4"
+    },
+    {
+        "Folder Hash": "017beab429d03806acd371a85186a003b4f798d589f8e397ce64ffbbd9adb8b4",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand as Facebook hinges primarily on several crucial pieces of the HTML information provided. Firstly, the title of the webpage, \"Security | Facebook Help Center,\" directly mentions Facebook, indicating that the webpage is associated with Facebook's safety and security guides or support sections. Secondly, the header text also reinforces this identification by mentioning \"Facebook | Turn on Facebook Protect to unlock your account,\" which is a specific Facebook security feature called Facebook Protect. This feature\u2019s inclusion in both the title and header directly associates the webpage with Facebook\u2019s brand and its services. Additionally, the paragraphs text further discusses the steps and security measures related to unlocking a Facebook account, focusing on the necessity to turn on Facebook Protect. The recurrence of references to Facebook in multiple and contextually crucial HTML elements, predominantly aimed at security measures and account unlocking processes associated with Facebook, substantiates the identification of the brand as Facebook. Although other information such as meta_description, logo_alt_text, footer_text, and nav_bar_content are not found or do not contribute additional details, the consistency of brand-related references in the available sections provides a high level of confidence in determining Facebook as the specific brand.",
+        "Url": "http://agency-support.abraham-personal.de/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "018cef3464440cd63d5c628b47d06257799f8ea68af49c86983f55e1716d2005",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand as DHL is strongly supported by several pieces of evidence found in the given HTML information. Key among these is the footer text, which includes the statement \"2022 \u00a9 Deutsche Post AG - All rights reserved.\" Deutsche Post AG is well known as the parent company of DHL, a global leader in logistics and postal services. Additionally, the nature of the services mentioned in the navigation bar and headers, such as \"Ship,\" \"Track,\" and \"Find a location,\" is in line with DHL's typical service offerings. The webpage title \"Delivery\" also hints at a service type directly related to DHL's business. Moreover, the inclusion of extensive global locations in the nav bar corresponds with DHL\u2019s international presence. Hence, these elements collectively suggest with high confidence that the webpage is related to DHL. The absence of any conflicting brand elements or references further strengthens the assessment.",
+        "Url": "https://package.dittugarments.com/public/8WJz2fTND6IqcNBZPQCe4I9Lb24lRZ1F"
+    },
+    {
+        "Folder Hash": "019f08fbab0a21a90395daeab0c53d91374965e7124e10036b5023e43e3f88d7",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis primarily hinged on several clues scattered throughout the HTML content provided. First, the footer text and paragraph contain copyright information explicitly stating \"2022 \u00a9 Deutsche Post AG - All rights reserved.\" Deutsche Post AG is the parent company of DHL, which strongly points to the DHL brand. Furthermore, the content related to the delivery services such as tracking numbers, delivery issues, and international shipping options align well with services typically offered by a global courier company like DHL. The header's extensive list of global locations also supports DHL\u2019s international operations scope. While the favicon URL included a different domain, it wasn\u2019t weighted heavily in the analysis due to the much stronger indications from the footer text and service type, pointing directly to DHL.",
+        "Url": "https://package.dittugarments.com/public/9sBhKlGHlUt104V2uY4vifQ1tEcvDUEx"
+    },
+    {
+        "Folder Hash": "01bf7b99942e8ea129c4a86a457087aa48a74bdbdaa7ce38519c5f7dd1ffdb76",
+        "Brand": "WeTransfer",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"WeTransfer\" from the provided HTML information is primarily supported by several factors which strengthen the confidence in this analysis. Firstly, the title of the webpage explicitly mentions \"WeTransfer,\" a strong indicator of the brand. Secondly, the nav bar content further includes \"WeTransfer,\" reinforcing the presence of the brand on the webpage. Additionally, the meta description of the webpage describes a service consistent with that offered by WeTransfer, specifically the sending of large files around the world with a specific mention of a free service for files up to 2GB, aligning perfectly with the known services of WeTransfer. The phrases in headers_text like \"Drop it like it\u2019s hot\" align with the casual and creative tone often embraced by WeTransfer's branding.",
+        "Url": "https://pr0d-agreement-0rder.glitch.me/js/we-transfer_54nbbf53luc641_spec.html?is=3mail@b.c"
+    },
+    {
+        "Folder Hash": "020dfdef4afa510d43b3f8805cfd682c0c8f8e02d8a93c3f58ffb8e4d775dd37",
+        "Brand": "Garena",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis of the HTML script reveals several strong indicators that the brand of the webpage is Garena. Primarily, the title of the webpage, \"Garena Free Fire\", directly mentions 'Garena' which is a known digital entertainment platform, and 'Free Fire', which is a popular mobile game developed by this company. The meta description reinforces this identification by mentioning \"GARENA FREE FIRE\", emphasizing the connection to Garena and its product. Moreover, the footer of the webpage includes a copyright notice that clearly states \"\u24d2 2022 Garena. All rights reserved.\", further anchoring this brand attribution. This specific mention in the footer not only strongly associates the webpage with Garena but also mentions the year which aligns with recent activity or current branding rights. Aside from this, other parts of the HTML such as favicon, logo_alt_text, and paragraph content are less informative due to the 'Not Found' status or general content not specific to the brand identity. Therefore, the primary basis for the Garena identification lies in the consistent mention in both the title and footer, which are significant and reliable sources of brand identification in web content. The absence of any contradictory or misleading branding information in the analyzed HTML sections further supports a high confidence level in this conclusion.",
+        "Url": "https://sukien.livestream.ff.garenei.com/"
+    },
+    {
+        "Folder Hash": "02bb85dabd0710d94b8962bacf774df0f163f0d645d6a4aa7b216a85c3693557",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The primary factor leading to the identification of Facebook as the brand of the webpage stems from multiple explicit mentions within the HTML information provided. Firstly, the webpage's title \"Security | Facebook Help Center\" indicates a section specifically dedicated to security within the Facebook Help Center, pinpointing Facebook as the subject. In parallel, the headers_text explicitly mentions \"Facebook | Turn on Facebook Protect to unlock your account | Account locked on November 26, 2023,\" which directly attributes the security features (Facebook Protect) and account-related issues to Facebook. Additionally, though the meta_description and logo_alt_text fields are marked as \"Not Found,\" sufficient direct references to Facebook in both the title and headers_text provide a high level of certainty regarding the brand identity. Therefore, given the repetition and specificity of these references to Facebook\u2019s security measures and support structure, there is a high level of confidence that the brand identified as Facebook is accurate.",
+        "Url": "http://supportagency-8798744.lineacasalistenozze.com/help/contact/9417940251527349"
+    },
+    {
+        "Folder Hash": "038be99957c44dbf5f442b3476f6f6dd66ad02d7d2b4b99ed669e4e1b872af7c",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identification for this webpage is straightforward due to the clear mentions and references to \"Facebook\" in several key HTML elements. Firstly, the title of the webpage is \"facebook.com,\" which directly indicates the name of the brand. Additionally, the paragraphs_text contains the term \"Facebook,\" further affirming the brand's presence on this page. The span_text provides further clues as it includes terminology typically associated with user interaction on social network sites, such as \"iniciar sesi\u00f3n\" (log in), \"Crea una cuenta nueva\" (create a new account), and \"\u00bfSe te olvid\u00f3 tu contrase\u00f1a?\" (forgot your password?), which align with Facebook\u2019s login and account management functionalities. Moreover, the inclusion of \"Facebook \u00a92017\" in what appears to be the footer or a similar informational section of the page, notes explicit ownership and copyright assertion typically displayed on webpages to denote the proprietorship of the content and the software by the Facebook company. The presence of multiple language options also aligns with Facebook's global user interface offerings, supporting its identity as a diverse and international platform. These combined elements robustly indicate that the webpage is branded by Facebook, and hence the high confidence score.",
+        "Url": "https://sdfsdfsdfewfesdgdfsgs.blogspot.com/"
+    },
+    {
+        "Folder Hash": "0443e086c2790a774cc68d7b496734e636cf8d05c6c787e88751faf29e9c435c",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The primary evidence for identifying the brand as Facebook comes from the favicon URL provided, which includes \"fbcdn.net.\" This domain is known to be associated with Facebook, as it is commonly used for hosting Facebook content and resources. The favicon URL specifically containing \"rsrc.php\" further aligns with Facebook's resource identifiers. Additionally, the span text from the webpage further supports this identification. It mentions specific functionalities and terminologies commonly associated with Facebook, such as \"profile\" and actions like hiding your profile \"from everyone on Facebook,\" which are uniquely characteristic of the Facebook platform. The context of account security and the mention of unexpected activity leading to account lockout aligns with typical messages Facebook would display to a user whose account has faced security issues. These combined elements lead to a high confidence that the brand is indeed Facebook.",
+        "Url": "https://support-adsmanager.com/b511nWz51Bik1C7qtovwwhNOQUPICLbDzE3olwS2HOfz1ygCWSvHNWboJdmApzDyhc1Y4iB5IOudLa1BTrangdau.html"
+    },
+    {
+        "Folder Hash": "04479ddd8ec78b3c2a7e9bc6c04b1b5c524081dd267ff0015946e25fdd70440c",
+        "Brand": "Microsoft OneDrive",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Microsoft OneDrive is based on several pieces of evidence found in the provided HTML information. Firstly, the title of the webpage is \"OneDrive,\" which is a well-known cloud storage service offered by Microsoft. Additionally, the paragraphs text explicitly mentions \"\u00a9 2023 Microsoft OneDrive. All rights reserved,\" directly associating the page with Microsoft OneDrive. Furthermore, the span text includes multiple references to OneDrive, for instance, \"OneDrive | Please select your email provider below and login to access shared document,\" which underscores the service's functionality typical of cloud storage platforms. Other references to Microsoft products such as Outlook and Office365 in the span text further solidify the association with Microsoft's suite of services. While there are mentions of third-party email providers such as Gmail, Yahoo!, and AOL in the header and span text, these appear to be options for user login, rather than indicators of the webpage\u2019s own branding. The presence of various login options showcases integration with other email services but does not detract from the primary identification of the brand as Microsoft OneDrive. Given the strong recurrent references to OneDrive and direct mentions of Microsoft, there is high confidence in identifying Microsoft OneDrive as the brand of the webpage.",
+        "Url": "blob:http://cassdrakeford.com/2b38c416-5ee4-4bab-b5a2-7266aac7941a"
+    },
+    {
+        "Folder Hash": "164ad949f9595380059658035fdc02fbaf46e833d5e6a017297391509709b3cb",
+        "Brand": "BASURISHOP",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.85",
+        "Supporting Evidence": "The brand of the webpage can confidently be identified as BASURISHOP based on several pieces of provided HTML information. The favicon links to a domain that includes 'basurishop', which is suggestive but not conclusive on its own. However, the clarity about the brand firms up significantly with the footer text, which declares \"\u00a9 BASURISHOP All rights reserved,\" an explicit declaration of branding within legal copyright text, another strong indicator of branding. Additionally, the headers_text also repeatedly includes the phrase \"Basuri,\" which supports consistency in the branding throughout different sections of the webpage. It uses terms such as \"Be ready for anything with Basuri Air Horns!\" and \"\u00a9 BASURISHOP All rights reserved\" within different parts of the page, further emphasizing the brand. All of this combined evidence strongly points towards BASURISHOP being the brand associated with the webpage, thereby allowing for a high degree of confidence in this identification.",
+        "Url": "https://basurishop.com/"
+    },
+    {
+        "Folder Hash": "19ae88c673d1b61b7e5df50961ab9e6a8b7f0b532558125fd4b81cc9818933cf",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the HTML information provided shows all fields except for the title as \"Not Found\". The title of the webpage is the only accessible piece of information and is crucial for identifying the brand. However, the title information is unfortunately missing in your provided text (it appears to be incomplete or incorrectly shared as 'title:'). Since the brand name is typically articulated in the title, metadata, or visually through the logo alt text or favicon - and all other information is unspecified or stated as \"Not Found\" - there is no basis on which to identify the brand of the webpage. The absence of descriptive or identifying elements in the HTML provided leads to an unavoidable conclusion of not being able to determine the brand associated with this webpage. Hence, the confidence in this NA (not applicable) determination is maximum.",
+        "Url": "https://46c8371e-2ec7-4ab6-8119-797076e037dd.id.repl.co/"
+    },
+    {
+        "Folder Hash": "8596686c03d764958db74627678de987a7b5b3ed0490ec0b63b32c0d8374a54e",
+        "Brand": "Microsoft Windows",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification of \"Microsoft Windows\" is significantly evident from several HTML element contents. Prominent are the headers_text and paragraphs_text segments that extensively mention specific Microsoft Windows services such as Windows Defender, Windows Security, and clearly discuss themes like the virus and threat protection which are definitive features managed within the Microsoft Windows ecosystem. These sections not only routinely refer to \"Microsoft Windows Security\" but also encompass issues and support information directly linking to Microsoft's services, such as immediate helpline numbers specified for Microsoft Windows support. Additionally, the title itself, despite being partially obscure, hints at a support service context for Windows. Furthermore, the repeated helpline and support mentions explicitly state \"Microsoft USA,\" which solidifies the brand association to Microsoft Windows. If these mentions weren't convincing enough, the span_text underscores this identity even more precisely by directly embedding \"Microsoft Windows Security Center\" and urging direct contact with \"Microsoft Windows Support\". The footer, headers, and substantial text blocks are heavily branded, demonstrating an environment focused on Microsoft Windows support and services.",
+        "Url": "http://d15a1lvkr18tre.cloudfront.net/"
+    },
+    {
+        "Folder Hash": "a4ad70fbd111247f286b1364997a9099527e0e1348b8a070073b27d79abfbdeb",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand for this webpage is unmistakably identified as Netflix based on multiple pieces of evidence contained within the HTML script. The title of the webpage is explicitly \"Netflix,\" which is a clear and direct indicator of the brand. This is further supported by the specific content within both the footer text and headers text, which reference distinct services and features unique to Netflix, such as \"Unlimited movies, TV shows, and more,\" \"Only on Netflix,\" and the mention of various viewing platforms like \"Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.\" Moreover, the distinctive Netflix offerings like the ability to \"Download shows to watch offline,\" various pricing plans, and the inclusion of a \"Netflix Kids experience\" for family-friendly viewing, as mentioned in the paragraphs text, all consistently support the identification of Netflix as the brand. The presence of these features, which are well-known aspects of the Netflix service, confirms the brand without any ambiguity, leading to absolute confidence in this determination.",
+        "Url": "https://gentmulaj1.github.io/NETFLIX/"
+    },
+    {
+        "Folder Hash": "c40c09de4d38419a8dcef0dc13d33ad07bcf21bacd6df5984b58616b1fee3c8e",
+        "Brand": "Suncoast Credit Union",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as \"Suncoast Credit Union\" is strongly supported by the consistent mentions across different fields in the provided HTML information. Specifically, the webpage title \"SunNet Online Banking Florida | Suncoast Credit Union\" prominently features the brand name. Additionally, the \"$headers_text:\" field, which reads \"Log in to SunNet,\" supports this determination. SunNet is known to be the online banking platform for Suncoast Credit Union, which ties the use of the service directly to the brand. The paragraph text also references logging into a \"SunNet Online Banking account,\" further emphasizing the connection to Suncoast Credit Union. The mention in the \"span_text\" of joining as a member correlates with credit union membership practices, which is characteristic of such financial institutions, including Suncoast. The absence of conflicting brand information in the other fields, such as \"favicon\", \"logo_alt_text\", \"footer_text\", and \"nav_bar_content\" being either generic or \"Not Found\" further reinforces the assumption that there is no misdirection in brand identification. Thus, these combined evidences provide a high degree of confidence that the brand is Suncoast Credit Union.",
+        "Url": "https://suncoastaut.firebaseapp.com/"
+    },
+    {
+        "Folder Hash": "e9e9b5de6eda512206beb1f71d65125b14ce947010dcf5def32e0597f091f56e",
+        "Brand": "Wells Fargo",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand as \"Wells Fargo\" is strongly supported by the explicit mentions within the provided HTML script. The title of the webpage itself clearly mentions \"WELLS FARGO - Home,\" which typically indicates the primary subject or ownership of the website. Further reinforcement comes from the headers_text, which welcomes visitors to \"WELLS FARGO,\" aligning with the naming in the title for consistent brand identification. Additionally, even without explicit imagery such as logos or favicons (as these are noted to be 'Not Found'), the consistent textual references across different sections of the page such as the title and header substantially point to Wells Fargo as the brand associated with the webpage. The footer text was not provided and other features like the meta_description, logo_alt_text, nav_bar_content, paragraphs_text, and span_text that might otherwise offer additional brand clues were either not found or not particularly revealing in this context. The span text includes a generic login prompt, which does not specifically clarify the brand but does not contradict the identification suggested by the more direct references. Thus, the analysis confidently centers on the information explicitly stated in the title and the header text.",
+        "Url": "https://intlexperiwellscomms.weebly.com/"
+    },
+    {
+        "Folder Hash": "f52a5a4a2e5c8da13499aaafe8a4df46e38baadac1abb724e8c183a9a47b38ef",
+        "Brand": "\u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0411\u0430\u043d\u043a",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The repeated mention of \"\u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0411\u0430\u043d\u043a\" across various parts of the HTML content strongly indicates that the brand associated with this webpage is \u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0411\u0430\u043d\u043a. Firstly, the webpage title contains a clarifying note suggesting that the platform is associated with \"\u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0411\u0430\u043d\u043a.\" This appearance in the title typically indicates a primary brand association as it is designed to immediately inform the viewer about the webpage\u2019s affiliation. Secondly, in the header text, \"\u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0411\u0430\u043d\u043a\" is once again mentioned in a context suggesting that the bank is offering a platform for earning money on the internet. Additionally, the repeated references to this brand in the paragraphs text and span text, where \"\u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0411\u0430\u043d\u043a\" is mentioned as the entity providing access to a platform for micro-investors and in direct connection with the platform\u2019s financial dealings, reinforce the identification of \"\u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0411\u0430\u043d\u043a\" as the brand of the webpage. While other brands or logos from other entities could be present, the consistent and central mention of \"\u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0411\u0430\u043d\u043a\" across different, prominent parts of the page's content makes it highly likely that it is the primary brand represented on this webpage. The absence of any contradicting brand evidence and multiple supportive references heightens confidence in this identification.",
+        "Url": "https://ultimatefinancesedition.com/"
+    }
+]

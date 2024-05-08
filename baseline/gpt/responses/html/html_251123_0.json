@@ -1,0 +1,178 @@
+[
+    {
+        "Folder Hash": "00456ceeb05233ad13847800e135177fee3ba3b9aa8b3abad2897d5bb098c0ef",
+        "Brand": "Sasktel",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The primary evidence supporting the identification of \"Sasktel\" as the brand of the webpage comes from the title of the webpage itself. The title explicitly states \"Sasktel,\" which is typically a strong identifier as titles are generally used to reflect the content or ownership of the webpage prominently. The lack of other identifiable metadata, favicons, or logo alt text does not contribute additional information due to their absence (marked as \"Not Found\"). However, the header text which contains \"Log in\" and the span text featuring asterisks followed by \"LOG IN\" also suggests a utility or service-oriented site, compliant with the characteristics of Sasktel, known to be a telecommunications provider in Saskatchewan, Canada. The absence of other conflicting brand names in the provided HTML elements supports the conclusion that the brand is indeed Sasktel. Thus, the evidence leans heavily on the page title and the context provided by typical webpage functionalities related to telecommunications services, confirming the association with Sasktel.",
+        "Url": "https://mwebsasktelnetwebmail.weebly.com/"
+    },
+    {
+        "Folder Hash": "02543a8275720f148177a6725d130795ca1ce37b23115e37220ec8120e329b7d",
+        "Brand": "Microsoft Office365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Microsoft Office365 is primarily determined by multiple references in the HTML information that align with the Microsoft Office365 service. The title of the webpage explicitly mentions \"Office365,\" clearly tying the page to Microsoft's well-known suite of productivity software. Furthermore, the favicon URL contains segments that could suggest a connection to Microsoft, although the URL is not fully disclosed, it does contain suggestive snippets such as 'mi..cro---t' which might imply 'Microsoft'. Moreover, the alt text for the logo also directly states \"Microsoft,\" providing another strong indicator of the brand. The footer text, which mentions terms of use and privacy & cookies, are standard components of Microsoft web pages, although these alone are not unique identifiers of the brand. Overall, the combination of the explicit mention of Office365 and the Microsoft logo tie the webpage closely to Microsoft's Office365 service, resulting in a high confidence score in the identification.",
+        "Url": "https://pub-bab316f8fb154fc2990bdef6c0c5a545.r2.dev/micros.html?email=ym9ilnhpbmdaemltdmlllmnvbq=="
+    },
+    {
+        "Folder Hash": "02678ed74f0374f8f550d4cb157ab6f977ca02d97a01c3bf78e9e40bfcd50a31",
+        "Brand": "Magazine Luiza",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "Though the title of the webpage is 'amigalu', the key evidence comes from the footer text which mentions \"Magazine Luiza LTDA\" with a detailed address in Ribeir\u00e3o Preto - SP and a CNPJ number (47.960.950/0001-21). This CNPJ is a unique identifier for Brazilian companies, strongly linking the webpage to Magazine Luiza. Additionally, the email address in the footer (sac@magazineluiza.com) uses the domain of Magazine Luiza, further confirming the brand's association with this webpage. The footer also includes specific customer service and sales contact numbers, which despite not being immediately verifiable, align with the kind of comprehensive customer support infrastructure a well-established brand like Magazine Luiza would maintain. The numerous mentions of conditions, company policy, and trademark notices commonly found in corporate footers further cement the impression of a professional and legally compliant setup typical for large retailers like Magazine Luiza. The phrase \"Pre\u00e7os e condi\u00e7\u00f5es de pagamento exclusivos para compras neste site oficial\" also suggests that this is an official site of a specific brand, supporting the connection to Magazine Luiza.",
+        "Url": "https://amigalu.com.br/"
+    },
+    {
+        "Folder Hash": "03b1434f9932da25c5349db7b2784f0059054dbe051acc9d3b90f5b71f497b4a",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage is clearly identified as Microsoft, specifically the Microsoft 365 product line. This identification is supported by multiple pieces of evidence from the HTML script. The title of the webpage, \u201cLogin | Microsoft 365,\u201d explicitly mentions Microsoft 365, indicating it is a Microsoft-related page. The favicon URL contains 'office.net', which is a domain used by Microsoft for its Office products. The footer and header texts repeatedly mention Microsoft products and services such as Microsoft Cloud, Microsoft Security, Dynamics 365, Windows 11 apps, along with clear references to \"Microsoft 365\" across different contexts, enhancing the association with Microsoft. The headers highlight various Microsoft services and products, especially those related to Microsoft 365. Moreover, the metadata, though not found, isn\u2019t needed as the overwhelming prevalence of Microsoft branding in the text used across the navigation, headers, footers, and the ubiquitous Microsoft logo provide irrefutable evidence. Finally, the copyright at the footer mentions \u201c\u00a9 Microsoft 2023,\u201d which directly attributes the webpage to Microsoft. All this evidence collectively forms a comprehensive basis for high confidence in identifying Microsoft as the brand of the webpage.",
+        "Url": "https://officehomeprodprv.japaneast.cloudapp.azure.com/"
+    },
+    {
+        "Folder Hash": "03cf34723cc38f2d411fa121d18768e4ada578f2e892a0d9a42f2eb695a44a90",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Facebook is primarily supported by the presence of specific textual references in the headers_text and paragraphs_text found within the HTML script's extracted information. Notably, the headers include phrases such as \"Log Into Facebook\" and \"If your Facebook account was restricted...\" which explicitly mentions Facebook, indicating that the webpage is related to Facebook's services, particularly around user account restrictions and verification processes. Furthermore, the text discusses community standards, account restrictions, and the requirement to upload a photo ID for verification, which aligns closely with Facebook's known procedures for user identification and account recovery. Paragraphs urging users to follow instructions for account verification and detailing the review of submitted IDs for restoring account access further support the conclusion that the depicted webpage is associated with Facebook. The presence of specific procedural details, like storing ID documents securely and deleting them after confirmation, is consistent with Facebook\u2019s user verification policies. Thus, these collected references cumulatively point to Facebook as the brand of the webpage, with a high level of confidence.",
+        "Url": "http://rafiamarketingagency.com/"
+    },
+    {
+        "Folder Hash": "04497415ef2e89fd65d797de4945569c1809696c591b36ede34f2e3c710abe94",
+        "Brand": "PUBG Mobile",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The evidence pointing to PUBG Mobile as the brand of the webpage primarily comes from the favicon URL provided, which is hosted on \"pubgmobile.com\" and features an icon logo that is strongly associated with PUBG Mobile. The title on the webpage, \"ROYALE PASS M14 EVENT,\" supports the identification of PUBG Mobile, as \"Royale Pass\" is a term specifically used in the game for seasonal content. Additionally, the footer text includes copyrights held by \"KRAFTON, Inc.\" and \"Tencent,\" both of which are known entities connected to the development and publishing of PUBG Mobile. The footer also refers to \"Tencent Games User Agreement,\" which is consistent with Tencent\u2019s role as a publisher. The meta information from other parts of the page like social media links to Facebook, Twitter, YouTube, Instagram, VK, and Discord are generic and used by many brands; however, their presence suggests a large, socially-active brand like PUBG Mobile. The references to community engagement in the footer text align well with the social media strategies typically employed by online games like PUBG Mobile.",
+        "Url": "https://smaer-df097f.ingress-comporellon.ewp.live/wp-content/plugins/a/spin/5717563228/"
+    },
+    {
+        "Folder Hash": "04e0385261aa7d5362e0934d64b20aa0eb77d796252e653706d9c486723d4974",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML information lacks substantial identifiable brand details. There is a placeholder or a variable \"{brandName}\" mentioned in 'headers_text' and 'span_text', however, this does not reveal any specific brand but more likely indicates a placeholder used for insertion of the brand name dynamically which is not disclosed here. Additionally, many fields such as 'meta_description', 'logo_alt_text', 'footer_text', and 'nav_bar_content' are marked \"Not Found\", effectively reducing the scope for any meaningful insights from these sections. The title \"Sign in to your account\" is too generic and is used widely across various login pages for myriad brands. Without additional distinct information or explicit brand indicators, it is not possible to determine with any degree of certainty which brand is related to the HTML information provided. Thus, the evaluation must conclude with an identifier 'NA' for the brand, bearing a confidence score of 0.00 due to the complete absence of specific, identifiable brand-related information.",
+        "Url": "http://bafybeihayb4vlkcffkyuowz6p2z63a7mpb57udpfjkbd5r74l2pzweriqu.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "058942529bb11c7d607ff20b5e783b83f84ab4cc6dccf94662829fd006a08f4a",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The primary evidence leading to the identification of \"DHL\" as the brand for the webpage comes from the title \"DHL | Global | English\". The title not only mentions DHL explicitly but also indicates that this webpage is likely targeted towards a global, English-speaking audience, which aligns with DHL being an internationally recognized logistics company. While other HTML elements such as meta_description, logo_alt_text, footer_text, headers_text, nav_bar_content, paragraphs_text, and span_text are marked as \"Not Found\" and thus provide no additional insights, the presence of DHL in the title itself is a strong and direct indicator of the brand. The favicon link, though lacking a full URL, suggests it is a local resource, commonly used to display a company's icon in a browser tab, supporting the idea that this is indeed a DHL-related webpage, however, without the favicon image, this evidence is not as strong as the title. Hence, I confer a high degree of confidence in identifying DHL as the brand, though slightly less than complete certainty because of the lack of corroborating information from other elements of the webpage.",
+        "Url": "https://siteoficialstory.com.br/vvu/dhl/source/index.php?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "05b262500b504efc2e3ed40fb1f0f42b7e8b1325b073b43d9ced4e83cbaaf0af",
+        "Brand": "OneDrive",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage is identified as OneDrive based on several key pieces of information provided from the HTML script. The title \"My Files - OneDrive\" explicitly mentions OneDrive, indicating that the webpage is related to managing or accessing files in a OneDrive account. The header text includes \"Enter Password,\" which typically implies a login or authentication page, common for services like OneDrive that require secure access to personal or sensitive files. Although other information such as the meta description, logo alt text, footer text, nav bar content, paragraphs text, and span text are unavailable or provide limited details, the clear mention of OneDrive in the title strongly supports this identification. The favicon, though encoded and not directly readable, is another web element typically customized to reflect the branding, further supporting the identification based on the context provided by other elements. The span text also includes \"OneDrive,\" reinforcing the conclusion that this webpage is associated with the OneDrive brand.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/QmSruaeizQEqj1cxGFJyFhC4FQ5CYcb8ffhrSBDJoe8CUU"
+    },
+    {
+        "Folder Hash": "060f0086bb80b1f09eaff080ab80aa0a10add88217a9b9be21cfa0177093a558",
+        "Brand": "DANA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage can be conclusively identified as DANA based on several specific pieces of information provided in the HTML script. The title of the webpage explicitly mentions \"DANA\", which is a strong initial indicator of the brand's identity. The title \"DANA - Apa pun transaksinya selalu ada DANA\" not only features the brand name twice but also implies a branding message or slogan that reinforces the concept of financial transactions, supporting the context of DANA being related to financial services. Furthermore, the meta_description provides additional context by describing DANA as a digital financial transaction platform, suggesting its role in Indonesia's digital financial transformation. This description also matches what one would expect from a brand that names itself prominently in the page title. The link to the favicon, which contains the brand name within the URL \"https://www.dana.id/favicon.ico\", serves as corroborative evidence indicating that the webpage is indeed associated with DANA, as typically a brand\u2019s domain name is also its brand name, especially when common branding elements (like favicon) are hosted. The contents of headers further discuss services that align with digital payment solutions, like account recovery and upgrading to premium services, which fit well with what an e-wallet or digital payments service like DANA would offer. Even though the footer text and logo attribute were not found, the critical and recurring mention in high-profile webpage components like the title and meta description, along with a directly named favicon link, substantially supports the identification of DANA as the brand for this webpage.",
+        "Url": "http://pusatt-bantuans.dana-ids.my.id/"
+    },
+    {
+        "Folder Hash": "605dd53679751da2d12e81d3ee453ee5f76336d028c7f9c9039913c5970df817",
+        "Brand": "DHL Express",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence indicating the brand of the webpage is derived from the webpage title \"DHL Express | Track Shipment.\" The presence of \"DHL Express\" directly in the title strongly suggests that this is the brand associated with the website. Given that DHL Express is a well-known global shipping and logistics company, the mention of \"Track Shipment\" aligns perfectly with the services expected from this brand, confirming the relevance of DHL Express to the webpage content. Other elements provided, such as meta_description, logo_alt_text, footer_text, headers_text, nav_bar_content, paragraphs_text, and span_text did not provide additional brand indicators due to being labeled as \"Not Found\" or irrelevant (\u201cInvalid Password.! Please enter correct password\u201d which sounds more like a system message). The favicon's path does not specifically mention the brand but usually, this will contain a branded image relevant to DHL. However, since we cannot view it or its details (like typical post formats or specific brand marks within the image), it is not heavily factored into the confidence assessment. The high confidence score stems largely from the unambiguous reference to DHL Express in the title, a standard and convincing identifier usually employed across branded web pages.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeidg2p5mtx2fo2jra7zg4do7trhey6ez6ihldg2ve5d26eolkmncdu"
+    },
+    {
+        "Folder Hash": "acd5ad12e46f62dac6bf7ceec6547e3459dae4d42a215492ab1c0d18efc43801",
+        "Brand": "Clement Lotus Code",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "Despite the title of the webpage suggesting a \"Netflix Clone,\" the analysis of the rest of the HTML content indicates the page is not an official Netflix webpage. The favicon, which is styled similar to Netflix's branding, initially seems misleading. However, substantial evidence about the actual brand comes from the copyright information found in the footer, which reads, \"\u00a9 2023 Clement Lotus Code. All rights reserved.\" This suggests that the real entity behind the webpage is Clement Lotus Code, which likely names the project as \"Netflix Clone\" referencing that the site is a simulation or replication of the Netflix service for developmental, educational, or showcase purposes. Additionally, the footer includes typical corporate information and social links (GitHub Account, LinkedIn, Facebook), which are aligned with a developer or company\u2019s profile, not a content service like Netflix. The headers and paragraphs emphasize this clone feature by offering elements typical to Netflix, like watching on various devices and child profiles, but consistently lead up to development-related links and contact information. These observations guide the conclusion that Clement Lotus Code is the rightful brand behind the page, using Netflix's UI and service model for demonstration or educational reasons. Thus, while the page visually and functionally mimics Netflix, the responsible entity is Clement Lotus Code.",
+        "Url": "https://clement-lotus-mollick.github.io/Netflix-Clone-FC/"
+    },
+    {
+        "Folder Hash": "ca4f9ad76ebd70d55e071b67241c6c4f435efcf00d1e79e1b3ea74eccfcb2c4c",
+        "Brand": "bilibili",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The analysis starts from the webpage title \"\u54d4\u54e9\u54d4\u54e9 (\u309c-\u309c)\u3064\u30ed \u5e72\u676f~-bilibili,\" which includes the term \"\u54d4\u54e9\u54d4\u54e9\" and \"bilibili,\" strongly indicating the brand name. Additional support for bilibili comes from the meta_description, which also mentions \"\u54d4\u54e9\u54d4\u54e9\uff08bilibili.com)\" specifying a direct reference to bilibili.com as the associated website. Furthermore, the favicon URL includes \"bilibili.com,\" further corroborating the identity of the brand as bilibili. The content under headers_text seems to match the typical content style and categories that are present on bilibili, such as video titles and categories relating to Chinese entertainment and culture which is consistent with bilibili\u2019s offerings. The analysis's high confidence is slightly reduced by the absence of a visible logo and footer information, but the abundance of direct references in the title and meta_description provide substantial evidence that bilibili is indeed the brand of the webpage.",
+        "Url": "https://www.bilibili.com/"
+    },
+    {
+        "Folder Hash": "cdf6bd36c75e8f6cf974ee388732b2ad4249a055cf58b5b4752877eb17a61d5a",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The title of the webpage profoundly indicates the brand identity, reading \"Garena Free Fire Membership.\" It suggests that the webpage is directly associated with the Garena Free Fire game, which is a popular online battleground game. Furthermore, the favicon link includes 'garenanow.com' which again references Garena, the company that publishes the game Free Fire. Additionally, the text included in the paragraphs clearly discusses activities and elements associated directly with Free Fire, such as accumulating diamonds (in-game currency) and exclusive membership rewards. Terms like \"Kim C\u01b0\u01a1ng,\" which translated to English means \"Diamonds,\" a known in-game currency for Free Fire, solidifies the association with the game. Despite the meta_description, logo_alt_text, and footer_text fields not being available for analysis and nav_bar_content not found, the given data points overwhelmingly to Garena Free Fire as the brand of the webpage. The headers and paragraph content pertaining specifically to game elements like spins and membership tiers also provide strong indications that this webpage is indeed related to Garena Free Fire and its membership services.",
+        "Url": "https://www.ff.members.garenei.com/IBOYzvR6OG8NFoaJ2jNhdr8nxGyDb0W6JwUhmVkOt7t7jihsB3UQda8ugmtSFQ8kkL8dxrLWQvcR1mdeeOcIrpshWAdGwEnelnow_index#/"
+    },
+    {
+        "Folder Hash": "cffc68a2ca902a790f24f9918cbf4282df3a51f11160713cc1b3d719a57bdad7",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The analysis of the HTML information primarily hinges on the title and headers text which prominently display the term \"Netflix.\" The title of the webpage being \"netflix\" closely aligns with the global streaming service brand, Netflix. Furthermore, the headers text contains multiple references also including \"Netflix,\" reinforcing the recurring presence of the brand in important and conspicuous parts of the webpage\u2019s layout. While the meta description that mentions \"Buscador de tel\ufffdfonos\" may seem unrelated, it doesn't heavily impact the overall brand identity that the other elements establish. The paragraph and span texts, however, seem to indicate auxiliary services or information which might not directly relate to the core function of Netflix but doesn't contradict its identity either. The fact that other key indicators like logo_alt_text, footer_text, and nav_bar_content were noted as \"Not Found\" limits the holistic view but doesn't detract from the dominant recurring mention of Netflix in both the title and headers text. Hence, despite the lack of comprehensive brand markers due to the \"Not Found\" sections, the repeated and prominent placement of the \"Netflix\" name in significant parts of the webpages leads to a strong presumption in favor of Netflix being the associated brand.",
+        "Url": "http://www.netflix.ayuda-telefonica.com/"
+    },
+    {
+        "Folder Hash": "daba0c1e8e8f77c99476a683baf73b263d155f405378def92141b8fbc7121453",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title of the webpage is directly listed as \"Netflix,\" which is a significant initial indicator of the brand's identity. Furthermore, the header text includes specific phrases highly indicative of the Netflix service, including \"Unlimited Movies, TV Shows and more,\" \"Watch anywhere, Cancel anytime,\" and \"Enjoy on your TV.\" These phrases are part of Netflix's standard marketing and service descriptions across various platforms. Additionally, the paragraph text reinforces the primary functions and offers of Netflix, such as watching on various devices like smart TVs, PlayStation, and Apple TV, and features like downloading shows to watch offline which are known services offered by Netflix. The mention of \"Netflix India\" at the end of the paragraph text further confirms the brand's identification tied to a specific regional service. All these details are characteristic of Netflix's branding and service offerings, leading to a high confidence score in identifying the brand without ambiguity.",
+        "Url": "https://sakshishakya.github.io/Netflix/"
+    }
+]

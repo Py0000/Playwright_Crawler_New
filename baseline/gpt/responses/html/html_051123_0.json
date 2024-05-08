@@ -1,0 +1,90 @@
+[
+    {
+        "Folder Hash": "10ae1de08e1b3b633e38c6b7bd0c5073f5557a00b5c5c61c58db7b6fb10426a6",
+        "Brand": "BalticPipe",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The webpage title \"BalticPipe\" and the footer which mentions \"BalticPipe zaprojektowany przez \u00a9BALTICPIPE, Francja, 37 Quai Branly, 75008 Pary\u017c\" both reliably point to 'BalticPipe' as the brand associated with this webpage. Moreover, key mentions within the paragraphs and header texts frequently reference 'Baltic Pipe' as a part of their content, discussing involvement in the project and earnings related to it, further affirming it as the brand. Additional elements like embedded instructions, and headers on how to become a shareholder in Baltic Pipe through registration directly on this webpage, also support the identification of 'BalticPipe' as the brand responsible for the webpage content. There is no indication of a broader, different, or parent brand that overshadows BalticPipe in the materials provided. The repetitive mentioning across different sections of the HTML script strongly supports the conclusion that the webpage is distinctly branded under 'BalticPipe'.",
+        "Url": "https://www.makeprrofit.site/"
+    },
+    {
+        "Folder Hash": "14fc2efc96604b37269dc3e18a02d057f972c47580876d6d4653578e3171df10",
+        "Brand": "Adobe",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The key indicator for identifying the brand Adobe on the webpage is the title, \"Adobe Online - Pdf Reader!\" This title directly mentions Adobe, which is known for its PDF reading software, Adobe Reader. This strong evidence directly from the webpage title significantly supports the identification of Adobe as the brand. Moreover, the webpage text asking to \"Confirm email address to download,\" although not explicitly linked to Adobe, aligns with software download procedures that are commonly expected from companies like Adobe that offer digital products. The absence of visible logos, footer text, or header text about a particular brand does not negate the explicit mention of \"Adobe\" in the title, and no conflicting brand indicators were presented from other fields like the metadata or nav bar content, which were noted as \"Not Found.\" Therefore, based on the explicit mention in the website's title, the association of Adobe with PDF-related functionalities, and the nature of the content related to confirming an email for download typical to software companies, the identification leans strongly towards Adobe.",
+        "Url": "https://ipfs.eth.aragon.network/ipfs/bafybeieuck7midptnnddf36kxotthabk5oeqdixn6zc5mnwkfh23mtsiea"
+    },
+    {
+        "Folder Hash": "2ffda2f2e069379e3caebacde3bc35368a124112d3b687b05e4da80fb3441c2a",
+        "Brand": "Pengikut-gratis.com",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification is primarily apparent through repeated mentions across different elements of the HTML data provided. The domain name \"Pengikut-gratis.com\" is explicitly mentioned in both the footer_text and the headers_text, reinforcing the association of the brand with the website. The footer_text includes a copyright statement with the name \"Pengikut-gratis.com\" and the year \u201c2016,\u201d suggesting a claim of ownership and permanence of the name on the platform. Additionally, the headers_text explicitly mentions the brand again as part of various promotions and information blips about the website's services, thereby confirming its relevance as the main brand. The use of the word \"Pengikut,\" which translates to \u201cfollowers\u201d in English, coupled with the services listed like followers and likes management for Instagram, aligns with the functionality described in the metadata and paragraphs_text, strengthening the evidence that \"Pengikut-gratis.com\" is indeed the brand of the webpage. This evidence strongly supports the identified brand without contradicting indications from other fields such as meta_description or nav_bar_content, both of which also center around Instagram followers and likes but do not suggest an alternative branding.",
+        "Url": "http://pengikut-gratis.com/"
+    },
+    {
+        "Folder Hash": "4251c12d46f357e04595de567aad7012f6a13af45650fed352adee6d265736fb",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The analysis of the key HTML information provided points strongly to \"Garena Free Fire\" as the brand associated with the webpage. The title \"Garena Free Fire Membership\" is the most direct piece of evidence indicating this, as it specifically names \"Garena Free Fire\". The favicon URL (https://cdn.vn.garenanow.com/web/ff/fav.jpg) contains \"garenanow\" and \"ff\" which can be interpreted as shorthand for \"Free Fire\", further supporting the association with Garena Free Fire. The specifics of the site's content, as indicated by the header and paragraph text, discuss themes directly related to gameplay elements specific to Garena Free Fire, such as accumulating diamonds (a currency in the game) and membership benefits, emphasizing the page's relevance to the Free Fire game. Additionally, terms like \"Kim C\u01b0\u01a1ng\" (Vietnamese for diamonds, a known in-game currency for Free Fire), and \"V\u00f2ng Quay Si\u00eau C\u1ea5p\" (referring to a type of spin or reward system), further solidify the connection to Free Fire, which is developed and published by Garena. Therefore, the inclusion of the brand's name in key areas along with specific content related to the game itself leads to a high confidence score in identifying Garena Free Fire as the brand.",
+        "Url": "http://www.freefire.member.gaerna.io.vn/#/"
+    },
+    {
+        "Folder Hash": "6c9daa0070c0f57a16a0f9f0859f756c56ad094c09473ae461a2fb2814923450",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The analysis is primarily based on the textual content provided from the HTML script, specifically focusing on phrases referenced in the paragraphs and span texts. The mention of \"That Microsoft account doesn't exist. Enter a different account\" strongly suggests the association with Microsoft. Typically, such language is used in the context of Microsoft accounts when login issues occur. Additionally, the description \"Sign in to Document\" in the title might relate to Microsoft-based services, potentially Office or related document services that necessitate Microsoft user accounts. Despite the logo and other direct identifying HTML elements like metadata descriptions and footer text being noted as \"Not Found,\" the specific language used in addressing account issues leads to a reasonable conclusion that the webpage is associated with Microsoft. Further corroboration is provided by the email format mentioned \"abc@abc.com,\" commonly used as a placeholder in examples and documentation, lending typicality to Microsoft's style of instructional or error messages. Hence, even without visible logos or explicit brand names, the phrasing used on the webpage aligns well with Microsoft\u2019s common user interface messages for account management.",
+        "Url": "http://bafybeihc74glgbx6mfibmqolz253ajpbhbrjhlalpe4uzmsejhy6qox5ni.ipfs.cf-ipfs.com/"
+    },
+    {
+        "Folder Hash": "6db694ddfd7b95fdb2db8fe3533024069843cf4cec67b9fc93353814fb7d3169",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand from the provided HTML information hinges predominantly on a single piece of information\u2014the title, which reads \"Telegram Messenger.\" This title directly bears the name \"Telegram,\" explicitly pointing to the well-known messaging service, Telegram. The lack of additional corroborative information from other HTML fields such as metadata, favicon, logo attributes, footer, headers, nav bar, paragraphs, and span texts, which are reported as \"Not Found\", limits the scope of analysis. However, the explicit mention in the title gives a high degree of confidence in identifying \"Telegram\" as the brand. It's common for web titles to prominently feature the brand name to inform and reassure users of the website's authenticity and relevance. Hence, based solely on the title \"Telegram Messenger,\" it is reasonably safe to conclude that the webpage is associated with the Telegram brand. The confidence score isn't a full 10.00 due to the absence of corroborative evidence from other typical brand identity markers in web HTML content.",
+        "Url": "https://telegraimu.com/"
+    },
+    {
+        "Folder Hash": "c9123c75952563cb603dcfc8bac45446095c5f2c082b043f4b28730a7c8c4473",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary piece of evidence for identifying the brand as Microsoft Outlook is the webpage title \"Sign in to Outlook.\" Outlook is a well-known email service provided by Microsoft, part of its Office suite of products. The title \"Sign in to Outlook\" directly refers to the authentication page typically seen when a user is trying to access their Outlook email account. This title clearly associates the webpage with the Outlook service, which is a branded email platform developed and managed by Microsoft. The absence of other information such as the meta description, favicon, logo alt text, footer, header, nav bar content, paragraphs, and span text means we rely heavily on the title for identification. The specific reference to \"Outlook\" in a context of signing in strongly points to Microsoft Outlook, underpinning a high degree of confidence in this identification. The lack of contradictory information supports this conclusion.",
+        "Url": "http://070124460033066.graficaaoquadrado.com.br/"
+    },
+    {
+        "Folder Hash": "e394d02c472a064c58540bba26f9a02695735f7b1bffecda5810e0698084f2a5",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The HTML information provided for analysis lacks significant identifiers such as brand-specific logos, metadata, or descriptive footers and headers that could hint at a particular brand. Specifically, the title is generic (\"Document\"), and crucial elements like the meta description, favicon, logo alt text, footer text, headers text, and nav bar content are absent or labeled \"Not Found\". The only content provided is a string in the span text related to a form for signing procedures, including a field for a PIN, which is common in many forms across various platforms and does not hint towards any specific brand. Without any distinctive or uniquely identifying features or text, there is no basis to confidently ascertain the brand of the webpage.",
+        "Url": "http://www.imobiliariacasacapixaba.com.br/firm.php"
+    }
+]

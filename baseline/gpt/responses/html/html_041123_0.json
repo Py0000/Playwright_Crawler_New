@@ -1,0 +1,101 @@
+[
+    {
+        "Folder Hash": "1e44f21945ab71c913ff6493b4db5b3917bdb040d59bfe36c46bf501b0b2f195",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Netflix is supported by several pieces of information provided in the HTML script. Firstly, the title of the webpage is simply \"Netflix,\" which is a direct indication of the brand. Secondly, the footer text contains multiple sections that are characteristic of the Netflix webpage, including but not limited to \u201cFAQ,\u201d \u201cInvestor Relations,\u201d \u201cHelp Centre,\u201d \u201cCookie Preferences,\u201d \u201cOnly on Netflix,\u201d and \u201cLegal Notices.\u201d Additionally, specific footer services such as \"Only on Netflix\" strongly suggest the exclusivity of content provided by the Netflix service. Moreover, the headers text includes phrases like \u201cUnlimited movies, TV shows and more. Watch anywhere. Cancel anytime.\u201d which are well-known marketing phrases used by Netflix. Finally, the explicit invitation in the paragraphs_text to enter an email to create or restart a membership, coupled with the offer of unlimited streaming services, mirrors Netflix\u2019s user engagement approach. The combination of these elements not only makes it clear that the webpage is for Netflix but also aligns perfectly with the known offerings and textual formatting commonly associated with the brand\u2019s digital platforms. Thus, the deduction that the brand is Netflix is made with absolute confidence.",
+        "Url": "https://ry2002.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "873c78a6f3dfb0e196d2b8b4df11610aec499eb3b74b09858351ee260e13fcd7",
+        "Brand": "Telegram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The identification of the brand as \"Telegram\" is primarily derived from the title of the webpage, \"Telegram Messenger.\" This directly mentions Telegram, which is a well-known messaging service. Further supporting evidence is found in the header texts, which include multiple references to \"Telegram\" in various contexts such as \"Telegram premium,\" \"\u0422\u0435\u043b\u0435\u0433\u0440\u0430\u043c,\" and mentions of features and benefits associated with Telegram, such as encryption, speed, and synchronization. Another pivotal factor conditionally supporting the identification is the favicon, which, although encoded and not directly interpretable here, is consistent with the practice of using brand-related icons as favicons, thus likely representing Telegram. Despite the absence of metadata, logo alt text, footer text, nav bar content, paragraphs text, and span text, the repetition and explicit mention of Telegram in both the title and headers strongly establish the association with the Telegram brand. The only minor uncertainty preventing a full confidence score results from not being able to visually confirm the favicon's appearance due to its base64 encoding format. However, the overwhelming evidence from the text-based HTML attributes highly aligns with Telegram's brand identity, leading to a high confidence level in this identification.",
+        "Url": "http://www.telegram-subscribe.ru/"
+    },
+    {
+        "Folder Hash": "88f1c171b3e052183a93921c327c5020a6ee0e37f4b734021080eef07589f139",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the HTML script provided does not yield any specific brand name directly associated with the website. Key identifiers like favicon, logo_alt_text, and meta_description are either generic or not informative regarding a specific brand. The title \"Connect Wallet\" suggests a function (cryptocurrency trading) rather than a brand. The footer text includes generic statements and rights reserved without mention of any specific brand name, only containing phrases like \"For experienced traders\" and general disclaimers and policies. The headers and nav bar content focus on service features (\"For Traders\", \"Registration\", \"Advantages\") without specifying a brand entity. The other values such as favicon URL ending in \".ico\" and the lack of distinctive keywords or names in the provided textual content points to the absence of clear brand identification. The given information is general and could apply to numerous platforms without indicating a specific brand, leading to the conclusion of \"NA\" for the brand based on this HTML script analysis.",
+        "Url": "https://authconnect.net/"
+    },
+    {
+        "Folder Hash": "a29f9d85c404ec566c111c4d78eed5b891c70e0d24fafa88a14eac392b1dbadb",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The absence of sufficient identifiable brand-related elements in the provided HTML information makes it challenging to determine the specific brand of the webpage accurately. The title \"2022\u4e16\u754c\u676f\u6bd4\u5206\u7f51_\u4e16\u754c\u676f\u7ebf\u4e0a\u4e70\u7403\" translates to \"2022 World Cup Score Network_World Cup Online Betting.\" Though it references the FIFA World Cup event for 2022, this alone does not indicate a unique or specific brand, as it seems to be more functional or descriptive of the services provided (i.e., a score tracking or betting platform) rather than identifying a proprietary or corporate brand. The other fields such as meta description, favicon, logo alt text, footer text, headers text, nav bar content, paragraphs, and span texts are either marked as \"Not Found\" or not supplied with distinctive details that could potentially link to a recognized brand. In such cases, the analysis remains constrained to the given title, which broadly mentions a functionality rather than a brand identity. Given these factors, a confident identification of a specific brand is not possible based on the title given and lack of other brand-defining elements. Hence, the response of \"NA\" for the brand is justified with utmost confidence as per rule 5.",
+        "Url": "http://www.nippe-showbiz.com/"
+    },
+    {
+        "Folder Hash": "a2b09eff278a6f854c9490d28c5cd24640586cce1a7a86b8d70a23d50c496765",
+        "Brand": "SurveySparrow",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The assessment of the HTML script content strongly points to SurveySparrow as the brand of the webpage. The title of the webpage mentions \"SurveySparrow,\" and similarly, the meta description refers to starting with SurveySparrow, suggesting it's the primary subject of the webpage. The favicon link includes the domain 'surveysparrow.com,' and both footer and copyright sections confirm the brand by stating 'SurveySparrow Inc.' Additionally, paragraphs and span text further recommend or promote features pertaining to SurveySparrow, such as offline survey apps, NPS software, and omnichannel experiences, all provided under the SurveySparrow brand. Moreover, direct contacts like the email support@surveysparrow.com and the statement in footer mentioning SurveySparrow Inc., along with their physical address, solidify the identification of SurveySparrow as the associated brand for this webpage.",
+        "Url": "https://surveysparrow.com/?"
+    },
+    {
+        "Folder Hash": "b3b5e0b27d94a4661bbaa109f586b9a1eecc29eb5a9325a6b533d5dc64d7825b",
+        "Brand": "GEMINI 2",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage is identified as \"GEMINI 2\" based on comprehensive evidence from various elements within the HTML structure. The logo alt text \"gimini\" hints at a possible typographical error but is somewhat ambiguous. However, the footer text clearly states \u201cGEMINI2 Wszelkie prawa zastrze\u017cone\u201d (meaning \"All rights reserved\" in Polish). Additionally, multiple instances within the headers_text, nav bar content, and paragraphs_text repeatedly reference \"GEMINI 2\" in phrases like \u201cDo\u0142\u0105cz do Projektu 'GEMINI2'\u201d and assertions such as \"u\u017cytkownik programu 'GEMINI 2' zarabia...\" (meaning \"the user of the 'GEMINI 2' program earns...\"). These numerous and consistent mentions significantly solidify the association of the webpage with the GEMINI 2 brand. The span_text, although primarily containing array of international phone codes, similarly features multiple instances of \"GEMINI 2,\" aligning with previous mentions. All these points contribute to a high confidence in determining that the webpage primarily represents the GEMINI 2 brand.",
+        "Url": "https://waveinterferencey.xyz/"
+    },
+    {
+        "Folder Hash": "c21ff2a4d443a0119fbe7210ad019b82bb37f7f79b2dad482732ea409e64cb3b",
+        "Brand": "JEK-MINER",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The brand of the webpage is strongly indicated multiple times across different elements of the HTML script provided. The title and meta_description both prominently display \"JEK-MINER - \u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439 \u043d\u0430 \u043c\u0430\u0439\u043d\u0438\u043d\u0433\u0435 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442!\" which not only mentions the brand name \"JEK-MINER\" but also emphasizes its thematic involvement in cryptocurrency mining. This is further substantiated by the logo_alt_text, which reflects the same brand name. Additionally, the footer contains repeated references to \"JEK-MINER\" and offers standard legal links typical for a business website, underlining the professionalism associated with a standalone brand's site. The headers_text and nav_bar_content also consistently mention \"JEK-MINER,\" ensuring the brand's visibility in primary navigation elements. The concurrence of this branding across these pivotal sections of the webpage creates a coherent image of \"JEK-MINER\" as the distinct brand of the website. The frequency and consistency of the brand\u2019s name across multiple, crucial HTML elements build a strong case for identifying \"JEK-MINER\" as the brand of the webpage.",
+        "Url": "https://jek-miner.pro/"
+    },
+    {
+        "Folder Hash": "f07f931e42211c4d902fed617e89c47324af573df194966b5ac1b21a0f65a2aa",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The HTML information provided clearly points to Netflix as the brand of the webpage. The title explicitly states \"Netflix,\" which is a direct identifier of the page's brand. In addition, the headers_text section includes multiple typical Netflix-related phrases such as \"Unlimited movies, TV shows, and more,\" and \"Watch anywhere. Cancel anytime,\" which are synonymous with Netflix\u2019s marketing language. The footer_text further supports this identification by listing services and terms directly associated with Netflix, such as \"Netflix Originals,\" and \"Investor Relation\". The phone number provided in the footer text matches the contact number for Netflix's customer service. Moreover, the absence of any conflicting brand information in other fields solidifies the confidence in identifying Netflix as the webpage brand. All these elements are characteristic of the Netflix brand and are congruent with their usual online presentation.",
+        "Url": "https://sristiverma9.github.io/netfliexclone/"
+    },
+    {
+        "Folder Hash": "f8211faf947fdb07df005a2c7e6785150a16d0dd22064010f69ce06f22f533e3",
+        "Brand": "BBVA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis is predicated on the HTML content provided. The title of the webpage is a strong marker - \"BBVA,\" which stands directly for Banco Bilbao Vizcaya Argentaria, a well-known banking institution. Furthermore, the meta description (\"Banca online para Particulares BBVA\") reinforces this identification by mentioning it as an online banking service specifically for individuals, clearly indicating this is a service from BBVA. The favicon URL, which contains 'bbva' in its path, provides additional supporting evidence suggesting the website relates to BBVA. Although the logo_alt_text and footer_text are missing (labelled as \"Not Found\"), the headers and navigation bar content (e.g., \"Men\u00fa principal de la aplicaci\u00f3n,\" \"Acerca de,\" and \"Entrar\") indicate a formal structure consistent with a banking application's portal. The phrases used in paragraphs and span text, such as \"Validando credenciales\" (validating credentials), are typical in a banking login context, further supporting the webpage's association with a bank, specifically BBVA. The overall branding and terminology used across the provided HTML content align closely with the corporate identity and digital presence of BBVA, increasing confidence in this identification.",
+        "Url": "https://uberduds.com/103123BBVA0/"
+    }
+]

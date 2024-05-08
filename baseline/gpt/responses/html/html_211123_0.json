@@ -1,0 +1,200 @@
+[
+    {
+        "Folder Hash": "00a3ba349a28bcde9b275ae3fc88e3664348a7d42ea9c117b81a84702477d518",
+        "Brand": "OnPoint Community Credit Union",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The repeated mention of \"OnPoint Community Credit Union\" across several displayed elements of the HTML script strongly indicates that this is the brand associated with the webpage. This name appears in the title of the webpage, prominently in the headers_text, and multiple times within the span_text. These elements consistently support the identification of \"OnPoint Community Credit Union\" as the brand. Other HTML elements such as meta_description, logo_alt_text, footer_text, and nav_bar_content do not contradict this identification as they are either marked \"Not Found\" or don't include contradictory information. The favicon, although present, is in a data-encoded image format (base64), which, without decoding and visualization, does not provide contrary evidence. As a result, the comprehensive repetition of the brand name across crucial elements like the webpage title and headers_text leads to a high confidence score in identifying the brand of the webpage.",
+        "Url": "http://netcosecurity.com/on/online/l1.php/index.html/index.html/index.html/index.html/index.html/index.html/index.html/index.html/Genny/index.html/index.html/index.html"
+    },
+    {
+        "Folder Hash": "00d53af26a171113d0a536a4bb214d69a89e71beae2db3b1cec648ed68d6f365",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The determination that the brand is LinkedIn is supported by multiple recurring pieces of evidence throughout the provided HTML information. The title explicitly mentions \"LinkedIn: Log In or Sign Up\", indicating the main identity as LinkedIn. Additionally, the footer text conspicuously states \"LinkedIn\" followed by site policies and copyright details typical to LinkedIn, further affirming the brand's identity. The presence of a link to the LinkedIn favicon and the comprehensive description in the meta tags, which refers to professional networking and a membership number that matches LinkedIn's public user base data, solidifies this identification. The header text mentions activities and features like job searching and the professional community, which are core offerings of LinkedIn. Finally, the navigation bar and span text continuously emphasize LinkedIn features such as \"Articles,\" \"People,\" \"Learning,\" and \"Jobs,\" along with references to LinkedIn\u2019s exclusive functionalities like \"Open To Work,\" which are well-known components of the LinkedIn platform. All these elements are distinctively characteristic of the LinkedIn site, which supports the conclusion with high confidence.",
+        "Url": "https://www.linkedin-hiring.cc/"
+    },
+    {
+        "Folder Hash": "01bab3a0a26aa032126e394e3a1aa81c33a8d778572068cbdb0b0c3af31c8277",
+        "Brand": "Chorus Pro",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identity of the webpage can be deduced predominantly from the headers_text and the span_text, both repeatedly referencing \"Chorus Pro.\" The presence of \"Bienvenue sur le Portail Chorus Pro\" in the headers_text is a strong indicator; this appears to be a welcome message, often used to greet users and introduce the service or platform. Also, \"les administrations publiques se sont dot\u00e9es de la plateforme Chorus Pro pour la r\u00e9ception des factures de leurs fournisseurs\" found in the span_text further reinforces the identity by describing the purpose of the Chorus Pro platform, which deals with the reception of invoices from suppliers to public administrations. The metadata description and the logo alt text are missing, and the footer text along with nav bar content are not found, which limits some of the usual avenues for brand verification. However, the strong and consistent mention of \"Chorus Pro\" in both headers and body content of the website strongly points to Chorus Pro being the brand. The favicon's link alone does not provide brand-specific information without the icon visual, thus it isn't considered in this analysis. Overall, the repeated and contextually significant mentions align well to confirm Chorus Pro as the brand, resulting in a high confidence score.",
+        "Url": "https://chrorusprofact.ukit.me/"
+    },
+    {
+        "Folder Hash": "03e8fa3008fff4e140e8f8d4a91affaae8bb92d6cc96a13e1861f5af61e3f2d4",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as MetaMask is strongly supported by multiple elements found within the HTML information. The most direct evidence comes from the webpage title \"\u041c\u0415\u0422\u0410\u041c\u0410SK\", which directly refers to the brand name, albeit with a Cyrillic character '\u0415' used in place of the Latin 'E'. Additionally, substantial supporting evidence is found in the footer text, which includes the copyright statement \"\u00a92021 MetaMask \u2022 A ConsenSys Formation\". The presence of \"MetaMask\" explicitly in this copyright claim strongly reinforces the identification of the brand. The footer text also mentions \"MetaMask for Institutions\", adding further association with the brand. Moreover, the header text refers to functionalities and sections typically associated with MetaMask, such as managing wallet security, emphasizing the specificity of the text to the services provided by MetaMask. Lastly, the repetitive emphasis across diverse sections - footer, title, and header - firmly corroborates MetaMask as the brand, with no conflicting brands or ambiguous information suggesting otherwise.",
+        "Url": "https://metamaskwallet-extension.ddnss.eu/FMfcgzGwHftwbwTCZZfrcHKbNNPtZzMM/bMmNwhmlgsV/7ed3b/"
+    },
+    {
+        "Folder Hash": "0437c0d70c997cc8b00d5e648d97c198d6ec858fe57a2529f0266909fc489221",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as LinkedIn is based on multiple consistent references found within the HTML script. The webpage title \"LinkedIn Login, Sign in | LinkedIn\" clearly includes the brand name twice, indicating the webpage is related to LinkedIn's login page. The meta description further supports this by explaining the page's purpose to \"Login to LinkedIn,\" emphasizing the connectivity and professional networking functionalities specific to LinkedIn. The favicon URL contains 'licdn.com,' which is a domain known to be associated with LinkedIn, adding another layer of authentication to the brand identity. The footer text explicitly mentions \"LinkedIn\" again and includes legal and policy links typically found on corporate websites, suggesting the site's affiliation with LinkedIn's official domain. Additionally, interactions like 'Sign in with Apple' and 'Continue with Google' are common integrations on major platforms like LinkedIn, reinforcing the identification. The repeated appearances of the LinkedIn name across vital areas of the site's HTML script, such as the footer, headers text, and some button texts in the span element description which explicitly mention LinkedIn, collectively confirm the brand identity unequivocally.",
+        "Url": "http://www.smartcaretrack.gogreencloth.com/core/linkedin/index.html?email=3mail@b.c"
+    },
+    {
+        "Folder Hash": "043b2acf520e2a49fd646e5f243431b277540dde2b7ad530f294a3c4c54af2af",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence pointing to Facebook as the brand of the webpage is the favicon URL, which contains \"fbcdn.net,\" a domain known to be used by Facebook for hosting static files. The favicon URL also mentions \"rsrc.php/yD/r,\" a path structure typical for Facebook resources. Additionally, the context and terminology used in the span text of the page, such as \"account has been locked\", \"unexpected activity on your account\", and instructions about hiding the profile from \"everyone on Facebook\", strongly suggests the content pertains to Facebook's account security protocols. The reference to not being able to use \"your account\" coupled with explicit mention of Facebook in the messaging about hiding profiles seals the identification. Although the title and other HTML fields like meta_description, logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are not found or explicitly mentioning Facebook, the information deduced from the favicon URL and the specific language used in the span text provides a high level of confidence that the webpage is related to Facebook.",
+        "Url": "https://verification-page-ads.com/hrEdX9ovD45Uh1RI4hqknuV4kxNBmPiJe77eIoBsgddj61TCRyDOdN4bpopnOBH3yyhGQQKuTshVKon7Trangdau.html"
+    },
+    {
+        "Folder Hash": "05c5b660d1fb4c3f2b0c25b15e5a2bd936d44271b6976bdc14049843afca1e91",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The determination of the brand as Facebook is strongly supported by several key pieces of HTML information. The most explicit indicator is the title of the webpage, which distinctly reads \"Facebook\". Additional supportive evidence comes from the favicon URL, which features a Wikimedia link specifically describing it as the Facebook f logo dated 2021. This directly ties the favicon to the official visual branding of Facebook. The headers and paragraph text, detailing interactions typical to Facebook such as liking, commenting, sharing, and mentioning specific features like Marketplace, Groups, Friends, and Watch, align with the known functionalities and topical structuring of the Facebook platform. These elements collectively reinforce the identification of the brand as Facebook. Despite the meta description suggesting a generic react-app creation, it does not outweigh the explicit references to Facebook within the other provided HTML information. Thus, confidence in Facebook as the correct brand identification remains high.",
+        "Url": "https://facebook-clone-c0j.pages.dev/"
+    },
+    {
+        "Folder Hash": "0645de78ba6dd8e84fe462785095a383cc6ed2782f9b61ba9f29827ebb1ee13f",
+        "Brand": "Banco BPM",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The provided HTML information strongly indicates that the webpage is associated with Banco BPM. The title of the webpage explicitly includes \"Banco BPM,\" which is a significant indicator of the brand. Furthermore, the footer text provides detailed information pointing towards Banco BPM, including a physical address located in Milano and a VAT identification number specific to Banco BPM (\"P.IVA 10537050964\"). This level of detail in the footer, especially naming \u201cBANCO BPM GRUPPO BANCARIO,\u201d establishes the identity of the brand definitively. Moreover, the header text references \"YouBusiness App,\" possibly a service or product offered by Banco BPM, enhancing and tailoring the mobile banking experience, which is consistent with services banks typically provide. The use of Italian for contact numbers and services, coupled with the Italian address, corroborates the geographical and operational base, aligning it correctly with Banco BPM, an Italian banking brand. Despite some fields like logo_alt_text and nav_bar_content being \"Not Found,\" the overwhelming presence of Banco BPM's details in critical areas like the footer, title, and contact Sections fortifies the identification conclusively.",
+        "Url": "https://youbusinessweb-bancobpm.web.app/sessionid#ba2a78ef3eaf0cffe9b76fab86c9183d"
+    },
+    {
+        "Folder Hash": "06ce081ff698c6cce724138b8cbf97adf34780f731b09e30f3d1f8c4023805e3",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.50",
+        "Supporting Evidence": "The primary evidence pointing to the identification of the brand as Facebook comes from the title of the webpage (\"Facebook | pihak-resmi-id\") and key phrases in the headers and paragraph text. The title explicitly mentions \"Facebook,\" which is a strong indicator of the brand's presence on the webpage. Additionally, the headers include the phrase \"Peringatan Facebook,\" which translates to \"Facebook Warning,\" further suggesting the page content is directly associated with Facebook. The paragraphs further reinforce this by instructing users to verify their Facebook account to protect their data and avoid account blocking, emphasizing active Facebook user engagement. Though the favicon is linked to Weebly, indicating the site might have been built using Weebly's platform, this does not necessarily reflect the brand of the webpage content itself but rather the tool used for its creation. The presence of multiple mentions of actions related to a shopping cart and e-commerce activities do introduces some ambiguity; however, they do not specifically link to another identifiable brand, leaving the most consistently mentioned brand as Facebook.",
+        "Url": "https://pihak-resmi-id-105551.weeblysite.com/"
+    },
+    {
+        "Folder Hash": "0704fbad1073d25d693587687b5a3a05f1dae8b26076216fc7d8527925bb3de2",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand identification primarily relies on the combination of textual content from the title, header, and paragraphs. The key phrases used in the header and title are \"Ingresa a tu cuenta,\" which translates from Spanish to \"Log in to your account.\" This phrase is typical but not exclusive to service platforms. More importantly, in the paragraph text, there is explicit mention of \"Inici\u00e1 sesi\u00f3n en la plataforma Microsoft para confirmar identidad,\" which translates to \"Log in to the Microsoft platform to confirm identity.\" This direct reference to Microsoft indicates the brand involved. Additionally, the paragraph includes a contact link \"outlook.live.com,\" which is a known Microsoft Outlook service domain. This strengthens the conclusion that the webpage is associated with Microsoft. The favicon URL contains an icon link hosted on an external server and not directly indicative of the brand, and other elements like meta description, logo_alt_text, footer_text, and span_text are marked \"Not Found\", rendering them unusable for this analysis. Despite some missing data, the references in the text are sufficient to affirm that the webpage is associated with Microsoft, with a high degree of confidence.",
+        "Url": "http://mexicovierificarsuspencionvalidar.royalwebhosting.net/"
+    },
+    {
+        "Folder Hash": "140e7476ee0343f602e53a3149797c4df4621c10b964f6342a34533781adf290",
+        "Brand": "Unitens",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The primary indicator of the brand identity in the presented HTML script information is the title of the webpage, which is \"Unitens.\" Titles can be a strong indicator of brand identity because they usually reflect either the brand name directly or a closely associated term. The metadata enhances the association through context, explaining that Unitens seeks to offer satisfactory experiences and quality footwear at low costs, fitting with the branding of a shoe store. The favicon URL, while not disclosing the brand name explicitly, aligns with the theme visualized - Insight into the favicon origin domain could help but isn't necessary for this determination.",
+        "Url": "https://unitensloja.site/"
+    },
+    {
+        "Folder Hash": "1609c8ef7f93c3cc34b5f6679bf8943be89d2dcb0607ea94cf3a4ff99b56ec4c",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The primary evidence pointing to the brand as Microsoft comes directly from the title and meta_description tags, both of which explicitly mention \"Microsoft\". This direct mention significantly suggests that the webpage is very likely to belong to the Microsoft brand. Moreover, the absence of other brand indications in crucial fields such as logo_alt_text, footer_text, headers_text, and nav_bar_content, which contain \"Not Found\", prevents any confusion or conflicting brand identification. The presence of a paragraph text mentioning account sign-up typically aligns with user account management common on corporate or service-based websites, which again supports the idea that it could be a Microsoft-specific service or product page. The favicon path, \"/favicon.ico\", although generic, does not contradict the identification, since many corporate websites use a standard favicon.ico file path. All this put together justifies a high degree of confidence in identifying the brand of the webpage as Microsoft.",
+        "Url": "https://onedrivelseeattachfile.web.app/"
+    },
+    {
+        "Folder Hash": "33932ac057385308009b54178640b8eb5fb848749a1642de0fabdcf16cc68646",
+        "Brand": "Adobe",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The extensive HTML analysis of the webpage reveals a significant amount of Adobe-related content, which strongly indicates that the brand associated with this webpage is Adobe. Key indicators include:",
+        "Url": "https://helpx.adobe.com/download-install/kb/acrobat-users-sign-in-error.html"
+    },
+    {
+        "Folder Hash": "5e1a287812762ebd7e044d6c7a61644c4b3dc26669d9a5bf0b6de2fb92e927a2",
+        "Brand": "ID Agent",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary piece of information leading to the identification of \"ID Agent\" as the brand comes from the 'headers_text' which directly mentions \"ID Agent.\" Additionally, the content in 'paragraphs_text' further supports this identification, where it explicitly states, \"This domain is owned and operated by ID Agent as part of the BullPhish ID\u2122 Phishing Simulation/Training & Awareness tool.\" This statement not only reiterates the brand name but also specifies the service it provides, linking both the brand and its ownership of the domain. The email address provided, \"Support@idagent.com,\" which uses the domain '@idagent.com,' corresponds to the brand name, reinforcing the identification. Therefore, even though many key HTML fields like title, meta description, favicon, logo_alt_text, footer_text, and nav_bar_content are marked as \"Not Found,\" the consistent mention of \"ID Agent\" in crucial text areas of the webpage considerably solidifies the confidence in identifying the brand. Moreover, the lack of conflicting brand markers or mentions of any other brands on the page limits the ambiguity, aiding in a confident brand identification.",
+        "Url": "https://secured.cloudsurveillance.net/0b22b244-593f-428f-883a-f0c6eccd7cc0"
+    },
+    {
+        "Folder Hash": "721a476d024a0dfd32057c312a00b60d6d2f3f751a1bb09548dcd11e9ba634aa",
+        "Brand": "\u00d6sterreichische Post AG",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis primarily utilizes textual content from the title, footer, and the services listed, all hinting towards postal and shipping-related services. The title \"Post Ag\" together with the repeated mention of \"Post\" in various snippets of the footer text, including several social media platforms such as \"Post auf facebook,\" \"Post auf YouTube,\" \"Post auf LinkedIn,\" and \"Post auf Instagram,\" suggests a postal service entity named \"Post.\" Additionally, the footer lists services like \"Post Express,\" \"Versenden\" (send), and \"Empfangen\" (receive), which are typical offerings of a postal or courier service company. The language used (German) and the domain indicated in the favicon URL (.de) imply a location in the German-speaking region. The phone number \"+43,\" which is the country code for Austria, narrows it down to Austria. Therefore, considering these elements collectively, it appears the brand is \u00d6sterreichische Post AG, which is the primary postal service of Austria. The repeated references to \"Post,\" services, and the specificity of the phone number, alongside the context provided by social media references, form a strong basis for this conclusion.",
+        "Url": "https://wsx.vvo.mybluehost.me/wp-admin/AGJ/LoginServices/"
+    },
+    {
+        "Folder Hash": "8ca024cdc6d763e242452e3fd44805aa1c00c159c982e8d68e9e7ceaaf1586e0",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the HTML script content clearly indicates that the brand is Microsoft. The title \"Fix OneDrive sync problems - Microsoft Support\" includes the word 'Microsoft,' which is a direct identifier of the brand. Additionally, the footer text mentions multiple Microsoft products such as Microsoft 365, Windows 11 apps, and specific Microsoft Surface devices. The footer also includes phrases like \"Microsoft Store\" and \"Microsoft in education,\" which further tie the page to the Microsoft brand. The header text also prominently features \u2018Microsoft\u2019 multiple times, specifically noting Microsoft support areas like Microsoft 365, Office, and various Microsoft products. The metadata with the description \"Learn how to fix common OneDrive personal or OneDrive for Business sync problems\" also supports the conclusion, as OneDrive is a Microsoft service. All evidence combined with consistent branding across titles, headers, footers, and meta descriptions solidifies the identification of Microsoft as the brand with high confidence.",
+        "Url": "https://support.microsoft.com/en-us/office/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2"
+    },
+    {
+        "Folder Hash": "a7130332f01e2cbcfa13cec93ea1d2b256c59188e3ccdb1df21ff3aacc7e958d",
+        "Brand": "WalletConnect",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as \"WalletConnect\" is supported by specific references in the webpage title and meta description, both crucial indicators of brand attribution. The title of the webpage is \"WalletConnect Pay,\" immediately suggesting that WalletConnect is the primary brand associated with this page. This is further corroborated by the meta description which mentions \"Ethereum POS System with WalletConnect support,\" reinforcing the connection to WalletConnect as an integral part of the webpage's functionality. The absence of a clearly stated logo attribute and footer text does not provide additional brand data, focusing our analysis on the title and meta description. The favicon, though typically useful, just points to a standard icon and does not specify a brand. The headers contain generic business-related content (\"Business Login | Order Menu\") which might suggest functionality but do not explicitly name another brand. Given these factors, the repeated specific mention of WalletConnect in critical content areas (title and meta description) leads to high confidence that WalletConnect is indeed the brand associated with the webpage.",
+        "Url": "https://walletconnectpay.com/"
+    },
+    {
+        "Folder Hash": "d66c28b7d332cbcc89c9c66c1b425043f3e007ef35ee2c7285ecfe9eaa0d57ee",
+        "Brand": "KRAFTON",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The key evidence supporting the identification of \"KRAFTON\" as the brand comes mainly from the footer text provided in the HTML script. The footer clearly states \"\u24d2 2023 KRAFTON, Inc. All rights reserved,\" which is typically where companies express copyright and ownership information, strongly linking the webpage content to the company KRAFTON, Inc. Additionally, although the title \"BATTLEGROUNDS MOBILE INDIA\" and the meta description suggest the webpage is directly related to the game itself, the mention in the footer shifts the overarching brand identity towards the company that owns the game, which is KRAFTON. The presence of the favicon URL containing the domain name \"battlegroundsmobileindia\" does solidify that the page is specifically about the BATTLEGROUNDS MOBILE INDIA game, raising potential dual branding considerations. However, since the copyright statement explicitly states KRAFTON, the logical conclusion leans more favorably towards identifying KRAFTON as the brand of the webpage, rather than the game alone as a separate entity. This approach is reinforced by how brands typically use webpages: to feature their products while establishing clear proprietary markings, usually in the footer, to confirm ownership and brand attribution.",
+        "Url": "https://gunk8tsbvpz.penguasa.de/"
+    }
+]

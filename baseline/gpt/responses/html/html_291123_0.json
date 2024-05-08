@@ -1,0 +1,211 @@
+[
+    {
+        "Folder Hash": "0029ddf50757663f869ea57fa6b35bb742950a007641478851bf8fea7133872e",
+        "Brand": "Google",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The title \"Sign in - Google Accounts\" is a direct indication that the webpage is associated with Google, specifically a login page for accessing Google services. This claim is further supported by the footer and headers text, which highlight various international languages typically supported by global companies like Google. Furthermore, the text includes references to signing in using a Google Account and mentions facets typical to Google's sign-in process such as \u201cForgot email?\u201d, \u201cNot your computer? Use Guest mode to sign in privately,\u201d and options for personal, child, and business accounts. The references to comprehensive language support across many different languages in the footer also align with Google's international accessibility approach. These elements collectively confirm the webpage as part of Google's ecosystem, notably focused on user account management and login processes.",
+        "Url": "https://accounts-google-com.google.research.skyfencenet.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&followup=https%3A%2F%2Faccounts-google-com.google.research.skyfencenet.com%2F&ifkv=ASKXGp35mtwoMZTYq_EQh00TDcURsTqYlJCXhLv51FgyiEwBpd_bSIdnTUQe919CFtE8t2MXUeVA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1106871291%3A1701237264171240&theme=glif"
+    },
+    {
+        "Folder Hash": "00d320e13a4afd5c13cd57d8e6930967708ab4d93d7583d7b9e52e97e507ccb5",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of DHL as the brand for this webpage is based on specific mentions in the footer text, which references \"2022 \u00a9 Deutsche Post AG - All rights reserved.\" Deutsche Post AG is known to be the parent company of DHL, providing a strong indication that this website pertains to DHL services. Additionally, the theme of the webpage focused on delivery, shipping, and logistics aligns strongly with DHL\u2019s business activities. The presence of multi-national location options and shipping-related navigational items further supports this identification. Although the logo and specific DHL branding elements like the typical red and yellow color scheme or logo are not directly mentioned in the provided HTML attributes (and instead show 'Not Found' where logos might typically be referenced), the footer citation of the parent company and the thematic consistency with DHL\u2019s known services leads to a high confidence in this identification.",
+        "Url": "http://socialmediaconsultant.ae/public/cKcAHeRtw8tgyrOIdKqopukWqegyBl6X"
+    },
+    {
+        "Folder Hash": "0268063589ad4ed7dc1cc582927dbc4a55f51d034f46283b2f276bad9acb6652",
+        "Brand": "MetaMask",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is based on multiple consistent references to \"MetaMask\" throughout the HTML information. The title of the webpage clearly mentions \"MetaMask - A crypto wallet & gateway to blockchain apps,\" indicating the primary brand of the webpage. This is reinforced in the footer text which signs off with \"\u00a92022 MetaMask \u2022 A ConsenSys Formation,\" providing both a copyright statement specific to MetaMask and identifying its affiliation with ConsenSys. Further evidence comes from contextual content in the headers_text and paragraphs_text, where phrases directly reference MetaMask (\"Your key to blockchain applications\", \"MetaMask may use the contact information you provide to us\"), and the brand\u2019s activities (\"MetaMask Institutional\"). These consistent mentions across various sections (title, footer, header, and paragraphs) of the HTML script affirm the identification of MetaMask as the brand without ambiguity. Thus, the confidence level in the identification of MetaMask as the concerned brand is complete.",
+        "Url": "https://matemska.com/"
+    },
+    {
+        "Folder Hash": "03613ee8f7807376093f334ce4a3f269c601fe5a3a39cb6942beffed71755968",
+        "Brand": "DHL",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand as DHL is evidenced primarily by the text in the footer, which states \"2022 \u00a9 Deutsche Post AG - All rights reserved.\" Deutsche Post AG is well-known as the parent company of DHL, a major global logistics company. The information contextually revolves around delivery services as seen in the webpage title \"Delivery\" and confirmation needed for delivery address and shipping costs. Furthermore, the wide international scope suggested by the extensive list of countries in the headers and nav bar aligns with DHL's global logistics operations. The favicon URL includes 'dinzab', which is not immediately identifiable and does not detract from the stronger evidence provided by the explicit copyright notice linking to Deutsche Post AG, thus pointing conclusively towards DHL as the correct brand identification.",
+        "Url": "https://package.dittugarments.com/public/xXmKbIKplnyr3mWGvbjBXmGyAmEgHDal"
+    },
+    {
+        "Folder Hash": "04076986695e1224101bc06b34e8537784bd3b937c4a9c7536a9e92fc1335e6e",
+        "Brand": "Poste Italiane",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis of the HTML information provided indicates \"Poste Italiane\" as the brand of the webpage. The key elements supporting this identification include the reference to \"MyPoste\" multiple times within the headers_text, which suggests it is likely a service or product offered by the brand in question. Moreover, the footer and paragraphs_text strongly support the identification as they explicitly mention \"\u00a9 Poste Italiane 2023 - Partita iva: 01114601006,\" which is a clear indication of ownership and association with Poste Italiane, along with a specific tax identification number (Partita IVA) attributed to Italian companies. This evidence strongly aligns with Poste Italiane being the correct brand. The absence of other competing brand information in the provided HTML script segments further consolidates Poste Italiane as the correct answer. The clues are both direct and unambiguous, leading to a high confidence score in the identification.",
+        "Url": "http://bestknitters.com/"
+    },
+    {
+        "Folder Hash": "04847856708f0e6d56d41a5e6a370241a9ba719b377bf4f3a54b19b23344d824",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as Facebook is strongly supported by multiple key elements available in the HTML information provided. Firstly, the title clearly states \"Facebook log in or sign up,\" which directly names Facebook and indicates the primary function of the webpage (user authentication or account creation). Furthermore, the headers_text explicitly states, \"Facebook helps you connect and share with the people in your life,\" which not only reiterates the brand name but also describes Facebook's principal service of connecting users. Additionally, in the paragraphs_text, the phrase \"Create a Page for a celebrity, band or business. | Facebook \u00a9 2023\" is another clear indicator. The copyright year attached alongside the brand name, \"Facebook \u00a9 2023,\" not only reaffirms the brand but also suggests the currency of the webpage's content. Each of these components distinctly points to Facebook as the brand, providing robust evidence for its identification without ambiguity.",
+        "Url": "https://ikechukwu647.github.io/rubliss4/"
+    },
+    {
+        "Folder Hash": "05e2621aa56ff714ca7f8e6143182091f735a157100463c72d0221c92adaba7b",
+        "Brand": "VK Store",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The key pieces of information leading to the identification of \"VK Store\" as the brand for the webpage are found in the footer text which explicitly includes \"\u00a9 VK Store,\" indicating ownership or affiliation with the webpage content. Additionally, no other recognizable brand names are mentioned within the critical fields (title, headers, footer) that might suggest an alternative primary brand identity for the webpage. The email address provided in the footer, while mimicking another well-known brand (Americanas), is likely used for a specific sales event and does not override the stronger brand evidence provided directly by the footer credit to \"VK Store.\" Furthermore, the consistent presence of customer service and corporate information reinforces that the main operational entity for the webpage is VK Store. This is further corroborated by the absence of a conflicting brand name in the headers, nav bar, and other prominent display areas. The favicon path and other less directly brand-indicative features also do not offer contrary evidence, solidifying the identification of VK Store as the main brand associated with this webpage. The general consistency and placement of the brand name across pivotal webpage elements like footer and customer interaction points enhance reliability in this identification.",
+        "Url": "https://blackfridayamericanas.net/081f8fcf-5316-4f90-88a6-6119c5943e6d/checkout/produto/6543d98a6ca11/jogo-de-panelas-brinox-smart-plus-ceramic-life-8-pecas-vanilla"
+    },
+    {
+        "Folder Hash": "062d94cb0608d431400dee0a185a1ba94a4db663f5e6d2eec887a45839acf3af",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The information provided prominently features the name \"Garena Free Fire\" within the title and within the meta description (\"C\u1eeda H\u00e0ng Garena Free Fire\"), strongly indicating that the webpage relates specifically to the Garena Free Fire brand, a popular battle royale game. The footer text further supports this identification, displaying \"\u24d2 2023 Garena Vietnam,\" which references Garena, the company known for publishing the game. Additionally, the footer mentions \"B\u1ea3n quy\u1ec1n thu\u1ed9c v\u1ec1 \u00a9 Garena Online,\" reinforcing the link to Garena as the corporate entity behind Free Fire. The favicon, although generic in its naming (\"img/logo.png\"), doesn\u2019t discount the other strong evidences pointing to Garena Free Fire. The absence of the logo alt text, headers text, and nav bar content does not hinder the analysis as the evidence from the title, meta description, and footer is explicit enough to make a confident brand identification. The paragraph and span texts provide further contextual support by referencing terms commonly associated with online gaming and account management, which aligns with the services offered by Garena Free Fire.",
+        "Url": "http://test1.garenav.vn/"
+    },
+    {
+        "Folder Hash": "06e6a4b7f630f17850cf2b216c3f81bb70d18a51ed616c7b941b4e48b8679389",
+        "Brand": "Vivobarefoot",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The HTML information provided consistently points to the brand Vivobarefoot. The title of the webpage specifically mentions \"Vivobarefoot Saudi Arabia | Vivobarefoot Shoes Clearance Sale,\" which directly names the brand. The meta description further supports this identification by mentioning the webpage is for shopping for Vivobarefoot shoes on sale and providing a URL that also includes the brand name, further reaffirming the association. The headers_text, which includes \u201cAbout VivoBarefoot,\u201d directly references the brand. The footer and nav bar content do not contradict this identification, focusing instead on product categories typical of a footwear brand, reinforcing the presence of Vivobarefoot\u2019s products. Although some high-value fields like favicon, logo_alt_text, and footer_text are not found and therefore don't contribute to identification, the overwhelming presence of the brand name in critical areas like the title, meta description, and headers significantly supports the conclusion that the webpage is associated with Vivobarefoot. Additionally, there are detailed descriptions of products that adhere to Vivobarefoot\u2019s known product offerings in the paragraphs_text. This continuity and repetition of the brand across various parts of the HTML content lead to a high confidence in identifying Vivobarefoot as the brand of the webpage.",
+        "Url": "https://www.vivobarefootssaudiarabia.com/"
+    },
+    {
+        "Folder Hash": "070d8f9be03c6be321a10dcfb879820fbcd0c6b05a9afe392ac2da9b8f5dd2ae",
+        "Brand": "Instagram",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand of the webpage is confidently identified as Instagram based on several elements provided in the HTML information. The logo attribute has \"Instagram\" as the alt text, indicating that the image representing the brand on the page is for Instagram. Additionally, the footer contains specific categories and terms such as \"About Us,\" \"Support,\" \"Blog,\" \"Press,\" \"Api,\" \"Jobs,\" \"Privacy,\" \"Terms,\" \"Directory,\" and languages, which are typically found on Instagram's official pages. These categories are consistent across both the footer and navigation bar, reinforcing the presence of Instagram's operational and user support framework. Moreover, the footer explicitly mentions \"\u00a9 2018 Instagram,\" strengthening the identification of Instagram as the web page's associated brand. The \"favicon\" URL includes \"blogspot,\" which might suggest a custom or fan-created blog page themed around Instagram or its lite version, but the consistent branding elements throughout the webpage strongly point to it being related to Instagram or an extension of its services. The webpage title and contents in Arabic may hint at a region-specific version or a fan-made tribute, but the overwhelming recurrence of Instagram's specific footer and navigation elements solidifies Instagram as the focal brand.",
+        "Url": "https://lnstagramlite.blogspot.com/"
+    },
+    {
+        "Folder Hash": "524d69e099ce2cf898dbd3614e175228b3b3624e8f5496f3252b5136c9fc55f2",
+        "Brand": "Bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The sole determinant factor for identifying the brand of the webpage in this instance is derived from the title of the webpage, which is \"Bet365.\" The absence of other typical markers like meta description, favicon, logo alt text, footer text, headers text, and definitive nav bar content has limited the scope of analysis. However, the title of a webpage is typically a strong and direct indicator of its brand, especially when it features a distinctive and specific name like Bet365, which is a well-known online gambling company. The span_text includes unrelated and non-identifying data showing sequences and dates possibly indicating server response times or identifiers which do not contradict the brand identity derived from the title. There is no conflicting information present in the provided HTML data to suggest any brand other than Bet365, hence the high confidence score, though slightly reduced due to lack of multiple corroborating data points.",
+        "Url": "http://19730510.com/"
+    },
+    {
+        "Folder Hash": "57ef3530895093d5a4cab5f34f7d34f127015946c19e5b0ae90f7f934d2e020d",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of the brand as Facebook is supported by several elements from the provided HTML information. Primarily, the title of the webpage is \"Facebook,\" which is a direct and explicit identifier. Additionally, the favicon URL contains \"fbcdn.net,\" a known domain used by Facebook for hosting static files, further reinforcing the association with Facebook. The domain part \"fbcdn.net\" is commonly associated with Facebook\u2019s content delivery network. Also, the span text mentioning \"Log in with Facebook\" aligns with Facebook's common functionality of providing a social login option for various online platforms. This suggests that the webpage likely enables login features associated with Facebook accounts, consistent with the brand\u2019s typical integrations on various websites. While other information such as meta description, logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are marked as \"Not Found,\" the data provided is sufficient to confidently identify the brand as Facebook. The only slight uncertainty stems from the absence of visual and additional textual context which could further confirm this identification beyond doubt. Nevertheless, the key indicators strongly point to Facebook as the brand associated with the webpage.",
+        "Url": "https://www.meta-support-page.com/"
+    },
+    {
+        "Folder Hash": "5b079aaddbb1fcd8f92f31136a6235e8f7c77b4a69cb2b4bd72997a4d6bfb288",
+        "Brand": "NETFLIX",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The webpage title directly mentions \"NETFLIX,\" which typically indicates the brand or entity that the webpage is dedicated to. This is a strong piece of evidence as webpage titles are often used specifically to highlight the brand identity and are visible in browser tabs and search engine results, serving as primary identifiers. Furthermore, the headers text includes \"Sign In,\" which aligns with common features offered on content streaming platforms like Netflix. The paragraphs text mentions \"Checking your information...\" which is common on login pages, reportedly matching the user authentication process observed on Netflix and similar platforms. The presence of terms like \"Gift Card Terms,\" \"Terms of Use,\" and \"Privacy Statement\" in the span_text typically denotes standardized legal links placed at the bottom of many commercial webpages, further aligning with Netflix\u2019s standard webpage layout. Despite some fields being \"Not Found\" (logo_alt_text, footer_text, nav_bar_content), the information provided gives significant clarity towards Netflix. The usage of \"Login with Facebook\" also connects with Netflix\u2019s login feature options. The factor reducing full confidence is only the reliance on the title and the exclusion of specific brand-indicative images (like the favicon URL which points to a blogspot domain \u2013 which could imply a customized placeholder rather than an official Netflix domain), but in cumulative assessment, the evidence heavily supports Netflix as the brand.",
+        "Url": "https://netflix-december21.blogspot.com/"
+    },
+    {
+        "Folder Hash": "6adcc77d36f1c22526469ab12f1758bf1eda7f96d66e01c7fe3bc71e4050900e",
+        "Brand": "Garena Free Fire",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The primary factor leading to the identification of \"Garena Free Fire\" as the brand for this webpage is the title which explicitly states \"Garena Free Fire Membership\". Titles are critical indicators of a webpage's content and intention, directing users immediately about the context and purpose of the page. Additionally, the references in the paragraph text, such as \"N\u1ea1p t\u00edch lu\u1ef9 800 Kim C\u01b0\u01a1ng trong Free Fire\" and mentions of gameplay elements like \"Kim C\u01b0\u01a1ng\" (which translates to diamonds, a known currency in Free Fire), further strengthen this association. Moreover, the domain name in the favicon URL includes \"garenanow.com\", and mentions of 'ff' which typically is a shorthand for Free Fire often used in fan communities and official materials. This favicon link further increases the likelihood that this page is indeed related to the Garena Free Fire brand, as incorporating game-specific elements in the URL supports the page's relevance to the game. Although there is some generic information in the headers and span text, it does not contradict the identified brand. Thus, these pieces collectively confirm the association with Garena Free Fire without significant inconsistency.",
+        "Url": "http://ff.member.gareza.vn/cre96aCBExqeaXVpAUtesGytOkoIi0b316MEngRB6GduITgIXVrolFEk2af8IFjZOoSP3KYbglKd4dNBCztIqgAYAV650Z5ySGNc_index/#/"
+    },
+    {
+        "Folder Hash": "a97b31d3ecdfe1d824afe2dbe6b31f2198346e40697fc3b2269f601ad0bc99d7",
+        "Brand": "bet365",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The strongest indicator in the provided HTML information pointing to the brand identity is the webpage title \"welcome-bet365\" coupled with repetitive mentions of \"bet365\" throughout the text content. Specifically, phrases like \"bet365\u4f53\u80b2\" translates to \"bet365 Sports\" and detailed descriptions of services provided firmly establish bet365 as the associated brand. Furthermore, the detailed footer information extensively describes bet365\u2019s offerings, including sports betting and various other gambling and gaming services, which align perfectly with known aspects of the bet365 brand, one of the world's leading online gambling companies. Additionally, the description includes references to betting options, bonuses linked to European football, and a wide array of games, which are well-known hallmarks of the bet365 gaming experience. The consistency of mentions and the specificity with which services are described (such as live links for sports events, bonuses, etc.) lend significant credibility to the assertion that this webpage is directly connected to the bet365 brand.",
+        "Url": "https://www.bet3659.tv/home"
+    },
+    {
+        "Folder Hash": "aa4a498386e1135bb11171167c2833f459c01d92f2f806af12e2a178174bb608",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The HTML information provided strongly indicates that the brand of this webpage is Netflix. The title of the page directly mentions \"Netflix,\" which is a primary indicator of the brand identity. Additionally, the footer text contains numerous references to Netflix-specific features and services such as \"Only on Netflix,\" reinforcing the brand identification. Notably, the headers text includes descriptive phrases about the service offering, like \"Watch anywhere. Cancel anytime.\" and \"Ready to watch? Enter your email to create or restart your membership,\" which are well-known marketing phrases associated with Netflix. The paragraphs_text further solidifies this, providing a detailed description of Netflix's services, subscription plans, and content offerings. It specifically mentions Netflix as a streaming service multiple times, discussing aspects like no contractual commitments, the variety of content available including Netflix originals, and device compatibility. All these factors collectively affirm the brand's identity as Netflix, leading to a very high confidence score in the identification.",
+        "Url": "https://imshivamnair.github.io/Netflix-and-Chill/"
+    },
+    {
+        "Folder Hash": "d00adfb26aca6d440945911e196167c79020355e213d72da41ba54eca09f7d62",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The evidence extracted from the HTML information provided clearly indicates that the webpage belongs to the brand \"Netflix.\" The title of the webpage explicitly mentions \"Netflix India \u2013 Watch TV Shows Online, Watch Movies Online,\" which directly names Netflix and highlights its primary service in the region (India). The footer text also supports the brand identification with the mention of \"Netflix India\" and includes services and offerings typical to Netflix, such as \"Only on Netflix,\" which points to exclusive content. Additionally, various sections listed in the footer like \"FAQ,\" \"Investor Relations,\" \"Speed Test,\" \"Legal Notices,\" \"Media Centre,\" and \"Terms of Use\" are aligned with typical Netflix web page structure. Moreover, the service-specific references in the spans such as streaming on various devices, creating profiles for kids, and specifics about memberships, are typical offerings described in Netflix\u2019s customer communications and service descriptions. All of this information strongly corroborates the identification of Netflix as the brand of the webpage, matching their standard online presentation and content.",
+        "Url": "https://dubeyprashant1.github.io/Netflix-Clone.github.io/"
+    },
+    {
+        "Folder Hash": "dcd93ffe7cc0ce8d070abaa399e5e36738aa5c3bc7f7cd3b92cce094ff77cd6d",
+        "Brand": "\u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification is primarily supported by multiple references in the HTML information provided. The title of the webpage contains \"\u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a,\" specifically mentioning \"\u0415\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e \u0431\u0430\u043d\u043a\u0438\u0440\u0430\u043d\u0435 \u0414\u0421\u041a \u0414\u0438\u0440\u0435\u043a\u0442 \u043e\u0442 \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a,\" which strongly indicates the brand identity. Additionally, the meta description reinforces this identification by mentioning \"\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0431\u0430\u043d\u043a\u0438\u0440\u0430\u043d\u0435\u0442\u043e \u043d\u0430 \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a.\" Furthermore, the footer text includes the BIC/SWIFT code, which generally is unique to each bank and it states \"BIC/SWIFT \u043d\u0430 \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a: STSABGSF,\" aligning with \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a\u2019s known banking credentials, and the footer text consistently uses the name \"\u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a\". These textual references across the title, meta description, and footer text strongly converge on \u0411\u0430\u043d\u043a\u0430 \u0414\u0421\u041a being the brand associated with the webpage.",
+        "Url": "https://directonline-bg.com/login/"
+    },
+    {
+        "Folder Hash": "f34bd4c756f9c0ad38e85f51cdf9c3ff9a52ed1bc924d6ad1ae31948173e2903",
+        "Brand": "Codashop",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The evidence pointing towards Codashop as the brand for the webpage is strong. Prominent references to \"Codashop\" are scattered throughout different elements of the HTML script. The favicon URL includes 'codashop', which typically signifies the webpage's affiliation with the brand. The meta description, while providing detail on the services for topping up diamond credits for the game Free Fire, ends with a mention of purchasing such credits through Codashop, marking it as a trusted platform in Indonesia. The footer text explicitly mentions \"Coda\" with reference to copyright ('\u00a9Hak Cipta Coda Payments'), legal pages, and customer support specific to Codashop, strongly associating the footer content with Coda Payments which operates Codashop. While the logo alt text does mention \"GO_PAY,\" this seems to be an alternative text for a logo of a payment option available on Codashop, rather than indicating the primary brand of the website. The holistic incorporation of the Codashop brand throughout the payment alternatives, promotional content, and user guide sections alongside constant mention in key navigational and informational web page blocks, underlines Codashop as the brand associated with this HTML content.",
+        "Url": "https://diamond-gratis-9736.real4.biz.id/id/"
+    }
+]

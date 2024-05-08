@@ -1,0 +1,79 @@
+[
+    {
+        "Folder Hash": "0e4582d1db1403de859a5b4265acb69e80016bb02a1a932c2580000801932fec",
+        "Brand": "Cupom-de-Desconto.com",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence pointing towards \"Cupom-de-Desconto.com\" as the brand comes from several distinct references throughout the HTML information provided. The title of the webpage directly mentions \"Cupom de Desconto de Ponto Frio - Cupom de Desconto,\" which hints towards a website offering discount coupons while specifically featuring a page dedicated to discounts at Ponto Frio. Even more incisive is the footer text which clearly states \"Cupom-de-Desconto.com\" and \u201c\u00a9 Cupom de Desconto.\" This repeated naming convention solidifies the branding associated directly with the website \"Cupom-de-Desconto.com.\"",
+        "Url": "https://www.cupom-de-desconto.com/ponto-frio/"
+    },
+    {
+        "Folder Hash": "372e6116960e55286a120894035b699ce5a184bc1bcc1d4c3ac20a68f3ec4b55",
+        "Brand": "SFR Business",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The identification of \"SFR Business\" as the brand for this webpage is strongly supported by multiple direct mentions throughout the provided HTML elements. The title \"Politique de protection des donn\u00e9es \u00e0 caract\u00e8re personnel | SFR Business\" clearly includes \"SFR Business,\" indicating it is the primary subject of the webpage. This is bolstered by the footer text which also repeatedly mentions \"SFR Business,\" once in reference to the newsletter sign-up and another as a standalone mention. Furthermore, the descriptions throughout the webpage like \"En indiquant votre adresse mail ci-contre, vous acceptez de recevoir les communications de SFR Business par voie \u00e9lectronique\" directly associate the activities and communications on the page with SFR Business. The detailed narrative about data protection mentions the brand name multiple times, associating policies and business practices directly with SFR Business. These mentions are clear, prominent, and consistently centered on SFR Business, pushing the confidence score to a high level. The absence of any significant reference to another brand throughout the critical webpage elements solidifies this assertion. Similarly, the content under considerations, such as offered services (telecommunications for businesses) and customer engagement policies, align well with what one would expect from a webpage owned by a business-focused telecommunications company like SFR Business. Thus, all provided HTML text data centralize around and reinforce the identification of SFR Business as the branded entity.",
+        "Url": "https://www.sfrbusiness.fr/sfr-politique-de-protection-des-donnees-personnelles.html?eff_cpt=22931728&eff_pr1=**id_bat**"
+    },
+    {
+        "Folder Hash": "8265aae7b50ade829d3ac265f082cbe64ce1aa752aa7cad3f3ebe8e87caf69b9",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand identification for this webpage is clearly Netflix, based on several pieces of evidence from the HTML information provided. The title of the webpage is \"Netflix,\" which is often the most straightforward indicator of a website\u2019s brand. Additionally, the favicon is named \"netflixico.png,\" which further supports the brand identity as it uses the brand name directly within the file name. The footer text contains multiple references consistent with known Netflix services and offerings, such as \"Only on Netflix,\" \"FAQ,\" \"Media Centre,\" and \"Investor Relations,\" further solidifying the connection to Netflix. Moreover, the footer and span text specifically mention \"Netflix India,\" pointing directly to the regional variant of the Netflix service. The headers and paragraphs text further reinforce this with typical Netflix-related content about watching shows offline, creating profiles for kids, and features available across various devices like smart TVs and PlayStation. The consistent repetition of services, references, and corporate elements related to Netflix across different sections of the webpage underscores the strong likelihood that this webpage is indeed owned or officially associated with the Netflix brand.",
+        "Url": "https://beyon-d-yadhu.github.io/Netflix/"
+    },
+    {
+        "Folder Hash": "a26025419c72baf42631231b435e27ec7438f50d1d6ba41dcc918cdcc9782d23",
+        "Brand": "DHL Express",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The brand for the analyzed webpage is identified as DHL Express. This is established primarily based on the footer text, which explicitly states \"\u00a9 2023 DHL Express. All rights reserved.\" Additionally, the favicon URL contains 'dhleoyssa.com', suggesting a connection to DHL Express, although the use of 'dhleoyssa.com' itself isn't immediately recognizable as DHL's standard domain. The content context revolving around an 'Employee of the Year' event, frequently mentioning travel arrangements led and paid for by DHL Express (\"...will be covered by DHL Express.\") in the paragraphs_text section further hints at this. Repeated references to DHL, the branding alignment in communication (awards, emails from dhl domain), and other supporting evidence from the text content solidify the conclusion that the webpage is related to or officially run by DHL Express, specifically targeted for their internal 'Employee of the Year' event in the Sub-Saharan Africa region, as hinted by SSA in the email domain 'dhleoyssa.com'. Thus, the conclusion that this webpage is associated with DHL Express is made with high confidence.",
+        "Url": "https://www.dhleoyssa.com/"
+    },
+    {
+        "Folder Hash": "aa92152333593704107b819af91676431cbdb5c445e4a9312396eaa60ee230d8",
+        "Brand": "Envaselia",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.95",
+        "Supporting Evidence": "The majority of the evidence points towards Envaselia as the brand of the webpage. The title \"Empresa de Envases - Envaselia\" prominently includes the name Envaselia, associating it directly with the webpage's identity. Further supporting evidence is found in the meta_description and throughout the footer and paragraphs_text, which continuously mention \"Envaselia\" by name, further asserting it as the primary brand dealing in packaging solutions. Various addresses and contact information provide additional corroborating details, often referencing Envaselia's operations and facilities, reinforcing its presence and operations in Spain. Additionally, the favicon URL contains 'envaselia.com,' anchoring the brand identity to the web domain. Further proof comes from the footer text explicitly stating \u201c2018 \u00a9 Envaselia S.L. Todos los derechos reservados,\u201d which confirms the legal branding as well. Although the logo alt text was not found, the overwhelming consistencies across title, meta description, footer text, and proactive references of the company across the described services and locations solidify Envaselia as the webpage's brand. The confidence score is slightly less than the maximum due to the absence of logo alt text, but the other elements overwhelmingly support the conclusion making the identification highly reliable.",
+        "Url": "https://todosonsantos.com/?gclid=EAIaIQobChMI9LK_-cjiggMVBqFaBR3h8gAXEAAYAiAAEgL7z_D_BwE"
+    },
+    {
+        "Folder Hash": "d8f30a1d70e75a4ed32fc20171e4ae06441aa98d077b3d82b697aba57a4beff7",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The evidence supporting the identification of Netflix as the brand for this webpage is substantial. Firstly, the title \"Netflix Clone\" strongly suggests the page is attempting to emulate or replicate the official Netflix site. In the absence of the meta description, favicon, logo_alt_text, footer, or nav bar content, the headers and paragraphs provide crucial branding clues. The headers mention specific features emblematic of Netflix, such as the subscription model allowing members to watch movies and TV shows, download content for offline viewing, and an interface specific for children, all consistent with Netflix\u2019s service offerings. The paragraph text goes deeper, mentioning key aspects like content variety, the absence of ads, fixed subscription fees, and support for multiple devices. It refers to Netflix directly multiple times, discusses the pricing plans in INR which aligns with Netflix's operational regions, and the ability to watch content across various devices typically associated with Netflix usage. The mention of a contact number confirms customer support which is common for a service like Netflix. The detailed description of Netflix's library, pricing models, flexibility regarding contracts, and the specifics of parental controls under Netflix Kids reinforces the identification of Netflix as the referenced brand. All this combined information corresponds directly with Netflix\u2019s known offerings and service structure, leaving no ambiguity about the brand identity of the webpage.",
+        "Url": "https://shubhamsharma20061998.github.io/"
+    },
+    {
+        "Folder Hash": "d980baaf9e0647a9529eeba4cbca9738c6558edd5389f4400a70cfc1e11d903b",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The brand of the webpage is clearly identified as Netflix, based on multiple consistent references across the HTML script elements provided. The title \"Netflix Landing Page\" directly mentions Netflix, which strongly suggests the brand identity. In addition, the footer text includes \"Netflix Originals,\" further aligning with the Netflix brand. The headers_text includes phrases typical of Netflix\u2019s promotion such as \"Unlimited movies, TV shows, and more.\", \"Watch anywhere. Cancel anytime.\", and mentions creating or restarting a Netflix membership. The paragraphs_text provides an extensive description of the types of services Netflix offers, including streaming on various devices, a subscription model, and Netflix's content such as TV shows, movies, and documentaries. This comprehensive description matches Netflix's known business model and services. Furthermore, the presence of specific content related to Netflix, including its pricing plans in Taiwan and numerous mentions of how to use Netflix's services, reaffirms the identification of the webpage\u2019s brand as Netflix. All these combined give full confidence in accurately identifying Netflix as the brand of the webpage.",
+        "Url": "https://shreeompatil.github.io/netflixmobileclone/"
+    }
+]

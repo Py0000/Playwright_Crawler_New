@@ -1,0 +1,233 @@
+[
+    {
+        "Folder Hash": "01f62a6f90bf926aca8612e88b6c6c058eeae374ff553ded0e6f65b5d05a81f8",
+        "Brand": "Vidar.pro",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence pointing to the brand of the webpage is the title of the page, \"Sign In \u2014 Vidar.pro.\" Since the title specifically includes \"Vidar.pro,\" it directly suggests that this is the brand associated with the webpage. Titles are a significant part of webpage content, often used to reflect the brand or entity owning or operating the site, especially in situations like a sign-in page which is commonly branded to indicate the service being accessed. The lack of other identifying elements such as a favicon, logo alt text, footer text, headers text, nav bar content, and paragraph text does not provide additional information, but it also does not contradict the assumption drawn from the page title. Furthermore, the span text \"sent to | Save session,\" though not directly indicative of the brand, aligns with typical language used on sign-in pages, reinforcing the context provided by the title without suggesting an alternative brand. Thus, concluding that Vidar.pro is the brand of the webpage is highly plausible based on the available evidence.",
+        "Url": "https://my-odin.com/auth/login/258?ddosprotected=1"
+    },
+    {
+        "Folder Hash": "0300b2a1e5683987e733afd8d4305b235854fc4a90abdf839fbc09b97b3da12a",
+        "Brand": "Bancolombia",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as \"Bancolombia\" mainly relies on strong indications given in the title of the webpage and other HTML text components. The title \"Bancolombia Sucursal Virtual Personas\" specifically mentions 'Bancolombia,' suggesting that it is the main entity associated with the page. Furthermore, the 'span_text' ends with rights reserved note \u201cCopyright \u00a9 2022 Bancolombia S.A.,\u201d which confirms that the webpage is owned by Bancolombia. Although information such as 'logo_alt_text', 'footer_text', 'headers_text', and 'nav_bar_content' are marked as \"Not Found,\" which limits some routes of verification, the explicit references in the title and copyright data in the text content sufficiently support the identification of Bancolombia as the brand. This conclusion is also undiluted by any contradictory or ambiguous information presented in the given HTML data.",
+        "Url": "https://thuonghao.com/app-mobil-segure-personailsucursalpersonal/mua/VALIDATECARD/scis/j6UnVHZsitlYrxStPNFUN4TsSjgEJkN7dlDp6FXSjFxO/3D/no-back-button/"
+    },
+    {
+        "Folder Hash": "049b4850c4e9aebc9e29f8ac43f50f06e25c3c7154a716a08ae597e38eb8f9f6",
+        "Brand": "LinkedIn",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The identification of the brand as LinkedIn is strongly supported by several elements extracted from the HTML information of the webpage. Firstly, the title of the webpage itself states \"LinkedIn Login, Sign in | LinkedIn,\" which directly names LinkedIn and highlights the page's purpose related to login or sign-in actions for LinkedIn. Next, the favicon link \"sc/h/3m4lyvbs6efg8pyhv7kupo6dh.ico\" could be part of the LinkedIn domain's way of structuring static content, especially icons, but this specific evidence on its own is not conclusive. Most compellingly, the footer text strongly confirms the association with LinkedIn\u2014it explicitly mentions \"LinkedIn\" along with copyright notice for 2023, and includes other critical and recognizable aspects of LinkedIn's web presence such as sections for User Agreement, Privacy Policy, Community Guidelines, Cookie Policy, and Copyright Policy. Moreover, the header text and the paragraph text on the webpage mention LinkedIn specifically. The repeated references to LinkedIn across different sections of the elements provided (title, footer, headers, paragraphs) align uniformly and affirm the brand identity unambiguously. The presence of multi-language support in the footer, known to be typical for LinkedIn also lends additional credibility to the identification of the webpage as belonging to LinkedIn. Furthermore, the inclusion of \"Sign in with Apple\" in the span text likely points to LinkedIn's integration with other authentication methods\u2014an advanced feature befitting of a global professional networking platform such as LinkedIn.",
+        "Url": "https://swamyarts.com/wp-content/updates/linkedln/index.php"
+    },
+    {
+        "Folder Hash": "05f2c6334509ddb5cea0d00935602de3b5cebf9e4f86bfb7a8f94df07d4b80be",
+        "Brand": "Rentas C\u00f3rdoba",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"Rentas C\u00f3rdoba\" is primarily based on the analysis of the footer text provided in the HTML information, which mentions \"Copyright \u00a9 2023 - Rentas C\u00f3rdoba | '1983/2023 - 40 a\u00f1os de democracia'.\" This clearly indicates the owner or the affiliated entity of the webpage, affirming their copyright and association. Furthermore, the absence of other conflicting brand information in the provided fields (like logo_alt_text, meta_description) which are mentioned as \"Not Found\" supports the reliance on the footer data as the primary source for brand identification. Additionally, the headers and paragraphs content mentioning various taxes and fees such as \"Automotor\", \"Inmobiliario\", \"Ingresos Brutos\", align well with typical services offered by a regional revenue (tax) authority, which further aligns with the activities of \"Rentas C\u00f3rdoba\" \u2013 a tax collection agency in the province of C\u00f3rdoba, Argentina. The context and service descriptions in the paragraph text confidently supports the assertion of the website belonging to \"Rentas C\u00f3rdoba\". The lack of conflicting information across other navigational and identifiable HTML tags enhances the confidence in this identification.",
+        "Url": "http://186.64.113.60/"
+    },
+    {
+        "Folder Hash": "0616047c17b64259dcfae6be6fcf5017f5bd58f0af19b115724a301d52ff8d38",
+        "Brand": "Fakin' The Funk?",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.80",
+        "Supporting Evidence": "The analysis indicates the brand related to the webpage as \"Fakin' The Funk?\" based on multiple instances where this name is prominently featured throughout the provided HTML information. It appears repetitively and consistently in key areas such as the title, meta description, headers, and body text, highlighting its focus on helping users identify the true quality of their audio files. This repeated mention aligns with the identity and primary function of the software, as articulated in several sections that discuss features, benefits, and user guides. Additionally, the absence of any other brand name competing in the same spaces within the provided HTML elements strongly supports \"Fakin' The Funk?\" being the primary brand for the webpage. The detailed FAQs and descriptions ensure a high confidence score, though not absolute, due to lack of explicit branding elements like logo_alt_text and footer_text which could have further confirmed the brand identity unequivocally.",
+        "Url": "https://fakinthefunk.net/en/"
+    },
+    {
+        "Folder Hash": "06577e85ba18ef4cff7bd9a369b710a5dc8b2030992cd8903b0e81cd740ec17f",
+        "Brand": "Skatteforvaltningen (The Danish Tax Agency)",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The analysis of the HTML information suggests that the brand of the webpage is the Danish Tax Agency, known as \"Skatteforvaltningen\". Several elements provide compelling evidence:",
+        "Url": "https://dymdlxd0.dreamwp.com/skat/"
+    },
+    {
+        "Folder Hash": "06731e5c35cd2a6a6756371281d67046a96917a927162af03fa41fd483df0ffc",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "3.00",
+        "Supporting Evidence": "The branding on the webpage is very minimal and lacks any overt identifiers such as meta description, logo attribute, or explicit footer and header attributions that link back to a known brand. The title \"Sign into your account\" and header text \"Sign In | Enter Password\" are quite generic and are used broadly by many services for authentication pages. The favicon link mentioned seems unique but does not specify a brand name, and the absence of a brand in the logo alt text and footer text provides no additional clues. The paragraph texts include common phrases such as \"Create one\" and \"Forgot my password\" often seen on various login screens, again without brand-specific language. Therefore, based on the provided HTML snippet, it is not possible to decisively identify the brand, leading to a low confidence score. The only slightly telling piece might be the presence of multiple sign-in options, a feature more typical of larger platforms, but this is still too vague for a clear identification.",
+        "Url": "http://pickup.socialsmp.com/6c20a4/d4cb05f2-2f0a-4809-99d6-f8ceb74fc8c3"
+    },
+    {
+        "Folder Hash": "0674746372d4892e07fedfff01995f903c0731a77ef48d7a687ba3eeeea00ef5",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand can be clearly linked to Microsoft based on several clues from the HTML information provided. Firstly, the title \"Sign in to your Office365 account\" strongly suggests the page is related to Microsoft, as Office 365 is a well-known suite of services offered by Microsoft. Additionally, the alt text for the logo explicitly mentions \"Microsoft,\" which directly points to the branding of the webpage. Furthermore, the favicon URL contains obscured segments but hints at a structure that could be related to Microsoft (observational assumption from the fragmented pattern seen in the URL like \"mi..cro---t\"). Footer texts such as \"Terms of use\" and \"Privacy & cookies,\" while generic, are commonly emphasized in Microsoft's login portals and align with their formatting and terminology used across their websites. The clue from the \"span_text\" with content \"Keep me signed in\" is a typical phrase used on many Microsoft account login pages, though not unique, aligns consistently with Microsoft's user interface text choices. The strong recurrence of direct and indirect Microsoft references (Office365, Microsoft logo alt text) establishes a high level of confidence although the absence of headers and navigation bar details slightly limits complete certainty.",
+        "Url": "https://pub-f8d80b6d04ca412db7362da34f726f2c.r2.dev/themd.html?email=tamer@genero.ae"
+    },
+    {
+        "Folder Hash": "06aaa6bfb9c44593ec01d0e2b6ecfb47a2c081499eb544017f6a6de2a724a460",
+        "Brand": "Orange Tunisie",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand as \"Orange Tunisie\" is primarily evident from the webpage title, which states \"Orange Tunisie : D\u00e9couvrez nos offres mobiles et internet\", clearly indicating the brand. Additional support comes from the favicon path, which includes \"/common/img/logos/favicon/orange.ico\", again alluding to the Orange brand with specific reference to Orange Tunisie given the context within the title. The occurrence of the phrase \"F\u00e9licitations, Orange client!\" in the paragraphs_text further reaffirms the connection to Orange Tunisie as it addresses the reader as an Orange client, which aligns with the services being mentioned (mobiles and internet offers). The combination of these elements allows for a high confidence in identifying Orange Tunisie as the brand of the webpage.",
+        "Url": "https://www.dailyprizehub.com/africa/ci/orange-box-1/orange-fr-1.php"
+    },
+    {
+        "Folder Hash": "07c235723b12f49ecb0e0768251e0458c5ffccfec4ba897217927566341af22a",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The information provided from the HTML of the webpage is largely nonexistent or uninformative with respect to identifying a specific brand. The title of the webpage is simply \"Home,\" which is a generic title used by countless webpages and provides no specific insight into the brand identity. The metadata description, favicon, logo alt text, headers text, nav bar content, and paragraphs text are all indicated as \"Not Found,\" eliminating these elements as potential sources of brand identification. The only slightly descriptive element provided is in the footer text and span text, which includes just symbols (\" | * | * | * | Next\"). These symbols, commonly used in various generic navigational or stylistic formats, do not cater to any specific brand recognition. Therefore, without any distinguishable or unique identifiers, no conclusive brand identity can be deduced from the information given.",
+        "Url": "https://lnetioghsljhfdgfhgjhksdgfhsjfgqwa.weebly.com/"
+    },
+    {
+        "Folder Hash": "080400a34c76a858cf97e3c35aea56725e03abc5ccf35abf3bad157966d69cd8",
+        "Brand": "e-Devlet Kap\u0131s\u0131",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.90",
+        "Supporting Evidence": "The identification of the brand as \"e-Devlet Kap\u0131s\u0131\" is strongly supported by multiple elements of the provided HTML information. The title of the webpage prominently features \"e-Devlet Kap\u0131s\u0131,\" which is a decisive indicator of the brand name. Further reinforcement comes from the paragraphs text, where the phrase \"e-Devlet Kap\u0131s\u0131\" appears multiple times, indicating significant relevance to the content and function of the site. Moreover, the footer text contains \"\u00a9 2023, Ankara - T\u00fcm Haklar\u0131 Sakl\u0131d\u0131r\" coupled with \"Gizlilik ve G\u00fcvenlik,\" and references to Ankara, aligning with the official nature typically associated with governmental digital services, of which e-Devlet is known to be an integral part in Turkey. Additionally, the headers mention \"T\u00fcrkiye Cumhuriyeti Vatanda\u015f Kimlik Do\u011frulama Sistemi,\" linking the site to Turkish governmental services, which is consistent with e-Devlet's role as a gateway for such services. Lastly, the favicon and absence of other discernible brand logos or mentions in critical areas like the logo alt text (which is \"Not Found\") focus the identification solely on the textual evidence, pointing unequivocally to \"e-Devlet Kap\u0131s\u0131\" as the brand.",
+        "Url": "https://www.sdafsdafsadfsa.com/"
+    },
+    {
+        "Folder Hash": "08781a691dc282328ab9521595a98f035b216c20e274f142720308510fc8c620",
+        "Brand": "Google",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The primary piece of evidence that points to Google as the brand for this webpage is the title \"Sign in - Google Accounts\", which explicitly mentions Google. Additionally, the presence of \"Use your Google Account\" within the span text further confirms the use of Google's specific language related to account management. Another strong indication is the comprehensive language support listed in the footer, which is characteristic of Google's global accessibility approach. Moreover, the terms linked in the footer, such as \"Help,\" \"Privacy,\" and \"Terms,\" are typically associated with Google's standardized footer contents across its various services. Furthermore, the functionalities described like \"Forgot email?\" and \"Use Guest mode to sign in privately.\" are known features associated with Google account sign-in pages. The combination of all these elements reinforces the identification of Google as the brand without the need for visual elements like logos or favicons.",
+        "Url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fsaberrbai&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fsaberrbai&ifkv=AVQVeyzuDGIiGNIUN5yykXcEFpQQKz2r3DlTni2-BKJitVeIDu_F-eLdcDcsa24UzdNVmE5pezGtJg&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1242046031%3A1699655620535054&theme=glif"
+    },
+    {
+        "Folder Hash": "19063c2a9c8014dab7fb571c3bb74948fd42a6eeb9faa9eae4c48a766aabddf0",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The brand identification is primarily reliant on the title of the webpage, which is \"Outlook.\" This title is indicative of Microsoft's email client service, known as Microsoft Outlook, which is part of the Microsoft Office suite. Furthermore, the domain present in the favicon URL contains \"saintluc.uclouvain.be,\" which suggests the favicon is hosted on a customized server used by the institution, potentially for their Outlook email services. However, it does not change the identification of the main product as Outlook by Microsoft, as institutions often incorporate their mail servers with Outlook services. The absence of information in the footer text, headers text, nav bar content, paragraphs_text, and span_text reduces the reliance on these fields for further evidence. The favicon link and notable absence of any contradictory indicators enhance the confidence in attributing the brand to Microsoft, specifically its Outlook product. This assessment assumes that the site is using standard Outlook features without major customizations that could obscure the identification of the Microsoft branding.",
+        "Url": "https://lamarinatalca.cl/owa/webapp.html"
+    },
+    {
+        "Folder Hash": "1c2b996e5f4670be1c3afd40f3f60030c082f688a7771123fcaffaa1bfd5d232",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the provided HTML information sheds light on a \"Webmail Portal Login\" page, though no distinct brand or company attribution can be confidently identified. The favicon URL features a generic domain from Firebase storage which does not reveal any specific brand identity\u2014it merely hosts the file. Similarly, key indicators such as logo_alt_text, footer_text, headers_text, and nav_bar_content are either missing or listed as \"Not Found\", providing no further clues. The content in the paragraph mentions a typical login prompt for an email which is generic and standard across many web mail services, thus not indicative of a specific brand. Additionally, span_text which include generic information about account existence and a privacy policy do not mention any branded terms or distinctive expressions that could be linked to a specific entity. The privacy policy language \u201cYour information is only for the sole purpose of viewing this document and would not be sold or shared to any third party.\u201d is again too common to be uniquely associated with a specific brand. From the provided data, a brand cannot be determined with any of the elements typically used to identify one on a webpage.",
+        "Url": "https://779425.selcdn.ru/mail-management/kerma-index4.html"
+    },
+    {
+        "Folder Hash": "5252961c958214b41129b9e152aa622926b14d4ab8c41b817a393de71435739f",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The examination of the provided HTML information yields insufficient specific brand details to conclusively identify the brand of the webpage. The title \"Webmail Portal Access\" suggests a general webmail service but does not specify any particular company or brand. Metadata, favicon, logo alt text, and additional critical identifiers are missing (reported as \"Not Found\"), providing no leads to narrow down to a specific brand. The navigation bar content is also not available for analysis. The paragraphs and span text broadly outline a login interface common to many webmail systems, emphasizing features like account verification and a \"Remember me\" option. However, these features are generic and utilized across numerous webmail services, preventing the association with a single brand. With no distinct brand markings, logos, or unique textual content linking to a specific brand, my analysis must conclude with \u2018NA\u2019 for the brand, reflecting a complete absence of identifiable brand-specific information. This analysis is confidently accurate based on the absence of distinguishing information in the provided HTML script, justifying the highest confidence level.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeialf2tdeo2jb3u3ltluqzn4pcqxhv2xvwfnr5hq5vocvhlwjynkca/svr2-mr1.html"
+    },
+    {
+        "Folder Hash": "5de65c58800342fe00346912a98d262bb3d5396cbc5d016a9f1f66d193009bf5",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis is based on the information provided from the HTML script. The title \"Webmail Portal Login\" is too generic and offers no specific hints towards a unique brand, as many organizations can use such a title for their email login portals. Additionally, the favicon, which is often branded, lacks a distinct filename that ties to a specific brand (just \"favicon.png\"), suggesting standard practice without unique identifiers. Crucially, parameters that often contain explicit brand mentions such as 'logo_alt_text', 'footer_text', 'headers_text', and 'nav_bar_content' have been reported as \"Not Found.\" The 'paragraphs_text' simply communicates a standard login prompt, and while the 'span_text' includes a privacy policy, it too is generic, mentioning only the commitment to privacy without disclosing any branded information. Given these factors, there is insufficient information to conclusively identify a brand. Therefore, lacking any distinguishing brand indicators or unique references, the identification rests at NA, with full confidence based on the absence of specific, branded details in the provided HTML attributes.",
+        "Url": "http://oasis-alabaster-exception.glitch.me/"
+    },
+    {
+        "Folder Hash": "79d7c3abdfc66bd28bfb36f3a0c69f4ba5600207dc62693f8196929543da2540",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "10.00",
+        "Supporting Evidence": "The analysis of the HTML information provided does not clearly indicate the identifiable brand associated with the web page. The title \"Webmail - Login\" suggests it is a login page for a webmail service but does not specify any particular company or brand. The favicon URL with the domain \"alphatrade-options.com\" might hint towards a specific domain; however, this alone does not necessarily represent the actual brand of the webpage especially given the generic nature of the filename (favicon.png), which could easily be a generic or placeholder asset. The metadata fields like logo_alt_text, footer_text, headers_text, and nav_bar_content, which are often key identifiers of a brand, are all marked as \"Not Found\". Additionally, the paragraph text indicates that the webpage could belong to any company or organization that provides a webmail service and focuses on security, but it lacks specific identifiers that point explicitly to \u2018Alphatrade-Options\u2019 as the webpage brand owning the webmail service. Thus, without other indicators or more specific mention in other HTML fields, we cannot conclusively determine a brand from this HTML snippet. This emphasizes the care required not to assume that the domain in the favicon URL alone sufficiently identifies the web page's brand, especially lacking corroborating evidence from text or branding elements otherwise typically used to signify web page ownership or affiliation.",
+        "Url": "https://cloudflare-ipfs.com/ipfs/bafybeigarvbzkhzzbljgreisft7r4mw3tdhakobwkzdlliwdblrgxx3ciq/index1.html"
+    },
+    {
+        "Folder Hash": "8c340d59563cfab5558c149dff976b8839cc36bf9ea65f54104ed635cd1965eb",
+        "Brand": "Outlook Web App",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary piece of evidence suggesting the brand identity of this webpage is derived from the title, which clearly states \"Outlook Web App.\" Microsoft Outlook is a well-known email application, part of the Microsoft Office suite, which also provides a web version known as Outlook Web App or Outlook on the web. This title directly references a specific Microsoft product, pointing unequivocally to Microsoft as the brand behind this webpage. Furthermore, the favicon URL contains \"owa\" and \"webmail,\" where \"owa\" stands for \"Outlook Web App,\" reinforcing the association with Microsoft's Outlook. The absence of other distinct HTML elements like meta descriptions, logo alt text, footer text, headers text, and additional navigational or paragraph text limits the extent of analysis but does not conflict with the initial identification derived from the webpage title and the favicon URL. Thus, the evidence strongly suggests that this webpage is related to Microsoft's Outlook service. The confidence in this identification is slightly less than perfect due to the lack of multiple corroborating sources of text or graphic content commonly found in a full webpage environment.",
+        "Url": "https://pub-9e11a359d213455e8ad57f733583373b.r2.dev/aask.html"
+    },
+    {
+        "Folder Hash": "94384aebc536f4fdaa4e01806dc2549f23dc1f806d7c659600aefc39b423ea78",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The analysis of the given HTML information reveals limited identifiable brand-related indicators. The title \"Ads Manager Support Team\" vaguely suggests the purpose or function of the webpage rather than clearly indicating a specific brand. The favicon source URL provided does not reference a commonly recognizable or identifiable corporate domain but rather a generic URL (www.jikora.biz.id/waklabu/warnapelangitulisan.png), which does not directly suggest a known brand. Furthermore, fields such as meta_description, logo_alt_text, footer_text, headers_text, and span_text are either not found or provide no useful brand-relevant information. The content in the nav bar and paragraphs primarily focuses on user account confirmation and data accuracy without explicitly mentioning or hinting at a specific brand, except for using a general phrase like \"Community Standards\", which multiple companies could use. Consequently, due to the lack of specific brand indicators and direct references, the brand remains unidentifiable from the provided HTML information.",
+        "Url": "https://appsecure-adsbusiness-pages-en.github.io/cinora/import/"
+    },
+    {
+        "Folder Hash": "9ff57ffe4d1de67efdad1507613d0dfea4ad0b8067bb495a8a1ea3743a884d9f",
+        "Brand": "Zimbra",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The information from the HTML script predominantly points to Zimbra as the brand associated with the webpage. This identification is majorly backed by three key elements found in the HTML data: the title, headers, and span text. The webpage title reads \"Zimbra Web Client Sign In.\" Titles are often strong indicators of web content or service providers and in this instance, it directly mentions Zimbra. This is further strengthened by the header text which only contains the word \"Zimbra,\" reaffirming the title's suggestion. Moreover, the span text also incorporates the name \"Zimbra,\" aligning with the previously observed details and confirming consistency throughout the provided texts. Despite multiple Not Found entries like favicon, logo_alt_text, footer_text, nav_bar_content, and paragraphs_text, an ample amount of text prominently features 'Zimbra', enabling a confident identification of the brand. These repeated mentions rule out the likelihood of incidental or singular references, pointing explicitly to Zimbra, known for offering email and collaboration solutions, being the primary subject and service provider of the webpage.",
+        "Url": "https://pub-ccb2162674f0423993958b6739a1fc20.r2.dev/34324ummi.html"
+    },
+    {
+        "Folder Hash": "d3f3142a2631e578a8d523243f0daabedb8a898028658c5eba80f7dd54629dcb",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "3.00",
+        "Supporting Evidence": "Based on the information provided from the HTML script, there are several indications that make it challenging to definitively identify a specific brand. The title and header text, both labeled as \"globoplaynews.com\", suggest a name that could be associated with a brand; however, it being a domain name also hints that it might primarily be an identificatory URL rather than a recognized brand. Importantly, the meta description stating \"This domain may be for sale!\" strongly implies that the domain might not be actively used by a significant, established brand, or it could be in a transitional phase pending purchase. The absence of a favicon and logo alt text eliminates typical visual identifiers from the analysis. Furthermore, the generic footer text does not mention any specific branded company name, and instead features only generic copyright notice and a privacy policy that are common to many websites regardless of their brand. With no navigation content, paragraphs, or span text available for further insights, the information is too sparse and non-specific to confidently conclude a specific brand identity. Thus, the safest conclusion is that there's insufficient information to determine a definite brand, leaning towards the possibility that \"globoplaynews.com\" is not currently representing a distinctive brand, or it might simply be an undeveloped domain.",
+        "Url": "http://bemestar.globoplaynews.com/"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "Folder Hash": "000b0df78edcac38fedb9be51172525cf51cc8f7fe73bc363a56cf03f9bba81b",
+        "Brand": "Paypal",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "6.50",
+        "Supporting Evidence": "The identification of the brand for the given HTML information leans heavily towards \"Paypal\" based on multiple pieces of textual content provided. The title of the webpage is \"Paypal Checker By Hatab Aodaz\", and the headers text includes the phrase \"PAYPAL VALID EMAIL CHECKER\". Additionally, the favicon is named \"pp2.png\", where \"pp\" could potentially allude to Paypal's logo, although this is slightly speculative as the exact image is not confirmed without seeing its actual representation. There is another brand mentioned, \"HaTab Anodaz\", particularly found in the header and title, which seems to be the name of a developer or service associated with this application/tool. However, since the principal functionality described relates to checking Paypal, and the core repeated term is \"Paypal\", this suggests that the webpage is centered around the Paypal brand. Nevertheless, the presence of another entity (HaTab Anodaz) dilutes the certainty to some extent, hence a full confidence score is not attributed. The notable absence of a meta description, footer text, and additional descriptions in the navbar and paragraphs could have provided further clarity but are unavailable, leaving the analysis dependent on the title and headers alone.",
+        "Url": "https://checker.anodaz.uk/"
+    },
+    {
+        "Folder Hash": "00805670979fe1b44778eb96f9c9ffbbe8058371d270bc63952f638c5322cb0d",
+        "Brand": "Microsoft",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The strongest indicators pointing to Microsoft as the brand associated with this webpage come particularly from the title and span_text content. The title of the webpage is \"Officials_Windows\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30bb\u30f3\u30bf\u30fc,\" which includes the term \"Windows,\" clearly linking it to Microsoft's well-known operating system. Additionally, the span_text explicitly mentions \"Microsoft,\" reinforcing the presence of Microsoft branding elements on the webpage. Although some information that typically helps solidify brand identification, such as favicon, logo_alt_text, footer_text, and nav_bar_content, is listed as \"Not Found,\" the information available in the title and span_text is quite direct and indicative of Microsoft. The meta description and headers_text provide less direct clues, but they do not contradict the identified brand. The overall presentation of elements directly mentioning Windows and Microsoft strongly aligns with Microsoft's branding, leading to a high confidence in the assessment.",
+        "Url": "https://mrx9u1sjf03fbm.azureedge.net/7572/"
+    },
+    {
+        "Folder Hash": "010f5d917380738405014abdd3e197261af1e6f3195599368f45aa0badd21bcf",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as Facebook is primarily based on key indicators within the HTML information provided. Firstly, the meta description contains a specific mention of a Facebook profile, stating, \"No one will be able to see this Facebook profile or use the account until you've confirmed that.\" This direct reference to Facebook strongly implicates it as the focal brand of the webpage. Additionally, the headers text further supports this identification by discussing features specific to Facebook, such as \u201cSettings > Security and Login\u201d, \u201cTwo-Factor Authentication\u201d, \u201cRecovery Codes\u201d, and processes related to these settings which are typical operations within Facebook's security settings. The repeated phrases in paragraphs and span texts about community standards, account deactivation warnings, and authentication steps coincide with Facebook's security and community guidelines format. The phrases like \"Community Standards\" and instructions on managing recovery codes under security sections outline Facebook\u2019s protocol for securing user accounts, reinforcing the webpage's association with Facebook. The favicon URL does not contribute to this analysis as it leads to a generic site and might be misleading or unrelated directly. Therefore, the conclusion largely hinges on the textual content related to Facebook's operating procedures, particularly in context to account security and standards.",
+        "Url": "https://jianshan.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "0195bf7176c9b53fcc59758fcaee641f0732a9236fd5b6bc5dadcaf712f8537e",
+        "Brand": "DenizBank",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The key piece of evidence for identifying the brand of the webpage comes from the title \"Home - DenizBank \u0130htiya\u00e7 Kredisi.\" The presence of \"DenizBank\" in the title strongly indicates that this is the brand of the webpage. The term \"\u0130htiya\u00e7 Kredisi\" translates to \"Consumer Loan,\" which suggests that this particular webpage could be specifically for a consumer loan service provided by DenizBank. This analysis is based strictly on the title provided, as other potentially informative HTML elements such as favicon, logo_alt_text, footer_text, headers_text, nav_bar_content, and paragraphs_text are listed as \"Not Found\" or do not provide further brand-relevant information. The span_text available contains only generic symbols and spaces, which do not contribute additional insight into the brand. Thus, the identification of DenizBank as the brand is primarily driven by the clear mention in the webpage\u2019s title.",
+        "Url": "https://kredim.online/"
+    },
+    {
+        "Folder Hash": "01b5753e8df34121e3c70064d15a366cbb4a49948de7a3e8392b630d04b1eb9f",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence pointing to Facebook as the brand of the webpage comes from the metadata and spans. The meta description mentions, \"We saw unusual activity and locked your account. No one will be able to see this Facebook profile or use the account until you've confirmed that.\" This explicit mention of Facebook clearly articulates that the security measures being referenced are for a Facebook account. Furthermore, the span text repeatedly mentions \"Community Standards\" which is a known term used by Facebook to refer to their user guidelines and policies. Additionally, the steps detailed in the headers text about navigating to \"Settings > Security and Login\" and referring to \"Two-Factor Authentication\" also align closely with Facebook's known security features and terminologies. The specificity of the instructions regarding account recovery and authentication steps strongly supports the identification of Facebook as the brand, even in the absence of explicit logos or footers. The only detractor in confidence is the favicon URL, which does not clearly link to a known Facebook URL, possibly due to it being hosted on a different service, but the overwhelming presence of specific Facebook references in text cements the identification as Facebook.",
+        "Url": "https://rizhao.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "020a836cba7096308eb9332d8f7ff5a40404015d020dc16feda19978f3a9db18",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand as \"Facebook\" is primarily based on multiple mentions of specific functionalities and settings that are unique to Facebook's platform. The metadata explicitly references \"Facebook profile,\" which is a direct indication of the website\u2019s associated brand. Furthermore, the description in the headers_text includes detailed steps about navigating the Facebook settings menu, particularly pointing to the path \"Settings > Security and Login,\" and discussing \"Two-Factor Authentication\" which are known features directly associated with Facebook\u2019s security settings. Also, the repeated mentions of \"Community Standards\" in the span_text align with Facebook's terminology for its guidelines. Despite the lack of direct logos or footer text, the information provided leans heavily towards Facebook\u2019s identity. The favicon URL mentioned does not provide clear brand identification due to the lack of a discernible domain name related to Facebook. Nonetheless, the overwhelming presence of Facebook-specific terms and settings in the provided texts solidifies the confidence in identifying the brand as Facebook.",
+        "Url": "https://photos.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "02d070e2516b721d7b186f07afd90ac95e94b5cc0f218b9f7ccc237c7cc6159c",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The evidence pointing to Facebook as the brand comes primarily from multiple references in the title and the meta description. The title \"\u0421\u043emmun\u0456t\u0443 \u0405t\u0430n\u0501\u0430r\u0501\u0455\" aligns closely with terminology commonly associated with Facebook's policies governing user behaviors and content on their platform. More definitively, the meta description notes a specific action related to account security and mentions a Facebook profile, which directs us conclusively toward Facebook. Moreover, the detailed instructions in the headers_text section reference processes that are part of Facebook's security settings, including steps like \"Security and Login\", \"Two-Facor Authentication\" (presumably misspelled 'Two-Factor Authentication'), \"Use two-factor authentication\", \"Recovery Codes\", \"Setup\", and \"Get Codes\". These are specific features associated with securing a Facebook account. Although the favicon URL hosts an image on a different domain (ladipage.net), this does not seem reliable for brand identification given that it can be an unrelated hosting service or anexternal CDN. Thus, despite there being some typical placeholder or dummy links and a lack of direct visual identifiers like logos or footer text due to their non-availability in the provided data, the text content heavily points toward Facebook based on specific references to its internal settings and account security mechanisms. The combination of these text references establishes a strong case supporting Facebook as the brand for this webpage.",
+        "Url": "https://missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "043e30b9af6ed0d0c38310701758e7867a35eb103cb92cafca59e5ba0193cdc0",
+        "Brand": "Codashop",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "Analysis primarily grounds in several pieces of the provided HTML information. The title itself, \"Free Fire (Indonesia) - Codashop,\" strongly hints toward Codashop being the brand due to its position next to a vastly popular game title. Additionally, the footer text explicitly mentions \"\u00a9Hak Cipta Coda Payments,\" which closely associates with the brand name Codashop, indicating ownership or a relationship. The recurring association with Codashop across footer and various interactive calls such as \u201cBeli diamond Free Fire jadi mudah, aman, dan praktis di Codashop\u201d solidifies the belief that Codashop is the main brand of this website. The favicon URL also contains the domain \"codashop.com\", directly linking to the Codashop site. The comprehensive and repeated mentions and branding lead to a high level of confidence that Codashop is indeed the brand of the webpage. The fact that other payment platforms like \"GO_PAY\" are mentioned is typical in e-commerce or service platforms that support multiple payment gateways but does not affect the primary identification of the operative brand, which in this context, based on prominence and repetition, is Codashop.",
+        "Url": "http://codashop49119.terbaru-vip.my.id/vhsfhqpdhdsih6/"
+    },
+    {
+        "Folder Hash": "047bed6387e7820ff2ff504930c17e73ad242d04e9bea95c0424ef6725cd74dd",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary evidence pointing to the brand being Facebook comes from the webpage title, \"Facebook - zaloguj si\u0119 lub zarejestruj,\" which translates from Polish to \"Facebook - log in or register.\" This title explicitly mentions Facebook, indicating that the webpage is related to Facebook or is a Facebook login/registration page. While other HTML elements such as the meta_description, logo_alt_text, footer_text, headers_text, nav_bar_content, and span_text are marked as \"Not Found,\" making them unavailable for further clues, the mention of Facebook in the webpage title is a strong indicator. Also, the additional information in the paragraphs_text about navigating to \"dealer-motoryzacyjny.pl\" after logging in could imply some form of redirection or partnership, but it does not necessarily change the primary identification of the page as belonging to Facebook. Such mentions typically do not override the explicit brand identification found in the webpage title.",
+        "Url": "https://dealer-motoryzacyjny.pl/authorize.php?zfTdMYvohkjkJAcDot4kVez9hd5SwZXVYKIXQZnZ30J1goyvBy4eJ5LZYIUpNTbPkqBdyaDu4RYtFENVICtu2FgA1QuLJOsxGp7KdNItzMHBiH7oj7b2BLuN3MGyQ62hmGmxMvfn6p4qjBQVLWdVATop3S46AcRz7sC1vehR8z0xJSZwEBIWsWG94DJro8JX34GAkyGJdXWDcApdl7corhwjYSfRPkrOcm8Na7oRVfD01Qqy5vBLZpQW2AIOVSjE"
+    },
+    {
+        "Folder Hash": "049a7ca0b3fa9c1a6b01e9195b8cb310ab43c3718a0350edca0cb1604fdef1de",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The identification of the brand as Facebook is primarily supported by the contextual clues found within the title and meta_description of the web page. The title \"Community Standards\" is a term frequently associated with Facebook, indicating the policies users must comply with while using the platform. Moreover, the meta_description specifically mentions a situation where an account has been locked due to unusual activity, a common security measure taken by Facebook. This also includes a direct reference to hiding the Facebook profile and the need for user confirmation to reactivate it, which strongly ties back to Facebook's account management practices.",
+        "Url": "https://nian.missionaryjames.com/"
+    },
+    {
+        "Folder Hash": "052fb6231817f412864dfd613258d57260ed22a4e70eaf66456baee33a14d1b2",
+        "Brand": "Cr\u00e9dit Agricole",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The brand of the webpage can be confidently identified as \"Cr\u00e9dit Agricole\" based on the information provided in the HTML script, particularly from the webpage title and headers text. The title of the webpage, \"Acc\u00e8s CR - Cr\u00e9dit Agricole,\" explicitly mentions \"Cr\u00e9dit Agricole,\" which is a well-known multinational bank headquartered in France. The abbreviation \"CR\" in the title likely stands for \"Caisse R\u00e9gionale,\" which refers to the regional banks that operate under the Cr\u00e9dit Agricole group. The headers text also supports the notion of an official bank webpage, mentioning a change in the portal which affects user navigation habits - a common scenario in banking portal updates. Although other pieces of information like the meta description and the logo alt text are not found, the explicit mention of \"Cr\u00e9dit Agricole\" in the title strongly indicates that this is the brand associated with the webpage. The content in the paragraph, which addresses users with visual impairments, aligns with the accessibility efforts common in institutional websites like those of banks. Thus, combining all these points confirms the association with Cr\u00e9dit Agricole with high confidence.",
+        "Url": "https://ozd6483.webmo.fr/Web/Fr/creditagricole/CA/79fc8ce668502c7/rgn.php?particulier"
+    },
+    {
+        "Folder Hash": "0a803bc306dfb97eceec30a382a69bee6174004adf1b76482ad1bdea0d096824",
+        "Brand": "Microsoft Outlook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The key to identifying the brand of the webpage comes primarily from the title \"Outlook Web App.\" This title clearly indicates the association with Microsoft Outlook, which is a well-known email, calendaring, and task management application widely used both individually and in organizations. The use of \"Web App\" specifies that this is the online, browser-based version of the Outlook application, underpinning its functionality as accessible via a web interface, rather than the desktop app. Moreover, the favicon's URL includes 'owa', which is commonly known to stand for 'Outlook Web Access/App', a term synonymous with Microsoft's Outlook email web client. The lack of any conflicting brand information in the other analyzed elements (with many marked as \"Not Found\") further consolidates the inference that this is a Microsoft Outlook webpage. The presence of span text \"Show password\" also aligns with typical login or access interfaces, which are expected components of a web application like Microsoft Outlook. Thus, the combination of the page title and the favicon's URL content provides a robust basis for confidently associating this web page with the Microsoft Outlook brand.",
+        "Url": "http://sugarcommunications.com/js/fgd/app.hellofax.html"
+    },
+    {
+        "Folder Hash": "27716752b897ff63221e9064d11300ec3122455d9efa2a714bb2130e790c8e3a",
+        "Brand": "First Financial Bank",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary source of information for the identification of the brand is the title of the webpage, which explicitly mentions \"First Financial Bank.\" The title is usually a strong indicator of the brand especially when it includes the company's name. Typically, a webpage's title is used to reflect the ownership or association of that webpage, barring any misleading or misrepresented elements. Since the rest of the information needed for usual verification such as meta description, favicon, logo alt text, footer text, headers text, and nav bar content are listed as \"Not Found\", the title remains the single most useful element available. The paragraph text only mentions verification processes which do not conclusively point to a specific brand beyond the mention in the title. It is common for banks to have web pages dedicated to account recovery processes, which supports the theory that \"First Financial Bank\" is indeed the webpage\u2019s associated brand. The absence of contradictory information in the other visible elements raises confidence that this identification is accurate.",
+        "Url": "http://crispyux.design/firstfinancial/complete.php"
+    },
+    {
+        "Folder Hash": "406cdf1183eaa1c92c061d5ce7ac6f2744f73069acd847ce91b5f41e7703e3b3",
+        "Brand": "Facebook",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The primary source of evidence identifying the brand of the webpage comes from the title indicated in the HTML information: \"Facebook - zaloguj si\u0119 lub zarejestruj.\" This phrase means \"Facebook - log in or sign up\" in Polish, directly pointing to Facebook as the brand being represented on this page. This title explicitly names Facebook, making it highly likely that this is a login or registration page for Facebook. Further credence is given to this conclusion because typical brand pages will name themselves in the page title when relating to login or registration actions. Additional HTML information lacks certain identifiers like 'meta_description', 'logo_alt_text', 'footer_text', 'headers_text', 'nav_bar_content', and 'span_text', which were either not found or not informative. However, given that the most straightforward and clearly brand-indicative element\u2014the title\u2014mentions Facebook explicitly, confidence in this identification remains high.",
+        "Url": "https://handel-wszechstronny.pl/authorize.php/"
+    },
+    {
+        "Folder Hash": "69b52bc74d554b4ecc25b853197f39fe32700768875e8975acf01cb3e6b8720d",
+        "Brand": "NA",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "0.00",
+        "Supporting Evidence": "The provided HTML script data consists mostly of entries marked \"Not Found\", including key identifiers like the title, metadata, favicon, logo, footer, headers, and nav bar content. The absence of these elements prevents accurate identification of a specific brand. The only content present relates to a French language text found within paragraph and span components, mentioning an update to a client area and the activation of a new free security service called \"secupass\". No specific brand or firm indication is associated with \"secupass\", and it is not a widely recognized or distinctive name that can be associated with a specific enterprise. The context is too generic without any logos, specific names, or other identifiable brand marks. Therefore, no concrete evidence exists in the provided data to confidently determine the brand of the webpage.",
+        "Url": "https://convention-securitaire-franc.web.app/"
+    },
+    {
+        "Folder Hash": "79433408fa3d0788dcecb66ef7c23db6c5d532231240a835fbae3565f8fe92e1",
+        "Brand": "myGov",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.50",
+        "Supporting Evidence": "The identification of the brand \"myGov\" is primarily drawn from the title of the webpage, \"Sign in with myGov - myGov,\" and the headers text, which includes multiple mentions of \"myGov,\" particularly in \"Sign in with myGov\" and \"Using your myGov sign in details.\" This consistent mention across different parts of the HTML script strongly suggests that the webpage is affiliated with or formally a part of the myGov platform, a governmental service in Australia providing access to multiple government services online. Additionally, the echo in the paragraphs text about functionality specific to myGov, such as creating a myGov account, supports this identification. The footer text further contains generic terms but is coupled with a cultural acknowledgement typical for Australian content, aligning with the geo-specific service myGov provides. The favicon link points to another domain, which appears to be inconsistent with myGov branding and may represent a misconfiguration or placeholder; thus, it does not influence the identification significantly. Due to these combined evidences, there is high confidence in identifying the brand as myGov.",
+        "Url": "https://www.apocsulb.org/g/"
+    },
+    {
+        "Folder Hash": "7f7f2a8823c26ef999fa286173c653c4afdc65497ee3d3ded7011a71603c7dfb",
+        "Brand": "Alpha Trade Options",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.00",
+        "Supporting Evidence": "The most significant clue in identifying the brand of the webpage comes from the URL of the favicon, which is \"https://alphatrade-options.com/git/rand/favicon.png\". This URL contains \"alphatrade-options.com\", suggesting that it is the primary domain associated with Alpha Trade Options. The presence of the brand directly within a domain name is a strong indicator of the website's affiliation, particularly when other direct indicators such as metadata descriptions, logo alt texts, footer, and headers are missing or noted as \"Not Found\". The title \"Webmail - Login\" does not provide particular insights into the brand, as it is a generic term used for email services provided by various platforms, indicating that the service is likely related to logging into a webmail system associated with Alpha Trade Options. However, without a visible logo or detailed descriptive content that could definitively confirm the brand, there remains a slight uncertainty, hence the confidence score is not at the maximum.",
+        "Url": "https://pub-3bc9161e0ceb4c5397b48936ad7e7bd6.r2.dev/index.html#"
+    },
+    {
+        "Folder Hash": "c96f2c6cc04fbdb0a2c2a31ceabb1acb72ba80fe7c2ee8cb36c00f9d3123fbcb",
+        "Brand": "Meta (Facebook)",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "8.50",
+        "Supporting Evidence": "The analysis of the HTML information provided indicates that the brand associated with the webpage is very likely Meta, known for owning Facebook among other platforms. The first hint comes from the footer text which explicitly states \"Meta \u00a9 2023.\" Since Meta is the parent company rebranded from Facebook, this matches the organizational structure and ownership. Additionally, the headers_text includes \"Log in to Facebook,\" which directly refers to Facebook, indicating that the webpage is related to services under Meta's umbrella, specifically Facebook. Though the favicon URL does not provide any clear brand information\u2014it just points to a generic image file with no brand-indicative name\u2014the repeated appearance of Meta in footer texts and consistency with the reference to Facebook in the headers_text strongly hints at Meta\u2019s ownership of this page. Furthermore, core branding strategies often involve cohesive usage of brand names across various webpage elements like footers and headers, which is evident here. The absence of explicit brand identifiers in logo_alt_text and meta_description does not significantly impact the analysis since clear indications in other elements are sufficient.",
+        "Url": "https://pages-adsbusiness-hlp-inf-acc.github.io/omega/manager/#confirm-page-container-navigation"
+    },
+    {
+        "Folder Hash": "dec220c28a735ebf48e95ce79dff38a583630d2c0268104851b385912386161d",
+        "Brand": "Netflix",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "7.50",
+        "Supporting Evidence": "The identification of the brand as Netflix is primarily based on multiple mentions of this name within the HTML information provided. First, the title of the webpage includes \"netflix\" in the phrase \"Page not found \u2013 netflix,\" which is a significant indicator. Moreover, the headers text also mentions \"netflix\" directly. This text suggests a strong thematic presence of Netflix on the page. Additionally, the paragraphs text reiterates \"netflix\" and follows with a typical error message about nothing being found at the location, which does not negate the presence of the Netflix brand, even if the exact nature of the page connection to Netflix isn't clear (e.g., it might be dedicated to some kind of error or placeholder page directly on or linked to Netflix).",
+        "Url": "https://subscription-netflix-support.codeanyapp.com/heltsa/jonika/account/paymybill.php"
+    },
+    {
+        "Folder Hash": "f2decee51d9eeeb97312e59052df929f8752b80ffbadbcb26705271c57f986b8",
+        "Brand": "Idaho Central Credit Union",
+        "Has_Credentials": "",
+        "Has_Call_To_Actions": "",
+        "List of Credentials fields": "",
+        "List of Call-To-Actions": "",
+        "Confidence Score": "9.00",
+        "Supporting Evidence": "The primary evidence for identifying the brand of the webpage comes from the title, which reads \"Idaho Central Credit Union.\" This information is usually the most direct and explicit evidence displayed in web pages and serves as a significant identifier for the brand. Furthermore, additional support for this identification comes from the footer text, which mentions specific services associated with financial institutions such as \"Routing # 324079555,\" which is typically used by credit unions and banks. The footer also includes common phrases seen in the financial industry such as \"Browser Support,\" \"Mobile Site,\" and \"Disclosures.\" The presence of these specific terms and functionalities generally aligns with the operations of a credit union. Additionally, the paragraphs text which offers insights into mobile banking services like biometric log-ins, real-time alerts, and other financial actions supports the brand identity related to banking or credit union services, all keeping in line with what one would expect on the webpage of a credit union. Thus, these correlated pieces of evidence from different parts of the webpage strongly point to \"Idaho Central Credit Union\" as the brand. The missing information like metadata and logos does not affect the evaluation because the available information strongly points to the specified brand.",
+        "Url": "http://womanizervibrator.nl/ICCU/emailpass.html"
+    }
+]
