@@ -83,12 +83,12 @@ class GeminiProBaseline:
             response = self.model.generate_content(model_prompt)
             response.resolve()
             if not response.parts:
-                data = self.response_parser.format_model_response(hash, str(response.candidates), is_error=True)
+                data = self.response_parser.format_model_response(hash, str(response.candidates), is_error=False, is_safety_triggered=True)
             else:
-                data = self.response_parser.format_model_response(hash, response.text, is_error=False)
+                data = self.response_parser.format_model_response(hash, response.text, is_error=False, is_safety_triggered=False)
             return data
         except Exception as e:
-            data = self.response_parser.format_model_response(hash, str(e), is_error=True)
+            data = self.response_parser.format_model_response(hash, str(e), is_error=True, is_safety_triggered=False)
             print(e)
             return data
     
@@ -147,7 +147,7 @@ if __name__ == '__main__':
     folders = Constants.PHISHING_FOLDERS_VALIDATED_OCT + Constants.PHISHING_FOLDERS_VALIDATED_NOV + Constants.PHISHING_FOLDERS_VALIDATED_DEC
     if args.phishing_mode == "benign":
         folders = Constants.BENIGN_FOLDERS_VALIDATED
-
+    
     gemini_baseline = GeminiProBaseline(mode, args.prompt_version)
     for few_shot_count in ["0"]:
         for folder in folders:

@@ -10,9 +10,11 @@ class LLMResponseParser:
         except:
             return ""
     
-    def format_model_response(self, folder_hash, response_text, is_error):
+    def format_model_response(self, folder_hash, response_text, is_error, is_safety_triggered):
         if is_error:
             brand = has_credentials = has_call_to_actions = list_of_credentials = list_of_call_to_action = confidence_score = supporting_evidence = "Error Occurred"
+        elif is_safety_triggered:
+            brand = has_credentials = has_call_to_actions = list_of_credentials = list_of_call_to_action = confidence_score = supporting_evidence = "Safety Reasons"
         elif "payload size exceeds the limit" in response_text:
             brand = has_credentials = has_call_to_actions = list_of_credentials = list_of_call_to_action = confidence_score = supporting_evidence = "Payload exceeds limit"
         elif len(response_text) == 0:
